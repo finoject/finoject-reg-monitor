@@ -9,6 +9,14 @@
   *{ box-sizing:border-box; }
   body{ margin:0; background:var(--bg); color:var(--fg);
     font-family:"Segoe UI","Hiragino Sans","Meiryo",sans-serif; -webkit-text-size-adjust:100%; }
+  #portal{ background:#0e1626; border-bottom:1px solid var(--line); padding:8px 18px; font-size:13px; }
+  #portal .wrap{ display:flex; gap:16px; align-items:center; }
+  #portal .pcur{ color:#fff; font-weight:700; }
+  #portal a{ color:#9fb4d6; text-decoration:none; }
+  #portal a:hover{ color:#7fb0ff; text-decoration:underline; }
+  .ref{ flex:none; display:inline-block; font-size:11px; margin-top:2px; padding:2px 8px; border-radius:6px;
+    background:#13243f; color:#8fd0ff; border:1px solid #2b66c0; text-decoration:none; white-space:nowrap; }
+  .ref:hover{ background:#1c3a63; color:#cfe7ff; }
   header{ position:sticky; top:0; z-index:5; background:rgba(11,18,32,0.95); backdrop-filter:blur(8px);
     border-bottom:1px solid var(--line); padding:14px 18px; }
   .wrap{ max-width:880px; margin:0 auto; }
@@ -36,6 +44,10 @@
 </style>
 </head>
 <body>
+<nav id="portal"><div class="wrap">
+  <span class="pcur">📡 金融規制ウォッチ</span>
+  <a href="https://finoject.github.io/finoject-law-viewer/" target="_blank" rel="noopener">⚖️ 法令ビューア ↗</a>
+</div></nav>
 <header><div class="wrap">
   <h1>📡 金融規制ウォッチ</h1>
   <div class="meta" id="meta">読み込み中…</div>
@@ -65,6 +77,39 @@ const SHORT = { '日本取引所グループ':'JPX' };  // バッジの表示短
 let DATA = { items:[], generatedAt:null, sources:[] };
 let filterAg = 'all', keyword = '';
 
+// ===== 法令ビューアへの動線：タイトルから法令名＋条番号を検出してディープリンク =====
+const LAW_BASE = 'https://finoject.github.io/finoject-law-viewer/';
+// 具体的な府令・施行令を先に（「資金決済に関する法律施行令」を本法より優先）
+const LAWREFS = [
+  { id:'429M60000002007', short:'暗号資産交換業者府令', kw:['暗号資産交換業者に関する内閣府令'] },
+  { id:'422M60000002004', short:'資金移動業者府令',     kw:['資金移動業者に関する内閣府令'] },
+  { id:'422M60000002003', short:'前払式支払手段府令',   kw:['前払式支払手段に関する内閣府令'] },
+  { id:'505M60000002048', short:'電子決済手段等府令',   kw:['電子決済手段等取引業者に関する内閣府令'] },
+  { id:'419M60000002052', short:'金商業等府令',         kw:['金融商品取引業等に関する内閣府令'] },
+  { id:'422CO0000000019', short:'資金決済法施行令',     kw:['資金決済に関する法律施行令'] },
+  { id:'420CO0000000020', short:'犯収法施行令',         kw:['犯罪による収益の移転防止に関する法律施行令'] },
+  { id:'420M60000F5A001', short:'犯収法施行規則',       kw:['犯罪による収益の移転防止に関する法律施行規則'] },
+  { id:'340CO0000000321', short:'金商法施行令',         kw:['金融商品取引法施行令'] },
+  { id:'421AC0000000059', short:'資金決済法',           kw:['資金決済に関する法律','資金決済法'] },
+  { id:'419AC0000000022', short:'犯収法',               kw:['犯罪による収益の移転防止に関する法律','犯罪収益移転防止法','犯収法'] },
+  { id:'323AC0000000025', short:'金商法',               kw:['金融商品取引法','金商法'] },
+];
+const KNUM = {'〇':0,'零':0,'一':1,'二':2,'三':3,'四':4,'五':5,'六':6,'七':7,'八':8,'九':9}, KS={'十':10,'百':100,'千':1000};
+function k2n(s){
+  if(/^[0-9０-９]+$/.test(s)) return s.replace(/[０-９]/g,d=>String.fromCharCode(d.charCodeAt(0)-0xFEE0));
+  let tot=0,cur=0; for(const ch of s){ if(ch in KNUM)cur=KNUM[ch]; else if(ch in KS){tot+=(cur||1)*KS[ch];cur=0;} } return String(tot+cur);
+}
+function detectLawLink(title){
+  const law = LAWREFS.find(L => L.kw.some(k => title.includes(k)));
+  if(!law) return null;
+  // 条番号（第○条、第○条の○）を抽出 → ビューアの表示形式に合わせる
+  const m = title.match(/第([〇一二三四五六七八九十百千0-9０-９]+)条(?:の([〇一二三四五六七八九十0-9０-９]+))?/);
+  let art = '', label = law.short;
+  if(m){ art = '第'+k2n(m[1])+'条'+(m[2]?'の'+k2n(m[2]):''); label += ' '+art; }
+  const url = LAW_BASE + '?law=' + law.id + (art ? '&art='+encodeURIComponent(art) : '');
+  return { url, label };
+}
+
 function jpDate(iso){ const [y,m,d]=iso.split('-'); return `${y}年${+m}月${+d}日`; }
 function jstStr(iso){ if(!iso) return '—'; const d=new Date(iso); const j=new Date(d.getTime()+9*3600000);
   const p=n=>String(n).padStart(2,'0');
@@ -87,10 +132,13 @@ function render(){
     if(it.date!==curDate){ curDate=it.date; html += `<div class="day">${jpDate(it.date)}</div>`; }
     const c = COLORS[it.agency] || '#64748b';
     const isNew = it.detectedAt && it.detectedAt===latest;
+    const ref = detectLawLink(it.title||'');
+    const refHtml = ref ? `<a class="ref" href="${ref.url}" target="_blank" rel="noopener" title="法令ビューアで条文を開く">📖 ${escapeHtml(ref.label)}</a>` : '';
     html += `<div class="item">
       <span class="badge" style="background:${c}">${SHORT[it.agency]||it.agency}</span>
       <a href="${it.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a>
       ${isNew?'<span class="new">NEW</span>':''}
+      ${refHtml}
     </div>`;
   }
   list.innerHTML = html;
@@ -99,7 +147,7 @@ function escapeHtml(s){ return (s||'').replace(/[&<>"]/g, c=>({'&':'&amp;','<':'
 
 function setMeta(){
   document.getElementById('meta').textContent =
-    `監視対象5機関 ／ 最終更新: ${jstStr(DATA.generatedAt)}（JST） ／ 全${DATA.items.length}件`;
+    `監視対象6機関 ／ 最終更新: ${jstStr(DATA.generatedAt)}（JST） ／ 全${DATA.items.length}件`;
   document.getElementById('footer').innerHTML =
     '出典（各機関の公開情報）: ' + (DATA.sources||[]).map(s=>`<a href="${s.url}" target="_blank" rel="noopener">${s.name}</a>`).join(' ・ ') +
     '<br>毎朝の自動巡回で新着を追記します。NEWは最新巡回で検知した項目。';
