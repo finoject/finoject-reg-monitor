@@ -110,17 +110,45 @@ async function crawlSite(s){
   } catch(e){ return { ok:false, error:String(e.message||e), items:[] }; }
 }
 
+// 新規分をSlackへ投稿（SLACK_WEBHOOK_URL が設定されている時のみ。新規ゼロなら送らない）
+async function postSlack(addedItems){
+  const hook = process.env.SLACK_WEBHOOK_URL;
+  if (!hook || !addedItems.length) return;
+  const esc = s => (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  const SHORT = { '日本取引所グループ':'JPX' };
+  const order = SITES.map(s=>s.name);
+  const jst = new Date(Date.now()+9*3600000);
+  const dateStr = `${jst.getUTCFullYear()}-${pad(jst.getUTCMonth()+1)}-${pad(jst.getUTCDate())}`;
+  const CAP = 60;                       // 安全のため1通あたり最大件数
+  const capped = addedItems.slice(0, CAP);
+  const byAg = {};
+  for (const it of capped){ (byAg[it.agency]=byAg[it.agency]||[]).push(it); }
+  let text = `:bell: *金融規制ウォッチ｜本日の新着 (${dateStr})* — ${addedItems.length}件`;
+  for (const ag of order){
+    const list = byAg[ag]; if (!list || !list.length) continue;
+    text += `\n\n*${esc(SHORT[ag]||ag)}* (${list.length})`;
+    for (const it of list){ text += `\n• <${it.url}|${esc(it.title)}>`; }
+  }
+  if (addedItems.length > CAP) text += `\n\n…ほか ${addedItems.length - CAP} 件`;
+  text += `\n\n全件: https://finoject.github.io/finoject-reg-monitor/`;
+  try {
+    const r = await fetch(hook, { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ text }) });
+    console.log('Slack投稿: ' + (r.ok ? 'OK' : 'HTTP '+r.status));
+  } catch(e){ console.log('Slack投稿 失敗: ' + (e.message||e)); }
+}
+
 async function main(){
   let store = { generatedAt:null, items:[] };
   if (fs.existsSync(OUT)) { try { store = JSON.parse(fs.readFileSync(OUT,'utf8')); } catch{} }
+  const firstRun = !store.items.length;            // 初回はbaseline取得のみ（大量投稿を防ぐ）
   const seenUrls = new Set(store.items.map(it=>it.url));
   const nowIso = new Date().toISOString();
-  const report=[]; let added=0;
+  const report=[]; const addedItems=[];
   for (const s of SITES){
     const res = await crawlSite(s);
     report.push(`${s.name}: ${res.ok?res.items.length+'件':'失敗('+res.error+')'}`);
     for (const it of res.items){
-      if (!seenUrls.has(it.url)){ seenUrls.add(it.url); store.items.push({ ...it, detectedAt: nowIso }); added++; }
+      if (!seenUrls.has(it.url)){ seenUrls.add(it.url); const rec={ ...it, detectedAt: nowIso }; store.items.push(rec); addedItems.push(rec); }
     }
   }
   store.items.sort((a,b)=> (b.date||'').localeCompare(a.date||'') || (b.detectedAt||'').localeCompare(a.detectedAt||''));
@@ -128,6 +156,9 @@ async function main(){
   store.sources = SITES.map(s=>({name:s.name, url:s.url}));
   fs.writeFileSync(OUT, JSON.stringify(store, null, 2), 'utf8');
   console.log('=== 巡回結果 ==='); report.forEach(r=>console.log(' - '+r));
-  console.log(`新規追加: ${added}件 / 総蓄積: ${store.items.length}件 -> ${OUT}`);
+  console.log(`新規追加: ${addedItems.length}件 / 総蓄積: ${store.items.length}件 -> ${OUT}`);
+  // 新規分をSlackへ（初回baselineは投稿しない）
+  if (!firstRun) await postSlack(addedItems);
+  else console.log('初回baselineのためSlack投稿はスキップ');
 }
 main();

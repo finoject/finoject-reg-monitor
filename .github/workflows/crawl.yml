@@ -31,8 +31,10 @@ jobs:
         working-directory: reg-monitor
         run: npm install
 
-      - name: 巡回（5機関の新着を取得し data.json を更新）
+      - name: 巡回（6機関の新着を取得し data.json を更新／新規分をSlackへ）
         working-directory: reg-monitor
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: node crawler.js
 
       - name: 差分データをコミット（蓄積を永続化）
