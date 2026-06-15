@@ -43,7 +43,7 @@
     <span class="chip on" data-ag="all">すべて</span>
     <span class="chip" data-ag="金融庁">金融庁</span>
     <span class="chip" data-ag="日本銀行">日本銀行</span>
-    <span class="chip" data-ag="日本取引所グループ">日本取引所グループ</span>
+    <span class="chip" data-ag="日本取引所グループ">JPX</span>
     <span class="chip" data-ag="日本証券業協会">日証協</span>
     <span class="chip" data-ag="JVCEA">JVCEA</span>
     <span class="chip" data-ag="日本公認会計士協会">日本公認会計士協会</span>
@@ -61,6 +61,7 @@ const COLORS = {
   '日本証券業協会':'#d97706', 'JVCEA':'#9333ea', '日本公認会計士協会':'#dc2626'
 };
 const AGENCY_ORDER = { '金融庁':1, '日本銀行':2, '日本取引所グループ':3, '日本証券業協会':4, 'JVCEA':5, '日本公認会計士協会':6 };
+const SHORT = { '日本取引所グループ':'JPX' };  // バッジの表示短縮（データ上の名称は維持）
 let DATA = { items:[], generatedAt:null, sources:[] };
 let filterAg = 'all', keyword = '';
 
@@ -87,7 +88,7 @@ function render(){
     const c = COLORS[it.agency] || '#64748b';
     const isNew = it.detectedAt && it.detectedAt===latest;
     html += `<div class="item">
-      <span class="badge" style="background:${c}">${it.agency}</span>
+      <span class="badge" style="background:${c}">${SHORT[it.agency]||it.agency}</span>
       <a href="${it.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a>
       ${isNew?'<span class="new">NEW</span>':''}
     </div>`;
