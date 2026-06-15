@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T05:36:05.082Z",
+  "generatedAt": "2026-06-15T05:52:28.078Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,20 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260615jbc.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-15T04:55:51.471Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "「投資家への期待・要望」等に関する企業アンケートの実施について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260612-02.html",
+      "date": "2026-06-12",
+      "detectedAt": "2026-06-15T05:52:28.078Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "「取組みの進展が見られる企業」等に関する機関投資家アンケートの実施について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260612-01.html",
+      "date": "2026-06-12",
+      "detectedAt": "2026-06-15T05:52:28.078Z"
     },
     {
       "agency": "金融庁",
@@ -77,6 +91,20 @@
       "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260610.htm",
       "date": "2026-06-12",
       "detectedAt": "2026-06-15T04:55:51.471Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "2026年3月期有価証券報告書",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000001fba5-att/view25-1.pdf",
+      "date": "2026-06-11",
+      "detectedAt": "2026-06-15T05:52:28.078Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "自己株券買付状況報告書",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000001fbdj-att/view25-4.pdf",
+      "date": "2026-06-11",
+      "detectedAt": "2026-06-15T05:52:28.078Z"
     },
     {
       "agency": "金融庁",
@@ -289,6 +317,13 @@
       "detectedAt": "2026-06-15T04:55:51.471Z"
     },
     {
+      "agency": "日本取引所グループ",
+      "title": "第28回「市場区分の見直しに関するフォローアップ会議」の開催について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260604-01.html",
+      "date": "2026-06-04",
+      "detectedAt": "2026-06-15T05:52:28.078Z"
+    },
+    {
       "agency": "日本銀行",
       "title": "事務局説明資料（2）（第11回中央銀行デジタル通貨に関する連絡協議会）",
       "url": "https://www.boj.or.jp/paym/digital/dig260604a.pdf",
@@ -434,6 +469,20 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260602gdh.html",
       "date": "2026-06-02",
       "detectedAt": "2026-06-15T04:55:51.471Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "2026年5月の売買状況について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/20260601-11.html",
+      "date": "2026-06-01",
+      "detectedAt": "2026-06-15T05:52:28.078Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "JPXマンスリー・ヘッドライン（5月分）について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260601-02.html",
+      "date": "2026-06-01",
+      "detectedAt": "2026-06-15T05:52:28.078Z"
     },
     {
       "agency": "金融庁",
@@ -1123,6 +1172,10 @@
     {
       "name": "日本銀行",
       "url": "https://www.boj.or.jp/rss/whatsnew.xml"
+    },
+    {
+      "name": "日本取引所グループ",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/static-archives-00.html"
     },
     {
       "name": "日本証券業協会",
