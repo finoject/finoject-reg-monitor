@@ -37,7 +37,7 @@ function clean(s){
 function abs(href, base){ try { return new URL(href, base).href.replace(/^http:\/\//,'https://'); } catch { return null; } }
 function titleClean(t){
   t = t.replace(/^\s*(令和\s*\d+\s*年\s*\d{1,2}\s*月\s*\d{1,2}\s*日|20\d{2}\s*年\s*\d{1,2}\s*月\s*\d{1,2}\s*日|20\d{2}[.\-\/]\d{1,2}[.\-\/]\d{1,2})\s*/,'');
-  for(let k=0;k<2;k++) t = t.replace(/^\s*(お知らせ|プレスリリース|セミナー|その他|会長声明|報道発表資料|報道発表|新着情報|新着|公表)\s*/,'');
+  for(let k=0;k<2;k++) t = t.replace(/^\s*(お知らせ|プレスリリース|セミナー|その他|会長声明|報道発表資料|報道発表|新着情報|新着|公表|法定開示|業務情報|JPXからのお知らせ)\s*/,'');
   return t.trim();
 }
 
@@ -85,6 +85,7 @@ function parseHTML(html, agency, base){
 const SITES = [
   { key:'fsa',   name:'金融庁',            type:'fsa',  url:'https://www.fsa.go.jp/news/index.html' },
   { key:'boj',   name:'日本銀行',          type:'rss',  url:'https://www.boj.or.jp/rss/whatsnew.xml' },
+  { key:'jpx',   name:'日本取引所グループ', type:'html', url:'https://www.jpx.co.jp/corporate/news/news-releases/static-archives-00.html', fallbackFile:'jpx.html' },
   { key:'jsda',  name:'日本証券業協会',    type:'html', url:'https://www.jsda.or.jp/shinchaku/index.html', fallbackFile:'jsda.html' },
   { key:'jvcea', name:'JVCEA',             type:'rss',  url:'https://jvcea.or.jp/feed/' },
   { key:'jicpa', name:'日本公認会計士協会', type:'html', url:'https://jicpa.or.jp/news/information/' },

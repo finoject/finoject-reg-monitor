@@ -1,4 +1,5 @@
 node_modules/
 reg-monitor/jsda.html
+reg-monitor/jpx.html
 reg-monitor/recon.js
 *.log
