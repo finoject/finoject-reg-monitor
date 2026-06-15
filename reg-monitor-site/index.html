@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>金融規制ウォッチ｜5機関 新着モニター</title>
+<style>
+  :root{ --bg:#0b1220; --card:#121b2e; --line:#26334d; --fg:#e8eefb; --muted:#8da3c6; --accent:#2e6cf0; }
+  *{ box-sizing:border-box; }
+  body{ margin:0; background:var(--bg); color:var(--fg);
+    font-family:"Segoe UI","Hiragino Sans","Meiryo",sans-serif; -webkit-text-size-adjust:100%; }
+  header{ position:sticky; top:0; z-index:5; background:rgba(11,18,32,0.95); backdrop-filter:blur(8px);
+    border-bottom:1px solid var(--line); padding:14px 18px; }
+  .wrap{ max-width:880px; margin:0 auto; }
+  h1{ font-size:18px; margin:0 0 2px; }
+  .meta{ font-size:12px; color:var(--muted); }
+  .controls{ display:flex; flex-wrap:wrap; gap:8px; margin-top:10px; align-items:center; }
+  .chip{ font-size:12px; padding:6px 11px; border-radius:16px; cursor:pointer; user-select:none;
+    background:#16223a; color:#cfe0ff; border:1px solid var(--line); }
+  .chip.on{ background:var(--accent); border-color:var(--accent); color:#fff; }
+  #q{ flex:1; min-width:140px; padding:8px 11px; border-radius:8px; border:1px solid var(--line);
+    background:#0e1626; color:var(--fg); font-size:13px; }
+
+  main{ padding:8px 18px 60px; }
+  .day{ margin:18px 0 6px; font-size:13px; font-weight:700; color:#bcd0f0;
+    border-left:3px solid var(--accent); padding-left:9px; }
+  .item{ display:flex; gap:10px; align-items:flex-start; padding:11px 8px; border-bottom:1px solid var(--line); }
+  .badge{ flex:none; font-size:11px; font-weight:600; color:#fff; padding:3px 8px; border-radius:6px; white-space:nowrap; margin-top:1px; }
+  .item a{ color:var(--fg); text-decoration:none; font-size:14px; line-height:1.5; }
+  .item a:hover{ color:#7fb0ff; text-decoration:underline; }
+  .new{ flex:none; font-size:10px; font-weight:700; color:#0b1220; background:#fbbf24; border-radius:4px; padding:1px 5px; margin-top:3px; }
+  .empty{ color:var(--muted); text-align:center; padding:40px 0; }
+  footer{ border-top:1px solid var(--line); padding:14px 18px; color:var(--muted); font-size:11px; }
+  footer a{ color:#7fb0ff; }
+  @media(max-width:600px){ .item a{ font-size:13.5px; } h1{ font-size:16px; } }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>📡 金融規制ウォッチ</h1>
+  <div class="meta" id="meta">読み込み中…</div>
+  <div class="controls">
+    <span class="chip on" data-ag="all">すべて</span>
+    <span class="chip" data-ag="金融庁">金融庁</span>
+    <span class="chip" data-ag="日本銀行">日本銀行</span>
+    <span class="chip" data-ag="日本証券業協会">日証協</span>
+    <span class="chip" data-ag="JVCEA">JVCEA</span>
+    <span class="chip" data-ag="日本公認会計士協会">日本公認会計士協会</span>
+    <input id="q" placeholder="キーワード検索…">
+  </div>
+</div></header>
+
+<main class="wrap" id="list"><div class="empty">読み込み中…</div></main>
+
+<footer class="wrap" id="footer"></footer>
+
+<script>
+const COLORS = {
+  '金融庁':'#2e6cf0', '日本銀行':'#16a34a', '日本証券業協会':'#d97706',
+  'JVCEA':'#9333ea', '日本公認会計士協会':'#dc2626'
+};
+let DATA = { items:[], generatedAt:null, sources:[] };
+let filterAg = 'all', keyword = '';
+
+function jpDate(iso){ const [y,m,d]=iso.split('-'); return `${y}年${+m}月${+d}日`; }
+function jstStr(iso){ if(!iso) return '—'; const d=new Date(iso); const j=new Date(d.getTime()+9*3600000);
+  const p=n=>String(n).padStart(2,'0');
+  return `${j.getUTCFullYear()}/${p(j.getUTCMonth()+1)}/${p(j.getUTCDate())} ${p(j.getUTCHours())}:${p(j.getUTCMinutes())}`; }
+
+function render(){
+  const latest = DATA.generatedAt;
+  let items = DATA.items.filter(it =>
+    (filterAg==='all' || it.agency===filterAg) &&
+    (!keyword || (it.title||'').toLowerCase().includes(keyword) || (it.agency||'').includes(keyword))
+  );
+  const list = document.getElementById('list');
+  if(!items.length){ list.innerHTML = '<div class="empty">該当する項目がありません</div>'; return; }
+
+  let html='', curDate=null;
+  for(const it of items){
+    if(it.date!==curDate){ curDate=it.date; html += `<div class="day">${jpDate(it.date)}</div>`; }
+    const c = COLORS[it.agency] || '#64748b';
+    const isNew = it.detectedAt && it.detectedAt===latest;
+    html += `<div class="item">
+      <span class="badge" style="background:${c}">${it.agency}</span>
+      <a href="${it.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a>
+      ${isNew?'<span class="new">NEW</span>':''}
+    </div>`;
+  }
+  list.innerHTML = html;
+}
+function escapeHtml(s){ return (s||'').replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+function setMeta(){
+  document.getElementById('meta').textContent =
+    `監視対象5機関 ／ 最終更新: ${jstStr(DATA.generatedAt)}（JST） ／ 全${DATA.items.length}件`;
+  document.getElementById('footer').innerHTML =
+    '出典（各機関の公開情報）: ' + (DATA.sources||[]).map(s=>`<a href="${s.url}" target="_blank" rel="noopener">${s.name}</a>`).join(' ・ ') +
+    '<br>毎朝の自動巡回で新着を追記します。NEWは最新巡回で検知した項目。';
+}
+
+document.querySelectorAll('.chip').forEach(ch=>ch.addEventListener('click',()=>{
+  document.querySelectorAll('.chip').forEach(c=>c.classList.remove('on'));
+  ch.classList.add('on'); filterAg = ch.dataset.ag; render();
+}));
+document.getElementById('q').addEventListener('input', e=>{ keyword=e.target.value.trim().toLowerCase(); render(); });
+
+fetch('./data.json?t=' + Date.now())
+  .then(r=>r.json())
+  .then(d=>{ DATA=d; setMeta(); render(); })
+  .catch(e=>{ document.getElementById('list').innerHTML='<div class="empty">データを読み込めませんでした</div>'; });
+</script>
+</body>
+</html>
