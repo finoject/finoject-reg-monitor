@@ -132,7 +132,7 @@ async function postSlack(addedItems){
   if (addedItems.length > CAP) text += `\n\n…ほか ${addedItems.length - CAP} 件`;
   text += `\n\n全件: https://finoject.github.io/finoject-reg-monitor/`;
   try {
-    const r = await fetch(hook, { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ text }) });
+    const r = await fetch(hook, { method:'POST', headers:{'Content-Type':'application/json; charset=utf-8'}, body: JSON.stringify({ text }) });
     console.log('Slack投稿: ' + (r.ok ? 'OK' : 'HTTP '+r.status));
   } catch(e){ console.log('Slack投稿 失敗: ' + (e.message||e)); }
 }
