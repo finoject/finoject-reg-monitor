@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-06-15T05:56:31.160Z",
+  "generatedAt": "2026-06-15T10:57:48.232Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "定時総会の結果報告について",
+      "url": "https://www.jsda.or.jp/houdou/2026/20260615.html",
+      "date": "2026-06-15",
+      "detectedAt": "2026-06-15T10:57:48.232Z"
+    },
+    {
+      "agency": "JVCEA",
+      "title": "取扱い一時中止のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260615-001/",
+      "date": "2026-06-15",
+      "detectedAt": "2026-06-15T10:57:48.232Z"
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「第３回Web3.0関連ビジネスの会計・監査に関する事業者・監査人共同フォーラム ～事業者と監査人の相互理解の促進のために～」（2026年７月17日）の開催のご案内",
+      "url": "https://jicpa.or.jp/news/information/2026/20260615dif.html",
+      "date": "2026-06-15",
+      "detectedAt": "2026-06-15T10:57:48.232Z"
+    },
     {
       "agency": "日本証券業協会",
       "title": "外国株式信用取引の取扱状況",
