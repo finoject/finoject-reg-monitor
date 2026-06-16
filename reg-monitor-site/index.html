@@ -17,6 +17,14 @@
   .ref{ flex:none; display:inline-block; font-size:11px; margin-top:2px; padding:2px 8px; border-radius:6px;
     background:#13243f; color:#8fd0ff; border:1px solid #2b66c0; text-decoration:none; white-space:nowrap; }
   .ref:hover{ background:#1c3a63; color:#cfe7ff; }
+  .itembody{ flex:1; min-width:0; }
+  .refs{ display:flex; flex-wrap:wrap; gap:6px; margin-top:6px; }
+  .ref .kind{ margin-left:6px; font-size:10px; font-weight:700; padding:0 5px; border-radius:4px; background:#2b66c0; color:#eaf3ff; }
+  .ref .k-パブコメ{ background:#b45309; color:#fff; }
+  .ref .k-改正{ background:#1d4ed8; color:#fff; }
+  .ref .k-公布{ background:#15803d; color:#fff; }
+  .ref .k-ガイドライン{ background:#7c3aed; color:#fff; }
+  .ref .k-告示, .ref .k-通達等{ background:#475569; color:#fff; }
   header{ position:sticky; top:0; z-index:5; background:rgba(11,18,32,0.95); backdrop-filter:blur(8px);
     border-bottom:1px solid var(--line); padding:14px 18px; }
   .wrap{ max-width:880px; margin:0 auto; }
@@ -132,18 +140,30 @@ function render(){
     if(it.date!==curDate){ curDate=it.date; html += `<div class="day">${jpDate(it.date)}</div>`; }
     const c = COLORS[it.agency] || '#64748b';
     const isNew = it.detectedAt && it.detectedAt===latest;
-    const ref = detectLawLink(it.title||'');
-    const refHtml = ref ? `<a class="ref" href="${ref.url}" target="_blank" rel="noopener" title="法令ビューアで条文を開く">📖 ${escapeHtml(ref.label)}</a>` : '';
     html += `<div class="item">
       <span class="badge" style="background:${c}">${SHORT[it.agency]||it.agency}</span>
-      <a href="${it.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a>
-      ${isNew?'<span class="new">NEW</span>':''}
-      ${refHtml}
+      <div class="itembody">
+        <a href="${it.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a>
+        ${isNew?'<span class="new">NEW</span>':''}
+        ${refsHtml(it)}
+      </div>
     </div>`;
   }
   list.innerHTML = html;
 }
 function escapeHtml(s){ return (s||'').replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+// 📖チップ：クローラが算出した lawrefs（参照法令＋条＋種別）から描画。未処理itemは従来のタイトル解析でフォールバック。
+function refsHtml(it){
+  let refs = (it.lawrefs && it.lawrefs.length) ? it.lawrefs : null;
+  if(!refs){ const r = detectLawLink(it.title||''); if(!r) return ''; refs = [{ url:r.url, label:r.label, kind:null }]; }
+  const chips = refs.slice(0,4).map(r=>{
+    const url = r.url || (LAW_BASE + '?law=' + r.id + (r.art ? '&art='+encodeURIComponent(r.art) : ''));
+    const kb = r.kind && r.kind!=='その他' ? `<span class="kind k-${r.kind}">${r.kind}</span>` : '';
+    return `<a class="ref" href="${url}" target="_blank" rel="noopener" title="法令ビューアで該当条文を開く">📖 ${escapeHtml(r.label)}${kb}</a>`;
+  });
+  return `<div class="refs">${chips.join('')}</div>`;
+}
 
 function setMeta(){
   document.getElementById('meta').textContent =

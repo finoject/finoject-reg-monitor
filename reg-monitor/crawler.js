@@ -3,7 +3,9 @@
 const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
+const os = require('os');
 const { execFileSync } = require('child_process');
+const { buildLawrefs, worthFetching } = require('./enrich');
 
 const OUT = path.join(__dirname, '..', 'reg-monitor-site', 'data.json');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
@@ -18,6 +20,36 @@ async function get(url){
     return execFileSync('curl', ['-sL','--max-time','30','-A',UA,'-H','Accept-Language: ja',url],
       { encoding:'utf8', maxBuffer: 50*1024*1024 });
   }
+}
+
+// ---- 本文取得（法令連携の精度向上のため、リンク先ページ・PDFのテキストを読む）----
+// PDFを一時ファイルへ落として pdftotext で抽出（poppler-utils。失敗時は空文字）
+function pdfText(url){
+  const tmp = path.join(os.tmpdir(), 'reg_'+Date.now()+'_'+Math.floor(performance.now())+'.pdf');
+  try {
+    execFileSync('curl', ['-sL','--max-time','30','-A',UA,'-o',tmp,url], { maxBuffer: 60*1024*1024 });
+    const txt = execFileSync('pdftotext', ['-layout','-q','-enc','UTF-8',tmp,'-'], { encoding:'utf8', maxBuffer: 60*1024*1024 });
+    return txt || '';
+  } catch { return ''; }
+  finally { try { fs.unlinkSync(tmp); } catch{} }
+}
+// リンク先ページの可視テキスト（＋同ページからリンクされた主要PDFの本文）を返す。ネット失敗は空。
+async function fetchBodyText(url){
+  let html=''; try { html = await get(url); } catch { return ''; }
+  if (/^%PDF|^\s*%PDF/.test(html)) return '';   // get()でPDFが化けたら諦める（PDFはpdfTextで別途取得）
+  let text='', pdfs=[];
+  try {
+    const $ = cheerio.load(html);
+    $('script,style,noscript').remove();
+    text = clean($('main').text() || $('body').text() || '');
+    // 改正・パブコメ系の本文PDF（新旧対照表/府令案/概要 等）を最大3本まで読む
+    $('a[href$=".pdf"], a[href*=".pdf?"]').each((i,el)=>{
+      const u = abs($(el).attr('href'), url); if (u && pdfs.length<6) pdfs.push(u);
+    });
+  } catch {}
+  let acc = text;
+  for (const u of pdfs.slice(0,3)){ acc += '\n' + pdfText(u); if (acc.length > 200000) break; }
+  return acc.slice(0, 200000);
 }
 
 // ---- ユーティリティ ----
@@ -177,6 +209,38 @@ async function postSlack(addedItems){
   } catch(e){ console.log('Slack投稿 失敗: ' + (e.message||e)); }
 }
 
+// ---- 法令連携：各itemに lawrefs（参照法令＋条＋種別）を付与 ----
+// 見出しだけで判る分は常に算出。worthFetchingな新規itemは本文/PDFまで読んで精度を上げる。
+// 1回の巡回での本文取得数は上限を設け（クロール負荷の抑制）、未処理分は次回以降に回す。
+const MAX_FETCH_PER_RUN = 40;
+async function enrichItems(items){
+  let fetched = 0, fromBody = 0;
+  for (const it of items){
+    if (it.enriched) continue;                       // 既に処理済み（更新時はmainでenrichedを消す）
+    const titleRefs = buildLawrefs(it.title || '');
+    let refs = titleRefs;
+    const needFetch = worthFetching(it.title || '') && fetched < MAX_FETCH_PER_RUN;
+    if (needFetch){
+      fetched++;
+      const body = await fetchBodyText(it.url);
+      if (body){
+        const full = buildLawrefs((it.title||'') + '\n' + body);
+        // 本文の方が情報量が多いので、条番号付き or より多くの法令を拾えたら採用
+        if (full.length && (full.some(r=>r.art) || full.length >= titleRefs.length)){ refs = full; if(full.length>titleRefs.length||full.some(r=>r.art)) fromBody++; }
+      }
+    } else if (!worthFetching(it.title||'')){
+      // 取得不要（株価・統計等）。見出し一致が無ければ法令連携なしで確定
+    } else {
+      // 取得上限に達した → 今回は見出しのみ。次回再処理できるよう enriched を立てない
+      if (titleRefs.length) it.lawrefs = titleRefs;
+      continue;
+    }
+    if (refs.length) it.lawrefs = refs; else delete it.lawrefs;
+    it.enriched = new Date().toISOString();
+  }
+  console.log(`法令連携: 本文取得 ${fetched}件 / うち本文で精度向上 ${fromBody}件 / lawrefs付与 ${items.filter(i=>i.lawrefs&&i.lawrefs.length).length}件`);
+}
+
 async function main(){
   let store = { generatedAt:null, items:[] };
   if (fs.existsSync(OUT)) { try { store = JSON.parse(fs.readFileSync(OUT,'utf8')); } catch{} }
@@ -196,10 +260,12 @@ async function main(){
       } else if (it.date && (!prev.date || it.date > prev.date)){
         // 同一URLだがサイトの日付が新しい＝定例レポート等の更新。日付/タイトルを更新し「更新」として再浮上
         prev.date = it.date; if(it.title) prev.title = it.title; prev.detectedAt = nowIso; prev.updated = true;
+        delete prev.enriched;                        // タイトル更新の可能性 → 法令連携を再算出
         addedItems.push(prev);
       }
     }
   }
+  await enrichItems(store.items);                    // 法令ビューア連携用に lawrefs を付与（本文/PDFも解析）
   store.items.sort((a,b)=> (b.date||'').localeCompare(a.date||'') || (b.detectedAt||'').localeCompare(a.detectedAt||''));
   store.generatedAt = nowIso;
   store.sources = SITES.map(s=>({name:s.name, url:s.url}));

@@ -28,6 +28,9 @@ jobs:
         with:
           node-version: '20'
 
+      - name: PDF抽出ツール（法令連携の本文解析用）
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+
       - name: 依存インストール
         working-directory: reg-monitor
         run: npm install
