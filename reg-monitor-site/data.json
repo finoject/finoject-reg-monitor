@@ -1,6 +1,104 @@
 {
-  "generatedAt": "2026-06-16T15:23:20.858Z",
+  "generatedAt": "2026-06-16T15:30:04.605Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]自己株式立会外買付取引情報のページを更新しました（（株）オーシャンシステム、（株）ＴＢＳホールディングス）",
+      "url": "https://www.jpx.co.jp/markets/equities/off-auction-ownshares/index.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]信用取引に関する日々公表等を更新しました",
+      "url": "https://www.jpx.co.jp/markets/equities/margin-daily/index.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]信用取引残高等－銘柄別信用取引週末残高を更新しました",
+      "url": "https://www.jpx.co.jp/markets/statistics-equities/margin/05.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]信用取引残高等－信用取引売買比率を更新しました",
+      "url": "https://www.jpx.co.jp/markets/statistics-equities/margin/02.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]信用取引残高等－品貸料を更新しました",
+      "url": "https://www.jpx.co.jp/markets/statistics-equities/margin/01.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]信用取引残高等－信用取引現在高(一般信用取引・制度信用取引別)を更新しました",
+      "url": "https://www.jpx.co.jp/markets/statistics-equities/margin/03.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]信用取引残高等－個別銘柄信用取引残高表を更新しました",
+      "url": "https://www.jpx.co.jp/markets/statistics-equities/margin/index.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[株式・ETF・REIT等]制限値幅のページを更新しました",
+      "url": "https://www.jpx.co.jp/equities/trading/domestic/06.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[上場会社情報]制度信用・貸借銘柄一覧を更新しました",
+      "url": "https://www.jpx.co.jp/listing/others/margin/index.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[株式・ETF・REIT等]ETFの気配提示状況を更新しました",
+      "url": "https://www.jpx.co.jp/equities/products/etfs/quoting-data/index.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]ToSTNeT取引 超大口約定情報を更新しました",
+      "url": "https://www.jpx.co.jp/markets/equities/tostnet/index.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[先物・オプション]最終清算数値・最終決済価格を更新しました",
+      "url": "https://www.jpx.co.jp/markets/derivatives/special-quotation/index.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[上場会社情報]不適正意見・意見不表明・限定付適正意見等一覧を更新しました",
+      "url": "https://www.jpx.co.jp/listing/others/adverse-opinion/index.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[上場会社情報]新規上場したクロスボーダー企業のご紹介を更新しました",
+      "url": "https://www.jpx.co.jp/equities/listing-on-tse/cross-border/02.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]改善報告書の公衆の縦覧：（株）イーエムネットジャパン",
@@ -110,6 +208,27 @@
     },
     {
       "agency": "日本取引所グループ",
+      "title": "[株式・ETF・REIT等]グロース市場の機能発揮に向けた対応を更新しました",
+      "url": "https://www.jpx.co.jp/equities/follow-up/03.html",
+      "date": "2026-06-15",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]決算短信集計結果のページを更新しました。",
+      "url": "https://www.jpx.co.jp/markets/statistics-equities/examination/index.html",
+      "date": "2026-06-15",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[上場会社情報]上場廃止銘柄一覧のページを更新しました（ＳＦＰホールディングス（株）及び（株）Ｏｌｙｍｐｉｃグループ）",
+      "url": "https://www.jpx.co.jp/listing/stocks/delisted/index.html",
+      "date": "2026-06-15",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
       "title": "[OSE]有価証券オプションの取扱い（2026年6月29日調整分）",
       "url": "https://www.jpx.co.jp/news/2020/20260615-01.html",
       "date": "2026-06-15",
@@ -209,6 +328,20 @@
     },
     {
       "agency": "日本取引所グループ",
+      "title": "[上場会社情報]アナリストレポートのページを更新しました（（株）システムエグゼ、（株）バトンズ、（株）コンフィデンス・インターワークス）",
+      "url": "https://www.jpx.co.jp/listing/ir-clips/analyst-report/index.html",
+      "date": "2026-06-12",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]権利処理に関する情報を更新しました",
+      "url": "https://www.jpx.co.jp/markets/equities/rights/01.html",
+      "date": "2026-06-12",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
       "title": "[東証]監理銘柄（確認中）の指定：（株）ジェイ・エス・ビー",
       "url": "https://www.jpx.co.jp/news/1023/20260612-11.html",
       "date": "2026-06-12",
@@ -300,6 +433,27 @@
     },
     {
       "agency": "日本取引所グループ",
+      "title": "[マーケット情報]投資部門別取引状況（先物・オプション関連）を更新しました",
+      "url": "https://www.jpx.co.jp/markets/statistics-derivatives/sector/index.html",
+      "date": "2026-06-11",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]投資部門別売買状況（株式）のページを更新しました",
+      "url": "https://www.jpx.co.jp/markets/statistics-equities/investor-type/index.html",
+      "date": "2026-06-11",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[上場会社情報]3月期決算会社株主総会情報を更新しました",
+      "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/index.html",
+      "date": "2026-06-11",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
       "title": "[東証]新規上場の承認（グロース市場）：チャットプラス（株）",
       "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
       "date": "2026-06-11",
@@ -339,6 +493,27 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260611iaa.html",
       "date": "2026-06-11",
       "detectedAt": "2026-06-15T04:55:51.471Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]信用取引に関する規制等を更新しました",
+      "url": "https://www.jpx.co.jp/markets/equities/margin-reg/index.html",
+      "date": "2026-06-10",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]投資部門別売買状況（ETF / REIT）のページを更新しました",
+      "url": "https://www.jpx.co.jp/markets/statistics-equities/investor-type/02.html",
+      "date": "2026-06-10",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[マーケット情報]信用取引残高等－信用取引現在高を更新しました",
+      "url": "https://www.jpx.co.jp/markets/statistics-equities/margin/04.html",
+      "date": "2026-06-10",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -451,6 +626,13 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260610kln.html",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[規則・取引参加者]規則改正新旧対照表を更新しました",
+      "url": "https://www.jpx.co.jp/rules-participants/rules/revise/03.html",
+      "date": "2026-06-09",
+      "detectedAt": "2026-06-16T15:30:04.605Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -1381,11 +1563,7 @@
     },
     {
       "name": "日本取引所グループ",
-      "url": "https://www.jpx.co.jp/rss/markets_news.xml"
-    },
-    {
-      "name": "日本取引所グループ",
-      "url": "https://www.jpx.co.jp/rss/jpx-news.xml"
+      "url": "https://www.jpx.co.jp/rss/index.html"
     },
     {
       "name": "日本証券業協会",
