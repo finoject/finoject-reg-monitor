@@ -82,6 +82,9 @@ function parseHTML(html, agency, base){
   return items;
 }
 
+// 監視対象の全機関。1回の巡回でこの配列を全件ループ取得する（巡回は機関単位でなくワークフロー単位）。
+// → cron（crawl.yml: JST 8/11/14/17/20 の1日5回）は全機関共通。ここに機関を追加すれば自動的に同頻度で監視される。
+// 【恒久ルール】全組織を1日複数回巡回する。将来追加する組織もこの配列に足すだけで同頻度監視。頻度は減らさない。
 const SITES = [
   { key:'fsa',   name:'金融庁',            type:'fsa',  url:'https://www.fsa.go.jp/news/index.html' },
   { key:'boj',   name:'日本銀行',          type:'rss',  url:'https://www.boj.or.jp/rss/whatsnew.xml' },
