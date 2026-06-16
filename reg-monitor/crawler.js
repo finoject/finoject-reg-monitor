@@ -130,7 +130,7 @@ async function postSlack(addedItems){
   for (const ag of order){
     const list = byAg[ag]; if (!list || !list.length) continue;
     text += `\n\n*${esc(SHORT[ag]||ag)}* (${list.length})`;
-    for (const it of list){ text += `\n• <${it.url}|${esc(it.title)}>`; }
+    for (const it of list){ text += `\n• <${it.url}|${esc(it.title)}>${it.updated?' :arrows_counterclockwise:(更新)':''}`; }
   }
   if (addedItems.length > CAP) text += `\n\n…ほか ${addedItems.length - CAP} 件`;
   text += `\n\n全件: https://finoject.github.io/finoject-reg-monitor/`;
@@ -144,14 +144,21 @@ async function main(){
   let store = { generatedAt:null, items:[] };
   if (fs.existsSync(OUT)) { try { store = JSON.parse(fs.readFileSync(OUT,'utf8')); } catch{} }
   const firstRun = !store.items.length;            // 初回はbaseline取得のみ（大量投稿を防ぐ）
-  const seenUrls = new Set(store.items.map(it=>it.url));
+  const byUrl = new Map(store.items.map(it=>[it.url, it]));   // URL→既存レコード
   const nowIso = new Date().toISOString();
   const report=[]; const addedItems=[];
   for (const s of SITES){
     const res = await crawlSite(s);
     report.push(`${s.name}: ${res.ok?res.items.length+'件':'失敗('+res.error+')'}`);
     for (const it of res.items){
-      if (!seenUrls.has(it.url)){ seenUrls.add(it.url); const rec={ ...it, detectedAt: nowIso }; store.items.push(rec); addedItems.push(rec); }
+      const prev = byUrl.get(it.url);
+      if (!prev){                                  // 新規URL
+        const rec={ ...it, detectedAt: nowIso }; store.items.push(rec); byUrl.set(it.url, rec); addedItems.push(rec);
+      } else if (it.date && (!prev.date || it.date > prev.date)){
+        // 同一URLだがサイトの日付が新しい＝定例レポート等の更新。日付/タイトルを更新し「更新」として再浮上
+        prev.date = it.date; if(it.title) prev.title = it.title; prev.detectedAt = nowIso; prev.updated = true;
+        addedItems.push(prev);
+      }
     }
   }
   store.items.sort((a,b)=> (b.date||'').localeCompare(a.date||'') || (b.detectedAt||'').localeCompare(a.detectedAt||''));
