@@ -1,6 +1,90 @@
 {
-  "generatedAt": "2026-06-16T00:08:20.908Z",
+  "generatedAt": "2026-06-16T15:05:03.308Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in千葉」の開催",
+      "url": "https://www.fsa.go.jp/news/r7/sonota/20260616/20260616.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "国債補完供給の要件緩和措置の取り扱いについて",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260616d.pdf",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "業態別の日銀当座預金残高（5月）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "総裁記者会見（内田副総裁代理・6月16日）動画の配信開始",
+      "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "当面の長期国債等の買入れの運営について",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260616b.pdf",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年7～9月）",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260616a.pdf",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "長期国債の買入れ計画について",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260616b.pdf",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融市場調節方針の変更について",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260616a.pdf",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "「補完当座預金制度基本要領」の一部改正について",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260616c.pdf",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（参考）長期国債の買入れ計画（2026年６月金融政策決定会合）",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260616d.pdf",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（参考）金融市場調節方針の変更（2026年６月金融政策決定会合）",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260616c.pdf",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "金融庁",
+      "title": "預金口座の不正利用に係る情報提供件数等（令和８年３月末）の公表",
+      "url": "https://www.fsa.go.jp/news/r7/ginkou/20260615.html",
+      "date": "2026-06-15",
+      "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
     {
       "agency": "日本証券業協会",
       "title": "定時総会の結果報告について",
