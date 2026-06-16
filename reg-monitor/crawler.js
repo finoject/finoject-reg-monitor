@@ -55,6 +55,18 @@ function parseRSS(xml, agency, base){
   }
   return items;
 }
+// RSSハブ(大元の「RSS」一覧ページ)から子フィードのURLを全て発見する。
+// 機関がRSS一覧ページを持つ場合、毎回ここを見て子RSSを動的に辿る→フィードが増減しても自動追従。
+function discoverFeeds(html, base, exclude){
+  const set = new Set();
+  for (const m of html.matchAll(/(?:href|src)="([^"]+\.(?:xml|rdf|rss)(?:\?[^"]*)?)"/gi)){
+    const u = abs(m[1], base);
+    if (!u || /sitemap/i.test(u)) continue;
+    if (exclude && exclude.some(p => u.includes(p))) continue;   // 任意の除外パターン（ノイズフィード等）
+    set.add(u);
+  }
+  return [...set];
+}
 // 金融庁: ニュースURLに日付(YYYYMMDD)が入る → URLから日付を取得（最も確実）
 function parseFSA(html, base){
   const $=cheerio.load(html); const items=[]; const seen=new Set();
@@ -89,8 +101,8 @@ function parseHTML(html, agency, base){
 const SITES = [
   { key:'fsa',   name:'金融庁',            type:'fsa',  url:'https://www.fsa.go.jp/news/index.html' },
   { key:'boj',   name:'日本銀行',          type:'rss',  url:'https://www.boj.or.jp/rss/whatsnew.xml' },
-  { key:'jpx',   name:'日本取引所グループ', type:'rss',  url:'https://www.jpx.co.jp/rss/markets_news.xml' },   // マーケットニュース(東証/OSE/TOCOM: 上場・市場措置等)
-  { key:'jpx2',  name:'日本取引所グループ', type:'rss',  url:'https://www.jpx.co.jp/rss/jpx-news.xml' },        // JPXニュース(コーポレート)
+  // JPXは「RSS一覧」ページ(ハブ)を指定。マーケットニュース/JPXニュース/売買停止(株式)/売買停止(先物・オプション)/注意喚起/サイト更新情報 の全子RSSを毎回自動発見して巡回する。
+  { key:'jpx',   name:'日本取引所グループ', type:'rss-index', url:'https://www.jpx.co.jp/rss/index.html' },
   { key:'jsda',  name:'日本証券業協会',    type:'html', url:'https://www.jsda.or.jp/shinchaku/index.html', fallbackFile:'jsda.html' },
   { key:'jvcea', name:'JVCEA',             type:'rss',  url:'https://jvcea.or.jp/feed/' },
   { key:'jicpa', name:'日本公認会計士協会', type:'html', url:'https://jicpa.or.jp/news/information/' },
@@ -98,20 +110,31 @@ const SITES = [
 
 async function crawlSite(s){
   try {
-    let body;
-    try { body = await get(s.url); }
-    catch(err){
-      // host環境(VPN等)で取得できない場合のローカルフォールバック（クラウド実行では不要）
-      if (s.fallbackFile && fs.existsSync(path.join(__dirname, s.fallbackFile)))
-        body = fs.readFileSync(path.join(__dirname, s.fallbackFile), 'utf8');
-      else throw err;
+    let items = [];
+    if (s.type === 'rss-index'){
+      // RSSハブを取得→子フィードを全発見→各フィードを巡回（毎回。フィード増減に自動追従）
+      const hub = await get(s.url);
+      const feeds = discoverFeeds(hub, s.url, s.excludeFeeds);
+      for (const f of feeds){
+        try { const fx = await get(f); items = items.concat(parseRSS(fx, s.name, f).slice(0, 40)); } catch(_){}
+      }
+    } else {
+      let body;
+      try { body = await get(s.url); }
+      catch(err){
+        // host環境(VPN等)で取得できない場合のローカルフォールバック（クラウド実行では不要）
+        if (s.fallbackFile && fs.existsSync(path.join(__dirname, s.fallbackFile)))
+          body = fs.readFileSync(path.join(__dirname, s.fallbackFile), 'utf8');
+        else throw err;
+      }
+      items = s.type==='rss' ? parseRSS(body, s.name, s.url)
+            : s.type==='fsa' ? parseFSA(body, s.url)
+            : parseHTML(body, s.name, s.url);
     }
-    let items = s.type==='rss' ? parseRSS(body, s.name, s.url)
-              : s.type==='fsa' ? parseFSA(body, s.url)
-              : parseHTML(body, s.name, s.url);
     items = items.filter(it => it.date && it.url && it.title);
     items.sort((a,b)=> b.date.localeCompare(a.date));
-    return { ok:true, items: items.slice(0, 40) };
+    // rss-indexは複数フィードを束ねるため全件返す（各フィードは40件で制限済み）。単一ソースは40件に制限。
+    return { ok:true, items: s.type==='rss-index' ? items : items.slice(0, 40) };
   } catch(e){ return { ok:false, error:String(e.message||e), items:[] }; }
 }
 
