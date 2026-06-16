@@ -140,4 +140,69 @@ function worthFetching(title){
   return false;
 }
 
-module.exports = { LAW_DICT, LABEL, NAME_ENTRIES, matchLaws, buildLawrefs, detectKind, worthFetching, kanToNum };
+// ===== 関連ニュース（法令ビューアの「規制動向」枠に、報道見出し＋リンクを補足する）=====
+// 取得元はGoogle News RSS検索。表示は下記の指定ソースに限定（三根さん指定）。本文が有料でも見出し＋リンクで足りる。
+const NEWS_SOURCES = [
+  { label:'日経',         re:/日本経済新聞|日経|nikkei\.com/i },
+  { label:'NHK',          re:/NHK|nhk\.or\.jp/i },
+  { label:'Bloomberg',    re:/Bloomberg|bloomberg\./i },
+  { label:'共同通信',     re:/共同通信|kyodo|nordot/i },
+  { label:'時事通信',     re:/時事通信|jiji\.com/i },
+  { label:'朝日新聞',     re:/朝日新聞|asahi\.com/i },
+  { label:'読売新聞',     re:/読売新聞|yomiuri\.co\.jp/i },
+  { label:'毎日新聞',     re:/毎日新聞|mainichi\.jp/i },
+  { label:'産経新聞',     re:/産経新聞|サンケイ|sankei\.com/i },
+  { label:'東洋経済',     re:/東洋経済|toyokeizai/i },
+  { label:'ダイヤモンド', re:/ダイヤモンド|diamond\.jp/i },
+  { label:'Yahoo',        re:/Yahoo|yahoo/i },
+];
+// 許可ソースなら表示ラベルを返す（それ以外＝null＝不採用）
+function matchSource(name, url){
+  const s = (name||'') + ' ' + (url||'');
+  const m = NEWS_SOURCES.find(x => x.re.test(s));
+  return m ? m.label : null;
+}
+// 見出しの正規化＝重複判定キー。末尾の「 - 媒体名」「（媒体名）」（閉じカッコ欠落の切れも含む）「…」を除去し、
+// 同一記事が媒体表記ゆれで重複するのを防ぐ（特にYahoo再配信の被り対策）。表示用タイトルではなくキー専用。
+function normNewsTitle(t){
+  let s = (t||'').replace(/[\s　]+/g,' ').trim();
+  s = s.replace(/[（(][^（(]*$/,'');               // 末尾の最後の開きカッコ以降（＝媒体名。閉じ有無問わず）
+  s = s.replace(/\s*[-–—｜|]\s*[^-–—｜|]*$/,'');    // 末尾「 - 媒体名」
+  s = s.replace(/[…\.\s　]+$/,'');                 // 末尾の省略記号
+  return s.replace(/[\s　]/g,'').toLowerCase();
+}
+// 重複排除：同一見出しは1件に。Yahooは他媒体の再配信＝被るとノイズなので、非Yahooを優先して残す。
+function dedupeNews(items){
+  const arr = items.slice();
+  arr.sort((a,b) => (a.source==='Yahoo'?1:0) - (b.source==='Yahoo'?1:0));   // 非Yahooを先に＝キーを先取り
+  const seen = new Set(), out = [];
+  for (const it of arr){ const k = normNewsTitle(it.title); if (!k || seen.has(k)) continue; seen.add(k); out.push(it); }
+  out.sort((a,b) => (b.date||'').localeCompare(a.date||''));                  // 日付降順に戻す
+  return out;
+}
+// 各文書(law_id)→ニュース検索クエリ。緩いと業界マクロ・適時開示等のノイズを拾うため、完全一致("…")＋規制文脈で絞る。
+// 府令/施行令/GLは親法令・テーマに寄せる。新規追加時はここに足す。
+const Q = {
+  金商:'"金融商品取引法"', 資金決済:'"資金決済法"', 暗号資産:'暗号資産 (金融庁 OR 規制 OR 改正 OR 法案)',
+  資金移動:'"資金移動業"', 前払式:'"前払式支払手段"', ステーブル:'ステーブルコイン (規制 OR 金融庁 OR 法)',
+  犯収:'"犯罪収益移転防止法" OR (マネーロンダリング 金融庁)',
+  銀行:'"銀行法" (改正 OR 規制 OR 金融庁 OR 監督)', 会社:'"会社法" (改正 OR 見直し OR 法制)',
+  個情:'"個人情報保護法"',
+};
+const NEWS_QUERY = {
+  '323AC0000000025':Q.金商,'340CO0000000321':Q.金商,'419M60000002052':Q.金商,
+  '421AC0000000059':Q.資金決済,'422CO0000000019':Q.資金決済,
+  '429M60000002007':Q.暗号資産,'422M60000002004':Q.資金移動,'422M60000002003':Q.前払式,'505M60000002048':Q.ステーブル,
+  '419AC0000000022':Q.犯収,'420CO0000000020':Q.犯収,'420M60000F5A001':Q.犯収,
+  '356AC0000000059':Q.銀行,'357CO0000000040':Q.銀行,'357M50000040010':Q.銀行,
+  '417AC0000000086':Q.会社,'417CO0000000364':Q.会社,'418M60000010012':Q.会社,'418M60000010013':Q.会社,'418M60000010014':Q.会社,
+  '415AC0000000057':Q.個情,'415CO0000000507':Q.個情,'428M60020000003':Q.個情,
+  'fsa-kantoku-city':Q.銀行,'fsa-kantoku-chusho':Q.銀行,'fsa-kantoku-kinsho':Q.金商,
+  'fsa-guide-14':Q.資金移動,'fsa-guide-16':Q.暗号資産,'fsa-guide-17':Q.ステーブル,'fsa-guide-05':Q.前払式,
+};
+// 関連ニュースとして無価値な見出し（適時開示・自己株式・決算等の市場/開示データ系）を除外
+const NEWS_NOISE = /適時開示|自己株式|株主優待|決算(発表|短信)?|配当予想|月次|業績予想|株価|\[\d{3,4}\]/;
+function isNewsNoise(title){ return NEWS_NOISE.test(title||''); }
+
+module.exports = { LAW_DICT, LABEL, NAME_ENTRIES, matchLaws, buildLawrefs, detectKind, worthFetching, kanToNum,
+  NEWS_SOURCES, matchSource, normNewsTitle, dedupeNews, NEWS_QUERY, isNewsNoise };

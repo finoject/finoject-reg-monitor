@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const os = require('os');
 const { execFileSync } = require('child_process');
-const { buildLawrefs, worthFetching } = require('./enrich');
+const { buildLawrefs, worthFetching, NEWS_QUERY, matchSource, dedupeNews, isNewsNoise } = require('./enrich');
 
 const OUT = path.join(__dirname, '..', 'reg-monitor-site', 'data.json');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
@@ -209,6 +209,40 @@ async function postSlack(addedItems){
   } catch(e){ console.log('Slack投稿 失敗: ' + (e.message||e)); }
 }
 
+// ---- 関連ニュース：Google News RSS検索から、指定ソースの見出し＋リンクを取得（法令ビューアの規制動向枠に補足表示）----
+async function googleNews(q){
+  const url = 'https://news.google.com/rss/search?q=' + encodeURIComponent(q + ' when:60d') + '&hl=ja&gl=JP&ceid=JP:ja';
+  let xml=''; try { xml = await get(url); } catch { return []; }
+  const out=[];
+  for (const b of xml.split(/<item[\s>]/i).slice(1)){
+    const rawTitle = clean((b.match(/<title[^>]*>([\s\S]*?)<\/title>/i)||[])[1]);
+    const link = (b.match(/<link[^>]*>([\s\S]*?)<\/link>/i)||[])[1];
+    const dateRaw = (b.match(/<pubDate>([\s\S]*?)<\/pubDate>/i)||[])[1];
+    const sm = b.match(/<source[^>]*?url="([^"]*)"[^>]*>([\s\S]*?)<\/source>/i);
+    const srcUrl = sm?sm[1]:'', srcName = sm?clean(sm[2]):'';
+    if (!rawTitle || !link) continue;
+    const label = matchSource(srcName, srcUrl);          // 指定ソース以外は捨てる
+    if (!label) continue;
+    if (isNewsNoise(rawTitle)) continue;                 // 適時開示・自己株式等の市場/開示ノイズは除外
+    const title = rawTitle.replace(/\s*[-–—｜|]\s*[^-–—｜|]+$/,'').trim() || rawTitle;   // 末尾の「 - 媒体名」を除去
+    out.push({ title, url: link.trim(), source: label, date: isoFromRSSDate(dateRaw) });
+  }
+  return out;
+}
+// 各文書(law_id)分の関連ニュースを取得。クエリは重複するので一意クエリだけ叩いて結果を共有する。
+async function fetchLawNews(){
+  const out = {};
+  const q2ids = {};
+  for (const [id,q] of Object.entries(NEWS_QUERY)){ (q2ids[q]=q2ids[q]||[]).push(id); }
+  for (const [q,ids] of Object.entries(q2ids)){
+    let news = [];
+    try { news = dedupeNews(await googleNews(q)).slice(0, 6); } catch {}
+    for (const id of ids) out[id] = news;
+  }
+  console.log('関連ニュース取得: ' + Object.keys(out).filter(k=>out[k].length).length + '/' + Object.keys(out).length + ' 文書分');
+  return out;
+}
+
 // ---- 法令連携：各itemに lawrefs（参照法令＋条＋種別）を付与 ----
 // 見出しだけで判る分は常に算出。worthFetchingな新規itemは本文/PDFまで読んで精度を上げる。
 // 1回の巡回での本文取得数は上限を設け（クロール負荷の抑制）、未処理分は次回以降に回す。
@@ -266,6 +300,7 @@ async function main(){
     }
   }
   await enrichItems(store.items);                    // 法令ビューア連携用に lawrefs を付与（本文/PDFも解析）
+  store.lawnews = await fetchLawNews();               // 各法令の関連ニュース（指定ソースの見出し＋リンク）
   store.items.sort((a,b)=> (b.date||'').localeCompare(a.date||'') || (b.detectedAt||'').localeCompare(a.detectedAt||''));
   store.generatedAt = nowIso;
   store.sources = SITES.map(s=>({name:s.name, url:s.url}));
