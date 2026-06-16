@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T21:59:37.916Z",
+  "generatedAt": "2026-06-16T22:18:42.020Z",
   "items": [
     {
       "agency": "日本取引所グループ",
@@ -2336,5 +2336,889 @@
       "name": "日本公認会計士協会",
       "url": "https://jicpa.or.jp/news/information/"
     }
-  ]
+  ],
+  "lawnews": {
+    "323AC0000000025": [
+      {
+        "title": "アクトビ",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVpHWFNGM3VEc2FkNXRYOUJFRFdqZXNSdFByQkVPVWZaaU9FMFpvNHZ2RkZXdVUwaEpUNUFZNmU1U3JaenJtZDU4UFZ1enNMVGtMRUh5NFRzY2JJdEU1aGRuekxmWFJtNkIwWXhqbjNZSzFMLXpZYXlmbl9acGdKZkVyOFgxMXMwRGN5NWlKZ1laZkQycHdQM0JwVHhQNzBsQm5PQUE0dWpxRU9SeWJDLXhYQ0dzT0ZCUklpcC1WQ2h5U3pQemJQS3pCZTk?oc=5",
+        "source": "日経",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "ニデックに資料提出命令 不正会計めぐり行政処分の勧告を視野に調査 監視委（テレビ朝日系（ANN））",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XU0dadDJXcGtsNjVfU1lkRkw4VEJHenpsdVFZQUJNLUZXVnRyUGFlZnNNSVZvWkZmeDZGS1pRZVFyZkk0MzNOdmhNTlVmQmhZYng5RWhQX2taY0paXzFLXzZvQ05Rc3pPMTAtRmNvT0lBNExXYXMtU1ZnSVI3Tlk?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "不正会計問題のニデック、証券取引等監視委員会が調査に着手…会社側に資料提出命令（読売新聞オンライン）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1VktycVBZSEkzZmJlQmFkSlVDY1dHX3lINWdzYTNBOTVQZ1U5Y2ZRdGF5WG1BLUdjNTAzaXhPYlVqU2Z4VWFuaDRfbHl0WGFMSDVmNEluU3lmUnhjUmxkc25HWmswSDN2Qk9zT0Z3NVl3WU5oMW5FUWZTZnEzelU?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決（NADA NEWS）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11R0FfWFJmNkk3MHM2UFVkNU9PNEJ6NWhwRXo1eElXOTlOTFFtOXZOd0FPR2MzOEg0dUh2UkJlVFFaMXZQQmhGczY0dU9IUEVBVWFuajJiZ3o2SG5MeC05Nkg3TmtmQjJmMHhkX3Q0UW1xeEpheVBMM1ZkU19jUWM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "暗号資産規制の金商法移管を含む法案、衆院財務金融委で可決。国会審議が進む（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMDdhUGFzeEN5eE9xR3ZxcjBvYU1ic2hUcWVTUHV6OXdBYnctNnlaMTNaMXp0bnl0OHg4TEFBUkM0dTdBa3pMa3ZzVXY0WVBWSXNTaXZBQlhYbWdfQVlEbjNTbVdVZVhLMExZeDZPekpPd0ltdE5iWGpXV25fTE0?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "仮想通貨を金融商品に、金商法改正案が衆院委を通過(CoinPost)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGdjWE10cXNkbERzOFRoQWxFSkhuQ2hUenJueS1xVEtzUnU2MW5qNk1UQnZYeXlzUUp4Rk93c0FWOG5GenJITHdRT3VJMXlBUDFkYkJfU1ZtaEc5UU9kSGNiVVQyR3Z4Zl9kYXRwcDdwQkVrZ2dLc2lwQURwSmFXU1ZrbXlGVmc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      }
+    ],
+    "340CO0000000321": [
+      {
+        "title": "アクトビ",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVpHWFNGM3VEc2FkNXRYOUJFRFdqZXNSdFByQkVPVWZaaU9FMFpvNHZ2RkZXdVUwaEpUNUFZNmU1U3JaenJtZDU4UFZ1enNMVGtMRUh5NFRzY2JJdEU1aGRuekxmWFJtNkIwWXhqbjNZSzFMLXpZYXlmbl9acGdKZkVyOFgxMXMwRGN5NWlKZ1laZkQycHdQM0JwVHhQNzBsQm5PQUE0dWpxRU9SeWJDLXhYQ0dzT0ZCUklpcC1WQ2h5U3pQemJQS3pCZTk?oc=5",
+        "source": "日経",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "ニデックに資料提出命令 不正会計めぐり行政処分の勧告を視野に調査 監視委（テレビ朝日系（ANN））",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XU0dadDJXcGtsNjVfU1lkRkw4VEJHenpsdVFZQUJNLUZXVnRyUGFlZnNNSVZvWkZmeDZGS1pRZVFyZkk0MzNOdmhNTlVmQmhZYng5RWhQX2taY0paXzFLXzZvQ05Rc3pPMTAtRmNvT0lBNExXYXMtU1ZnSVI3Tlk?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "不正会計問題のニデック、証券取引等監視委員会が調査に着手…会社側に資料提出命令（読売新聞オンライン）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1VktycVBZSEkzZmJlQmFkSlVDY1dHX3lINWdzYTNBOTVQZ1U5Y2ZRdGF5WG1BLUdjNTAzaXhPYlVqU2Z4VWFuaDRfbHl0WGFMSDVmNEluU3lmUnhjUmxkc25HWmswSDN2Qk9zT0Z3NVl3WU5oMW5FUWZTZnEzelU?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決（NADA NEWS）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11R0FfWFJmNkk3MHM2UFVkNU9PNEJ6NWhwRXo1eElXOTlOTFFtOXZOd0FPR2MzOEg0dUh2UkJlVFFaMXZQQmhGczY0dU9IUEVBVWFuajJiZ3o2SG5MeC05Nkg3TmtmQjJmMHhkX3Q0UW1xeEpheVBMM1ZkU19jUWM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "暗号資産規制の金商法移管を含む法案、衆院財務金融委で可決。国会審議が進む（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMDdhUGFzeEN5eE9xR3ZxcjBvYU1ic2hUcWVTUHV6OXdBYnctNnlaMTNaMXp0bnl0OHg4TEFBUkM0dTdBa3pMa3ZzVXY0WVBWSXNTaXZBQlhYbWdfQVlEbjNTbVdVZVhLMExZeDZPekpPd0ltdE5iWGpXV25fTE0?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "仮想通貨を金融商品に、金商法改正案が衆院委を通過(CoinPost)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGdjWE10cXNkbERzOFRoQWxFSkhuQ2hUenJueS1xVEtzUnU2MW5qNk1UQnZYeXlzUUp4Rk93c0FWOG5GenJITHdRT3VJMXlBUDFkYkJfU1ZtaEc5UU9kSGNiVVQyR3Z4Zl9kYXRwcDdwQkVrZ2dLc2lwQURwSmFXU1ZrbXlGVmc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      }
+    ],
+    "419M60000002052": [
+      {
+        "title": "アクトビ",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVpHWFNGM3VEc2FkNXRYOUJFRFdqZXNSdFByQkVPVWZaaU9FMFpvNHZ2RkZXdVUwaEpUNUFZNmU1U3JaenJtZDU4UFZ1enNMVGtMRUh5NFRzY2JJdEU1aGRuekxmWFJtNkIwWXhqbjNZSzFMLXpZYXlmbl9acGdKZkVyOFgxMXMwRGN5NWlKZ1laZkQycHdQM0JwVHhQNzBsQm5PQUE0dWpxRU9SeWJDLXhYQ0dzT0ZCUklpcC1WQ2h5U3pQemJQS3pCZTk?oc=5",
+        "source": "日経",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "ニデックに資料提出命令 不正会計めぐり行政処分の勧告を視野に調査 監視委（テレビ朝日系（ANN））",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XU0dadDJXcGtsNjVfU1lkRkw4VEJHenpsdVFZQUJNLUZXVnRyUGFlZnNNSVZvWkZmeDZGS1pRZVFyZkk0MzNOdmhNTlVmQmhZYng5RWhQX2taY0paXzFLXzZvQ05Rc3pPMTAtRmNvT0lBNExXYXMtU1ZnSVI3Tlk?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "不正会計問題のニデック、証券取引等監視委員会が調査に着手…会社側に資料提出命令（読売新聞オンライン）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1VktycVBZSEkzZmJlQmFkSlVDY1dHX3lINWdzYTNBOTVQZ1U5Y2ZRdGF5WG1BLUdjNTAzaXhPYlVqU2Z4VWFuaDRfbHl0WGFMSDVmNEluU3lmUnhjUmxkc25HWmswSDN2Qk9zT0Z3NVl3WU5oMW5FUWZTZnEzelU?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決（NADA NEWS）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11R0FfWFJmNkk3MHM2UFVkNU9PNEJ6NWhwRXo1eElXOTlOTFFtOXZOd0FPR2MzOEg0dUh2UkJlVFFaMXZQQmhGczY0dU9IUEVBVWFuajJiZ3o2SG5MeC05Nkg3TmtmQjJmMHhkX3Q0UW1xeEpheVBMM1ZkU19jUWM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "暗号資産規制の金商法移管を含む法案、衆院財務金融委で可決。国会審議が進む（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMDdhUGFzeEN5eE9xR3ZxcjBvYU1ic2hUcWVTUHV6OXdBYnctNnlaMTNaMXp0bnl0OHg4TEFBUkM0dTdBa3pMa3ZzVXY0WVBWSXNTaXZBQlhYbWdfQVlEbjNTbVdVZVhLMExZeDZPekpPd0ltdE5iWGpXV25fTE0?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "仮想通貨を金融商品に、金商法改正案が衆院委を通過(CoinPost)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGdjWE10cXNkbERzOFRoQWxFSkhuQ2hUenJueS1xVEtzUnU2MW5qNk1UQnZYeXlzUUp4Rk93c0FWOG5GenJITHdRT3VJMXlBUDFkYkJfU1ZtaEc5UU9kSGNiVVQyR3Z4Zl9kYXRwcDdwQkVrZ2dLc2lwQURwSmFXU1ZrbXlGVmc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      }
+    ],
+    "fsa-kantoku-kinsho": [
+      {
+        "title": "アクトビ",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVpHWFNGM3VEc2FkNXRYOUJFRFdqZXNSdFByQkVPVWZaaU9FMFpvNHZ2RkZXdVUwaEpUNUFZNmU1U3JaenJtZDU4UFZ1enNMVGtMRUh5NFRzY2JJdEU1aGRuekxmWFJtNkIwWXhqbjNZSzFMLXpZYXlmbl9acGdKZkVyOFgxMXMwRGN5NWlKZ1laZkQycHdQM0JwVHhQNzBsQm5PQUE0dWpxRU9SeWJDLXhYQ0dzT0ZCUklpcC1WQ2h5U3pQemJQS3pCZTk?oc=5",
+        "source": "日経",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "ニデックに資料提出命令 不正会計めぐり行政処分の勧告を視野に調査 監視委（テレビ朝日系（ANN））",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XU0dadDJXcGtsNjVfU1lkRkw4VEJHenpsdVFZQUJNLUZXVnRyUGFlZnNNSVZvWkZmeDZGS1pRZVFyZkk0MzNOdmhNTlVmQmhZYng5RWhQX2taY0paXzFLXzZvQ05Rc3pPMTAtRmNvT0lBNExXYXMtU1ZnSVI3Tlk?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "不正会計問題のニデック、証券取引等監視委員会が調査に着手…会社側に資料提出命令（読売新聞オンライン）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1VktycVBZSEkzZmJlQmFkSlVDY1dHX3lINWdzYTNBOTVQZ1U5Y2ZRdGF5WG1BLUdjNTAzaXhPYlVqU2Z4VWFuaDRfbHl0WGFMSDVmNEluU3lmUnhjUmxkc25HWmswSDN2Qk9zT0Z3NVl3WU5oMW5FUWZTZnEzelU?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決（NADA NEWS）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11R0FfWFJmNkk3MHM2UFVkNU9PNEJ6NWhwRXo1eElXOTlOTFFtOXZOd0FPR2MzOEg0dUh2UkJlVFFaMXZQQmhGczY0dU9IUEVBVWFuajJiZ3o2SG5MeC05Nkg3TmtmQjJmMHhkX3Q0UW1xeEpheVBMM1ZkU19jUWM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "暗号資産規制の金商法移管を含む法案、衆院財務金融委で可決。国会審議が進む（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMDdhUGFzeEN5eE9xR3ZxcjBvYU1ic2hUcWVTUHV6OXdBYnctNnlaMTNaMXp0bnl0OHg4TEFBUkM0dTdBa3pMa3ZzVXY0WVBWSXNTaXZBQlhYbWdfQVlEbjNTbVdVZVhLMExZeDZPekpPd0ltdE5iWGpXV25fTE0?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "仮想通貨を金融商品に、金商法改正案が衆院委を通過(CoinPost)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGdjWE10cXNkbERzOFRoQWxFSkhuQ2hUenJueS1xVEtzUnU2MW5qNk1UQnZYeXlzUUp4Rk93c0FWOG5GenJITHdRT3VJMXlBUDFkYkJfU1ZtaEc5UU9kSGNiVVQyR3Z4Zl9kYXRwcDdwQkVrZ2dLc2lwQURwSmFXU1ZrbXlGVmc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      }
+    ],
+    "421AC0000000059": [
+      {
+        "title": "仮想通貨の金商法移管、衆院で可決 参院審議へ(CoinPost)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRC1vNW11Qkd5RGRGdGhuRTY2dTRRYnctbmlZdXlYNU02TTg2OVE4X2hrWnJHYUJtZk5scjV4OHpBSVZEWFN6UTY0alVTZUoxRVk3Sy1NeF8wQ2pxbjloOXpDSWZRM1NEdkNZTUxqbUdFSXVreE9aVDJpR3R4Y2JIdHFhVE0yN00?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "暗号資産規制の金商法移管を含む法案、衆院財務金融委で可決。国会審議が進む（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMDdhUGFzeEN5eE9xR3ZxcjBvYU1ic2hUcWVTUHV6OXdBYnctNnlaMTNaMXp0bnl0OHg4TEFBUkM0dTdBa3pMa3ZzVXY0WVBWSXNTaXZBQlhYbWdfQVlEbjNTbVdVZVhLMExZeDZPekpPd0ltdE5iWGpXV25fTE0?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "仮想通貨を金融商品に、金商法改正案が衆院委を通過(CoinPost)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGdjWE10cXNkbERzOFRoQWxFSkhuQ2hUenJueS1xVEtzUnU2MW5qNk1UQnZYeXlzUUp4Rk93c0FWOG5GenJITHdRT3VJMXlBUDFkYkJfU1ZtaEc5UU9kSGNiVVQyR3Z4Zl9kYXRwcDdwQkVrZ2dLc2lwQURwSmFXU1ZrbXlGVmc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "【危険】海外の仮想通貨取引所はおすすめしない？国内取引所と徹底比較 | CRYPTO INSIGHT powered by ダイヤモンド・ザイ",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05UnlJQXNTalVqOERBWFNkazRic3otYzNxQUNJTG5DdTlEVU1tdm92YVdsb0EzT0lQNkpBb0JkMTJLT2M1d2lNZlduSXpDNkVCT3ZENHNPV3VxNEcyQ0tHaGE0aXNTTm96XzItRw?oc=5",
+        "source": "ダイヤモンド",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "海外送金・暗号資産サービスに新ルール…6月から「改正資金決済法」が施行（弁護士JPニュース）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xdWd4WXJwZmpVUXZxSHFsNGZQa3Vnd0tSZDlxdHhWVXNxeExlSC1SQk1TbVpNVndURmdJNDA1YWc4RWdQMExqTXdpUHpvUGVuRm1RSklWMzdOalJsZEpuSnlvLUUzRkNxaU1odjRWTmFpdnNwVUpqZ1oyU01pTG8?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "金融庁、「電子決済手段・暗号資産サービス仲介業」制度を開始（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wYUg5LWp1M3hzenFMRk1wZkRoVmlDSHZUSGY5RmlpU2gtWE1sOVE4R1NONnpBd0g0YkcxLU1wV3lQVWtBTV8yQzJtSUt0SzgxcXEwWDA2ckJ0ZHU0SDJIeFJQUS05aHNqdmZmSkNlVTU3am5Wdk1MOEFzMWt1T1E?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-02"
+      }
+    ],
+    "422CO0000000019": [
+      {
+        "title": "仮想通貨の金商法移管、衆院で可決 参院審議へ(CoinPost)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRC1vNW11Qkd5RGRGdGhuRTY2dTRRYnctbmlZdXlYNU02TTg2OVE4X2hrWnJHYUJtZk5scjV4OHpBSVZEWFN6UTY0alVTZUoxRVk3Sy1NeF8wQ2pxbjloOXpDSWZRM1NEdkNZTUxqbUdFSXVreE9aVDJpR3R4Y2JIdHFhVE0yN00?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "暗号資産規制の金商法移管を含む法案、衆院財務金融委で可決。国会審議が進む（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMDdhUGFzeEN5eE9xR3ZxcjBvYU1ic2hUcWVTUHV6OXdBYnctNnlaMTNaMXp0bnl0OHg4TEFBUkM0dTdBa3pMa3ZzVXY0WVBWSXNTaXZBQlhYbWdfQVlEbjNTbVdVZVhLMExZeDZPekpPd0ltdE5iWGpXV25fTE0?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "仮想通貨を金融商品に、金商法改正案が衆院委を通過(CoinPost)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGdjWE10cXNkbERzOFRoQWxFSkhuQ2hUenJueS1xVEtzUnU2MW5qNk1UQnZYeXlzUUp4Rk93c0FWOG5GenJITHdRT3VJMXlBUDFkYkJfU1ZtaEc5UU9kSGNiVVQyR3Z4Zl9kYXRwcDdwQkVrZ2dLc2lwQURwSmFXU1ZrbXlGVmc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "【危険】海外の仮想通貨取引所はおすすめしない？国内取引所と徹底比較 | CRYPTO INSIGHT powered by ダイヤモンド・ザイ",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05UnlJQXNTalVqOERBWFNkazRic3otYzNxQUNJTG5DdTlEVU1tdm92YVdsb0EzT0lQNkpBb0JkMTJLT2M1d2lNZlduSXpDNkVCT3ZENHNPV3VxNEcyQ0tHaGE0aXNTTm96XzItRw?oc=5",
+        "source": "ダイヤモンド",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "海外送金・暗号資産サービスに新ルール…6月から「改正資金決済法」が施行（弁護士JPニュース）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xdWd4WXJwZmpVUXZxSHFsNGZQa3Vnd0tSZDlxdHhWVXNxeExlSC1SQk1TbVpNVndURmdJNDA1YWc4RWdQMExqTXdpUHpvUGVuRm1RSklWMzdOalJsZEpuSnlvLUUzRkNxaU1odjRWTmFpdnNwVUpqZ1oyU01pTG8?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "金融庁、「電子決済手段・暗号資産サービス仲介業」制度を開始（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wYUg5LWp1M3hzenFMRk1wZkRoVmlDSHZUSGY5RmlpU2gtWE1sOVE4R1NONnpBd0g0YkcxLU1wV3lQVWtBTV8yQzJtSUt0SzgxcXEwWDA2ckJ0ZHU0SDJIeFJQUS05aHNqdmZmSkNlVTU3am5Wdk1MOEFzMWt1T1E?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-02"
+      }
+    ],
+    "429M60000002007": [
+      {
+        "title": "国内株を売らせ暗号資産を推奨？ある投資助言業の手口の闇",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bUtUNklnckhtc3lhcklDSE8yYU9pRzZERFBNaEpOalVkUDlaZHdtSFlTT0RVclZEVk5sN0hKX28xVjlCd0ZheTN1V2dpbjZQN0RvVkV2NA?oc=5",
+        "source": "東洋経済",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "EU暗号資産規制「MiCA」、7/1の移行期間終了で8割超の既存登録事業者が未認可か（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM25TTmw2VkpnOHRCdFNkQjVVRXZHVEpzOHBoSlJOLVUtY25lZDVZQU45NzZoS01EanNlaXBVajVPWHJGYkRFQndxSlFNS05tUnRLV256ZW9heDNOdVFla0FXdWdNcG4xQkpYdjJtaEt2RkhWYmx4T0ZWMDFHQm5HWUZ0SzhXRy1RS3VsdmJ3?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "ジンバブエ、暗号資産事業者に登録義務。年500ドルの手数料も（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OSEdBcC1lUUdNcEJkRmFXUzQ2OFM5S19EV1F1eDJoVmotZ3lxa0FrWDBqREJUZ1R0NlppYmZlUlQyN3pCLXVWNVUyc1hFYkRyOXE5aE5ZazQ0ZmllOHdOMVExaHhSSGhJSm5LUGZQNEVEcTBuUTdpVmFDcEFLOGM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "クラーケン、米国で「無期限先物」提供開始。暗号資産デリバティブ市場のオンショア化進む（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10c29mOTFMcmRsRVNfMU50eXBmZURCcGdDU3Z3ZUpwUWpqdUJVdjk4ZGNTODZ4ZFdfbm9ncEVHOGJWd0NGUV9OeVd3eVVSY3dUQXNheVJOdFk2ZTU5QVNZd2dtSzJYVzZ2QWlVeUpKNGxpeXJMcW93Q2FYT2JfYlE?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "暗号資産の金商法移管法案、衆議院で可決。参議院へ（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tblR4S2FIWi1mVC14YTVKZHNyeHBxcGJzM3k0Y3Z6d1RjTUV5ZU82c2k4Qkd1eDlnUFJIcjVBYjJSeldPRC04RkZGNVhra0xWYW5RZ2tDQUdTTF9uVFoyMDQ1T1hqaTRZUERkaFlSNWVLUlN1aG8xeUNyVE5WT2s?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決（NADA NEWS）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11R0FfWFJmNkk3MHM2UFVkNU9PNEJ6NWhwRXo1eElXOTlOTFFtOXZOd0FPR2MzOEg0dUh2UkJlVFFaMXZQQmhGczY0dU9IUEVBVWFuajJiZ3o2SG5MeC05Nkg3TmtmQjJmMHhkX3Q0UW1xeEpheVBMM1ZkU19jUWM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      }
+    ],
+    "fsa-guide-16": [
+      {
+        "title": "国内株を売らせ暗号資産を推奨？ある投資助言業の手口の闇",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bUtUNklnckhtc3lhcklDSE8yYU9pRzZERFBNaEpOalVkUDlaZHdtSFlTT0RVclZEVk5sN0hKX28xVjlCd0ZheTN1V2dpbjZQN0RvVkV2NA?oc=5",
+        "source": "東洋経済",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "EU暗号資産規制「MiCA」、7/1の移行期間終了で8割超の既存登録事業者が未認可か（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM25TTmw2VkpnOHRCdFNkQjVVRXZHVEpzOHBoSlJOLVUtY25lZDVZQU45NzZoS01EanNlaXBVajVPWHJGYkRFQndxSlFNS05tUnRLV256ZW9heDNOdVFla0FXdWdNcG4xQkpYdjJtaEt2RkhWYmx4T0ZWMDFHQm5HWUZ0SzhXRy1RS3VsdmJ3?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "ジンバブエ、暗号資産事業者に登録義務。年500ドルの手数料も（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OSEdBcC1lUUdNcEJkRmFXUzQ2OFM5S19EV1F1eDJoVmotZ3lxa0FrWDBqREJUZ1R0NlppYmZlUlQyN3pCLXVWNVUyc1hFYkRyOXE5aE5ZazQ0ZmllOHdOMVExaHhSSGhJSm5LUGZQNEVEcTBuUTdpVmFDcEFLOGM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "クラーケン、米国で「無期限先物」提供開始。暗号資産デリバティブ市場のオンショア化進む（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10c29mOTFMcmRsRVNfMU50eXBmZURCcGdDU3Z3ZUpwUWpqdUJVdjk4ZGNTODZ4ZFdfbm9ncEVHOGJWd0NGUV9OeVd3eVVSY3dUQXNheVJOdFk2ZTU5QVNZd2dtSzJYVzZ2QWlVeUpKNGxpeXJMcW93Q2FYT2JfYlE?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "暗号資産の金商法移管法案、衆議院で可決。参議院へ（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tblR4S2FIWi1mVC14YTVKZHNyeHBxcGJzM3k0Y3Z6d1RjTUV5ZU82c2k4Qkd1eDlnUFJIcjVBYjJSeldPRC04RkZGNVhra0xWYW5RZ2tDQUdTTF9uVFoyMDQ1T1hqaTRZUERkaFlSNWVLUlN1aG8xeUNyVE5WT2s?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決（NADA NEWS）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11R0FfWFJmNkk3MHM2UFVkNU9PNEJ6NWhwRXo1eElXOTlOTFFtOXZOd0FPR2MzOEg0dUh2UkJlVFFaMXZQQmhGczY0dU9IUEVBVWFuajJiZ3o2SG5MeC05Nkg3TmtmQjJmMHhkX3Q0UW1xeEpheVBMM1ZkU19jUWM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      }
+    ],
+    "422M60000002004": [
+      {
+        "title": "海外送金・暗号資産サービスに新ルール…6月から「改正資金決済法」が施行（弁護士JPニュース）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xdWd4WXJwZmpVUXZxSHFsNGZQa3Vnd0tSZDlxdHhWVXNxeExlSC1SQk1TbVpNVndURmdJNDA1YWc4RWdQMExqTXdpUHpvUGVuRm1RSklWMzdOalJsZEpuSnlvLUUzRkNxaU1odjRWTmFpdnNwVUpqZ1oyU01pTG8?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "金融庁、ステーブルコイン実用化へ制度整備──改正資金決済法の政令・府令を公布、6月1日施行（NADA NEWS）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02U0J2bnFWdVdJQXY5ZHl4Y0pWSzI0c2c0OVA4UXN4TUJaS1c0ZjFkdmc0ZDRDSDJhNDh1aWVNeTIwZFlIZENKaHEwd19fTng1X0Z2YS1FX0V1WjFpRlprN2dGNEhrdjVQQXhhU3k4U1JRT21zbGY4U0hsWlZibmM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-23"
+      }
+    ],
+    "fsa-guide-14": [
+      {
+        "title": "海外送金・暗号資産サービスに新ルール…6月から「改正資金決済法」が施行（弁護士JPニュース）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xdWd4WXJwZmpVUXZxSHFsNGZQa3Vnd0tSZDlxdHhWVXNxeExlSC1SQk1TbVpNVndURmdJNDA1YWc4RWdQMExqTXdpUHpvUGVuRm1RSklWMzdOalJsZEpuSnlvLUUzRkNxaU1odjRWTmFpdnNwVUpqZ1oyU01pTG8?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "金融庁、ステーブルコイン実用化へ制度整備──改正資金決済法の政令・府令を公布、6月1日施行（NADA NEWS）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02U0J2bnFWdVdJQXY5ZHl4Y0pWSzI0c2c0OVA4UXN4TUJaS1c0ZjFkdmc0ZDRDSDJhNDh1aWVNeTIwZFlIZENKaHEwd19fTng1X0Z2YS1FX0V1WjFpRlprN2dGNEhrdjVQQXhhU3k4U1JRT21zbGY4U0hsWlZibmM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-23"
+      }
+    ],
+    "422M60000002003": [
+      {
+        "title": "デジタルプラットフォーマー、XRPL活用のRWA取引基盤を実証。グリーン電力証書をオンチェーン化 (あたらしい経済)",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWExBT1pDTnFQN0V6MzNnOXlsWWNsakg3d0xIbTQ2dkdFLUFkTkR0R0tEVkh2c19PMFF3cEdHWlJxcEp1d0VZOEhDQk1JbW9adkRsVmxEQkdHLXl1NkNYOWFtRXg4QXB3a2FtYlZROGptWWZ5SGxpU21lOXRLYlNrRndIYnJ3X2ZVekVEaDlB?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-04"
+      }
+    ],
+    "fsa-guide-05": [
+      {
+        "title": "デジタルプラットフォーマー、XRPL活用のRWA取引基盤を実証。グリーン電力証書をオンチェーン化 (あたらしい経済)",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWExBT1pDTnFQN0V6MzNnOXlsWWNsakg3d0xIbTQ2dkdFLUFkTkR0R0tEVkh2c19PMFF3cEdHWlJxcEp1d0VZOEhDQk1JbW9adkRsVmxEQkdHLXl1NkNYOWFtRXg4QXB3a2FtYlZROGptWWZ5SGxpU21lOXRLYlNrRndIYnJ3X2ZVekVEaDlB?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-04"
+      }
+    ],
+    "505M60000002048": [
+      {
+        "title": "VisaとMastercardがステーブルコインを共同構築との報道──TetherとCircleに挑戦か",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQTRhX2dIQmlCVGt3b0dsWVY3cEk1cjBiZDhXcG15QThiM2FjM2FrVmwtNi1JY05CWl96aWFhdTgxeE9jNlktYVlJZ2gteXhpcVZOOXZfTTFfOEZRZWIybUZxNnhna3cxbVoySG8tcGxMaXF6Qk40cnB6d0hfQmc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "米FDIC、GENIUS法に基づくステーブルコイン規制の提案規則を承認 (あたらしい経済)",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEJpMFkxNjVlTVktR1JtSW5LcFNFMFhmbGNJRDJwZU5CNU9lUm1NSnktNXBVcEVxMFg4cUdkd2tPdmh0RkRmaGRXb2gyNzRObDdzaFV5WXFfWG9UZzItOXNDdlZxZVR0eVdiNEcxVmVCZ0tPVS1POHhpa1RuZWU3bHV6dk9PN3BaY1VrcS1n?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "ステーブルコインの社会実装 - デジタル金融最前線",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XbUVGX1AtZFFkSHowdzRrNGVTUE1NNm9sa1JUWEZhM2Z3aFhqTTBGemFhRjF4YWhyb3NBZC15N1oyZThtbkRfT1hDQzBSblRIb1hUVg?oc=5",
+        "source": "日経",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "ステーブルコイン、今年度に共同発行 協議会設置で合意―３メガ銀",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TVTFlMUp1bUR2Vy1iZEJ6QTlQRjhCYkhmYWF0ODN6LTEzaXhXZGItUlRra04zMlZfOEhwaHl4SF9KMVFEeEl2VlhJa1I2OHhQeGx3cF9MV2Y4Q1RsWko5MmFFQQ?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "国内3メガバンク共同のステーブルコイン、26年度中に発行か＝報道（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YjBxV0JQd29fM25KQ1ZUdWxzb1RGQUYycnB1MUpkNFo5MzJhNDNwdTE1aE1UQUFqUkVhMC1WX1l5ejhyZGdyYUdlTS0wZFBTRVJxQVpQTG1UbFVldnJQMk50VmQ2eHNNTVBFWElZZ0k5Qkw1ZlVsdEJnRGFCVnc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "3メガバンク、26年度中にステーブルコイン共同発行へ 協議会を設置",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13a05lZW1ENFUtWmhLekhvNmdzcGotTjQxNkE5MTFxRHlmNTAzOEV0S0ttVkp2X3VHQWtrbmZjY1NZTG1ibjZqNkVmV213a0pWYTdjNFhQSnE5NzdNNVJ5Tktpa2k5ZUNkZ1I4cw?oc=5",
+        "source": "日経",
+        "date": "2026-06-09"
+      }
+    ],
+    "fsa-guide-17": [
+      {
+        "title": "VisaとMastercardがステーブルコインを共同構築との報道──TetherとCircleに挑戦か",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQTRhX2dIQmlCVGt3b0dsWVY3cEk1cjBiZDhXcG15QThiM2FjM2FrVmwtNi1JY05CWl96aWFhdTgxeE9jNlktYVlJZ2gteXhpcVZOOXZfTTFfOEZRZWIybUZxNnhna3cxbVoySG8tcGxMaXF6Qk40cnB6d0hfQmc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "米FDIC、GENIUS法に基づくステーブルコイン規制の提案規則を承認 (あたらしい経済)",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEJpMFkxNjVlTVktR1JtSW5LcFNFMFhmbGNJRDJwZU5CNU9lUm1NSnktNXBVcEVxMFg4cUdkd2tPdmh0RkRmaGRXb2gyNzRObDdzaFV5WXFfWG9UZzItOXNDdlZxZVR0eVdiNEcxVmVCZ0tPVS1POHhpa1RuZWU3bHV6dk9PN3BaY1VrcS1n?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "ステーブルコインの社会実装 - デジタル金融最前線",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XbUVGX1AtZFFkSHowdzRrNGVTUE1NNm9sa1JUWEZhM2Z3aFhqTTBGemFhRjF4YWhyb3NBZC15N1oyZThtbkRfT1hDQzBSblRIb1hUVg?oc=5",
+        "source": "日経",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "ステーブルコイン、今年度に共同発行 協議会設置で合意―３メガ銀",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TVTFlMUp1bUR2Vy1iZEJ6QTlQRjhCYkhmYWF0ODN6LTEzaXhXZGItUlRra04zMlZfOEhwaHl4SF9KMVFEeEl2VlhJa1I2OHhQeGx3cF9MV2Y4Q1RsWko5MmFFQQ?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "国内3メガバンク共同のステーブルコイン、26年度中に発行か＝報道（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YjBxV0JQd29fM25KQ1ZUdWxzb1RGQUYycnB1MUpkNFo5MzJhNDNwdTE1aE1UQUFqUkVhMC1WX1l5ejhyZGdyYUdlTS0wZFBTRVJxQVpQTG1UbFVldnJQMk50VmQ2eHNNTVBFWElZZ0k5Qkw1ZlVsdEJnRGFCVnc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "3メガバンク、26年度中にステーブルコイン共同発行へ 協議会を設置",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13a05lZW1ENFUtWmhLekhvNmdzcGotTjQxNkE5MTFxRHlmNTAzOEV0S0ttVkp2X3VHQWtrbmZjY1NZTG1ibjZqNkVmV213a0pWYTdjNFhQSnE5NzdNNVJ5Tktpa2k5ZUNkZ1I4cw?oc=5",
+        "source": "日経",
+        "date": "2026-06-09"
+      }
+    ],
+    "419AC0000000022": [
+      {
+        "title": "本人確認だけで済まない犯収法改正、「反社チェック」を怠れば行政処分も（2ページ目）",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WOEhmaHRoay1ySkVQMUlwRzJIOF9GWTUxTzVDRXdibmNrUjdSaU1IZml5RmVtS09ybmdJU2h5WVN3YWVJNGlZdTY4V2FhN1FkUVk3SnY1RmkxOThlTTlkZ0N4N0tuNm05czZkUHJfUE9YZw?oc=5",
+        "source": "日経",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "オンライン詐欺対策のカギは「市民参加」",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QV3lVenJxWHdFYmM0NkRDNDBIYlZEMHJUeWNueDltMDBNbzVQdl9qd3ZBaVhHeHlzckJfM0JkTF9NdThXTzllUjA3akw0OWlkQmpKN2ZQS0JIblpVRUZCUlNMNVNmOUlR?oc=5",
+        "source": "日経",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "海外送金・暗号資産サービスに新ルール…6月から「改正資金決済法」が施行（弁護士JPニュース）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xdWd4WXJwZmpVUXZxSHFsNGZQa3Vnd0tSZDlxdHhWVXNxeExlSC1SQk1TbVpNVndURmdJNDA1YWc4RWdQMExqTXdpUHpvUGVuRm1RSklWMzdOalJsZEpuSnlvLUUzRkNxaU1odjRWTmFpdnNwVUpqZ1oyU01pTG8?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "信金・信組に波紋！自民党金融調査会が「専門検査官」新設の提言案で迫り来るガバナンス改革と新陳代謝の足音",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEd0JJZHBHaFNsNGRqQW00N0lSVko0ZGUzSlBEQkFLV1B4bmpmdkpkU0xFMkNkUjhVLW1jZ3NBbXVVamh3dk9ISHRvYU3SAU9BVV95cUxNajJ6R2g4eDJ2WlZwSU4wRENSMGJvdWoyUlo0dGJZamtDN1VEYzRUUWZYWmZFaHl3TTUtSjNDZWEzQlVhWmhVZjd5d0w5SHdV?oc=5",
+        "source": "ダイヤモンド",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "詐欺疑いの口座情報、同意なく共有可能に 政府がマネロン対策で特例",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtOFlidlYwTHNnd2JTS1hvbHA5dVlIRVFXMlpMWkhmWWRrY3loSUpJbE1QMGNJSHB3MjE3dFlaR3dOWTJTZi1LMGpaaXk3WWlGdkZud0tLd0o2WVNETVJOeTU5dU1feEhNOTdmMw?oc=5",
+        "source": "日経",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "特殊詐欺被害金の追跡、迅速化 オンライン口座照会、即日も―主要銀行と協定締結・警察庁",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sUmhnOWpkYzVjNHdycGk1UkxiVVVWb2JuLUVwNlpmdXBZT3hLUHVLQVlWWFV5cmxYcjlvYmctQmViZ29nUm5aNGRfSDd6YV93aVEtTWtveVlsQUZyTnY0bllEbw?oc=5",
+        "source": "時事通信",
+        "date": "2026-05-28"
+      }
+    ],
+    "420CO0000000020": [
+      {
+        "title": "本人確認だけで済まない犯収法改正、「反社チェック」を怠れば行政処分も（2ページ目）",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WOEhmaHRoay1ySkVQMUlwRzJIOF9GWTUxTzVDRXdibmNrUjdSaU1IZml5RmVtS09ybmdJU2h5WVN3YWVJNGlZdTY4V2FhN1FkUVk3SnY1RmkxOThlTTlkZ0N4N0tuNm05czZkUHJfUE9YZw?oc=5",
+        "source": "日経",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "オンライン詐欺対策のカギは「市民参加」",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QV3lVenJxWHdFYmM0NkRDNDBIYlZEMHJUeWNueDltMDBNbzVQdl9qd3ZBaVhHeHlzckJfM0JkTF9NdThXTzllUjA3akw0OWlkQmpKN2ZQS0JIblpVRUZCUlNMNVNmOUlR?oc=5",
+        "source": "日経",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "海外送金・暗号資産サービスに新ルール…6月から「改正資金決済法」が施行（弁護士JPニュース）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xdWd4WXJwZmpVUXZxSHFsNGZQa3Vnd0tSZDlxdHhWVXNxeExlSC1SQk1TbVpNVndURmdJNDA1YWc4RWdQMExqTXdpUHpvUGVuRm1RSklWMzdOalJsZEpuSnlvLUUzRkNxaU1odjRWTmFpdnNwVUpqZ1oyU01pTG8?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "信金・信組に波紋！自民党金融調査会が「専門検査官」新設の提言案で迫り来るガバナンス改革と新陳代謝の足音",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEd0JJZHBHaFNsNGRqQW00N0lSVko0ZGUzSlBEQkFLV1B4bmpmdkpkU0xFMkNkUjhVLW1jZ3NBbXVVamh3dk9ISHRvYU3SAU9BVV95cUxNajJ6R2g4eDJ2WlZwSU4wRENSMGJvdWoyUlo0dGJZamtDN1VEYzRUUWZYWmZFaHl3TTUtSjNDZWEzQlVhWmhVZjd5d0w5SHdV?oc=5",
+        "source": "ダイヤモンド",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "詐欺疑いの口座情報、同意なく共有可能に 政府がマネロン対策で特例",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtOFlidlYwTHNnd2JTS1hvbHA5dVlIRVFXMlpMWkhmWWRrY3loSUpJbE1QMGNJSHB3MjE3dFlaR3dOWTJTZi1LMGpaaXk3WWlGdkZud0tLd0o2WVNETVJOeTU5dU1feEhNOTdmMw?oc=5",
+        "source": "日経",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "特殊詐欺被害金の追跡、迅速化 オンライン口座照会、即日も―主要銀行と協定締結・警察庁",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sUmhnOWpkYzVjNHdycGk1UkxiVVVWb2JuLUVwNlpmdXBZT3hLUHVLQVlWWFV5cmxYcjlvYmctQmViZ29nUm5aNGRfSDd6YV93aVEtTWtveVlsQUZyTnY0bllEbw?oc=5",
+        "source": "時事通信",
+        "date": "2026-05-28"
+      }
+    ],
+    "420M60000F5A001": [
+      {
+        "title": "本人確認だけで済まない犯収法改正、「反社チェック」を怠れば行政処分も（2ページ目）",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WOEhmaHRoay1ySkVQMUlwRzJIOF9GWTUxTzVDRXdibmNrUjdSaU1IZml5RmVtS09ybmdJU2h5WVN3YWVJNGlZdTY4V2FhN1FkUVk3SnY1RmkxOThlTTlkZ0N4N0tuNm05czZkUHJfUE9YZw?oc=5",
+        "source": "日経",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "オンライン詐欺対策のカギは「市民参加」",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QV3lVenJxWHdFYmM0NkRDNDBIYlZEMHJUeWNueDltMDBNbzVQdl9qd3ZBaVhHeHlzckJfM0JkTF9NdThXTzllUjA3akw0OWlkQmpKN2ZQS0JIblpVRUZCUlNMNVNmOUlR?oc=5",
+        "source": "日経",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "海外送金・暗号資産サービスに新ルール…6月から「改正資金決済法」が施行（弁護士JPニュース）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xdWd4WXJwZmpVUXZxSHFsNGZQa3Vnd0tSZDlxdHhWVXNxeExlSC1SQk1TbVpNVndURmdJNDA1YWc4RWdQMExqTXdpUHpvUGVuRm1RSklWMzdOalJsZEpuSnlvLUUzRkNxaU1odjRWTmFpdnNwVUpqZ1oyU01pTG8?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "信金・信組に波紋！自民党金融調査会が「専門検査官」新設の提言案で迫り来るガバナンス改革と新陳代謝の足音",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEd0JJZHBHaFNsNGRqQW00N0lSVko0ZGUzSlBEQkFLV1B4bmpmdkpkU0xFMkNkUjhVLW1jZ3NBbXVVamh3dk9ISHRvYU3SAU9BVV95cUxNajJ6R2g4eDJ2WlZwSU4wRENSMGJvdWoyUlo0dGJZamtDN1VEYzRUUWZYWmZFaHl3TTUtSjNDZWEzQlVhWmhVZjd5d0w5SHdV?oc=5",
+        "source": "ダイヤモンド",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "詐欺疑いの口座情報、同意なく共有可能に 政府がマネロン対策で特例",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtOFlidlYwTHNnd2JTS1hvbHA5dVlIRVFXMlpMWkhmWWRrY3loSUpJbE1QMGNJSHB3MjE3dFlaR3dOWTJTZi1LMGpaaXk3WWlGdkZud0tLd0o2WVNETVJOeTU5dU1feEhNOTdmMw?oc=5",
+        "source": "日経",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "特殊詐欺被害金の追跡、迅速化 オンライン口座照会、即日も―主要銀行と協定締結・警察庁",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sUmhnOWpkYzVjNHdycGk1UkxiVVVWb2JuLUVwNlpmdXBZT3hLUHVLQVlWWFV5cmxYcjlvYmctQmViZ29nUm5aNGRfSDd6YV93aVEtTWtveVlsQUZyTnY0bllEbw?oc=5",
+        "source": "時事通信",
+        "date": "2026-05-28"
+      }
+    ],
+    "356AC0000000059": [
+      {
+        "title": "金融庁肝入り オープンAPIの実情",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYzc1Z0JLaTFDUlhzTUp2N2RHZFZRSG81Sk9RTmJFUWFSWTBOdFU5VXBsNXBsanFVQUNHMzlBbFpDTTJpMFpWd0YtYXBlNE9IcWFNdEtkV3ZLaHlFTHB4TWRuaXNCZnBTVGo0UmZ4Y0Utd0ItWjRWMUpJeVRKRkhsU2ZLLVRLM3poV1hOMEdlOExsOHpfd1FaZUVZckJOaTctTzNkN1Q5bFh6OUVGMjV3ajdaOVBpMGw4T05uZnJFNkYxY1JjRDh2UjFB?oc=5",
+        "source": "日経",
+        "date": "2026-06-13"
+      }
+    ],
+    "357CO0000000040": [
+      {
+        "title": "金融庁肝入り オープンAPIの実情",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYzc1Z0JLaTFDUlhzTUp2N2RHZFZRSG81Sk9RTmJFUWFSWTBOdFU5VXBsNXBsanFVQUNHMzlBbFpDTTJpMFpWd0YtYXBlNE9IcWFNdEtkV3ZLaHlFTHB4TWRuaXNCZnBTVGo0UmZ4Y0Utd0ItWjRWMUpJeVRKRkhsU2ZLLVRLM3poV1hOMEdlOExsOHpfd1FaZUVZckJOaTctTzNkN1Q5bFh6OUVGMjV3ajdaOVBpMGw4T05uZnJFNkYxY1JjRDh2UjFB?oc=5",
+        "source": "日経",
+        "date": "2026-06-13"
+      }
+    ],
+    "357M50000040010": [
+      {
+        "title": "金融庁肝入り オープンAPIの実情",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYzc1Z0JLaTFDUlhzTUp2N2RHZFZRSG81Sk9RTmJFUWFSWTBOdFU5VXBsNXBsanFVQUNHMzlBbFpDTTJpMFpWd0YtYXBlNE9IcWFNdEtkV3ZLaHlFTHB4TWRuaXNCZnBTVGo0UmZ4Y0Utd0ItWjRWMUpJeVRKRkhsU2ZLLVRLM3poV1hOMEdlOExsOHpfd1FaZUVZckJOaTctTzNkN1Q5bFh6OUVGMjV3ajdaOVBpMGw4T05uZnJFNkYxY1JjRDh2UjFB?oc=5",
+        "source": "日経",
+        "date": "2026-06-13"
+      }
+    ],
+    "fsa-kantoku-city": [
+      {
+        "title": "金融庁肝入り オープンAPIの実情",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYzc1Z0JLaTFDUlhzTUp2N2RHZFZRSG81Sk9RTmJFUWFSWTBOdFU5VXBsNXBsanFVQUNHMzlBbFpDTTJpMFpWd0YtYXBlNE9IcWFNdEtkV3ZLaHlFTHB4TWRuaXNCZnBTVGo0UmZ4Y0Utd0ItWjRWMUpJeVRKRkhsU2ZLLVRLM3poV1hOMEdlOExsOHpfd1FaZUVZckJOaTctTzNkN1Q5bFh6OUVGMjV3ajdaOVBpMGw4T05uZnJFNkYxY1JjRDh2UjFB?oc=5",
+        "source": "日経",
+        "date": "2026-06-13"
+      }
+    ],
+    "fsa-kantoku-chusho": [
+      {
+        "title": "金融庁肝入り オープンAPIの実情",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYzc1Z0JLaTFDUlhzTUp2N2RHZFZRSG81Sk9RTmJFUWFSWTBOdFU5VXBsNXBsanFVQUNHMzlBbFpDTTJpMFpWd0YtYXBlNE9IcWFNdEtkV3ZLaHlFTHB4TWRuaXNCZnBTVGo0UmZ4Y0Utd0ItWjRWMUpJeVRKRkhsU2ZLLVRLM3poV1hOMEdlOExsOHpfd1FaZUVZckJOaTctTzNkN1Q5bFh6OUVGMjV3ajdaOVBpMGw4T05uZnJFNkYxY1JjRDh2UjFB?oc=5",
+        "source": "日経",
+        "date": "2026-06-13"
+      }
+    ],
+    "417AC0000000086": [
+      {
+        "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
+        "source": "読売新聞",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "実質株主確認制度、企業の乱用による弊害も検討を",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQkpKb1JySzBmX1ZzYXhJRGJYX2pvMWVlNElxdnZ6R0h1T1VpcVpLdDZfaGJvMDFqcGRUVndiTXlhSUZQU3lkWjJERzZKalBTYUFQZ3JjR2M2LTgwb1F6cEVULXl3QWtXMjJBRldqUWdMUVlNYXlwaExVT0Jjdw?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "物言う株主のあり方議論 自民が作業部会 会社法の改正視野",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "自民党、アクティビスト対策で新PT立ち上げへ 会社法改正視野",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LcXFJWmk1bTUwdnRMZm5Yb3NQUXdQdkh4R3p6Q1RqblJoYl9YVzZBVGNldDhaNjN3Q253Rl9qY1BrUXVEdjkxZWFLWFI4aldwYnZ4bGoxQy1DdGNMNm9UV2JjMzBZTTN5ZmFHSA?oc=5",
+        "source": "日経",
+        "date": "2026-05-26"
+      }
+    ],
+    "417CO0000000364": [
+      {
+        "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
+        "source": "読売新聞",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "実質株主確認制度、企業の乱用による弊害も検討を",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQkpKb1JySzBmX1ZzYXhJRGJYX2pvMWVlNElxdnZ6R0h1T1VpcVpLdDZfaGJvMDFqcGRUVndiTXlhSUZQU3lkWjJERzZKalBTYUFQZ3JjR2M2LTgwb1F6cEVULXl3QWtXMjJBRldqUWdMUVlNYXlwaExVT0Jjdw?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "物言う株主のあり方議論 自民が作業部会 会社法の改正視野",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "自民党、アクティビスト対策で新PT立ち上げへ 会社法改正視野",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LcXFJWmk1bTUwdnRMZm5Yb3NQUXdQdkh4R3p6Q1RqblJoYl9YVzZBVGNldDhaNjN3Q253Rl9qY1BrUXVEdjkxZWFLWFI4aldwYnZ4bGoxQy1DdGNMNm9UV2JjMzBZTTN5ZmFHSA?oc=5",
+        "source": "日経",
+        "date": "2026-05-26"
+      }
+    ],
+    "418M60000010012": [
+      {
+        "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
+        "source": "読売新聞",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "実質株主確認制度、企業の乱用による弊害も検討を",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQkpKb1JySzBmX1ZzYXhJRGJYX2pvMWVlNElxdnZ6R0h1T1VpcVpLdDZfaGJvMDFqcGRUVndiTXlhSUZQU3lkWjJERzZKalBTYUFQZ3JjR2M2LTgwb1F6cEVULXl3QWtXMjJBRldqUWdMUVlNYXlwaExVT0Jjdw?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "物言う株主のあり方議論 自民が作業部会 会社法の改正視野",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "自民党、アクティビスト対策で新PT立ち上げへ 会社法改正視野",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LcXFJWmk1bTUwdnRMZm5Yb3NQUXdQdkh4R3p6Q1RqblJoYl9YVzZBVGNldDhaNjN3Q253Rl9qY1BrUXVEdjkxZWFLWFI4aldwYnZ4bGoxQy1DdGNMNm9UV2JjMzBZTTN5ZmFHSA?oc=5",
+        "source": "日経",
+        "date": "2026-05-26"
+      }
+    ],
+    "418M60000010013": [
+      {
+        "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
+        "source": "読売新聞",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "実質株主確認制度、企業の乱用による弊害も検討を",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQkpKb1JySzBmX1ZzYXhJRGJYX2pvMWVlNElxdnZ6R0h1T1VpcVpLdDZfaGJvMDFqcGRUVndiTXlhSUZQU3lkWjJERzZKalBTYUFQZ3JjR2M2LTgwb1F6cEVULXl3QWtXMjJBRldqUWdMUVlNYXlwaExVT0Jjdw?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "物言う株主のあり方議論 自民が作業部会 会社法の改正視野",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "自民党、アクティビスト対策で新PT立ち上げへ 会社法改正視野",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LcXFJWmk1bTUwdnRMZm5Yb3NQUXdQdkh4R3p6Q1RqblJoYl9YVzZBVGNldDhaNjN3Q253Rl9qY1BrUXVEdjkxZWFLWFI4aldwYnZ4bGoxQy1DdGNMNm9UV2JjMzBZTTN5ZmFHSA?oc=5",
+        "source": "日経",
+        "date": "2026-05-26"
+      }
+    ],
+    "418M60000010014": [
+      {
+        "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
+        "source": "読売新聞",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "実質株主確認制度、企業の乱用による弊害も検討を",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQkpKb1JySzBmX1ZzYXhJRGJYX2pvMWVlNElxdnZ6R0h1T1VpcVpLdDZfaGJvMDFqcGRUVndiTXlhSUZQU3lkWjJERzZKalBTYUFQZ3JjR2M2LTgwb1F6cEVULXl3QWtXMjJBRldqUWdMUVlNYXlwaExVT0Jjdw?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "物言う株主のあり方議論 自民が作業部会 会社法の改正視野",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "自民党、アクティビスト対策で新PT立ち上げへ 会社法改正視野",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LcXFJWmk1bTUwdnRMZm5Yb3NQUXdQdkh4R3p6Q1RqblJoYl9YVzZBVGNldDhaNjN3Q253Rl9qY1BrUXVEdjkxZWFLWFI4aldwYnZ4bGoxQy1DdGNMNm9UV2JjMzBZTTN5ZmFHSA?oc=5",
+        "source": "日経",
+        "date": "2026-05-26"
+      }
+    ],
+    "415AC0000000057": [
+      {
+        "title": "亡霊の如く蘇る「メディア規制」 報道機関も罰則対象の「個人情報保護法」改正案が衆院通過（週刊金曜日）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRk5FVWFMYkgxbXM3U0JidHdCclZGQ2lUbTJ2VnE3ZzdXWDdWR0ZGUHVuSTRzbFhOek1aYU1tOE1YWGFHXzFubVBWd2RnUHp5dGxPY1hCVW1OWndibENzemZZWGZZblNFZTVuM2I0NElVYlVtbE8tUlJ2Q2wtcTA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "AI開発なら本人同意なく提供 個人情報保護法改正案の問題点とは？ [AIの時代]",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOcFRoODVnTk9YWTJqcHRrMG9lS0lrcngwdTVfNXRtMlpGM2duNkxOM0FPV3Q0V3BON25NcTRsVDJYVWtCWERxTkpvYzlWZU0tNTA1c2NwMkE4bkZsVFBoUWhPWFRZVm8?oc=5",
+        "source": "朝日新聞",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "個人情報保護法の改正は｢最悪の案｣ 医療データ専門家、異例の指摘 [AIの時代]",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16OExIX0hsczZFWGxIdWJ0RWVfQWRiUU5nWDMweWZkVzFsejdTVGk1em9RSFBVdmhrQXRhSDU3Z25PdW1vTzV3dTZrdHVTYWtkRk5sRVBjZ0o3VTNucF9IUGF6R2FUT1U?oc=5",
+        "source": "朝日新聞",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "個人情報保護法改正案 参院で審議入り 立民“氏名など削除を”",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zMDdXdVlZemt2aS0wRk9wMGxPQ3pxS0VRYmg1SlI0ZGViN3p1OFR0ckJwTUZYNmJvVWEtUGNjYmVrWVYxQ3FEeDZBV0RRenVxVkFyWXRjdDY0N1M1MnRZ?oc=5",
+        "source": "NHK",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "病歴や信条も同意なく提供 個人情報の法改正めぐり参院審議に注目",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lZ2otUi00SG5EMnl5MXEyRDljSUtxVXVkUlpwSFZTSVppZ2JCZ0RtRmVtLU56eTA1LU5EanFSVXc3UjIxNl8zNHhDdXpiQnpZUl9FZWhpS2J6Yk1uM0ZzYTV1MjFPY3F2MjRXdDFn?oc=5",
+        "source": "朝日新聞",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "「おかしいよ！」「やりたい放題だな」「法案出し直せ」個人情報保護法改正案の審議でヤジの嵐 本人の同意なく氏名・住所・病歴のデータが企業に流れる問題質疑（ABEMA TIMES）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pTDZ2YURUd1E4VEU0WFdER3NZcWQ1dS1BZ21vdTAwWG5DRHhvU3ZySzZkSktFOXlUaXIzTFUzdUl3U1hkdmVwRmQzMl9hN1EzcE1mT3hUMk9xNW9TVGFxQzhYcE1DclRHWERPa0lvNEs5UHl6RnQ5bk1QNlVJVUk?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      }
+    ],
+    "415CO0000000507": [
+      {
+        "title": "亡霊の如く蘇る「メディア規制」 報道機関も罰則対象の「個人情報保護法」改正案が衆院通過（週刊金曜日）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRk5FVWFMYkgxbXM3U0JidHdCclZGQ2lUbTJ2VnE3ZzdXWDdWR0ZGUHVuSTRzbFhOek1aYU1tOE1YWGFHXzFubVBWd2RnUHp5dGxPY1hCVW1OWndibENzemZZWGZZblNFZTVuM2I0NElVYlVtbE8tUlJ2Q2wtcTA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "AI開発なら本人同意なく提供 個人情報保護法改正案の問題点とは？ [AIの時代]",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOcFRoODVnTk9YWTJqcHRrMG9lS0lrcngwdTVfNXRtMlpGM2duNkxOM0FPV3Q0V3BON25NcTRsVDJYVWtCWERxTkpvYzlWZU0tNTA1c2NwMkE4bkZsVFBoUWhPWFRZVm8?oc=5",
+        "source": "朝日新聞",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "個人情報保護法の改正は｢最悪の案｣ 医療データ専門家、異例の指摘 [AIの時代]",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16OExIX0hsczZFWGxIdWJ0RWVfQWRiUU5nWDMweWZkVzFsejdTVGk1em9RSFBVdmhrQXRhSDU3Z25PdW1vTzV3dTZrdHVTYWtkRk5sRVBjZ0o3VTNucF9IUGF6R2FUT1U?oc=5",
+        "source": "朝日新聞",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "個人情報保護法改正案 参院で審議入り 立民“氏名など削除を”",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zMDdXdVlZemt2aS0wRk9wMGxPQ3pxS0VRYmg1SlI0ZGViN3p1OFR0ckJwTUZYNmJvVWEtUGNjYmVrWVYxQ3FEeDZBV0RRenVxVkFyWXRjdDY0N1M1MnRZ?oc=5",
+        "source": "NHK",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "病歴や信条も同意なく提供 個人情報の法改正めぐり参院審議に注目",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lZ2otUi00SG5EMnl5MXEyRDljSUtxVXVkUlpwSFZTSVppZ2JCZ0RtRmVtLU56eTA1LU5EanFSVXc3UjIxNl8zNHhDdXpiQnpZUl9FZWhpS2J6Yk1uM0ZzYTV1MjFPY3F2MjRXdDFn?oc=5",
+        "source": "朝日新聞",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "「おかしいよ！」「やりたい放題だな」「法案出し直せ」個人情報保護法改正案の審議でヤジの嵐 本人の同意なく氏名・住所・病歴のデータが企業に流れる問題質疑（ABEMA TIMES）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pTDZ2YURUd1E4VEU0WFdER3NZcWQ1dS1BZ21vdTAwWG5DRHhvU3ZySzZkSktFOXlUaXIzTFUzdUl3U1hkdmVwRmQzMl9hN1EzcE1mT3hUMk9xNW9TVGFxQzhYcE1DclRHWERPa0lvNEs5UHl6RnQ5bk1QNlVJVUk?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      }
+    ],
+    "428M60020000003": [
+      {
+        "title": "亡霊の如く蘇る「メディア規制」 報道機関も罰則対象の「個人情報保護法」改正案が衆院通過（週刊金曜日）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRk5FVWFMYkgxbXM3U0JidHdCclZGQ2lUbTJ2VnE3ZzdXWDdWR0ZGUHVuSTRzbFhOek1aYU1tOE1YWGFHXzFubVBWd2RnUHp5dGxPY1hCVW1OWndibENzemZZWGZZblNFZTVuM2I0NElVYlVtbE8tUlJ2Q2wtcTA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "AI開発なら本人同意なく提供 個人情報保護法改正案の問題点とは？ [AIの時代]",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOcFRoODVnTk9YWTJqcHRrMG9lS0lrcngwdTVfNXRtMlpGM2duNkxOM0FPV3Q0V3BON25NcTRsVDJYVWtCWERxTkpvYzlWZU0tNTA1c2NwMkE4bkZsVFBoUWhPWFRZVm8?oc=5",
+        "source": "朝日新聞",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "個人情報保護法の改正は｢最悪の案｣ 医療データ専門家、異例の指摘 [AIの時代]",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16OExIX0hsczZFWGxIdWJ0RWVfQWRiUU5nWDMweWZkVzFsejdTVGk1em9RSFBVdmhrQXRhSDU3Z25PdW1vTzV3dTZrdHVTYWtkRk5sRVBjZ0o3VTNucF9IUGF6R2FUT1U?oc=5",
+        "source": "朝日新聞",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "個人情報保護法改正案 参院で審議入り 立民“氏名など削除を”",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zMDdXdVlZemt2aS0wRk9wMGxPQ3pxS0VRYmg1SlI0ZGViN3p1OFR0ckJwTUZYNmJvVWEtUGNjYmVrWVYxQ3FEeDZBV0RRenVxVkFyWXRjdDY0N1M1MnRZ?oc=5",
+        "source": "NHK",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "病歴や信条も同意なく提供 個人情報の法改正めぐり参院審議に注目",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lZ2otUi00SG5EMnl5MXEyRDljSUtxVXVkUlpwSFZTSVppZ2JCZ0RtRmVtLU56eTA1LU5EanFSVXc3UjIxNl8zNHhDdXpiQnpZUl9FZWhpS2J6Yk1uM0ZzYTV1MjFPY3F2MjRXdDFn?oc=5",
+        "source": "朝日新聞",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "「おかしいよ！」「やりたい放題だな」「法案出し直せ」個人情報保護法改正案の審議でヤジの嵐 本人の同意なく氏名・住所・病歴のデータが企業に流れる問題質疑（ABEMA TIMES）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pTDZ2YURUd1E4VEU0WFdER3NZcWQ1dS1BZ21vdTAwWG5DRHhvU3ZySzZkSktFOXlUaXIzTFUzdUl3U1hkdmVwRmQzMl9hN1EzcE1mT3hUMk9xNW9TVGFxQzhYcE1DclRHWERPa0lvNEs5UHl6RnQ5bk1QNlVJVUk?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-12"
+      }
+    ]
+  }
 }
