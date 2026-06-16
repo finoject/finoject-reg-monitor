@@ -19,6 +19,7 @@
   .ref:hover{ background:#1c3a63; color:#cfe7ff; }
   .itembody{ flex:1; min-width:0; }
   .refs{ display:flex; flex-wrap:wrap; gap:6px; margin-top:6px; }
+  .ref .acount{ margin-left:5px; font-size:10px; font-weight:700; color:#a9d4ff; }
   .ref .kind{ margin-left:6px; font-size:10px; font-weight:700; padding:0 5px; border-radius:4px; background:#2b66c0; color:#eaf3ff; }
   .ref .k-パブコメ{ background:#b45309; color:#fff; }
   .ref .k-改正{ background:#1d4ed8; color:#fff; }
@@ -156,11 +157,19 @@ function escapeHtml(s){ return (s||'').replace(/[&<>"]/g, c=>({'&':'&amp;','<':'
 // 📖チップ：クローラが算出した lawrefs（参照法令＋条＋種別）から描画。未処理itemは従来のタイトル解析でフォールバック。
 function refsHtml(it){
   let refs = (it.lawrefs && it.lawrefs.length) ? it.lawrefs : null;
-  if(!refs){ const r = detectLawLink(it.title||''); if(!r) return ''; refs = [{ url:r.url, label:r.label, kind:null }]; }
-  const chips = refs.slice(0,4).map(r=>{
-    const url = r.url || (LAW_BASE + '?law=' + r.id + (r.art ? '&art='+encodeURIComponent(r.art) : ''));
-    const kb = r.kind && r.kind!=='その他' ? `<span class="kind k-${r.kind}">${r.kind}</span>` : '';
-    return `<a class="ref" href="${url}" target="_blank" rel="noopener" title="法令ビューアで該当条文を開く">📖 ${escapeHtml(r.label)}${kb}</a>`;
+  if(!refs){ const r = detectLawLink(it.title||''); if(!r) return ''; refs = [{ id:null, url:r.url, label:r.label, art:null, kind:null }]; }
+  // 1ニュースが多数の条にまたがる→法令単位に集約（条別の詳細は法令ビューアのパネルが担当）。リンクは最初の該当条へ。
+  const byLaw = new Map();
+  for(const r of refs){
+    const key = r.id || r.label;
+    if(!byLaw.has(key)) byLaw.set(key, { id:r.id, url:r.url, label:(r.label||'').replace(/\s*第.+$/,''), art:r.art, kind:r.kind, arts:new Set() });
+    const g = byLaw.get(key); if(r.art){ g.arts.add(r.art); if(!g.art) g.art=r.art; }
+  }
+  const chips = [...byLaw.values()].slice(0,5).map(g=>{
+    const url = g.url || (LAW_BASE + '?law=' + g.id + (g.art ? '&art='+encodeURIComponent(g.art) : ''));
+    const kb = g.kind && g.kind!=='その他' ? `<span class="kind k-${g.kind}">${g.kind}</span>` : '';
+    const ac = g.arts.size ? `<span class="acount">${g.arts.size}条</span>` : '';
+    return `<a class="ref" href="${url}" target="_blank" rel="noopener" title="法令ビューアで開く（該当 ${g.arts.size||0} 条）">📖 ${escapeHtml(g.label)}${ac}${kb}</a>`;
   });
   return `<div class="refs">${chips.join('')}</div>`;
 }
