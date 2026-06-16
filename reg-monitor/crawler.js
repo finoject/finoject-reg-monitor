@@ -41,6 +41,15 @@ function titleClean(t){
   return t.trim();
 }
 
+// ---- ノイズ判定 ----
+// 実務的に価値の無い文字列（サイト保守・ページの定期リフレッシュ通知等）。全機関・将来追加分に適用。
+// 取りこぼし防止のため保守的に（具体的な無価値パターンのみ）。新たなノイズが出たらここに追記する。
+const NOISE_TITLE = [
+  /ページを更新しました/,        // 「〜のページを更新しました」＝サイト保守通知
+  /^\[マーケット情報\]/,          // JPXサイト更新情報カテゴリ（データページの定期更新通知）
+];
+function isNoise(title){ return NOISE_TITLE.some(re => re.test(title || '')); }
+
 // ---- パーサ ----
 function parseRSS(xml, agency, base){
   const items=[];
@@ -102,7 +111,7 @@ const SITES = [
   { key:'fsa',   name:'金融庁',            type:'fsa',  url:'https://www.fsa.go.jp/news/index.html' },
   { key:'boj',   name:'日本銀行',          type:'rss',  url:'https://www.boj.or.jp/rss/whatsnew.xml' },
   // JPXは「RSS一覧」ページ(ハブ)を指定。マーケットニュース/JPXニュース/売買停止(株式)/売買停止(先物・オプション)/注意喚起/サイト更新情報 の全子RSSを毎回自動発見して巡回する。
-  { key:'jpx',   name:'日本取引所グループ', type:'rss-index', url:'https://www.jpx.co.jp/rss/index.html' },
+  { key:'jpx',   name:'日本取引所グループ', type:'rss-index', url:'https://www.jpx.co.jp/rss/index.html', excludeFeeds:['site-updates'] },  // サイト更新情報(ページ更新の保守通知=ノイズ)は除外
   { key:'jsda',  name:'日本証券業協会',    type:'html', url:'https://www.jsda.or.jp/shinchaku/index.html', fallbackFile:'jsda.html' },
   { key:'jvcea', name:'JVCEA',             type:'rss',  url:'https://jvcea.or.jp/feed/' },
   { key:'jicpa', name:'日本公認会計士協会', type:'html', url:'https://jicpa.or.jp/news/information/' },
@@ -169,6 +178,7 @@ async function main(){
   let store = { generatedAt:null, items:[] };
   if (fs.existsSync(OUT)) { try { store = JSON.parse(fs.readFileSync(OUT,'utf8')); } catch{} }
   const firstRun = !store.items.length;            // 初回はbaseline取得のみ（大量投稿を防ぐ）
+  store.items = store.items.filter(it => !isNoise(it.title));  // 既に蓄積済みのノイズ項目も毎回除去（恒久クリーンアップ）
   const byUrl = new Map(store.items.map(it=>[it.url, it]));   // URL→既存レコード
   const nowIso = new Date().toISOString();
   const report=[]; const addedItems=[];
@@ -176,6 +186,7 @@ async function main(){
     const res = await crawlSite(s);
     report.push(`${s.name}: ${res.ok?res.items.length+'件':'失敗('+res.error+')'}`);
     for (const it of res.items){
+      if (isNoise(it.title)) continue;             // 無価値なノイズ（ページ更新通知等）は追加しない
       const prev = byUrl.get(it.url);
       if (!prev){                                  // 新規URL
         const rec={ ...it, detectedAt: nowIso }; store.items.push(rec); byUrl.set(it.url, rec); addedItems.push(rec);
