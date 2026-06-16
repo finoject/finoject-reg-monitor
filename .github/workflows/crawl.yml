@@ -2,7 +2,8 @@ name: crawl-and-publish
 
 on:
   schedule:
-    - cron: '30 22 * * *'   # 22:30 UTC = 毎朝 07:30 JST
+    # 日中に複数回巡回（UTC指定）。JST = UTC+9。日中公表の新着も当日中に反映する。
+    - cron: '0 23,2,5,8,11 * * *'   # JST 08:00 / 11:00 / 14:00 / 17:00 / 20:00
   workflow_dispatch:          # 手動実行も可能
 
 permissions:
