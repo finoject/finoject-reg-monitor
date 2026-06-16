@@ -188,8 +188,11 @@ function setMeta(){
 }
 
 document.querySelectorAll('.chip').forEach(ch=>ch.addEventListener('click',()=>{
-  document.querySelectorAll('.chip').forEach(c=>c.classList.remove('on'));
-  ch.classList.add('on'); filterAg = ch.dataset.ag; render();
+  const ag = ch.dataset.ag;
+  // 同じチップを再クリックしたら解除して「すべて」に戻す（特に「法令リンクあり」をオン/オフでトグル）
+  filterAg = (filterAg === ag && ag !== 'all') ? 'all' : ag;
+  document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on', c.dataset.ag === filterAg));
+  render();
 }));
 document.getElementById('q').addEventListener('input', e=>{ keyword=e.target.value.trim().toLowerCase(); render(); });
 
