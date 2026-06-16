@@ -42,7 +42,7 @@ function titleClean(t){
 }
 
 // ---- パーサ ----
-function parseRSS(xml, agency){
+function parseRSS(xml, agency, base){
   const items=[];
   const blocks = xml.split(/<item[\s>]/i).slice(1).concat(xml.split(/<entry[\s>]/i).slice(1));
   for(const b of blocks){
@@ -50,7 +50,8 @@ function parseRSS(xml, agency){
     let link = (b.match(/<link[^>]*>([\s\S]*?)<\/link>/i)||[])[1];
     if(!link){ const lm=b.match(/<link[^>]*href="([^"]+)"/i); if(lm) link=lm[1]; }
     const dateRaw = (b.match(/<pubDate>([\s\S]*?)<\/pubDate>/i)||b.match(/<dc:date>([\s\S]*?)<\/dc:date>/i)||b.match(/<updated>([\s\S]*?)<\/updated>/i)||[])[1];
-    if(title && link) items.push({ agency, title, url: abs(link.trim(), 'https://'+agency), date: isoFromRSSDate(dateRaw) });
+    // RSSのlinkが相対パス（JPX等）でも正しく解決するためフィードURLをbaseに使う
+    if(title && link) items.push({ agency, title, url: abs(link.trim(), base||('https://'+agency)), date: isoFromRSSDate(dateRaw) });
   }
   return items;
 }
@@ -88,7 +89,8 @@ function parseHTML(html, agency, base){
 const SITES = [
   { key:'fsa',   name:'金融庁',            type:'fsa',  url:'https://www.fsa.go.jp/news/index.html' },
   { key:'boj',   name:'日本銀行',          type:'rss',  url:'https://www.boj.or.jp/rss/whatsnew.xml' },
-  { key:'jpx',   name:'日本取引所グループ', type:'html', url:'https://www.jpx.co.jp/corporate/news/news-releases/static-archives-00.html', fallbackFile:'jpx.html' },
+  { key:'jpx',   name:'日本取引所グループ', type:'rss',  url:'https://www.jpx.co.jp/rss/markets_news.xml' },   // マーケットニュース(東証/OSE/TOCOM: 上場・市場措置等)
+  { key:'jpx2',  name:'日本取引所グループ', type:'rss',  url:'https://www.jpx.co.jp/rss/jpx-news.xml' },        // JPXニュース(コーポレート)
   { key:'jsda',  name:'日本証券業協会',    type:'html', url:'https://www.jsda.or.jp/shinchaku/index.html', fallbackFile:'jsda.html' },
   { key:'jvcea', name:'JVCEA',             type:'rss',  url:'https://jvcea.or.jp/feed/' },
   { key:'jicpa', name:'日本公認会計士協会', type:'html', url:'https://jicpa.or.jp/news/information/' },
@@ -104,7 +106,7 @@ async function crawlSite(s){
         body = fs.readFileSync(path.join(__dirname, s.fallbackFile), 'utf8');
       else throw err;
     }
-    let items = s.type==='rss' ? parseRSS(body, s.name)
+    let items = s.type==='rss' ? parseRSS(body, s.name, s.url)
               : s.type==='fsa' ? parseFSA(body, s.url)
               : parseHTML(body, s.name, s.url);
     items = items.filter(it => it.date && it.url && it.title);
