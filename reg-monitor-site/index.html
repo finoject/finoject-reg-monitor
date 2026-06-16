@@ -26,7 +26,9 @@
   .ref .k-公布{ background:#15803d; color:#fff; }
   .ref .k-ガイドライン{ background:#7c3aed; color:#fff; }
   .ref .k-告示, .ref .k-通達等{ background:#475569; color:#fff; }
-  header{ position:sticky; top:0; z-index:5; background:rgba(11,18,32,0.95); backdrop-filter:blur(8px);
+  /* portal＋header をまとめて画面上部に固定（スクロールしても法令ビューアリンク・フィルタが消えない）*/
+  .topbar{ position:sticky; top:0; z-index:10; }
+  header{ background:rgba(11,18,32,0.95); backdrop-filter:blur(8px);
     border-bottom:1px solid var(--line); padding:14px 18px; }
   .wrap{ max-width:880px; margin:0 auto; }
   h1{ font-size:18px; margin:0 0 2px; }
@@ -55,12 +57,13 @@
 </style>
 </head>
 <body>
+<div class="topbar">
 <nav id="portal"><div class="wrap">
-  <span class="pcur">📡 金融規制ウォッチ</span>
+  <span class="pcur">📡 finoject金融規制ウォッチ</span>
   <a href="https://finoject.github.io/finoject-law-viewer/" target="_blank" rel="noopener">⚖️ 法令ビューア ↗</a>
 </div></nav>
 <header><div class="wrap">
-  <h1>📡 金融規制ウォッチ</h1>
+  <h1>📡 finoject金融規制ウォッチ</h1>
   <div class="meta" id="meta">読み込み中…</div>
   <div class="controls">
     <span class="chip on" data-ag="all">すべて</span>
@@ -74,6 +77,7 @@
     <input id="q" placeholder="キーワード検索…">
   </div>
 </div></header>
+</div>
 
 <main class="wrap" id="list"><div class="empty">読み込み中…</div></main>
 
