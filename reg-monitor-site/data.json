@@ -1,41 +1,6 @@
 {
-  "generatedAt": "2026-06-16T15:36:07.934Z",
+  "generatedAt": "2026-06-16T15:40:38.969Z",
   "items": [
-    {
-      "agency": "日本取引所グループ",
-      "title": "[上場会社情報]制度信用・貸借銘柄一覧を更新しました",
-      "url": "https://www.jpx.co.jp/listing/others/margin/index.html",
-      "date": "2026-06-16",
-      "detectedAt": "2026-06-16T15:30:04.605Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[株式・ETF・REIT等]ETFの気配提示状況を更新しました",
-      "url": "https://www.jpx.co.jp/equities/products/etfs/quoting-data/index.html",
-      "date": "2026-06-16",
-      "detectedAt": "2026-06-16T15:30:04.605Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[先物・オプション]最終清算数値・最終決済価格を更新しました",
-      "url": "https://www.jpx.co.jp/markets/derivatives/special-quotation/index.html",
-      "date": "2026-06-16",
-      "detectedAt": "2026-06-16T15:30:04.605Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[上場会社情報]不適正意見・意見不表明・限定付適正意見等一覧を更新しました",
-      "url": "https://www.jpx.co.jp/listing/others/adverse-opinion/index.html",
-      "date": "2026-06-16",
-      "detectedAt": "2026-06-16T15:30:04.605Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[上場会社情報]新規上場したクロスボーダー企業のご紹介を更新しました",
-      "url": "https://www.jpx.co.jp/equities/listing-on-tse/cross-border/02.html",
-      "date": "2026-06-16",
-      "detectedAt": "2026-06-16T15:30:04.605Z"
-    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]改善報告書の公衆の縦覧：（株）イーエムネットジャパン",
@@ -142,13 +107,6 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260616c.pdf",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[株式・ETF・REIT等]グロース市場の機能発揮に向けた対応を更新しました",
-      "url": "https://www.jpx.co.jp/equities/follow-up/03.html",
-      "date": "2026-06-15",
-      "detectedAt": "2026-06-16T15:30:04.605Z"
     },
     {
       "agency": "日本取引所グループ",
