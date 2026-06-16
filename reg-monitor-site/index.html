@@ -35,6 +35,8 @@
   .chip{ font-size:12px; padding:6px 11px; border-radius:16px; cursor:pointer; user-select:none;
     background:#16223a; color:#cfe0ff; border:1px solid var(--line); }
   .chip.on{ background:var(--accent); border-color:var(--accent); color:#fff; }
+  .chip-law{ border-color:#2b66c0; color:#8fd0ff; }
+  .chip-law.on{ background:#1d4ed8; border-color:#1d4ed8; color:#fff; }
   #q{ flex:1; min-width:140px; padding:8px 11px; border-radius:8px; border:1px solid var(--line);
     background:#0e1626; color:var(--fg); font-size:13px; }
 
@@ -68,6 +70,7 @@
     <span class="chip" data-ag="日本証券業協会">日証協</span>
     <span class="chip" data-ag="JVCEA">JVCEA</span>
     <span class="chip" data-ag="日本公認会計士協会">日本公認会計士協会</span>
+    <span class="chip chip-law" data-ag="__lawlinked__">📖 法令リンクあり</span>
     <input id="q" placeholder="キーワード検索…">
   </div>
 </div></header>
@@ -127,7 +130,7 @@ function jstStr(iso){ if(!iso) return '—'; const d=new Date(iso); const j=new 
 function render(){
   const latest = DATA.generatedAt;
   let items = DATA.items.filter(it =>
-    (filterAg==='all' || it.agency===filterAg) &&
+    (filterAg==='all' || (filterAg==='__lawlinked__' ? hasLawLink(it) : it.agency===filterAg)) &&
     (!keyword || (it.title||'').toLowerCase().includes(keyword) || (it.agency||'').includes(keyword))
   );
   // 日付降順（新しい順）。同じ日付内は指定の機関順で並べる。
@@ -153,6 +156,8 @@ function render(){
   list.innerHTML = html;
 }
 function escapeHtml(s){ return (s||'').replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+// 法令ビューアへのリンク（📖チップ）を持つ項目か
+function hasLawLink(it){ return !!((it.lawrefs && it.lawrefs.length) || detectLawLink(it.title||'')); }
 
 // 📖チップ：クローラが算出した lawrefs（参照法令＋条＋種別）から描画。未処理itemは従来のタイトル解析でフォールバック。
 function refsHtml(it){
