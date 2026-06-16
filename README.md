@@ -37,6 +37,14 @@
 - フィード単位: `rss-index` の `excludeFeeds:['site-updates']` 等で、保守系の子フィード自体を巡回対象から外す（例: JPX「サイト更新情報」）。
 - タイトル単位: `crawler.js` の `NOISE_TITLE`（`isNoise()`）で無価値パターンを除外。既に蓄積済みのノイズも毎回の巡回で除去される。新たなノイズ文言が出たら `NOISE_TITLE` に追記する（取りこぼし防止のため保守的に＝明確な無価値パターンのみ。定例レポートの実更新等は残す）。
 
+## 法令ビューアとの双方向連携（lawrefs）
+各ニュースに「どの法令の・どの条の・どんな動向か」を意味づけして、[法令ビューア](https://finoject.github.io/finoject-law-viewer/)と双方向に連携する。
+- **共有データ契約**: `crawler.js` が `reg-monitor/enrich.js` の `buildLawrefs()` で各itemに `lawrefs = [{ id, art, kind, label }]` を付与し `data.json` に保存。`id`=law_id、`art`=「第N条」（算用数字。ビューアの表記に一致）、`kind`=パブコメ/改正/公布/ガイドライン/告示/通達等/施行/その他。
+- **本文/PDF解析**: タイトルだけでは法令・条が判らないことが多いため、`worthFetching` なニュースはリンク先HTML＋PDF（`pdftotext`。`crawl.yml` に `poppler-utils`）まで読んで法令名・条番号を抽出する。1巡回あたりの取得上限は `MAX_FETCH_PER_RUN`（既定40件、未処理は次回以降）。一度処理した項目は `enriched` を立て再取得しない（更新時は再算出）。
+- **法令名マッチ**: `LAW_DICT` を長い名称優先でマッチ（「○○法施行令」を「○○法」と誤認しない）。条番号は前方80字以内の最も近い法令名に紐付け（離れた条は安全側で捨てる）。新しい法令を足すときは `LAW_DICT` に名称を追加するだけで、📖チップとビューア側パネル/バッジの両方が自動で効く。
+- **表示**: reg-monitor-site は `lawrefs` から「📖 法令名（N条）」チップ（法令単位に集約・種別バッジ色分け）。法令ビューアは `lawrefs` を逆引きして「📡 この法令の最近の規制動向」パネルと条文バッジを表示。
+- 限界: 複数法令が混在する新旧対照表PDFでは条の帰属がまれに不正確になりうる（その場合は紐付け窓80字を狭める）。
+
 ## 手動実行
 GitHubの「Actions」タブ →「crawl-and-publish」→「Run workflow」で即時実行可能。
 ローカルでは `cd reg-monitor && npm install && node crawler.js`。
