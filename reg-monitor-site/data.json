@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-16T15:13:03.236Z",
+  "generatedAt": "2026-06-16T15:17:06.019Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "PSJ予測統計値",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:17:06.019Z",
+      "updated": true
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "証券化市場の動向調査",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/doukou/index.html",
+      "date": "2026-06-16",
+      "detectedAt": "2026-06-16T15:17:06.019Z",
+      "updated": true
+    },
     {
       "agency": "金融庁",
       "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in千葉」の開催",
@@ -77,6 +93,14 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260616c.pdf",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株式投資型クラウドファンディングの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucrowdfunding/index.html",
+      "date": "2026-06-15",
+      "detectedAt": "2026-06-16T15:17:06.019Z",
+      "updated": true
     },
     {
       "agency": "金融庁",
@@ -556,13 +580,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "PSJ予測統計値",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
-      "date": "2026-06-02",
-      "detectedAt": "2026-06-15T04:55:51.471Z"
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "協会員の異動状況等を更新しました。",
       "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
       "date": "2026-06-02",
@@ -892,13 +909,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "証券化市場の動向調査",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/doukou/index.html",
-      "date": "2026-05-21",
-      "detectedAt": "2026-06-15T04:55:51.471Z"
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
       "date": "2026-05-21",
@@ -986,13 +996,6 @@
       "title": "金融審議会「ディスクロージャーワーキング・グループ」（第５回）の開催",
       "url": "https://www.fsa.go.jp/news/r7/singi/20260518.html",
       "date": "2026-05-18",
-      "detectedAt": "2026-06-15T04:55:51.471Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株式投資型クラウドファンディングの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucrowdfunding/index.html",
-      "date": "2026-05-15",
       "detectedAt": "2026-06-15T04:55:51.471Z"
     },
     {
