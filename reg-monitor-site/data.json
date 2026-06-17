@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-06-17T00:13:48.683Z",
+  "generatedAt": "2026-06-17T04:27:59.411Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "2025年度決算概況（速報値）を掲載しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kessan/index.html",
+      "date": "2026-06-17",
+      "detectedAt": "2026-06-17T04:27:59.411Z",
+      "enriched": "2026-06-17T04:28:07.186Z"
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]改善報告書の公衆の縦覧：（株）イーエムネットジャパン",
@@ -2688,10 +2696,10 @@
     ],
     "505M60000002048": [
       {
-        "title": "仮想通貨EURCとは？特徴や将来性、注意点を徹底解説！ | CRYPTO INSIGHT powered by ダイヤモンド・ザイ",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqT0pzZnNPVU5EX3huY3ZYYzBCbnVOUEVvSDUwMlZCeVpUSEFrNS1FMXdnQ0VXcEJnZmlueV9ScWtEdnF4RUMwMlJ3bTJ4Tzg?oc=5",
-        "source": "ダイヤモンド",
-        "date": "2026-06-11"
+        "title": "VisaとMastercardがステーブルコインを共同構築との報道──TetherとCircleに挑戦か",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQTRhX2dIQmlCVGt3b0dsWVY3cEk1cjBiZDhXcG15QThiM2FjM2FrVmwtNi1JY05CWl96aWFhdTgxeE9jNlktYVlJZ2gteXhpcVZOOXZfTTFfOEZRZWIybUZxNnhna3cxbVoySG8tcGxMaXF6Qk40cnB6d0hfQmc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-16"
       },
       {
         "title": "米FDIC、GENIUS法に基づくステーブルコイン規制の提案規則を承認 (あたらしい経済)",
@@ -2726,10 +2734,10 @@
     ],
     "fsa-guide-17": [
       {
-        "title": "仮想通貨EURCとは？特徴や将来性、注意点を徹底解説！ | CRYPTO INSIGHT powered by ダイヤモンド・ザイ",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqT0pzZnNPVU5EX3huY3ZYYzBCbnVOUEVvSDUwMlZCeVpUSEFrNS1FMXdnQ0VXcEJnZmlueV9ScWtEdnF4RUMwMlJ3bTJ4Tzg?oc=5",
-        "source": "ダイヤモンド",
-        "date": "2026-06-11"
+        "title": "VisaとMastercardがステーブルコインを共同構築との報道──TetherとCircleに挑戦か",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQTRhX2dIQmlCVGt3b0dsWVY3cEk1cjBiZDhXcG15QThiM2FjM2FrVmwtNi1JY05CWl96aWFhdTgxeE9jNlktYVlJZ2gteXhpcVZOOXZfTTFfOEZRZWIybUZxNnhna3cxbVoySG8tcGxMaXF6Qk40cnB6d0hfQmc?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-16"
       },
       {
         "title": "米FDIC、GENIUS法に基づくステーブルコイン規制の提案規則を承認 (あたらしい経済)",
@@ -2916,11 +2924,196 @@
         "date": "2026-06-13"
       }
     ],
-    "417AC0000000086": [],
-    "417CO0000000364": [],
-    "418M60000010012": [],
-    "418M60000010013": [],
-    "418M60000010014": [],
+    "417AC0000000086": [
+      {
+        "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWVKdy1LRlREMENsMUFTalhSMFNvbldFUDN3SU9qYkc2VEFUZ0d4dDBSYVFVSHlHX01Ec3BneTVPVURlRU9KSEcyVkpja04yV183TmVTdTE2TWFqTkR1aDM3a0dkWkg5RDc3VHNkTzlaLW54Zm9xMDhzUHA4Qm53X3NFLXZaZzZHWjBiWmdR?oc=5",
+        "source": "Bloomberg",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
+        "source": "読売新聞",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "実質株主確認制度、企業の乱用による弊害も検討を",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQkpKb1JySzBmX1ZzYXhJRGJYX2pvMWVlNElxdnZ6R0h1T1VpcVpLdDZfaGJvMDFqcGRUVndiTXlhSUZQU3lkWjJERzZKalBTYUFQZ3JjR2M2LTgwb1F6cEVULXl3QWtXMjJBRldqUWdMUVlNYXlwaExVT0Jjdw?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "物言う株主のあり方議論 自民が作業部会 会社法の改正視野",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      }
+    ],
+    "417CO0000000364": [
+      {
+        "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWVKdy1LRlREMENsMUFTalhSMFNvbldFUDN3SU9qYkc2VEFUZ0d4dDBSYVFVSHlHX01Ec3BneTVPVURlRU9KSEcyVkpja04yV183TmVTdTE2TWFqTkR1aDM3a0dkWkg5RDc3VHNkTzlaLW54Zm9xMDhzUHA4Qm53X3NFLXZaZzZHWjBiWmdR?oc=5",
+        "source": "Bloomberg",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
+        "source": "読売新聞",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "実質株主確認制度、企業の乱用による弊害も検討を",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQkpKb1JySzBmX1ZzYXhJRGJYX2pvMWVlNElxdnZ6R0h1T1VpcVpLdDZfaGJvMDFqcGRUVndiTXlhSUZQU3lkWjJERzZKalBTYUFQZ3JjR2M2LTgwb1F6cEVULXl3QWtXMjJBRldqUWdMUVlNYXlwaExVT0Jjdw?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "物言う株主のあり方議論 自民が作業部会 会社法の改正視野",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      }
+    ],
+    "418M60000010012": [
+      {
+        "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWVKdy1LRlREMENsMUFTalhSMFNvbldFUDN3SU9qYkc2VEFUZ0d4dDBSYVFVSHlHX01Ec3BneTVPVURlRU9KSEcyVkpja04yV183TmVTdTE2TWFqTkR1aDM3a0dkWkg5RDc3VHNkTzlaLW54Zm9xMDhzUHA4Qm53X3NFLXZaZzZHWjBiWmdR?oc=5",
+        "source": "Bloomberg",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
+        "source": "読売新聞",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "実質株主確認制度、企業の乱用による弊害も検討を",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQkpKb1JySzBmX1ZzYXhJRGJYX2pvMWVlNElxdnZ6R0h1T1VpcVpLdDZfaGJvMDFqcGRUVndiTXlhSUZQU3lkWjJERzZKalBTYUFQZ3JjR2M2LTgwb1F6cEVULXl3QWtXMjJBRldqUWdMUVlNYXlwaExVT0Jjdw?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "物言う株主のあり方議論 自民が作業部会 会社法の改正視野",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      }
+    ],
+    "418M60000010013": [
+      {
+        "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWVKdy1LRlREMENsMUFTalhSMFNvbldFUDN3SU9qYkc2VEFUZ0d4dDBSYVFVSHlHX01Ec3BneTVPVURlRU9KSEcyVkpja04yV183TmVTdTE2TWFqTkR1aDM3a0dkWkg5RDc3VHNkTzlaLW54Zm9xMDhzUHA4Qm53X3NFLXZaZzZHWjBiWmdR?oc=5",
+        "source": "Bloomberg",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
+        "source": "読売新聞",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "実質株主確認制度、企業の乱用による弊害も検討を",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQkpKb1JySzBmX1ZzYXhJRGJYX2pvMWVlNElxdnZ6R0h1T1VpcVpLdDZfaGJvMDFqcGRUVndiTXlhSUZQU3lkWjJERzZKalBTYUFQZ3JjR2M2LTgwb1F6cEVULXl3QWtXMjJBRldqUWdMUVlNYXlwaExVT0Jjdw?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "物言う株主のあり方議論 自民が作業部会 会社法の改正視野",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      }
+    ],
+    "418M60000010014": [
+      {
+        "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWVKdy1LRlREMENsMUFTalhSMFNvbldFUDN3SU9qYkc2VEFUZ0d4dDBSYVFVSHlHX01Ec3BneTVPVURlRU9KSEcyVkpja04yV183TmVTdTE2TWFqTkR1aDM3a0dkWkg5RDc3VHNkTzlaLW54Zm9xMDhzUHA4Qm53X3NFLXZaZzZHWjBiWmdR?oc=5",
+        "source": "Bloomberg",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
+        "source": "読売新聞",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
+        "source": "時事通信",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
+        "source": "Yahoo",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "実質株主確認制度、企業の乱用による弊害も検討を",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQkpKb1JySzBmX1ZzYXhJRGJYX2pvMWVlNElxdnZ6R0h1T1VpcVpLdDZfaGJvMDFqcGRUVndiTXlhSUZQU3lkWjJERzZKalBTYUFQZ3JjR2M2LTgwb1F6cEVULXl3QWtXMjJBRldqUWdMUVlNYXlwaExVT0Jjdw?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "物言う株主のあり方議論 自民が作業部会 会社法の改正視野",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
+        "source": "日経",
+        "date": "2026-05-27"
+      }
+    ],
     "415AC0000000057": [
       {
         "title": "亡霊の如く蘇る「メディア規制」 報道機関も罰則対象の「個人情報保護法」改正案が衆院通過（週刊金曜日）",
