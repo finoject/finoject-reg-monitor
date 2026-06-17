@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-06-17T04:41:01.699Z",
+  "generatedAt": "2026-06-17T10:18:14.329Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-06-17",
+      "detectedAt": "2026-06-17T10:18:14.329Z",
+      "updated": true,
+      "enriched": "2026-06-17T10:18:20.512Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「NISA制度の口座開設及び勧誘並びに販売時等における留意事項について（ガイドライン）」の所在地確認に係る改定について",
+      "url": "https://www.jsda.or.jp/shijyo/seido/tax/nisaryuijikou.html",
+      "date": "2026-06-17",
+      "detectedAt": "2026-06-17T10:18:14.329Z",
+      "updated": true,
+      "lawrefs": [
+        {
+          "id": "419AC0000000022",
+          "art": "第6条",
+          "kind": "改正",
+          "label": "犯罪による収益の移転防止に関する法律 第6条"
+        }
+      ],
+      "enriched": "2026-06-17T10:18:23.333Z"
+    },
+    {
+      "agency": "金融庁",
+      "title": "「サステナブルファイナンス有識者会議」（第30回）の開催",
+      "url": "https://www.fsa.go.jp/news/r7/singi/20260617.html",
+      "date": "2026-06-17",
+      "detectedAt": "2026-06-17T10:18:14.329Z",
+      "enriched": "2026-06-17T10:18:23.333Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【記者会見】総裁記者会見（内田副総裁代理・6月16日分）",
+      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260617a.pdf",
+      "date": "2026-06-17",
+      "detectedAt": "2026-06-17T10:18:14.329Z",
+      "enriched": "2026-06-17T10:18:23.333Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定解除：ビーウィズ（株）",
+      "url": "https://www.jpx.co.jp/news/1021/20260617-22.html",
+      "date": "2026-06-17",
+      "detectedAt": "2026-06-17T10:18:14.329Z",
+      "enriched": "2026-06-17T10:18:23.333Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「NISA口座の開設・利用状況調査結果（証券会社10社・2026年５月末時点）」の公表について",
+      "url": "https://www.jsda.or.jp/houdou/2026/20260617.html",
+      "date": "2026-06-17",
+      "detectedAt": "2026-06-17T10:18:14.329Z",
+      "enriched": "2026-06-17T10:18:23.333Z"
+    },
     {
       "agency": "日本証券業協会",
       "title": "2025年度決算概況（速報値）を掲載しました。",
@@ -588,14 +646,6 @@
       "agency": "日本銀行",
       "title": "貸出約定平均金利（4月）",
       "url": "https://www.boj.or.jp/statistics/dl/loan/yaku/yaku2604.pdf",
-      "date": "2026-06-10",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-16T21:28:39.705Z"
@@ -2002,14 +2052,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "「NISA制度の口座開設及び勧誘並びに販売時等における留意事項について（ガイドライン）」の所在地確認に係る改定について",
-      "url": "https://www.jsda.or.jp/shijyo/seido/tax/nisaryuijikou.html",
-      "date": "2026-05-11",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:48.043Z"
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "【お詫び】本協会ウェブサイトのアクセス不具合の解消について",
       "url": "https://www.jsda.or.jp/shinchaku/systemtrouble/20260511154507.html",
       "date": "2026-05-11",
@@ -2576,6 +2618,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "CFTC、暗号資産含むフィンテック規制見直しへ意見募集を開始（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92blB3dDBWNTVWZnExakszdFB5UjVTVFhNMi0zMTM1WlRIaG9FbUppRzh0LXNRTFZ1ZlcyMElzOVlFN3d5SXNtcVVLalE0Z0pXMXdkQ18wTFNGcl9zODZuWUFrMnVWYW1FRWktM3d2cUEyZTVDdTlqU1RZbWRKbmM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-17"
+      },
+      {
         "title": "国内株を売らせ暗号資産を推奨？ある投資助言業の手口の闇",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bUtUNklnckhtc3lhcklDSE8yYU9pRzZERFBNaEpOalVkUDlaZHdtSFlTT0RVclZEVk5sN0hKX28xVjlCd0ZheTN1V2dpbjZQN0RvVkV2NA?oc=5",
         "source": "東洋経済",
@@ -2588,14 +2636,14 @@
         "date": "2026-06-16"
       },
       {
-        "title": "ジンバブエ、暗号資産事業者に登録義務。年500ドルの手数料も（あたらしい経済）",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OSEdBcC1lUUdNcEJkRmFXUzQ2OFM5S19EV1F1eDJoVmotZ3lxa0FrWDBqREJUZ1R0NlppYmZlUlQyN3pCLXVWNVUyc1hFYkRyOXE5aE5ZazQ0ZmllOHdOMVExaHhSSGhJSm5LUGZQNEVEcTBuUTdpVmFDcEFLOGM?oc=5",
+        "title": "クラーケン、米国で「無期限先物」提供開始。暗号資産デリバティブ市場のオンショア化進む（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10c29mOTFMcmRsRVNfMU50eXBmZURCcGdDU3Z3ZUpwUWpqdUJVdjk4ZGNTODZ4ZFdfbm9ncEVHOGJWd0NGUV9OeVd3eVVSY3dUQXNheVJOdFk2ZTU5QVNZd2dtSzJYVzZ2QWlVeUpKNGxpeXJMcW93Q2FYT2JfYlE?oc=5",
         "source": "Yahoo",
         "date": "2026-06-16"
       },
       {
-        "title": "クラーケン、米国で「無期限先物」提供開始。暗号資産デリバティブ市場のオンショア化進む（あたらしい経済）",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10c29mOTFMcmRsRVNfMU50eXBmZURCcGdDU3Z3ZUpwUWpqdUJVdjk4ZGNTODZ4ZFdfbm9ncEVHOGJWd0NGUV9OeVd3eVVSY3dUQXNheVJOdFk2ZTU5QVNZd2dtSzJYVzZ2QWlVeUpKNGxpeXJMcW93Q2FYT2JfYlE?oc=5",
+        "title": "ジンバブエ、暗号資産事業者に登録義務。年500ドルの手数料も（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OSEdBcC1lUUdNcEJkRmFXUzQ2OFM5S19EV1F1eDJoVmotZ3lxa0FrWDBqREJUZ1R0NlppYmZlUlQyN3pCLXVWNVUyc1hFYkRyOXE5aE5ZazQ0ZmllOHdOMVExaHhSSGhJSm5LUGZQNEVEcTBuUTdpVmFDcEFLOGM?oc=5",
         "source": "Yahoo",
         "date": "2026-06-16"
       },
@@ -2604,16 +2652,16 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11R0FfWFJmNkk3MHM2UFVkNU9PNEJ6NWhwRXo1eElXOTlOTFFtOXZOd0FPR2MzOEg0dUh2UkJlVFFaMXZQQmhGczY0dU9IUEVBVWFuajJiZ3o2SG5MeC05Nkg3TmtmQjJmMHhkX3Q0UW1xeEpheVBMM1ZkU19jUWM?oc=5",
         "source": "Yahoo",
         "date": "2026-06-12"
-      },
-      {
-        "title": "暗号資産の立場変える金商法改正とは？、株と同じインサイダー規制へ",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41TTJxUXl0TVNZSjhoZGo0MlFSZEUwX2JTSUJQNVE2SVVta0o1SkRTZDBMNmRzWHJ6TTZ0cUJ1a0p3bkdWTGFPOWxmY1BKX01NVnd3YURhMk43RzJtSllMOHJOVDlCTWNaZmw1LU9TdmpGYmNuYlhF?oc=5",
-        "source": "Bloomberg",
-        "date": "2026-06-11"
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "CFTC、暗号資産含むフィンテック規制見直しへ意見募集を開始（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92blB3dDBWNTVWZnExakszdFB5UjVTVFhNMi0zMTM1WlRIaG9FbUppRzh0LXNRTFZ1ZlcyMElzOVlFN3d5SXNtcVVLalE0Z0pXMXdkQ18wTFNGcl9zODZuWUFrMnVWYW1FRWktM3d2cUEyZTVDdTlqU1RZbWRKbmM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-17"
+      },
+      {
         "title": "国内株を売らせ暗号資産を推奨？ある投資助言業の手口の闇",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bUtUNklnckhtc3lhcklDSE8yYU9pRzZERFBNaEpOalVkUDlaZHdtSFlTT0RVclZEVk5sN0hKX28xVjlCd0ZheTN1V2dpbjZQN0RvVkV2NA?oc=5",
         "source": "東洋経済",
@@ -2626,14 +2674,14 @@
         "date": "2026-06-16"
       },
       {
-        "title": "ジンバブエ、暗号資産事業者に登録義務。年500ドルの手数料も（あたらしい経済）",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OSEdBcC1lUUdNcEJkRmFXUzQ2OFM5S19EV1F1eDJoVmotZ3lxa0FrWDBqREJUZ1R0NlppYmZlUlQyN3pCLXVWNVUyc1hFYkRyOXE5aE5ZazQ0ZmllOHdOMVExaHhSSGhJSm5LUGZQNEVEcTBuUTdpVmFDcEFLOGM?oc=5",
+        "title": "クラーケン、米国で「無期限先物」提供開始。暗号資産デリバティブ市場のオンショア化進む（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10c29mOTFMcmRsRVNfMU50eXBmZURCcGdDU3Z3ZUpwUWpqdUJVdjk4ZGNTODZ4ZFdfbm9ncEVHOGJWd0NGUV9OeVd3eVVSY3dUQXNheVJOdFk2ZTU5QVNZd2dtSzJYVzZ2QWlVeUpKNGxpeXJMcW93Q2FYT2JfYlE?oc=5",
         "source": "Yahoo",
         "date": "2026-06-16"
       },
       {
-        "title": "クラーケン、米国で「無期限先物」提供開始。暗号資産デリバティブ市場のオンショア化進む（あたらしい経済）",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10c29mOTFMcmRsRVNfMU50eXBmZURCcGdDU3Z3ZUpwUWpqdUJVdjk4ZGNTODZ4ZFdfbm9ncEVHOGJWd0NGUV9OeVd3eVVSY3dUQXNheVJOdFk2ZTU5QVNZd2dtSzJYVzZ2QWlVeUpKNGxpeXJMcW93Q2FYT2JfYlE?oc=5",
+        "title": "ジンバブエ、暗号資産事業者に登録義務。年500ドルの手数料も（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OSEdBcC1lUUdNcEJkRmFXUzQ2OFM5S19EV1F1eDJoVmotZ3lxa0FrWDBqREJUZ1R0NlppYmZlUlQyN3pCLXVWNVUyc1hFYkRyOXE5aE5ZazQ0ZmllOHdOMVExaHhSSGhJSm5LUGZQNEVEcTBuUTdpVmFDcEFLOGM?oc=5",
         "source": "Yahoo",
         "date": "2026-06-16"
       },
@@ -2642,12 +2690,6 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11R0FfWFJmNkk3MHM2UFVkNU9PNEJ6NWhwRXo1eElXOTlOTFFtOXZOd0FPR2MzOEg0dUh2UkJlVFFaMXZQQmhGczY0dU9IUEVBVWFuajJiZ3o2SG5MeC05Nkg3TmtmQjJmMHhkX3Q0UW1xeEpheVBMM1ZkU19jUWM?oc=5",
         "source": "Yahoo",
         "date": "2026-06-12"
-      },
-      {
-        "title": "暗号資産の立場変える金商法改正とは？、株と同じインサイダー規制へ",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41TTJxUXl0TVNZSjhoZGo0MlFSZEUwX2JTSUJQNVE2SVVta0o1SkRTZDBMNmRzWHJ6TTZ0cUJ1a0p3bkdWTGFPOWxmY1BKX01NVnd3YURhMk43RzJtSllMOHJOVDlCTWNaZmw1LU9TdmpGYmNuYlhF?oc=5",
-        "source": "Bloomberg",
-        "date": "2026-06-11"
       }
     ],
     "422M60000002004": [
@@ -2696,10 +2738,22 @@
     ],
     "505M60000002048": [
       {
+        "title": "ステート・ストリート、GENIUS法対応のステーブルコイン準備資産向けMMFをローンチ（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pN0MwY2ZLc0xwTUxIckt0X2dUODZXZ0ZZakRLMjFrUEdxMlJ4QTlLU2RoMGk0UVkyaUVIZjBubnBrUEtZNG9wNjVSdm1iYkFEcGRhUTJpZVhMWkFEdXNCMHo0bEhpQUJqZUNkb3RzYWxiZk9ZaTJFVFZPUDVLOHM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-17"
+      },
+      {
         "title": "VisaとMastercardがステーブルコインを共同構築との報道──TetherとCircleに挑戦か",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQTRhX2dIQmlCVGt3b0dsWVY3cEk1cjBiZDhXcG15QThiM2FjM2FrVmwtNi1JY05CWl96aWFhdTgxeE9jNlktYVlJZ2gteXhpcVZOOXZfTTFfOEZRZWIybUZxNnhna3cxbVoySG8tcGxMaXF6Qk40cnB6d0hfQmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0VZbF8zWE1SYnBNV0hhLU1LMUE5Qlo1SXh2Rkt3QmEteXRrdkJ2RF9KRU5xQlJ0SG1hYXRiRlc0d29OUDkzaTFrSnI3d0NBZy1Oc1NZNlZZS3ozUkhlZDlMMW50ZDlvblU2b2pseGNFWllZaUd0ZjBYVkhsYUJ2LUZMNW9qZVYy?oc=5",
         "source": "Yahoo",
         "date": "2026-06-16"
+      },
+      {
+        "title": "SBIグループのキープレイヤーとして既存金融とのシナジーを最大化",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPdHZ4cnhhMENNbGZpRDhaRXVsZHhyYWZwS3hnUWF4VW5MaW0waHIyTnVpNUFGWmN1ZlRFRnhNZGNTSWE5TjVCUHYxdFREUmw1TkZHZg?oc=5",
+        "source": "日経",
+        "date": "2026-06-15"
       },
       {
         "title": "米FDIC、GENIUS法に基づくステーブルコイン規制の提案規則を承認 (あたらしい経済)",
@@ -2718,26 +2772,26 @@
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TVTFlMUp1bUR2Vy1iZEJ6QTlQRjhCYkhmYWF0ODN6LTEzaXhXZGItUlRra04zMlZfOEhwaHl4SF9KMVFEeEl2VlhJa1I2OHhQeGx3cF9MV2Y4Q1RsWko5MmFFQQ?oc=5",
         "source": "時事通信",
         "date": "2026-06-10"
-      },
-      {
-        "title": "国内3メガバンク共同のステーブルコイン、26年度中に発行か＝報道（あたらしい経済）",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YjBxV0JQd29fM25KQ1ZUdWxzb1RGQUYycnB1MUpkNFo5MzJhNDNwdTE1aE1UQUFqUkVhMC1WX1l5ejhyZGdyYUdlTS0wZFBTRVJxQVpQTG1UbFVldnJQMk50VmQ2eHNNTVBFWElZZ0k5Qkw1ZlVsdEJnRGFCVnc?oc=5",
-        "source": "Yahoo",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "3メガバンク、26年度中にステーブルコイン共同発行へ 協議会を設置",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13a05lZW1ENFUtWmhLekhvNmdzcGotTjQxNkE5MTFxRHlmNTAzOEV0S0ttVkp2X3VHQWtrbmZjY1NZTG1ibjZqNkVmV213a0pWYTdjNFhQSnE5NzdNNVJ5Tktpa2k5ZUNkZ1I4cw?oc=5",
-        "source": "日経",
-        "date": "2026-06-09"
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ステート・ストリート、GENIUS法対応のステーブルコイン準備資産向けMMFをローンチ（あたらしい経済）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pN0MwY2ZLc0xwTUxIckt0X2dUODZXZ0ZZakRLMjFrUEdxMlJ4QTlLU2RoMGk0UVkyaUVIZjBubnBrUEtZNG9wNjVSdm1iYkFEcGRhUTJpZVhMWkFEdXNCMHo0bEhpQUJqZUNkb3RzYWxiZk9ZaTJFVFZPUDVLOHM?oc=5",
+        "source": "Yahoo",
+        "date": "2026-06-17"
+      },
+      {
         "title": "VisaとMastercardがステーブルコインを共同構築との報道──TetherとCircleに挑戦か",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQTRhX2dIQmlCVGt3b0dsWVY3cEk1cjBiZDhXcG15QThiM2FjM2FrVmwtNi1JY05CWl96aWFhdTgxeE9jNlktYVlJZ2gteXhpcVZOOXZfTTFfOEZRZWIybUZxNnhna3cxbVoySG8tcGxMaXF6Qk40cnB6d0hfQmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0VZbF8zWE1SYnBNV0hhLU1LMUE5Qlo1SXh2Rkt3QmEteXRrdkJ2RF9KRU5xQlJ0SG1hYXRiRlc0d29OUDkzaTFrSnI3d0NBZy1Oc1NZNlZZS3ozUkhlZDlMMW50ZDlvblU2b2pseGNFWllZaUd0ZjBYVkhsYUJ2LUZMNW9qZVYy?oc=5",
         "source": "Yahoo",
         "date": "2026-06-16"
+      },
+      {
+        "title": "SBIグループのキープレイヤーとして既存金融とのシナジーを最大化",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPdHZ4cnhhMENNbGZpRDhaRXVsZHhyYWZwS3hnUWF4VW5MaW0waHIyTnVpNUFGWmN1ZlRFRnhNZGNTSWE5TjVCUHYxdFREUmw1TkZHZg?oc=5",
+        "source": "日経",
+        "date": "2026-06-15"
       },
       {
         "title": "米FDIC、GENIUS法に基づくステーブルコイン規制の提案規則を承認 (あたらしい経済)",
@@ -2756,18 +2810,6 @@
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TVTFlMUp1bUR2Vy1iZEJ6QTlQRjhCYkhmYWF0ODN6LTEzaXhXZGItUlRra04zMlZfOEhwaHl4SF9KMVFEeEl2VlhJa1I2OHhQeGx3cF9MV2Y4Q1RsWko5MmFFQQ?oc=5",
         "source": "時事通信",
         "date": "2026-06-10"
-      },
-      {
-        "title": "国内3メガバンク共同のステーブルコイン、26年度中に発行か＝報道（あたらしい経済）",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YjBxV0JQd29fM25KQ1ZUdWxzb1RGQUYycnB1MUpkNFo5MzJhNDNwdTE1aE1UQUFqUkVhMC1WX1l5ejhyZGdyYUdlTS0wZFBTRVJxQVpQTG1UbFVldnJQMk50VmQ2eHNNTVBFWElZZ0k5Qkw1ZlVsdEJnRGFCVnc?oc=5",
-        "source": "Yahoo",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "3メガバンク、26年度中にステーブルコイン共同発行へ 協議会を設置",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13a05lZW1ENFUtWmhLekhvNmdzcGotTjQxNkE5MTFxRHlmNTAzOEV0S0ttVkp2X3VHQWtrbmZjY1NZTG1ibjZqNkVmV213a0pWYTdjNFhQSnE5NzdNNVJ5Tktpa2k5ZUNkZ1I4cw?oc=5",
-        "source": "日経",
-        "date": "2026-06-09"
       }
     ],
     "419AC0000000022": [
@@ -2926,8 +2968,14 @@
     ],
     "417AC0000000086": [
       {
+        "title": "日本市場のアクティビスト活動を透明化へ､自民党PTが7月にも会社法改正や企業の対応策を含めた中間提案を取りまとめ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQWpSVHBsV0xlZlRXWDgwRDJXbWlVdE1sMTdBSFUwcGJINWg4ZjJRUXpEUWkyZnk2emhVQnZQTkpraGZpU3U0TGJMZzZwc2hxbEZ6TjBCV3o3Z21ZbW00?oc=5",
+        "source": "東洋経済",
+        "date": "2026-06-17"
+      },
+      {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWVKdy1LRlREMENsMUFTalhSMFNvbldFUDN3SU9qYkc2VEFUZ0d4dDBSYVFVSHlHX01Ec3BneTVPVURlRU9KSEcyVkpja04yV183TmVTdTE2TWFqTkR1aDM3a0dkWkg5RDc3VHNkTzlaLW54Zm9xMDhzUHA4Qm53X3NFLXZaZzZHWjBiWmdR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SdlI1NzZ1V04tbHJxa2FUZGo1Y1dQaTBzVDJYa3AzQzBlTUZjQzFMSndfbEV2OEtIQjZJdHc0bHFVR205TnA0dmEweEZybXROencxS05STWhISnBhdTdzRU4ybG5kS19LSF9DcWEzVDBJUVhhbU1Z?oc=5",
         "source": "Bloomberg",
         "date": "2026-06-17"
       },
@@ -2935,12 +2983,6 @@
         "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
         "source": "読売新聞",
-        "date": "2026-06-07"
-      },
-      {
-        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
-        "source": "時事通信",
         "date": "2026-06-07"
       },
       {
@@ -2964,8 +3006,14 @@
     ],
     "417CO0000000364": [
       {
+        "title": "日本市場のアクティビスト活動を透明化へ､自民党PTが7月にも会社法改正や企業の対応策を含めた中間提案を取りまとめ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQWpSVHBsV0xlZlRXWDgwRDJXbWlVdE1sMTdBSFUwcGJINWg4ZjJRUXpEUWkyZnk2emhVQnZQTkpraGZpU3U0TGJMZzZwc2hxbEZ6TjBCV3o3Z21ZbW00?oc=5",
+        "source": "東洋経済",
+        "date": "2026-06-17"
+      },
+      {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWVKdy1LRlREMENsMUFTalhSMFNvbldFUDN3SU9qYkc2VEFUZ0d4dDBSYVFVSHlHX01Ec3BneTVPVURlRU9KSEcyVkpja04yV183TmVTdTE2TWFqTkR1aDM3a0dkWkg5RDc3VHNkTzlaLW54Zm9xMDhzUHA4Qm53X3NFLXZaZzZHWjBiWmdR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SdlI1NzZ1V04tbHJxa2FUZGo1Y1dQaTBzVDJYa3AzQzBlTUZjQzFMSndfbEV2OEtIQjZJdHc0bHFVR205TnA0dmEweEZybXROencxS05STWhISnBhdTdzRU4ybG5kS19LSF9DcWEzVDBJUVhhbU1Z?oc=5",
         "source": "Bloomberg",
         "date": "2026-06-17"
       },
@@ -2973,12 +3021,6 @@
         "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
         "source": "読売新聞",
-        "date": "2026-06-07"
-      },
-      {
-        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
-        "source": "時事通信",
         "date": "2026-06-07"
       },
       {
@@ -3002,8 +3044,14 @@
     ],
     "418M60000010012": [
       {
+        "title": "日本市場のアクティビスト活動を透明化へ､自民党PTが7月にも会社法改正や企業の対応策を含めた中間提案を取りまとめ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQWpSVHBsV0xlZlRXWDgwRDJXbWlVdE1sMTdBSFUwcGJINWg4ZjJRUXpEUWkyZnk2emhVQnZQTkpraGZpU3U0TGJMZzZwc2hxbEZ6TjBCV3o3Z21ZbW00?oc=5",
+        "source": "東洋経済",
+        "date": "2026-06-17"
+      },
+      {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWVKdy1LRlREMENsMUFTalhSMFNvbldFUDN3SU9qYkc2VEFUZ0d4dDBSYVFVSHlHX01Ec3BneTVPVURlRU9KSEcyVkpja04yV183TmVTdTE2TWFqTkR1aDM3a0dkWkg5RDc3VHNkTzlaLW54Zm9xMDhzUHA4Qm53X3NFLXZaZzZHWjBiWmdR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SdlI1NzZ1V04tbHJxa2FUZGo1Y1dQaTBzVDJYa3AzQzBlTUZjQzFMSndfbEV2OEtIQjZJdHc0bHFVR205TnA0dmEweEZybXROencxS05STWhISnBhdTdzRU4ybG5kS19LSF9DcWEzVDBJUVhhbU1Z?oc=5",
         "source": "Bloomberg",
         "date": "2026-06-17"
       },
@@ -3011,12 +3059,6 @@
         "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
         "source": "読売新聞",
-        "date": "2026-06-07"
-      },
-      {
-        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
-        "source": "時事通信",
         "date": "2026-06-07"
       },
       {
@@ -3040,8 +3082,14 @@
     ],
     "418M60000010013": [
       {
+        "title": "日本市場のアクティビスト活動を透明化へ､自民党PTが7月にも会社法改正や企業の対応策を含めた中間提案を取りまとめ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQWpSVHBsV0xlZlRXWDgwRDJXbWlVdE1sMTdBSFUwcGJINWg4ZjJRUXpEUWkyZnk2emhVQnZQTkpraGZpU3U0TGJMZzZwc2hxbEZ6TjBCV3o3Z21ZbW00?oc=5",
+        "source": "東洋経済",
+        "date": "2026-06-17"
+      },
+      {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWVKdy1LRlREMENsMUFTalhSMFNvbldFUDN3SU9qYkc2VEFUZ0d4dDBSYVFVSHlHX01Ec3BneTVPVURlRU9KSEcyVkpja04yV183TmVTdTE2TWFqTkR1aDM3a0dkWkg5RDc3VHNkTzlaLW54Zm9xMDhzUHA4Qm53X3NFLXZaZzZHWjBiWmdR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SdlI1NzZ1V04tbHJxa2FUZGo1Y1dQaTBzVDJYa3AzQzBlTUZjQzFMSndfbEV2OEtIQjZJdHc0bHFVR205TnA0dmEweEZybXROencxS05STWhISnBhdTdzRU4ybG5kS19LSF9DcWEzVDBJUVhhbU1Z?oc=5",
         "source": "Bloomberg",
         "date": "2026-06-17"
       },
@@ -3049,12 +3097,6 @@
         "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
         "source": "読売新聞",
-        "date": "2026-06-07"
-      },
-      {
-        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
-        "source": "時事通信",
         "date": "2026-06-07"
       },
       {
@@ -3078,8 +3120,14 @@
     ],
     "418M60000010014": [
       {
+        "title": "日本市場のアクティビスト活動を透明化へ､自民党PTが7月にも会社法改正や企業の対応策を含めた中間提案を取りまとめ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQWpSVHBsV0xlZlRXWDgwRDJXbWlVdE1sMTdBSFUwcGJINWg4ZjJRUXpEUWkyZnk2emhVQnZQTkpraGZpU3U0TGJMZzZwc2hxbEZ6TjBCV3o3Z21ZbW00?oc=5",
+        "source": "東洋経済",
+        "date": "2026-06-17"
+      },
+      {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWVKdy1LRlREMENsMUFTalhSMFNvbldFUDN3SU9qYkc2VEFUZ0d4dDBSYVFVSHlHX01Ec3BneTVPVURlRU9KSEcyVkpja04yV183TmVTdTE2TWFqTkR1aDM3a0dkWkg5RDc3VHNkTzlaLW54Zm9xMDhzUHA4Qm53X3NFLXZaZzZHWjBiWmdR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SdlI1NzZ1V04tbHJxa2FUZGo1Y1dQaTBzVDJYa3AzQzBlTUZjQzFMSndfbEV2OEtIQjZJdHc0bHFVR205TnA0dmEweEZybXROencxS05STWhISnBhdTdzRU4ybG5kS19LSF9DcWEzVDBJUVhhbU1Z?oc=5",
         "source": "Bloomberg",
         "date": "2026-06-17"
       },
@@ -3087,12 +3135,6 @@
         "title": "企業の「機密情報」海外など流出防止、株主による外部調査で「理由」「対象」明示検討…来年の法改正目指す",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zZHpySTZqSzVpT1dva2FFZGc3V1BqcHBxMEhuZ09OamsxeEVOTkxkM0VjT0JVTTRVNlBfazVhU1doajlNdlNBUlc5RnZ6anprVURWNVdjREhUUGdOVmJBQlljeFVZdw?oc=5",
         "source": "読売新聞",
-        "date": "2026-06-07"
-      },
-      {
-        "title": "株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xWmFKS1dJTXd1MjJ0ekc3ZGowXy1mcDN2M3Mtc2g2UlRMRHdiS0dOYThrNjU3b3Jna1JkSFM1RVhLNDhvbFFXWTN1ME1ZWVpxcVlsMA?oc=5",
-        "source": "時事通信",
         "date": "2026-06-07"
       },
       {
