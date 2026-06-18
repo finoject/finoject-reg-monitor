@@ -209,24 +209,24 @@ async function postSlack(addedItems){
   } catch(e){ console.log('Slack投稿 失敗: ' + (e.message||e)); }
 }
 
-// ---- 関連ニュース：Google News RSS検索から、指定ソースの見出し＋リンクを取得（法令ビューアの規制動向枠に補足表示）----
-async function googleNews(q){
-  const url = 'https://news.google.com/rss/search?q=' + encodeURIComponent(q + ' when:60d') + '&hl=ja&gl=JP&ceid=JP:ja';
-  let xml=''; try { xml = await get(url); } catch { return []; }
-  const out=[];
-  for (const b of xml.split(/<item[\s>]/i).slice(1)){
-    const rawTitle = clean((b.match(/<title[^>]*>([\s\S]*?)<\/title>/i)||[])[1]);
-    const link = (b.match(/<link[^>]*>([\s\S]*?)<\/link>/i)||[])[1];
-    const dateRaw = (b.match(/<pubDate>([\s\S]*?)<\/pubDate>/i)||[])[1];
-    const sm = b.match(/<source[^>]*?url="([^"]*)"[^>]*>([\s\S]*?)<\/source>/i);
-    const srcUrl = sm?sm[1]:'', srcName = sm?clean(sm[2]):'';
-    if (!rawTitle || !link) continue;
-    const label = matchSource(srcName, srcUrl);          // 指定ソース以外は捨てる
-    if (!label) continue;
-    if (isNewsNoise(rawTitle)) continue;                 // 適時開示・自己株式等の市場/開示ノイズは除外
-    const title = rawTitle.replace(/\s*[-–—｜|]\s*[^-–—｜|]+$/,'').trim() || rawTitle;   // 末尾の「 - 媒体名」を除去
-    out.push({ title, url: link.trim(), source: label, date: isoFromRSSDate(dateRaw) });
-  }
+// ---- 関連ニュース：Yahoo!ニュース検索から見出し＋直リンクを取得（法令ビューアの規制動向枠に補足表示）----
+// Yahoo記事は直URL(news.yahoo.co.jp/articles/…)なので、プロキシ経由で画面内に差し込み表示できる。
+// （Googleニュース検索のRSSはリダイレクトURLで実記事に解決できず埋め込み不可のため、Yahoo検索に変更）
+async function yahooNews(q){
+  const url = 'https://news.yahoo.co.jp/search?p=' + encodeURIComponent(q) + '&ei=utf-8';
+  let html=''; try { html = await get(url); } catch { return []; }
+  const $ = cheerio.load(html); const out=[]; const seen=new Set();
+  $('.newsFeed_list li').each((i, li) => {
+    const a = $(li).find('a[href*="/articles/"]').first();
+    let href = a.attr('href'); if (!href) return;
+    href = href.split('?')[0].split('#')[0];
+    if (seen.has(href)) return; seen.add(href);
+    const full = clean(a.text());
+    const title = (full.split(/[……]/)[0] || full).trim();   // Yahooは「見出し…要約 媒体」。…の前が見出し
+    if (!title || isNewsNoise(title)) return;
+    // 日付はYahoo検索結果から確実に取れない（古い記事を当年と誤認する）ため付けない＝記事内で確認できる
+    out.push({ title, url: href, source:'Yahoo', date:'' });
+  });
   return out;
 }
 // 各文書(law_id)分の関連ニュースを取得。クエリは重複するので一意クエリだけ叩いて結果を共有する。
@@ -236,10 +236,10 @@ async function fetchLawNews(){
   for (const [id,q] of Object.entries(NEWS_QUERY)){ (q2ids[q]=q2ids[q]||[]).push(id); }
   for (const [q,ids] of Object.entries(q2ids)){
     let news = [];
-    try { news = dedupeNews(await googleNews(q)).slice(0, 6); } catch {}
+    try { news = dedupeNews(await yahooNews(q)).slice(0, 6); } catch {}
     for (const id of ids) out[id] = news;
   }
-  console.log('関連ニュース取得: ' + Object.keys(out).filter(k=>out[k].length).length + '/' + Object.keys(out).length + ' 文書分');
+  console.log('関連ニュース取得(Yahoo): ' + Object.keys(out).filter(k=>out[k].length).length + '/' + Object.keys(out).length + ' 文書分');
   return out;
 }
 
