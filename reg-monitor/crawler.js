@@ -8,6 +8,7 @@ const { execFileSync } = require('child_process');
 const { buildLawrefs, worthFetching, NEWS_QUERY, matchSource, dedupeNews, isNewsNoise, matchLaws } = require('./enrich');
 
 const OUT = path.join(__dirname, '..', 'reg-monitor-site', 'data.json');
+const FEED_OUT = path.join(__dirname, '..', 'reg-monitor-site', 'feed.xml');   // RSS（誰でも自分のSlack等で購読可能にする）
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
 // fetch を試し、失敗したら curl にフォールバック（一部サイトはNode fetchが繋がらないため）
@@ -183,6 +184,49 @@ async function crawlSite(s){
 }
 
 // 新規分をSlackへ投稿（SLACK_WEBHOOK_URL が設定されている時のみ。新規ゼロなら送らない）
+// RSS 2.0 フィードを生成（reg-monitor-site/feed.xml）。
+// 目的: 利用者が各自のSlack（公式RSSアプリ /feed subscribe <url>）・Teams・Feedly等で、サーバ秘密情報なしに更新を購読できるようにする。
+// pubDate=detectedAt（当方が新着検知した時刻）＝購読側で「新着」として通知される。最新検知順に最大60件。
+function buildFeed(store){
+  const xe = s => (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&apos;');
+  const SHORT = { '日本取引所グループ':'JPX' };
+  const SELF = 'https://finoject.github.io/finoject-reg-monitor/feed.xml';
+  const items = store.items.slice()
+    .sort((a,b)=> (b.detectedAt||'').localeCompare(a.detectedAt||'') || (b.date||'').localeCompare(a.date||''))
+    .slice(0, 60);
+  const rfc822 = iso => { try { return new Date(iso).toUTCString(); } catch { return new Date().toUTCString(); } };
+  const entries = items.map(it=>{
+    const ag = SHORT[it.agency] || it.agency || '';
+    const refs = (it.lawrefs && it.lawrefs.length)
+      ? '　関連法令: ' + [...new Set(it.lawrefs.map(r=>(r.label||'').replace(/\s*第.+$/,'')))].slice(0,4).join('、')
+      : '';
+    const desc = `[${ag}]${it.date?(' '+it.date):''}${it.updated?'（更新）':''}${refs}`;
+    return `    <item>
+      <title>${xe('['+ag+'] '+(it.title||''))}</title>
+      <link>${xe(it.url)}</link>
+      <guid isPermaLink="false">${xe(it.url)}</guid>
+      <pubDate>${rfc822(it.detectedAt || it.date)}</pubDate>
+      <category>${xe(ag)}</category>
+      <description>${xe(desc)}</description>
+    </item>`;
+  }).join('\n');
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>finoject 金融規制ウォッチ</title>
+    <link>https://finoject.github.io/finoject-law-viewer/</link>
+    <atom:link href="${SELF}" rel="self" type="application/rss+xml"/>
+    <description>金融庁・日本銀行・JPX・日本証券業協会・日本暗号資産等取引業協会・日本公認会計士協会の新着公表物（関連法令付き）。finoject提供・非公式。</description>
+    <language>ja</language>
+    <lastBuildDate>${rfc822(store.generatedAt || new Date().toISOString())}</lastBuildDate>
+${entries}
+  </channel>
+</rss>
+`;
+  fs.writeFileSync(FEED_OUT, xml, 'utf8');
+  console.log('RSS書き出し: ' + items.length + '件 -> ' + FEED_OUT);
+}
+
 async function postSlack(addedItems){
   const hook = process.env.SLACK_WEBHOOK_URL;
   if (!hook || !addedItems.length) return;
@@ -339,6 +383,7 @@ async function main(){
   store.generatedAt = nowIso;
   store.sources = SITES.map(s=>({name:s.name, url:s.url}));
   fs.writeFileSync(OUT, JSON.stringify(store, null, 2), 'utf8');
+  buildFeed(store);                                   // RSS（誰でも各自のSlack/Teams/Feedlyで購読可能に）
   console.log('=== 巡回結果 ==='); report.forEach(r=>console.log(' - '+r));
   console.log(`新規追加: ${addedItems.length}件 / 総蓄積: ${store.items.length}件 -> ${OUT}`);
   // 新規分をSlackへ（初回baselineは投稿しない）
