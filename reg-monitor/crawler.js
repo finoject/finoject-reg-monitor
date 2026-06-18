@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const os = require('os');
 const { execFileSync } = require('child_process');
-const { buildLawrefs, worthFetching, NEWS_QUERY, matchSource, dedupeNews, isNewsNoise } = require('./enrich');
+const { buildLawrefs, worthFetching, NEWS_QUERY, matchSource, dedupeNews, isNewsNoise, matchLaws } = require('./enrich');
 
 const OUT = path.join(__dirname, '..', 'reg-monitor-site', 'data.json');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
@@ -243,6 +243,39 @@ async function fetchLawNews(){
   return out;
 }
 
+// ---- 国会の審議状況：衆議院 議案一覧から、対象法令に関する法律案のステータスを取得 ----
+// menu.htm（最新国会回次）の各行に 件名／審議状況（例「衆議院で審議中」「成立」）／経過リンク が揃っている。
+// 件名を法令名辞書(matchLaws)で当てて、対象法令(法律)に紐付ける。data.json の store.dietbills[law_id] に格納。
+async function fetchDietBills(){
+  const out = {};
+  const MENU = 'https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/menu.htm';
+  let html = '';
+  try {
+    const r = await fetch(MENU, { headers:{ 'User-Agent':UA, 'Accept-Language':'ja' }, signal: AbortSignal.timeout(25000) });
+    html = new TextDecoder('shift_jis').decode(await r.arrayBuffer());      // 衆議院サイトはShift_JIS
+  } catch(e) {
+    try { const b = execFileSync('curl', ['-sL','--max-time','30','-A',UA, MENU], { encoding:'buffer', maxBuffer: 50*1024*1024 });
+          html = new TextDecoder('shift_jis').decode(b); } catch(_) { return out; }
+  }
+  if (!html) return out;
+  const session = (html.match(/第(\d+)回国会/)||[])[1] || '';
+  const base = 'https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/';
+  const $ = cheerio.load(html);
+  $('tr').each((i, tr) => {
+    const tds = $(tr).find('td'); if (tds.length < 5) return;
+    const name = clean($(tds[2]).text());
+    if (!name || !/法律案/.test(name)) return;                              // 法律案の行のみ
+    const status = clean($(tds[3]).text());
+    const link = $(tds[4]).find('a[href*="keika"]').attr('href');
+    const url = link ? abs(link, base) : MENU;
+    const ids = [...new Set(matchLaws(name, true).map(r => r.id))];         // 件名を法令名で厳格マッチ→対象法令(法律)に紐付け
+    for (const id of ids){ (out[id] = out[id] || []).push({ session, name, status, url }); }
+  });
+  const n = Object.values(out).reduce((a,b)=>a+b.length,0);
+  console.log(`国会議案(第${session}回): 対象法案 ${n}件 / ${Object.keys(out).length}法令分`);
+  return out;
+}
+
 // ---- 法令連携：各itemに lawrefs（参照法令＋条＋種別）を付与 ----
 // 見出しだけで判る分は常に算出。worthFetchingな新規itemは本文/PDFまで読んで精度を上げる。
 // 1回の巡回での本文取得数は上限を設け（クロール負荷の抑制）、未処理分は次回以降に回す。
@@ -301,6 +334,7 @@ async function main(){
   }
   await enrichItems(store.items);                    // 法令ビューア連携用に lawrefs を付与（本文/PDFも解析）
   store.lawnews = await fetchLawNews();               // 各法令の関連ニュース（指定ソースの見出し＋リンク）
+  store.dietbills = await fetchDietBills();            // 各法令に関する国会の法律案の審議状況（衆議院議案一覧）
   store.items.sort((a,b)=> (b.date||'').localeCompare(a.date||'') || (b.detectedAt||'').localeCompare(a.detectedAt||''));
   store.generatedAt = nowIso;
   store.sources = SITES.map(s=>({name:s.name, url:s.url}));

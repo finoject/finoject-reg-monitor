@@ -83,14 +83,17 @@ function detectKind(text){
 
 // ---- 法令名＋条番号の抽出 ----
 // text 内の各法令名の出現位置を取り、その直後ウィンドウ内の「第N条」を当該法令に紐付ける。
-function matchLaws(text){
+// strict=true: 直前が漢字の一致を除外（「国際協力銀行法」中の「銀行法」、「株式会社法」中の「会社法」等の
+// 部分一致を弾く。国会議案名の照合で使用）。ニュース照合は非strict（「改正資金決済法」等を拾うため）。
+function matchLaws(text, strict){
   if (!text) return [];
   const found = [];           // {id, name, start, end}
   for (const e of NAME_ENTRIES){
     let from = 0, idx;
     while ((idx = text.indexOf(e.name, from)) !== -1){
-      found.push({ id:e.id, name:e.name, start:idx, end:idx + e.name.length });
       from = idx + e.name.length;
+      if (strict && idx > 0 && /[一-鿿々]/.test(text[idx-1])) continue;   // 直前が漢字＝より長い法令名の一部
+      found.push({ id:e.id, name:e.name, start:idx, end:idx + e.name.length });
     }
   }
   if (!found.length) return [];
