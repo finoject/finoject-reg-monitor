@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T19:33:45.311Z",
+  "generatedAt": "2026-06-18T21:10:42.189Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -2743,12 +2743,6 @@
     ],
     "422M60000002004": [
       {
-        "title": "【超入門】金融庁が急かす「TPCRM」とは？「委託先」情報漏えいで“詰む”前に",
-        "url": "https://news.yahoo.co.jp/articles/9b4447733e81b29c0e1b123da2b3a160b9a231a7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "ソラナ・インスティテュートのスミス氏、クラリティ法案の開発者保護維持を要請",
         "url": "https://news.yahoo.co.jp/articles/aa16c4c71832da53de25745b7bbd8e57f7801782",
         "source": "Yahoo",
@@ -2775,18 +2769,18 @@
       {
         "title": "StablR、MiCA準拠ステーブルコインが署名鍵の侵害で無裏付け1,350万ドルを増発──「規制準拠」と鍵管理のギャップ【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/2965db3cb72f16098cb222e7878c96150c1cef75",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融庁、ステーブルコイン実用化へ制度整備──改正資金決済法の政令・府令を公布、6月1日施行",
+        "url": "https://news.yahoo.co.jp/articles/d0a18115d3020f654a175343bc7728305e6613d4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
-        "title": "【超入門】金融庁が急かす「TPCRM」とは？「委託先」情報漏えいで“詰む”前に",
-        "url": "https://news.yahoo.co.jp/articles/9b4447733e81b29c0e1b123da2b3a160b9a231a7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "ソラナ・インスティテュートのスミス氏、クラリティ法案の開発者保護維持を要請",
         "url": "https://news.yahoo.co.jp/articles/aa16c4c71832da53de25745b7bbd8e57f7801782",
         "source": "Yahoo",
@@ -2813,6 +2807,12 @@
       {
         "title": "StablR、MiCA準拠ステーブルコインが署名鍵の侵害で無裏付け1,350万ドルを増発──「規制準拠」と鍵管理のギャップ【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/2965db3cb72f16098cb222e7878c96150c1cef75",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融庁、ステーブルコイン実用化へ制度整備──改正資金決済法の政令・府令を公布、6月1日施行",
+        "url": "https://news.yahoo.co.jp/articles/d0a18115d3020f654a175343bc7728305e6613d4",
         "source": "Yahoo",
         "date": ""
       }
