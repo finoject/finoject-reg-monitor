@@ -1,6 +1,55 @@
 {
-  "generatedAt": "2026-06-18T05:27:16.151Z",
+  "generatedAt": "2026-06-18T09:58:33.997Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-06-18",
+      "detectedAt": "2026-06-18T09:58:33.997Z",
+      "updated": true,
+      "enriched": "2026-06-18T09:58:39.228Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（論文）関税率の変動が消費者物価に及ぼす影響について：米国における実証分析",
+      "url": "https://www.boj.or.jp/research/wps_rev/wps_2026/wp26j08.htm",
+      "date": "2026-06-18",
+      "detectedAt": "2026-06-18T09:58:33.997Z",
+      "enriched": "2026-06-18T09:58:39.228Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "実質輸出入の動向",
+      "url": "https://www.boj.or.jp/research/research_data/reri/index.htm",
+      "date": "2026-06-18",
+      "detectedAt": "2026-06-18T09:58:33.997Z",
+      "enriched": "2026-06-18T09:58:39.228Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]宣誓書違反による再審査に係る猶予期間入り及び上場契約違約金の徴求：（株）ジェイ・イー・ティ",
+      "url": "https://www.jpx.co.jp/news/1023/20260618-12.html",
+      "date": "2026-06-18",
+      "detectedAt": "2026-06-18T09:58:33.997Z",
+      "enriched": "2026-06-18T09:58:39.228Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]宣誓書違反による再審査に係る猶予期間入り及び上場契約違約金の徴求：（株）Ｉ－ｎｅ",
+      "url": "https://www.jpx.co.jp/news/1023/20260618-13.html",
+      "date": "2026-06-18",
+      "detectedAt": "2026-06-18T09:58:33.997Z",
+      "enriched": "2026-06-18T09:58:39.228Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：ウェーブロックホールディングス（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260618-11.html",
+      "date": "2026-06-18",
+      "detectedAt": "2026-06-18T09:58:33.997Z",
+      "enriched": "2026-06-18T09:58:39.228Z"
+    },
     {
       "agency": "日本銀行",
       "title": "BIS国際資金取引統計および国際与信統計の日本分集計結果",
@@ -566,14 +615,6 @@
       "agency": "金融庁",
       "title": "「ベンチャーキャピタルに関する有識者会議」（第４回）の開催",
       "url": "https://www.fsa.go.jp/news/r7/singi/20260611.html",
-      "date": "2026-06-11",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
       "date": "2026-06-11",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-16T21:28:39.705Z"
@@ -2626,6 +2667,30 @@
     ],
     "429M60000002007": [
       {
+        "title": "シンガポールMAS、バイビットを投資家警告リストへ追加",
+        "url": "https://news.yahoo.co.jp/articles/8685ab0874b7f83a7e0ccdd6da7afa17412064e5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "FTX創業者SBF、出所後のトークン発行構想を獄中で語る＝報道",
+        "url": "https://news.yahoo.co.jp/articles/ef36c4e19e79228d9fd38aa6b4f9c237864d1a04",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本直販、ビットトレードとWeb3事業における協業に関する基本合意書を締結 暗号資産サービス仲介業の登録検討",
+        "url": "https://news.yahoo.co.jp/articles/b5083e58b94c59880e2ec248a54943d9448a4b77",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ゲーム業界、クラリティ法案への「スポーツ予測市場禁止」条項追加を要求",
+        "url": "https://news.yahoo.co.jp/articles/9852559fceec302d48ddbe74684fcd35d7907874",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CME帝国の築き手ダフィー氏が来年3月に退任、新興勢台頭の節目で",
         "url": "https://news.yahoo.co.jp/articles/0ef8c3edcb91a951176a7c14f163340a336db442",
         "source": "Yahoo",
@@ -2634,36 +2699,36 @@
       {
         "title": "ビットコイン、FOMCは利上げ予想へ、和平合意も戻り鈍い理由【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/9c77832eb23f521336971fb719a4389435dcd4a4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CME、無期限先物承認めぐりCFTCを提訴へ＝CNBC",
-        "url": "https://news.yahoo.co.jp/articles/7701874d0bf1048605bb2514f2326e595105266c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産市場は底を打ったのか＝Bitwise",
-        "url": "https://news.yahoo.co.jp/articles/5a95d9277573d10093f65d08f72003d7913c43a7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットバンク、予測市場サービス利用に注意喚起。関連入出金で口座停止の可能性",
-        "url": "https://news.yahoo.co.jp/articles/009d335d9aa030476816017a835d77990f695719",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CFTC、暗号資産含むフィンテック規制見直しへ意見募集を開始",
-        "url": "https://news.yahoo.co.jp/articles/f5738d2c70d1cb395c85cc813a7b0be9bbaaae8a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "シンガポールMAS、バイビットを投資家警告リストへ追加",
+        "url": "https://news.yahoo.co.jp/articles/8685ab0874b7f83a7e0ccdd6da7afa17412064e5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "FTX創業者SBF、出所後のトークン発行構想を獄中で語る＝報道",
+        "url": "https://news.yahoo.co.jp/articles/ef36c4e19e79228d9fd38aa6b4f9c237864d1a04",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本直販、ビットトレードとWeb3事業における協業に関する基本合意書を締結 暗号資産サービス仲介業の登録検討",
+        "url": "https://news.yahoo.co.jp/articles/b5083e58b94c59880e2ec248a54943d9448a4b77",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ゲーム業界、クラリティ法案への「スポーツ予測市場禁止」条項追加を要求",
+        "url": "https://news.yahoo.co.jp/articles/9852559fceec302d48ddbe74684fcd35d7907874",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CME帝国の築き手ダフィー氏が来年3月に退任、新興勢台頭の節目で",
         "url": "https://news.yahoo.co.jp/articles/0ef8c3edcb91a951176a7c14f163340a336db442",
         "source": "Yahoo",
@@ -2672,30 +2737,6 @@
       {
         "title": "ビットコイン、FOMCは利上げ予想へ、和平合意も戻り鈍い理由【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/9c77832eb23f521336971fb719a4389435dcd4a4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CME、無期限先物承認めぐりCFTCを提訴へ＝CNBC",
-        "url": "https://news.yahoo.co.jp/articles/7701874d0bf1048605bb2514f2326e595105266c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産市場は底を打ったのか＝Bitwise",
-        "url": "https://news.yahoo.co.jp/articles/5a95d9277573d10093f65d08f72003d7913c43a7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットバンク、予測市場サービス利用に注意喚起。関連入出金で口座停止の可能性",
-        "url": "https://news.yahoo.co.jp/articles/009d335d9aa030476816017a835d77990f695719",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CFTC、暗号資産含むフィンテック規制見直しへ意見募集を開始",
-        "url": "https://news.yahoo.co.jp/articles/f5738d2c70d1cb395c85cc813a7b0be9bbaaae8a",
         "source": "Yahoo",
         "date": ""
       }
@@ -2854,76 +2895,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "Kaia、JPYC発行チェーンで残高首位に。3.3億円突破",
+        "url": "https://news.yahoo.co.jp/articles/e421f151c391891b3d423a958225c60bfeec0a84",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIレミット、Fassetと国際送金インフラ構築に向け提携。SBIは戦略出資も実施",
+        "url": "https://news.yahoo.co.jp/articles/adb1d45b983ba7fbc75a6ecb78ca716cddd7d0d4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "フィデリティ、ステーブルコイン発行体の準備資産保有を想定したMMF立ち上げ",
+        "url": "https://news.yahoo.co.jp/articles/a322f8618a055240fd9435e20e8b916b63fae3d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ナイジェリアでステーブルコイン利用拡大、越境送金やナイラ安対策に＝IMF",
+        "url": "https://news.yahoo.co.jp/articles/b625282fd22a4eefc1acde40fded0a2f65461814",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "LINE NEXT、韓国でのJPYCクロスボーダー決済実現へ──Danalと提携",
+        "url": "https://news.yahoo.co.jp/articles/a36746cb2e7b5ec2fddc99a97aa94cfeff939148",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコイン決済は「Web2の実店舗」に広がるか──ネットスターズ、JPYC、Bitget Walletが示した導入の現実解",
         "url": "https://news.yahoo.co.jp/articles/c9061b6011668a4750c886bbcd2e801790495744",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "どんどん広がる金融サービス「BaaS」そのメリットとは",
-        "url": "https://news.yahoo.co.jp/articles/99c72d5db99db1cd294a1b9f4f1cdd2100618b9b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中国人民銀行の高官、ステーブルコインには厳格な監視が必要と発言＝報道",
-        "url": "https://news.yahoo.co.jp/articles/abe536d668f78739e05b649636240b8ccdec0ae9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "LINE NEXT、ステーブルコイン決済「Unifi Pay Direct」の先行利用受付を開始──JPYCにも対応",
-        "url": "https://news.yahoo.co.jp/articles/d89d14d6efc13f7eb80a85a0902ecdd325b7fd2f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは弱気相場入りするのか──APAC最大の資産運用会社、Amber Groupが示すアジアの暗号資産流動性の変化【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1011679a0bc6ca8eed0d16d95a470c34dad1fc46",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スペースX株の本当の試練は、これから始まる──。ロックアップ・カレンダーについて知っておきたいすべてのこと（海外）",
-        "url": "https://news.yahoo.co.jp/articles/3c5fccc417841bbd7e91b1e3b4c0e7b4a81bfbf9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Kaia、JPYC発行チェーンで残高首位に。3.3億円突破",
+        "url": "https://news.yahoo.co.jp/articles/e421f151c391891b3d423a958225c60bfeec0a84",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIレミット、Fassetと国際送金インフラ構築に向け提携。SBIは戦略出資も実施",
+        "url": "https://news.yahoo.co.jp/articles/adb1d45b983ba7fbc75a6ecb78ca716cddd7d0d4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "フィデリティ、ステーブルコイン発行体の準備資産保有を想定したMMF立ち上げ",
+        "url": "https://news.yahoo.co.jp/articles/a322f8618a055240fd9435e20e8b916b63fae3d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ナイジェリアでステーブルコイン利用拡大、越境送金やナイラ安対策に＝IMF",
+        "url": "https://news.yahoo.co.jp/articles/b625282fd22a4eefc1acde40fded0a2f65461814",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "LINE NEXT、韓国でのJPYCクロスボーダー決済実現へ──Danalと提携",
+        "url": "https://news.yahoo.co.jp/articles/a36746cb2e7b5ec2fddc99a97aa94cfeff939148",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコイン決済は「Web2の実店舗」に広がるか──ネットスターズ、JPYC、Bitget Walletが示した導入の現実解",
         "url": "https://news.yahoo.co.jp/articles/c9061b6011668a4750c886bbcd2e801790495744",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "どんどん広がる金融サービス「BaaS」そのメリットとは",
-        "url": "https://news.yahoo.co.jp/articles/99c72d5db99db1cd294a1b9f4f1cdd2100618b9b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中国人民銀行の高官、ステーブルコインには厳格な監視が必要と発言＝報道",
-        "url": "https://news.yahoo.co.jp/articles/abe536d668f78739e05b649636240b8ccdec0ae9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "LINE NEXT、ステーブルコイン決済「Unifi Pay Direct」の先行利用受付を開始──JPYCにも対応",
-        "url": "https://news.yahoo.co.jp/articles/d89d14d6efc13f7eb80a85a0902ecdd325b7fd2f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは弱気相場入りするのか──APAC最大の資産運用会社、Amber Groupが示すアジアの暗号資産流動性の変化【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1011679a0bc6ca8eed0d16d95a470c34dad1fc46",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スペースX株の本当の試練は、これから始まる──。ロックアップ・カレンダーについて知っておきたいすべてのこと（海外）",
-        "url": "https://news.yahoo.co.jp/articles/3c5fccc417841bbd7e91b1e3b4c0e7b4a81bfbf9",
         "source": "Yahoo",
         "date": ""
       }
