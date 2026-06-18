@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-06-17T22:24:57.317Z",
+  "generatedAt": "2026-06-18T00:02:30.564Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "BIS国際資金取引統計および国際与信統計の日本分集計結果",
+      "url": "https://www.boj.or.jp/statistics/bis/ibs/index.htm",
+      "date": "2026-06-17",
+      "detectedAt": "2026-06-18T00:02:30.564Z",
+      "enriched": "2026-06-18T00:02:35.810Z"
+    },
     {
       "agency": "日本証券業協会",
       "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
@@ -2980,12 +2988,6 @@
         "date": "2026-06-07"
       },
       {
-        "title": "◎株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tZ0gwME5ZVlBNNjJEVHRnZ01abWt5N0lFLUdDTFJxUE1XWXZrek95b1A0dFgwN24xaTZxOTBqVWtsX3V5TzdqNXl0S191MzlXcEMtbg?oc=5",
-        "source": "時事通信",
-        "date": "2026-06-07"
-      },
-      {
         "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
         "source": "Yahoo",
@@ -3002,6 +3004,12 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
         "source": "日経",
         "date": "2026-05-27"
+      },
+      {
+        "title": "自民党、アクティビスト対策で新PT立ち上げへ 会社法改正視野",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LcXFJWmk1bTUwdnRMZm5Yb3NQUXdQdkh4R3p6Q1RqblJoYl9YVzZBVGNldDhaNjN3Q253Rl9qY1BrUXVEdjkxZWFLWFI4aldwYnZ4bGoxQy1DdGNMNm9UV2JjMzBZTTN5ZmFHSA?oc=5",
+        "source": "日経",
+        "date": "2026-05-26"
       }
     ],
     "417CO0000000364": [
@@ -3018,12 +3026,6 @@
         "date": "2026-06-07"
       },
       {
-        "title": "◎株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tZ0gwME5ZVlBNNjJEVHRnZ01abWt5N0lFLUdDTFJxUE1XWXZrek95b1A0dFgwN24xaTZxOTBqVWtsX3V5TzdqNXl0S191MzlXcEMtbg?oc=5",
-        "source": "時事通信",
-        "date": "2026-06-07"
-      },
-      {
         "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
         "source": "Yahoo",
@@ -3040,6 +3042,12 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
         "source": "日経",
         "date": "2026-05-27"
+      },
+      {
+        "title": "自民党、アクティビスト対策で新PT立ち上げへ 会社法改正視野",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LcXFJWmk1bTUwdnRMZm5Yb3NQUXdQdkh4R3p6Q1RqblJoYl9YVzZBVGNldDhaNjN3Q253Rl9qY1BrUXVEdjkxZWFLWFI4aldwYnZ4bGoxQy1DdGNMNm9UV2JjMzBZTTN5ZmFHSA?oc=5",
+        "source": "日経",
+        "date": "2026-05-26"
       }
     ],
     "418M60000010012": [
@@ -3056,12 +3064,6 @@
         "date": "2026-06-07"
       },
       {
-        "title": "◎株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tZ0gwME5ZVlBNNjJEVHRnZ01abWt5N0lFLUdDTFJxUE1XWXZrek95b1A0dFgwN24xaTZxOTBqVWtsX3V5TzdqNXl0S191MzlXcEMtbg?oc=5",
-        "source": "時事通信",
-        "date": "2026-06-07"
-      },
-      {
         "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
         "source": "Yahoo",
@@ -3078,6 +3080,12 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
         "source": "日経",
         "date": "2026-05-27"
+      },
+      {
+        "title": "自民党、アクティビスト対策で新PT立ち上げへ 会社法改正視野",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LcXFJWmk1bTUwdnRMZm5Yb3NQUXdQdkh4R3p6Q1RqblJoYl9YVzZBVGNldDhaNjN3Q253Rl9qY1BrUXVEdjkxZWFLWFI4aldwYnZ4bGoxQy1DdGNMNm9UV2JjMzBZTTN5ZmFHSA?oc=5",
+        "source": "日経",
+        "date": "2026-05-26"
       }
     ],
     "418M60000010013": [
@@ -3094,12 +3102,6 @@
         "date": "2026-06-07"
       },
       {
-        "title": "◎株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tZ0gwME5ZVlBNNjJEVHRnZ01abWt5N0lFLUdDTFJxUE1XWXZrek95b1A0dFgwN24xaTZxOTBqVWtsX3V5TzdqNXl0S191MzlXcEMtbg?oc=5",
-        "source": "時事通信",
-        "date": "2026-06-07"
-      },
-      {
         "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
         "source": "Yahoo",
@@ -3116,6 +3118,12 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
         "source": "日経",
         "date": "2026-05-27"
+      },
+      {
+        "title": "自民党、アクティビスト対策で新PT立ち上げへ 会社法改正視野",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LcXFJWmk1bTUwdnRMZm5Yb3NQUXdQdkh4R3p6Q1RqblJoYl9YVzZBVGNldDhaNjN3Q253Rl9qY1BrUXVEdjkxZWFLWFI4aldwYnZ4bGoxQy1DdGNMNm9UV2JjMzBZTTN5ZmFHSA?oc=5",
+        "source": "日経",
+        "date": "2026-05-26"
       }
     ],
     "418M60000010014": [
@@ -3132,12 +3140,6 @@
         "date": "2026-06-07"
       },
       {
-        "title": "◎株主総会、６月から９月に変更＝議論活性化に意欲―松本マネックスＧ会長",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tZ0gwME5ZVlBNNjJEVHRnZ01abWt5N0lFLUdDTFJxUE1XWXZrek95b1A0dFgwN24xaTZxOTBqVWtsX3V5TzdqNXl0S191MzlXcEMtbg?oc=5",
-        "source": "時事通信",
-        "date": "2026-06-07"
-      },
-      {
         "title": "株主提案権厳格化、アクティビストに影響なく個人を制限-オアシスCIO（Bloomberg）",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVk11bHNzWnFxR0lGanVCNHg4bnBoNjR4TXlvUksxZkNKNVRjOU80bk1QMDN4dTQxNDByUUlqd3NjZE9lWlRPRl9mb0JNRUtsNEpmdWRPczN5UzhpRnpNZEJLUEtwV2p1a0JmZFE1WjUyUFBUTl9nOXZ2eWhRejA?oc=5",
         "source": "Yahoo",
@@ -3154,6 +3156,12 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc2Y0VoN1RrQ0p0MzM4dmo3cU15V3dBb1hMU1NleF9GZk9jbXR0dTdyVWRVbDhzUWtwUnZMOV9TM29yQmNhTlduS2gxdE1uRXFjbC03eGdyLURaY09SNzlsLVVyYlRzQTc5NnU0YUs2UkFrQkd3VHl5dTZuZ3VKQ1RBcTI2U3ZBSGU5dXI2bUNXZ3QyUzdNeHFpZkt6UVRhZ2tLZTlR?oc=5",
         "source": "日経",
         "date": "2026-05-27"
+      },
+      {
+        "title": "自民党、アクティビスト対策で新PT立ち上げへ 会社法改正視野",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LcXFJWmk1bTUwdnRMZm5Yb3NQUXdQdkh4R3p6Q1RqblJoYl9YVzZBVGNldDhaNjN3Q253Rl9qY1BrUXVEdjkxZWFLWFI4aldwYnZ4bGoxQy1DdGNMNm9UV2JjMzBZTTN5ZmFHSA?oc=5",
+        "source": "日経",
+        "date": "2026-05-26"
       }
     ],
     "415AC0000000057": [
