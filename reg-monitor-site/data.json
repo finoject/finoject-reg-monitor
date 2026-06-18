@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T13:50:57.037Z",
+  "generatedAt": "2026-06-18T15:52:46.012Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -3083,6 +3083,82 @@
         "date": ""
       }
     ],
+    "324AC0000000228": [
+      {
+        "title": "経済安全保障における取締役等の経営判断",
+        "url": "https://news.yahoo.co.jp/articles/a8928b6f738fcaa7ba127edead4087f985b59e70",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "軍民両用品の対日輸出管理強化について考える",
+        "url": "https://news.yahoo.co.jp/expert/articles/be0d79d6e258a0aa0a1b53739cf41fe57aa9c562",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "レッドバロン、ロシアに迂回輸出 未承認でバイク、経産省が警告",
+        "url": "https://news.yahoo.co.jp/articles/062a2c14ea5c582ffaa62f8a5c14a686af526df9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "顔も見せずに反省？謝罪？ 処分もなし～冤罪・大川原化工機事件での検察の検証結果報告",
+        "url": "https://news.yahoo.co.jp/expert/articles/ab2e44610feb74d64c1840d50200cd59c28ae952",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日朝「失われた２０年」 実らなかった「拉致」公式・非公式接触の全記録辺真一韓国・北朝鮮2024/2/25(日) 22:42",
+        "url": "https://news.yahoo.co.jp/expert/articles/9acaca70947075dacc20adf8f13c0a37f9001a13",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "旧統一教会への過料に関する文化庁の見解 宗教２世「高額献金による家族被害は継続している」",
+        "url": "https://news.yahoo.co.jp/expert/articles/6cdfb464a076ff40dc2aa79171816f7f484eb9dc",
+        "source": "Yahoo",
+        "date": ""
+      }
+    ],
+    "355CO0000000260": [
+      {
+        "title": "経済安全保障における取締役等の経営判断",
+        "url": "https://news.yahoo.co.jp/articles/a8928b6f738fcaa7ba127edead4087f985b59e70",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "軍民両用品の対日輸出管理強化について考える",
+        "url": "https://news.yahoo.co.jp/expert/articles/be0d79d6e258a0aa0a1b53739cf41fe57aa9c562",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "レッドバロン、ロシアに迂回輸出 未承認でバイク、経産省が警告",
+        "url": "https://news.yahoo.co.jp/articles/062a2c14ea5c582ffaa62f8a5c14a686af526df9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "顔も見せずに反省？謝罪？ 処分もなし～冤罪・大川原化工機事件での検察の検証結果報告",
+        "url": "https://news.yahoo.co.jp/expert/articles/ab2e44610feb74d64c1840d50200cd59c28ae952",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日朝「失われた２０年」 実らなかった「拉致」公式・非公式接触の全記録辺真一韓国・北朝鮮2024/2/25(日) 22:42",
+        "url": "https://news.yahoo.co.jp/expert/articles/9acaca70947075dacc20adf8f13c0a37f9001a13",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "旧統一教会への過料に関する文化庁の見解 宗教２世「高額献金による家族被害は継続している」",
+        "url": "https://news.yahoo.co.jp/expert/articles/6cdfb464a076ff40dc2aa79171816f7f484eb9dc",
+        "source": "Yahoo",
+        "date": ""
+      }
+    ],
     "356AC0000000059": [
       {
         "title": "中国、AI・データ立法と暗号資産関連の裁判ルール整備を推進へ",
@@ -3579,6 +3655,14 @@
     ]
   },
   "dietbills": {
+    "324AC0000000228": [
+      {
+        "session": "221",
+        "name": "外国為替及び外国貿易法の一部を改正する法律案",
+        "status": "成立",
+        "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DE2076.htm"
+      }
+    ],
     "419AC0000000022": [
       {
         "session": "221",
