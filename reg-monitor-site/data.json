@@ -1,6 +1,59 @@
 {
-  "generatedAt": "2026-06-19T08:18:16.379Z",
+  "generatedAt": "2026-06-19T12:34:58.598Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "「金融商品取引法の審判手続等における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令」及び「公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令」の公布及びパブリックコメントの結果の公表",
+      "url": "https://www.fsa.go.jp/news/r7/sonota/20260619-2/20260619-2.html",
+      "date": "2026-06-19",
+      "detectedAt": "2026-06-19T12:34:58.598Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": "第3条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第3条"
+        }
+      ],
+      "enriched": "2026-06-19T12:35:05.087Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "金融庁",
+      "title": "主要生損保の令和８年３月期決算の概要",
+      "url": "https://www.fsa.go.jp/news/r7/hoken/20260619/20260619.html",
+      "date": "2026-06-19",
+      "detectedAt": "2026-06-19T12:34:58.598Z",
+      "enriched": "2026-06-19T12:35:05.087Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "金融庁",
+      "title": "moomoo証券株式会社に対する行政処分",
+      "url": "https://www.fsa.go.jp/news/r7/shouken/20260619.html",
+      "date": "2026-06-19",
+      "detectedAt": "2026-06-19T12:34:58.598Z",
+      "enriched": "2026-06-19T12:35:05.088Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：サツドラホールディングス（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260619-11.html",
+      "date": "2026-06-19",
+      "detectedAt": "2026-06-19T12:34:58.598Z",
+      "enriched": "2026-06-19T12:35:05.088Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "サツドラホールディングス（3544）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-06-19",
+      "detectedAt": "2026-06-19T12:34:58.598Z",
+      "enriched": "2026-06-19T12:35:05.088Z",
+      "enrichV": 2
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）ＰＲＯ ＨＯＬＤＩＮＧＳ",
@@ -2871,6 +2924,30 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明 金融庁 金融庁と関東財務局は6月19日、「moomoo証券」（東京都渋谷区）に対し、金融商品取引法に基づく行政処分を出したと発表した。同社が少額投資非課税制度（NIS",
+        "url": "https://news.yahoo.co.jp/articles/bcf71787cc7889fa0dfec65b3f96c002845c5eb1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "575億円集金か、監視委が禁止申し立て 無登録で出資を募ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資会社に違反行為の禁止や停止を命じるよう東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/b1fe69cf003ae5f22f95c4c2b567f2b11a96b380",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "無登録で投資勧誘か 監視委、シンガポールの会社を禁止申し立て 無登録で投資勧誘などを行ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資関連会社「グープロパティ」と同社社長に業",
+        "url": "https://news.yahoo.co.jp/articles/0f544044884a9f6d1224d5704103e34d860c2d76",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ムームー証券に一部業務停止命令、口座開設の勧誘・受付を3カ月間",
+        "url": "https://news.yahoo.co.jp/articles/2a98efad64aa024ba21ddec353bb6b66f6d144d6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本の年金マネーが暗号資産へ──日経新聞でコメントした背景を解説【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/c53bc548209b9988cc0ae9223d340658a1af52b2",
         "source": "Yahoo",
@@ -2879,36 +2956,36 @@
       {
         "title": "ビットバンク、予測市場サービス利用に注意喚起。関連入出金で口座停止の可能性",
         "url": "https://news.yahoo.co.jp/articles/009d335d9aa030476816017a835d77990f695719",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン半値の“冬”に「銘柄5倍」攻勢を仕掛けたメルカリの勝算、コインチェック提携で「眠れる200万口座」は動くか",
-        "url": "https://news.yahoo.co.jp/articles/2c14cd0e91c61a9eb5dc8c10b5135a107d23420c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国内株を売らせ暗号資産を推奨？ある投資助言業の手口の闇",
-        "url": "https://news.yahoo.co.jp/articles/7d10a6724bf5c78f92cc1f4e4f203568180c951e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決／BTC、米CPI後に米株安と逆行して反発──予測市場ではブルトラップ警戒も【価格分析】【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/aef2430ec066400d736f2e48f785525242422fbb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニデックに監視委が資料提出命令 不正会計めぐり モーター大手「ニデック」が不正な会計処理をしていた問題で、証券取引等監視委員会が金融商品取引法に基づき、ニデックに対して資料の提出を命じていたことがわかりました。ABEMA TIMES社会6/13(土) 18:00",
-        "url": "https://news.yahoo.co.jp/articles/534239dded7ab8114c3b167963106e3fbfa6a52b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明 金融庁 金融庁と関東財務局は6月19日、「moomoo証券」（東京都渋谷区）に対し、金融商品取引法に基づく行政処分を出したと発表した。同社が少額投資非課税制度（NIS",
+        "url": "https://news.yahoo.co.jp/articles/bcf71787cc7889fa0dfec65b3f96c002845c5eb1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "575億円集金か、監視委が禁止申し立て 無登録で出資を募ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資会社に違反行為の禁止や停止を命じるよう東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/b1fe69cf003ae5f22f95c4c2b567f2b11a96b380",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "無登録で投資勧誘か 監視委、シンガポールの会社を禁止申し立て 無登録で投資勧誘などを行ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資関連会社「グープロパティ」と同社社長に業",
+        "url": "https://news.yahoo.co.jp/articles/0f544044884a9f6d1224d5704103e34d860c2d76",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ムームー証券に一部業務停止命令、口座開設の勧誘・受付を3カ月間",
+        "url": "https://news.yahoo.co.jp/articles/2a98efad64aa024ba21ddec353bb6b66f6d144d6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本の年金マネーが暗号資産へ──日経新聞でコメントした背景を解説【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/c53bc548209b9988cc0ae9223d340658a1af52b2",
         "source": "Yahoo",
@@ -2917,36 +2994,36 @@
       {
         "title": "ビットバンク、予測市場サービス利用に注意喚起。関連入出金で口座停止の可能性",
         "url": "https://news.yahoo.co.jp/articles/009d335d9aa030476816017a835d77990f695719",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン半値の“冬”に「銘柄5倍」攻勢を仕掛けたメルカリの勝算、コインチェック提携で「眠れる200万口座」は動くか",
-        "url": "https://news.yahoo.co.jp/articles/2c14cd0e91c61a9eb5dc8c10b5135a107d23420c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国内株を売らせ暗号資産を推奨？ある投資助言業の手口の闇",
-        "url": "https://news.yahoo.co.jp/articles/7d10a6724bf5c78f92cc1f4e4f203568180c951e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決／BTC、米CPI後に米株安と逆行して反発──予測市場ではブルトラップ警戒も【価格分析】【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/aef2430ec066400d736f2e48f785525242422fbb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニデックに監視委が資料提出命令 不正会計めぐり モーター大手「ニデック」が不正な会計処理をしていた問題で、証券取引等監視委員会が金融商品取引法に基づき、ニデックに対して資料の提出を命じていたことがわかりました。ABEMA TIMES社会6/13(土) 18:00",
-        "url": "https://news.yahoo.co.jp/articles/534239dded7ab8114c3b167963106e3fbfa6a52b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明 金融庁 金融庁と関東財務局は6月19日、「moomoo証券」（東京都渋谷区）に対し、金融商品取引法に基づく行政処分を出したと発表した。同社が少額投資非課税制度（NIS",
+        "url": "https://news.yahoo.co.jp/articles/bcf71787cc7889fa0dfec65b3f96c002845c5eb1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "575億円集金か、監視委が禁止申し立て 無登録で出資を募ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資会社に違反行為の禁止や停止を命じるよう東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/b1fe69cf003ae5f22f95c4c2b567f2b11a96b380",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "無登録で投資勧誘か 監視委、シンガポールの会社を禁止申し立て 無登録で投資勧誘などを行ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資関連会社「グープロパティ」と同社社長に業",
+        "url": "https://news.yahoo.co.jp/articles/0f544044884a9f6d1224d5704103e34d860c2d76",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ムームー証券に一部業務停止命令、口座開設の勧誘・受付を3カ月間",
+        "url": "https://news.yahoo.co.jp/articles/2a98efad64aa024ba21ddec353bb6b66f6d144d6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本の年金マネーが暗号資産へ──日経新聞でコメントした背景を解説【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/c53bc548209b9988cc0ae9223d340658a1af52b2",
         "source": "Yahoo",
@@ -2955,36 +3032,36 @@
       {
         "title": "ビットバンク、予測市場サービス利用に注意喚起。関連入出金で口座停止の可能性",
         "url": "https://news.yahoo.co.jp/articles/009d335d9aa030476816017a835d77990f695719",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン半値の“冬”に「銘柄5倍」攻勢を仕掛けたメルカリの勝算、コインチェック提携で「眠れる200万口座」は動くか",
-        "url": "https://news.yahoo.co.jp/articles/2c14cd0e91c61a9eb5dc8c10b5135a107d23420c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国内株を売らせ暗号資産を推奨？ある投資助言業の手口の闇",
-        "url": "https://news.yahoo.co.jp/articles/7d10a6724bf5c78f92cc1f4e4f203568180c951e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決／BTC、米CPI後に米株安と逆行して反発──予測市場ではブルトラップ警戒も【価格分析】【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/aef2430ec066400d736f2e48f785525242422fbb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニデックに監視委が資料提出命令 不正会計めぐり モーター大手「ニデック」が不正な会計処理をしていた問題で、証券取引等監視委員会が金融商品取引法に基づき、ニデックに対して資料の提出を命じていたことがわかりました。ABEMA TIMES社会6/13(土) 18:00",
-        "url": "https://news.yahoo.co.jp/articles/534239dded7ab8114c3b167963106e3fbfa6a52b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明 金融庁 金融庁と関東財務局は6月19日、「moomoo証券」（東京都渋谷区）に対し、金融商品取引法に基づく行政処分を出したと発表した。同社が少額投資非課税制度（NIS",
+        "url": "https://news.yahoo.co.jp/articles/bcf71787cc7889fa0dfec65b3f96c002845c5eb1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "575億円集金か、監視委が禁止申し立て 無登録で出資を募ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資会社に違反行為の禁止や停止を命じるよう東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/b1fe69cf003ae5f22f95c4c2b567f2b11a96b380",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "無登録で投資勧誘か 監視委、シンガポールの会社を禁止申し立て 無登録で投資勧誘などを行ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資関連会社「グープロパティ」と同社社長に業",
+        "url": "https://news.yahoo.co.jp/articles/0f544044884a9f6d1224d5704103e34d860c2d76",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ムームー証券に一部業務停止命令、口座開設の勧誘・受付を3カ月間",
+        "url": "https://news.yahoo.co.jp/articles/2a98efad64aa024ba21ddec353bb6b66f6d144d6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本の年金マネーが暗号資産へ──日経新聞でコメントした背景を解説【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/c53bc548209b9988cc0ae9223d340658a1af52b2",
         "source": "Yahoo",
@@ -2993,30 +3070,6 @@
       {
         "title": "ビットバンク、予測市場サービス利用に注意喚起。関連入出金で口座停止の可能性",
         "url": "https://news.yahoo.co.jp/articles/009d335d9aa030476816017a835d77990f695719",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン半値の“冬”に「銘柄5倍」攻勢を仕掛けたメルカリの勝算、コインチェック提携で「眠れる200万口座」は動くか",
-        "url": "https://news.yahoo.co.jp/articles/2c14cd0e91c61a9eb5dc8c10b5135a107d23420c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国内株を売らせ暗号資産を推奨？ある投資助言業の手口の闇",
-        "url": "https://news.yahoo.co.jp/articles/7d10a6724bf5c78f92cc1f4e4f203568180c951e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【速報】暗号資産の金商法改正案、衆院本会議で可決／BTC、米CPI後に米株安と逆行して反発──予測市場ではブルトラップ警戒も【価格分析】【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/aef2430ec066400d736f2e48f785525242422fbb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニデックに監視委が資料提出命令 不正会計めぐり モーター大手「ニデック」が不正な会計処理をしていた問題で、証券取引等監視委員会が金融商品取引法に基づき、ニデックに対して資料の提出を命じていたことがわかりました。ABEMA TIMES社会6/13(土) 18:00",
-        "url": "https://news.yahoo.co.jp/articles/534239dded7ab8114c3b167963106e3fbfa6a52b",
         "source": "Yahoo",
         "date": ""
       }
@@ -3327,6 +3380,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "イーサリアム、90日でステーキング預け入れ200万ETH増──価格下落でもRWA・予測市場で需要拡大【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/4302727dbe5870392a4062ffe3fafc0236485545",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ポリマーケット運営主体、オランダ当局が42万ユーロの履行強制金を徴収へ",
         "url": "https://news.yahoo.co.jp/articles/1862b2955d0d45959f6debc47b147ee3ad8ed1e6",
         "source": "Yahoo",
@@ -3353,18 +3412,18 @@
       {
         "title": "FRB公表の規則案、ステーブルコイン発行体に銀行と同水準の本人確認を要求",
         "url": "https://news.yahoo.co.jp/articles/b364c3ea83003c6e77e3d83913971314066f72d4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIレミット、Fassetと提携──ステーブルコイン活用の国際送金インフラ構築へ",
-        "url": "https://news.yahoo.co.jp/articles/9da58d5e8f3de504d7b1ef11a002c7d842bb3fa4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "イーサリアム、90日でステーキング預け入れ200万ETH増──価格下落でもRWA・予測市場で需要拡大【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/4302727dbe5870392a4062ffe3fafc0236485545",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ポリマーケット運営主体、オランダ当局が42万ユーロの履行強制金を徴収へ",
         "url": "https://news.yahoo.co.jp/articles/1862b2955d0d45959f6debc47b147ee3ad8ed1e6",
         "source": "Yahoo",
@@ -3391,12 +3450,6 @@
       {
         "title": "FRB公表の規則案、ステーブルコイン発行体に銀行と同水準の本人確認を要求",
         "url": "https://news.yahoo.co.jp/articles/b364c3ea83003c6e77e3d83913971314066f72d4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIレミット、Fassetと提携──ステーブルコイン活用の国際送金インフラ構築へ",
-        "url": "https://news.yahoo.co.jp/articles/9da58d5e8f3de504d7b1ef11a002c7d842bb3fa4",
         "source": "Yahoo",
         "date": ""
       }
@@ -3605,12 +3658,6 @@
         "date": ""
       },
       {
-        "title": "「トクリュウ」はただの犯罪集団ではない",
-        "url": "https://news.yahoo.co.jp/articles/567f4dc03336b70728ed0241f85b0cc01b6aaf8d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
         "source": "Yahoo",
@@ -3625,6 +3672,12 @@
       {
         "title": "外国銀行の協調融資を可能に 海外マネー活用、無支店容認",
         "url": "https://news.yahoo.co.jp/articles/3ff8ddd6652bfd2376a90f078471d89cc88b49f9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「夫は旧家の跡取りで",
+        "url": "https://news.yahoo.co.jp/articles/fcb68175b0eb1fe5e9b5e8354b140c3624b6d8ec",
         "source": "Yahoo",
         "date": ""
       }
@@ -3643,12 +3696,6 @@
         "date": ""
       },
       {
-        "title": "「トクリュウ」はただの犯罪集団ではない",
-        "url": "https://news.yahoo.co.jp/articles/567f4dc03336b70728ed0241f85b0cc01b6aaf8d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
         "source": "Yahoo",
@@ -3663,6 +3710,12 @@
       {
         "title": "外国銀行の協調融資を可能に 海外マネー活用、無支店容認",
         "url": "https://news.yahoo.co.jp/articles/3ff8ddd6652bfd2376a90f078471d89cc88b49f9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「夫は旧家の跡取りで",
+        "url": "https://news.yahoo.co.jp/articles/fcb68175b0eb1fe5e9b5e8354b140c3624b6d8ec",
         "source": "Yahoo",
         "date": ""
       }
@@ -3681,12 +3734,6 @@
         "date": ""
       },
       {
-        "title": "「トクリュウ」はただの犯罪集団ではない",
-        "url": "https://news.yahoo.co.jp/articles/567f4dc03336b70728ed0241f85b0cc01b6aaf8d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
         "source": "Yahoo",
@@ -3701,6 +3748,12 @@
       {
         "title": "外国銀行の協調融資を可能に 海外マネー活用、無支店容認",
         "url": "https://news.yahoo.co.jp/articles/3ff8ddd6652bfd2376a90f078471d89cc88b49f9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「夫は旧家の跡取りで",
+        "url": "https://news.yahoo.co.jp/articles/fcb68175b0eb1fe5e9b5e8354b140c3624b6d8ec",
         "source": "Yahoo",
         "date": ""
       }
