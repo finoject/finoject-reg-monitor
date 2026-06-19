@@ -355,6 +355,40 @@ async function enrichItems(items){
   console.log(`法令連携: 本文取得 ${fetched}件 / うち本文で精度向上 ${fromBody}件 / lawrefs付与 ${items.filter(i=>i.lawrefs&&i.lawrefs.length).length}件`);
 }
 
+// ---- AI要点の事前生成（巡回時にWorker /ai でClaude要約を作り data.json に保存。一覧カードに即表示用）----
+// 法令紐づき(lawrefs有)の高価値更新だけを対象に、1件ずつ生成してキャッシュ（生成は新着時のみ＝低コスト）。
+// APIキーはWorker側のsecretにあり、ここ(reg-monitorリポジトリ/Actions)には置かない。
+const AI_BASE = process.env.AI_ENDPOINT || 'https://finoject-proxy.kimihiro-mine.workers.dev/ai';
+const AI_SUM_VERSION = 1;            // 要点プロンプト/様式を変えたら +1（既存も一度だけ再生成）
+const MAX_AI_PER_RUN = 25;           // 1巡回あたりの生成上限（コスト/レート制御。未処理は次回以降に回る）
+async function aiSummarize(items){
+  let made = 0, tried = 0;
+  for (const it of items){                                   // items は日付降順済み＝新しい更新から生成
+    if (made >= MAX_AI_PER_RUN) break;
+    if (!(it.lawrefs && it.lawrefs.length)) continue;        // 法令紐づきの高価値更新のみ（要点の根拠にもなる）
+    if (Array.isArray(it.aiSummary) && it.aiSumV === AI_SUM_VERSION) continue;   // 生成済みは再生成しない
+    tried++;
+    try {
+      const r = await fetch(AI_BASE, {
+        method:'POST', headers:{ 'Content-Type':'application/json' },
+        body: JSON.stringify({ task:'update', payload:{
+          title: it.title||'', agency: it.agency||'', date: it.date||'',
+          lawrefs: [...new Set((it.lawrefs||[]).map(x=>x.label))].slice(0,8),
+        }}),
+        signal: AbortSignal.timeout(30000),
+      });
+      if (!r.ok) continue;                                   // 未デプロイ/失敗時はスキップ（次回再試行）
+      const j = await r.json();
+      if (j && Array.isArray(j.lines) && j.lines.length){
+        it.aiSummary = j.lines.slice(0, 4).map(s => String(s));
+        it.aiSumV = AI_SUM_VERSION;
+        made++;
+      }
+    } catch(_){}
+  }
+  console.log(`AI要点: 生成 ${made}件 / 試行 ${tried}件 / 保有 ${items.filter(i=>Array.isArray(i.aiSummary)).length}件`);
+}
+
 async function main(){
   let store = { generatedAt:null, items:[] };
   if (fs.existsSync(OUT)) { try { store = JSON.parse(fs.readFileSync(OUT,'utf8')); } catch{} }
@@ -383,6 +417,7 @@ async function main(){
   store.lawnews = await fetchLawNews();               // 各法令の関連ニュース（指定ソースの見出し＋リンク）
   store.dietbills = await fetchDietBills();            // 各法令に関する国会の法律案の審議状況（衆議院議案一覧）
   store.items.sort((a,b)=> (b.date||'').localeCompare(a.date||'') || (b.detectedAt||'').localeCompare(a.detectedAt||''));
+  await aiSummarize(store.items);                     // AI要点を事前生成（新しい更新から。lawrefs有のみ・上限あり・既生成はスキップ）
   store.generatedAt = nowIso;
   store.sources = SITES.map(s=>({name:s.name, url:s.url}));
   fs.writeFileSync(OUT, JSON.stringify(store, null, 2), 'utf8');
