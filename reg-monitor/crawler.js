@@ -325,6 +325,7 @@ async function fetchDietBills(){
 // 1回の巡回での本文取得数は上限を設け（クロール負荷の抑制）、未処理分は次回以降に回す。
 const MAX_FETCH_PER_RUN = 40;
 const ENRICH_VERSION = 2;   // 法令照合ロジックを更新したら +1。既存itemも一度だけ再enrichして修正を反映（2026-06-19: 日本語内空白の正規化）
+const BODY_CACHE = new Map();   // この巡回中に取得した本文を url→text でキャッシュ（enrichとaiSummarizeで二重取得を避ける）
 async function enrichItems(items){
   let fetched = 0, fromBody = 0;
   for (const it of items){
@@ -336,6 +337,7 @@ async function enrichItems(items){
     if (needFetch){
       fetched++;
       const body = await fetchBodyText(it.url);
+      if (body) BODY_CACHE.set(it.url, body);   // aiSummarizeで本文として再利用（二重取得回避）
       if (body){
         const full = buildLawrefs((it.title||'') + '\n' + body);
         // 本文の方が情報量が多いので、条番号付き or より多くの法令を拾えたら採用
@@ -359,8 +361,8 @@ async function enrichItems(items){
 // 法令紐づき(lawrefs有)の高価値更新だけを対象に、1件ずつ生成してキャッシュ（生成は新着時のみ＝低コスト）。
 // APIキーはWorker側のsecretにあり、ここ(reg-monitorリポジトリ/Actions)には置かない。
 const AI_BASE = process.env.AI_ENDPOINT || 'https://finoject-proxy.kimihiro-mine.workers.dev/ai';
-const AI_SUM_VERSION = 1;            // 要点プロンプト/様式を変えたら +1（既存も一度だけ再生成）
-const MAX_AI_PER_RUN = 25;           // 1巡回あたりの生成上限（コスト/レート制御。未処理は次回以降に回る）
+const AI_SUM_VERSION = 2;            // 要点プロンプト/様式を変えたら +1（既存も一度だけ再生成）。v2=本文を渡して具体化(2026-06-19)
+const MAX_AI_PER_RUN = 20;           // 1巡回あたりの生成上限（コスト/レート制御＋本文取得の所要時間。未処理は次回以降に回る）
 async function aiSummarize(items){
   let made = 0, tried = 0;
   for (const it of items){                                   // items は日付降順済み＝新しい更新から生成
@@ -368,14 +370,18 @@ async function aiSummarize(items){
     if (!(it.lawrefs && it.lawrefs.length)) continue;        // 法令紐づきの高価値更新のみ（要点の根拠にもなる）
     if (Array.isArray(it.aiSummary) && it.aiSumV === AI_SUM_VERSION) continue;   // 生成済みは再生成しない
     tried++;
+    // 本文を渡して具体化（タイトルだけだと一般論になるため）。enrichで取得済みなら再利用、無ければ取得。
+    let body = BODY_CACHE.get(it.url);
+    if (body === undefined){ try { body = await fetchBodyText(it.url); } catch { body = ''; } if (body) BODY_CACHE.set(it.url, body); }
     try {
       const r = await fetch(AI_BASE, {
         method:'POST', headers:{ 'Content-Type':'application/json' },
         body: JSON.stringify({ task:'update', payload:{
           title: it.title||'', agency: it.agency||'', date: it.date||'',
           lawrefs: [...new Set((it.lawrefs||[]).map(x=>x.label))].slice(0,8),
+          body: (body || '').slice(0, 6000),                 // 本文抜粋（Worker側で具体的変更点を抽出）
         }}),
-        signal: AbortSignal.timeout(30000),
+        signal: AbortSignal.timeout(40000),
       });
       if (!r.ok) continue;                                   // 未デプロイ/失敗時はスキップ（次回再試行）
       const j = await r.json();
