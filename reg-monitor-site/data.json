@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T21:48:29.022Z",
+  "generatedAt": "2026-06-19T23:45:01.020Z",
   "items": [
     {
       "agency": "金融庁",
@@ -3488,6 +3488,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ステーブルコインをマネロン悪用 特殊詐欺で得た資金を交換",
+        "url": "https://news.yahoo.co.jp/articles/a38d2b4d4b93ffbb4070b4b825ec40fc7d460efe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコインは静かに成長している──CryptoQuantが示すオンチェーン利用の急拡大【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/52dc4f78e6cd83b5e5f16d337938d0f7c9178735",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イーサリアム、90日でステーキング預け入れ200万ETH増──価格下落でもRWA・予測市場で需要拡大【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/4302727dbe5870392a4062ffe3fafc0236485545",
         "source": "Yahoo",
@@ -3508,24 +3520,24 @@
       {
         "title": "米当局、GENIUS法に基づくステーブルコイン発行者向け顧客識別プログラム規則案を公表",
         "url": "https://news.yahoo.co.jp/articles/bf2f104c6fd3c27decfddba5c8e5bf1b26abf9b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサL2のベース、企業向けプライベート台帳基盤「Base Ledgers」提供開始。プライバシー機能も公開",
-        "url": "https://news.yahoo.co.jp/articles/8eaa5c2c0e7ec66818c1d1a06982145b8587be56",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "FRB公表の規則案、ステーブルコイン発行体に銀行と同水準の本人確認を要求",
-        "url": "https://news.yahoo.co.jp/articles/b364c3ea83003c6e77e3d83913971314066f72d4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ステーブルコインをマネロン悪用 特殊詐欺で得た資金を交換",
+        "url": "https://news.yahoo.co.jp/articles/a38d2b4d4b93ffbb4070b4b825ec40fc7d460efe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコインは静かに成長している──CryptoQuantが示すオンチェーン利用の急拡大【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/52dc4f78e6cd83b5e5f16d337938d0f7c9178735",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イーサリアム、90日でステーキング預け入れ200万ETH増──価格下落でもRWA・予測市場で需要拡大【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/4302727dbe5870392a4062ffe3fafc0236485545",
         "source": "Yahoo",
@@ -3546,18 +3558,6 @@
       {
         "title": "米当局、GENIUS法に基づくステーブルコイン発行者向け顧客識別プログラム規則案を公表",
         "url": "https://news.yahoo.co.jp/articles/bf2f104c6fd3c27decfddba5c8e5bf1b26abf9b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサL2のベース、企業向けプライベート台帳基盤「Base Ledgers」提供開始。プライバシー機能も公開",
-        "url": "https://news.yahoo.co.jp/articles/8eaa5c2c0e7ec66818c1d1a06982145b8587be56",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "FRB公表の規則案、ステーブルコイン発行体に銀行と同水準の本人確認を要求",
-        "url": "https://news.yahoo.co.jp/articles/b364c3ea83003c6e77e3d83913971314066f72d4",
         "source": "Yahoo",
         "date": ""
       }
