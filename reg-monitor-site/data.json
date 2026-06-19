@@ -1,13 +1,31 @@
 {
-  "generatedAt": "2026-06-19T02:21:26.532Z",
+  "generatedAt": "2026-06-19T06:01:45.783Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX-R]JPX自主規制法人の年次報告 2026の掲載について",
+      "url": "https://www.jpx.co.jp/regulation/public/02.html",
+      "date": "2026-06-19",
+      "detectedAt": "2026-06-19T06:01:45.783Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": null,
+          "kind": "改正",
+          "label": "金融商品取引法"
+        }
+      ],
+      "enriched": "2026-06-19T06:03:57.134Z",
+      "enrichV": 2
+    },
     {
       "agency": "日本銀行",
       "title": "【概要説明】氷見野副総裁「通貨及び金融の調節に関する報告書」（衆議院財務金融委員会）",
       "url": "https://www.boj.or.jp/mopo/diet/d_state/dst260619a.htm",
       "date": "2026-06-19",
       "detectedAt": "2026-06-19T02:21:26.532Z",
-      "enriched": "2026-06-19T02:21:32.701Z"
+      "enriched": "2026-06-19T06:01:51.907Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -15,7 +33,8 @@
       "url": "https://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2607.htm",
       "date": "2026-06-19",
       "detectedAt": "2026-06-19T02:21:26.532Z",
-      "enriched": "2026-06-19T02:21:32.916Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -23,7 +42,8 @@
       "url": "https://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2607.htm",
       "date": "2026-06-19",
       "detectedAt": "2026-06-19T02:21:26.532Z",
-      "enriched": "2026-06-19T02:21:32.916Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -31,7 +51,8 @@
       "url": "https://www.jsda.or.jp/shijyo/seido/jishukisei/kensyunewsletter/index.html",
       "date": "2026-06-19",
       "detectedAt": "2026-06-19T02:21:26.532Z",
-      "enriched": "2026-06-19T02:21:32.916Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -39,7 +60,8 @@
       "url": "https://jvcea.or.jp/information/statistics-reports/20260619-001/",
       "date": "2026-06-19",
       "detectedAt": "2026-06-19T02:21:26.532Z",
-      "enriched": "2026-06-19T02:21:32.916Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -47,7 +69,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260428.pdf",
       "date": "2026-06-18",
       "detectedAt": "2026-06-19T02:21:26.532Z",
-      "enriched": "2026-06-19T02:21:32.916Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -55,7 +78,8 @@
       "url": "https://www.boj.or.jp/statistics/bis/repo/index.htm",
       "date": "2026-06-18",
       "detectedAt": "2026-06-19T02:21:26.532Z",
-      "enriched": "2026-06-19T02:21:32.916Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -64,7 +88,8 @@
       "date": "2026-06-18",
       "detectedAt": "2026-06-18T09:58:33.997Z",
       "updated": true,
-      "enriched": "2026-06-18T09:58:39.228Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -72,7 +97,8 @@
       "url": "https://www.boj.or.jp/research/wps_rev/wps_2026/wp26j08.htm",
       "date": "2026-06-18",
       "detectedAt": "2026-06-18T09:58:33.997Z",
-      "enriched": "2026-06-18T09:58:39.228Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -80,7 +106,8 @@
       "url": "https://www.boj.or.jp/research/research_data/reri/index.htm",
       "date": "2026-06-18",
       "detectedAt": "2026-06-18T09:58:33.997Z",
-      "enriched": "2026-06-18T09:58:39.228Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -88,7 +115,8 @@
       "url": "https://www.jpx.co.jp/news/1023/20260618-12.html",
       "date": "2026-06-18",
       "detectedAt": "2026-06-18T09:58:33.997Z",
-      "enriched": "2026-06-18T09:58:39.228Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -96,7 +124,8 @@
       "url": "https://www.jpx.co.jp/news/1023/20260618-13.html",
       "date": "2026-06-18",
       "detectedAt": "2026-06-18T09:58:33.997Z",
-      "enriched": "2026-06-18T09:58:39.228Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -104,7 +133,8 @@
       "url": "https://www.jpx.co.jp/news/1023/20260618-11.html",
       "date": "2026-06-18",
       "detectedAt": "2026-06-18T09:58:33.997Z",
-      "enriched": "2026-06-18T09:58:39.228Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -112,7 +142,8 @@
       "url": "https://www.boj.or.jp/statistics/bis/ibs/index.htm",
       "date": "2026-06-17",
       "detectedAt": "2026-06-18T00:02:30.564Z",
-      "enriched": "2026-06-18T00:02:35.810Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -121,7 +152,8 @@
       "date": "2026-06-17",
       "detectedAt": "2026-06-17T10:18:14.329Z",
       "updated": true,
-      "enriched": "2026-06-17T10:18:20.512Z"
+      "enriched": "2026-06-19T06:01:52.710Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -132,13 +164,20 @@
       "updated": true,
       "lawrefs": [
         {
-          "id": "419AC0000000022",
+          "id": "420M60000F5A001",
           "art": "第6条",
           "kind": "改正",
-          "label": "犯罪による収益の移転防止に関する法律 第6条"
+          "label": "犯罪による収益の移転防止に関する法律施行規則 第6条"
+        },
+        {
+          "id": "419AC0000000022",
+          "art": null,
+          "kind": "改正",
+          "label": "犯罪による収益の移転防止に関する法律"
         }
       ],
-      "enriched": "2026-06-17T10:18:23.333Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -146,7 +185,8 @@
       "url": "https://www.fsa.go.jp/news/r7/singi/20260617.html",
       "date": "2026-06-17",
       "detectedAt": "2026-06-17T10:18:14.329Z",
-      "enriched": "2026-06-17T10:18:23.333Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -154,7 +194,8 @@
       "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260617a.pdf",
       "date": "2026-06-17",
       "detectedAt": "2026-06-17T10:18:14.329Z",
-      "enriched": "2026-06-17T10:18:23.333Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -162,7 +203,8 @@
       "url": "https://www.jpx.co.jp/news/1021/20260617-22.html",
       "date": "2026-06-17",
       "detectedAt": "2026-06-17T10:18:14.329Z",
-      "enriched": "2026-06-17T10:18:23.333Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -170,7 +212,8 @@
       "url": "https://www.jsda.or.jp/houdou/2026/20260617.html",
       "date": "2026-06-17",
       "detectedAt": "2026-06-17T10:18:14.329Z",
-      "enriched": "2026-06-17T10:18:23.333Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -178,7 +221,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kessan/index.html",
       "date": "2026-06-17",
       "detectedAt": "2026-06-17T04:27:59.411Z",
-      "enriched": "2026-06-17T04:28:07.186Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -186,7 +230,8 @@
       "url": "https://www.jpx.co.jp/news/1023/20260616-11.html",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -194,7 +239,8 @@
       "url": "https://www.jpx.co.jp/news/1030/20260616-01.html",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -203,7 +249,8 @@
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:17:06.019Z",
       "updated": true,
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -212,7 +259,8 @@
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:17:06.019Z",
       "updated": true,
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -220,7 +268,8 @@
       "url": "https://www.fsa.go.jp/news/r7/sonota/20260616/20260616.html",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -228,7 +277,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260616d.pdf",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -236,7 +286,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -244,7 +295,8 @@
       "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -252,7 +304,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260616b.pdf",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -260,7 +313,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260616a.pdf",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -268,7 +322,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260616b.pdf",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -276,7 +331,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260616a.pdf",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.413Z"
+      "enriched": "2026-06-19T06:01:56.135Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -284,7 +340,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260616c.pdf",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -292,7 +349,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260616d.pdf",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -300,7 +358,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260616c.pdf",
       "date": "2026-06-16",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -308,7 +367,8 @@
       "url": "https://www.jpx.co.jp/news/2020/20260615-01.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -316,7 +376,8 @@
       "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -324,7 +385,8 @@
       "url": "https://www.jpx.co.jp/news/2040/20260615-01.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -332,7 +394,8 @@
       "url": "https://www.jpx.co.jp/news/2040/20260615-02.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -340,7 +403,8 @@
       "url": "https://www.jpx.co.jp/news/1031/20260615_01.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -349,7 +413,8 @@
       "date": "2026-06-15",
       "detectedAt": "2026-06-16T15:17:06.019Z",
       "updated": true,
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -357,7 +422,8 @@
       "url": "https://www.fsa.go.jp/news/r7/ginkou/20260615.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -365,7 +431,8 @@
       "url": "https://www.jsda.or.jp/houdou/2026/20260615.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-15T10:57:48.232Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -373,7 +440,8 @@
       "url": "https://jvcea.or.jp/information/statistics-reports/20260615-001/",
       "date": "2026-06-15",
       "detectedAt": "2026-06-15T10:57:48.232Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -381,7 +449,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260615dif.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-15T10:57:48.232Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -389,7 +458,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign-shinyo/index.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -397,7 +467,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojn_kujyou.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -405,7 +476,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260615cjq.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -413,7 +485,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260615jbc.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -421,7 +494,8 @@
       "url": "https://www.jpx.co.jp/news/1023/20260612-11.html",
       "date": "2026-06-12",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -429,7 +503,8 @@
       "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
       "date": "2026-06-12",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -437,7 +512,8 @@
       "url": "https://www.jpx.co.jp/news/1030/20260612-01.html",
       "date": "2026-06-12",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -445,7 +521,8 @@
       "url": "https://www.jpx.co.jp/news/2020/20260612-01.html",
       "date": "2026-06-12",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -453,7 +530,8 @@
       "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260612-02.html",
       "date": "2026-06-12",
       "detectedAt": "2026-06-15T05:52:28.078Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -461,7 +539,8 @@
       "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260612-01.html",
       "date": "2026-06-12",
       "detectedAt": "2026-06-15T05:52:28.078Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -469,7 +548,8 @@
       "url": "https://www.fsa.go.jp/news/r7/ginkou/20260612.html",
       "date": "2026-06-12",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:38.779Z"
+      "enriched": "2026-06-19T06:01:56.315Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -581,6 +661,24 @@
           "label": "銀行法施行規則 第1条"
         },
         {
+          "id": "357M50000040010",
+          "art": "第2条",
+          "kind": "パブコメ",
+          "label": "銀行法施行規則 第2条"
+        },
+        {
+          "id": "357M50000040010",
+          "art": "第64条",
+          "kind": "パブコメ",
+          "label": "銀行法施行規則 第64条"
+        },
+        {
+          "id": "357M50000040010",
+          "art": "第4条",
+          "kind": "パブコメ",
+          "label": "銀行法施行規則 第4条"
+        },
+        {
           "id": "356AC0000000059",
           "art": "第2条",
           "kind": "パブコメ",
@@ -593,7 +691,8 @@
           "label": "銀行法 第14条の2"
         }
       ],
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -601,7 +700,8 @@
       "url": "https://www.fsa.go.jp/news/r7/shouken/20260612.html",
       "date": "2026-06-12",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -609,7 +709,8 @@
       "url": "https://www.fsa.go.jp/news/r7/singi/20260612.html",
       "date": "2026-06-12",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -617,7 +718,8 @@
       "url": "https://www.fsa.go.jp/news/r7/20260612/20260612.html",
       "date": "2026-06-12",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -625,7 +727,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260610.xlsx",
       "date": "2026-06-12",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -633,7 +736,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260610.htm",
       "date": "2026-06-12",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -641,7 +745,8 @@
       "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/index.html",
       "date": "2026-06-11",
       "detectedAt": "2026-06-16T15:30:04.605Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -649,7 +754,8 @@
       "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
       "date": "2026-06-11",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -657,7 +763,8 @@
       "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000001fba5-att/view25-1.pdf",
       "date": "2026-06-11",
       "detectedAt": "2026-06-15T05:52:28.078Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -665,7 +772,8 @@
       "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000001fbdj-att/view25-4.pdf",
       "date": "2026-06-11",
       "detectedAt": "2026-06-15T05:52:28.078Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -673,7 +781,8 @@
       "url": "https://www.fsa.go.jp/news/r7/singi/20260611.html",
       "date": "2026-06-11",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -681,7 +790,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260611iaa.html",
       "date": "2026-06-11",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -689,7 +799,8 @@
       "url": "https://www.jpx.co.jp/news/1030/20260610-01.html",
       "date": "2026-06-10",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.832Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -697,7 +808,8 @@
       "url": "https://www.fsa.go.jp/news/r7/ginkou/20260610-2/20260610.html",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -705,7 +817,8 @@
       "url": "https://www.fsa.go.jp/news/r7/ginkou/20260610-3/20260610.html",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -713,7 +826,8 @@
       "url": "https://www.boj.or.jp/statistics/set/bffail/sjgb2605.pdf",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -721,7 +835,8 @@
       "url": "https://www.boj.or.jp/paym/digital/dig260610a.pdf",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -729,7 +844,8 @@
       "url": "https://www.boj.or.jp/paym/digital/dig260610b.pdf",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -737,7 +853,8 @@
       "url": "https://www.boj.or.jp/paym/digital/dig260610c.pdf",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -745,7 +862,8 @@
       "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2605.pdf",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -753,7 +871,8 @@
       "url": "https://www.boj.or.jp/statistics/dl/loan/yaku/yaku2604.pdf",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -761,7 +880,8 @@
       "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -769,7 +889,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/hakkou/index.html",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -777,7 +898,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/saiken_hakkou/youkou/ichiran.html",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -785,7 +907,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/shinkikoukai/index.html",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -793,7 +916,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260610iag.html",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -801,7 +925,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260610kln.html",
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:39.705Z"
+      "enriched": "2026-06-19T06:01:58.833Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -809,7 +934,8 @@
       "url": "https://www.jpx.co.jp/rules-participants/rules/revise/03.html",
       "date": "2026-06-09",
       "detectedAt": "2026-06-16T15:30:04.605Z",
-      "enriched": "2026-06-16T21:28:41.629Z"
+      "enriched": "2026-06-19T06:02:00.275Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -817,7 +943,8 @@
       "url": "https://www.jpx.co.jp/news/1030/20260609-01.html",
       "date": "2026-06-09",
       "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-16T21:28:41.629Z"
+      "enriched": "2026-06-19T06:02:00.275Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -825,7 +952,8 @@
       "url": "https://www.boj.or.jp/finsys/intlact_fs/risk/ris260609a.htm",
       "date": "2026-06-09",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:41.629Z"
+      "enriched": "2026-06-19T06:02:00.275Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -833,7 +961,8 @@
       "url": "https://www.boj.or.jp/statistics/money/ms/ms2605.pdf",
       "date": "2026-06-09",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:41.629Z"
+      "enriched": "2026-06-19T06:02:00.275Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -841,7 +970,8 @@
       "url": "https://www.jsda.or.jp/start/gaiyou/movie/index.html",
       "date": "2026-06-09",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:41.629Z"
+      "enriched": "2026-06-19T06:02:00.275Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -849,7 +979,8 @@
       "url": "https://www.fsa.go.jp/news/r7/shouken/20260608.html",
       "date": "2026-06-08",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:41.629Z"
+      "enriched": "2026-06-19T06:02:00.275Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -889,7 +1020,8 @@
           "label": "銀行法 第52条の25"
         }
       ],
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.652Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -897,7 +1029,8 @@
       "url": "https://www.boj.or.jp/statistics/dl/depo/kashi/kasi2605.pdf",
       "date": "2026-06-08",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.652Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -905,7 +1038,8 @@
       "url": "https://www.boj.or.jp/statistics/market/short/call/call.xlsx",
       "date": "2026-06-05",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.652Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -913,7 +1047,8 @@
       "url": "https://www.boj.or.jp/research/research_data/cai/index.htm",
       "date": "2026-06-05",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.652Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -921,7 +1056,8 @@
       "url": "https://www.boj.or.jp/paym/m-climate/mcli260605a.htm",
       "date": "2026-06-05",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.652Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -929,7 +1065,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/other/mbt/mbt2605.pdf",
       "date": "2026-06-05",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -937,7 +1074,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2605.pdf",
       "date": "2026-06-05",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -945,7 +1083,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2605.xlsx",
       "date": "2026-06-05",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -953,7 +1092,8 @@
       "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260604-01.html",
       "date": "2026-06-04",
       "detectedAt": "2026-06-15T05:52:28.078Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -961,7 +1101,8 @@
       "url": "https://www.boj.or.jp/paym/digital/dig260604a.pdf",
       "date": "2026-06-04",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -969,7 +1110,8 @@
       "url": "https://www.boj.or.jp/paym/digital/dig260604b.pdf",
       "date": "2026-06-04",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -977,7 +1119,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260604a.pdf",
       "date": "2026-06-04",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -985,7 +1128,8 @@
       "url": "https://www.boj.or.jp/research/wps_rev/wps_2026/wp26j07.htm",
       "date": "2026-06-04",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -993,7 +1137,8 @@
       "url": "https://www.boj.or.jp/research/brp/mor/mor260604.htm",
       "date": "2026-06-04",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1001,7 +1146,8 @@
       "url": "https://www.boj.or.jp/about/release_2026/rel260604a.htm",
       "date": "2026-06-04",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -1009,7 +1155,8 @@
       "url": "https://jvcea.or.jp/information/statistics-reports/20260604-001/",
       "date": "2026-06-04",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1017,7 +1164,8 @@
       "url": "https://www.boj.or.jp/research/brp/ron_2026/ron260603a.htm",
       "date": "2026-06-03",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:43.198Z"
+      "enriched": "2026-06-19T06:02:01.653Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1025,7 +1173,8 @@
       "url": "https://www.boj.or.jp/research/wps_rev/rev_2026/rev26j08.htm",
       "date": "2026-06-03",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:44.143Z"
+      "enriched": "2026-06-19T06:02:02.807Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1033,7 +1182,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/fm/juqp/juqp2606.xlsx",
       "date": "2026-06-03",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:44.143Z"
+      "enriched": "2026-06-19T06:02:02.807Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -1041,7 +1191,8 @@
       "url": "https://jvcea.or.jp/information/pc/20260603-001/",
       "date": "2026-06-03",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -1049,7 +1200,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260603azf.html",
       "date": "2026-06-03",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1057,7 +1209,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260529.xlsx",
       "date": "2026-06-02",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1065,7 +1218,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/other/col/col2605.xlsx",
       "date": "2026-06-02",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1073,7 +1227,8 @@
       "url": "https://www.boj.or.jp/intl_finance/meeting/group/gro260602a.htm",
       "date": "2026-06-02",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1081,7 +1236,8 @@
       "url": "https://www.boj.or.jp/paym/bond/mbond_list/mbond260602.pdf",
       "date": "2026-06-02",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1089,7 +1245,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260531.htm",
       "date": "2026-06-02",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1097,7 +1254,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
       "date": "2026-06-02",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1105,7 +1263,8 @@
       "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
       "date": "2026-06-02",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -1113,7 +1272,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260602gdh.html",
       "date": "2026-06-02",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -1121,7 +1281,8 @@
       "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/20260601-11.html",
       "date": "2026-06-01",
       "detectedAt": "2026-06-15T05:52:28.078Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -1129,7 +1290,8 @@
       "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260601-02.html",
       "date": "2026-06-01",
       "detectedAt": "2026-06-15T05:52:28.078Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1137,7 +1299,8 @@
       "url": "https://www.fsa.go.jp/news/r7/shouken/20260601.html",
       "date": "2026-06-01",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1145,7 +1308,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260601a.pdf",
       "date": "2026-06-01",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1153,7 +1317,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/fm/juqf/juqf05.xlsx",
       "date": "2026-06-01",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -1161,7 +1326,8 @@
       "url": "https://jvcea.or.jp/information/statistics-reports/20260601-001/",
       "date": "2026-06-01",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.071Z"
+      "enriched": "2026-06-19T06:02:07.749Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -1169,7 +1335,8 @@
       "url": "https://jvcea.or.jp/information/statistics-reports/20260601-002/",
       "date": "2026-06-01",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.963Z"
+      "enriched": "2026-06-19T06:02:09.075Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -1177,7 +1344,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260601jef.html",
       "date": "2026-06-01",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.963Z"
+      "enriched": "2026-06-19T06:02:09.075Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -1185,7 +1353,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260601ijb.html",
       "date": "2026-06-01",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:52.963Z"
+      "enriched": "2026-06-19T06:02:09.075Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1205,12 +1374,6 @@
           "art": "第4条",
           "kind": "パブコメ",
           "label": "犯罪による収益の移転防止に関する法律 第4条"
-        },
-        {
-          "id": "419AC0000000022",
-          "art": "第9条",
-          "kind": "パブコメ",
-          "label": "犯罪による収益の移転防止に関する法律 第9条"
         },
         {
           "id": "419AC0000000022",
@@ -1237,6 +1400,18 @@
           "label": "犯罪による収益の移転防止に関する法律 第3条"
         },
         {
+          "id": "324AC0000000228",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "外国為替及び外国貿易法"
+        },
+        {
+          "id": "420M60000F5A001",
+          "art": "第4条",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律施行規則 第4条"
+        },
+        {
           "id": "420M60000F5A001",
           "art": "第5条",
           "kind": "パブコメ",
@@ -1247,6 +1422,12 @@
           "art": "第6条",
           "kind": "パブコメ",
           "label": "犯罪による収益の移転防止に関する法律施行規則 第6条"
+        },
+        {
+          "id": "420M60000F5A001",
+          "art": "第9条",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律施行規則 第9条"
         },
         {
           "id": "420CO0000000020",
@@ -1265,15 +1446,10 @@
           "art": "第2条",
           "kind": "パブコメ",
           "label": "犯罪による収益の移転防止に関する法律施行令 第2条"
-        },
-        {
-          "id": "420CO0000000020",
-          "art": "第4条",
-          "kind": "パブコメ",
-          "label": "犯罪による収益の移転防止に関する法律施行令 第4条"
         }
       ],
-      "enriched": "2026-06-16T21:28:56.035Z"
+      "enriched": "2026-06-19T06:02:10.877Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1281,7 +1457,8 @@
       "url": "https://www.fsa.go.jp/news/r7/hoken/20260529-3/20260529-3.html",
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:56.261Z"
+      "enriched": "2026-06-19T06:02:11.253Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1289,7 +1466,8 @@
       "url": "https://www.fsa.go.jp/news/r7/hoken/20260529-1/20260529-1.html",
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:58.523Z"
+      "enriched": "2026-06-19T06:02:12.096Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1297,7 +1475,16 @@
       "url": "https://www.fsa.go.jp/news/r7/hoken/20260529-2/20260529-2.html",
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:59.961Z"
+      "enriched": "2026-06-19T06:02:13.107Z",
+      "lawrefs": [
+        {
+          "id": "415AC0000000057",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "個人情報の保護に関する法律"
+        }
+      ],
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1305,7 +1492,8 @@
       "url": "https://www.fsa.go.jp/news/r7/ginkou/20260529/20260529.html",
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:59.961Z"
+      "enriched": "2026-06-19T06:02:13.107Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1313,7 +1501,8 @@
       "url": "https://www.fsa.go.jp/news/r7/shouken/20260529.html",
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:59.961Z"
+      "enriched": "2026-06-19T06:02:13.107Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1321,7 +1510,8 @@
       "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260529a.pdf",
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:59.961Z"
+      "enriched": "2026-06-19T06:02:13.107Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1329,7 +1519,8 @@
       "url": "https://www.boj.or.jp/statistics/set/kess/release/2026/kess2604.pdf",
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:59.961Z"
+      "enriched": "2026-06-19T06:02:13.107Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1337,7 +1528,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/sentaku/index.html",
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:59.961Z"
+      "enriched": "2026-06-19T06:02:13.107Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1345,7 +1537,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/shikumisai.html",
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:28:59.961Z"
+      "enriched": "2026-06-19T06:02:13.107Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -1353,7 +1546,8 @@
       "url": "https://jvcea.or.jp/information/pc/20260529-001/",
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:01.370Z"
+      "enriched": "2026-06-19T06:02:14.040Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -1361,7 +1555,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260529klm.html",
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:01.370Z"
+      "enriched": "2026-06-19T06:02:14.041Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1369,7 +1564,8 @@
       "url": "https://www.fsa.go.jp/news/r7/sonota/20260528/20260528.html",
       "date": "2026-05-28",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:01.370Z"
+      "enriched": "2026-06-19T06:02:14.041Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1377,7 +1573,8 @@
       "url": "https://www.boj.or.jp/statistics/boj/other/other_gai/gai2603.pdf",
       "date": "2026-05-27",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:01.370Z"
+      "enriched": "2026-06-19T06:02:14.041Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1385,7 +1582,8 @@
       "url": "https://www.boj.or.jp/about/activities/act/act26.htm",
       "date": "2026-05-27",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:01.370Z"
+      "enriched": "2026-06-19T06:02:14.041Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1393,7 +1591,8 @@
       "url": "https://www.boj.or.jp/finsys/rfs/rfs260527.pdf",
       "date": "2026-05-27",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:01.370Z"
+      "enriched": "2026-06-19T06:02:14.041Z",
+      "enrichV": 2
     },
     {
       "agency": "日本銀行",
@@ -1401,7 +1600,8 @@
       "url": "https://www.boj.or.jp/paym/digital/dig260527a.pdf",
       "date": "2026-05-27",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:01.370Z"
+      "enriched": "2026-06-19T06:02:14.041Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1409,7 +1609,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/nisajoukyou.html",
       "date": "2026-05-27",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:01.370Z"
+      "enriched": "2026-06-19T06:02:14.041Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -1417,7 +1618,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260527jcf.html",
       "date": "2026-05-27",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:01.370Z"
+      "enriched": "2026-06-19T06:02:14.041Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1425,7 +1627,8 @@
       "url": "https://www.fsa.go.jp/news/r7/shouken/20260526/20260526.html",
       "date": "2026-05-26",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:02.388Z"
+      "enriched": "2026-06-19T06:02:15.048Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1437,11 +1640,12 @@
         {
           "id": "417AC0000000086",
           "art": null,
-          "kind": "パブコメ",
+          "kind": "その他",
           "label": "会社法"
         }
       ],
-      "enriched": "2026-06-16T21:29:04.774Z"
+      "enriched": "2026-06-19T06:02:55.056Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -1449,7 +1653,8 @@
       "url": "https://jvcea.or.jp/information/pc/20260526-001/",
       "date": "2026-05-26",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:05.709Z"
+      "enriched": "2026-06-19T06:02:56.720Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1457,7 +1662,8 @@
       "url": "https://www.fsa.go.jp/news/r7/ginkou/20260525.html",
       "date": "2026-05-25",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:05.709Z"
+      "enriched": "2026-06-19T06:02:56.720Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1479,7 +1685,8 @@
           "label": "金融商品取引法"
         }
       ],
-      "enriched": "2026-06-16T21:29:06.727Z"
+      "enriched": "2026-06-19T06:02:57.716Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1487,7 +1694,8 @@
       "url": "https://www.fsa.go.jp/news/r7/singi/20260525/20260525.html",
       "date": "2026-05-25",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:06.727Z"
+      "enriched": "2026-06-19T06:02:57.716Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1495,7 +1703,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/j-ships/index.html",
       "date": "2026-05-25",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:06.727Z"
+      "enriched": "2026-06-19T06:02:57.716Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1503,7 +1712,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kanjyo/index.html",
       "date": "2026-05-25",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:06.727Z"
+      "enriched": "2026-06-19T06:02:57.716Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1511,7 +1721,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/taishaku/index.html",
       "date": "2026-05-25",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:06.727Z"
+      "enriched": "2026-06-19T06:02:57.716Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1519,7 +1730,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/toriatsukai/index.html",
       "date": "2026-05-25",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:06.727Z"
+      "enriched": "2026-06-19T06:02:57.716Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1527,7 +1739,8 @@
       "url": "https://www.jsda.or.jp/about/gaiyou/gyouhou/2026/2605gyouhou.html",
       "date": "2026-05-25",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:06.727Z"
+      "enriched": "2026-06-19T06:02:57.716Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1535,7 +1748,8 @@
       "url": "https://www.fsa.go.jp/news/r7/sonota/20260522.html",
       "date": "2026-05-22",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:06.727Z"
+      "enriched": "2026-06-19T06:02:57.716Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1569,6 +1783,12 @@
           "label": "金融商品取引法 第48条の3"
         },
         {
+          "id": "323AC0000000025",
+          "art": "第131条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第131条"
+        },
+        {
           "id": "356AC0000000059",
           "art": "第2条",
           "kind": "パブコメ",
@@ -1582,15 +1802,15 @@
         },
         {
           "id": "356AC0000000059",
-          "art": "第10条",
-          "kind": "パブコメ",
-          "label": "銀行法 第10条"
-        },
-        {
-          "id": "356AC0000000059",
           "art": "第16条の4",
           "kind": "パブコメ",
           "label": "銀行法 第16条の4"
+        },
+        {
+          "id": "356AC0000000059",
+          "art": "第10条",
+          "kind": "パブコメ",
+          "label": "銀行法 第10条"
         },
         {
           "id": "356AC0000000059",
@@ -1600,15 +1820,15 @@
         },
         {
           "id": "356AC0000000059",
-          "art": "第4条",
-          "kind": "パブコメ",
-          "label": "銀行法 第4条"
-        },
-        {
-          "id": "356AC0000000059",
           "art": "第32条",
           "kind": "パブコメ",
           "label": "銀行法 第32条"
+        },
+        {
+          "id": "356AC0000000059",
+          "art": "第4条",
+          "kind": "パブコメ",
+          "label": "銀行法 第4条"
         },
         {
           "id": "356AC0000000059",
@@ -1621,6 +1841,30 @@
           "art": "第115条",
           "kind": "パブコメ",
           "label": "会社法 第115条"
+        },
+        {
+          "id": "417AC0000000086",
+          "art": "第24条",
+          "kind": "パブコメ",
+          "label": "会社法 第24条"
+        },
+        {
+          "id": "417AC0000000086",
+          "art": "第19条",
+          "kind": "パブコメ",
+          "label": "会社法 第19条"
+        },
+        {
+          "id": "417AC0000000086",
+          "art": "第17条",
+          "kind": "パブコメ",
+          "label": "会社法 第17条"
+        },
+        {
+          "id": "417AC0000000086",
+          "art": "第2条",
+          "kind": "パブコメ",
+          "label": "会社法 第2条"
         },
         {
           "id": "417AC0000000086",
@@ -1651,9 +1895,16 @@
           "art": "第768条",
           "kind": "パブコメ",
           "label": "会社法 第768条"
+        },
+        {
+          "id": "417AC0000000086",
+          "art": "第100条の6",
+          "kind": "パブコメ",
+          "label": "会社法 第100条の6"
         }
       ],
-      "enriched": "2026-06-16T21:29:10.121Z"
+      "enriched": "2026-06-19T06:03:00.477Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1662,6 +1913,12 @@
       "date": "2026-05-22",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "lawrefs": [
+        {
+          "id": "412AC0000000101",
+          "art": "第2条",
+          "kind": "パブコメ",
+          "label": "金融サービスの提供及び利用環境の整備等に関する法律 第2条"
+        },
         {
           "id": "fsa-kantoku-chusho",
           "art": null,
@@ -1723,6 +1980,12 @@
           "label": "電子決済手段等取引業者関係"
         },
         {
+          "id": "324AC0000000228",
+          "art": "第6条",
+          "kind": "パブコメ",
+          "label": "外国為替及び外国貿易法 第6条"
+        },
+        {
           "id": "421AC0000000059",
           "art": "第2条",
           "kind": "パブコメ",
@@ -1777,13 +2040,20 @@
           "label": "銀行法施行規則"
         },
         {
+          "id": "416AC0000000154",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "信託業法"
+        },
+        {
           "id": "356AC0000000059",
           "art": "第14条の2",
           "kind": "パブコメ",
           "label": "銀行法 第14条の2"
         }
       ],
-      "enriched": "2026-06-16T21:29:11.337Z"
+      "enriched": "2026-06-19T06:03:01.686Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1792,6 +2062,18 @@
       "date": "2026-05-22",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "lawrefs": [
+        {
+          "id": "505M60000002048",
+          "art": "第3条",
+          "kind": "パブコメ",
+          "label": "電子決済手段等取引業者に関する内閣府令 第3条"
+        },
+        {
+          "id": "505M60000002048",
+          "art": "第1条の2",
+          "kind": "パブコメ",
+          "label": "電子決済手段等取引業者に関する内閣府令 第1条の2"
+        },
         {
           "id": "340CO0000000321",
           "art": "第1条の2",
@@ -1835,7 +2117,8 @@
           "label": "会社法"
         }
       ],
-      "enriched": "2026-06-16T21:29:12.970Z"
+      "enriched": "2026-06-19T06:03:03.674Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1843,7 +2126,8 @@
       "url": "https://www.fsa.go.jp/news/r7/sonota/20260522-3/20260522-3.html",
       "date": "2026-05-22",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:12.971Z"
+      "enriched": "2026-06-19T06:03:03.674Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1851,7 +2135,8 @@
       "url": "https://www.fsa.go.jp/news/r7/sonota/20260522-5/20260522.html",
       "date": "2026-05-22",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:12.971Z"
+      "enriched": "2026-06-19T06:03:03.674Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1859,7 +2144,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
       "date": "2026-05-21",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:12.971Z"
+      "enriched": "2026-06-19T06:03:03.674Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1867,7 +2153,8 @@
       "url": "https://market.jsda.or.jp/shijyo/kazokusupport/index.html",
       "date": "2026-05-20",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:12.971Z"
+      "enriched": "2026-06-19T06:03:03.674Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1875,7 +2162,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojin/index.html",
       "date": "2026-05-20",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:12.971Z"
+      "enriched": "2026-06-19T06:03:03.674Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1883,7 +2171,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-haibun/index.html",
       "date": "2026-05-20",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:12.971Z"
+      "enriched": "2026-06-19T06:03:03.674Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1891,7 +2180,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/jyouken/index.html",
       "date": "2026-05-20",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:12.971Z"
+      "enriched": "2026-06-19T06:03:03.674Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1899,7 +2189,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign/index.html",
       "date": "2026-05-20",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:12.971Z"
+      "enriched": "2026-06-19T06:03:03.674Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1907,7 +2198,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/tentoubaibai/index.html",
       "date": "2026-05-20",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:12.971Z"
+      "enriched": "2026-06-19T06:03:03.674Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -1915,7 +2207,8 @@
       "url": "https://www.jsda.or.jp/about/recruit/index.html",
       "date": "2026-05-20",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:12.971Z"
+      "enriched": "2026-06-19T06:03:03.674Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1937,6 +2230,12 @@
           "label": "電子決済手段等取引業者関係"
         },
         {
+          "id": "340CO0000000321",
+          "art": "第1条の2",
+          "kind": "パブコメ",
+          "label": "金融商品取引法施行令 第1条の2"
+        },
+        {
           "id": "421AC0000000059",
           "art": "第2条",
           "kind": "パブコメ",
@@ -1944,15 +2243,9 @@
         },
         {
           "id": "421AC0000000059",
-          "art": "第62条",
+          "art": "第62条の12",
           "kind": "パブコメ",
-          "label": "資金決済に関する法律 第62条"
-        },
-        {
-          "id": "421AC0000000059",
-          "art": "第28条",
-          "kind": "パブコメ",
-          "label": "資金決済に関する法律 第28条"
+          "label": "資金決済に関する法律 第62条の12"
         },
         {
           "id": "323AC0000000025",
@@ -1968,15 +2261,33 @@
         },
         {
           "id": "323AC0000000025",
-          "art": "第1条の2",
-          "kind": "パブコメ",
-          "label": "金融商品取引法 第1条の2"
-        },
-        {
-          "id": "323AC0000000025",
           "art": "第4条",
           "kind": "パブコメ",
           "label": "金融商品取引法 第4条"
+        },
+        {
+          "id": "416AC0000000154",
+          "art": "第28条",
+          "kind": "パブコメ",
+          "label": "信託業法 第28条"
+        },
+        {
+          "id": "416AC0000000154",
+          "art": "第2条",
+          "kind": "パブコメ",
+          "label": "信託業法 第2条"
+        },
+        {
+          "id": "416AC0000000154",
+          "art": "第21条",
+          "kind": "パブコメ",
+          "label": "信託業法 第21条"
+        },
+        {
+          "id": "416AC0000000154",
+          "art": "第3条",
+          "kind": "パブコメ",
+          "label": "信託業法 第3条"
         },
         {
           "id": "356AC0000000059",
@@ -2015,7 +2326,8 @@
           "label": "銀行法 第28条"
         }
       ],
-      "enriched": "2026-06-16T21:29:14.010Z"
+      "enriched": "2026-06-19T06:03:04.832Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -2023,7 +2335,8 @@
       "url": "https://www.fsa.go.jp/news/r7/shouken/20260519/20260519.html",
       "date": "2026-05-19",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:14.297Z"
+      "enriched": "2026-06-19T06:03:04.984Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -2063,7 +2376,8 @@
           "label": "銀行法 第52条の51"
         }
       ],
-      "enriched": "2026-06-16T21:29:15.142Z"
+      "enriched": "2026-06-19T06:03:06.377Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -2071,7 +2385,8 @@
       "url": "https://www.fsa.go.jp/news/r7/sonota/20260518/20260518.html",
       "date": "2026-05-18",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:15.142Z"
+      "enriched": "2026-06-19T06:03:06.377Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -2079,7 +2394,8 @@
       "url": "https://www.fsa.go.jp/news/r7/singi/20260518.html",
       "date": "2026-05-18",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:15.142Z"
+      "enriched": "2026-06-19T06:03:06.377Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2087,7 +2403,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260515ihe.html",
       "date": "2026-05-15",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:15.142Z"
+      "enriched": "2026-06-19T06:03:06.377Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -2095,7 +2412,8 @@
       "url": "https://www.fsa.go.jp/news/r7/sonota/20260514/20260514.html",
       "date": "2026-05-14",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:15.142Z"
+      "enriched": "2026-06-19T06:03:06.377Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -2123,13 +2441,26 @@
           "label": "犯罪による収益の移転防止に関する法律 第11条"
         },
         {
+          "id": "415AC0000000057",
+          "art": "第6条",
+          "kind": "パブコメ",
+          "label": "個人情報の保護に関する法律 第6条"
+        },
+        {
+          "id": "415AC0000000057",
+          "art": "第9条",
+          "kind": "パブコメ",
+          "label": "個人情報の保護に関する法律 第9条"
+        },
+        {
           "id": "323AC0000000025",
           "art": "第210条",
           "kind": "パブコメ",
           "label": "金融商品取引法 第210条"
         }
       ],
-      "enriched": "2026-06-16T21:29:15.450Z"
+      "enriched": "2026-06-19T06:03:06.643Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -2137,7 +2468,8 @@
       "url": "https://www.fsa.go.jp/news/r7/sonota/20260513-2/20260513.html",
       "date": "2026-05-13",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:15.450Z"
+      "enriched": "2026-06-19T06:03:06.643Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -2153,7 +2485,8 @@
           "label": "金融商品取引業者等向けの総合的な監督指針"
         }
       ],
-      "enriched": "2026-06-16T21:29:15.836Z"
+      "enriched": "2026-06-19T06:03:07.882Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -2161,7 +2494,8 @@
       "url": "https://www.jsda.or.jp/shinchaku/systemtrouble/20260511154507.html",
       "date": "2026-05-11",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:48.043Z"
+      "enriched": "2026-06-19T06:03:07.882Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -2177,7 +2511,8 @@
           "label": "金融商品取引業者等向けの総合的な監督指針"
         }
       ],
-      "enriched": "2026-06-16T21:29:49.034Z"
+      "enriched": "2026-06-19T06:03:08.302Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -2185,7 +2520,8 @@
       "url": "https://jvcea.or.jp/information/statistics-reports/20260508-001/",
       "date": "2026-05-08",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:49.034Z"
+      "enriched": "2026-06-19T06:03:08.302Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -2193,7 +2529,8 @@
       "url": "https://www.jsda.or.jp/houdou/2026/20260507.html",
       "date": "2026-05-07",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:49.034Z"
+      "enriched": "2026-06-19T06:03:08.302Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -2201,7 +2538,8 @@
       "url": "https://www.fsa.go.jp/news/r7/sonota/20260501/20260501.html",
       "date": "2026-05-01",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:50.189Z"
+      "enriched": "2026-06-19T06:03:08.866Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -2247,7 +2585,8 @@
           "label": "資金決済に関する法律"
         }
       ],
-      "enriched": "2026-06-16T21:29:52.728Z"
+      "enriched": "2026-06-19T06:03:10.949Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -2255,7 +2594,8 @@
       "url": "https://jvcea.or.jp/information/statistics-reports/20260501-002/",
       "date": "2026-05-01",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:52.728Z"
+      "enriched": "2026-06-19T06:03:10.949Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -2263,7 +2603,8 @@
       "url": "https://jvcea.or.jp/information/statistics-reports/20260501-001/",
       "date": "2026-05-01",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -2271,7 +2612,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/syokisyueki/index.html",
       "date": "2026-04-30",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -2279,7 +2621,8 @@
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/cfd/index.html",
       "date": "2026-04-30",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "JVCEA",
@@ -2287,7 +2630,8 @@
       "url": "https://jvcea.or.jp/information/statistics-reports/20260430-002/",
       "date": "2026-04-30",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2295,7 +2639,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260430mno.html",
       "date": "2026-04-30",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2303,7 +2648,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260430jkl.html",
       "date": "2026-04-30",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2311,7 +2657,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260430onm.html",
       "date": "2026-04-30",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2319,7 +2666,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260430jln.html",
       "date": "2026-04-30",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2327,7 +2675,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260430jec.html",
       "date": "2026-04-30",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -2335,7 +2684,8 @@
       "url": "https://www.jsda.or.jp/about/gaiyou/gyouhou/2026/2604gyouhou.html",
       "date": "2026-04-27",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2343,7 +2693,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260424ijq.html",
       "date": "2026-04-24",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2351,7 +2702,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260423cjg.html",
       "date": "2026-04-23",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2359,7 +2711,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260421idf.html",
       "date": "2026-04-21",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2367,7 +2720,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260420ijq.html",
       "date": "2026-04-20",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -2375,7 +2729,8 @@
       "url": "https://www.jsda.or.jp/houdou/2026/20260417.html",
       "date": "2026-04-17",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -2383,7 +2738,8 @@
       "url": "https://www.jsda.or.jp/houdou/2026/20260415.html",
       "date": "2026-04-15",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2391,7 +2747,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260415ird.html",
       "date": "2026-04-15",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2399,7 +2756,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260414irg.html",
       "date": "2026-04-14",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:29:55.517Z"
+      "enriched": "2026-06-19T06:03:14.203Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -2407,7 +2765,8 @@
       "url": "https://www.jsda.or.jp/about/public/kekka/index.html",
       "date": "2026-04-09",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:30:35.523Z"
+      "enriched": "2026-06-19T06:03:54.210Z",
+      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -2415,7 +2774,8 @@
       "url": "https://www.jsda.or.jp/about/international/jss2026.html",
       "date": "2026-04-03",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:30:35.523Z"
+      "enriched": "2026-06-19T06:03:54.210Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2423,7 +2783,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260403efi.html",
       "date": "2026-04-03",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:30:35.523Z"
+      "enriched": "2026-06-19T06:03:54.210Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2431,7 +2792,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260403qve.html",
       "date": "2026-04-03",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:30:35.523Z"
+      "enriched": "2026-06-19T06:03:54.210Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2439,7 +2801,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260402fag.html",
       "date": "2026-04-02",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:30:35.523Z"
+      "enriched": "2026-06-19T06:03:54.210Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2447,7 +2810,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260402jqq.html",
       "date": "2026-04-02",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:30:35.523Z"
+      "enriched": "2026-06-19T06:03:54.210Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2455,7 +2819,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260331evd.html",
       "date": "2026-03-31",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:30:35.523Z"
+      "enriched": "2026-06-19T06:03:54.210Z",
+      "enrichV": 2
     },
     {
       "agency": "日本公認会計士協会",
@@ -2463,7 +2828,8 @@
       "url": "https://jicpa.or.jp/news/information/2026/20260331ehc.html",
       "date": "2026-03-31",
       "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-16T21:30:35.523Z"
+      "enriched": "2026-06-19T06:03:54.210Z",
+      "enrichV": 2
     }
   ],
   "sources": [
@@ -2723,6 +3089,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "GMOコインとブリッジワイズが戦略提携、AI投資インサイト提供へ",
+        "url": "https://news.yahoo.co.jp/articles/147c3c1b1831baedc8016d3017a653c67c985d9d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本の年金マネーが暗号資産へ──日経新聞でコメントした背景を解説【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/c53bc548209b9988cc0ae9223d340658a1af52b2",
         "source": "Yahoo",
@@ -2749,18 +3121,18 @@
       {
         "title": "日本直販、ビットトレードとWeb3事業における協業に関する基本合意書を締結 暗号資産サービス仲介業の登録検討",
         "url": "https://news.yahoo.co.jp/articles/b5083e58b94c59880e2ec248a54943d9448a4b77",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ゲーム業界、クラリティ法案への「スポーツ予測市場禁止」条項追加を要求",
-        "url": "https://news.yahoo.co.jp/articles/9852559fceec302d48ddbe74684fcd35d7907874",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "GMOコインとブリッジワイズが戦略提携、AI投資インサイト提供へ",
+        "url": "https://news.yahoo.co.jp/articles/147c3c1b1831baedc8016d3017a653c67c985d9d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本の年金マネーが暗号資産へ──日経新聞でコメントした背景を解説【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/c53bc548209b9988cc0ae9223d340658a1af52b2",
         "source": "Yahoo",
@@ -2787,12 +3159,6 @@
       {
         "title": "日本直販、ビットトレードとWeb3事業における協業に関する基本合意書を締結 暗号資産サービス仲介業の登録検討",
         "url": "https://news.yahoo.co.jp/articles/b5083e58b94c59880e2ec248a54943d9448a4b77",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ゲーム業界、クラリティ法案への「スポーツ予測市場禁止」条項追加を要求",
-        "url": "https://news.yahoo.co.jp/articles/9852559fceec302d48ddbe74684fcd35d7907874",
         "source": "Yahoo",
         "date": ""
       }
@@ -2951,6 +3317,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "米当局、GENIUS法に基づくステーブルコイン発行者向け顧客識別プログラム規則案を公表",
+        "url": "https://news.yahoo.co.jp/articles/bf2f104c6fd3c27decfddba5c8e5bf1b26abf9b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イーサL2のベース、企業向けプライベート台帳基盤「Base Ledgers」提供開始。プライバシー機能も公開",
+        "url": "https://news.yahoo.co.jp/articles/8eaa5c2c0e7ec66818c1d1a06982145b8587be56",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "FRB公表の規則案、ステーブルコイン発行体に銀行と同水準の本人確認を要求",
+        "url": "https://news.yahoo.co.jp/articles/b364c3ea83003c6e77e3d83913971314066f72d4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIレミット、Fassetと提携──ステーブルコイン活用の国際送金インフラ構築へ",
+        "url": "https://news.yahoo.co.jp/articles/9da58d5e8f3de504d7b1ef11a002c7d842bb3fa4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AI時代の「アンチボット」スタートアップは、ブランドに関わる「人間の客」に報酬を支払う。1850万ドルを調達したピッチデックを公開（海外）",
         "url": "https://news.yahoo.co.jp/articles/d36c2a4fccefd57930cc98b50d6543193e8597cf",
         "source": "Yahoo",
@@ -2959,36 +3349,36 @@
       {
         "title": "米議会、2030年末までFRBの個人向けCBDC発行禁止で合意──中国はe-CNYを商業銀行中心に再設計",
         "url": "https://news.yahoo.co.jp/articles/dfa1a6ec8c9b82b46cebfdc636f239c269d641b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kaia、JPYC発行チェーンで残高首位に。3.3億円突破",
-        "url": "https://news.yahoo.co.jp/articles/e421f151c391891b3d423a958225c60bfeec0a84",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIレミット、Fassetと国際送金インフラ構築に向け提携。SBIは戦略出資も実施",
-        "url": "https://news.yahoo.co.jp/articles/adb1d45b983ba7fbc75a6ecb78ca716cddd7d0d4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "フィデリティ、ステーブルコイン発行体の準備資産保有を想定したMMF立ち上げ",
-        "url": "https://news.yahoo.co.jp/articles/a322f8618a055240fd9435e20e8b916b63fae3d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ナイジェリアでステーブルコイン利用拡大、越境送金やナイラ安対策に＝IMF",
-        "url": "https://news.yahoo.co.jp/articles/b625282fd22a4eefc1acde40fded0a2f65461814",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米当局、GENIUS法に基づくステーブルコイン発行者向け顧客識別プログラム規則案を公表",
+        "url": "https://news.yahoo.co.jp/articles/bf2f104c6fd3c27decfddba5c8e5bf1b26abf9b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イーサL2のベース、企業向けプライベート台帳基盤「Base Ledgers」提供開始。プライバシー機能も公開",
+        "url": "https://news.yahoo.co.jp/articles/8eaa5c2c0e7ec66818c1d1a06982145b8587be56",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "FRB公表の規則案、ステーブルコイン発行体に銀行と同水準の本人確認を要求",
+        "url": "https://news.yahoo.co.jp/articles/b364c3ea83003c6e77e3d83913971314066f72d4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIレミット、Fassetと提携──ステーブルコイン活用の国際送金インフラ構築へ",
+        "url": "https://news.yahoo.co.jp/articles/9da58d5e8f3de504d7b1ef11a002c7d842bb3fa4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AI時代の「アンチボット」スタートアップは、ブランドに関わる「人間の客」に報酬を支払う。1850万ドルを調達したピッチデックを公開（海外）",
         "url": "https://news.yahoo.co.jp/articles/d36c2a4fccefd57930cc98b50d6543193e8597cf",
         "source": "Yahoo",
@@ -2997,30 +3387,6 @@
       {
         "title": "米議会、2030年末までFRBの個人向けCBDC発行禁止で合意──中国はe-CNYを商業銀行中心に再設計",
         "url": "https://news.yahoo.co.jp/articles/dfa1a6ec8c9b82b46cebfdc636f239c269d641b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kaia、JPYC発行チェーンで残高首位に。3.3億円突破",
-        "url": "https://news.yahoo.co.jp/articles/e421f151c391891b3d423a958225c60bfeec0a84",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIレミット、Fassetと国際送金インフラ構築に向け提携。SBIは戦略出資も実施",
-        "url": "https://news.yahoo.co.jp/articles/adb1d45b983ba7fbc75a6ecb78ca716cddd7d0d4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "フィデリティ、ステーブルコイン発行体の準備資産保有を想定したMMF立ち上げ",
-        "url": "https://news.yahoo.co.jp/articles/a322f8618a055240fd9435e20e8b916b63fae3d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ナイジェリアでステーブルコイン利用拡大、越境送金やナイラ安対策に＝IMF",
-        "url": "https://news.yahoo.co.jp/articles/b625282fd22a4eefc1acde40fded0a2f65461814",
         "source": "Yahoo",
         "date": ""
       }
@@ -3551,6 +3917,12 @@
     ],
     "417AC0000000086": [
       {
+        "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
+        "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
         "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
         "source": "Yahoo",
@@ -3577,18 +3949,18 @@
       {
         "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
         "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カリブ海の“金融ブラックホール”、ケイマン諸島とバハマ――税制優遇だけではない、世界中の投資家に選ばれる「本当の理由」とは【国際税務の専門家が解説】",
-        "url": "https://news.yahoo.co.jp/articles/b448534ada1ef27af99c9c9c85d28ce84bbca3e3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
+        "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
         "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
         "source": "Yahoo",
@@ -3615,18 +3987,18 @@
       {
         "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
         "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カリブ海の“金融ブラックホール”、ケイマン諸島とバハマ――税制優遇だけではない、世界中の投資家に選ばれる「本当の理由」とは【国際税務の専門家が解説】",
-        "url": "https://news.yahoo.co.jp/articles/b448534ada1ef27af99c9c9c85d28ce84bbca3e3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
+        "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
         "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
         "source": "Yahoo",
@@ -3653,18 +4025,18 @@
       {
         "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
         "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カリブ海の“金融ブラックホール”、ケイマン諸島とバハマ――税制優遇だけではない、世界中の投資家に選ばれる「本当の理由」とは【国際税務の専門家が解説】",
-        "url": "https://news.yahoo.co.jp/articles/b448534ada1ef27af99c9c9c85d28ce84bbca3e3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
+        "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
         "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
         "source": "Yahoo",
@@ -3691,18 +4063,18 @@
       {
         "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
         "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カリブ海の“金融ブラックホール”、ケイマン諸島とバハマ――税制優遇だけではない、世界中の投資家に選ばれる「本当の理由」とは【国際税務の専門家が解説】",
-        "url": "https://news.yahoo.co.jp/articles/b448534ada1ef27af99c9c9c85d28ce84bbca3e3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
+        "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
         "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
         "source": "Yahoo",
@@ -3731,15 +4103,21 @@
         "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "カリブ海の“金融ブラックホール”、ケイマン諸島とバハマ――税制優遇だけではない、世界中の投資家に選ばれる「本当の理由」とは【国際税務の専門家が解説】",
-        "url": "https://news.yahoo.co.jp/articles/b448534ada1ef27af99c9c9c85d28ce84bbca3e3",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "415AC0000000057": [
+      {
+        "title": "ヴィームが示す、レジリエンス強化への道筋--復旧に対する「自信のギャップ」が浮き彫りに",
+        "url": "https://news.yahoo.co.jp/articles/117567c68d93567c0290d6c6f9719c7fd9989411",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "20年前の集団性暴行事件の加害者を私的照会",
+        "url": "https://news.yahoo.co.jp/articles/fb9424d662588eb56e1c8f58a31e874611a07463",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "最新のAIを駆使する犯罪者 vs 規制に縛られる捜査機関",
         "url": "https://news.yahoo.co.jp/articles/3510d2874a83896b79a31c23ded1388764ee8bb3",
@@ -3761,24 +4139,24 @@
       {
         "title": "亡霊の如く蘇る「メディア規制」 報道機関も罰則対象の「個人情報保護法」改正案が衆院通過",
         "url": "https://news.yahoo.co.jp/articles/2ee71469f2b5a51243996da9703d209b0ffb2166",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "戦没者の名簿を読み上げる取り組み広がる「数字ではなく、名前によって確かに生きたという証しを残したい」",
-        "url": "https://news.yahoo.co.jp/articles/93ff64c7df11375df848de11f91292e8d13d8398",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護法の改正は「最悪の案」 医療データ専門家、異例の指摘 国会で審議されている個人情報保護法改正案をめぐり、AI開発のためなら個人データを本人の同意なく提供できるようにする「特例」に、データ活用を推進する",
-        "url": "https://news.yahoo.co.jp/articles/8bc0ccb7a6096f6fdb14836d0a824931e3d74e71",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "ヴィームが示す、レジリエンス強化への道筋--復旧に対する「自信のギャップ」が浮き彫りに",
+        "url": "https://news.yahoo.co.jp/articles/117567c68d93567c0290d6c6f9719c7fd9989411",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "20年前の集団性暴行事件の加害者を私的照会",
+        "url": "https://news.yahoo.co.jp/articles/fb9424d662588eb56e1c8f58a31e874611a07463",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "最新のAIを駆使する犯罪者 vs 規制に縛られる捜査機関",
         "url": "https://news.yahoo.co.jp/articles/3510d2874a83896b79a31c23ded1388764ee8bb3",
         "source": "Yahoo",
@@ -3799,24 +4177,24 @@
       {
         "title": "亡霊の如く蘇る「メディア規制」 報道機関も罰則対象の「個人情報保護法」改正案が衆院通過",
         "url": "https://news.yahoo.co.jp/articles/2ee71469f2b5a51243996da9703d209b0ffb2166",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "戦没者の名簿を読み上げる取り組み広がる「数字ではなく、名前によって確かに生きたという証しを残したい」",
-        "url": "https://news.yahoo.co.jp/articles/93ff64c7df11375df848de11f91292e8d13d8398",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護法の改正は「最悪の案」 医療データ専門家、異例の指摘 国会で審議されている個人情報保護法改正案をめぐり、AI開発のためなら個人データを本人の同意なく提供できるようにする「特例」に、データ活用を推進する",
-        "url": "https://news.yahoo.co.jp/articles/8bc0ccb7a6096f6fdb14836d0a824931e3d74e71",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "ヴィームが示す、レジリエンス強化への道筋--復旧に対する「自信のギャップ」が浮き彫りに",
+        "url": "https://news.yahoo.co.jp/articles/117567c68d93567c0290d6c6f9719c7fd9989411",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "20年前の集団性暴行事件の加害者を私的照会",
+        "url": "https://news.yahoo.co.jp/articles/fb9424d662588eb56e1c8f58a31e874611a07463",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "最新のAIを駆使する犯罪者 vs 規制に縛られる捜査機関",
         "url": "https://news.yahoo.co.jp/articles/3510d2874a83896b79a31c23ded1388764ee8bb3",
         "source": "Yahoo",
@@ -3837,18 +4215,6 @@
       {
         "title": "亡霊の如く蘇る「メディア規制」 報道機関も罰則対象の「個人情報保護法」改正案が衆院通過",
         "url": "https://news.yahoo.co.jp/articles/2ee71469f2b5a51243996da9703d209b0ffb2166",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "戦没者の名簿を読み上げる取り組み広がる「数字ではなく、名前によって確かに生きたという証しを残したい」",
-        "url": "https://news.yahoo.co.jp/articles/93ff64c7df11375df848de11f91292e8d13d8398",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護法の改正は「最悪の案」 医療データ専門家、異例の指摘 国会で審議されている個人情報保護法改正案をめぐり、AI開発のためなら個人データを本人の同意なく提供できるようにする「特例」に、データ活用を推進する",
-        "url": "https://news.yahoo.co.jp/articles/8bc0ccb7a6096f6fdb14836d0a824931e3d74e71",
         "source": "Yahoo",
         "date": ""
       }
