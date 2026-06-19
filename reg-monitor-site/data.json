@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-06-19T06:17:25.689Z",
+  "generatedAt": "2026-06-19T08:18:16.379Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）ＰＲＯ ＨＯＬＤＩＮＧＳ",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-06-19",
+      "detectedAt": "2026-06-19T08:18:16.379Z",
+      "enrichV": 2,
+      "updated": true,
+      "enriched": "2026-06-19T08:18:22.444Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：ニッセイＥＴＦ ラッセル２０００（ニッセイアセットマネジメント）",
+      "url": "https://www.jpx.co.jp/news/1070/20260619.html",
+      "date": "2026-06-19",
+      "detectedAt": "2026-06-19T08:18:16.379Z",
+      "enriched": "2026-06-19T08:18:22.444Z",
+      "enrichV": 2
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[JPX-R]JPX自主規制法人の年次報告 2026の掲載について",
@@ -365,15 +384,6 @@
       "agency": "日本取引所グループ",
       "title": "[OSE]有価証券オプションの取扱い（2026年6月29日調整分）",
       "url": "https://www.jpx.co.jp/news/2020/20260615-01.html",
-      "date": "2026-06-15",
-      "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-19T06:01:56.315Z",
-      "enrichV": 2
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）西條",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
       "date": "2026-06-15",
       "detectedAt": "2026-06-16T15:23:20.858Z",
       "enriched": "2026-06-19T06:01:56.315Z",
@@ -3089,6 +3099,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "CFTC、Celsius元CEOに恒久的な取引・登録禁止を科す",
+        "url": "https://news.yahoo.co.jp/articles/d3c34537f5e726e9fb3cc8338cb40ba96183503c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CMEがCFTC提訴、無期限先物のカルシ上場承認とコインベース提供容認巡り",
         "url": "https://news.yahoo.co.jp/articles/90ad96bcff39b45560582c6c38a6e82019832e8f",
         "source": "Yahoo",
@@ -3115,18 +3131,18 @@
       {
         "title": "シンガポールMAS、バイビットを投資家警告リストへ追加",
         "url": "https://news.yahoo.co.jp/articles/8685ab0874b7f83a7e0ccdd6da7afa17412064e5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "FTX創業者SBF、出所後のトークン発行構想を獄中で語る＝報道",
-        "url": "https://news.yahoo.co.jp/articles/ef36c4e19e79228d9fd38aa6b4f9c237864d1a04",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "CFTC、Celsius元CEOに恒久的な取引・登録禁止を科す",
+        "url": "https://news.yahoo.co.jp/articles/d3c34537f5e726e9fb3cc8338cb40ba96183503c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CMEがCFTC提訴、無期限先物のカルシ上場承認とコインベース提供容認巡り",
         "url": "https://news.yahoo.co.jp/articles/90ad96bcff39b45560582c6c38a6e82019832e8f",
         "source": "Yahoo",
@@ -3153,12 +3169,6 @@
       {
         "title": "シンガポールMAS、バイビットを投資家警告リストへ追加",
         "url": "https://news.yahoo.co.jp/articles/8685ab0874b7f83a7e0ccdd6da7afa17412064e5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "FTX創業者SBF、出所後のトークン発行構想を獄中で語る＝報道",
-        "url": "https://news.yahoo.co.jp/articles/ef36c4e19e79228d9fd38aa6b4f9c237864d1a04",
         "source": "Yahoo",
         "date": ""
       }
@@ -3317,6 +3327,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ポリマーケット運営主体、オランダ当局が42万ユーロの履行強制金を徴収へ",
+        "url": "https://news.yahoo.co.jp/articles/1862b2955d0d45959f6debc47b147ee3ad8ed1e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、XAUT担保ドル連動資産「aUSDT」終了へ、中核製品にリソース集中で",
+        "url": "https://news.yahoo.co.jp/articles/2f9c60ff56332047e1f9c14276aa2cbe343a2e29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米当局、GENIUS法に基づくステーブルコイン発行者向け顧客識別プログラム規則案を公表",
         "url": "https://news.yahoo.co.jp/articles/bf2f104c6fd3c27decfddba5c8e5bf1b26abf9b6",
         "source": "Yahoo",
@@ -3337,24 +3359,24 @@
       {
         "title": "SBIレミット、Fassetと提携──ステーブルコイン活用の国際送金インフラ構築へ",
         "url": "https://news.yahoo.co.jp/articles/9da58d5e8f3de504d7b1ef11a002c7d842bb3fa4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI時代の「アンチボット」スタートアップは、ブランドに関わる「人間の客」に報酬を支払う。1850万ドルを調達したピッチデックを公開（海外）",
-        "url": "https://news.yahoo.co.jp/articles/d36c2a4fccefd57930cc98b50d6543193e8597cf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米議会、2030年末までFRBの個人向けCBDC発行禁止で合意──中国はe-CNYを商業銀行中心に再設計",
-        "url": "https://news.yahoo.co.jp/articles/dfa1a6ec8c9b82b46cebfdc636f239c269d641b6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ポリマーケット運営主体、オランダ当局が42万ユーロの履行強制金を徴収へ",
+        "url": "https://news.yahoo.co.jp/articles/1862b2955d0d45959f6debc47b147ee3ad8ed1e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、XAUT担保ドル連動資産「aUSDT」終了へ、中核製品にリソース集中で",
+        "url": "https://news.yahoo.co.jp/articles/2f9c60ff56332047e1f9c14276aa2cbe343a2e29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米当局、GENIUS法に基づくステーブルコイン発行者向け顧客識別プログラム規則案を公表",
         "url": "https://news.yahoo.co.jp/articles/bf2f104c6fd3c27decfddba5c8e5bf1b26abf9b6",
         "source": "Yahoo",
@@ -3377,21 +3399,15 @@
         "url": "https://news.yahoo.co.jp/articles/9da58d5e8f3de504d7b1ef11a002c7d842bb3fa4",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "AI時代の「アンチボット」スタートアップは、ブランドに関わる「人間の客」に報酬を支払う。1850万ドルを調達したピッチデックを公開（海外）",
-        "url": "https://news.yahoo.co.jp/articles/d36c2a4fccefd57930cc98b50d6543193e8597cf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米議会、2030年末までFRBの個人向けCBDC発行禁止で合意──中国はe-CNYを商業銀行中心に再設計",
-        "url": "https://news.yahoo.co.jp/articles/dfa1a6ec8c9b82b46cebfdc636f239c269d641b6",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "みずほFG、国際基準に対応したサステナビリティ情報開示: 国内メガバンクで初めて",
+        "url": "https://news.yahoo.co.jp/articles/077cf2dcbf90da7fdcf885f935a8dad60fff886c",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "NECとCrypto Garage、国産のデジタル資産カストディシステム開発に向けて協業",
         "url": "https://news.yahoo.co.jp/articles/a5a34a343184adf68b8e73c17864ddf9f4069924",
@@ -3419,18 +3435,18 @@
       {
         "title": "国民民主の玉木代表、ハイパーリキッドに言及。ビットフライヤー加納CEOとDEX規制巡り議論",
         "url": "https://news.yahoo.co.jp/articles/a891bb1750ea353e901b422c5401aca8594c90dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "海外口座の決済実態を把握へ 金融庁、脱税やマネロンの恐れ",
-        "url": "https://news.yahoo.co.jp/articles/83d0dfdd57220b521acd26ae7d5fbbb857915a98",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "みずほFG、国際基準に対応したサステナビリティ情報開示: 国内メガバンクで初めて",
+        "url": "https://news.yahoo.co.jp/articles/077cf2dcbf90da7fdcf885f935a8dad60fff886c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "NECとCrypto Garage、国産のデジタル資産カストディシステム開発に向けて協業",
         "url": "https://news.yahoo.co.jp/articles/a5a34a343184adf68b8e73c17864ddf9f4069924",
         "source": "Yahoo",
@@ -3457,18 +3473,18 @@
       {
         "title": "国民民主の玉木代表、ハイパーリキッドに言及。ビットフライヤー加納CEOとDEX規制巡り議論",
         "url": "https://news.yahoo.co.jp/articles/a891bb1750ea353e901b422c5401aca8594c90dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "海外口座の決済実態を把握へ 金融庁、脱税やマネロンの恐れ",
-        "url": "https://news.yahoo.co.jp/articles/83d0dfdd57220b521acd26ae7d5fbbb857915a98",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "みずほFG、国際基準に対応したサステナビリティ情報開示: 国内メガバンクで初めて",
+        "url": "https://news.yahoo.co.jp/articles/077cf2dcbf90da7fdcf885f935a8dad60fff886c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "NECとCrypto Garage、国産のデジタル資産カストディシステム開発に向けて協業",
         "url": "https://news.yahoo.co.jp/articles/a5a34a343184adf68b8e73c17864ddf9f4069924",
         "source": "Yahoo",
@@ -3495,12 +3511,6 @@
       {
         "title": "国民民主の玉木代表、ハイパーリキッドに言及。ビットフライヤー加納CEOとDEX規制巡り議論",
         "url": "https://news.yahoo.co.jp/articles/a891bb1750ea353e901b422c5401aca8594c90dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "海外口座の決済実態を把握へ 金融庁、脱税やマネロンの恐れ",
-        "url": "https://news.yahoo.co.jp/articles/83d0dfdd57220b521acd26ae7d5fbbb857915a98",
         "source": "Yahoo",
         "date": ""
       }
@@ -4107,6 +4117,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "前国防相に懲役3年 情報司令部の名簿を民間人に漏えい＝韓国地裁",
+        "url": "https://news.yahoo.co.jp/articles/37c7975a79bdd9ccb8670e0dc2b434ce363ed638",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヴィームが示す、レジリエンス強化への道筋--復旧に対する「自信のギャップ」が浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/117567c68d93567c0290d6c6f9719c7fd9989411",
         "source": "Yahoo",
@@ -4133,18 +4149,18 @@
       {
         "title": "「AI開発事業者の監督官庁はどこ？」「ソブリンAIの開発を放棄するのか？」参政議員vs小野田大臣 国会で議論",
         "url": "https://news.yahoo.co.jp/articles/6a213ac4bfbc54d944dab7f4dcdf6c0eb1fb359b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "亡霊の如く蘇る「メディア規制」 報道機関も罰則対象の「個人情報保護法」改正案が衆院通過",
-        "url": "https://news.yahoo.co.jp/articles/2ee71469f2b5a51243996da9703d209b0ffb2166",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "前国防相に懲役3年 情報司令部の名簿を民間人に漏えい＝韓国地裁",
+        "url": "https://news.yahoo.co.jp/articles/37c7975a79bdd9ccb8670e0dc2b434ce363ed638",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヴィームが示す、レジリエンス強化への道筋--復旧に対する「自信のギャップ」が浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/117567c68d93567c0290d6c6f9719c7fd9989411",
         "source": "Yahoo",
@@ -4171,18 +4187,18 @@
       {
         "title": "「AI開発事業者の監督官庁はどこ？」「ソブリンAIの開発を放棄するのか？」参政議員vs小野田大臣 国会で議論",
         "url": "https://news.yahoo.co.jp/articles/6a213ac4bfbc54d944dab7f4dcdf6c0eb1fb359b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "亡霊の如く蘇る「メディア規制」 報道機関も罰則対象の「個人情報保護法」改正案が衆院通過",
-        "url": "https://news.yahoo.co.jp/articles/2ee71469f2b5a51243996da9703d209b0ffb2166",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "前国防相に懲役3年 情報司令部の名簿を民間人に漏えい＝韓国地裁",
+        "url": "https://news.yahoo.co.jp/articles/37c7975a79bdd9ccb8670e0dc2b434ce363ed638",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヴィームが示す、レジリエンス強化への道筋--復旧に対する「自信のギャップ」が浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/117567c68d93567c0290d6c6f9719c7fd9989411",
         "source": "Yahoo",
@@ -4209,12 +4225,6 @@
       {
         "title": "「AI開発事業者の監督官庁はどこ？」「ソブリンAIの開発を放棄するのか？」参政議員vs小野田大臣 国会で議論",
         "url": "https://news.yahoo.co.jp/articles/6a213ac4bfbc54d944dab7f4dcdf6c0eb1fb359b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "亡霊の如く蘇る「メディア規制」 報道機関も罰則対象の「個人情報保護法」改正案が衆院通過",
-        "url": "https://news.yahoo.co.jp/articles/2ee71469f2b5a51243996da9703d209b0ffb2166",
         "source": "Yahoo",
         "date": ""
       }
