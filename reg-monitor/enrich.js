@@ -96,8 +96,16 @@ function detectKind(text){
 // text 内の各法令名の出現位置を取り、その直後ウィンドウ内の「第N条」を当該法令に紐付ける。
 // strict=true: 直前が漢字の一致を除外（「国際協力銀行法」中の「銀行法」、「株式会社法」中の「会社法」等の
 // 部分一致を弾く。国会議案名の照合で使用）。ニュース照合は非strict（「改正資金決済法」等を拾うため）。
+// pdftotext等が日本語の途中に挿入する空白/改行を詰める。法令名がスペースで分断され「○○法施行規則」が
+// 「○○法」としか一致しない＝条番号を誤った法令へ紐付ける不具合の対策（例: 犯収法施行規則第6条→犯収法第6条 の誤り）。
+// CJK文字・括弧・読点等に挟まれた空白だけを除去（英数字間の空白は残す）。
+const _JA = '一-鿿ぁ-んァ-ヶーｦ-ﾟ々〇（）「」『』【】、。・';
+const _JASP = new RegExp('(['+_JA+'])[ \\t\\u3000\\r\\n]+(?=['+_JA+'])', 'g');
+function squashJaSpaces(t){ return (t||'').replace(_JASP, '$1'); }
+
 function matchLaws(text, strict){
   if (!text) return [];
+  text = squashJaSpaces(text);   // 法令名の途中の空白/改行を除去してから照合（位置も一貫）
   const found = [];           // {id, name, start, end}
   for (const e of NAME_ENTRIES){
     let from = 0, idx;

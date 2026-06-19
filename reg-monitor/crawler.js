@@ -324,10 +324,12 @@ async function fetchDietBills(){
 // 見出しだけで判る分は常に算出。worthFetchingな新規itemは本文/PDFまで読んで精度を上げる。
 // 1回の巡回での本文取得数は上限を設け（クロール負荷の抑制）、未処理分は次回以降に回す。
 const MAX_FETCH_PER_RUN = 40;
+const ENRICH_VERSION = 2;   // 法令照合ロジックを更新したら +1。既存itemも一度だけ再enrichして修正を反映（2026-06-19: 日本語内空白の正規化）
 async function enrichItems(items){
   let fetched = 0, fromBody = 0;
   for (const it of items){
-    if (it.enriched) continue;                       // 既に処理済み（更新時はmainでenrichedを消す）
+    if (it.enriched && it.enrichV === ENRICH_VERSION) continue;   // 処理済み かつ 現行ロジック版なら再処理しない
+    // 取得上限に達した回でも、未処理(版違い含む)は次回に回す（下のelseで continue。enrichedは更新しない）
     const titleRefs = buildLawrefs(it.title || '');
     let refs = titleRefs;
     const needFetch = worthFetching(it.title || '') && fetched < MAX_FETCH_PER_RUN;
@@ -348,6 +350,7 @@ async function enrichItems(items){
     }
     if (refs.length) it.lawrefs = refs; else delete it.lawrefs;
     it.enriched = new Date().toISOString();
+    it.enrichV = ENRICH_VERSION;
   }
   console.log(`法令連携: 本文取得 ${fetched}件 / うち本文で精度向上 ${fromBody}件 / lawrefs付与 ${items.filter(i=>i.lawrefs&&i.lawrefs.length).length}件`);
 }
