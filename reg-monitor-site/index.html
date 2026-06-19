@@ -153,7 +153,7 @@ function render(){
       <div class="itembody">
         <a href="${it.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a>
         ${isNew?'<span class="new">NEW</span>':''}
-        ${refsHtml(it)}
+        ${filterAg==='__lawlinked__' ? refsHtml(it) : ''}
       </div>
     </div>`;
   }
