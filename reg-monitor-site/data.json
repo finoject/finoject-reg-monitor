@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T20:56:34.557Z",
+  "generatedAt": "2026-06-21T22:47:14.493Z",
   "items": [
     {
       "agency": "金融庁",
@@ -3260,6 +3260,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "CFTCとSEC、スワップ定義の明確化で意見募集",
+        "url": "https://news.yahoo.co.jp/articles/80d0d406320e522c3c3cd3083f5542d63ce90b58",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AAVEに従来の金融モデルを適用すれば、今は割安＝Grayscale",
         "url": "https://news.yahoo.co.jp/articles/cbbb09d317a5f3018272167258409c6d01cab9cd",
         "source": "Yahoo",
@@ -3286,18 +3292,18 @@
       {
         "title": "激動の時代を生き抜くための金融リテラシー 『現代の金融入門［新版］』【書評】",
         "url": "https://news.yahoo.co.jp/articles/be392364a3c967ecf6d2a2872574ff8002aba633",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CFTC、Celsius元CEOに恒久的な取引・登録禁止を科す",
-        "url": "https://news.yahoo.co.jp/articles/d3c34537f5e726e9fb3cc8338cb40ba96183503c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "CFTCとSEC、スワップ定義の明確化で意見募集",
+        "url": "https://news.yahoo.co.jp/articles/80d0d406320e522c3c3cd3083f5542d63ce90b58",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AAVEに従来の金融モデルを適用すれば、今は割安＝Grayscale",
         "url": "https://news.yahoo.co.jp/articles/cbbb09d317a5f3018272167258409c6d01cab9cd",
         "source": "Yahoo",
@@ -3324,12 +3330,6 @@
       {
         "title": "激動の時代を生き抜くための金融リテラシー 『現代の金融入門［新版］』【書評】",
         "url": "https://news.yahoo.co.jp/articles/be392364a3c967ecf6d2a2872574ff8002aba633",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CFTC、Celsius元CEOに恒久的な取引・登録禁止を科す",
-        "url": "https://news.yahoo.co.jp/articles/d3c34537f5e726e9fb3cc8338cb40ba96183503c",
         "source": "Yahoo",
         "date": ""
       }
@@ -3488,6 +3488,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "同じオンチェーンデータを見ても、なぜ個人とプロで判断が違うのか──ビットコイン市場の情報格差を読み解く【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/786059a410f052af64d84c69378896229fc66c8b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
         "source": "Yahoo",
@@ -3514,18 +3520,18 @@
       {
         "title": "ビットコインは静かに成長している──CryptoQuantが示すオンチェーン利用の急拡大【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/52dc4f78e6cd83b5e5f16d337938d0f7c9178735",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアム、90日でステーキング預け入れ200万ETH増──価格下落でもRWA・予測市場で需要拡大【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/4302727dbe5870392a4062ffe3fafc0236485545",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "同じオンチェーンデータを見ても、なぜ個人とプロで判断が違うのか──ビットコイン市場の情報格差を読み解く【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/786059a410f052af64d84c69378896229fc66c8b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
         "source": "Yahoo",
@@ -3552,12 +3558,6 @@
       {
         "title": "ビットコインは静かに成長している──CryptoQuantが示すオンチェーン利用の急拡大【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/52dc4f78e6cd83b5e5f16d337938d0f7c9178735",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアム、90日でステーキング預け入れ200万ETH増──価格下落でもRWA・予測市場で需要拡大【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/4302727dbe5870392a4062ffe3fafc0236485545",
         "source": "Yahoo",
         "date": ""
       }
@@ -4112,14 +4112,14 @@
         "date": ""
       },
       {
-        "title": "株主総会、6月から9月に変更 議論活性化に意欲 松本マネックスG会長",
-        "url": "https://news.yahoo.co.jp/articles/180ee5f959dd4a7487914d3e83a22771bda8dcae",
+        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
+        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
-        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
+        "title": "カリブ海の“金融ブラックホール”、ケイマン諸島とバハマ――税制優遇だけではない、世界中の投資家に選ばれる「本当の理由」とは【国際税務の専門家が解説】",
+        "url": "https://news.yahoo.co.jp/articles/b448534ada1ef27af99c9c9c85d28ce84bbca3e3",
         "source": "Yahoo",
         "date": ""
       }
@@ -4150,14 +4150,14 @@
         "date": ""
       },
       {
-        "title": "株主総会、6月から9月に変更 議論活性化に意欲 松本マネックスG会長",
-        "url": "https://news.yahoo.co.jp/articles/180ee5f959dd4a7487914d3e83a22771bda8dcae",
+        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
+        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
-        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
+        "title": "カリブ海の“金融ブラックホール”、ケイマン諸島とバハマ――税制優遇だけではない、世界中の投資家に選ばれる「本当の理由」とは【国際税務の専門家が解説】",
+        "url": "https://news.yahoo.co.jp/articles/b448534ada1ef27af99c9c9c85d28ce84bbca3e3",
         "source": "Yahoo",
         "date": ""
       }
@@ -4188,14 +4188,14 @@
         "date": ""
       },
       {
-        "title": "株主総会、6月から9月に変更 議論活性化に意欲 松本マネックスG会長",
-        "url": "https://news.yahoo.co.jp/articles/180ee5f959dd4a7487914d3e83a22771bda8dcae",
+        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
+        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
-        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
+        "title": "カリブ海の“金融ブラックホール”、ケイマン諸島とバハマ――税制優遇だけではない、世界中の投資家に選ばれる「本当の理由」とは【国際税務の専門家が解説】",
+        "url": "https://news.yahoo.co.jp/articles/b448534ada1ef27af99c9c9c85d28ce84bbca3e3",
         "source": "Yahoo",
         "date": ""
       }
@@ -4226,14 +4226,14 @@
         "date": ""
       },
       {
-        "title": "株主総会、6月から9月に変更 議論活性化に意欲 松本マネックスG会長",
-        "url": "https://news.yahoo.co.jp/articles/180ee5f959dd4a7487914d3e83a22771bda8dcae",
+        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
+        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
-        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
+        "title": "カリブ海の“金融ブラックホール”、ケイマン諸島とバハマ――税制優遇だけではない、世界中の投資家に選ばれる「本当の理由」とは【国際税務の専門家が解説】",
+        "url": "https://news.yahoo.co.jp/articles/b448534ada1ef27af99c9c9c85d28ce84bbca3e3",
         "source": "Yahoo",
         "date": ""
       }
@@ -4264,14 +4264,14 @@
         "date": ""
       },
       {
-        "title": "株主総会、6月から9月に変更 議論活性化に意欲 松本マネックスG会長",
-        "url": "https://news.yahoo.co.jp/articles/180ee5f959dd4a7487914d3e83a22771bda8dcae",
+        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
+        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
-        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
+        "title": "カリブ海の“金融ブラックホール”、ケイマン諸島とバハマ――税制優遇だけではない、世界中の投資家に選ばれる「本当の理由」とは【国際税務の専門家が解説】",
+        "url": "https://news.yahoo.co.jp/articles/b448534ada1ef27af99c9c9c85d28ce84bbca3e3",
         "source": "Yahoo",
         "date": ""
       }
