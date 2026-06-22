@@ -214,7 +214,7 @@ function buildFeed(store){
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>finoject 金融規制ウォッチ</title>
+    <title>finoject Financial Regulation Watch</title>
     <link>https://finoject.github.io/finoject-law-viewer/</link>
     <atom:link href="${SELF}" rel="self" type="application/rss+xml"/>
     <description>金融庁・日本銀行・JPX・日本証券業協会・日本暗号資産等取引業協会・日本公認会計士協会の新着公表物（関連法令付き）。finoject提供・非公式。</description>
