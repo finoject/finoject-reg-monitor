@@ -240,14 +240,14 @@ async function postSlack(addedItems){
   const capped = addedItems.slice(0, CAP);
   const byAg = {};
   for (const it of capped){ (byAg[it.agency]=byAg[it.agency]||[]).push(it); }
-  let text = `:bell: *金融規制ウォッチ｜本日の新着 (${dateStr})* — ${addedItems.length}件`;
+  let text = `:bell: *finoject Financial Regulation Watch｜本日の新着 (${dateStr})* — ${addedItems.length}件`;
   for (const ag of order){
     const list = byAg[ag]; if (!list || !list.length) continue;
     text += `\n\n*${esc(SHORT[ag]||ag)}* (${list.length})`;
     for (const it of list){ text += `\n• <${it.url}|${esc(it.title)}>${it.updated?' :arrows_counterclockwise:(更新)':''}`; }
   }
   if (addedItems.length > CAP) text += `\n\n…ほか ${addedItems.length - CAP} 件`;
-  text += `\n\n法令ビューア（本日の更新・条文・規制動向を1画面で）: https://finoject.github.io/finoject-law-viewer/`;
+  text += `\n\nfinoject Financial Regulation Deck（本日の更新・条文・規制動向を1画面で）: https://finoject.github.io/finoject-law-viewer/`;
   try {
     const r = await fetch(hook, { method:'POST', headers:{'Content-Type':'application/json; charset=utf-8'}, body: JSON.stringify({ text }) });
     console.log('Slack投稿: ' + (r.ok ? 'OK' : 'HTTP '+r.status));
