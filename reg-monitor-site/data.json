@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-21T22:47:14.493Z",
+  "generatedAt": "2026-06-22T02:07:14.308Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "公社債投資家別条件付売買(現先)月末残高 （旧公社債投資家別現先売買月末残高）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/jyouken/index.html",
+      "date": "2026-06-22",
+      "detectedAt": "2026-06-22T02:07:14.308Z",
+      "enrichV": 2,
+      "updated": true,
+      "enriched": "2026-06-22T02:07:19.999Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "外国投信の運用成績一覧表",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign/index.html",
+      "date": "2026-06-22",
+      "detectedAt": "2026-06-22T02:07:14.308Z",
+      "enrichV": 2,
+      "updated": true,
+      "enriched": "2026-06-22T02:07:19.999Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "公社債店頭売買高",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/tentoubaibai/index.html",
+      "date": "2026-06-22",
+      "detectedAt": "2026-06-22T02:07:14.308Z",
+      "enrichV": 2,
+      "updated": true,
+      "enriched": "2026-06-22T02:07:19.999Z"
+    },
     {
       "agency": "金融庁",
       "title": "「金融商品取引法の審判手続等における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令」及び「公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令」の公布及びパブリックコメントの結果の公表",
@@ -2311,33 +2341,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "公社債投資家別条件付売買(現先)月末残高 （旧公社債投資家別現先売買月末残高）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/jyouken/index.html",
-      "date": "2026-05-20",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:03:03.674Z",
-      "enrichV": 2
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "外国投信の運用成績一覧表",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign/index.html",
-      "date": "2026-05-20",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:03:03.674Z",
-      "enrichV": 2
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "公社債店頭売買高",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/tentoubaibai/index.html",
-      "date": "2026-05-20",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:03:03.674Z",
-      "enrichV": 2
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "中途採用エントリ－を開始しました。",
       "url": "https://www.jsda.or.jp/about/recruit/index.html",
       "date": "2026-05-20",
@@ -3032,6 +3035,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "moomoo証券に業務停止命令、NISA対象外のETFを「対象」と偽り販売",
+        "url": "https://news.yahoo.co.jp/articles/eabb153e048b3ee6ced4165ef6491b8e09a0e37b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
         "source": "Yahoo",
@@ -3058,18 +3067,18 @@
       {
         "title": "無登録で投資勧誘か 監視委、シンガポールの会社を禁止申し立て 無登録で投資勧誘などを行ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資関連会社「グープロパティ」と同社社長に業",
         "url": "https://news.yahoo.co.jp/articles/0f544044884a9f6d1224d5704103e34d860c2d76",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ムームー証券に一部業務停止命令、口座開設の勧誘・受付を3カ月間",
-        "url": "https://news.yahoo.co.jp/articles/2a98efad64aa024ba21ddec353bb6b66f6d144d6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "moomoo証券に業務停止命令、NISA対象外のETFを「対象」と偽り販売",
+        "url": "https://news.yahoo.co.jp/articles/eabb153e048b3ee6ced4165ef6491b8e09a0e37b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
         "source": "Yahoo",
@@ -3096,18 +3105,18 @@
       {
         "title": "無登録で投資勧誘か 監視委、シンガポールの会社を禁止申し立て 無登録で投資勧誘などを行ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資関連会社「グープロパティ」と同社社長に業",
         "url": "https://news.yahoo.co.jp/articles/0f544044884a9f6d1224d5704103e34d860c2d76",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ムームー証券に一部業務停止命令、口座開設の勧誘・受付を3カ月間",
-        "url": "https://news.yahoo.co.jp/articles/2a98efad64aa024ba21ddec353bb6b66f6d144d6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "moomoo証券に業務停止命令、NISA対象外のETFを「対象」と偽り販売",
+        "url": "https://news.yahoo.co.jp/articles/eabb153e048b3ee6ced4165ef6491b8e09a0e37b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
         "source": "Yahoo",
@@ -3134,18 +3143,18 @@
       {
         "title": "無登録で投資勧誘か 監視委、シンガポールの会社を禁止申し立て 無登録で投資勧誘などを行ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資関連会社「グープロパティ」と同社社長に業",
         "url": "https://news.yahoo.co.jp/articles/0f544044884a9f6d1224d5704103e34d860c2d76",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ムームー証券に一部業務停止命令、口座開設の勧誘・受付を3カ月間",
-        "url": "https://news.yahoo.co.jp/articles/2a98efad64aa024ba21ddec353bb6b66f6d144d6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "moomoo証券に業務停止命令、NISA対象外のETFを「対象」と偽り販売",
+        "url": "https://news.yahoo.co.jp/articles/eabb153e048b3ee6ced4165ef6491b8e09a0e37b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
         "source": "Yahoo",
@@ -3172,12 +3181,6 @@
       {
         "title": "無登録で投資勧誘か 監視委、シンガポールの会社を禁止申し立て 無登録で投資勧誘などを行ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資関連会社「グープロパティ」と同社社長に業",
         "url": "https://news.yahoo.co.jp/articles/0f544044884a9f6d1224d5704103e34d860c2d76",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ムームー証券に一部業務停止命令、口座開設の勧誘・受付を3カ月間",
-        "url": "https://news.yahoo.co.jp/articles/2a98efad64aa024ba21ddec353bb6b66f6d144d6",
         "source": "Yahoo",
         "date": ""
       }
@@ -4278,6 +4281,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "これほど底が抜けた法案は初めてだーー中道改革連合・長妻昭衆院議員が追及する個人情報保護法改正をめぐるリスクと「抜け道」の問題",
+        "url": "https://news.yahoo.co.jp/articles/29c0439fe4fa1c9ba37fe0eff9ebf3ad8f1db8c4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "購買履歴や金融情報が狙われている",
         "url": "https://news.yahoo.co.jp/articles/063164e4a9bb47f74ab0c6e40480cc1c5734d16d",
         "source": "Yahoo",
@@ -4304,18 +4313,18 @@
       {
         "title": "ヴィームが示す、レジリエンス強化への道筋--復旧に対する「自信のギャップ」が浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/117567c68d93567c0290d6c6f9719c7fd9989411",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "20年前の集団性暴行事件の加害者を私的照会",
-        "url": "https://news.yahoo.co.jp/articles/fb9424d662588eb56e1c8f58a31e874611a07463",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "これほど底が抜けた法案は初めてだーー中道改革連合・長妻昭衆院議員が追及する個人情報保護法改正をめぐるリスクと「抜け道」の問題",
+        "url": "https://news.yahoo.co.jp/articles/29c0439fe4fa1c9ba37fe0eff9ebf3ad8f1db8c4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "購買履歴や金融情報が狙われている",
         "url": "https://news.yahoo.co.jp/articles/063164e4a9bb47f74ab0c6e40480cc1c5734d16d",
         "source": "Yahoo",
@@ -4342,18 +4351,18 @@
       {
         "title": "ヴィームが示す、レジリエンス強化への道筋--復旧に対する「自信のギャップ」が浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/117567c68d93567c0290d6c6f9719c7fd9989411",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "20年前の集団性暴行事件の加害者を私的照会",
-        "url": "https://news.yahoo.co.jp/articles/fb9424d662588eb56e1c8f58a31e874611a07463",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "これほど底が抜けた法案は初めてだーー中道改革連合・長妻昭衆院議員が追及する個人情報保護法改正をめぐるリスクと「抜け道」の問題",
+        "url": "https://news.yahoo.co.jp/articles/29c0439fe4fa1c9ba37fe0eff9ebf3ad8f1db8c4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "購買履歴や金融情報が狙われている",
         "url": "https://news.yahoo.co.jp/articles/063164e4a9bb47f74ab0c6e40480cc1c5734d16d",
         "source": "Yahoo",
@@ -4380,12 +4389,6 @@
       {
         "title": "ヴィームが示す、レジリエンス強化への道筋--復旧に対する「自信のギャップ」が浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/117567c68d93567c0290d6c6f9719c7fd9989411",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "20年前の集団性暴行事件の加害者を私的照会",
-        "url": "https://news.yahoo.co.jp/articles/fb9424d662588eb56e1c8f58a31e874611a07463",
         "source": "Yahoo",
         "date": ""
       }
