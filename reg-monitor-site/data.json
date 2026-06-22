@@ -1,6 +1,79 @@
 {
-  "generatedAt": "2026-06-22T02:07:14.308Z",
+  "generatedAt": "2026-06-22T08:43:06.740Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
+      "date": "2026-06-22",
+      "detectedAt": "2026-06-22T08:43:06.740Z",
+      "enrichV": 2,
+      "updated": true,
+      "enriched": "2026-06-22T08:43:13.464Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "通貨及び金融の調節に関する報告書",
+      "url": "https://www.boj.or.jp/mopo/diet/d_report_2026/semi2606a.pdf",
+      "date": "2026-06-22",
+      "detectedAt": "2026-06-22T08:43:06.740Z",
+      "enriched": "2026-06-22T08:43:13.464Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]国債証券先物取引に係る取引最終日から受渡決済期日までの期間の短縮について",
+      "url": "https://www.jpx.co.jp/news/2040/20260622-01.html",
+      "date": "2026-06-22",
+      "detectedAt": "2026-06-22T08:43:06.740Z",
+      "enriched": "2026-06-22T08:43:13.464Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260622-01.html",
+      "date": "2026-06-22",
+      "detectedAt": "2026-06-22T08:43:06.740Z",
+      "enriched": "2026-06-22T08:43:13.464Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：LiNKX（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20260622_01.html",
+      "date": "2026-06-22",
+      "detectedAt": "2026-06-22T08:43:06.740Z",
+      "enriched": "2026-06-22T08:43:13.464Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主優待SDGs基金」の寄付先より、2025年度に寄付金を拠出した証券会社等に対し、感謝状が授与されました",
+      "url": "https://www.jsda.or.jp/sdgs/20260525093727.html",
+      "date": "2026-06-22",
+      "detectedAt": "2026-06-22T08:43:06.740Z",
+      "enriched": "2026-06-22T08:43:13.464Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「「令和９年度税制改正意見書」の公表について」",
+      "url": "https://jicpa.or.jp/news/information/2026/20260622eby.html",
+      "date": "2026-06-22",
+      "detectedAt": "2026-06-22T08:43:06.740Z",
+      "enriched": "2026-06-22T08:43:18.832Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "【要約版追加】JICPA主催インタビュー企画 株式会社ソラコム社における有価証券報告書の定時株主総会前開示に向けた取組みと今後の展望",
+      "url": "https://jicpa.or.jp/news/information/2026/20260622jfa.html",
+      "date": "2026-06-22",
+      "detectedAt": "2026-06-22T08:43:06.740Z",
+      "enriched": "2026-06-22T08:43:18.832Z",
+      "enrichV": 2
+    },
     {
       "agency": "日本証券業協会",
       "title": "公社債投資家別条件付売買(現先)月末残高 （旧公社債投資家別現先売買月末残高）",
@@ -2305,15 +2378,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
-      "date": "2026-05-21",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:03:03.674Z",
-      "enrichV": 2
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "日産証券株式会社が「家族サポート証券口座」の取り扱いを開始いたしました",
       "url": "https://market.jsda.or.jp/shijyo/kazokusupport/index.html",
       "date": "2026-05-20",
@@ -3263,82 +3327,88 @@
     ],
     "429M60000002007": [
       {
+        "title": "高市早苗首相、「答弁は簡潔に」と委員長に再三注意受けるも時間かけて持論主張 参院予算委",
+        "url": "https://news.yahoo.co.jp/articles/e0fd7e2df3b0d1bef37ffef93859eb7675a0d3a4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "AllUnity、MiCA準拠のスウェーデン・クローナ建てステーブルコインを発行",
+        "url": "https://news.yahoo.co.jp/articles/8f58b28eebbc8ffffadf0c6d3517e84bfc83658e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "立民・杉尾秀哉氏「全部秘書の責任なんですか？」中傷動画疑惑などで高市早苗首相を追及",
+        "url": "https://news.yahoo.co.jp/articles/418b99e20fa0898369ed406bc1f659fe14c2b3ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米国のAI規制を逆手に取る韓国の挑戦",
+        "url": "https://news.yahoo.co.jp/articles/278940dee0a5f200d40238e6a402936a2864e168",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "今週が勝負の週となるCLARITY法案、アメリカ暗号資産市場の未来は決まるのか【サンフランシスコ レポート】",
+        "url": "https://news.yahoo.co.jp/articles/dae720d6d7a65fdcf7987f6490a39b3cb7c673c5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CFTCとSEC、スワップ定義の明確化で意見募集",
         "url": "https://news.yahoo.co.jp/articles/80d0d406320e522c3c3cd3083f5542d63ce90b58",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AAVEに従来の金融モデルを適用すれば、今は割安＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/cbbb09d317a5f3018272167258409c6d01cab9cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】 日本の暗号資産市場は、規制面では世界に先んじている。だが一方で、その厳格さが市場の成長を抑制してきたという声もある。 しかし現在は、暗号資産を金融商",
-        "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイントレジャリー企業から金融プラットフォームへ──メタプラネットが証券会社を買った理由／IPO直前に一部売却、それでも過半を保有──アステリアはなぜSpaceXに投資したのか【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/24aad7f6b187e63b63206c802e62457b4bb08250",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "持ち家はもはや成功の証ではない──米国のZ世代が描く新たな成功のかたち",
-        "url": "https://news.yahoo.co.jp/articles/0e486f5c570e72e3ef8ad547ca396a4c0e3fab13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "激動の時代を生き抜くための金融リテラシー 『現代の金融入門［新版］』【書評】",
-        "url": "https://news.yahoo.co.jp/articles/be392364a3c967ecf6d2a2872574ff8002aba633",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "高市早苗首相、「答弁は簡潔に」と委員長に再三注意受けるも時間かけて持論主張 参院予算委",
+        "url": "https://news.yahoo.co.jp/articles/e0fd7e2df3b0d1bef37ffef93859eb7675a0d3a4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "AllUnity、MiCA準拠のスウェーデン・クローナ建てステーブルコインを発行",
+        "url": "https://news.yahoo.co.jp/articles/8f58b28eebbc8ffffadf0c6d3517e84bfc83658e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "立民・杉尾秀哉氏「全部秘書の責任なんですか？」中傷動画疑惑などで高市早苗首相を追及",
+        "url": "https://news.yahoo.co.jp/articles/418b99e20fa0898369ed406bc1f659fe14c2b3ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米国のAI規制を逆手に取る韓国の挑戦",
+        "url": "https://news.yahoo.co.jp/articles/278940dee0a5f200d40238e6a402936a2864e168",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "今週が勝負の週となるCLARITY法案、アメリカ暗号資産市場の未来は決まるのか【サンフランシスコ レポート】",
+        "url": "https://news.yahoo.co.jp/articles/dae720d6d7a65fdcf7987f6490a39b3cb7c673c5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CFTCとSEC、スワップ定義の明確化で意見募集",
         "url": "https://news.yahoo.co.jp/articles/80d0d406320e522c3c3cd3083f5542d63ce90b58",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AAVEに従来の金融モデルを適用すれば、今は割安＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/cbbb09d317a5f3018272167258409c6d01cab9cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】 日本の暗号資産市場は、規制面では世界に先んじている。だが一方で、その厳格さが市場の成長を抑制してきたという声もある。 しかし現在は、暗号資産を金融商",
-        "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイントレジャリー企業から金融プラットフォームへ──メタプラネットが証券会社を買った理由／IPO直前に一部売却、それでも過半を保有──アステリアはなぜSpaceXに投資したのか【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/24aad7f6b187e63b63206c802e62457b4bb08250",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "持ち家はもはや成功の証ではない──米国のZ世代が描く新たな成功のかたち",
-        "url": "https://news.yahoo.co.jp/articles/0e486f5c570e72e3ef8ad547ca396a4c0e3fab13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "激動の時代を生き抜くための金融リテラシー 『現代の金融入門［新版］』【書評】",
-        "url": "https://news.yahoo.co.jp/articles/be392364a3c967ecf6d2a2872574ff8002aba633",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422M60000002004": [
       {
+        "title": "JR西日本、決済サービス「Wesmo!」がモバイルICOCAチャージやオンライン決済対応",
+        "url": "https://news.yahoo.co.jp/articles/5b5892c4b066fad4feec35dc7298c39da70b7e1b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ソラナ・インスティテュートのスミス氏、クラリティ法案の開発者保護維持を要請",
         "url": "https://news.yahoo.co.jp/articles/aa16c4c71832da53de25745b7bbd8e57f7801782",
         "source": "Yahoo",
@@ -3365,18 +3435,18 @@
       {
         "title": "StablR、MiCA準拠ステーブルコインが署名鍵の侵害で無裏付け1,350万ドルを増発──「規制準拠」と鍵管理のギャップ【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/2965db3cb72f16098cb222e7878c96150c1cef75",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、ステーブルコイン実用化へ制度整備──改正資金決済法の政令・府令を公布、6月1日施行",
-        "url": "https://news.yahoo.co.jp/articles/d0a18115d3020f654a175343bc7728305e6613d4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "JR西日本、決済サービス「Wesmo!」がモバイルICOCAチャージやオンライン決済対応",
+        "url": "https://news.yahoo.co.jp/articles/5b5892c4b066fad4feec35dc7298c39da70b7e1b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ソラナ・インスティテュートのスミス氏、クラリティ法案の開発者保護維持を要請",
         "url": "https://news.yahoo.co.jp/articles/aa16c4c71832da53de25745b7bbd8e57f7801782",
         "source": "Yahoo",
@@ -3403,12 +3473,6 @@
       {
         "title": "StablR、MiCA準拠ステーブルコインが署名鍵の侵害で無裏付け1,350万ドルを増発──「規制準拠」と鍵管理のギャップ【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/2965db3cb72f16098cb222e7878c96150c1cef75",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、ステーブルコイン実用化へ制度整備──改正資金決済法の政令・府令を公布、6月1日施行",
-        "url": "https://news.yahoo.co.jp/articles/d0a18115d3020f654a175343bc7728305e6613d4",
         "source": "Yahoo",
         "date": ""
       }
@@ -3491,6 +3555,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "AllUnity、MiCA準拠のスウェーデン・クローナ建てステーブルコインを発行",
+        "url": "https://news.yahoo.co.jp/articles/8f58b28eebbc8ffffadf0c6d3517e84bfc83658e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イーサL2「Base」、Berylアップグレードを6/25に実施へ。独自トークン規格「B20」導入",
+        "url": "https://news.yahoo.co.jp/articles/fae3e7b4ac6aaa6e3f64a3cd2072be0909e3e1bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "今週が勝負の週となるCLARITY法案、アメリカ暗号資産市場の未来は決まるのか【サンフランシスコ レポート】",
+        "url": "https://news.yahoo.co.jp/articles/dae720d6d7a65fdcf7987f6490a39b3cb7c673c5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "同じオンチェーンデータを見ても、なぜ個人とプロで判断が違うのか──ビットコイン市場の情報格差を読み解く【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/786059a410f052af64d84c69378896229fc66c8b",
         "source": "Yahoo",
@@ -3505,30 +3587,30 @@
       {
         "title": "ビットコイントレジャリー企業から金融プラットフォームへ──メタプラネットが証券会社を買った理由／IPO直前に一部売却、それでも過半を保有──アステリアはなぜSpaceXに投資したのか【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/24aad7f6b187e63b63206c802e62457b4bb08250",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ウォーシュFRB改革はビットコインを変えるのか──「金融緩和期待相場」から「流動性相場」への転換点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/99924d79df6687496107c4365c4fb0f94d90b845",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインをマネロン悪用 特殊詐欺で得た資金を交換",
-        "url": "https://news.yahoo.co.jp/articles/a38d2b4d4b93ffbb4070b4b825ec40fc7d460efe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは静かに成長している──CryptoQuantが示すオンチェーン利用の急拡大【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/52dc4f78e6cd83b5e5f16d337938d0f7c9178735",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "AllUnity、MiCA準拠のスウェーデン・クローナ建てステーブルコインを発行",
+        "url": "https://news.yahoo.co.jp/articles/8f58b28eebbc8ffffadf0c6d3517e84bfc83658e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イーサL2「Base」、Berylアップグレードを6/25に実施へ。独自トークン規格「B20」導入",
+        "url": "https://news.yahoo.co.jp/articles/fae3e7b4ac6aaa6e3f64a3cd2072be0909e3e1bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "今週が勝負の週となるCLARITY法案、アメリカ暗号資産市場の未来は決まるのか【サンフランシスコ レポート】",
+        "url": "https://news.yahoo.co.jp/articles/dae720d6d7a65fdcf7987f6490a39b3cb7c673c5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "同じオンチェーンデータを見ても、なぜ個人とプロで判断が違うのか──ビットコイン市場の情報格差を読み解く【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/786059a410f052af64d84c69378896229fc66c8b",
         "source": "Yahoo",
@@ -3543,24 +3625,6 @@
       {
         "title": "ビットコイントレジャリー企業から金融プラットフォームへ──メタプラネットが証券会社を買った理由／IPO直前に一部売却、それでも過半を保有──アステリアはなぜSpaceXに投資したのか【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/24aad7f6b187e63b63206c802e62457b4bb08250",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ウォーシュFRB改革はビットコインを変えるのか──「金融緩和期待相場」から「流動性相場」への転換点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/99924d79df6687496107c4365c4fb0f94d90b845",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインをマネロン悪用 特殊詐欺で得た資金を交換",
-        "url": "https://news.yahoo.co.jp/articles/a38d2b4d4b93ffbb4070b4b825ec40fc7d460efe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは静かに成長している──CryptoQuantが示すオンチェーン利用の急拡大【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/52dc4f78e6cd83b5e5f16d337938d0f7c9178735",
         "source": "Yahoo",
         "date": ""
       }
