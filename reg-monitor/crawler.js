@@ -36,8 +36,9 @@ function pdfText(url){
 }
 // リンク先ページの可視テキスト（＋同ページからリンクされた主要PDFの本文）を返す。ネット失敗は空。
 async function fetchBodyText(url){
+  if (/\.pdf(\?|#|$)/i.test(url)) return pdfText(url).slice(0,200000);   // URL自体がPDF（日銀の会見要旨・講演、FSAのPDF等）→ pdftextで直接抽出
   let html=''; try { html = await get(url); } catch { return ''; }
-  if (/^%PDF|^\s*%PDF/.test(html)) return '';   // get()でPDFが化けたら諦める（PDFはpdfTextで別途取得）
+  if (/^%PDF|^\s*%PDF/.test(html)) return pdfText(url).slice(0,200000);   // 拡張子が無くても中身がPDFなら抽出（従来は諦めて空＝「本文未取得」の一因だった）
   let text='', pdfs=[];
   try {
     const $ = cheerio.load(html);
@@ -361,18 +362,19 @@ async function enrichItems(items){
 // 法令紐づき(lawrefs有)の高価値更新だけを対象に、1件ずつ生成してキャッシュ（生成は新着時のみ＝低コスト）。
 // APIキーはWorker側のsecretにあり、ここ(reg-monitorリポジトリ/Actions)には置かない。
 const AI_BASE = process.env.AI_ENDPOINT || 'https://finoject-proxy.kimihiro-mine.workers.dev/ai';
-const AI_SUM_VERSION = 2;            // 要点プロンプト/様式を変えたら +1（既存も一度だけ再生成）。v2=本文を渡して具体化(2026-06-19)
+const AI_SUM_VERSION = 3;            // 要点プロンプト/様式を変えたら +1（既存も一度だけ再生成）。v2=本文を渡して具体化(2026-06-19)／v3=URL自体がPDFでも本文抽出＋法令紐づきが無くても本文があれば要約(2026-06-22)
 const MAX_AI_PER_RUN = 20;           // 1巡回あたりの生成上限（コスト/レート制御＋本文取得の所要時間。未処理は次回以降に回る）
 async function aiSummarize(items){
   let made = 0, tried = 0;
   for (const it of items){                                   // items は日付降順済み＝新しい更新から生成
-    if (made >= MAX_AI_PER_RUN) break;
-    if (!(it.lawrefs && it.lawrefs.length)) continue;        // 法令紐づきの高価値更新のみ（要点の根拠にもなる）
+    if (made >= MAX_AI_PER_RUN || tried >= MAX_AI_PER_RUN) break;   // 生成・試行の両方に上限（本文取得の負荷も抑制）
+    if (isNoise(it.title)) continue;                         // サイト保守通知等のノイズは要約しない
     if (Array.isArray(it.aiSummary) && it.aiSumV === AI_SUM_VERSION) continue;   // 生成済みは再生成しない
-    tried++;
-    // 本文を渡して具体化（タイトルだけだと一般論になるため）。enrichで取得済みなら再利用、無ければ取得。
+    // 本文を取得（PDF含む）。法令紐づきが無い項目（日銀会見・講演・談話、当局の公表等）でも、本文が読めれば本文ベースで要約する。
     let body = BODY_CACHE.get(it.url);
     if (body === undefined){ try { body = await fetchBodyText(it.url); } catch { body = ''; } if (body) BODY_CACHE.set(it.url, body); }
+    if (!(it.lawrefs && it.lawrefs.length) && !body) continue;   // 法令紐づきも本文も無い＝具体要約の根拠が無い→「本文未取得」要約を作らずスキップ
+    tried++;
     try {
       const r = await fetch(AI_BASE, {
         method:'POST', headers:{ 'Content-Type':'application/json' },
