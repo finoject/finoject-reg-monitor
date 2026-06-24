@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T21:12:11.954Z",
+  "generatedAt": "2026-06-24T22:50:29.207Z",
   "items": [
     {
       "agency": "金融庁",
@@ -2079,7 +2079,13 @@
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:01:58.833Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は新規公開株の配分を行った協会員について、銘柄別に個人投資家への配分状況を統計・調査として定期的に公表している。",
+        "協会員（引受業者）は新規公開に際して個人顧客への株券配分結果を協会に報告し、当該配分状況がデータとして月別（1月～12月、ただし欠月あり）に掲載・管理される。",
+        "配分状況統計は2006年度以降毎年公表されており、2026年6月10日時点で2026年3月分までのデータが最新として掲載されている。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本公認会計士協会",
@@ -4916,6 +4922,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "Binance、ギリシャでのMiCA申請取り下げ",
+        "url": "https://news.yahoo.co.jp/articles/ffe7c4673f2ab53d7f5ac6901448caf80264cdbf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ニューヨーク民主予備選、テック億万長者が代理戦争-AI規制で対立",
         "url": "https://news.yahoo.co.jp/articles/baf5ca7296fb5a8e337540aa6c19d7892d0023a4",
         "source": "Yahoo",
@@ -4942,18 +4954,18 @@
       {
         "title": "米上院、CBDC発行禁止条項盛り込んだ住宅法案を可決、大統領署名へ",
         "url": "https://news.yahoo.co.jp/articles/93a0257be8e8c38163ffb3de6bb47cf36ad2354f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メタが予測市場アプリ「Arena」開発か、ポリマーケットやカルシ成長の中で=報道",
-        "url": "https://news.yahoo.co.jp/articles/aa3f031794f9a1d9a72abd179bb700ef4104d1e8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Binance、ギリシャでのMiCA申請取り下げ",
+        "url": "https://news.yahoo.co.jp/articles/ffe7c4673f2ab53d7f5ac6901448caf80264cdbf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ニューヨーク民主予備選、テック億万長者が代理戦争-AI規制で対立",
         "url": "https://news.yahoo.co.jp/articles/baf5ca7296fb5a8e337540aa6c19d7892d0023a4",
         "source": "Yahoo",
@@ -4980,12 +4992,6 @@
       {
         "title": "米上院、CBDC発行禁止条項盛り込んだ住宅法案を可決、大統領署名へ",
         "url": "https://news.yahoo.co.jp/articles/93a0257be8e8c38163ffb3de6bb47cf36ad2354f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メタが予測市場アプリ「Arena」開発か、ポリマーケットやカルシ成長の中で=報道",
-        "url": "https://news.yahoo.co.jp/articles/aa3f031794f9a1d9a72abd179bb700ef4104d1e8",
         "source": "Yahoo",
         "date": ""
       }
@@ -5144,6 +5150,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "トランプ大統領、CBDC禁止を含む住宅関連法案への署名中止",
+        "url": "https://news.yahoo.co.jp/articles/e9f9845033cdc02135fcff251961352fdd7ee8c3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインチェック、法人向けオンチェーン分析レポートを本格展開──キリフダと協働で定期発信",
         "url": "https://news.yahoo.co.jp/articles/3fdc97a64de2819e56bf4466ac9a18a7ab2f8a54",
         "source": "Yahoo",
@@ -5170,18 +5182,18 @@
       {
         "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
         "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYSC、すでに38億円相当発行──SBIが国内初の信託型円ステーブルコイン",
-        "url": "https://news.yahoo.co.jp/articles/7a986291ff81cfd8268468eb5473f853738c859d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "トランプ大統領、CBDC禁止を含む住宅関連法案への署名中止",
+        "url": "https://news.yahoo.co.jp/articles/e9f9845033cdc02135fcff251961352fdd7ee8c3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインチェック、法人向けオンチェーン分析レポートを本格展開──キリフダと協働で定期発信",
         "url": "https://news.yahoo.co.jp/articles/3fdc97a64de2819e56bf4466ac9a18a7ab2f8a54",
         "source": "Yahoo",
@@ -5208,12 +5220,6 @@
       {
         "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
         "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYSC、すでに38億円相当発行──SBIが国内初の信託型円ステーブルコイン",
-        "url": "https://news.yahoo.co.jp/articles/7a986291ff81cfd8268468eb5473f853738c859d",
         "source": "Yahoo",
         "date": ""
       }
