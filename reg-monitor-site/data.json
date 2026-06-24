@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T17:30:27.651Z",
+  "generatedAt": "2026-06-24T19:16:33.498Z",
   "items": [
     {
       "agency": "金融庁",
@@ -2049,7 +2049,13 @@
       "date": "2026-06-10",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:01:58.833Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "クライメート・トランジション利付国庫債券（GX国債）は2024年2月から発行予定であり、公社債店頭売買参考統計値及び公社債店頭売買高等の統計情報における取扱いは既発の国債と同様に扱われることになった。",
+        "指定報告協会員は、GX国債に係る報告対象銘柄を「届出不要銘柄」として扱い、入札アナウンスメント日に報告を開始し、銘柄種別は「国債.02」又は「国債.03」で報告する必要がある。",
+        "GX国債の銘柄名は「GX」と「国債種別」の間に半角スペースを入れない形式（例：GX長期国債WI-00、GXコツコサイWI10ネン/00ガツ）で、既発の利付国債と同様に同年限の通常国債の次に掲載される。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本証券業協会",
@@ -4539,7 +4545,13 @@
       "date": "2026-04-09",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:03:54.210Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は「特定投資家等に対する店頭有価証券の取引に関する規則」制定案について、2026年3月17日から4月15日にパブリックコメントを募集し、19件4先からの意見に対する考え方を示した。",
+        "協会は、非上場株式等の原則勧誘禁止規定を見直し、スタートアップ企業等への資金供給拡大のため、勧誘制度を規定する自主規制規則に基づき勧誘を行うよう改正することが適当と判断した。",
+        "改正規則では、非上場株式等の勧誘・取引について、社内管理態勢整備や顧客説明義務等を規定し、投資者保護と適切なガバナンスの確保を図る。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本証券業協会",
@@ -4898,6 +4910,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ニューヨーク民主予備選、テック億万長者が代理戦争-AI規制で対立",
+        "url": "https://news.yahoo.co.jp/articles/baf5ca7296fb5a8e337540aa6c19d7892d0023a4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DCG傘下のZcashマイニング企業Fortitude、2026年下半期にナスダック上場へ──ZEC価格にも注目【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/8ee471f74ff15e5e684aea89a9f4b41f9db0fad7",
         "source": "Yahoo",
@@ -4924,18 +4942,18 @@
       {
         "title": "メタが予測市場アプリ「Arena」開発か、ポリマーケットやカルシ成長の中で=報道",
         "url": "https://news.yahoo.co.jp/articles/aa3f031794f9a1d9a72abd179bb700ef4104d1e8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米下院、7月にFed公聴会とクラリティ法案関連ヒアリングを開催へ",
-        "url": "https://news.yahoo.co.jp/articles/c7ff4903b92fa38709b2ddc3a4ea54d7868d512b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ニューヨーク民主予備選、テック億万長者が代理戦争-AI規制で対立",
+        "url": "https://news.yahoo.co.jp/articles/baf5ca7296fb5a8e337540aa6c19d7892d0023a4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DCG傘下のZcashマイニング企業Fortitude、2026年下半期にナスダック上場へ──ZEC価格にも注目【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/8ee471f74ff15e5e684aea89a9f4b41f9db0fad7",
         "source": "Yahoo",
@@ -4962,12 +4980,6 @@
       {
         "title": "メタが予測市場アプリ「Arena」開発か、ポリマーケットやカルシ成長の中で=報道",
         "url": "https://news.yahoo.co.jp/articles/aa3f031794f9a1d9a72abd179bb700ef4104d1e8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米下院、7月にFed公聴会とクラリティ法案関連ヒアリングを開催へ",
-        "url": "https://news.yahoo.co.jp/articles/c7ff4903b92fa38709b2ddc3a4ea54d7868d512b",
         "source": "Yahoo",
         "date": ""
       }
