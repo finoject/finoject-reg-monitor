@@ -1,6 +1,202 @@
 {
-  "generatedAt": "2026-06-22T23:53:14.157Z",
+  "generatedAt": "2026-06-24T01:05:55.681Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）レックスアドバイザーズ",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-06-24T01:06:01.775Z"
+    },
+    {
+      "agency": "金融庁",
+      "title": "令和８年度 金融庁「こども霞が関見学デー」開催のご案内と参加者募集",
+      "url": "https://www.fsa.go.jp/news/r7/sonota/20260623.html",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.775Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は令和8年7月29日・30日に「こども霞が関見学デー」を開催し、小学5年生以上向け・4年生以下向けで対象を分け各日15組程度を募集。",
+        "参加希望者は6月29日12時から7月6日17時までに申込フォームで応募（学年・氏名・保護者名・連絡先を登録）し、応募多数時は抽選で7月9日までに結果をメール通知。",
+        "当日は金融庁2階エントランスで13時から受付開始、金融経済教育講座・庁舎見学ツアー・一億円体験等を実施、キャンセルは開催3日前までに連絡、撮影・個人情報は適切に管理。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "企業向けサービス価格指数（5月）",
+      "url": "https://www.boj.or.jp/statistics/pi/cspi_release/sppi2605.pdf",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年5月の企業向けサービス価格指数（総平均）は114.7（2020年平均=100）で前年比+3.3％、国際運輸を除くと114.0で前年比+3.0％となった。",
+        "企業向けサービス価格の値上げは運輸・郵便（外航貨物輸送61.8％、国際航空旅客輸送17.3％）、諸サービス（労働者派遣1.11ポイント寄与）が主導し、金融・保険は0.7％に縮小。",
+        "5月の前月比変動は総平均でプラスマイナスゼロとなり、前年比は4月と同一の3.3％で推移、統計データは日本銀行「時系列統計データ検索サイト」で提供されている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融政策決定会合における主な意見（6月15、16日開催分）",
+      "url": "https://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260616.pdf",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "政策金利を引き上げ、金融緩和の度合いを調整することを複数の委員が支持。原油価格上昇に伴う価格転嫁リスクと基調的物価上昇率が2％目標を超える上振れリスクが根拠。",
+        "来年4月以降、国債買入れの減額を停止し、ひと頃より縮小した買入れ規模を保ちつつ保有国債の償還を進めるフェーズに移行することが複数委員により妥当と判断。市場機能の回復と国債市場の安定を考慮。",
+        "2026年度後半から2027年度にかけて基調的物価上昇率が「物価安定の目標」と概ね整合的な水準となると見通す一方、企業間物価の上昇や価格転嫁の波及により2％を超える上振れリスク存在と指摘。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260619.xlsx",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が正常に読み込めない形式のため、タイトル「日本銀行が保有する国債の銘柄別残高」から推測するに、日本銀行が保有する国債を銘柄ごとに集計した残高データが公表されている。",
+        "市場関係者や調査機関は、日本銀行の金融政策運営や国債市場への影響を理解するため、公表された銘柄別残高データを参照する必要がある。",
+        "2026年6月23日付の公表により、同日時点における日本銀行の国債保有銘柄別残高が明らかにされている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行政策委員会月報（令和8年5月号）",
+      "url": "https://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2605.htm",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行政策委員会は令和8年4月21日、秋池玲子氏を日本銀行法第23条第4項に基づき参与として財務大臣に推薦し、6月12日に任命された。",
+        "政策委員会は令和8年4月24日に第141回事業年度（令和7年度）決算を決定し、その後5月27日に財務大臣の承認・認可を受けて公表した。",
+        "政策委員会は令和8年5月8日、総裁の国際決済銀行グローバル金融システム委員会議長への兼職を「役員の兼職に関する特則」に基づき承認し、任期は3年である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "気候変動対応オペにおける貸付対象先公募の結果について",
+      "url": "https://www.boj.or.jp/mopo/measures/select/s_release/srel260623a.pdf",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の気候変動対応オペの貸付対象先公募に、イオン銀行、オリックス銀行、富山第一銀行、徳島大正銀行、香川銀行の5先が選定された。",
+        "これら5行は日本銀行から気候変動関連融資を行うための資金を低利で調達できる対象機関として、2026年6月23日付で公表された。",
+        "当該オペは日本銀行の金融緩和政策の一環であり、各選定銀行は気候変動対応分野への融資供給拡大が期待される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "消費者物価のコア指標",
+      "url": "https://www.boj.or.jp/research/research_data/cpi/index.htm",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は消費者物価の基調的上昇率を把握するため、消費税率変更・教育無償化政策・携帯電話通信料引き下げ・旅行支援策・エネルギー負担緩和策の5項目を特殊要因として除いたコア指標を公表する。",
+        "金融経済分析に従事する実務者は、全国消費者物価指数公表日の2営業日後14時を目途に日本銀行が試算した特殊要因調整済みの消費者物価および刈込平均値・加重中央値等の4指標データを参照し、物価動向分析に活用する。",
+        "本コア指標公表システムは2026年3月26日より開始され、特殊要因の定義は予告なく変更される可能性があり、商用利用時は日本銀行調査統計局への事前相談が必要である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（6月20日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260620.htm",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の2026年6月20日現在の資産合計は655兆777億千円で、国債533兆836億円、当座預金438兆693億円が主要構成要素である。",
+        "日銀資産中の貸付金68兆39億円のうち、共通担保資金供給オペほか気候変動対応支援による貸付は28兆9336億円、貸出増加支援基金は39兆1059億円である。",
+        "金銭の信託は指数連動型ETF受益権37兆49億円と不動産投資信託受益権652兆3268万円で構成され、外国為替資産は119兆1898億円を計上している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：3銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260623-01.html",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証の3銘柄（シンカ、サツドラホールディングス、ツインバード）について、2営業日連続してストップ高（安）値段でのみ売買または売買なしの状況が生じたため、6月24日から制限値幅の上限を拡大（シンカ・サツドラは1,200円、ツインバードは400円）。",
+        "取引参加者および投資家は、当該3銘柄について拡大された制限値幅を認識し、成行注文による思わぬ値段での約定リスクを回避し、指値注文の活用等の対策を講じるべき。",
+        "制限値幅の拡大は6月24日から適用され、ストップ高（安）以外での売買成立があれば翌営業日に通常幅へ復帰するが、ストップ値段のみでの売買継続時は拡大継続（東証の公表ルール）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）不動産流通システム",
+      "url": "https://www.jpx.co.jp/news/1031/20260623_01.html",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）不動産流通システム（コード583A）の6月24日上場初値決定前の気配運用として、板中心値段2,000円から開始し、上限4,600円（100円刻み・10分毎更新）、下限1,500円（通常値幅・3分毎更新）の範囲で気配を提示する。",
+        "取引参加者および個人投資家は、新規上場日の売買において成行呼値を使用することが禁止されており、500円以上8,000円以下の指値注文のみが受け付けられる。",
+        "初値決定後は初値を基準値段として通常の制限値幅が適用され、成行呼値の禁止も解除される（新規上場日に売買が成立しなかった場合は初値決定日まで禁止継続）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "6月30日（火）サーバメンテナンスのお知らせ",
+      "url": "https://www.jsda.or.jp/shinchaku/servermaintenance/20260630.html",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会ウェブサイトは2026年6月30日（火）19:00～20:30の間、サーバメンテナンスにより一時的に閲覧不可となる予定。作業進捗により終了時間は前後する可能性あり。",
+        "利用者は上記時間帯のアクセスを避けるか、メンテナンス完了まで待機する必要がある。取引所外売買公表ウェブサイトは対象外。",
+        "実施日は2026年6月30日（火）で、日本証券業協会公表のサーバメンテナンス予定に基づく。金融規制の実務的影響は直接的には無し。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "取扱い再開のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260623-001/",
+      "date": "2026-06-23",
+      "detectedAt": "2026-06-24T01:05:55.681Z",
+      "enriched": "2026-06-24T01:06:01.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "SBI VCトレード株式会社が取扱廃止していたトンコイン（TON/Tondoin）について、2026年7月1日18:00に取扱いを再開する。",
+        "JVCEA会員であるSBI VCトレード株式会社が当該銘柄の取扱再開に向けて必要な準備を実施し、指定日時以降の取扱を開始する。",
+        "金商法上の暗号資産として規制される銘柄の取扱再開について、JVCEA統計情報・取扱銘柄関連の枠組み内で管理される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "破綻金融機関の処理のために講じた措置の内容等に関する報告の公表",
@@ -285,22 +481,6 @@
     },
     {
       "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）ＰＲＯ ＨＯＬＤＩＮＧＳ",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-06-19",
-      "detectedAt": "2026-06-19T08:18:16.379Z",
-      "enrichV": 2,
-      "updated": true,
-      "enriched": "2026-06-19T08:18:22.444Z",
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
       "title": "[東証]新規上場の承認（ETF）：ニッセイＥＴＦ ラッセル２０００（ニッセイアセットマネジメント）",
       "url": "https://www.jpx.co.jp/news/1070/20260619.html",
       "date": "2026-06-19",
@@ -450,7 +630,13 @@
       "detectedAt": "2026-06-18T09:58:33.997Z",
       "updated": true,
       "enriched": "2026-06-19T06:01:52.710Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本銀行",
@@ -550,7 +736,13 @@
       "detectedAt": "2026-06-17T10:18:14.329Z",
       "updated": true,
       "enriched": "2026-06-19T06:01:52.710Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本証券業協会",
@@ -1826,7 +2018,13 @@
       "date": "2026-06-05",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:02:01.652Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は消費活動指数を毎月第5営業日14:00に公表し、2026年4月に2020年基準への改定に伴う見直しを実施、名目値・実質値、旅行収支調整の有無など複数系列を提供している。",
+        "個人消費動向の把握が必要な政策当局・分析担当者は、財・サービス販売統計を基礎とした月次・四半期の消費活動指数（耐久財8.6%、非耐久財44.3%、サービス47.1%）を活用し景気判断に活かすべき。",
+        "季節調整はX-12-ARIMA使用で毎年4月頃全期間データで替え実施、ARIMA次数は原則automdlで選択、曜日・祝日・異常値調整はAICベースで判定（2026年5月時点スペック適用）。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本銀行",
@@ -1835,7 +2033,13 @@
       "date": "2026-06-05",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:02:01.652Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "気候関連リスク・機会の株価・社債価格への反映が幾分後退し、価格反映の課題として発行体・投資家の広がりが最多、情報開示の標準化を挙げる先が減少した。",
+        "SSBJ基準適用義務化により発行体は体制整備・データ収集・マテリアリティ特定に対応中だが、実務負荷軽減と開示内容の標準化による比較可能性向上が課題。",
+        "ESG債新規発行額が減少する一方、事業法人の約半分が大幅な資金需要を見込み、そのうち4割がESG債活用を視野に入れており、2026年2～3月実施の第5回調査結果。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本銀行",
@@ -1844,7 +2048,13 @@
       "date": "2026-06-05",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:02:01.653Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年5月末時点で長期国債残高533兆1356億円、気候変動対応オペ2111億円、貸出支援基金4878億円を保有。対政府長期国債売現先は3419億円（3月末比166116億円増加）。",
+        "金融機関は日本銀行の共通担保オペ（780億円）、貸出増加支援資金供給（4853億円）等を利用し短期資金調達を実施。社債等買入は189億円、ETF信託財産は3707億円。",
+        "2026年5月末現在、気候変動対応ファイナンス・貸出支援基金等の政策ツールは前月維持水準で推移。国庫短期証券取引・CP買現先・手形売出は0円で未使用。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本銀行",
@@ -1853,7 +2063,13 @@
       "date": "2026-06-05",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:02:01.653Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年5月末時点で、日本銀行が国債整理基金との売現先取引（買戻条件付売却）の残高は34万1959億円であり、5月中の売却額45万4977億円から買戻額23万2455億円を差し引いた増加額は22万2521億円。",
+        "日本銀行は政府短期証券引受・割引短期国債借換引受・短期証券買入・短期証券売却のいずれの取引も2026年5月中に残高なし、すべての項目で月中増減額がゼロ。",
+        "本資料は日本銀行企画局が毎月公表する対政府取引統計であり、ストック表と月中のフロー表により、政府との各種金融取引の残高と増減を100万円単位で報告。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本銀行",
@@ -1862,7 +2078,11 @@
       "date": "2026-06-05",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:02:01.653Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "申し訳ございませんが、提供いただいた本文はバイナリ形式（圧縮ファイル）であり、テキスト情報として抽出できません。実務的な具体的内容を3行で抽出することができないため、別途テキスト形式の本文提供をお願いいたします。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本取引所グループ",
@@ -1871,7 +2091,13 @@
       "date": "2026-06-04",
       "detectedAt": "2026-06-15T05:52:28.078Z",
       "enriched": "2026-06-19T06:02:01.653Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所は2026年6月4日に第28回「市場区分の見直しに関するフォローアップ会議」を開催し、会議資料を同取引所ウェブサイトで公開した。",
+        "市場関係者は公開された会議資料により市場区分の見直しに関する検討状況を確認し、必要に応じて対応を検討すること。",
+        "本件は市場区分の見直しに関する継続的なフォローアップに係るもので、東証上場部企画グループが窓口となる。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本銀行",
@@ -3833,6 +4059,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "高市首相、「SANAE TOKEN」承認を否定。金融庁への損失相談は3件",
+        "url": "https://news.yahoo.co.jp/articles/5683c3e24ff154c098f5012b9cfa2918c1366866",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
         "source": "Yahoo",
@@ -3859,18 +4091,18 @@
       {
         "title": "立憲・杉尾秀哉議員、中傷動画問題巡る勉強会明かす 「総理のサミット帰国後がヤマ場」",
         "url": "https://news.yahoo.co.jp/articles/2a7050f1ef4a860a2aadbb37f2b9d79df3991a15",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国内株を売らせ暗号資産を推奨？ある投資助言業の手口の闇",
-        "url": "https://news.yahoo.co.jp/articles/7d10a6724bf5c78f92cc1f4e4f203568180c951e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "高市首相、「SANAE TOKEN」承認を否定。金融庁への損失相談は3件",
+        "url": "https://news.yahoo.co.jp/articles/5683c3e24ff154c098f5012b9cfa2918c1366866",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
         "source": "Yahoo",
@@ -3899,92 +4131,92 @@
         "url": "https://news.yahoo.co.jp/articles/2a7050f1ef4a860a2aadbb37f2b9d79df3991a15",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "国内株を売らせ暗号資産を推奨？ある投資助言業の手口の闇",
-        "url": "https://news.yahoo.co.jp/articles/7d10a6724bf5c78f92cc1f4e4f203568180c951e",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
       {
-        "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
+        "title": "リップル、MiCAライセンスを取得へ──7月1日の移行期限を前に",
+        "url": "https://news.yahoo.co.jp/articles/758b51dde4855807490bd3793441ac2a25a21456",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "MoneyGram、ソラナのバリデーターに──ステーブルコイン決済インフラ構築を加速",
-        "url": "https://news.yahoo.co.jp/articles/2bffedea9787c7f03bbf4c2cd3a6df1d261d62a2",
+        "title": "W杯、韓国が南アフリカに勝つ可能性は「59％」",
+        "url": "https://news.yahoo.co.jp/articles/dd8016ff25cdfecad86dbbcdcba6cfd210cc4851",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AI×国家監視も？財務省・金融庁・デジ庁が語る「デジタルマネー・本人確認」の最前線",
-        "url": "https://news.yahoo.co.jp/articles/a32e9945634f0c19917b7ce2dfa7fa76dd4359fa",
+        "title": "トランプがAI規制に転換？強まる「安全保障」ファクター、今後を見据える４つの焦点",
+        "url": "https://news.yahoo.co.jp/articles/8b8b6868042c7c7049a08857ab82677f118bcd4e",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "高市氏の名「サナエトークン」野党が追及 首相側は関与否定",
-        "url": "https://news.yahoo.co.jp/articles/0201abb3b05e4087aebd30d0371a40ac2f5ea9d4",
+        "title": "韓国トスバンク、ソラナ財団とブロックチェーン金融インフラ構築を検証へ",
+        "url": "https://news.yahoo.co.jp/articles/dca227dac0e5156016663c7f754be363f0fe59d3",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "歴史的な悲劇、トランプの決断でアメリカが社会主義になる？「AI国家社会主義」とも言える動きに目を向けよ",
-        "url": "https://news.yahoo.co.jp/articles/84f1394bde0c0e9875be3dcb40bd262d4a9f3042",
+        "title": "NYSE親会社ICEとOKX、合弁会社設立──トークン化株式市場へのアクセス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/c7e718ba66cf7c8c667c4665dbc6d458e4df006a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "高市早苗首相、「答弁は簡潔に」と委員長に再三注意受けるも時間かけて持論主張 参院予算委",
-        "url": "https://news.yahoo.co.jp/articles/e0fd7e2df3b0d1bef37ffef93859eb7675a0d3a4",
+        "title": "コインベース、トークン化米国株・エージェント型取引・新たな予測市場などへ事業拡大",
+        "url": "https://news.yahoo.co.jp/articles/489ed238b6ac37fe175e6f6f8ade322d60ba40d8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
-        "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
+        "title": "リップル、MiCAライセンスを取得へ──7月1日の移行期限を前に",
+        "url": "https://news.yahoo.co.jp/articles/758b51dde4855807490bd3793441ac2a25a21456",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "MoneyGram、ソラナのバリデーターに──ステーブルコイン決済インフラ構築を加速",
-        "url": "https://news.yahoo.co.jp/articles/2bffedea9787c7f03bbf4c2cd3a6df1d261d62a2",
+        "title": "W杯、韓国が南アフリカに勝つ可能性は「59％」",
+        "url": "https://news.yahoo.co.jp/articles/dd8016ff25cdfecad86dbbcdcba6cfd210cc4851",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AI×国家監視も？財務省・金融庁・デジ庁が語る「デジタルマネー・本人確認」の最前線",
-        "url": "https://news.yahoo.co.jp/articles/a32e9945634f0c19917b7ce2dfa7fa76dd4359fa",
+        "title": "トランプがAI規制に転換？強まる「安全保障」ファクター、今後を見据える４つの焦点",
+        "url": "https://news.yahoo.co.jp/articles/8b8b6868042c7c7049a08857ab82677f118bcd4e",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "高市氏の名「サナエトークン」野党が追及 首相側は関与否定",
-        "url": "https://news.yahoo.co.jp/articles/0201abb3b05e4087aebd30d0371a40ac2f5ea9d4",
+        "title": "韓国トスバンク、ソラナ財団とブロックチェーン金融インフラ構築を検証へ",
+        "url": "https://news.yahoo.co.jp/articles/dca227dac0e5156016663c7f754be363f0fe59d3",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "歴史的な悲劇、トランプの決断でアメリカが社会主義になる？「AI国家社会主義」とも言える動きに目を向けよ",
-        "url": "https://news.yahoo.co.jp/articles/84f1394bde0c0e9875be3dcb40bd262d4a9f3042",
+        "title": "NYSE親会社ICEとOKX、合弁会社設立──トークン化株式市場へのアクセス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/c7e718ba66cf7c8c667c4665dbc6d458e4df006a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "高市早苗首相、「答弁は簡潔に」と委員長に再三注意受けるも時間かけて持論主張 参院予算委",
-        "url": "https://news.yahoo.co.jp/articles/e0fd7e2df3b0d1bef37ffef93859eb7675a0d3a4",
+        "title": "コインベース、トークン化米国株・エージェント型取引・新たな予測市場などへ事業拡大",
+        "url": "https://news.yahoo.co.jp/articles/489ed238b6ac37fe175e6f6f8ade322d60ba40d8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422M60000002004": [
       {
+        "title": "SBI、円ステーブルコイン「JPYSC」週内にも発行へ──金融庁が承認、信託型で国内初＝日経 2025年10月に発行された国内初のステーブルコイン「JPYC」は、資金移動業者が発行する形態であり、1回あたりの発行額に100万円の上限がある。",
+        "url": "https://news.yahoo.co.jp/articles/88f2e2f5d8b5d274b49ae97751b045b1ed73c406",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JR西日本、決済サービス「Wesmo!」がモバイルICOCAチャージやオンライン決済対応",
         "url": "https://news.yahoo.co.jp/articles/5b5892c4b066fad4feec35dc7298c39da70b7e1b",
         "source": "Yahoo",
@@ -4011,18 +4243,18 @@
       {
         "title": "金融庁、「電子決済手段・暗号資産サービス仲介業」制度を開始",
         "url": "https://news.yahoo.co.jp/articles/07bcd0fdcf5dd4e698da93f32d61e6cdbbb45532",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "StablR、MiCA準拠ステーブルコインが署名鍵の侵害で無裏付け1,350万ドルを増発──「規制準拠」と鍵管理のギャップ【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/2965db3cb72f16098cb222e7878c96150c1cef75",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "SBI、円ステーブルコイン「JPYSC」週内にも発行へ──金融庁が承認、信託型で国内初＝日経 2025年10月に発行された国内初のステーブルコイン「JPYC」は、資金移動業者が発行する形態であり、1回あたりの発行額に100万円の上限がある。",
+        "url": "https://news.yahoo.co.jp/articles/88f2e2f5d8b5d274b49ae97751b045b1ed73c406",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JR西日本、決済サービス「Wesmo!」がモバイルICOCAチャージやオンライン決済対応",
         "url": "https://news.yahoo.co.jp/articles/5b5892c4b066fad4feec35dc7298c39da70b7e1b",
         "source": "Yahoo",
@@ -4049,12 +4281,6 @@
       {
         "title": "金融庁、「電子決済手段・暗号資産サービス仲介業」制度を開始",
         "url": "https://news.yahoo.co.jp/articles/07bcd0fdcf5dd4e698da93f32d61e6cdbbb45532",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "StablR、MiCA準拠ステーブルコインが署名鍵の侵害で無裏付け1,350万ドルを増発──「規制準拠」と鍵管理のギャップ【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/2965db3cb72f16098cb222e7878c96150c1cef75",
         "source": "Yahoo",
         "date": ""
       }
@@ -4137,76 +4363,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "Enso、RWAアプリをリリース──米国株などのトークン化資産の取引を提供",
-        "url": "https://news.yahoo.co.jp/articles/84decbfdef79f20c43ffacb64714683549d3dc21",
+        "title": "Chainlink、韓国・欧州の銀行連合と共同でFX決済のT＋0化へ",
+        "url": "https://news.yahoo.co.jp/articles/d05edcafc57d1c4bad897a479220d6deb81ffb2a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "MoneyGram、ソラナのバリデーターに──ステーブルコイン決済インフラ構築を加速",
-        "url": "https://news.yahoo.co.jp/articles/2bffedea9787c7f03bbf4c2cd3a6df1d261d62a2",
+        "title": "SBI、円ステーブルコイン「JPYSC」週内にも発行へ──金融庁が承認、信託型で国内初＝日経",
+        "url": "https://news.yahoo.co.jp/articles/88f2e2f5d8b5d274b49ae97751b045b1ed73c406",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AI×国家監視も？財務省・金融庁・デジ庁が語る「デジタルマネー・本人確認」の最前線 円建てステーブルコイン「JPYC」の発行や、欧州で進むCBDC（中央銀行デジタル通貨）導入など、デジタルマネーの社会実装が現実味を帯びる中、「お金",
-        "url": "https://news.yahoo.co.jp/articles/a32e9945634f0c19917b7ce2dfa7fa76dd4359fa",
+        "title": "米サークル「USDC」と「EURC」、クロノスに対応へ。CCTPも導入予定",
+        "url": "https://news.yahoo.co.jp/articles/7a1100f5b1d364b0a361f59a4a1fa995dec5aa5c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "元イーサリアム財団研究者がEthlabs設立──Bitmine、SharpLink、Joe Lubin氏が支援",
-        "url": "https://news.yahoo.co.jp/articles/273fded63cc27be890a90b893e4d70697c8f4a20",
+        "title": "元イーサリアム財団研究者らが研究開発組織「Ethlabs」設立。ビットマインやシャープリンクら支援",
+        "url": "https://news.yahoo.co.jp/articles/b7ac571a50a3a4767e190dd6b45e50d03e8e74de",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "LINE上のステーブルコインウォレット「Unifi」がミニアプリに──個別アプリ不要で利用可能",
-        "url": "https://news.yahoo.co.jp/articles/3929fce53758cb6923fd95139be404b308a56d1b",
+        "title": "韓国トスバンク、ソラナ財団とブロックチェーン金融インフラ構築を検証へ",
+        "url": "https://news.yahoo.co.jp/articles/dca227dac0e5156016663c7f754be363f0fe59d3",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AWS、CloudFrontとWAFにCoinbaseのx402を統合──AIエージェントへのコンテンツ課金が「ブロック」から「課金」へ【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/0647916c57b5611877b2aa1b8efbc05ce07cf404",
+        "title": "ムーンペイ、AI財務・会計自動化の「Entendre」買収",
+        "url": "https://news.yahoo.co.jp/articles/6843364be0af72f20d922d6063a3955beb238cab",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "Enso、RWAアプリをリリース──米国株などのトークン化資産の取引を提供",
-        "url": "https://news.yahoo.co.jp/articles/84decbfdef79f20c43ffacb64714683549d3dc21",
+        "title": "Chainlink、韓国・欧州の銀行連合と共同でFX決済のT＋0化へ",
+        "url": "https://news.yahoo.co.jp/articles/d05edcafc57d1c4bad897a479220d6deb81ffb2a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "MoneyGram、ソラナのバリデーターに──ステーブルコイン決済インフラ構築を加速",
-        "url": "https://news.yahoo.co.jp/articles/2bffedea9787c7f03bbf4c2cd3a6df1d261d62a2",
+        "title": "SBI、円ステーブルコイン「JPYSC」週内にも発行へ──金融庁が承認、信託型で国内初＝日経",
+        "url": "https://news.yahoo.co.jp/articles/88f2e2f5d8b5d274b49ae97751b045b1ed73c406",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AI×国家監視も？財務省・金融庁・デジ庁が語る「デジタルマネー・本人確認」の最前線 円建てステーブルコイン「JPYC」の発行や、欧州で進むCBDC（中央銀行デジタル通貨）導入など、デジタルマネーの社会実装が現実味を帯びる中、「お金",
-        "url": "https://news.yahoo.co.jp/articles/a32e9945634f0c19917b7ce2dfa7fa76dd4359fa",
+        "title": "米サークル「USDC」と「EURC」、クロノスに対応へ。CCTPも導入予定",
+        "url": "https://news.yahoo.co.jp/articles/7a1100f5b1d364b0a361f59a4a1fa995dec5aa5c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "元イーサリアム財団研究者がEthlabs設立──Bitmine、SharpLink、Joe Lubin氏が支援",
-        "url": "https://news.yahoo.co.jp/articles/273fded63cc27be890a90b893e4d70697c8f4a20",
+        "title": "元イーサリアム財団研究者らが研究開発組織「Ethlabs」設立。ビットマインやシャープリンクら支援",
+        "url": "https://news.yahoo.co.jp/articles/b7ac571a50a3a4767e190dd6b45e50d03e8e74de",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "LINE上のステーブルコインウォレット「Unifi」がミニアプリに──個別アプリ不要で利用可能",
-        "url": "https://news.yahoo.co.jp/articles/3929fce53758cb6923fd95139be404b308a56d1b",
+        "title": "韓国トスバンク、ソラナ財団とブロックチェーン金融インフラ構築を検証へ",
+        "url": "https://news.yahoo.co.jp/articles/dca227dac0e5156016663c7f754be363f0fe59d3",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AWS、CloudFrontとWAFにCoinbaseのx402を統合──AIエージェントへのコンテンツ課金が「ブロック」から「課金」へ【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/0647916c57b5611877b2aa1b8efbc05ce07cf404",
+        "title": "ムーンペイ、AI財務・会計自動化の「Entendre」買収",
+        "url": "https://news.yahoo.co.jp/articles/6843364be0af72f20d922d6063a3955beb238cab",
         "source": "Yahoo",
         "date": ""
       }
@@ -4927,6 +5153,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "マネーフォワード、GitHub不正アクセスの詳細調査を完了 確定した「流出した可能性のあるデータ」とは",
+        "url": "https://news.yahoo.co.jp/articles/cc494b18af55447a112948ded487251caa061405",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "登録者1000万人超の「大食い」ユーチューバー脅迫",
+        "url": "https://news.yahoo.co.jp/articles/5ca5d32dc33bd1c651241eb53925d1e6de3c893e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "欧州に学ぶ日本のデジタル主権確立への道、高まる米中依存リスク 3つめは、国内法規制や独自環境に合わせた「テーラーメイド型」を適用すること。日本には個人情報保護法をはじめとする法規制や独特のビジネス環境が存在する。グローバルスタン",
         "url": "https://news.yahoo.co.jp/articles/8e3bdff272c7255d92656e95b2c6f152f0d178b0",
         "source": "Yahoo",
@@ -4947,24 +5185,24 @@
       {
         "title": "DAZN「月980円」提示→実は「年2万6340円」に「二度と契約しない」 “紛らわしい料金表示”は法的にセーフ？",
         "url": "https://news.yahoo.co.jp/articles/0090cfb98b7dde5626732899516c07d9deb40842",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "流出や悪用リスクへの対策は？個人情報の改正案、参考人質疑でも懸念 国会で審議中の個人情報保護法の改正案に、注目が集まっている。参院のデジタルAI特別委員会は19日、有識者を招いて参考人質疑を行った。病歴などの機微",
-        "url": "https://news.yahoo.co.jp/articles/e5b57079e7563b6930f929b7915d7c1d468693da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "前国防相に懲役3年 情報司令部の名簿を民間人に漏えい＝韓国地裁",
-        "url": "https://news.yahoo.co.jp/articles/37c7975a79bdd9ccb8670e0dc2b434ce363ed638",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "マネーフォワード、GitHub不正アクセスの詳細調査を完了 確定した「流出した可能性のあるデータ」とは",
+        "url": "https://news.yahoo.co.jp/articles/cc494b18af55447a112948ded487251caa061405",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "登録者1000万人超の「大食い」ユーチューバー脅迫",
+        "url": "https://news.yahoo.co.jp/articles/5ca5d32dc33bd1c651241eb53925d1e6de3c893e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "欧州に学ぶ日本のデジタル主権確立への道、高まる米中依存リスク 3つめは、国内法規制や独自環境に合わせた「テーラーメイド型」を適用すること。日本には個人情報保護法をはじめとする法規制や独特のビジネス環境が存在する。グローバルスタン",
         "url": "https://news.yahoo.co.jp/articles/8e3bdff272c7255d92656e95b2c6f152f0d178b0",
         "source": "Yahoo",
@@ -4985,24 +5223,24 @@
       {
         "title": "DAZN「月980円」提示→実は「年2万6340円」に「二度と契約しない」 “紛らわしい料金表示”は法的にセーフ？",
         "url": "https://news.yahoo.co.jp/articles/0090cfb98b7dde5626732899516c07d9deb40842",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "流出や悪用リスクへの対策は？個人情報の改正案、参考人質疑でも懸念 国会で審議中の個人情報保護法の改正案に、注目が集まっている。参院のデジタルAI特別委員会は19日、有識者を招いて参考人質疑を行った。病歴などの機微",
-        "url": "https://news.yahoo.co.jp/articles/e5b57079e7563b6930f929b7915d7c1d468693da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "前国防相に懲役3年 情報司令部の名簿を民間人に漏えい＝韓国地裁",
-        "url": "https://news.yahoo.co.jp/articles/37c7975a79bdd9ccb8670e0dc2b434ce363ed638",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "マネーフォワード、GitHub不正アクセスの詳細調査を完了 確定した「流出した可能性のあるデータ」とは",
+        "url": "https://news.yahoo.co.jp/articles/cc494b18af55447a112948ded487251caa061405",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "登録者1000万人超の「大食い」ユーチューバー脅迫",
+        "url": "https://news.yahoo.co.jp/articles/5ca5d32dc33bd1c651241eb53925d1e6de3c893e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "欧州に学ぶ日本のデジタル主権確立への道、高まる米中依存リスク 3つめは、国内法規制や独自環境に合わせた「テーラーメイド型」を適用すること。日本には個人情報保護法をはじめとする法規制や独特のビジネス環境が存在する。グローバルスタン",
         "url": "https://news.yahoo.co.jp/articles/8e3bdff272c7255d92656e95b2c6f152f0d178b0",
         "source": "Yahoo",
@@ -5023,18 +5261,6 @@
       {
         "title": "DAZN「月980円」提示→実は「年2万6340円」に「二度と契約しない」 “紛らわしい料金表示”は法的にセーフ？",
         "url": "https://news.yahoo.co.jp/articles/0090cfb98b7dde5626732899516c07d9deb40842",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "流出や悪用リスクへの対策は？個人情報の改正案、参考人質疑でも懸念 国会で審議中の個人情報保護法の改正案に、注目が集まっている。参院のデジタルAI特別委員会は19日、有識者を招いて参考人質疑を行った。病歴などの機微",
-        "url": "https://news.yahoo.co.jp/articles/e5b57079e7563b6930f929b7915d7c1d468693da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "前国防相に懲役3年 情報司令部の名簿を民間人に漏えい＝韓国地裁",
-        "url": "https://news.yahoo.co.jp/articles/37c7975a79bdd9ccb8670e0dc2b434ce363ed638",
         "source": "Yahoo",
         "date": ""
       }
