@@ -20,6 +20,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20   # ハングしても20分で打ち切り＝concurrency(group:pages)のロックを永久に握らせない（巡回が詰まる事故の再発防止）
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
