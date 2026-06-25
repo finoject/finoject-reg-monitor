@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-25T09:56:32.545Z",
+  "generatedAt": "2026-06-25T13:04:23.799Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "令和８年６月24日からの大雨に伴う災害等に対する金融上の措置（鹿児島県）",
+      "url": "https://www.fsa.go.jp/news/r7/ginkou/20260625.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T13:04:23.799Z",
+      "enriched": "2026-06-25T13:04:30.621Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "九州財務局が令和8年6月24日からの鹿児島県の大雨災害に対する金融上の措置を6月25日に要請した。具体的内容は九州財務局ウェブサイトで公表されている。",
+        "金融機関は九州財務局の要請に基づき、被災者への融資条件緩和・返済猶予等の金融上の措置を実施する必要がある。",
+        "本措置は令和8年6月25日付で発表され、九州財務局のウェブサイト掲載資料および問合せ窓口（電話0570-016811）で詳細確認が必要。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "ドゥラックアセットマネジメント株式会社に対する行政処分",
+      "url": "https://www.fsa.go.jp/news/r7/shouken/20260625.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T13:04:23.799Z",
+      "enriched": "2026-06-25T13:04:30.621Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ドゥラックアセットマネジメント株式会社（法人番号3010901023211）に対し、関東財務局長が令和8年6月25日に行政処分を実施。処分は証券取引等監視委員会の勧告に基づく。",
+        "同社への検査結果から問題が認められたため行政処分となった。詳細は関東財務局ウェブサイトで公表されている。",
+        "金融商品取引業者等に対する行政処分であり、処分内容の詳細は関東財務局理財部証券監督第3課または金融庁監督局証券課に問い合わせ。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）ａｎｄ ＵＳ",
@@ -3241,7 +3271,13 @@
       "date": "2026-05-29",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:02:13.107Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "複雑な仕組債の取扱状況等について2023年7月から2026年3月までの統計データをExcel形式で公表し、会員各社の取扱状況を明示した。",
+        "日本証券業協会の会員各社は公表されたデータを参照し、自社の複雑な仕組債取扱状況を把握・確認すべき。",
+        "2026年5月29日付で日本証券業協会が統計・調査報告書として公表、業協会の監督下にある会員における複雑仕組債の継続的な監視に関わる。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "JVCEA",
@@ -5335,6 +5371,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "Circle、野村とUSDC活用の外貨即時決済へ──日本企業向けに2027年にも開始か＝日経",
+        "url": "https://news.yahoo.co.jp/articles/9788cef33e6fabe7b9f13ad8054f94dc85a4f739",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、ビットバンクを買収 暗号資産トップクラスに",
         "url": "https://news.yahoo.co.jp/articles/d8352767db0eec27adef2d6de84bebbb7092a1e6",
         "source": "Yahoo",
@@ -5361,18 +5403,18 @@
       {
         "title": "マネーグラム、ソラナのバリデータに。開発基盤SDPにも参加",
         "url": "https://news.yahoo.co.jp/articles/0b8e9b142fbfe3409348db132b1105bbe163c508",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "チェーンリンク、欧韓銀行連合とFX向けT+0決済基盤「プロジェクト・パンゲア」始動",
-        "url": "https://news.yahoo.co.jp/articles/5f5f0f131a150a9abfefb17c673ddce57805974f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Circle、野村とUSDC活用の外貨即時決済へ──日本企業向けに2027年にも開始か＝日経",
+        "url": "https://news.yahoo.co.jp/articles/9788cef33e6fabe7b9f13ad8054f94dc85a4f739",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、ビットバンクを買収 暗号資産トップクラスに",
         "url": "https://news.yahoo.co.jp/articles/d8352767db0eec27adef2d6de84bebbb7092a1e6",
         "source": "Yahoo",
@@ -5399,12 +5441,6 @@
       {
         "title": "マネーグラム、ソラナのバリデータに。開発基盤SDPにも参加",
         "url": "https://news.yahoo.co.jp/articles/0b8e9b142fbfe3409348db132b1105bbe163c508",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "チェーンリンク、欧韓銀行連合とFX向けT+0決済基盤「プロジェクト・パンゲア」始動",
-        "url": "https://news.yahoo.co.jp/articles/5f5f0f131a150a9abfefb17c673ddce57805974f",
         "source": "Yahoo",
         "date": ""
       }
