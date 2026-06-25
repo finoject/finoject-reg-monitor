@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-06-24T22:50:29.207Z",
+  "generatedAt": "2026-06-25T01:35:42.429Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "債券貸借取引残高等状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/taishaku/index.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T01:35:42.429Z",
+      "enrichV": 2,
+      "updated": true,
+      "enriched": "2026-06-25T01:35:47.985Z",
+      "aiSummary": [
+        "債券貸借取引残高等状況の公表統計について、2009年1月取引分より集計方法を改め、公表名称を「債券貸借取引状況」から「債券貸借取引残高等状況」に変更した。",
+        "報告対象をディーリング勘定のみに限定し、外貨建債券・短期社債・手形CPを除外し、投資家別内訳を「公社債投資家別現先売買月末残高」と整合させた。",
+        "毎月25日に更新される本統計は、債券貸借取引残高を金融機関・事業法人・外国人・個人等の投資家別に月末残高でまとめており、2009年1月以降のデータが対象。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "上場有価証券の発行会社が発行した店頭取扱有価証券の売買状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/toriatsukai/index.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T01:35:42.429Z",
+      "enrichV": 2,
+      "updated": true,
+      "enriched": "2026-06-25T01:35:47.985Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【挨拶】田村審議委員「わが国の経済・物価情勢と金融政策」（兵庫）",
+      "url": "https://www.boj.or.jp/about/press/koen_2026/ko260625a.htm",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T01:35:42.429Z",
+      "enriched": "2026-06-25T01:35:47.985Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年4月の見通しで、中東情勢に伴う原油価格上昇により2026年度の経済成長率を下方修正し、2026年度1.0％から0.5％に引き下げた。同時に消費者物価も上昇圧力が強まる見通しに修正された。",
+        "企業マインドは業況判断DIで全産業18、製造業12、非製造業21と良好水準を保つ一方、原油高による実質所得低下と物価上昇が経済下押し要因となるため、政府のエネルギー負担緩和策などが影響し消費者物価は前年比1.5％程度に低下している。",
+        "日本銀行は先行きの経済下振れリスク（原油価格高止まり時）に注意し、賃金上昇と予想物価上昇率の動向、物価の持続性が経済見通しを大きく左右する要因として重視している（2026年4月見通しベース）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "証券業報 2026年6月",
+      "url": "https://www.jsda.or.jp/about/gaiyou/gyouhou/2026/2606gyouhou.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T01:35:42.429Z",
+      "enriched": "2026-06-25T01:35:47.986Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "日本銀行",
+      "title": "資金循環統計（速報）（2026年第1四半期）及び遡及改定について",
+      "url": "https://www.boj.or.jp/statistics/sj/sj.htm",
+      "date": "2026-06-24",
+      "detectedAt": "2026-06-25T01:35:42.429Z",
+      "enriched": "2026-06-25T01:35:47.986Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年6月25日、2026年第1四半期（1～3月）の資金循環統計速報を公表し、同時に2005年以降の全計数について遡及改定を実施した。",
+        "金融機関・企業・家計等の各部門の資金運用・調達額、資金過不足、金融資産・負債残高等の統計データを確認する必要があり、遡及改定値は時系列統計データ検索サイトで入手可能である。",
+        "改定は基礎資料の新規取得・制度変更反映・推計方法見直しに基づくもので、詳細は5月25日公表の「遡及改定（予定）について」で示されている。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "「企業内容等の開示に関する内閣府令第十九条の九第五項に規定するサステナビリティ開示基準を指定する件の一部を改正する件」（案）に対するパブリックコメントの実施の公表",
@@ -3298,24 +3363,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "債券貸借取引残高等状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/taishaku/index.html",
-      "date": "2026-05-25",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:02:57.716Z",
-      "enrichV": 2
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "上場有価証券の発行会社が発行した店頭取扱有価証券の売買状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/toriatsukai/index.html",
-      "date": "2026-05-25",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:02:57.716Z",
-      "enrichV": 2
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "証券業報 2026年5月",
       "url": "https://www.jsda.or.jp/about/gaiyou/gyouhou/2026/2605gyouhou.html",
       "date": "2026-05-25",
@@ -4572,7 +4619,13 @@
       "date": "2026-04-03",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:03:54.210Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2026年2月11日にロンドンで第15回日本証券サミットを開催し、約350名の海外金融機関・投資家が参加して日本経済・証券市場への投資機会を議論、官民連携による海外向けPRイベント実施。",
+        "財務大臣は資産運用立国実現に向けコーポレートガバナンス改革・成長資金供給・アセットオーナー機能向上を2026年夏までに金融戦略として策定し、NISAは2024年1月の抜本拡充後2700万口座に達した対応を紹介。",
+        "金融庁・JPX・財務省は国債発行計画・市場再編・資本効率改善・トランジション・ファイナンス・ブロックチェーン決済高度化等の施策を説明し、東京国際金融機構はトランジション・ファイナンスで東京をハブ化する方針を提示。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本公認会計士協会",
@@ -4846,6 +4899,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
+        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYSC、すでに38億円相当発行──SBIが国内初の信託型円ステーブルコイン 信託型ステーブルコイン誕生までの経緯 日本では、2023年6月に改正資金決済法が施行され、ステーブルコインは暗号資産とは別の「電子決済手段」として制",
         "url": "https://news.yahoo.co.jp/articles/7a986291ff81cfd8268468eb5473f853738c859d",
         "source": "Yahoo",
@@ -4872,18 +4931,18 @@
       {
         "title": "AWS、CloudFrontとWAFにCoinbaseのx402を統合──AIエージェントへのコンテンツ課金が「ブロック」から「課金」へ【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/0647916c57b5611877b2aa1b8efbc05ce07cf404",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本の年金マネーが暗号資産へ──日経新聞でコメントした背景を解説【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/c53bc548209b9988cc0ae9223d340658a1af52b2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
+        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYSC、すでに38億円相当発行──SBIが国内初の信託型円ステーブルコイン 信託型ステーブルコイン誕生までの経緯 日本では、2023年6月に改正資金決済法が施行され、ステーブルコインは暗号資産とは別の「電子決済手段」として制",
         "url": "https://news.yahoo.co.jp/articles/7a986291ff81cfd8268468eb5473f853738c859d",
         "source": "Yahoo",
@@ -4912,15 +4971,21 @@
         "url": "https://news.yahoo.co.jp/articles/0647916c57b5611877b2aa1b8efbc05ce07cf404",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "日本の年金マネーが暗号資産へ──日経新聞でコメントした背景を解説【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/c53bc548209b9988cc0ae9223d340658a1af52b2",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "バイナンスＥＵ撤退を否定 ギリシャ認可却下も他国で事業継続へ",
+        "url": "https://news.yahoo.co.jp/articles/1e7ce77bc5dce64f93e5e0984dc5c9d132b400df",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
+        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "Binance、ギリシャでのMiCA申請取り下げ",
         "url": "https://news.yahoo.co.jp/articles/ffe7c4673f2ab53d7f5ac6901448caf80264cdbf",
@@ -4942,24 +5007,24 @@
       {
         "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
         "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンカレッジ・デジタル、銀行向けトークン化預金インフラ提供開始",
-        "url": "https://news.yahoo.co.jp/articles/f7764bf3340b6f83dc4c78324aec4b9b5b26fd7b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米上院、CBDC発行禁止条項盛り込んだ住宅法案を可決、大統領署名へ",
-        "url": "https://news.yahoo.co.jp/articles/93a0257be8e8c38163ffb3de6bb47cf36ad2354f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "バイナンスＥＵ撤退を否定 ギリシャ認可却下も他国で事業継続へ",
+        "url": "https://news.yahoo.co.jp/articles/1e7ce77bc5dce64f93e5e0984dc5c9d132b400df",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
+        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Binance、ギリシャでのMiCA申請取り下げ",
         "url": "https://news.yahoo.co.jp/articles/ffe7c4673f2ab53d7f5ac6901448caf80264cdbf",
         "source": "Yahoo",
@@ -4982,21 +5047,15 @@
         "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "アンカレッジ・デジタル、銀行向けトークン化預金インフラ提供開始",
-        "url": "https://news.yahoo.co.jp/articles/f7764bf3340b6f83dc4c78324aec4b9b5b26fd7b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米上院、CBDC発行禁止条項盛り込んだ住宅法案を可決、大統領署名へ",
-        "url": "https://news.yahoo.co.jp/articles/93a0257be8e8c38163ffb3de6bb47cf36ad2354f",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし JPYSCは信託銀行が裏付け資産を管理する「信託型」で、各社によると国内初。先行する資金移動業型のステーブルコインと違い、1回あたりの送金や口座残高にかかる100万",
+        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
         "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
@@ -5024,18 +5083,18 @@
       {
         "title": "SBI、円ステーブルコイン「JPYSC」週内にも発行へ──金融庁が承認、信託型で国内初＝日経 2025年10月に発行された国内初のステーブルコイン「JPYC」は、資金移動業者が発行する形態であり、1回あたりの発行額に100万円の上限がある。",
         "url": "https://news.yahoo.co.jp/articles/88f2e2f5d8b5d274b49ae97751b045b1ed73c406",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JR西日本、決済サービス「Wesmo!」がモバイルICOCAチャージやオンライン決済対応",
-        "url": "https://news.yahoo.co.jp/articles/5b5892c4b066fad4feec35dc7298c39da70b7e1b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし JPYSCは信託銀行が裏付け資産を管理する「信託型」で、各社によると国内初。先行する資金移動業型のステーブルコインと違い、1回あたりの送金や口座残高にかかる100万",
+        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
         "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
         "source": "Yahoo",
@@ -5062,12 +5121,6 @@
       {
         "title": "SBI、円ステーブルコイン「JPYSC」週内にも発行へ──金融庁が承認、信託型で国内初＝日経 2025年10月に発行された国内初のステーブルコイン「JPYC」は、資金移動業者が発行する形態であり、1回あたりの発行額に100万円の上限がある。",
         "url": "https://news.yahoo.co.jp/articles/88f2e2f5d8b5d274b49ae97751b045b1ed73c406",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JR西日本、決済サービス「Wesmo!」がモバイルICOCAチャージやオンライン決済対応",
-        "url": "https://news.yahoo.co.jp/articles/5b5892c4b066fad4feec35dc7298c39da70b7e1b",
         "source": "Yahoo",
         "date": ""
       }
@@ -5150,6 +5203,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
+        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコインの4年サイクルはまだ終わっていない＝21Shares",
+        "url": "https://news.yahoo.co.jp/articles/bf38db7c36e362c955727c4ae0bd6178c6cc6382",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DeFiのTVLは2026年に39%減少──市場低迷とハッキング頻発が重荷",
+        "url": "https://news.yahoo.co.jp/articles/f158e493d359bc119974fab07ed46ac8102f3a32",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ大統領、CBDC禁止を含む住宅関連法案への署名中止",
         "url": "https://news.yahoo.co.jp/articles/e9f9845033cdc02135fcff251961352fdd7ee8c3",
         "source": "Yahoo",
@@ -5164,30 +5235,30 @@
       {
         "title": "SBI、ステーブルコイン発行 SBIホールディングス は24日、日本円建ての電子決済手段「ステーブルコイン（SC）」を発行したと発表した。信託銀行が裏付け資産を管理する信託型",
         "url": "https://news.yahoo.co.jp/articles/afbcfeca6722d5209adf90c2713669429914dccb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、ステーブルコイン発行 「信託型」で国内初 SBIホールディングスは24日、日本円建ての電子決済手段「ステーブルコイン（SC）」を発行したと発表した。 信託銀行が裏付け資産を管理する「信託",
-        "url": "https://news.yahoo.co.jp/articles/bcbf3b12280161f5d5837fc1596a8606121292fa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【続報】JPYSC、初日発行量が100億円相当に到達",
-        "url": "https://news.yahoo.co.jp/articles/44c794af01e723fce7b43aa423b463b2788a220a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
-        "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
+        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコインの4年サイクルはまだ終わっていない＝21Shares",
+        "url": "https://news.yahoo.co.jp/articles/bf38db7c36e362c955727c4ae0bd6178c6cc6382",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DeFiのTVLは2026年に39%減少──市場低迷とハッキング頻発が重荷",
+        "url": "https://news.yahoo.co.jp/articles/f158e493d359bc119974fab07ed46ac8102f3a32",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ大統領、CBDC禁止を含む住宅関連法案への署名中止",
         "url": "https://news.yahoo.co.jp/articles/e9f9845033cdc02135fcff251961352fdd7ee8c3",
         "source": "Yahoo",
@@ -5202,24 +5273,6 @@
       {
         "title": "SBI、ステーブルコイン発行 SBIホールディングス は24日、日本円建ての電子決済手段「ステーブルコイン（SC）」を発行したと発表した。信託銀行が裏付け資産を管理する信託型",
         "url": "https://news.yahoo.co.jp/articles/afbcfeca6722d5209adf90c2713669429914dccb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、ステーブルコイン発行 「信託型」で国内初 SBIホールディングスは24日、日本円建ての電子決済手段「ステーブルコイン（SC）」を発行したと発表した。 信託銀行が裏付け資産を管理する「信託",
-        "url": "https://news.yahoo.co.jp/articles/bcbf3b12280161f5d5837fc1596a8606121292fa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【続報】JPYSC、初日発行量が100億円相当に到達",
-        "url": "https://news.yahoo.co.jp/articles/44c794af01e723fce7b43aa423b463b2788a220a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
-        "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
         "source": "Yahoo",
         "date": ""
       }
