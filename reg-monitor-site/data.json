@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-06-25T01:35:42.429Z",
+  "generatedAt": "2026-06-25T05:51:03.775Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "【対談】青山学院大学陸上競技部長距離ブロック監督、同大学地球社会共生学部教授 原晋氏 vs 植田和男総裁（広報誌「にちぎん」No.86 2026年夏号）",
+      "url": "https://www.boj.or.jp/about/koho_nichigin/backnumber/86-5.htm",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T05:51:03.775Z",
+      "enriched": "2026-06-25T05:51:09.399Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "この対談は日本銀行広報誌の記事であり、金融規制に関する公表物ではなく、スポーツ経営の事例紹介のため、実務担当者が知るべき金融規制上の具体的内容はない。",
+        "原監督の指導理論「技体心」とスポーツマネジメントの実践内容が述べられているが、金融機関のコンプライアンス実務に直結する改正・新設・廃止条項や基準値等の規制要件は含まれていない。",
+        "本文は青学駅伝チームの組織論と経営哲学の対談であり、金融規制当局の公表物としての法令改正や実務上の対応義務に関する情報を提供していない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【地域の底力】福岡県柳川市（広報誌「にちぎん」No.86 2026年夏号）",
+      "url": "https://www.boj.or.jp/about/koho_nichigin/backnumber/86-4.htm",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T05:51:03.775Z",
+      "enriched": "2026-06-25T05:51:09.399Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "福岡県柳川市は全長930キロメートルの掘割を有し、農業用水・治水機能と年間120万人を集める観光資源の二重の役割を果たしている。",
+        "柳川市は筑紫平野南西部に位置し、麦・大豆で県内一、ノリ養殖等の有明海漁業は全国的に有名であり、観光交流施設整備と農漁業振興に取り組んでいる。",
+        "本記事は日本銀行広報誌「にちぎん」No.86（2026年夏号）の掲載内容であり、金融規制の具体的改正や実務指針は含まれていない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【インタビュー】江戸東京博物館館長・建築家・建築史家 藤森照信氏（広報誌「にちぎん」No.86 2026年夏号）",
+      "url": "https://www.boj.or.jp/about/koho_nichigin/backnumber/86-3.htm",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T05:51:03.775Z",
+      "enriched": "2026-06-25T05:51:09.400Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "江戸東京博物館は2026年春リニューアルオープンし、建築家・重松象平氏監修による空間デザイン採用、大型映像投影で没入感を高め、1階西側に鳥居モチーフ工作物設置、3階「江戸東京ひろば」で天井・柱面に映像投影、芝居小屋「中村座」内部公開、「服部時計店」模型に改修。",
+        "来館者向けには江戸東京の歴史・文化を知識習得の入口として提供し、学校団体3割に対して日本文化継承を推進、インバウンド集客も期待し、特別展『洋館明治の夢と挑戦』で日銀開拓使物産売捌所図面等を展示する。",
+        "日本銀行本店本館はジョージアン様式で辰野金吾が設計し、近代建築界で職能としての建築家を根付かせ、産業革命期の日本の位置を見定めた中央銀行建物として評価される、渋沢栄一がパトロンの支援を受けた。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "広報誌「にちぎん」（2026年夏号掲載）",
+      "url": "https://www.boj.or.jp/about/koho_nichigin/index.htm",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T05:51:03.775Z",
+      "enriched": "2026-06-25T05:51:09.400Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の広報誌「にちぎん」86号（2026年夏号）は2026年6月25日に発刊され、経済・物価情勢の展望（2026年4月版）と金融システムレポート（2026年4月版）を掲載している。",
+        "全国の日本銀行本支店、貨幣博物館、旧小樽支店金融資料館で入手可能であり、全文はPDFファイル形式で公開されている。また読者アンケートが受け付けられている。",
+        "本号では資産形成の出発点として生活設計と家計管理から始めるお金の整理をテーマとし、国際コンファランス開催などのトピックスが掲載されている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "令和8年6月24日からの大雨に伴う災害等に対する金融上の措置について（鹿児島県）",
+      "url": "https://www.boj.or.jp/about/bcp/fso/fso260625a.pdf",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T05:51:03.775Z",
+      "enriched": "2026-06-25T05:51:09.400Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和8年6月24日からの大雨で災害救助法が適用された鹿児島県内の被災者に対し、預貯金機関・証券会社・保険会社等に金融上の措置を講ずるよう要請した。",
+        "預金機関は通帳紛失時も被災状況に基づく本人確認で払戻に応じ、定期預金の期限前払戻しや融資相談所開設、返済猶予等で被災者に配慮すること。",
+        "証券会社は印鑑紛失時も本人確認で払戻対応、保険会社は保険証券紛失時も保険契約内容確認で保険金請求案内を行い、保険料払込猶予を適宜措置すること。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "債券貸借取引残高等状況",
@@ -25,7 +100,13 @@
       "detectedAt": "2026-06-25T01:35:42.429Z",
       "enrichV": 2,
       "updated": true,
-      "enriched": "2026-06-25T01:35:47.985Z"
+      "enriched": "2026-06-25T01:35:47.985Z",
+      "aiSummary": [
+        "日本証券業協会の会員が売買した上場会社発行の店頭取扱有価証券（非上場株式・転換社債等）について、売買状況の統計を定期的に公表する。",
+        "協会会員は、継続開示会社又は一定開示能力を持つ上場会社が発行する店頭取扱有価証券の売買を行った場合、売買状況を報告する必要がある。",
+        "本統計は月次で集計・公表されるもので、2026年1月～5月分は現在報告がない状況。過去データは2006年以降分が保存されている。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本銀行",
@@ -49,7 +130,13 @@
       "date": "2026-06-25",
       "detectedAt": "2026-06-25T01:35:42.429Z",
       "enriched": "2026-06-25T01:35:47.986Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "2025年度に協会員250社の営業収益は6兆8,688億円（前期比13%増）、純営業収益は4兆9,965億円（同10%増）、当期純利益は9,681億円（同21%増）と前期を上回った。",
+        "黒字会社は215社（全体の86%、前期比12社増）、赤字会社は35社（14%）となり、大手証券5社は全て黒字で、本庁監理会社の黒字率92%に対し財務局監理会社は84%。",
+        "受入手数料が3兆4,852億円（同14%増）で営業収益を牽引し、特に委託手数料8,113億円（同25%増）、金融収益2兆5,549億円（同15%増）が成長、一方金融費用は1兆8,722億円（同19%増）に拡大。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本銀行",
@@ -4975,76 +5062,76 @@
     ],
     "429M60000002007": [
       {
-        "title": "バイナンスＥＵ撤退を否定 ギリシャ認可却下も他国で事業継続へ",
-        "url": "https://news.yahoo.co.jp/articles/1e7ce77bc5dce64f93e5e0984dc5c9d132b400df",
+        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
+        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
-        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
+        "title": "トランプ大統領、住宅法案の署名見送り。CBDC禁止条項の成立時期も不透明に",
+        "url": "https://news.yahoo.co.jp/articles/28c9896aefd41a4ba53d8b9c3704bb026568400b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Binance、ギリシャでのMiCA申請取り下げ",
-        "url": "https://news.yahoo.co.jp/articles/ffe7c4673f2ab53d7f5ac6901448caf80264cdbf",
+        "title": "カルシが約400億ドル評価で資金調達協議か、企業価値は約1ヶ月半で約1.8倍に＝報道",
+        "url": "https://news.yahoo.co.jp/articles/27b941a80cfe1ea013c1a290bd477a697ac69d38",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ニューヨーク民主予備選、テック億万長者が代理戦争-AI規制で対立",
-        "url": "https://news.yahoo.co.jp/articles/baf5ca7296fb5a8e337540aa6c19d7892d0023a4",
+        "title": "SNS界の巨人・Meta社が予測市場へ再挑戦",
+        "url": "https://news.yahoo.co.jp/expert/articles/7c0b29e224a60d5d715164e726ccd1952952e4d7",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "DCG傘下のZcashマイニング企業Fortitude、2026年下半期にナスダック上場へ──ZEC価格にも注目【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/8ee471f74ff15e5e684aea89a9f4b41f9db0fad7",
+        "title": "チェーンリンク、欧韓銀行連合とFX向けT+0決済基盤「プロジェクト・パンゲア」始動",
+        "url": "https://news.yahoo.co.jp/articles/5f5f0f131a150a9abfefb17c673ddce57805974f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
-        "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
+        "title": "米議会、暗号資産企業向け「簡易版マスターアカウント」を議論＝The Block",
+        "url": "https://news.yahoo.co.jp/articles/afa824cee22933cec6c2766d4b6893a39a01bf00",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
-        "title": "バイナンスＥＵ撤退を否定 ギリシャ認可却下も他国で事業継続へ",
-        "url": "https://news.yahoo.co.jp/articles/1e7ce77bc5dce64f93e5e0984dc5c9d132b400df",
+        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
+        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
-        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
+        "title": "トランプ大統領、住宅法案の署名見送り。CBDC禁止条項の成立時期も不透明に",
+        "url": "https://news.yahoo.co.jp/articles/28c9896aefd41a4ba53d8b9c3704bb026568400b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Binance、ギリシャでのMiCA申請取り下げ",
-        "url": "https://news.yahoo.co.jp/articles/ffe7c4673f2ab53d7f5ac6901448caf80264cdbf",
+        "title": "カルシが約400億ドル評価で資金調達協議か、企業価値は約1ヶ月半で約1.8倍に＝報道",
+        "url": "https://news.yahoo.co.jp/articles/27b941a80cfe1ea013c1a290bd477a697ac69d38",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ニューヨーク民主予備選、テック億万長者が代理戦争-AI規制で対立",
-        "url": "https://news.yahoo.co.jp/articles/baf5ca7296fb5a8e337540aa6c19d7892d0023a4",
+        "title": "SNS界の巨人・Meta社が予測市場へ再挑戦",
+        "url": "https://news.yahoo.co.jp/expert/articles/7c0b29e224a60d5d715164e726ccd1952952e4d7",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "DCG傘下のZcashマイニング企業Fortitude、2026年下半期にナスダック上場へ──ZEC価格にも注目【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/8ee471f74ff15e5e684aea89a9f4b41f9db0fad7",
+        "title": "チェーンリンク、欧韓銀行連合とFX向けT+0決済基盤「プロジェクト・パンゲア」始動",
+        "url": "https://news.yahoo.co.jp/articles/5f5f0f131a150a9abfefb17c673ddce57805974f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
-        "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
+        "title": "米議会、暗号資産企業向け「簡易版マスターアカウント」を議論＝The Block",
+        "url": "https://news.yahoo.co.jp/articles/afa824cee22933cec6c2766d4b6893a39a01bf00",
         "source": "Yahoo",
         "date": ""
       }
@@ -5203,6 +5290,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
+        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マネーグラム、ソラナのバリデータに。開発基盤SDPにも参加",
+        "url": "https://news.yahoo.co.jp/articles/0b8e9b142fbfe3409348db132b1105bbe163c508",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "チェーンリンク、欧韓銀行連合とFX向けT+0決済基盤「プロジェクト・パンゲア」始動",
+        "url": "https://news.yahoo.co.jp/articles/5f5f0f131a150a9abfefb17c673ddce57805974f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
         "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
         "source": "Yahoo",
@@ -5217,30 +5322,30 @@
       {
         "title": "DeFiのTVLは2026年に39%減少──市場低迷とハッキング頻発が重荷",
         "url": "https://news.yahoo.co.jp/articles/f158e493d359bc119974fab07ed46ac8102f3a32",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、CBDC禁止を含む住宅関連法案への署名中止",
-        "url": "https://news.yahoo.co.jp/articles/e9f9845033cdc02135fcff251961352fdd7ee8c3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインチェック、法人向けオンチェーン分析レポートを本格展開──キリフダと協働で定期発信",
-        "url": "https://news.yahoo.co.jp/articles/3fdc97a64de2819e56bf4466ac9a18a7ab2f8a54",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、ステーブルコイン発行 SBIホールディングス は24日、日本円建ての電子決済手段「ステーブルコイン（SC）」を発行したと発表した。信託銀行が裏付け資産を管理する信託型",
-        "url": "https://news.yahoo.co.jp/articles/afbcfeca6722d5209adf90c2713669429914dccb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
+        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マネーグラム、ソラナのバリデータに。開発基盤SDPにも参加",
+        "url": "https://news.yahoo.co.jp/articles/0b8e9b142fbfe3409348db132b1105bbe163c508",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "チェーンリンク、欧韓銀行連合とFX向けT+0決済基盤「プロジェクト・パンゲア」始動",
+        "url": "https://news.yahoo.co.jp/articles/5f5f0f131a150a9abfefb17c673ddce57805974f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
         "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
         "source": "Yahoo",
@@ -5257,27 +5362,15 @@
         "url": "https://news.yahoo.co.jp/articles/f158e493d359bc119974fab07ed46ac8102f3a32",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "トランプ大統領、CBDC禁止を含む住宅関連法案への署名中止",
-        "url": "https://news.yahoo.co.jp/articles/e9f9845033cdc02135fcff251961352fdd7ee8c3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインチェック、法人向けオンチェーン分析レポートを本格展開──キリフダと協働で定期発信",
-        "url": "https://news.yahoo.co.jp/articles/3fdc97a64de2819e56bf4466ac9a18a7ab2f8a54",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、ステーブルコイン発行 SBIホールディングス は24日、日本円建ての電子決済手段「ステーブルコイン（SC）」を発行したと発表した。信託銀行が裏付け資産を管理する信託型",
-        "url": "https://news.yahoo.co.jp/articles/afbcfeca6722d5209adf90c2713669429914dccb",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
+        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
@@ -5305,18 +5398,18 @@
       {
         "title": "【独自】高市政権「骨太の方針」にステーブルコイン、トークン化預金の利用拡大──自民党「次世代AI・オンチェーン金融構想PT」が提言",
         "url": "https://news.yahoo.co.jp/articles/83754240300182437b247147d6849f8dbde414c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「日本がゆるいから」巨大犯罪組織が目を付けたその“魅力” アジア・マネーが不動産を爆買い",
-        "url": "https://news.yahoo.co.jp/articles/2139df96fa8a4565be1cf91c346e3d3a540422da",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
+        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
         "source": "Yahoo",
@@ -5343,18 +5436,18 @@
       {
         "title": "【独自】高市政権「骨太の方針」にステーブルコイン、トークン化預金の利用拡大──自民党「次世代AI・オンチェーン金融構想PT」が提言",
         "url": "https://news.yahoo.co.jp/articles/83754240300182437b247147d6849f8dbde414c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「日本がゆるいから」巨大犯罪組織が目を付けたその“魅力” アジア・マネーが不動産を爆買い",
-        "url": "https://news.yahoo.co.jp/articles/2139df96fa8a4565be1cf91c346e3d3a540422da",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
+        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
         "source": "Yahoo",
@@ -5381,12 +5474,6 @@
       {
         "title": "【独自】高市政権「骨太の方針」にステーブルコイン、トークン化預金の利用拡大──自民党「次世代AI・オンチェーン金融構想PT」が提言",
         "url": "https://news.yahoo.co.jp/articles/83754240300182437b247147d6849f8dbde414c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「日本がゆるいから」巨大犯罪組織が目を付けたその“魅力” アジア・マネーが不動産を爆買い",
-        "url": "https://news.yahoo.co.jp/articles/2139df96fa8a4565be1cf91c346e3d3a540422da",
         "source": "Yahoo",
         "date": ""
       }
@@ -5993,6 +6080,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
+        "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "5:28写真の映り込みも危険 SNS投稿で情報漏えいのリスク",
         "url": "https://news.yahoo.co.jp/articles/ef5092de6f676655993ff36a3ad7575ff3efcbcd",
         "source": "Yahoo",
@@ -6019,18 +6112,18 @@
       {
         "title": "これほど底が抜けた法案は初めてだーー中道改革連合・長妻昭衆院議員が追及する個人情報保護法改正をめぐるリスクと「抜け道」の問題",
         "url": "https://news.yahoo.co.jp/articles/29c0439fe4fa1c9ba37fe0eff9ebf3ad8f1db8c4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "購買履歴や金融情報が狙われている",
-        "url": "https://news.yahoo.co.jp/articles/063164e4a9bb47f74ab0c6e40480cc1c5734d16d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
+        "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "5:28写真の映り込みも危険 SNS投稿で情報漏えいのリスク",
         "url": "https://news.yahoo.co.jp/articles/ef5092de6f676655993ff36a3ad7575ff3efcbcd",
         "source": "Yahoo",
@@ -6057,18 +6150,18 @@
       {
         "title": "これほど底が抜けた法案は初めてだーー中道改革連合・長妻昭衆院議員が追及する個人情報保護法改正をめぐるリスクと「抜け道」の問題",
         "url": "https://news.yahoo.co.jp/articles/29c0439fe4fa1c9ba37fe0eff9ebf3ad8f1db8c4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "購買履歴や金融情報が狙われている",
-        "url": "https://news.yahoo.co.jp/articles/063164e4a9bb47f74ab0c6e40480cc1c5734d16d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
+        "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "5:28写真の映り込みも危険 SNS投稿で情報漏えいのリスク",
         "url": "https://news.yahoo.co.jp/articles/ef5092de6f676655993ff36a3ad7575ff3efcbcd",
         "source": "Yahoo",
@@ -6095,12 +6188,6 @@
       {
         "title": "これほど底が抜けた法案は初めてだーー中道改革連合・長妻昭衆院議員が追及する個人情報保護法改正をめぐるリスクと「抜け道」の問題",
         "url": "https://news.yahoo.co.jp/articles/29c0439fe4fa1c9ba37fe0eff9ebf3ad8f1db8c4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "購買履歴や金融情報が狙われている",
-        "url": "https://news.yahoo.co.jp/articles/063164e4a9bb47f74ab0c6e40480cc1c5734d16d",
         "source": "Yahoo",
         "date": ""
       }
