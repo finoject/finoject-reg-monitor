@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T20:49:48.743Z",
+  "generatedAt": "2026-06-25T23:01:45.698Z",
   "items": [
     {
       "agency": "金融庁",
@@ -3548,7 +3548,13 @@
       "date": "2026-05-25",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:02:57.716Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "協会員の状況について、規則改正の詳細は別途「規則改正の概要及び新旧対照表」で確認が必要であり、本号では具体的な改正内容の掲載がない。",
+        "証券業報に従来掲載していた証券関係諸統計は、統計情報ページに移管されたため、統計データの確認先を変更する必要がある。",
+        "金融商品取引業者等の協会員状況と特別会員（登録金融機関）の状況について、本号では特定業務会員関係の掲載事項がない状況にある。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "金融庁",
@@ -4927,6 +4933,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
+        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
         "source": "Yahoo",
@@ -4953,18 +4965,18 @@
       {
         "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明 金融庁 金融庁と関東財務局は6月19日、「moomoo証券」（東京都渋谷区）に対し、金融商品取引法に基づく行政処分を出したと発表した。同社が少額投資非課税制度（NIS",
         "url": "https://news.yahoo.co.jp/articles/bcf71787cc7889fa0dfec65b3f96c002845c5eb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "575億円集金か、監視委が禁止申し立て 無登録で出資を募ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資会社に違反行為の禁止や停止を命じるよう東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/b1fe69cf003ae5f22f95c4c2b567f2b11a96b380",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
+        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
         "source": "Yahoo",
@@ -4991,18 +5003,18 @@
       {
         "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明 金融庁 金融庁と関東財務局は6月19日、「moomoo証券」（東京都渋谷区）に対し、金融商品取引法に基づく行政処分を出したと発表した。同社が少額投資非課税制度（NIS",
         "url": "https://news.yahoo.co.jp/articles/bcf71787cc7889fa0dfec65b3f96c002845c5eb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "575億円集金か、監視委が禁止申し立て 無登録で出資を募ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資会社に違反行為の禁止や停止を命じるよう東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/b1fe69cf003ae5f22f95c4c2b567f2b11a96b380",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
+        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
         "source": "Yahoo",
@@ -5029,18 +5041,18 @@
       {
         "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明 金融庁 金融庁と関東財務局は6月19日、「moomoo証券」（東京都渋谷区）に対し、金融商品取引法に基づく行政処分を出したと発表した。同社が少額投資非課税制度（NIS",
         "url": "https://news.yahoo.co.jp/articles/bcf71787cc7889fa0dfec65b3f96c002845c5eb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "575億円集金か、監視委が禁止申し立て 無登録で出資を募ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資会社に違反行為の禁止や停止を命じるよう東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/b1fe69cf003ae5f22f95c4c2b567f2b11a96b380",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
+        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
         "source": "Yahoo",
@@ -5069,15 +5081,21 @@
         "url": "https://news.yahoo.co.jp/articles/bcf71787cc7889fa0dfec65b3f96c002845c5eb1",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "575億円集金か、監視委が禁止申し立て 無登録で出資を募ったとして、証券取引等監視委員会は19日、金融商品取引法に基づき、シンガポールの投資会社に違反行為の禁止や停止を命じるよう東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/b1fe69cf003ae5f22f95c4c2b567f2b11a96b380",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "フロンティアAI企業はなぜ「Stripe」を選ぶ？ 日本企業が学ぶべき「4つの観点」",
+        "url": "https://news.yahoo.co.jp/articles/a9ffefa068e212188a293bd2fac6f39f7aa889d1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
+        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
         "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
@@ -5099,24 +5117,24 @@
       {
         "title": "高市首相、「SANAE TOKEN」承認を否定。金融庁への損失相談は3件",
         "url": "https://news.yahoo.co.jp/articles/5683c3e24ff154c098f5012b9cfa2918c1366866",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市総理「何の犯罪を犯して",
-        "url": "https://news.yahoo.co.jp/articles/7deeb5eef21ec726dbd80fd6249df631f34f9fbc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "フロンティアAI企業はなぜ「Stripe」を選ぶ？ 日本企業が学ぶべき「4つの観点」",
+        "url": "https://news.yahoo.co.jp/articles/a9ffefa068e212188a293bd2fac6f39f7aa889d1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
+        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
         "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
         "source": "Yahoo",
@@ -5139,21 +5157,33 @@
         "url": "https://news.yahoo.co.jp/articles/5683c3e24ff154c098f5012b9cfa2918c1366866",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市総理「何の犯罪を犯して",
-        "url": "https://news.yahoo.co.jp/articles/7deeb5eef21ec726dbd80fd6249df631f34f9fbc",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "ワールドカップが人々を暗号資産の世界へ導く＝Bitget Wallet",
+        "url": "https://news.yahoo.co.jp/articles/d98cd029c122fb8a5d076694adeea4d09bd71b4f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Invesco、ステーブルコイン準備資産向けトークン化ファンドを申請",
+        "url": "https://news.yahoo.co.jp/articles/2bac7ce5ace7e9de47855af573f315a5b10b0da0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "フロンティアAI企業はなぜ「Stripe」を選ぶ？ 日本企業が学ぶべき「4つの観点」",
+        "url": "https://news.yahoo.co.jp/articles/a9ffefa068e212188a293bd2fac6f39f7aa889d1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
+        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "予測市場の次なる進化形「メタマーケット」とは──Predictive Labs CEOが語る市場インテリジェンス",
         "url": "https://news.yahoo.co.jp/articles/c6018d0e3f230ba7796217bde9086d155ac2b557",
@@ -5163,36 +5193,36 @@
       {
         "title": "ビットコイン下落、個人投資家離れで市場のぜい弱さ露呈",
         "url": "https://news.yahoo.co.jp/articles/56fbdcd68e1e3e892e903dcb0de08adf25ba77f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
-        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、住宅法案の署名見送り。CBDC禁止条項の成立時期も不透明に",
-        "url": "https://news.yahoo.co.jp/articles/28c9896aefd41a4ba53d8b9c3704bb026568400b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カルシが約400億ドル評価で資金調達協議か、企業価値は約1ヶ月半で約1.8倍に＝報道",
-        "url": "https://news.yahoo.co.jp/articles/27b941a80cfe1ea013c1a290bd477a697ac69d38",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SNS界の巨人・Meta社が予測市場へ再挑戦",
-        "url": "https://news.yahoo.co.jp/expert/articles/7c0b29e224a60d5d715164e726ccd1952952e4d7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ワールドカップが人々を暗号資産の世界へ導く＝Bitget Wallet",
+        "url": "https://news.yahoo.co.jp/articles/d98cd029c122fb8a5d076694adeea4d09bd71b4f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Invesco、ステーブルコイン準備資産向けトークン化ファンドを申請",
+        "url": "https://news.yahoo.co.jp/articles/2bac7ce5ace7e9de47855af573f315a5b10b0da0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "フロンティアAI企業はなぜ「Stripe」を選ぶ？ 日本企業が学ぶべき「4つの観点」",
+        "url": "https://news.yahoo.co.jp/articles/a9ffefa068e212188a293bd2fac6f39f7aa889d1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
+        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "予測市場の次なる進化形「メタマーケット」とは──Predictive Labs CEOが語る市場インテリジェンス",
         "url": "https://news.yahoo.co.jp/articles/c6018d0e3f230ba7796217bde9086d155ac2b557",
         "source": "Yahoo",
@@ -5201,30 +5231,6 @@
       {
         "title": "ビットコイン下落、個人投資家離れで市場のぜい弱さ露呈",
         "url": "https://news.yahoo.co.jp/articles/56fbdcd68e1e3e892e903dcb0de08adf25ba77f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
-        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、住宅法案の署名見送り。CBDC禁止条項の成立時期も不透明に",
-        "url": "https://news.yahoo.co.jp/articles/28c9896aefd41a4ba53d8b9c3704bb026568400b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カルシが約400億ドル評価で資金調達協議か、企業価値は約1ヶ月半で約1.8倍に＝報道",
-        "url": "https://news.yahoo.co.jp/articles/27b941a80cfe1ea013c1a290bd477a697ac69d38",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SNS界の巨人・Meta社が予測市場へ再挑戦",
-        "url": "https://news.yahoo.co.jp/expert/articles/7c0b29e224a60d5d715164e726ccd1952952e4d7",
         "source": "Yahoo",
         "date": ""
       }
@@ -5383,76 +5389,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "米上院、7月中にクラリティ法案の審議入りを目指す＝報道",
+        "url": "https://news.yahoo.co.jp/articles/bd865b7da9895b1b40b2666f17142f2dd84ce268",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ワールドカップが人々を暗号資産の世界へ導く＝Bitget Wallet",
+        "url": "https://news.yahoo.co.jp/articles/d98cd029c122fb8a5d076694adeea4d09bd71b4f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Invesco、ステーブルコイン準備資産向けトークン化ファンドを申請",
+        "url": "https://news.yahoo.co.jp/articles/2bac7ce5ace7e9de47855af573f315a5b10b0da0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "フロンティアAI企業はなぜ「Stripe」を選ぶ？ 日本企業が学ぶべき「4つの観点」",
+        "url": "https://news.yahoo.co.jp/articles/a9ffefa068e212188a293bd2fac6f39f7aa889d1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
+        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Circle、野村とUSDC活用の外貨即時決済へ──日本企業向けに2027年にも開始か＝日経",
         "url": "https://news.yahoo.co.jp/articles/9788cef33e6fabe7b9f13ad8054f94dc85a4f739",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、ビットバンクを買収 暗号資産トップクラスに",
-        "url": "https://news.yahoo.co.jp/articles/d8352767db0eec27adef2d6de84bebbb7092a1e6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "プログマの国債レポWGにZenith参画、カントン向け基盤で協力",
-        "url": "https://news.yahoo.co.jp/articles/7e6a9fc1f18724cee764f7f2501f657ba481c18a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "教保生命、ウォン建てステーブルコインで保険料納付・保険金受領を検証",
-        "url": "https://news.yahoo.co.jp/articles/883db9ed37132ff095bc04712232ed6d8bbfcfd9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
-        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マネーグラム、ソラナのバリデータに。開発基盤SDPにも参加",
-        "url": "https://news.yahoo.co.jp/articles/0b8e9b142fbfe3409348db132b1105bbe163c508",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米上院、7月中にクラリティ法案の審議入りを目指す＝報道",
+        "url": "https://news.yahoo.co.jp/articles/bd865b7da9895b1b40b2666f17142f2dd84ce268",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ワールドカップが人々を暗号資産の世界へ導く＝Bitget Wallet",
+        "url": "https://news.yahoo.co.jp/articles/d98cd029c122fb8a5d076694adeea4d09bd71b4f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Invesco、ステーブルコイン準備資産向けトークン化ファンドを申請",
+        "url": "https://news.yahoo.co.jp/articles/2bac7ce5ace7e9de47855af573f315a5b10b0da0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "フロンティアAI企業はなぜ「Stripe」を選ぶ？ 日本企業が学ぶべき「4つの観点」",
+        "url": "https://news.yahoo.co.jp/articles/a9ffefa068e212188a293bd2fac6f39f7aa889d1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
+        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Circle、野村とUSDC活用の外貨即時決済へ──日本企業向けに2027年にも開始か＝日経",
         "url": "https://news.yahoo.co.jp/articles/9788cef33e6fabe7b9f13ad8054f94dc85a4f739",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、ビットバンクを買収 暗号資産トップクラスに",
-        "url": "https://news.yahoo.co.jp/articles/d8352767db0eec27adef2d6de84bebbb7092a1e6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "プログマの国債レポWGにZenith参画、カントン向け基盤で協力",
-        "url": "https://news.yahoo.co.jp/articles/7e6a9fc1f18724cee764f7f2501f657ba481c18a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "教保生命、ウォン建てステーブルコインで保険料納付・保険金受領を検証",
-        "url": "https://news.yahoo.co.jp/articles/883db9ed37132ff095bc04712232ed6d8bbfcfd9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
-        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マネーグラム、ソラナのバリデータに。開発基盤SDPにも参加",
-        "url": "https://news.yahoo.co.jp/articles/0b8e9b142fbfe3409348db132b1105bbe163c508",
         "source": "Yahoo",
         "date": ""
       }
@@ -6173,6 +6179,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "韓国PIPC、Bithumbに課徴金──同意なく利用者情報を海外共有",
+        "url": "https://news.yahoo.co.jp/articles/7c11532e994164ecbb6ff0431943c84554d86e9a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
         "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
         "source": "Yahoo",
@@ -6199,18 +6211,18 @@
       {
         "title": "欧州に学ぶ日本のデジタル主権確立への道、高まる米中依存リスク 3つめは、国内法規制や独自環境に合わせた「テーラーメイド型」を適用すること。日本には個人情報保護法をはじめとする法規制や独特のビジネス環境が存在する。グローバルスタン",
         "url": "https://news.yahoo.co.jp/articles/8e3bdff272c7255d92656e95b2c6f152f0d178b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "これほど底が抜けた法案は初めてだーー中道改革連合・長妻昭衆院議員が追及する個人情報保護法改正をめぐるリスクと「抜け道」の問題",
-        "url": "https://news.yahoo.co.jp/articles/29c0439fe4fa1c9ba37fe0eff9ebf3ad8f1db8c4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "韓国PIPC、Bithumbに課徴金──同意なく利用者情報を海外共有",
+        "url": "https://news.yahoo.co.jp/articles/7c11532e994164ecbb6ff0431943c84554d86e9a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
         "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
         "source": "Yahoo",
@@ -6237,18 +6249,18 @@
       {
         "title": "欧州に学ぶ日本のデジタル主権確立への道、高まる米中依存リスク 3つめは、国内法規制や独自環境に合わせた「テーラーメイド型」を適用すること。日本には個人情報保護法をはじめとする法規制や独特のビジネス環境が存在する。グローバルスタン",
         "url": "https://news.yahoo.co.jp/articles/8e3bdff272c7255d92656e95b2c6f152f0d178b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "これほど底が抜けた法案は初めてだーー中道改革連合・長妻昭衆院議員が追及する個人情報保護法改正をめぐるリスクと「抜け道」の問題",
-        "url": "https://news.yahoo.co.jp/articles/29c0439fe4fa1c9ba37fe0eff9ebf3ad8f1db8c4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "韓国PIPC、Bithumbに課徴金──同意なく利用者情報を海外共有",
+        "url": "https://news.yahoo.co.jp/articles/7c11532e994164ecbb6ff0431943c84554d86e9a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
         "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
         "source": "Yahoo",
@@ -6275,12 +6287,6 @@
       {
         "title": "欧州に学ぶ日本のデジタル主権確立への道、高まる米中依存リスク 3つめは、国内法規制や独自環境に合わせた「テーラーメイド型」を適用すること。日本には個人情報保護法をはじめとする法規制や独特のビジネス環境が存在する。グローバルスタン",
         "url": "https://news.yahoo.co.jp/articles/8e3bdff272c7255d92656e95b2c6f152f0d178b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "これほど底が抜けた法案は初めてだーー中道改革連合・長妻昭衆院議員が追及する個人情報保護法改正をめぐるリスクと「抜け道」の問題",
-        "url": "https://news.yahoo.co.jp/articles/29c0439fe4fa1c9ba37fe0eff9ebf3ad8f1db8c4",
         "source": "Yahoo",
         "date": ""
       }
