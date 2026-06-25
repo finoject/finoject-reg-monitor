@@ -1,6 +1,116 @@
 {
-  "generatedAt": "2026-06-25T05:51:03.775Z",
+  "generatedAt": "2026-06-25T09:56:32.545Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）ａｎｄ ＵＳ",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T09:56:32.545Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-06-25T09:56:37.007Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T09:56:32.545Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-06-25T09:56:37.007Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]プライム市場からスタンダード市場への変更：Ｌｉｎｋ－Ｕグループ（株）",
+      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T09:56:32.545Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
+        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
+        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-06-25T09:56:37.007Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（グロース市場）：（株）アイ・グリッド・ソリューションズ",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T09:56:32.545Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-06-25T09:56:37.007Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/j-ships/index.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T09:56:32.545Z",
+      "enrichV": 2,
+      "updated": true,
+      "enriched": "2026-06-25T09:56:37.007Z",
+      "aiSummary": [
+        "日本証券業協会がJ-Ships（特定投資家向け銘柄制度）の統計情報を月次・年次で公表する。取扱協会員から報告を受けた当月中の取引状況を有価証券種類ごとに集計し、価格・数量・金額を所定単位で表示する。",
+        "取扱協会員はJ-Shipsを利用した取引の取扱状況報告を協会に提出する義務を負う。統計データは協会ウェブサイトで一般公開される。",
+        "月次統計は毎月末現在を翌月25日（休日時は翌営業日）に、年次統計は毎年末現在を翌年1月25日（休日時は翌営業日）に公表される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：ＮＥＸＴ ＦＵＮＤＳ 日本株政策フォーカス上場投信（野村アセットマネジメント）",
+      "url": "https://www.jpx.co.jp/news/1070/20260625.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T09:56:32.545Z",
+      "enriched": "2026-06-25T09:56:37.007Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "野村アセットマネジメント株式会社が運用するアクティブ運用型ETF「ＮＥＸＴ ＦＵＮＤＳ 日本株政策フォーカス上場投信」(コード605A)の上場が承認された。",
+        "証券会社は2026年7月14日の上場予定日から同ETFを取扱い可能であり、特定口座での取扱いが可能。管理会社である野村アセットマネジメントは政府方針に則ったテーマを選定して銘柄選択を行う。",
+        "本件は租税特別措置法第9条の4の2に規定する上場証券投資信託等の受益証券であり、内国組成のアクティブETFとして全国の証券会社で取扱われる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）松屋アールアンドディ",
+      "url": "https://www.jpx.co.jp/news/1023/20260625-11.html",
+      "date": "2026-06-25",
+      "detectedAt": "2026-06-25T09:56:32.545Z",
+      "enriched": "2026-06-25T09:56:37.007Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）松屋アールアンドディ（コード7317、グロース市場）が特別支配株主による株式等売渡請求に該当し上場廃止が決定された。有価証券上場規程第601条第1項第17号適用。",
+        "同社株式は整理銘柄指定期間中（2026年6月25日〜7月16日）に売却を促進され、信用取引等の委託保証金・売買証拠金・取引参加者保証金・信認金から2026年6月26日付で除外される。",
+        "上場廃止日は2026年7月17日だが、速やかに上場廃止すべき事情発生時は整理銘柄指定期間及び廃止日が変更される可能性がある。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "【対談】青山学院大学陸上競技部長距離ブロック監督、同大学地球社会共生学部教授 原晋氏 vs 植田和男総裁（広報誌「にちぎん」No.86 2026年夏号）",
@@ -396,22 +506,6 @@
         "新規取扱銘柄の詳細は電子決済手段概要説明書に記載されており、会員は当該説明書を参照して取扱要件等を確認すること。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）レックスアドバイザーズ",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-06-23",
-      "detectedAt": "2026-06-24T01:05:55.681Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-06-24T01:06:01.775Z"
     },
     {
       "agency": "金融庁",
@@ -1000,22 +1094,6 @@
         "日本銀行がFSBレポ統計の日本分集計結果（2026年5月分）を2026年6月19日に公表し、日本円現先取引等のフロー・ストックデータ及びレポレートを提供開始した。",
         "市場参加者はFSBレポ統計の公表データ（XLSX・PDF形式）から日本円・外貨取引、取引相手別の現先・証券貸借取引額及び取引レートを参照可能である。",
         "本統計は2020年1月から定期公表されており、2026年1月26日及び2025年8月22日の過去訂正が記録されているため、最新データと訂正履歴の確認が必要である。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-06-18",
-      "detectedAt": "2026-06-18T09:58:33.997Z",
-      "updated": true,
-      "enriched": "2026-06-19T06:01:52.710Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
       ],
       "aiSumV": 3
     },
@@ -1642,21 +1720,6 @@
     },
     {
       "agency": "日本取引所グループ",
-      "title": "[東証]プライム市場からスタンダード市場への変更：（株）クスリのアオキホールディングス",
-      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
-      "date": "2026-06-12",
-      "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-19T06:01:56.315Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
-        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
-        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
       "title": "[東証]制限値幅の拡大：1銘柄",
       "url": "https://www.jpx.co.jp/news/1030/20260612-01.html",
       "date": "2026-06-12",
@@ -1966,21 +2029,6 @@
         "2026年3月期の東証内国上場会社2,168社を対象に4月1日～24日に実施した定時株主総会開催予定日等の調査で、1,659社（全体77％）から有効回答を得た結果を公表・更新する。",
         "株主総会資料の電子提供開始予定日は全社の22.9％が4週間前まで、77.1％が3週間前までに予定され、プライム市場では36.5％が4週間前までの電子提供を予定している。",
         "2026年6月26日（金）の定時株主総会開催が最も集中し集中率は31.0％と見込まれ、前年24.2％から上昇する見通し。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（グロース市場）：チャットプラス（株）",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-06-11",
-      "detectedAt": "2026-06-16T15:23:20.858Z",
-      "enriched": "2026-06-19T06:01:58.832Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
       ],
       "aiSumV": 3
     },
@@ -2801,7 +2849,13 @@
       "date": "2026-06-02",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:02:07.749Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
+        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
+        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本公認会計士協会",
@@ -3429,15 +3483,6 @@
         "当部会は企業会計審議会の下部組織として設置され、サステナビリティ情報の保証に関する基準整備を進めるもので、今後の企業開示規制に影響を与える可能性がある。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/j-ships/index.html",
-      "date": "2026-05-25",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:02:57.716Z",
-      "enrichV": 2
     },
     {
       "agency": "日本証券業協会",
@@ -4998,6 +5043,12 @@
         "date": ""
       },
       {
+        "title": "【速報】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始。イーサ上に100億円分発行へ",
+        "url": "https://news.yahoo.co.jp/articles/631eea27c8895d2632629fffbc45c4b68350f406",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "高市首相、「SANAE TOKEN」承認を否定。金融庁への損失相談は3件",
         "url": "https://news.yahoo.co.jp/articles/5683c3e24ff154c098f5012b9cfa2918c1366866",
         "source": "Yahoo",
@@ -5012,12 +5063,6 @@
       {
         "title": "高市総理「何の犯罪を犯して",
         "url": "https://news.yahoo.co.jp/articles/7deeb5eef21ec726dbd80fd6249df631f34f9fbc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AWS、CloudFrontとWAFにCoinbaseのx402を統合──AIエージェントへのコンテンツ課金が「ブロック」から「課金」へ【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/0647916c57b5611877b2aa1b8efbc05ce07cf404",
         "source": "Yahoo",
         "date": ""
       }
@@ -5036,6 +5081,12 @@
         "date": ""
       },
       {
+        "title": "【速報】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始。イーサ上に100億円分発行へ",
+        "url": "https://news.yahoo.co.jp/articles/631eea27c8895d2632629fffbc45c4b68350f406",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "高市首相、「SANAE TOKEN」承認を否定。金融庁への損失相談は3件",
         "url": "https://news.yahoo.co.jp/articles/5683c3e24ff154c098f5012b9cfa2918c1366866",
         "source": "Yahoo",
@@ -5052,15 +5103,21 @@
         "url": "https://news.yahoo.co.jp/articles/7deeb5eef21ec726dbd80fd6249df631f34f9fbc",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "AWS、CloudFrontとWAFにCoinbaseのx402を統合──AIエージェントへのコンテンツ課金が「ブロック」から「課金」へ【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/0647916c57b5611877b2aa1b8efbc05ce07cf404",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "予測市場の次なる進化形「メタマーケット」とは──Predictive Labs CEOが語る市場インテリジェンス",
+        "url": "https://news.yahoo.co.jp/articles/c6018d0e3f230ba7796217bde9086d155ac2b557",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン下落、個人投資家離れで市場のぜい弱さ露呈",
+        "url": "https://news.yahoo.co.jp/articles/56fbdcd68e1e3e892e903dcb0de08adf25ba77f5",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
         "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
@@ -5082,24 +5139,24 @@
       {
         "title": "SNS界の巨人・Meta社が予測市場へ再挑戦",
         "url": "https://news.yahoo.co.jp/expert/articles/7c0b29e224a60d5d715164e726ccd1952952e4d7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "チェーンリンク、欧韓銀行連合とFX向けT+0決済基盤「プロジェクト・パンゲア」始動",
-        "url": "https://news.yahoo.co.jp/articles/5f5f0f131a150a9abfefb17c673ddce57805974f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米議会、暗号資産企業向け「簡易版マスターアカウント」を議論＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/afa824cee22933cec6c2766d4b6893a39a01bf00",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "予測市場の次なる進化形「メタマーケット」とは──Predictive Labs CEOが語る市場インテリジェンス",
+        "url": "https://news.yahoo.co.jp/articles/c6018d0e3f230ba7796217bde9086d155ac2b557",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン下落、個人投資家離れで市場のぜい弱さ露呈",
+        "url": "https://news.yahoo.co.jp/articles/56fbdcd68e1e3e892e903dcb0de08adf25ba77f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
         "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
@@ -5120,18 +5177,6 @@
       {
         "title": "SNS界の巨人・Meta社が予測市場へ再挑戦",
         "url": "https://news.yahoo.co.jp/expert/articles/7c0b29e224a60d5d715164e726ccd1952952e4d7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "チェーンリンク、欧韓銀行連合とFX向けT+0決済基盤「プロジェクト・パンゲア」始動",
-        "url": "https://news.yahoo.co.jp/articles/5f5f0f131a150a9abfefb17c673ddce57805974f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米議会、暗号資産企業向け「簡易版マスターアカウント」を議論＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/afa824cee22933cec6c2766d4b6893a39a01bf00",
         "source": "Yahoo",
         "date": ""
       }
@@ -5290,6 +5335,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI、ビットバンクを買収 暗号資産トップクラスに",
+        "url": "https://news.yahoo.co.jp/articles/d8352767db0eec27adef2d6de84bebbb7092a1e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "プログマの国債レポWGにZenith参画、カントン向け基盤で協力",
+        "url": "https://news.yahoo.co.jp/articles/7e6a9fc1f18724cee764f7f2501f657ba481c18a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "教保生命、ウォン建てステーブルコインで保険料納付・保険金受領を検証",
+        "url": "https://news.yahoo.co.jp/articles/883db9ed37132ff095bc04712232ed6d8bbfcfd9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
         "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
@@ -5304,30 +5367,30 @@
       {
         "title": "チェーンリンク、欧韓銀行連合とFX向けT+0決済基盤「プロジェクト・パンゲア」始動",
         "url": "https://news.yahoo.co.jp/articles/5f5f0f131a150a9abfefb17c673ddce57805974f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
-        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインの4年サイクルはまだ終わっていない＝21Shares",
-        "url": "https://news.yahoo.co.jp/articles/bf38db7c36e362c955727c4ae0bd6178c6cc6382",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFiのTVLは2026年に39%減少──市場低迷とハッキング頻発が重荷",
-        "url": "https://news.yahoo.co.jp/articles/f158e493d359bc119974fab07ed46ac8102f3a32",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI、ビットバンクを買収 暗号資産トップクラスに",
+        "url": "https://news.yahoo.co.jp/articles/d8352767db0eec27adef2d6de84bebbb7092a1e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "プログマの国債レポWGにZenith参画、カントン向け基盤で協力",
+        "url": "https://news.yahoo.co.jp/articles/7e6a9fc1f18724cee764f7f2501f657ba481c18a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "教保生命、ウォン建てステーブルコインで保険料納付・保険金受領を検証",
+        "url": "https://news.yahoo.co.jp/articles/883db9ed37132ff095bc04712232ed6d8bbfcfd9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
         "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
@@ -5342,24 +5405,6 @@
       {
         "title": "チェーンリンク、欧韓銀行連合とFX向けT+0決済基盤「プロジェクト・パンゲア」始動",
         "url": "https://news.yahoo.co.jp/articles/5f5f0f131a150a9abfefb17c673ddce57805974f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし",
-        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインの4年サイクルはまだ終わっていない＝21Shares",
-        "url": "https://news.yahoo.co.jp/articles/bf38db7c36e362c955727c4ae0bd6178c6cc6382",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFiのTVLは2026年に39%減少──市場低迷とハッキング頻発が重荷",
-        "url": "https://news.yahoo.co.jp/articles/f158e493d359bc119974fab07ed46ac8102f3a32",
         "source": "Yahoo",
         "date": ""
       }
