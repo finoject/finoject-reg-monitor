@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-06-25T23:01:45.698Z",
+  "generatedAt": "2026-06-26T01:39:07.351Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "協会員の異動状況等を更新しました。",
+      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T01:39:07.351Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
+        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
+        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-06-26T01:39:13.137Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "金融商品取引業者の本協会加入について",
+      "url": "https://www.jsda.or.jp/houdou/2026/20260626.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T01:39:07.351Z",
+      "enriched": "2026-06-26T01:39:13.137Z",
+      "enrichV": 2
+    },
     {
       "agency": "金融庁",
       "title": "令和８年６月24日からの大雨に伴う災害等に対する金融上の措置（鹿児島県）",
@@ -2873,21 +2898,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本証券業協会",
-      "title": "協会員の異動状況等を更新しました。",
-      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
-      "date": "2026-06-02",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:02:07.749Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
-        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
-        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "日本公認会計士協会",
       "title": "2026年6月3日の台風接近に伴う協会本部の窓口対応について",
       "url": "https://jicpa.or.jp/news/information/2026/20260602gdh.html",
@@ -4010,7 +4020,13 @@
       "date": "2026-05-20",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:03:03.674Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所の投資部門別売買状況に個人による株式募集・売出金額を加算し、個人の実際の株式購入状況をより正確に把握する統計を作成している。",
+        "証券業協会が個人投資家の株式購入動向を統計データとして定期的に算出・公表する必要がある。",
+        "2026年5月20日付で2026年第1四半期分までのデータが掲載された統計調査報告書として公表される。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本証券業協会",
@@ -5161,6 +5177,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "インドネシア、暗号資産インフルエンサーに認証制度を導入",
+        "url": "https://news.yahoo.co.jp/articles/6b82cb2b1a9661184f2c986166b98c474572d708",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ワールドカップが人々を暗号資産の世界へ導く＝Bitget Wallet",
         "url": "https://news.yahoo.co.jp/articles/d98cd029c122fb8a5d076694adeea4d09bd71b4f",
         "source": "Yahoo",
@@ -5187,18 +5209,18 @@
       {
         "title": "予測市場の次なる進化形「メタマーケット」とは──Predictive Labs CEOが語る市場インテリジェンス",
         "url": "https://news.yahoo.co.jp/articles/c6018d0e3f230ba7796217bde9086d155ac2b557",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン下落、個人投資家離れで市場のぜい弱さ露呈",
-        "url": "https://news.yahoo.co.jp/articles/56fbdcd68e1e3e892e903dcb0de08adf25ba77f5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "インドネシア、暗号資産インフルエンサーに認証制度を導入",
+        "url": "https://news.yahoo.co.jp/articles/6b82cb2b1a9661184f2c986166b98c474572d708",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ワールドカップが人々を暗号資産の世界へ導く＝Bitget Wallet",
         "url": "https://news.yahoo.co.jp/articles/d98cd029c122fb8a5d076694adeea4d09bd71b4f",
         "source": "Yahoo",
@@ -5225,12 +5247,6 @@
       {
         "title": "予測市場の次なる進化形「メタマーケット」とは──Predictive Labs CEOが語る市場インテリジェンス",
         "url": "https://news.yahoo.co.jp/articles/c6018d0e3f230ba7796217bde9086d155ac2b557",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン下落、個人投資家離れで市場のぜい弱さ露呈",
-        "url": "https://news.yahoo.co.jp/articles/56fbdcd68e1e3e892e903dcb0de08adf25ba77f5",
         "source": "Yahoo",
         "date": ""
       }
@@ -5389,6 +5405,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "野村ＨＤ、米サークルと協業 ステーブルコイン活用した即時決済など視野",
+        "url": "https://news.yahoo.co.jp/articles/2644c0c5e528ca5f58787ab6e9c274911a3be58b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院、7月中にクラリティ法案の審議入りを目指す＝報道",
         "url": "https://news.yahoo.co.jp/articles/bd865b7da9895b1b40b2666f17142f2dd84ce268",
         "source": "Yahoo",
@@ -5415,18 +5437,18 @@
       {
         "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
         "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Circle、野村とUSDC活用の外貨即時決済へ──日本企業向けに2027年にも開始か＝日経",
-        "url": "https://news.yahoo.co.jp/articles/9788cef33e6fabe7b9f13ad8054f94dc85a4f739",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "野村ＨＤ、米サークルと協業 ステーブルコイン活用した即時決済など視野",
+        "url": "https://news.yahoo.co.jp/articles/2644c0c5e528ca5f58787ab6e9c274911a3be58b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院、7月中にクラリティ法案の審議入りを目指す＝報道",
         "url": "https://news.yahoo.co.jp/articles/bd865b7da9895b1b40b2666f17142f2dd84ce268",
         "source": "Yahoo",
@@ -5453,12 +5475,6 @@
       {
         "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
         "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Circle、野村とUSDC活用の外貨即時決済へ──日本企業向けに2027年にも開始か＝日経",
-        "url": "https://news.yahoo.co.jp/articles/9788cef33e6fabe7b9f13ad8054f94dc85a4f739",
         "source": "Yahoo",
         "date": ""
       }
