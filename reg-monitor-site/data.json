@@ -1,6 +1,332 @@
 {
-  "generatedAt": "2026-06-26T06:38:11.771Z",
+  "generatedAt": "2026-06-26T10:38:10.516Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "企業会計審議会第２回サステナビリティ情報保証部会の開催",
+      "url": "https://www.fsa.go.jp/news/r7/singi/20260703/20260703.html",
+      "date": "2026-07-03",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:16.907Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
+        "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
+        "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）元気な介護",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-06-26T10:38:16.907Z"
+    },
+    {
+      "agency": "金融庁",
+      "title": "「高速取引行為となる情報の伝達先を指定する件」の一部改正の公表",
+      "url": "https://www.fsa.go.jp/news/r7/shouken/20260626/20260626.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": "第2条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第2条"
+        },
+        {
+          "id": "323AC0000000025",
+          "art": "第26条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第26条"
+        }
+      ],
+      "enriched": "2026-06-26T10:38:18.024Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "①「高速取引行為となる情報の伝達先を指定する件」（平成29年金融庁告示第50号）において、Cboeジャパン株式会社を伝達先として指定していた規定を削除する。",
+        "②金融商品取引業者など高速取引行為を行う者は、改正後の伝達先リストに基づいて情報伝達先を確認・変更する必要があり、特にCboeジャパン株式会社への情報伝達義務が廃止される。",
+        "③金融商品取引法第2条の定義に関する内閣府令第26条第1項に基づく改正で、令和8年6月26日付で金融庁告示により施行される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令」の公布等及びパブリックコメントの結果等の公表",
+      "url": "https://www.fsa.go.jp/news/r7/sonota/20260626/20260626.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "lawrefs": [
+        {
+          "id": "420M60000F5A001",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律施行規則"
+        },
+        {
+          "id": "fsa-kantoku-chusho",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "中小・地域金融機関向けの総合的な監督指針"
+        },
+        {
+          "id": "419AC0000000022",
+          "art": "第11条",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律 第11条"
+        },
+        {
+          "id": "fsa-kantoku-city",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "主要行等向けの総合的な監督指針"
+        },
+        {
+          "id": "415AC0000000057",
+          "art": "第8条",
+          "kind": "パブコメ",
+          "label": "個人情報の保護に関する法律 第8条"
+        },
+        {
+          "id": "357M50000040010",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "銀行法施行規則"
+        }
+      ],
+      "enriched": "2026-06-26T10:38:19.661Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "預貯金取扱事業者に対し、犯罪利用のおそれがある口座情報を他の預貯金取扱事業者に提供し、提供を受けた情報を分析して犯罪収益移転防止措置を講じる努力義務を新規定。犯罪による収益の移転防止に関する法律施行規則第32条第2項。",
+        "主要行等及び中小・地域金融機関向けの総合的な監督指針において、金融機関は不正利用口座情報共有枠組みに参加し、情報を提供・利用してリスク低減策を実施すること。令和9年4月1日施行・適用開始。",
+        "パブリックコメント（令和8年3月27日～4月27日）で19先から54件の意見を収集、金融庁は情報共有が預貯金取扱事業者間に限定される理由を、詐欺・マネロン被害リスク集中と説明。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「金融商品取引法施行令第七条第五項第二号の規定に基づき電子情報処理組織を指定する件」の一部改正の公表",
+      "url": "https://www.fsa.go.jp/news/r7/shouken/20260626-2/20260626-2.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "lawrefs": [
+        {
+          "id": "340CO0000000321",
+          "art": "第7条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法施行令 第7条"
+        },
+        {
+          "id": "340CO0000000321",
+          "art": "第2条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法施行令 第2条"
+        },
+        {
+          "id": "323AC0000000025",
+          "art": "第2条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第2条"
+        }
+      ],
+      "enriched": "2026-06-26T10:38:19.827Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融商品取引法施行令第7条第5項第2号に基づき指定する電子情報処理組織について、Cboeジャパン株式会社が使用するCboe AlphaおよびCboe Selectに係る組織の指定を削除する改正を実施した。",
+        "金融商品取引業者等は、指定電子情報処理組織の変更を踏まえ、当該組織の利用に関する業務体制の見直しが必要となる場合、適切に対応すること。",
+        "本改正は令和8年6月26日に金融庁告示として公表され、金融商品取引法施行令第7条第5項第2号に基づく指定制度の適用対象が変更された。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "認可法人の役職員の給与水準（令和７年度分）の公表",
+      "url": "https://www.fsa.go.jp/news/r7/sonota/20260626-2/20260626.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.244Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "預金保険機構・銀行等保有株式取得機構・金融経済教育推進機構の3認可法人について、令和7年度の役職員給与水準を総務省定めの様式に従い公表した。",
+        "各認可法人は令和7年度分の役職員給与水準データ（PDF形式）を金融庁が取りまとめ公表するため、総務省指定の公表様式に従う必要がある。",
+        "公表日は令和8年6月26日であり、預金保険機構の役員報酬は人事院勧告に基づく給与法改正に準拠して本給引き上げ・特別手当支給率0.05ヶ月分引き上げを実施している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「経営者保証に関するガイドライン」等の活用実績について（2025年度の実績）の公表",
+      "url": "https://www.fsa.go.jp/news/r7/ginkou/20260626/20260626.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.633Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁が2025年度の民間金融機関による「経営者保証に関するガイドライン」等の活用実績を公表。新規融資に占める経営者保証に依存しない融資の割合が55.7%（2024年度52.9%）に上昇、無保証融資件数は約123万件。",
+        "民間金融機関は新規融資時に経営者保証の代替手法活用（2025年度約8,000件）とともに、有保証融資において適切な説明と記録が99.9%達成。代表者交代時に旧経営者の保証契約を解除しつつ新経営者との契約を結ばない件数が約22,000件。",
+        "ガイドラインに基づく保証債務整理成立件数は2025年度で約750件（メイン行ベース）、保証契約解除件数は約63,700件で、融資慣行としての浸透が進展。実績はExcel・PDF形式で金融庁が公表、今後の精査で変動の可能性。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "令和8年6月24日からの大雨に伴う災害等に対する金融上の措置について（福岡県）",
+      "url": "https://www.boj.or.jp/about/bcp/fso/fso260626a.pdf",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.633Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和8年6月24日からの大雨により災害救助法が適用された福岡県内の被災者に対し、預貯金取扱金融機関・証券会社・保険会社・電子債権記録機関に金融上の措置を実施するよう要請した。",
+        "預金払戻しは通帳・印鑑紛失でも被災状況を踏まえた確認で対応、定期預金の期限前払戻し応諾、手形・小切手の不渡報告掲載配慮、融資相談所開設・返済猶予等の措置を実施機関が講ずべき。",
+        "保険金支払いは迅速対応、保険料払込は猶予期間延長措置を被災者等の状況に応じて実施し、措置内容を店頭掲示と新聞・ホームページで周知する必要がある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（金研ニュースレター）2026年経済史ワークショップ",
+      "url": "https://www.boj.or.jp/about/release_2026/rel260626a.htm",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.633Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文は経済史ワークショップの開催案内であり、金融規制に関する具体的な改正・基準値・対象業者の記載がない",
+        "日本銀行金融研究所が2026年3月3日に経済史ワークショップを開催し、歴史的マイクロデータを用いた経済史研究の動向を紹介した",
+        "ニュースレターは金融研究所の活動紹介を目的としており、コンプライアンス実務に直接関連する規制上の要件変更は含まれていない"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【記者会見】田村審議委員（兵庫、6月25日分）",
+      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260626a.pdf",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.633Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2024年6月の金融政策決定会合で利上げを実施した日本銀行は、政策金利を2％程度の中立水準に向けて段階的に引き上げる方針を示し、今後は数か月に1度のペース（0.25％ずつ）での利上げを念頭としている。",
+        "日本銀行は国債買い入れ減額の停止を決定し、金融政策の正常化は短期金利の操作のみにより、国債買い入れ額の調整は金融政策手段ではなく国債市場の安定配慮として位置づけている。",
+        "日銀は今後の利上げ判断で消費者物価・サービス価格の推移、企業・家計の予想インフレ率、短期金融市場の緩和度の企業評価などを重視し、物価上振れリスク顕在化時には利上げ頻度引き上げの可能性を排除していない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの調整後の権利行使価格：2026年6月29日調整分",
+      "url": "https://www.jpx.co.jp/news/2020/20260626-01.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.633Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月1日を効力発生日とする株式分割に伴い、対象有価証券に係る有価証券オプションの権利行使価格を2026年6月29日（月）より調整する。",
+        "取引参加者および投資家は調整後の権利行使価格の確認および対応を要する。フレックスオプション限月取引も同様に調整の対象。",
+        "権利行使価格の調整は大阪取引所が実施。端数は円位未満を四捨五入し、フレックス限月は小数点第2位未満を四捨五入する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]公表措置：バリュークリエーション（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260626-11.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.633Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "バリュークリエーション株式会社（グロース市場上場、コード9238）は主要取引先との架空循環取引に巻き込まれ、2024年2月期から2026年2月期第3四半期の決算短信等で虚偽開示（売上高約1割減、営業利益黒字から赤字転落）を実施した。",
+        "同社は東証に対し、上場規則に違反した事実の公表（有価証券上場規程第508条第1項第1号）を受け、経営体制改善策などの報告書を提出する必要があり、報告内容と異なる事実判明時は追加措置対象となる。",
+        "2023年11月上場時に提出した有価証券届出書についても決算訂正が必要となり、2022年2月期・2023年2月期で売上約1割減・営業利益赤字転落・純資産負となることが明らかになった。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：金２倍ブルＥＴＦ（シンプレクス・アセット・マネジメント）",
+      "url": "https://www.jpx.co.jp/news/1070/20260626.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.633Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "シンプレクス・アセット・マネジメント株式会社が運用する「金２倍ブルＥＴＦ」（コード606A）が東京証券取引所に新規上場承認され、2026年7月15日に上場予定。",
+        "投資家は日経・ＪＰＸ金レバレッジ指数に連動する本商品について、複利効果により中長期では原指標の2倍超または未満となる可能性、価格乖離リスク、先物取引コスト（信託報酬0.85%税込0.935%以内）を認識した上で取扱い・購入すべき。",
+        "本商品は国内組成の内国ＥＴＦで全国の証券会社で取扱い、特定口座での保有が可能（2026年6月26日承認、日本取引所自主規制法人の審査結果に基づき決定）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE,TOCOM]2027年上半期におけるデリバティブの祝日取引実施日（確定）について",
+      "url": "https://www.jpx.co.jp/news/2040/20260626-01.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.633Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大阪取引所（OSE）及び東京商品取引所（TOCOM）が2027年上半期のデリバティブ祝日取引実施日を確定し公表した。取引参加者は公表資料により各祝日の取引実施予定を確認する必要がある。2027年上半期から適用される祝日取引スケジュール。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "インターネット取引に関する調査結果について",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/interan.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.633Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年3月末調査によると、インターネット取引を行う会員は257社中91社（35.4%）であり前回比3社減、インターネット取引口座数は5,625万口座（前回比9.8%増）、有残高口座数は3,387万口座（総口座数の60.2%）に増加した。",
+        "会員各社は、60才以上の層が有残高口座の32.0%、現物取引売買代金では50才代が37兆円超と最多であるなど、高齢層を含む多世代顧客のニーズに対応した取引システム・サービス提供を継続する必要がある。",
+        "2025年10月～2026年3月の半年間でインターネット取引売買代金は694兆円（前回比43.9%増）、全委託取引の30.1%を占め、IPO取扱高1,554億円（前回比252.6%増）、投資信託募集取扱高7兆6,123億円（前回比50.3%増）を記録した。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "新規取扱銘柄のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260626-001/",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.633Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA会員が新たに取り扱う暗号資産として、テラー・トリビューツ（TRB）とギグル・ファンド（GIGGLE）が追加された。",
+        "JVCEA会員は各銘柄の暗号資産概要説明書を確認し、当該銘柄の取扱開始に向けた準備を行う必要がある。",
+        "2026年6月26日より、上記2銘柄の取扱が開始される。詳細は各銘柄の概要説明書に記載。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "【サステナビリティ開示インタビュー企画】キリンホールディングス株式会社",
+      "url": "https://jicpa.or.jp/news/information/2026/20260626dwh.html",
+      "date": "2026-06-26",
+      "detectedAt": "2026-06-26T10:38:10.516Z",
+      "enriched": "2026-06-26T10:38:21.633Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "キリンホールディングス株式会社が2025年12月期の有価証券報告書でSSBJ基準に準拠したサステナビリティ情報開示を日本企業として初めて実践し、2027年3月期からの義務付けに先駆けて任意早期適用した。",
+        "当社は2024年初めにプロジェクトを立ち上げ、2025年4月に財務戦略部内に開示統括室を新設して、恒久的にSSBJ基準準拠の開示を実施する体制に移行した。",
+        "スコープ3GHG排出量開示・財務インパクトの定量化・M&Aに伴う非財務データのバウンダリー変更への対応が課題であり、3年目以降の2段階開示廃止に向けた対応を推進中である。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場日の初値決定前の気配運用について：（株）西條",
@@ -70,22 +396,6 @@
         "金融商品取引業者等に対する行政処分であり、処分内容の詳細は関東財務局理財部証券監督第3課または金融庁監督局証券課に問い合わせ。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）ａｎｄ ＵＳ",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-06-25",
-      "detectedAt": "2026-06-25T09:56:32.545Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-06-25T09:56:37.007Z"
     },
     {
       "agency": "日本証券業協会",
@@ -4964,158 +5274,164 @@
   "lawnews": {
     "323AC0000000025": [
       {
-        "title": "ゴーン元会長、復帰に意欲 「日産は非常事態」",
-        "url": "https://news.yahoo.co.jp/articles/f0dc04e2b8849f2dedf59a7a917ccc30a2e4a7a5",
+        "title": "韓国在住のゴールドマン・サックス子会社員、日本企業ＴＯＢ巡り親族名義で１８００万円利益",
+        "url": "https://news.yahoo.co.jp/articles/b5d5c7019eb77ceb9cd861716344104dffb997f6",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
-        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "title": "インサイダー疑いで勧告 ゴールドマン子会社元社員",
+        "url": "https://news.yahoo.co.jp/articles/e3f53df06a1da4e5acd1d791a0ad98990753be7e",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
+        "title": "ゴールドマン子会社元社員インサイダー疑い",
+        "url": "https://news.yahoo.co.jp/articles/8ca252c4420642bb1238a5fbd156a8fd8e5b1e2d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "moomoo証券に業務停止命令、NISA対象外のETFを「対象」と偽り販売",
-        "url": "https://news.yahoo.co.jp/articles/eabb153e048b3ee6ced4165ef6491b8e09a0e37b",
+        "title": "0:33暴力団組員であることを隠して株売買か 六代目山口組傘下の組長ら2人を金商法違反などの疑いで逮捕",
+        "url": "https://news.yahoo.co.jp/articles/bcaa264e1decb1a180650db30e5a9b705aa03942",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
+        "title": "監視委、元ゴールドマン社員への課徴金勧告－NIPPO株インサイダー",
+        "url": "https://news.yahoo.co.jp/articles/3f949ebb0b3d310ffaf56a8cbfb45a6708d43bd5",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "香港系・moomoo証券に行政処分 長らく「株式出庫の一律拒否」対応に指摘、NISA虚偽説明など発覚",
-        "url": "https://news.yahoo.co.jp/articles/e17bde0b7498e114f5ec53d4fe1d2cebe9076401",
+        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
+        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
-        "title": "ゴーン元会長、復帰に意欲 「日産は非常事態」",
-        "url": "https://news.yahoo.co.jp/articles/f0dc04e2b8849f2dedf59a7a917ccc30a2e4a7a5",
+        "title": "韓国在住のゴールドマン・サックス子会社員、日本企業ＴＯＢ巡り親族名義で１８００万円利益",
+        "url": "https://news.yahoo.co.jp/articles/b5d5c7019eb77ceb9cd861716344104dffb997f6",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
-        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "title": "インサイダー疑いで勧告 ゴールドマン子会社元社員",
+        "url": "https://news.yahoo.co.jp/articles/e3f53df06a1da4e5acd1d791a0ad98990753be7e",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
+        "title": "ゴールドマン子会社元社員インサイダー疑い",
+        "url": "https://news.yahoo.co.jp/articles/8ca252c4420642bb1238a5fbd156a8fd8e5b1e2d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "moomoo証券に業務停止命令、NISA対象外のETFを「対象」と偽り販売",
-        "url": "https://news.yahoo.co.jp/articles/eabb153e048b3ee6ced4165ef6491b8e09a0e37b",
+        "title": "0:33暴力団組員であることを隠して株売買か 六代目山口組傘下の組長ら2人を金商法違反などの疑いで逮捕",
+        "url": "https://news.yahoo.co.jp/articles/bcaa264e1decb1a180650db30e5a9b705aa03942",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
+        "title": "監視委、元ゴールドマン社員への課徴金勧告－NIPPO株インサイダー",
+        "url": "https://news.yahoo.co.jp/articles/3f949ebb0b3d310ffaf56a8cbfb45a6708d43bd5",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "香港系・moomoo証券に行政処分 長らく「株式出庫の一律拒否」対応に指摘、NISA虚偽説明など発覚",
-        "url": "https://news.yahoo.co.jp/articles/e17bde0b7498e114f5ec53d4fe1d2cebe9076401",
+        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
+        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
-        "title": "ゴーン元会長、復帰に意欲 「日産は非常事態」",
-        "url": "https://news.yahoo.co.jp/articles/f0dc04e2b8849f2dedf59a7a917ccc30a2e4a7a5",
+        "title": "韓国在住のゴールドマン・サックス子会社員、日本企業ＴＯＢ巡り親族名義で１８００万円利益",
+        "url": "https://news.yahoo.co.jp/articles/b5d5c7019eb77ceb9cd861716344104dffb997f6",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
-        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "title": "インサイダー疑いで勧告 ゴールドマン子会社元社員",
+        "url": "https://news.yahoo.co.jp/articles/e3f53df06a1da4e5acd1d791a0ad98990753be7e",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
+        "title": "ゴールドマン子会社元社員インサイダー疑い",
+        "url": "https://news.yahoo.co.jp/articles/8ca252c4420642bb1238a5fbd156a8fd8e5b1e2d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "moomoo証券に業務停止命令、NISA対象外のETFを「対象」と偽り販売",
-        "url": "https://news.yahoo.co.jp/articles/eabb153e048b3ee6ced4165ef6491b8e09a0e37b",
+        "title": "0:33暴力団組員であることを隠して株売買か 六代目山口組傘下の組長ら2人を金商法違反などの疑いで逮捕",
+        "url": "https://news.yahoo.co.jp/articles/bcaa264e1decb1a180650db30e5a9b705aa03942",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
+        "title": "監視委、元ゴールドマン社員への課徴金勧告－NIPPO株インサイダー",
+        "url": "https://news.yahoo.co.jp/articles/3f949ebb0b3d310ffaf56a8cbfb45a6708d43bd5",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "香港系・moomoo証券に行政処分 長らく「株式出庫の一律拒否」対応に指摘、NISA虚偽説明など発覚",
-        "url": "https://news.yahoo.co.jp/articles/e17bde0b7498e114f5ec53d4fe1d2cebe9076401",
+        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
+        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
-        "title": "ゴーン元会長、復帰に意欲 「日産は非常事態」",
-        "url": "https://news.yahoo.co.jp/articles/f0dc04e2b8849f2dedf59a7a917ccc30a2e4a7a5",
+        "title": "韓国在住のゴールドマン・サックス子会社員、日本企業ＴＯＢ巡り親族名義で１８００万円利益",
+        "url": "https://news.yahoo.co.jp/articles/b5d5c7019eb77ceb9cd861716344104dffb997f6",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
-        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
+        "title": "インサイダー疑いで勧告 ゴールドマン子会社元社員",
+        "url": "https://news.yahoo.co.jp/articles/e3f53df06a1da4e5acd1d791a0ad98990753be7e",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットコインは金融商品へ──金商法移行で日本のDeFi市場はどう変わるのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1de69c93dd58bbc5e65dd88ae7f6882f316df394",
+        "title": "ゴールドマン子会社元社員インサイダー疑い",
+        "url": "https://news.yahoo.co.jp/articles/8ca252c4420642bb1238a5fbd156a8fd8e5b1e2d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "moomoo証券に業務停止命令、NISA対象外のETFを「対象」と偽り販売",
-        "url": "https://news.yahoo.co.jp/articles/eabb153e048b3ee6ced4165ef6491b8e09a0e37b",
+        "title": "0:33暴力団組員であることを隠して株売買か 六代目山口組傘下の組長ら2人を金商法違反などの疑いで逮捕",
+        "url": "https://news.yahoo.co.jp/articles/bcaa264e1decb1a180650db30e5a9b705aa03942",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/0949ea9b8c5ee460c409e4224616f22c67e4ba4c",
+        "title": "監視委、元ゴールドマン社員への課徴金勧告－NIPPO株インサイダー",
+        "url": "https://news.yahoo.co.jp/articles/3f949ebb0b3d310ffaf56a8cbfb45a6708d43bd5",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "香港系・moomoo証券に行政処分 長らく「株式出庫の一律拒否」対応に指摘、NISA虚偽説明など発覚",
-        "url": "https://news.yahoo.co.jp/articles/e17bde0b7498e114f5ec53d4fe1d2cebe9076401",
+        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
+        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "421AC0000000059": [
       {
+        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
+        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYSCの100億円発行は「顧客需要を踏まえた」とSBI VCトレード──パブリックチェーン流通は「なるべく早い段階」を目指す",
         "url": "https://news.yahoo.co.jp/articles/5e98ec9be707b5d0df99b792730fe1a427226067",
         "source": "Yahoo",
@@ -5142,18 +5458,18 @@
       {
         "title": "JPYSC、すでに38億円相当発行──SBIが国内初の信託型円ステーブルコイン 信託型ステーブルコイン誕生までの経緯 日本では、2023年6月に改正資金決済法が施行され、ステーブルコインは暗号資産とは別の「電子決済手段」として制",
         "url": "https://news.yahoo.co.jp/articles/7a986291ff81cfd8268468eb5473f853738c859d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【速報】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始。イーサ上に100億円分発行へ",
-        "url": "https://news.yahoo.co.jp/articles/631eea27c8895d2632629fffbc45c4b68350f406",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
+        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYSCの100億円発行は「顧客需要を踏まえた」とSBI VCトレード──パブリックチェーン流通は「なるべく早い段階」を目指す",
         "url": "https://news.yahoo.co.jp/articles/5e98ec9be707b5d0df99b792730fe1a427226067",
         "source": "Yahoo",
@@ -5182,15 +5498,27 @@
         "url": "https://news.yahoo.co.jp/articles/7a986291ff81cfd8268468eb5473f853738c859d",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "【速報】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始。イーサ上に100億円分発行へ",
-        "url": "https://news.yahoo.co.jp/articles/631eea27c8895d2632629fffbc45c4b68350f406",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
+        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、ルクセンブルクでMiCAに基づくCASPライセンスの予備承認取得",
+        "url": "https://news.yahoo.co.jp/articles/be180f52ff8130a0ab9abf97c2317854a7d4f1e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進 GBP、通称tGBPだ。tGBPは、英国金融行動監視機構に登録された暗号資産企業BCP Technologiesが発行している。同社は、元クレディ・",
+        "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "Kraken、Aave Groupに15％出資交渉か──TVL回復遅れもAAVEは5％上昇【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/121faa7bfad3af215d482ec60566d53befe6960b",
@@ -5206,30 +5534,30 @@
       {
         "title": "マルチコインキャピタル、ハイパーリキッド分析レポート公開。HYPE価格を2028年319ドルと試算",
         "url": "https://news.yahoo.co.jp/articles/48b65117b706b5382074a7fbcad225991a4287ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インドネシア、暗号資産インフルエンサーに認証制度を導入",
-        "url": "https://news.yahoo.co.jp/articles/6b82cb2b1a9661184f2c986166b98c474572d708",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ワールドカップが人々を暗号資産の世界へ導く＝Bitget Wallet",
-        "url": "https://news.yahoo.co.jp/articles/d98cd029c122fb8a5d076694adeea4d09bd71b4f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Invesco、ステーブルコイン準備資産向けトークン化ファンドを申請",
-        "url": "https://news.yahoo.co.jp/articles/2bac7ce5ace7e9de47855af573f315a5b10b0da0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
+        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、ルクセンブルクでMiCAに基づくCASPライセンスの予備承認取得",
+        "url": "https://news.yahoo.co.jp/articles/be180f52ff8130a0ab9abf97c2317854a7d4f1e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進 GBP、通称tGBPだ。tGBPは、英国金融行動監視機構に登録された暗号資産企業BCP Technologiesが発行している。同社は、元クレディ・",
+        "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kraken、Aave Groupに15％出資交渉か──TVL回復遅れもAAVEは5％上昇【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/121faa7bfad3af215d482ec60566d53befe6960b",
         "source": "Yahoo",
@@ -5246,27 +5574,15 @@
         "url": "https://news.yahoo.co.jp/articles/48b65117b706b5382074a7fbcad225991a4287ab",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "インドネシア、暗号資産インフルエンサーに認証制度を導入",
-        "url": "https://news.yahoo.co.jp/articles/6b82cb2b1a9661184f2c986166b98c474572d708",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ワールドカップが人々を暗号資産の世界へ導く＝Bitget Wallet",
-        "url": "https://news.yahoo.co.jp/articles/d98cd029c122fb8a5d076694adeea4d09bd71b4f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Invesco、ステーブルコイン準備資産向けトークン化ファンドを申請",
-        "url": "https://news.yahoo.co.jp/articles/2bac7ce5ace7e9de47855af573f315a5b10b0da0",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進",
+        "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし JPYSCは信託銀行が裏付け資産を管理する「信託型」で、各社によると国内初。先行する資金移動業型のステーブルコインと違い、1回あたりの送金や口座残高にかかる100万",
         "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
@@ -5294,18 +5610,18 @@
       {
         "title": "SBIとスターテイルのステーブルコイン「JPYSC」が近日発行開始か、金融庁が承認＝報道",
         "url": "https://news.yahoo.co.jp/articles/d903d3a65a1474c5e76a2170953aa2a11395f7ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、円ステーブルコイン「JPYSC」週内にも発行へ──金融庁が承認、信託型で国内初＝日経 2025年10月に発行された国内初のステーブルコイン「JPYC」は、資金移動業者が発行する形態であり、1回あたりの発行額に100万円の上限がある。",
-        "url": "https://news.yahoo.co.jp/articles/88f2e2f5d8b5d274b49ae97751b045b1ed73c406",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進",
+        "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし JPYSCは信託銀行が裏付け資産を管理する「信託型」で、各社によると国内初。先行する資金移動業型のステーブルコインと違い、1回あたりの送金や口座残高にかかる100万",
         "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
         "source": "Yahoo",
@@ -5332,12 +5648,6 @@
       {
         "title": "SBIとスターテイルのステーブルコイン「JPYSC」が近日発行開始か、金融庁が承認＝報道",
         "url": "https://news.yahoo.co.jp/articles/d903d3a65a1474c5e76a2170953aa2a11395f7ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、円ステーブルコイン「JPYSC」週内にも発行へ──金融庁が承認、信託型で国内初＝日経 2025年10月に発行された国内初のステーブルコイン「JPYC」は、資金移動業者が発行する形態であり、1回あたりの発行額に100万円の上限がある。",
-        "url": "https://news.yahoo.co.jp/articles/88f2e2f5d8b5d274b49ae97751b045b1ed73c406",
         "source": "Yahoo",
         "date": ""
       }
@@ -5420,76 +5730,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "JPYC、総流通量10億円を突破",
+        "url": "https://news.yahoo.co.jp/articles/3042a09d391ef41916304da9d490cd5737632da7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、ルクセンブルクでMiCAに基づくCASPライセンスの予備承認取得",
+        "url": "https://news.yahoo.co.jp/articles/be180f52ff8130a0ab9abf97c2317854a7d4f1e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進",
+        "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BTC（ビットコイン）はAI関連株の調整と米雇用統計次第でさらなる下落に警戒か【マネックス証券】",
+        "url": "https://news.yahoo.co.jp/articles/e1f7007389dccd0b4401c5d59bf73bb961f4d18c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Slash Card、イーサリアムUSDCのソラナへのブリッジ機能を実装",
+        "url": "https://news.yahoo.co.jp/articles/a1bd70e3b84dbffd0b369d7a4c33ad91d06c4fde",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アーベ創設者が反論、クラーケン親会社によるAave関連企業への出資報道に「AAVE安売りはない」",
         "url": "https://news.yahoo.co.jp/articles/b8e35ba77258a0596f388fa25d134f99c96b36ae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【正式発表】野村HDと米サークル、ステーブルコイン活用の次世代金融インフラ検討",
-        "url": "https://news.yahoo.co.jp/articles/0c2fa0e61fa87052845f21232600f39ed42df29a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYSCの100億円発行は「顧客需要を踏まえた」とSBI VCトレード──パブリックチェーン流通は「なるべく早い段階」を目指す",
-        "url": "https://news.yahoo.co.jp/articles/5e98ec9be707b5d0df99b792730fe1a427226067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カストディ企業BitGo、従業員を15%削減──AI・ステーブルコイン分野に集中",
-        "url": "https://news.yahoo.co.jp/articles/c7dcb0817253ba50f1f442073b3632d51e117229",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "孫正義「上等だよ。どっちかが潰れるまでやってやるよ」PayPay「100億円キャンペーン」は「狂気」から生まれた",
-        "url": "https://news.yahoo.co.jp/articles/cdfc6947f996247e5b853b8eac8eb6cdb5e7b752",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "野村ＨＤ、米サークルと協業 ステーブルコイン活用した即時決済など視野",
-        "url": "https://news.yahoo.co.jp/articles/2644c0c5e528ca5f58787ab6e9c274911a3be58b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JPYC、総流通量10億円を突破",
+        "url": "https://news.yahoo.co.jp/articles/3042a09d391ef41916304da9d490cd5737632da7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、ルクセンブルクでMiCAに基づくCASPライセンスの予備承認取得",
+        "url": "https://news.yahoo.co.jp/articles/be180f52ff8130a0ab9abf97c2317854a7d4f1e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進",
+        "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BTC（ビットコイン）はAI関連株の調整と米雇用統計次第でさらなる下落に警戒か【マネックス証券】",
+        "url": "https://news.yahoo.co.jp/articles/e1f7007389dccd0b4401c5d59bf73bb961f4d18c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Slash Card、イーサリアムUSDCのソラナへのブリッジ機能を実装",
+        "url": "https://news.yahoo.co.jp/articles/a1bd70e3b84dbffd0b369d7a4c33ad91d06c4fde",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アーベ創設者が反論、クラーケン親会社によるAave関連企業への出資報道に「AAVE安売りはない」",
         "url": "https://news.yahoo.co.jp/articles/b8e35ba77258a0596f388fa25d134f99c96b36ae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【正式発表】野村HDと米サークル、ステーブルコイン活用の次世代金融インフラ検討",
-        "url": "https://news.yahoo.co.jp/articles/0c2fa0e61fa87052845f21232600f39ed42df29a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYSCの100億円発行は「顧客需要を踏まえた」とSBI VCトレード──パブリックチェーン流通は「なるべく早い段階」を目指す",
-        "url": "https://news.yahoo.co.jp/articles/5e98ec9be707b5d0df99b792730fe1a427226067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カストディ企業BitGo、従業員を15%削減──AI・ステーブルコイン分野に集中",
-        "url": "https://news.yahoo.co.jp/articles/c7dcb0817253ba50f1f442073b3632d51e117229",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "孫正義「上等だよ。どっちかが潰れるまでやってやるよ」PayPay「100億円キャンペーン」は「狂気」から生まれた",
-        "url": "https://news.yahoo.co.jp/articles/cdfc6947f996247e5b853b8eac8eb6cdb5e7b752",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "野村ＨＤ、米サークルと協業 ステーブルコイン活用した即時決済など視野",
-        "url": "https://news.yahoo.co.jp/articles/2644c0c5e528ca5f58787ab6e9c274911a3be58b",
         "source": "Yahoo",
         "date": ""
       }
