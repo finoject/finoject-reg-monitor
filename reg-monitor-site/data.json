@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T22:41:18.773Z",
+  "generatedAt": "2026-06-29T01:53:24.106Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]「東証REIT高利回り30指数」の算出開始について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260629-01.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T01:53:24.106Z",
+      "enriched": "2026-06-29T01:53:29.611Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研が本日（2026年6月29日）から「東証REIT高利回り30指数」の算出を開始し、東証REIT指数の構成銘柄のうち分配金利回りが相対的に高い30銘柄を選定する新指数が追加された。",
+        "投資商品開発担当者や指数関連業務を行う金融機関は、新指数の詳細仕様を確認し、対応する投資信託やETF等の設計検討が必要となる可能性がある。",
+        "東証REIT高利回り30指数は2026年6月29日から算出開始であり、詳細はJPX総研インデックスビジネス部の提供資料で確認できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]10本板ヒストリカルデータの提供開始について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/6020/20260629-01.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T01:53:24.106Z",
+      "enriched": "2026-06-29T01:53:29.611Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研は2026年6月29日からFLEX電文を板情報化した10本板ヒストリカルデータの提供を開始し、データ利用者はパケットキャプチャ形式の電文から板情報を構築する手間を削減できる。",
+        "データ利用者はJPxData Portalから申込み手続きを行い、JPX総研との契約締結により、Snowflakeのデータシェアリング機能を通じて10本気配・成行注文など幅広い気配情報を含むデータを利用可能になる。",
+        "提供開始日は2026年6月29日、完全な順序性を保持する更新番号により正確な順序で板情報を再現でき、流動性分析・執行分析・トレーディング戦略立案が容易になる。"
       ],
       "aiSumV": 3
     },
@@ -5502,6 +5532,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "Binance、EUのライセンス移行を前に4億ドルを超える流出",
+        "url": "https://news.yahoo.co.jp/articles/d1661127bb9795beb43c5451029a629d77a0760f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIが自ら資金を運用し確率を弾き出す時代",
         "url": "https://news.yahoo.co.jp/articles/c52fcafc30a484a393caf907d5a3f9cda9d6cb47",
         "source": "Yahoo",
@@ -5528,18 +5564,18 @@
       {
         "title": "習近平が「日本に行くな」と煽った悲惨な結果",
         "url": "https://news.yahoo.co.jp/articles/38f4d709e681cd7fb0898b0e198a538b774cf1db",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
-        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Binance、EUのライセンス移行を前に4億ドルを超える流出",
+        "url": "https://news.yahoo.co.jp/articles/d1661127bb9795beb43c5451029a629d77a0760f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIが自ら資金を運用し確率を弾き出す時代",
         "url": "https://news.yahoo.co.jp/articles/c52fcafc30a484a393caf907d5a3f9cda9d6cb47",
         "source": "Yahoo",
@@ -5566,12 +5602,6 @@
       {
         "title": "習近平が「日本に行くな」と煽った悲惨な結果",
         "url": "https://news.yahoo.co.jp/articles/38f4d709e681cd7fb0898b0e198a538b774cf1db",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
-        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
         "source": "Yahoo",
         "date": ""
       }
@@ -5730,6 +5760,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "世界経済は依然「ドル中心」、変化ほぼない＝ＩＭＦチーフエコノミスト",
+        "url": "https://news.yahoo.co.jp/articles/7830cac75458e2aafc2e10e50434c976b64d5c91",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインには世界の金融システムを分断するリスクがある＝国際決済銀行が警告",
         "url": "https://news.yahoo.co.jp/articles/cc346e37e8deb850130ac252bd5f5bc1fda5c165",
         "source": "Yahoo",
@@ -5756,18 +5792,18 @@
       {
         "title": "このままでは日本と心中しかねない",
         "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "恐怖の再燃と、静かな蓄積── ビットコイン市場が試される「投げ売り後」の需給構造【BitTrade Market Weekly】",
-        "url": "https://news.yahoo.co.jp/articles/71e918c3e674b79342c941ef7c86ab90eb4d568d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "世界経済は依然「ドル中心」、変化ほぼない＝ＩＭＦチーフエコノミスト",
+        "url": "https://news.yahoo.co.jp/articles/7830cac75458e2aafc2e10e50434c976b64d5c91",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインには世界の金融システムを分断するリスクがある＝国際決済銀行が警告",
         "url": "https://news.yahoo.co.jp/articles/cc346e37e8deb850130ac252bd5f5bc1fda5c165",
         "source": "Yahoo",
@@ -5794,12 +5830,6 @@
       {
         "title": "このままでは日本と心中しかねない",
         "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "恐怖の再燃と、静かな蓄積── ビットコイン市場が試される「投げ売り後」の需給構造【BitTrade Market Weekly】",
-        "url": "https://news.yahoo.co.jp/articles/71e918c3e674b79342c941ef7c86ab90eb4d568d",
         "source": "Yahoo",
         "date": ""
       }
