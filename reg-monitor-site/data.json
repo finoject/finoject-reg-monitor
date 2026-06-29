@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T12:17:54.880Z",
+  "generatedAt": "2026-06-29T16:26:59.711Z",
   "items": [
     {
       "agency": "金融庁",
@@ -5682,6 +5682,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "イーロン・マスク氏のXが金融サービス「Xマネー」開始、個人間送金や預金など",
+        "url": "https://news.yahoo.co.jp/articles/4d29b577e575f5206c1aaf890681810390ef6389",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カザフスタン証券取引所でソラナ（SOL）とイーサリアム（ETH）のETFが取引開始",
         "url": "https://news.yahoo.co.jp/articles/a162c440647f91b4bfa8a1b4ece905af9ea83f96",
         "source": "Yahoo",
@@ -5708,18 +5714,18 @@
       {
         "title": "ブロックチェーン技術はワールドカップのチケッティングの未来をどう変えるのか？CMOへ独占インタビュー",
         "url": "https://news.yahoo.co.jp/expert/articles/25d417a6ed01a0ea78692f911ee7e7ba5964a02b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "EU暗号資産認可の移行期限に延長なし、スペイン当局が明言",
-        "url": "https://news.yahoo.co.jp/articles/5f6ffb8329dcc6eb6320177135d5773469c5c8f8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "イーロン・マスク氏のXが金融サービス「Xマネー」開始、個人間送金や預金など",
+        "url": "https://news.yahoo.co.jp/articles/4d29b577e575f5206c1aaf890681810390ef6389",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カザフスタン証券取引所でソラナ（SOL）とイーサリアム（ETH）のETFが取引開始",
         "url": "https://news.yahoo.co.jp/articles/a162c440647f91b4bfa8a1b4ece905af9ea83f96",
         "source": "Yahoo",
@@ -5746,12 +5752,6 @@
       {
         "title": "ブロックチェーン技術はワールドカップのチケッティングの未来をどう変えるのか？CMOへ独占インタビュー",
         "url": "https://news.yahoo.co.jp/expert/articles/25d417a6ed01a0ea78692f911ee7e7ba5964a02b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "EU暗号資産認可の移行期限に延長なし、スペイン当局が明言",
-        "url": "https://news.yahoo.co.jp/articles/5f6ffb8329dcc6eb6320177135d5773469c5c8f8",
         "source": "Yahoo",
         "date": ""
       }
