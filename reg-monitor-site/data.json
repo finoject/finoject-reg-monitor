@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T07:14:44.028Z",
+  "generatedAt": "2026-06-29T12:17:54.880Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "当協会が開催した記者会見の概要等について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260629fai.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T12:17:54.880Z",
+      "enriched": "2026-06-29T12:18:01.519Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2027年4月から東証プライム市場時価総額3兆円以上企業を対象にサステナビリティ情報開示が義務化される見込みのため、協会は2026年3月に国際基準と整合するサステナビリティ保証業務に関する実務指針・品質管理基準を公表し、本年7月定期総会で倫理規則改正案を付議予定。",
+        "有価証券報告書の確認書制度について、米国と同様に経営者が開示手続の構築・維持の責任を負う旨の宣誓書制度導入と虚偽記載時の刑事罰規定を含めた制度見直しを協会が支持し、最近の上場会社会計不正事案を踏まえて実効性確保を主張。",
+        "定時株主総会の後ろ倒しについて、協会は議決権行使基準日変更による総会開催時期の後ろ倒しを主張し、5月22日公表のコーポレートガバナンス・コード改訂案にも盛り込まれ、金融商品取引法・会社法における開示監査の一本化一元化に向けた見直しが進行中。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "懲戒 準会員の懲戒処分について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260629gaj.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T12:17:54.880Z",
+      "enriched": "2026-06-29T12:18:01.519Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "準会員・守谷智明（登録番号13151号、東京会所属）が2024年地方議会議員選挙の選挙公報における資格誤記載に関し、会則第48条・倫理規則等に違反したため退会勧告処分を受けた。",
+        "該当準会員は退会するまで退会勧告の効力が継続し、併科として会則による権利停止を受けるが、監査業務等の公認会計士業務自体は制限されない。",
+        "懲戒処分は2026年6月29日付けで発効し、会則第70条第2項第1号に基づき公表される。"
       ],
       "aiSumV": 3
     },
@@ -5424,158 +5454,164 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "カカクコム争奪戦！「株主構成の力学」を読めば、買収の行方は見える——TOBが証明した“下限17.51%の意味”",
+        "url": "https://news.yahoo.co.jp/articles/bbb553a38f5a5694af5d2bf1bcf54db21d0aeb2f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
+        "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "監視委、TKP元社員と夫告発 未公開情報で株取引疑い",
+        "url": "https://news.yahoo.co.jp/articles/af7d2aee0562e5e2fbb9baf0d88880605189f67d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫を告発 インサイダー容疑 監視委",
+        "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダー取引疑いTKP元社員と夫告発",
+        "url": "https://news.yahoo.co.jp/articles/edf1490950cd6b4f69cbd37c3807935d4f696b5e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
         "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インサイダー取引の疑いで「TKP」元社員と夫を刑事告発へ 証券監視委",
-        "url": "https://news.yahoo.co.jp/articles/7aa167987f5376f0de9f7ef54c47348a011b6fd7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】監視委、TKP元社員と夫告発へ 未公開情報でインサイダー疑い",
-        "url": "https://news.yahoo.co.jp/articles/4101c3f9f21bea4ea0af1911caf9a0a1b144dcee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インサイダー容疑でTKP元社員と夫告発へ",
-        "url": "https://news.yahoo.co.jp/articles/ae82ad42bf1030e21f8fac58d79395665ce4693d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「父が遺してくれたお金だったのに",
-        "url": "https://news.yahoo.co.jp/articles/68aaf82a0c9e2eadb626e94af031abc99029c975",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】",
-        "url": "https://news.yahoo.co.jp/articles/8f883e341fea6b02c1666b33751918d14577b239",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "カカクコム争奪戦！「株主構成の力学」を読めば、買収の行方は見える——TOBが証明した“下限17.51%の意味”",
+        "url": "https://news.yahoo.co.jp/articles/bbb553a38f5a5694af5d2bf1bcf54db21d0aeb2f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
+        "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "監視委、TKP元社員と夫告発 未公開情報で株取引疑い",
+        "url": "https://news.yahoo.co.jp/articles/af7d2aee0562e5e2fbb9baf0d88880605189f67d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫を告発 インサイダー容疑 監視委",
+        "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダー取引疑いTKP元社員と夫告発",
+        "url": "https://news.yahoo.co.jp/articles/edf1490950cd6b4f69cbd37c3807935d4f696b5e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
         "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インサイダー取引の疑いで「TKP」元社員と夫を刑事告発へ 証券監視委",
-        "url": "https://news.yahoo.co.jp/articles/7aa167987f5376f0de9f7ef54c47348a011b6fd7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】監視委、TKP元社員と夫告発へ 未公開情報でインサイダー疑い",
-        "url": "https://news.yahoo.co.jp/articles/4101c3f9f21bea4ea0af1911caf9a0a1b144dcee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インサイダー容疑でTKP元社員と夫告発へ",
-        "url": "https://news.yahoo.co.jp/articles/ae82ad42bf1030e21f8fac58d79395665ce4693d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「父が遺してくれたお金だったのに",
-        "url": "https://news.yahoo.co.jp/articles/68aaf82a0c9e2eadb626e94af031abc99029c975",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】",
-        "url": "https://news.yahoo.co.jp/articles/8f883e341fea6b02c1666b33751918d14577b239",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "カカクコム争奪戦！「株主構成の力学」を読めば、買収の行方は見える——TOBが証明した“下限17.51%の意味”",
+        "url": "https://news.yahoo.co.jp/articles/bbb553a38f5a5694af5d2bf1bcf54db21d0aeb2f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
+        "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "監視委、TKP元社員と夫告発 未公開情報で株取引疑い",
+        "url": "https://news.yahoo.co.jp/articles/af7d2aee0562e5e2fbb9baf0d88880605189f67d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫を告発 インサイダー容疑 監視委",
+        "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダー取引疑いTKP元社員と夫告発",
+        "url": "https://news.yahoo.co.jp/articles/edf1490950cd6b4f69cbd37c3807935d4f696b5e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
         "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インサイダー取引の疑いで「TKP」元社員と夫を刑事告発へ 証券監視委",
-        "url": "https://news.yahoo.co.jp/articles/7aa167987f5376f0de9f7ef54c47348a011b6fd7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】監視委、TKP元社員と夫告発へ 未公開情報でインサイダー疑い",
-        "url": "https://news.yahoo.co.jp/articles/4101c3f9f21bea4ea0af1911caf9a0a1b144dcee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インサイダー容疑でTKP元社員と夫告発へ",
-        "url": "https://news.yahoo.co.jp/articles/ae82ad42bf1030e21f8fac58d79395665ce4693d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「父が遺してくれたお金だったのに",
-        "url": "https://news.yahoo.co.jp/articles/68aaf82a0c9e2eadb626e94af031abc99029c975",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】",
-        "url": "https://news.yahoo.co.jp/articles/8f883e341fea6b02c1666b33751918d14577b239",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "カカクコム争奪戦！「株主構成の力学」を読めば、買収の行方は見える——TOBが証明した“下限17.51%の意味”",
+        "url": "https://news.yahoo.co.jp/articles/bbb553a38f5a5694af5d2bf1bcf54db21d0aeb2f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
+        "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "監視委、TKP元社員と夫告発 未公開情報で株取引疑い",
+        "url": "https://news.yahoo.co.jp/articles/af7d2aee0562e5e2fbb9baf0d88880605189f67d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫を告発 インサイダー容疑 監視委",
+        "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダー取引疑いTKP元社員と夫告発",
+        "url": "https://news.yahoo.co.jp/articles/edf1490950cd6b4f69cbd37c3807935d4f696b5e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
         "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インサイダー取引の疑いで「TKP」元社員と夫を刑事告発へ 証券監視委",
-        "url": "https://news.yahoo.co.jp/articles/7aa167987f5376f0de9f7ef54c47348a011b6fd7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】監視委、TKP元社員と夫告発へ 未公開情報でインサイダー疑い",
-        "url": "https://news.yahoo.co.jp/articles/4101c3f9f21bea4ea0af1911caf9a0a1b144dcee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インサイダー容疑でTKP元社員と夫告発へ",
-        "url": "https://news.yahoo.co.jp/articles/ae82ad42bf1030e21f8fac58d79395665ce4693d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「父が遺してくれたお金だったのに",
-        "url": "https://news.yahoo.co.jp/articles/68aaf82a0c9e2eadb626e94af031abc99029c975",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】",
-        "url": "https://news.yahoo.co.jp/articles/8f883e341fea6b02c1666b33751918d14577b239",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "421AC0000000059": [
       {
+        "title": "Circle、野村ホールディングスとデジタル金融で協業へ──改正資金決済法の施行と、動き出す日本のステーブルコイン決済【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【2017年のINTERNET Watch】分散型SNS「マストドン」に業界が熱狂。ランサムウェア「WannaCry」が猛威",
         "url": "https://news.yahoo.co.jp/articles/de47611954563ef728ab7f922a753c1dba153233",
         "source": "Yahoo",
@@ -5602,18 +5638,18 @@
       {
         "title": "フロンティアAI企業はなぜ「Stripe」を選ぶ？ 日本企業が学ぶべき「4つの観点」",
         "url": "https://news.yahoo.co.jp/articles/a9ffefa068e212188a293bd2fac6f39f7aa889d1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
-        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "Circle、野村ホールディングスとデジタル金融で協業へ──改正資金決済法の施行と、動き出す日本のステーブルコイン決済【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【2017年のINTERNET Watch】分散型SNS「マストドン」に業界が熱狂。ランサムウェア「WannaCry」が猛威",
         "url": "https://news.yahoo.co.jp/articles/de47611954563ef728ab7f922a753c1dba153233",
         "source": "Yahoo",
@@ -5642,15 +5678,21 @@
         "url": "https://news.yahoo.co.jp/articles/a9ffefa068e212188a293bd2fac6f39f7aa889d1",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "SBIがビットバンクを買収、暗号資産預かり額1.1兆円で国内首位",
-        "url": "https://news.yahoo.co.jp/articles/9c3cb13fcc996d621979a8494350da1795c52057",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "カザフスタン証券取引所でソラナ（SOL）とイーサリアム（ETH）のETFが取引開始",
+        "url": "https://news.yahoo.co.jp/articles/a162c440647f91b4bfa8a1b4ece905af9ea83f96",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Circle、野村ホールディングスとデジタル金融で協業へ──改正資金決済法の施行と、動き出す日本のステーブルコイン決済【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "メイプルとクラーケン、暗号資産担保ローン向けオンチェーン型融資枠を組成",
         "url": "https://news.yahoo.co.jp/articles/f5cf05ede1ea4cb8997aa02a5948ee03b5098554",
@@ -5658,7 +5700,7 @@
         "date": ""
       },
       {
-        "title": "ハイパーリキッド、シンガポールMASの投資家警戒リストに掲載。「禁止措置ではない」と説明",
+        "title": "ハイパーリキッド、シンガポールMASの投資家警戒リスト掲載。「禁止措置ではない」と説明",
         "url": "https://news.yahoo.co.jp/articles/60b6f04912f39d9aeec12fba6f205d812e930a6d",
         "source": "Yahoo",
         "date": ""
@@ -5672,31 +5714,31 @@
       {
         "title": "EU暗号資産認可の移行期限に延長なし、スペイン当局が明言",
         "url": "https://news.yahoo.co.jp/articles/5f6ffb8329dcc6eb6320177135d5773469c5c8f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
-        "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、EU向けサービス停止へ。MiCA認可申請取り下げ",
-        "url": "https://news.yahoo.co.jp/articles/13068a68825437307d9ef171a8b3b11ca29dc4e6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "カザフスタン証券取引所でソラナ（SOL）とイーサリアム（ETH）のETFが取引開始",
+        "url": "https://news.yahoo.co.jp/articles/a162c440647f91b4bfa8a1b4ece905af9ea83f96",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Circle、野村ホールディングスとデジタル金融で協業へ──改正資金決済法の施行と、動き出す日本のステーブルコイン決済【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "メイプルとクラーケン、暗号資産担保ローン向けオンチェーン型融資枠を組成",
         "url": "https://news.yahoo.co.jp/articles/f5cf05ede1ea4cb8997aa02a5948ee03b5098554",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ハイパーリキッド、シンガポールMASの投資家警戒リストに掲載。「禁止措置ではない」と説明",
+        "title": "ハイパーリキッド、シンガポールMASの投資家警戒リスト掲載。「禁止措置ではない」と説明",
         "url": "https://news.yahoo.co.jp/articles/60b6f04912f39d9aeec12fba6f205d812e930a6d",
         "source": "Yahoo",
         "date": ""
@@ -5710,18 +5752,6 @@
       {
         "title": "EU暗号資産認可の移行期限に延長なし、スペイン当局が明言",
         "url": "https://news.yahoo.co.jp/articles/5f6ffb8329dcc6eb6320177135d5773469c5c8f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
-        "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、EU向けサービス停止へ。MiCA認可申請取り下げ",
-        "url": "https://news.yahoo.co.jp/articles/13068a68825437307d9ef171a8b3b11ca29dc4e6",
         "source": "Yahoo",
         "date": ""
       }
@@ -5880,6 +5910,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "Circle、野村ホールディングスとデジタル金融で協業へ──改正資金決済法の施行と、動き出す日本のステーブルコイン決済【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DeFiプロトコル「スパーク」、ユニスワップv4へ1.5億ドルのステーブルコイン流動性を移行",
         "url": "https://news.yahoo.co.jp/articles/2e7a361a2650dd8d4e93558d16ac60729504686d",
         "source": "Yahoo",
@@ -5904,20 +5940,20 @@
         "date": ""
       },
       {
-        "title": "スターテイル、スーパーアプリ「Startale App」の日本版を提供開始",
+        "title": "スターテイル、スーパーアプリ「Startale App」日本版を提供開始",
         "url": "https://news.yahoo.co.jp/articles/ca4b5bcc4ba63bbb477eaaa7837ba5ebc64b6340",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "セキュリタイズ、ティッカー「SECZ」で7/2にNYSE上場へ。約4億ドル調達見込み",
-        "url": "https://news.yahoo.co.jp/articles/9d37fa56c136758db5d2f31544805ca937fc7b68",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Circle、野村ホールディングスとデジタル金融で協業へ──改正資金決済法の施行と、動き出す日本のステーブルコイン決済【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DeFiプロトコル「スパーク」、ユニスワップv4へ1.5億ドルのステーブルコイン流動性を移行",
         "url": "https://news.yahoo.co.jp/articles/2e7a361a2650dd8d4e93558d16ac60729504686d",
         "source": "Yahoo",
@@ -5942,14 +5978,8 @@
         "date": ""
       },
       {
-        "title": "スターテイル、スーパーアプリ「Startale App」の日本版を提供開始",
+        "title": "スターテイル、スーパーアプリ「Startale App」日本版を提供開始",
         "url": "https://news.yahoo.co.jp/articles/ca4b5bcc4ba63bbb477eaaa7837ba5ebc64b6340",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "セキュリタイズ、ティッカー「SECZ」で7/2にNYSE上場へ。約4億ドル調達見込み",
-        "url": "https://news.yahoo.co.jp/articles/9d37fa56c136758db5d2f31544805ca937fc7b68",
         "source": "Yahoo",
         "date": ""
       }
@@ -6670,6 +6700,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "政府のAI基本計画素案 パブコメに大量の「AI作成」意見か",
+        "url": "https://news.yahoo.co.jp/articles/cf9456f4f31d41dbf6f5c0d8c0cdcbe068ccba0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "週明け国会、正常化焦点 カギ握る予算委・党首討論 維新は会期延長要求へ",
         "url": "https://news.yahoo.co.jp/articles/a4da1129ccd95c60d317f8299d7638d9593f681a",
         "source": "Yahoo",
@@ -6696,18 +6732,18 @@
       {
         "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
         "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "5:28写真の映り込みも危険 SNS投稿で情報漏えいのリスク",
-        "url": "https://news.yahoo.co.jp/articles/ef5092de6f676655993ff36a3ad7575ff3efcbcd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "政府のAI基本計画素案 パブコメに大量の「AI作成」意見か",
+        "url": "https://news.yahoo.co.jp/articles/cf9456f4f31d41dbf6f5c0d8c0cdcbe068ccba0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "週明け国会、正常化焦点 カギ握る予算委・党首討論 維新は会期延長要求へ",
         "url": "https://news.yahoo.co.jp/articles/a4da1129ccd95c60d317f8299d7638d9593f681a",
         "source": "Yahoo",
@@ -6734,18 +6770,18 @@
       {
         "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
         "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "5:28写真の映り込みも危険 SNS投稿で情報漏えいのリスク",
-        "url": "https://news.yahoo.co.jp/articles/ef5092de6f676655993ff36a3ad7575ff3efcbcd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "政府のAI基本計画素案 パブコメに大量の「AI作成」意見か",
+        "url": "https://news.yahoo.co.jp/articles/cf9456f4f31d41dbf6f5c0d8c0cdcbe068ccba0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "週明け国会、正常化焦点 カギ握る予算委・党首討論 維新は会期延長要求へ",
         "url": "https://news.yahoo.co.jp/articles/a4da1129ccd95c60d317f8299d7638d9593f681a",
         "source": "Yahoo",
@@ -6772,12 +6808,6 @@
       {
         "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
         "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "5:28写真の映り込みも危険 SNS投稿で情報漏えいのリスク",
-        "url": "https://news.yahoo.co.jp/articles/ef5092de6f676655993ff36a3ad7575ff3efcbcd",
         "source": "Yahoo",
         "date": ""
       }
