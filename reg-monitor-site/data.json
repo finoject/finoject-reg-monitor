@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T01:53:24.106Z",
+  "generatedAt": "2026-06-29T07:14:44.028Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,158 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（グロース市場）：（株）ティアフォー",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T07:14:44.028Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-06-29T07:14:49.249Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "売れるネット広告社グループ（9235）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T07:14:44.028Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-06-29T07:14:49.250Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（日銀レビュー）日本銀行が参加するアジアの国際会議の発展と深化",
+      "url": "https://www.boj.or.jp/research/wps_rev/rev_2026/rev26j09.htm",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T07:14:44.028Z",
+      "enriched": "2026-06-29T07:14:49.250Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "EMEAP（東アジア・オセアニア中央銀行役員会議）とASEAN+3は、外部環境の複雑化を受けて両会合の重要性が一段と増しており、地域の中央銀行間協力の要として機能している。",
+        "日本銀行は、アジアの経済・金融情勢をきめ細かく把握し金融安定に向けた協力を進めるため、地域の情勢や共通課題について率直な意見交換を行い、域内中央銀行との連携を一層深めていく必要がある。",
+        "日本銀行が参加する両地域会合の活動内容が一般には広く認知されていない中、アジアの経済構造変化に伴い、わが国との経済・金融面の結びつき強化に対応した地域協力の深化が求められている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "国債市場の流動性指標（5月）",
+      "url": "https://www.boj.or.jp/paym/bond/ryudo.pdf",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T07:14:44.028Z",
+      "enriched": "2026-06-29T07:14:49.250Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日銀は5月末の国債市場流動性を11指標で月次公表、長期国債先物市場の出来高・値幅・厚みと現物市場のディーラー間・対顧客取引の出来高・スプレッド・提示時間およびSCレポ市場の希少性を監視している。",
+        "市場参加者は日銀が公開する各指標のデータ（後方10日移動平均、2012年基準値）を参照し、自らの取引戦略や流動性リスク管理に活用すべく、毎月末時点の最新数値を確認する必要がある。",
+        "本指標は2015年以降の日銀ワーキングペーパーおよび調査論文で定義・検証された国債市場流動性の測定手法に基づき、金融市場局が継続的に公表する統計資料である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の基準値段等：ギフティグループ株式会社 株式（コード590A）",
+      "url": "https://www.jpx.co.jp/news/1030/20260629-01.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T07:14:44.028Z",
+      "enriched": "2026-06-29T07:14:49.250Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ギフティグループ株式会社株式（コード590A）は2026年7月1日に東証に新規上場し、基準値段995円、制限値幅150円を適用する。",
+        "取引参加者・投資家は当該銘柄について上場初日から通常の呼値制限値幅（150円）に基づいて取引を行う。",
+        "東京証券取引所により2026年7月1日付けで新規上場銘柄として指定される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260629-02.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T07:14:44.028Z",
+      "enriched": "2026-06-29T07:14:49.250Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）アクリート（コード4395）について、6月29日までに2営業日連続してストップ高（安）かつ売買高0株の状態が生じたため、6月30日の制限値幅上限を600円に拡大（基準値段932円、通常下限150円のまま）",
+        "取引参加者および投資家は、同銘柄の6月30日以降の売買時に拡大された制限値幅の存在に留意し、特に成行注文による思わぬ値段での約定リスクに注意すること",
+        "制限値幅の拡大は東証の売買制度に基づくもので、ストップ高（安）以外の値段で売買が成立した翌営業日から通常に戻る（6月30日以降適用）"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：ミモザ（株）",
+      "url": "https://www.jpx.co.jp/news/1021/20260629-18.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T07:14:44.028Z",
+      "enriched": "2026-06-29T07:14:49.250Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ミモザ（株）の株式（TOKYO PRO Market、コード191A）について、同社の申請に基づき上場廃止を決定し、2026年6月29日から7月27日まで整理銘柄に指定、7月28日に上場廃止となる。",
+        "信用取引委託保証金・発行日決済取引証拠金・取引参加者保証金・信認金の代用有価証券から同社株式を2026年6月30日以降除外する必要があり、取引参加者等が対応する。",
+        "特定上場有価証券に関する有価証券上場規程の特例第143条に基づく上場廃止であり、速やかに廃止事情が発生した場合は整理銘柄指定期間及び廃止日を変更することがある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：ネイス（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20260629_01.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T07:14:44.028Z",
+      "enriched": "2026-06-29T07:14:49.250Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ネイス（株）（コード589A）の2026年6月30日上場における初値決定前の気配運用として、板中心値段1,320円から開始し、上限3,040円（66円刻み・10分更新）、下限990円（通常幅・3分更新）で段階的に気配を更新する。",
+        "取引参加者は新規上場日における成行売呼値・成行買呼値を禁止され、注文受付価格は330円以上5,280円以下の範囲に限定される。初値成立まで制限値幅は適用されない。",
+        "本運用は東京証券取引所の新規上場銘柄に対する初値決定前の標準的な気配運用基準に基づき、2026年6月30日の立会開始時から適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）不二興産",
+      "url": "https://www.jpx.co.jp/news/1031/20260629_02.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T07:14:44.028Z",
+      "enriched": "2026-06-29T07:14:49.250Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）不二興産（コード595A）の6月30日新規上場における初値決定前の気配運用として、板中心値段452円から開始し、上限1,040円（更新値幅23円・10分間隔）、下限339円（通常更新幅・3分間隔）で運用される。",
+        "取引参加者は同社の新規上場日において成行売呼値及び成行買呼値を禁止し、指値注文のみで対応する必要がある。注文受付価格は113円以上1,808円以下の範囲に限定される。",
+        "東証の初値決定前気配運用ルールに基づき、制限値幅は初値決定まで適用されず、初値決定後に初値を基準値段として呼値の制限値幅が適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]AIを活用した開示情報活用サービス「J-LENS」シリーズ提供開始",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/6020/20260629-02.html",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-29T07:14:44.028Z",
+      "enriched": "2026-06-29T07:14:49.250Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研がAI開示情報検索サービス「J-LENS」シリーズを提供開始。β版の「発見」機能から「比較・分析」を含む実務活用まで対応し、Free・Standard・Premium3階層で展開。",
+        "法人向けサービスとしてStandard版は2026年内に網羅的検索機能から開始、Premium版は2026年秋頃有償提供。Standard契約者は2026年9月までPremium試用版を無料利用可。",
+        "ver.1は法人のみ対象で個人申込は対象外。ver.2は2027年秋頃予定。Standard版には検索条件登録・結果エクスポート等の証券事務・継続モニタリング機能を順次追加する予定。"
       ],
       "aiSumV": 3
     },
@@ -460,22 +612,6 @@
       "enriched": "2026-06-25T09:56:37.007Z"
     },
     {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（グロース市場）：（株）アイ・グリッド・ソリューションズ",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-06-25",
-      "detectedAt": "2026-06-25T09:56:32.545Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-06-25T09:56:37.007Z"
-    },
-    {
       "agency": "日本証券業協会",
       "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/j-ships/index.html",
@@ -824,22 +960,6 @@
         "金融機能強化法ガイドラインは令和8年6月24日限り廃止され、協同組織金融機関の優先出資に係る主務大臣定率等を定める関連告示も廃止される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "牧野フライス製作所（6135）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-06-24",
-      "detectedAt": "2026-06-24T10:00:34.152Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-06-24T10:00:40.853Z"
     },
     {
       "agency": "日本証券業協会",
@@ -5304,6 +5424,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
+        "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダー取引の疑いで「TKP」元社員と夫を刑事告発へ 証券監視委",
+        "url": "https://news.yahoo.co.jp/articles/7aa167987f5376f0de9f7ef54c47348a011b6fd7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】監視委、TKP元社員と夫告発へ 未公開情報でインサイダー疑い",
         "url": "https://news.yahoo.co.jp/articles/4101c3f9f21bea4ea0af1911caf9a0a1b144dcee",
         "source": "Yahoo",
@@ -5324,24 +5456,24 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】",
         "url": "https://news.yahoo.co.jp/articles/8f883e341fea6b02c1666b33751918d14577b239",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "正当な取引を装って他人に株取引させたか 暴力団組長ら男2人を逮捕 260万円の利益を得た疑い 岐阜県警",
-        "url": "https://news.yahoo.co.jp/articles/8c564ebb77ad5594c16094121c73f0414ca47c51",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国在住の元ゴールドマン・サックス子会社員、日本企業ＴＯＢ巡り親族名義で１８００万円利益",
-        "url": "https://news.yahoo.co.jp/articles/b5d5c7019eb77ceb9cd861716344104dffb997f6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
+        "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダー取引の疑いで「TKP」元社員と夫を刑事告発へ 証券監視委",
+        "url": "https://news.yahoo.co.jp/articles/7aa167987f5376f0de9f7ef54c47348a011b6fd7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】監視委、TKP元社員と夫告発へ 未公開情報でインサイダー疑い",
         "url": "https://news.yahoo.co.jp/articles/4101c3f9f21bea4ea0af1911caf9a0a1b144dcee",
         "source": "Yahoo",
@@ -5362,24 +5494,24 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】",
         "url": "https://news.yahoo.co.jp/articles/8f883e341fea6b02c1666b33751918d14577b239",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "正当な取引を装って他人に株取引させたか 暴力団組長ら男2人を逮捕 260万円の利益を得た疑い 岐阜県警",
-        "url": "https://news.yahoo.co.jp/articles/8c564ebb77ad5594c16094121c73f0414ca47c51",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国在住の元ゴールドマン・サックス子会社員、日本企業ＴＯＢ巡り親族名義で１８００万円利益",
-        "url": "https://news.yahoo.co.jp/articles/b5d5c7019eb77ceb9cd861716344104dffb997f6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
+        "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダー取引の疑いで「TKP」元社員と夫を刑事告発へ 証券監視委",
+        "url": "https://news.yahoo.co.jp/articles/7aa167987f5376f0de9f7ef54c47348a011b6fd7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】監視委、TKP元社員と夫告発へ 未公開情報でインサイダー疑い",
         "url": "https://news.yahoo.co.jp/articles/4101c3f9f21bea4ea0af1911caf9a0a1b144dcee",
         "source": "Yahoo",
@@ -5400,24 +5532,24 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】",
         "url": "https://news.yahoo.co.jp/articles/8f883e341fea6b02c1666b33751918d14577b239",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "正当な取引を装って他人に株取引させたか 暴力団組長ら男2人を逮捕 260万円の利益を得た疑い 岐阜県警",
-        "url": "https://news.yahoo.co.jp/articles/8c564ebb77ad5594c16094121c73f0414ca47c51",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国在住の元ゴールドマン・サックス子会社員、日本企業ＴＯＢ巡り親族名義で１８００万円利益",
-        "url": "https://news.yahoo.co.jp/articles/b5d5c7019eb77ceb9cd861716344104dffb997f6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
+        "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダー取引の疑いで「TKP」元社員と夫を刑事告発へ 証券監視委",
+        "url": "https://news.yahoo.co.jp/articles/7aa167987f5376f0de9f7ef54c47348a011b6fd7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】監視委、TKP元社員と夫告発へ 未公開情報でインサイダー疑い",
         "url": "https://news.yahoo.co.jp/articles/4101c3f9f21bea4ea0af1911caf9a0a1b144dcee",
         "source": "Yahoo",
@@ -5438,18 +5570,6 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】",
         "url": "https://news.yahoo.co.jp/articles/8f883e341fea6b02c1666b33751918d14577b239",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "正当な取引を装って他人に株取引させたか 暴力団組長ら男2人を逮捕 260万円の利益を得た疑い 岐阜県警",
-        "url": "https://news.yahoo.co.jp/articles/8c564ebb77ad5594c16094121c73f0414ca47c51",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国在住の元ゴールドマン・サックス子会社員、日本企業ＴＯＢ巡り親族名義で１８００万円利益",
-        "url": "https://news.yahoo.co.jp/articles/b5d5c7019eb77ceb9cd861716344104dffb997f6",
         "source": "Yahoo",
         "date": ""
       }
@@ -5532,76 +5652,76 @@
     ],
     "429M60000002007": [
       {
-        "title": "Binance、EUのライセンス移行を前に4億ドルを超える流出",
-        "url": "https://news.yahoo.co.jp/articles/d1661127bb9795beb43c5451029a629d77a0760f",
+        "title": "メイプルとクラーケン、暗号資産担保ローン向けオンチェーン型融資枠を組成",
+        "url": "https://news.yahoo.co.jp/articles/f5cf05ede1ea4cb8997aa02a5948ee03b5098554",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AIが自ら資金を運用し確率を弾き出す時代",
-        "url": "https://news.yahoo.co.jp/articles/c52fcafc30a484a393caf907d5a3f9cda9d6cb47",
+        "title": "ハイパーリキッド、シンガポールMASの投資家警戒リストに掲載。「禁止措置ではない」と説明",
+        "url": "https://news.yahoo.co.jp/articles/60b6f04912f39d9aeec12fba6f205d812e930a6d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "CLARITY法案、運命の4週間へ。アメリカはオンチェーン金融を選ぶのか【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/19e30cd55437ef3d72ef15b44d9651cf488acfdb",
+        "title": "ブロックチェーン技術はワールドカップのチケッティングの未来をどう変えるのか？CMOへ独占インタビュー",
+        "url": "https://news.yahoo.co.jp/expert/articles/25d417a6ed01a0ea78692f911ee7e7ba5964a02b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "3万5000円で“人生終了”。「サクッと稼ごう」Xの甘い誘いで銀行口座を売った38歳会社員の末路",
-        "url": "https://news.yahoo.co.jp/articles/2e4ed03c1443312b65c19dac0b65d067e26f3a9e",
+        "title": "EU暗号資産認可の移行期限に延長なし、スペイン当局が明言",
+        "url": "https://news.yahoo.co.jp/articles/5f6ffb8329dcc6eb6320177135d5773469c5c8f8",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】",
-        "url": "https://news.yahoo.co.jp/articles/8f883e341fea6b02c1666b33751918d14577b239",
+        "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
+        "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "習近平が「日本に行くな」と煽った悲惨な結果",
-        "url": "https://news.yahoo.co.jp/articles/38f4d709e681cd7fb0898b0e198a538b774cf1db",
+        "title": "バイナンス、EU向けサービス停止へ。MiCA認可申請取り下げ",
+        "url": "https://news.yahoo.co.jp/articles/13068a68825437307d9ef171a8b3b11ca29dc4e6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
-        "title": "Binance、EUのライセンス移行を前に4億ドルを超える流出",
-        "url": "https://news.yahoo.co.jp/articles/d1661127bb9795beb43c5451029a629d77a0760f",
+        "title": "メイプルとクラーケン、暗号資産担保ローン向けオンチェーン型融資枠を組成",
+        "url": "https://news.yahoo.co.jp/articles/f5cf05ede1ea4cb8997aa02a5948ee03b5098554",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AIが自ら資金を運用し確率を弾き出す時代",
-        "url": "https://news.yahoo.co.jp/articles/c52fcafc30a484a393caf907d5a3f9cda9d6cb47",
+        "title": "ハイパーリキッド、シンガポールMASの投資家警戒リストに掲載。「禁止措置ではない」と説明",
+        "url": "https://news.yahoo.co.jp/articles/60b6f04912f39d9aeec12fba6f205d812e930a6d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "CLARITY法案、運命の4週間へ。アメリカはオンチェーン金融を選ぶのか【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/19e30cd55437ef3d72ef15b44d9651cf488acfdb",
+        "title": "ブロックチェーン技術はワールドカップのチケッティングの未来をどう変えるのか？CMOへ独占インタビュー",
+        "url": "https://news.yahoo.co.jp/expert/articles/25d417a6ed01a0ea78692f911ee7e7ba5964a02b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "3万5000円で“人生終了”。「サクッと稼ごう」Xの甘い誘いで銀行口座を売った38歳会社員の末路",
-        "url": "https://news.yahoo.co.jp/articles/2e4ed03c1443312b65c19dac0b65d067e26f3a9e",
+        "title": "EU暗号資産認可の移行期限に延長なし、スペイン当局が明言",
+        "url": "https://news.yahoo.co.jp/articles/5f6ffb8329dcc6eb6320177135d5773469c5c8f8",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.1】",
-        "url": "https://news.yahoo.co.jp/articles/8f883e341fea6b02c1666b33751918d14577b239",
+        "title": "デジタル資産市場の「五つの危機感」とは──金商法移行を前に有識者らが提言",
+        "url": "https://news.yahoo.co.jp/articles/7412241a048748220022bd0916562b5f4c15d5c9",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "習近平が「日本に行くな」と煽った悲惨な結果",
-        "url": "https://news.yahoo.co.jp/articles/38f4d709e681cd7fb0898b0e198a538b774cf1db",
+        "title": "バイナンス、EU向けサービス停止へ。MiCA認可申請取り下げ",
+        "url": "https://news.yahoo.co.jp/articles/13068a68825437307d9ef171a8b3b11ca29dc4e6",
         "source": "Yahoo",
         "date": ""
       }
@@ -5760,76 +5880,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "世界経済は依然「ドル中心」、変化ほぼない＝ＩＭＦチーフエコノミスト",
-        "url": "https://news.yahoo.co.jp/articles/7830cac75458e2aafc2e10e50434c976b64d5c91",
+        "title": "DeFiプロトコル「スパーク」、ユニスワップv4へ1.5億ドルのステーブルコイン流動性を移行",
+        "url": "https://news.yahoo.co.jp/articles/2e7a361a2650dd8d4e93558d16ac60729504686d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ステーブルコインには世界の金融システムを分断するリスクがある＝国際決済銀行が警告",
-        "url": "https://news.yahoo.co.jp/articles/cc346e37e8deb850130ac252bd5f5bc1fda5c165",
+        "title": "ユニスワップ、ウェブアプリでトークンオークションの作成・実施を可能に",
+        "url": "https://news.yahoo.co.jp/articles/e506b663742853c6f34c220caab8fb0a4602c4fe",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AIが自ら資金を運用し確率を弾き出す時代",
-        "url": "https://news.yahoo.co.jp/articles/c52fcafc30a484a393caf907d5a3f9cda9d6cb47",
+        "title": "タイ、現時点で利上げ不要 バーツ安は市場動向と整合＝中銀総裁",
+        "url": "https://news.yahoo.co.jp/articles/9545a1b5c7d670647b1682e89e9ed9ccd6a20b42",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ステーブルコインの先にあるもの──野村×Circleが示した「オンチェーン金融」【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/4c6bbbcc3882aad2af869758d6d0f654610f3568",
+        "title": "インベスコ、ステーブルコイン準備資産向けオンチェーン型MMFの修正書をSECに提出",
+        "url": "https://news.yahoo.co.jp/articles/755cab6dba146bab0650c374ae2d6655086e6c02",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "CLARITY法案、運命の4週間へ。アメリカはオンチェーン金融を選ぶのか【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/19e30cd55437ef3d72ef15b44d9651cf488acfdb",
+        "title": "スターテイル、スーパーアプリ「Startale App」の日本版を提供開始",
+        "url": "https://news.yahoo.co.jp/articles/ca4b5bcc4ba63bbb477eaaa7837ba5ebc64b6340",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "このままでは日本と心中しかねない",
-        "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
+        "title": "セキュリタイズ、ティッカー「SECZ」で7/2にNYSE上場へ。約4億ドル調達見込み",
+        "url": "https://news.yahoo.co.jp/articles/9d37fa56c136758db5d2f31544805ca937fc7b68",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "世界経済は依然「ドル中心」、変化ほぼない＝ＩＭＦチーフエコノミスト",
-        "url": "https://news.yahoo.co.jp/articles/7830cac75458e2aafc2e10e50434c976b64d5c91",
+        "title": "DeFiプロトコル「スパーク」、ユニスワップv4へ1.5億ドルのステーブルコイン流動性を移行",
+        "url": "https://news.yahoo.co.jp/articles/2e7a361a2650dd8d4e93558d16ac60729504686d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ステーブルコインには世界の金融システムを分断するリスクがある＝国際決済銀行が警告",
-        "url": "https://news.yahoo.co.jp/articles/cc346e37e8deb850130ac252bd5f5bc1fda5c165",
+        "title": "ユニスワップ、ウェブアプリでトークンオークションの作成・実施を可能に",
+        "url": "https://news.yahoo.co.jp/articles/e506b663742853c6f34c220caab8fb0a4602c4fe",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AIが自ら資金を運用し確率を弾き出す時代",
-        "url": "https://news.yahoo.co.jp/articles/c52fcafc30a484a393caf907d5a3f9cda9d6cb47",
+        "title": "タイ、現時点で利上げ不要 バーツ安は市場動向と整合＝中銀総裁",
+        "url": "https://news.yahoo.co.jp/articles/9545a1b5c7d670647b1682e89e9ed9ccd6a20b42",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ステーブルコインの先にあるもの──野村×Circleが示した「オンチェーン金融」【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/4c6bbbcc3882aad2af869758d6d0f654610f3568",
+        "title": "インベスコ、ステーブルコイン準備資産向けオンチェーン型MMFの修正書をSECに提出",
+        "url": "https://news.yahoo.co.jp/articles/755cab6dba146bab0650c374ae2d6655086e6c02",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "CLARITY法案、運命の4週間へ。アメリカはオンチェーン金融を選ぶのか【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/19e30cd55437ef3d72ef15b44d9651cf488acfdb",
+        "title": "スターテイル、スーパーアプリ「Startale App」の日本版を提供開始",
+        "url": "https://news.yahoo.co.jp/articles/ca4b5bcc4ba63bbb477eaaa7837ba5ebc64b6340",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "このままでは日本と心中しかねない",
-        "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
+        "title": "セキュリタイズ、ティッカー「SECZ」で7/2にNYSE上場へ。約4億ドル調達見込み",
+        "url": "https://news.yahoo.co.jp/articles/9d37fa56c136758db5d2f31544805ca937fc7b68",
         "source": "Yahoo",
         "date": ""
       }
