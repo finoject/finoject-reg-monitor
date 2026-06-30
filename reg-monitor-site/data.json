@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T23:39:18.237Z",
+  "generatedAt": "2026-06-30T04:49:23.520Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,126 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "審議委員の発令について",
+      "url": "https://www.boj.or.jp/about/organization/policyboard/pb260630a.htm",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T04:49:23.520Z",
+      "enriched": "2026-06-30T04:49:29.654Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "佐藤綾野が日本銀行政策委員会審議委員に新任命され、中川順子は6月29日で任期満了により退任した。",
+        "政策委員会の人事異動に伴い、銀行の政策決定プロセスにおいて審議委員の交代が生じる。",
+        "2026年6月30日付で佐藤綾野の任命、6月29日で中川順子の退任が実行された。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "決済動向（5月）",
+      "url": "https://www.boj.or.jp/statistics/set/kess/release/2026/kess2605.pdf",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T04:49:23.520Z",
+      "enriched": "2026-06-30T04:49:29.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行が2026年5月の決済動向統計を公表。日銀当座預金決済、BOJ-NET利用先数、国債振決口座振替決済、全銀システム取扱高、電子マネー、デビットカード等の主要決済指標を掲載。",
+        "金融機関等の決済システム参加者は、日本銀行公表の決済動向統計から自機関の決済活動状況、システム利用状況を把握し、決済リスク管理に活用。",
+        "本統計は日本銀行決済機構局により毎月編集・公表。決済関連データの詳細は日本銀行ウェブサイト及び同局の問合せ窓口から入手可能。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
+      "url": "https://www.boj.or.jp/research/imes/dps/dps26_e.htm",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T04:49:23.520Z",
+      "enriched": "2026-06-30T04:49:29.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行金融研究所が2026年6月30日付で公表した英語版ディスカッション・ペーパー・シリーズ9編は、金融研究所スタッフ・外部研究者の研究成果であり、執筆者個人の見解で同行の公式見解ではないと明記。",
+        "中央銀行の独立性維持・政治的圧力への対応を中心テーマとし、金融規制当局は国際的に独立性保護が制度的課題として認識されていることを留意。",
+        "研究論文の公表により金融・経済政策研究に関する学界・研究機関等からのコメント聴取・知見収集を意図し、対象論文はIMES公式ウェブサイトでPDF形式で提供開始。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融研究所ディスカッション・ペーパー・シリーズ（2026年収録分）",
+      "url": "https://www.boj.or.jp/research/imes/dps/dps26.htm",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T04:49:23.520Z",
+      "enriched": "2026-06-30T04:49:29.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "AIエージェントが当事者の予期しない行為を行った場合の私法上の問題解決について、UNCITRALおよびELIが機械による行為の帰属先や予期しない行為のリスク分担に関するモデル法・ガイド原則を提案している。",
+        "金融機関等の実務担当者は、AIエージェントによる契約の自動化に伴う意思表示の成立可否・有効性の判断について、UNCITRAL（MLAC）やELI（DACCガイド原則等）の国際的なルール動向を参考に検討する必要がある。",
+        "本論文は金融研究所の研究成果であり、執筆者の個人的見解として、わが国における契約の自動化に関する私法上の論点検討の素材を提供するもので、日本銀行の公式見解ではない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）ＮＰＴ",
+      "url": "https://www.jpx.co.jp/news/1021/20260630-18.html",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T04:49:23.520Z",
+      "enriched": "2026-06-30T04:49:29.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)NPT（コード3１１A、TOKYO PRO Market上場）の上場廃止が決定され、整理銘柄指定期間は2026年6月30日（火）から7月29日（水）、上場廃止日は7月30日（木）。",
+        "同社株式は2026年7月1日（水）以降、信用取引・発行日決済取引の委託保証金、売買証拠金、取引参加者保証金、信認金の代用有価証券から除外される。",
+        "上場廃止理由は同社が上場廃止を申請し東証が決定したもので、有価証券上場規程の特例第143条に基づく（速やかに廃止すべき事情発生時は指定期間・廃止日変更あり）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]証券業界における横断的な共通データ基盤の配信対象の拡大および仕様書の提供開始について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/6020/20260630-01.html",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T04:49:23.520Z",
+      "enriched": "2026-06-30T04:49:29.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研は日証金・保振と協働し、証券関連データを自動処理しやすい形で集約する業界横断的な共通データ基盤を構築する。保振保有の基準日情報等を配信対象に追加。",
+        "証券業界事業者は本日より提供開始される仕様書により配信対象の事象・内容詳細を確認し、必要に応じてJPX総研へ問い合わせて利用申し込みを検討。",
+        "β環境提供は2027年初を目途、本番サービス開始は2027年春頃を予定。振替法適用有価証券の振替業務に関わるデータが対象。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "貸出約定平均金利（5月）",
+      "url": "https://www.boj.or.jp/statistics/dl/loan/yaku/yaku2605.pdf",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-30T04:49:23.520Z",
+      "enriched": "2026-06-30T04:49:29.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年5月の貸出約定平均金利を公表し、国内銀行の新規短期貸出金利が前月1.474%から1.245%に低下、長期貸出金利は1.790%から2.066%に上昇したことを示した。",
+        "金融機関は日本銀行が毎月公表する貸出約定平均金利の統計データを、タイムシリーズ統計データ検索サイトで翌営業日以降に確認し、自行の貸出金利設定の参考資料として活用する。",
+        "本統計は日本銀行金融機構局が毎月末時点で実施する調査であり、銀行・信用金庫の短期(1年未満)・長期(1年以上)の新規貸出および残高ベースの金利を月次で把握するもの。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "「新規暗号資産の販売に関する規則」等の一部改正（案）に関する意見公募手続きの結果について",
+      "url": "https://jvcea.or.jp/information/pc/20260629-001/",
+      "date": "2026-06-29",
+      "detectedAt": "2026-06-30T04:49:23.520Z",
+      "enriched": "2026-06-30T04:49:32.297Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEAは「新規暗号資産の販売に関する規則」等の一部改正案について2026年5月29日から6月17日にかけてパブリックコメントを募集し、一般からの意見はなかった。",
+        "会員からの意見と協会の考え方は対象会員全体に別途共有され、改正内容の最終決定に向けた検討が進められている。",
+        "本改正案は新規暗号資産の販売に関する規則およびガイドラインの制定に係るもので、JVCEA会員に対する規制強化またはルール整備と考えられる。"
       ],
       "aiSumV": 3
     },
@@ -5454,6 +5574,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
+        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
         "source": "Yahoo",
@@ -5480,18 +5606,18 @@
       {
         "title": "元TKP社員と夫を告発 インサイダー容疑 監視委",
         "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インサイダー取引疑いTKP元社員と夫告発",
-        "url": "https://news.yahoo.co.jp/articles/edf1490950cd6b4f69cbd37c3807935d4f696b5e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
+        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
         "source": "Yahoo",
@@ -5518,18 +5644,18 @@
       {
         "title": "元TKP社員と夫を告発 インサイダー容疑 監視委",
         "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インサイダー取引疑いTKP元社員と夫告発",
-        "url": "https://news.yahoo.co.jp/articles/edf1490950cd6b4f69cbd37c3807935d4f696b5e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
+        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
         "source": "Yahoo",
@@ -5556,18 +5682,18 @@
       {
         "title": "元TKP社員と夫を告発 インサイダー容疑 監視委",
         "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インサイダー取引疑いTKP元社員と夫告発",
-        "url": "https://news.yahoo.co.jp/articles/edf1490950cd6b4f69cbd37c3807935d4f696b5e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
+        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
         "source": "Yahoo",
@@ -5596,15 +5722,15 @@
         "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "インサイダー取引疑いTKP元社員と夫告発",
-        "url": "https://news.yahoo.co.jp/articles/edf1490950cd6b4f69cbd37c3807935d4f696b5e",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
+        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】 この流れは、日本にとっても非常に参考になります。 日本でも暗号資産を資金決済法から金融商品取引法へ移行する制度改革が進んでおり、暗号資産を「決済手段",
         "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
@@ -5632,18 +5758,18 @@
       {
         "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
         "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYSCの100億円発行は「顧客需要を踏まえた」とSBI VCトレード──パブリックチェーン流通は「なるべく早い段階」を目指す",
-        "url": "https://news.yahoo.co.jp/articles/5e98ec9be707b5d0df99b792730fe1a427226067",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
+        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】 この流れは、日本にとっても非常に参考になります。 日本でも暗号資産を資金決済法から金融商品取引法へ移行する制度改革が進んでおり、暗号資産を「決済手段",
         "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
         "source": "Yahoo",
@@ -5672,15 +5798,27 @@
         "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "JPYSCの100億円発行は「顧客需要を踏まえた」とSBI VCトレード──パブリックチェーン流通は「なるべく早い段階」を目指す",
-        "url": "https://news.yahoo.co.jp/articles/5e98ec9be707b5d0df99b792730fe1a427226067",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
+        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Binance Japan、新代表に豊崎亜里紗氏──元Google・Forbes選出",
+        "url": "https://news.yahoo.co.jp/articles/1fc8feb190f2f81c831fd47449cdff5af8521eef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英FCA、暗号資産の最終規制枠組みを策定＝報道",
+        "url": "https://news.yahoo.co.jp/articles/3b358b7cc6efdfd6896b0d229912ce325fb01f0e",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "MiCA施行でEUユーザーの争奪戦が始まった",
         "url": "https://news.yahoo.co.jp/articles/8f37bf28c1d4ecf1479af641d474ed0a30df89af",
@@ -5696,30 +5834,30 @@
       {
         "title": "イーロン・マスク氏のXが金融サービス「Xマネー」開始、個人間送金や預金など",
         "url": "https://news.yahoo.co.jp/articles/4d29b577e575f5206c1aaf890681810390ef6389",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カザフスタン証券取引所でソラナ（SOL）とイーサリアム（ETH）のETFが取引開始",
-        "url": "https://news.yahoo.co.jp/articles/a162c440647f91b4bfa8a1b4ece905af9ea83f96",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Circle、野村ホールディングスとデジタル金融で協業へ──改正資金決済法の施行と、動き出す日本のステーブルコイン決済【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メイプルとクラーケン、暗号資産担保ローン向けオンチェーン型融資枠を組成",
-        "url": "https://news.yahoo.co.jp/articles/f5cf05ede1ea4cb8997aa02a5948ee03b5098554",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
+        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Binance Japan、新代表に豊崎亜里紗氏──元Google・Forbes選出",
+        "url": "https://news.yahoo.co.jp/articles/1fc8feb190f2f81c831fd47449cdff5af8521eef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英FCA、暗号資産の最終規制枠組みを策定＝報道",
+        "url": "https://news.yahoo.co.jp/articles/3b358b7cc6efdfd6896b0d229912ce325fb01f0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "MiCA施行でEUユーザーの争奪戦が始まった",
         "url": "https://news.yahoo.co.jp/articles/8f37bf28c1d4ecf1479af641d474ed0a30df89af",
         "source": "Yahoo",
@@ -5734,24 +5872,6 @@
       {
         "title": "イーロン・マスク氏のXが金融サービス「Xマネー」開始、個人間送金や預金など",
         "url": "https://news.yahoo.co.jp/articles/4d29b577e575f5206c1aaf890681810390ef6389",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カザフスタン証券取引所でソラナ（SOL）とイーサリアム（ETH）のETFが取引開始",
-        "url": "https://news.yahoo.co.jp/articles/a162c440647f91b4bfa8a1b4ece905af9ea83f96",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Circle、野村ホールディングスとデジタル金融で協業へ──改正資金決済法の施行と、動き出す日本のステーブルコイン決済【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メイプルとクラーケン、暗号資産担保ローン向けオンチェーン型融資枠を組成",
-        "url": "https://news.yahoo.co.jp/articles/f5cf05ede1ea4cb8997aa02a5948ee03b5098554",
         "source": "Yahoo",
         "date": ""
       }
@@ -5910,6 +6030,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "英FCA、暗号資産の最終規制枠組みを策定＝報道",
+        "url": "https://news.yahoo.co.jp/articles/3b358b7cc6efdfd6896b0d229912ce325fb01f0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPMorgan、デジタル資産規制に強固な安全措置を要求",
         "url": "https://news.yahoo.co.jp/articles/6701d0bbe740031c526dd9ac73f3525de70fadc4",
         "source": "Yahoo",
@@ -5936,18 +6062,18 @@
       {
         "title": "DeFiプロトコル「スパーク」、ユニスワップv4へ1.5億ドルのステーブルコイン流動性を移行",
         "url": "https://news.yahoo.co.jp/articles/2e7a361a2650dd8d4e93558d16ac60729504686d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ユニスワップ、ウェブアプリでトークンオークションの作成・実施を可能に",
-        "url": "https://news.yahoo.co.jp/articles/e506b663742853c6f34c220caab8fb0a4602c4fe",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "英FCA、暗号資産の最終規制枠組みを策定＝報道",
+        "url": "https://news.yahoo.co.jp/articles/3b358b7cc6efdfd6896b0d229912ce325fb01f0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPMorgan、デジタル資産規制に強固な安全措置を要求",
         "url": "https://news.yahoo.co.jp/articles/6701d0bbe740031c526dd9ac73f3525de70fadc4",
         "source": "Yahoo",
@@ -5974,12 +6100,6 @@
       {
         "title": "DeFiプロトコル「スパーク」、ユニスワップv4へ1.5億ドルのステーブルコイン流動性を移行",
         "url": "https://news.yahoo.co.jp/articles/2e7a361a2650dd8d4e93558d16ac60729504686d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ユニスワップ、ウェブアプリでトークンオークションの作成・実施を可能に",
-        "url": "https://news.yahoo.co.jp/articles/e506b663742853c6f34c220caab8fb0a4602c4fe",
         "source": "Yahoo",
         "date": ""
       }
@@ -6700,6 +6820,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "CORTIS、アーティストの車両にGPSを取り付けたサセンファンを摘発",
+        "url": "https://news.yahoo.co.jp/articles/30939cfafa5f692588e30ab8ab8a8daf0425f70e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "政府のAI基本計画素案 パブコメに大量の「AI作成」意見か",
         "url": "https://news.yahoo.co.jp/articles/cf9456f4f31d41dbf6f5c0d8c0cdcbe068ccba0e",
         "source": "Yahoo",
@@ -6726,18 +6852,18 @@
       {
         "title": "韓国PIPC、Bithumbに課徴金──同意なく利用者情報を海外共有",
         "url": "https://news.yahoo.co.jp/articles/7c11532e994164ecbb6ff0431943c84554d86e9a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
-        "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "CORTIS、アーティストの車両にGPSを取り付けたサセンファンを摘発",
+        "url": "https://news.yahoo.co.jp/articles/30939cfafa5f692588e30ab8ab8a8daf0425f70e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "政府のAI基本計画素案 パブコメに大量の「AI作成」意見か",
         "url": "https://news.yahoo.co.jp/articles/cf9456f4f31d41dbf6f5c0d8c0cdcbe068ccba0e",
         "source": "Yahoo",
@@ -6764,18 +6890,18 @@
       {
         "title": "韓国PIPC、Bithumbに課徴金──同意なく利用者情報を海外共有",
         "url": "https://news.yahoo.co.jp/articles/7c11532e994164ecbb6ff0431943c84554d86e9a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
-        "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "CORTIS、アーティストの車両にGPSを取り付けたサセンファンを摘発",
+        "url": "https://news.yahoo.co.jp/articles/30939cfafa5f692588e30ab8ab8a8daf0425f70e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "政府のAI基本計画素案 パブコメに大量の「AI作成」意見か",
         "url": "https://news.yahoo.co.jp/articles/cf9456f4f31d41dbf6f5c0d8c0cdcbe068ccba0e",
         "source": "Yahoo",
@@ -6802,12 +6928,6 @@
       {
         "title": "韓国PIPC、Bithumbに課徴金──同意なく利用者情報を海外共有",
         "url": "https://news.yahoo.co.jp/articles/7c11532e994164ecbb6ff0431943c84554d86e9a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "市民総監視と戦争準備の「スパイ防止法」（4）本人が知らぬまに同意もなしに個人情報が収集される",
-        "url": "https://news.yahoo.co.jp/articles/bd3efea782ff162c9706a4d7cbef92174429b175",
         "source": "Yahoo",
         "date": ""
       }
