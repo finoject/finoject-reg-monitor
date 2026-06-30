@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T04:49:23.520Z",
+  "generatedAt": "2026-06-30T08:43:59.621Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,113 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（グロース市場）：（株）エブリー",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T08:43:59.621Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-06-30T08:44:07.173Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "共栄セキュリティーサービス （7058）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T08:43:59.621Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-06-30T08:44:07.173Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）ホーブほか1銘柄",
+      "url": "https://www.jpx.co.jp/news/1021/20260630-21.html",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T08:43:59.621Z",
+      "enriched": "2026-06-30T08:44:07.174Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社ホーブ（コード1382）と新東株式会社（コード5380）がスタンダード市場で監理銘柄（確認中）に指定され、前回基準日で上場維持基準に適合しなかったため改善期間内に適合できない場合は上場廃止となる。",
+        "両社は株券等の分布状況表により上場維持基準への適合状況が審査されており、新東株式会社は2027年6月30日を超過計画の期限としており、当該日時点で基準適合がない場合は廃止対象となる。",
+        "監理銘柄（確認中）指定は2026年7月1日から当取引所が上場廃止基準該当の認定をした日まで続き、有価証券上場規程施行規則第604条第1項第1号に基づく指定である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：上場インデックスファンド東証ＲＥＩＴ高利回り30（アモーヴァ・アセットマネジメント）",
+      "url": "https://www.jpx.co.jp/news/1070/20260630.html",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T08:43:59.621Z",
+      "enriched": "2026-06-30T08:44:07.174Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "アモーヴァ・アセットマネジメント㈱運用の「上場インデックスファンド東証REIT高利回り30」（コード608A）がETFとして東証に新規上場承認され、上場予定日は2026年7月21日。",
+        "全国の証券会社で特定口座での取扱いが可能な国内組成ETFであり、東証REIT高利回り30指数に連動する投資成果を目指す。信託報酬は0.132%（税込0.1452%）以内で、年4回（2月8日・5月8日・8月8日・11月8日）分配金を支払う。",
+        "本件は日本取引所自主規制法人の審査結果に基づき決定され、投資信託法施行令第12条第2号に規定する投資信託受益証券として上場日の売買から成行売呼値及び成行買呼値の取扱いが可能。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：2銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260630-01.html",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T08:43:59.621Z",
+      "enriched": "2026-06-30T08:44:07.174Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "LiNKX（株）株式（コード584A）の制限値幅上限を2,800円に拡大、東京ボード工業（株）株式（コード7815）の上限を320円に拡大。両銘柄は2営業日連続でストップ高（安）かつ売買高0株等の要件に該当。",
+        "取引参加者および投資家は7月1日の取引において拡大された制限値幅の適用に注意。特に成行注文は思わぬ値段での約定の可能性があり、指値注文の活用が推奨される。",
+        "拡大は7月1日（翌営業日）から適用。ストップ高（安）以外の値段で売買成立後の翌営業日から通常の制限値幅に復帰。東証が裁量で実施。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "理事選任のお知らせ",
+      "url": "https://jvcea.or.jp/information/main-info/20260630-001/",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T08:43:59.621Z",
+      "enriched": "2026-06-30T08:44:07.174Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEAは2026年6月30日開催の定時社員総会及び臨時理事会において、役員任期満了に伴う新たな理事を選任し、代表理事会長に蓮尾聡（コインチェック代表取締役会長）、専務理事に白石陽介を選任した。",
+        "会員企業及び関係者は、新体制における会長・専務理事の経営方針や指示に従い、暗号資産業界の自主規制機関としてのJVCEAの活動に対応する必要がある。",
+        "新役員体制は2026年6月30日から発効し、代表理事（会長）・執行役員専務理事を含む12名の理事及び1名の監事で構成される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "定款・規則の制定及び改正に関する意見公募手続きの結果について",
+      "url": "https://jvcea.or.jp/information/pc/20260630-002/",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T08:43:59.621Z",
+      "enriched": "2026-06-30T08:44:10.089Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA定款・規則の制定及び改正について5月26日～6月11日にパブリックコメントを実施し、3社から16件の意見を受領した。意見概要及び協会の考え方はNo.021を参照のこと。",
+        "会員及び関連事業者は、6月15日に制定・改正された各規則・ガイドラインの内容を確認し、6月30日定時社員総会後の施行に向けて対応を準備する必要がある。",
+        "規則・ガイドラインの改正・制定は2026年6月15日（火）に確定し、2026年6月30日（火）定時社員総会後に施行される。パブリックコメント募集ページより詳細を確認できる。"
       ],
       "aiSumV": 3
     },
@@ -165,38 +272,6 @@
         "懲戒処分は2026年6月29日付けで発効し、会則第70条第2項第1号に基づき公表される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（グロース市場）：（株）ティアフォー",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-06-29",
-      "detectedAt": "2026-06-29T07:14:44.028Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-06-29T07:14:49.249Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "売れるネット広告社グループ（9235）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-06-29",
-      "detectedAt": "2026-06-29T07:14:44.028Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-06-29T07:14:49.250Z"
     },
     {
       "agency": "日本銀行",
@@ -5574,6 +5649,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "元TKP社員と夫を在宅起訴 インサイダー取引 東京地検",
+        "url": "https://news.yahoo.co.jp/articles/421e46426c41902f72a740136f081a1d2bc4f325",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダーでTKP元社員と夫在宅起訴",
+        "url": "https://news.yahoo.co.jp/articles/4ea493ef8dcc24ed4fd86bd8bde7200cf1325a90",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
         "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
         "source": "Yahoo",
@@ -5594,24 +5681,24 @@
       {
         "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
         "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "監視委、TKP元社員と夫告発 未公開情報で株取引疑い",
-        "url": "https://news.yahoo.co.jp/articles/af7d2aee0562e5e2fbb9baf0d88880605189f67d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫を告発 インサイダー容疑 監視委",
-        "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "元TKP社員と夫を在宅起訴 インサイダー取引 東京地検",
+        "url": "https://news.yahoo.co.jp/articles/421e46426c41902f72a740136f081a1d2bc4f325",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダーでTKP元社員と夫在宅起訴",
+        "url": "https://news.yahoo.co.jp/articles/4ea493ef8dcc24ed4fd86bd8bde7200cf1325a90",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
         "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
         "source": "Yahoo",
@@ -5632,24 +5719,24 @@
       {
         "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
         "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "監視委、TKP元社員と夫告発 未公開情報で株取引疑い",
-        "url": "https://news.yahoo.co.jp/articles/af7d2aee0562e5e2fbb9baf0d88880605189f67d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫を告発 インサイダー容疑 監視委",
-        "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "元TKP社員と夫を在宅起訴 インサイダー取引 東京地検",
+        "url": "https://news.yahoo.co.jp/articles/421e46426c41902f72a740136f081a1d2bc4f325",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダーでTKP元社員と夫在宅起訴",
+        "url": "https://news.yahoo.co.jp/articles/4ea493ef8dcc24ed4fd86bd8bde7200cf1325a90",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
         "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
         "source": "Yahoo",
@@ -5670,24 +5757,24 @@
       {
         "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
         "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "監視委、TKP元社員と夫告発 未公開情報で株取引疑い",
-        "url": "https://news.yahoo.co.jp/articles/af7d2aee0562e5e2fbb9baf0d88880605189f67d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫を告発 インサイダー容疑 監視委",
-        "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "元TKP社員と夫を在宅起訴 インサイダー取引 東京地検",
+        "url": "https://news.yahoo.co.jp/articles/421e46426c41902f72a740136f081a1d2bc4f325",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インサイダーでTKP元社員と夫在宅起訴",
+        "url": "https://news.yahoo.co.jp/articles/4ea493ef8dcc24ed4fd86bd8bde7200cf1325a90",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
         "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
         "source": "Yahoo",
@@ -5708,18 +5795,6 @@
       {
         "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
         "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "監視委、TKP元社員と夫告発 未公開情報で株取引疑い",
-        "url": "https://news.yahoo.co.jp/articles/af7d2aee0562e5e2fbb9baf0d88880605189f67d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫を告発 インサイダー容疑 監視委",
-        "url": "https://news.yahoo.co.jp/articles/43b87539b4770fa838ebc2fbdf3d2a1b6cbca2ee",
         "source": "Yahoo",
         "date": ""
       }
@@ -5802,6 +5877,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "英FCA、暗号資産規制を来年10月に施行へ。ステーブルコイン要件は緩和",
+        "url": "https://news.yahoo.co.jp/articles/f293478e37d3a96962aeb8ee808d2f7ed9a75b65",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ステーブルコイン法制化が難航",
+        "url": "https://news.yahoo.co.jp/articles/bde077fc16439df8bcb86afd5cb4abaec156adea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【取材内容追記】バイナンスJPの新代表に元Cegaの豊崎亜理紗、千野代表は名誉会長兼取締役に",
+        "url": "https://news.yahoo.co.jp/articles/6baf0ea63dc0e751bc69c789c2da0a62d0d332df",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
         "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
         "source": "Yahoo",
@@ -5816,30 +5909,30 @@
       {
         "title": "英FCA、暗号資産の最終規制枠組みを策定＝報道",
         "url": "https://news.yahoo.co.jp/articles/3b358b7cc6efdfd6896b0d229912ce325fb01f0e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MiCA施行でEUユーザーの争奪戦が始まった",
-        "url": "https://news.yahoo.co.jp/articles/8f37bf28c1d4ecf1479af641d474ed0a30df89af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーロン・マスク氏のXが金融サービス「Xマネー」開始、個人間送金や預金など",
-        "url": "https://news.yahoo.co.jp/articles/4d29b577e575f5206c1aaf890681810390ef6389",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "英FCA、暗号資産規制を来年10月に施行へ。ステーブルコイン要件は緩和",
+        "url": "https://news.yahoo.co.jp/articles/f293478e37d3a96962aeb8ee808d2f7ed9a75b65",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ステーブルコイン法制化が難航",
+        "url": "https://news.yahoo.co.jp/articles/bde077fc16439df8bcb86afd5cb4abaec156adea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【取材内容追記】バイナンスJPの新代表に元Cegaの豊崎亜理紗、千野代表は名誉会長兼取締役に",
+        "url": "https://news.yahoo.co.jp/articles/6baf0ea63dc0e751bc69c789c2da0a62d0d332df",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
         "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
         "source": "Yahoo",
@@ -5854,24 +5947,6 @@
       {
         "title": "英FCA、暗号資産の最終規制枠組みを策定＝報道",
         "url": "https://news.yahoo.co.jp/articles/3b358b7cc6efdfd6896b0d229912ce325fb01f0e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MiCA施行でEUユーザーの争奪戦が始まった",
-        "url": "https://news.yahoo.co.jp/articles/8f37bf28c1d4ecf1479af641d474ed0a30df89af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーロン・マスク氏のXが金融サービス「Xマネー」開始、個人間送金や預金など",
-        "url": "https://news.yahoo.co.jp/articles/4d29b577e575f5206c1aaf890681810390ef6389",
         "source": "Yahoo",
         "date": ""
       }
@@ -6030,76 +6105,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "英FCA、暗号資産の最終規制枠組みを策定＝報道",
-        "url": "https://news.yahoo.co.jp/articles/3b358b7cc6efdfd6896b0d229912ce325fb01f0e",
+        "title": "リップル、XRPL向けオンチェーン融資基盤「XRPL Lending Protocol」の概要公表",
+        "url": "https://news.yahoo.co.jp/articles/d12eaab105e97bfa8ac8dab4a4548df0d7621551",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "JPMorgan、デジタル資産規制に強固な安全措置を要求",
-        "url": "https://news.yahoo.co.jp/articles/6701d0bbe740031c526dd9ac73f3525de70fadc4",
+        "title": "英FCA、暗号資産規制を来年10月に施行へ。ステーブルコイン要件は緩和",
+        "url": "https://news.yahoo.co.jp/articles/f293478e37d3a96962aeb8ee808d2f7ed9a75b65",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
+        "title": "米サークル「USDC」と「EURC」、クロノスに対応開始。CCTPも導入",
+        "url": "https://news.yahoo.co.jp/articles/5d7a570125436fe1c6893cf4c704da8f28d3fa97",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "BNY、Circleとの提携拡大──USDC関連サービスを機関投資家向けに提供",
-        "url": "https://news.yahoo.co.jp/articles/57ee2a7823a9b567889632728d602442f060316a",
+        "title": "米ステーブルコイン法制化が難航",
+        "url": "https://news.yahoo.co.jp/articles/bde077fc16439df8bcb86afd5cb4abaec156adea",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Circle、野村ホールディングスとデジタル金融で協業へ──改正資金決済法の施行と、動き出す日本のステーブルコイン決済【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
+        "title": "米BNY、サークルとの提携拡大。USDCの保有・ミント・バーン機能を実装へ",
+        "url": "https://news.yahoo.co.jp/articles/f10e94473daa8acdf3a65d18a425679d0e0ebbe6",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "DeFiプロトコル「スパーク」、ユニスワップv4へ1.5億ドルのステーブルコイン流動性を移行",
-        "url": "https://news.yahoo.co.jp/articles/2e7a361a2650dd8d4e93558d16ac60729504686d",
+        "title": "データチェーン、法人向けWeb3ウォレット「Datachain Wallet」でSOC2 Type1保証報告書を受領",
+        "url": "https://news.yahoo.co.jp/articles/a0658d5c605e6ddac1a6daae56d475dc642672c8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "英FCA、暗号資産の最終規制枠組みを策定＝報道",
-        "url": "https://news.yahoo.co.jp/articles/3b358b7cc6efdfd6896b0d229912ce325fb01f0e",
+        "title": "リップル、XRPL向けオンチェーン融資基盤「XRPL Lending Protocol」の概要公表",
+        "url": "https://news.yahoo.co.jp/articles/d12eaab105e97bfa8ac8dab4a4548df0d7621551",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "JPMorgan、デジタル資産規制に強固な安全措置を要求",
-        "url": "https://news.yahoo.co.jp/articles/6701d0bbe740031c526dd9ac73f3525de70fadc4",
+        "title": "英FCA、暗号資産規制を来年10月に施行へ。ステーブルコイン要件は緩和",
+        "url": "https://news.yahoo.co.jp/articles/f293478e37d3a96962aeb8ee808d2f7ed9a75b65",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
+        "title": "米サークル「USDC」と「EURC」、クロノスに対応開始。CCTPも導入",
+        "url": "https://news.yahoo.co.jp/articles/5d7a570125436fe1c6893cf4c704da8f28d3fa97",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "BNY、Circleとの提携拡大──USDC関連サービスを機関投資家向けに提供",
-        "url": "https://news.yahoo.co.jp/articles/57ee2a7823a9b567889632728d602442f060316a",
+        "title": "米ステーブルコイン法制化が難航",
+        "url": "https://news.yahoo.co.jp/articles/bde077fc16439df8bcb86afd5cb4abaec156adea",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Circle、野村ホールディングスとデジタル金融で協業へ──改正資金決済法の施行と、動き出す日本のステーブルコイン決済【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
+        "title": "米BNY、サークルとの提携拡大。USDCの保有・ミント・バーン機能を実装へ",
+        "url": "https://news.yahoo.co.jp/articles/f10e94473daa8acdf3a65d18a425679d0e0ebbe6",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "DeFiプロトコル「スパーク」、ユニスワップv4へ1.5億ドルのステーブルコイン流動性を移行",
-        "url": "https://news.yahoo.co.jp/articles/2e7a361a2650dd8d4e93558d16ac60729504686d",
+        "title": "データチェーン、法人向けWeb3ウォレット「Datachain Wallet」でSOC2 Type1保証報告書を受領",
+        "url": "https://news.yahoo.co.jp/articles/a0658d5c605e6ddac1a6daae56d475dc642672c8",
         "source": "Yahoo",
         "date": ""
       }
