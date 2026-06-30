@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T21:18:14.656Z",
+  "generatedAt": "2026-06-30T22:54:31.770Z",
   "items": [
     {
       "agency": "金融庁",
@@ -5930,6 +5930,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "グーグル・PayPay・楽天など140社超が支持、共同統治型ステーブルコイン「Open USD」",
+        "url": "https://news.yahoo.co.jp/articles/26c467bba6e650d5919a3a5b434b9b1b49e6b105",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SEC、新種ETFの規制見直しへ意見募集──暗号資産・予測市場ETFの拡大受け",
+        "url": "https://news.yahoo.co.jp/articles/de6008194b42cd39c0526fad8f8e6ff697bb82dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
         "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
         "source": "Yahoo",
@@ -5950,24 +5962,24 @@
       {
         "title": "【取材内容追記】バイナンスJPの新代表に元Cegaの豊崎亜理紗、千野代表は名誉会長兼取締役に",
         "url": "https://news.yahoo.co.jp/articles/6baf0ea63dc0e751bc69c789c2da0a62d0d332df",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
-        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Binance Japan、新代表に豊崎亜里紗氏──元Google・Forbes選出",
-        "url": "https://news.yahoo.co.jp/articles/1fc8feb190f2f81c831fd47449cdff5af8521eef",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "グーグル・PayPay・楽天など140社超が支持、共同統治型ステーブルコイン「Open USD」",
+        "url": "https://news.yahoo.co.jp/articles/26c467bba6e650d5919a3a5b434b9b1b49e6b105",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SEC、新種ETFの規制見直しへ意見募集──暗号資産・予測市場ETFの拡大受け",
+        "url": "https://news.yahoo.co.jp/articles/de6008194b42cd39c0526fad8f8e6ff697bb82dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
         "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
         "source": "Yahoo",
@@ -5988,18 +6000,6 @@
       {
         "title": "【取材内容追記】バイナンスJPの新代表に元Cegaの豊崎亜理紗、千野代表は名誉会長兼取締役に",
         "url": "https://news.yahoo.co.jp/articles/6baf0ea63dc0e751bc69c789c2da0a62d0d332df",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
-        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Binance Japan、新代表に豊崎亜里紗氏──元Google・Forbes選出",
-        "url": "https://news.yahoo.co.jp/articles/1fc8feb190f2f81c831fd47449cdff5af8521eef",
         "source": "Yahoo",
         "date": ""
       }
@@ -6158,6 +6158,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "MetaMask、利回り・決済・取引を統合した「Money Account」開始",
+        "url": "https://news.yahoo.co.jp/articles/cec842faf22bb29b4802f6073fe6c880984aeb07",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "VisaやStripe、Coinbaseなど140社超が収益分配型ステーブルコインOpen USD発行へ",
+        "url": "https://news.yahoo.co.jp/articles/55f83dae5a1c3d5fc7fcb7c381246dd48a3c42ef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "グーグル・PayPay・楽天など140社超が支持、共同統治型ステーブルコイン「Open USD」",
+        "url": "https://news.yahoo.co.jp/articles/26c467bba6e650d5919a3a5b434b9b1b49e6b105",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップル、XRPL向けオンチェーン融資基盤「XRPL Lending Protocol」の概要公表",
         "url": "https://news.yahoo.co.jp/articles/d12eaab105e97bfa8ac8dab4a4548df0d7621551",
         "source": "Yahoo",
@@ -6172,30 +6190,30 @@
       {
         "title": "米サークル「USDC」と「EURC」、クロノスに対応開始。CCTPも導入",
         "url": "https://news.yahoo.co.jp/articles/5d7a570125436fe1c6893cf4c704da8f28d3fa97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ステーブルコイン法制化が難航",
-        "url": "https://news.yahoo.co.jp/articles/bde077fc16439df8bcb86afd5cb4abaec156adea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米BNY、サークルとの提携拡大。USDCの保有・ミント・バーン機能を実装へ",
-        "url": "https://news.yahoo.co.jp/articles/f10e94473daa8acdf3a65d18a425679d0e0ebbe6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーン、法人向けWeb3ウォレット「Datachain Wallet」でSOC2 Type1保証報告書を受領",
-        "url": "https://news.yahoo.co.jp/articles/a0658d5c605e6ddac1a6daae56d475dc642672c8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "MetaMask、利回り・決済・取引を統合した「Money Account」開始",
+        "url": "https://news.yahoo.co.jp/articles/cec842faf22bb29b4802f6073fe6c880984aeb07",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "VisaやStripe、Coinbaseなど140社超が収益分配型ステーブルコインOpen USD発行へ",
+        "url": "https://news.yahoo.co.jp/articles/55f83dae5a1c3d5fc7fcb7c381246dd48a3c42ef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "グーグル・PayPay・楽天など140社超が支持、共同統治型ステーブルコイン「Open USD」",
+        "url": "https://news.yahoo.co.jp/articles/26c467bba6e650d5919a3a5b434b9b1b49e6b105",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップル、XRPL向けオンチェーン融資基盤「XRPL Lending Protocol」の概要公表",
         "url": "https://news.yahoo.co.jp/articles/d12eaab105e97bfa8ac8dab4a4548df0d7621551",
         "source": "Yahoo",
@@ -6210,24 +6228,6 @@
       {
         "title": "米サークル「USDC」と「EURC」、クロノスに対応開始。CCTPも導入",
         "url": "https://news.yahoo.co.jp/articles/5d7a570125436fe1c6893cf4c704da8f28d3fa97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ステーブルコイン法制化が難航",
-        "url": "https://news.yahoo.co.jp/articles/bde077fc16439df8bcb86afd5cb4abaec156adea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米BNY、サークルとの提携拡大。USDCの保有・ミント・バーン機能を実装へ",
-        "url": "https://news.yahoo.co.jp/articles/f10e94473daa8acdf3a65d18a425679d0e0ebbe6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーン、法人向けWeb3ウォレット「Datachain Wallet」でSOC2 Type1保証報告書を受領",
-        "url": "https://news.yahoo.co.jp/articles/a0658d5c605e6ddac1a6daae56d475dc642672c8",
         "source": "Yahoo",
         "date": ""
       }
