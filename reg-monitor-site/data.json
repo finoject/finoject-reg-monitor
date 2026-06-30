@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T08:43:59.621Z",
+  "generatedAt": "2026-06-30T11:59:37.846Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,59 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「証券取引等監視委員会の職員が検査及び犯則事件の調査をするときに携帯すべき証票等の様式を定める内閣府令の一部を改正する内閣府令」の公布の公表",
+      "url": "https://www.fsa.go.jp/news/r7/shouken/20260630/20260630.html",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T11:59:37.846Z",
+      "lawrefs": [
+        {
+          "id": "419AC0000000022",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律"
+        }
+      ],
+      "enriched": "2026-06-30T11:59:44.675Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "犯罪による収益の移転防止に関する法律の一部改正（令和8年法律34号）に対応し、証券取引等監視委員会職員の検査・犯則調査時に携帯する証票等の様式を定める内閣府令を改正した。",
+        "証券取引等監視委員会の職員が検査及び犯則事件の調査を実施する際、改正後の新しい様式の証票等を携帯する必要がある。",
+        "本改正内閣府令は令和8年6月30日に公布され、令和8年7月10日から施行される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "預貯金の不正送金被害等の発生状況（令和８年３月末）の公表",
+      "url": "https://www.fsa.go.jp/news/r7/ginkou/20260630.html",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T11:59:37.846Z",
+      "enriched": "2026-06-30T11:59:44.675Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和８年３月末時点で、インターネットバンキング被害は令和７年度3,946件（平均被害額360万円）、フィッシングサイトへの誘導によるID・パスワード窃取が主な手口。キャッシュカード窃取被害は令和７年度5,496件（平均被害額91万円）で、警察官詐称による騙し取りやすり替えが多発。",
+        "金融機関は預貯金者保護法に基づき補償判定を実施し、令和８年３月末までに報告済み。インターネットバンキング被害の補償率は74.9％（配偶者・親族除外後82.2％）、盗難キャッシュカード被害は58.0％（同76.4％）で、補償しない理由は重大過失・請求取下げ等。",
+        "各犯罪類型の統計対象期間は異なり、偽造キャッシュカードは平成12年４月から、盗難キャッシュカード・インターネットバンキングは平成17年２月から、連携サービスは令和２年10月から令和８年３月末までの被害を集計。金融庁は注意喚起を継続実施中。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「業種別支援の着眼点」に関する勉強会関連ウェブページの開設（委託事業）",
+      "url": "https://www.fsa.go.jp/news/r7/ginkou/20260630/20260630.html",
+      "date": "2026-06-30",
+      "detectedAt": "2026-06-30T11:59:37.846Z",
+      "enriched": "2026-06-30T11:59:44.675Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は令和８年度委託事業で『業種別支援の着眼点』の補足資料（経営支援事例・ケーススタディ等）を令和８年３月に取りまとめ公表し、委託先の株式会社帝国データバンクがウェブページを開設。",
+        "地域金融機関等の現場職員を対象に、事業性理解と事業者支援能力向上を目的とした個別勉強会の開催募集が帝国データバンクのウェブページで開始、金融庁特設ページでも『着眼点』と事例を掲載。",
+        "令和８年３月公表の補足資料及びウェブページ開設により、令和５年３月初版、令和６・７年３月追加の『業種別支援の着眼点』の普及促進体制を整備。"
       ],
       "aiSumV": 3
     },
@@ -5649,6 +5702,30 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
+        "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員らをインサイダー取引の罪で在宅起訴 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/9480ab4828618008079a77b5387fd681655b42f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
+        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "元TKP社員と夫を在宅起訴 インサイダー取引 東京地検",
         "url": "https://news.yahoo.co.jp/articles/421e46426c41902f72a740136f081a1d2bc4f325",
         "source": "Yahoo",
@@ -5657,36 +5734,36 @@
       {
         "title": "インサイダーでTKP元社員と夫在宅起訴",
         "url": "https://news.yahoo.co.jp/articles/4ea493ef8dcc24ed4fd86bd8bde7200cf1325a90",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
-        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カカクコム争奪戦！「株主構成の力学」を読めば、買収の行方は見える——TOBが証明した“下限17.51%の意味”",
-        "url": "https://news.yahoo.co.jp/articles/bbb553a38f5a5694af5d2bf1bcf54db21d0aeb2f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
-        "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
+        "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員らをインサイダー取引の罪で在宅起訴 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/9480ab4828618008079a77b5387fd681655b42f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
+        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "元TKP社員と夫を在宅起訴 インサイダー取引 東京地検",
         "url": "https://news.yahoo.co.jp/articles/421e46426c41902f72a740136f081a1d2bc4f325",
         "source": "Yahoo",
@@ -5695,36 +5772,36 @@
       {
         "title": "インサイダーでTKP元社員と夫在宅起訴",
         "url": "https://news.yahoo.co.jp/articles/4ea493ef8dcc24ed4fd86bd8bde7200cf1325a90",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
-        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カカクコム争奪戦！「株主構成の力学」を読めば、買収の行方は見える——TOBが証明した“下限17.51%の意味”",
-        "url": "https://news.yahoo.co.jp/articles/bbb553a38f5a5694af5d2bf1bcf54db21d0aeb2f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
-        "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
+        "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員らをインサイダー取引の罪で在宅起訴 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/9480ab4828618008079a77b5387fd681655b42f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
+        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "元TKP社員と夫を在宅起訴 インサイダー取引 東京地検",
         "url": "https://news.yahoo.co.jp/articles/421e46426c41902f72a740136f081a1d2bc4f325",
         "source": "Yahoo",
@@ -5733,36 +5810,36 @@
       {
         "title": "インサイダーでTKP元社員と夫在宅起訴",
         "url": "https://news.yahoo.co.jp/articles/4ea493ef8dcc24ed4fd86bd8bde7200cf1325a90",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
-        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カカクコム争奪戦！「株主構成の力学」を読めば、買収の行方は見える——TOBが証明した“下限17.51%の意味”",
-        "url": "https://news.yahoo.co.jp/articles/bbb553a38f5a5694af5d2bf1bcf54db21d0aeb2f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
-        "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
+        "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員らをインサイダー取引の罪で在宅起訴 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/9480ab4828618008079a77b5387fd681655b42f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
+        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "元TKP社員と夫を在宅起訴 インサイダー取引 東京地検",
         "url": "https://news.yahoo.co.jp/articles/421e46426c41902f72a740136f081a1d2bc4f325",
         "source": "Yahoo",
@@ -5773,33 +5850,15 @@
         "url": "https://news.yahoo.co.jp/articles/4ea493ef8dcc24ed4fd86bd8bde7200cf1325a90",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
-        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カカクコム争奪戦！「株主構成の力学」を読めば、買収の行方は見える——TOBが証明した“下限17.51%の意味”",
-        "url": "https://news.yahoo.co.jp/articles/bbb553a38f5a5694af5d2bf1bcf54db21d0aeb2f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:53貸会議室大手「TKP」元社員の女と夫を東京地検に刑事告発 インサイダー取引の疑い 証券取引等監視委員会",
-        "url": "https://news.yahoo.co.jp/articles/d89243873bc047e2503e9599e9269efe754dd9ec",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
+        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
         "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
@@ -5827,18 +5886,18 @@
       {
         "title": "このままでは日本と心中しかねない",
         "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
-        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
+        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
         "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
         "source": "Yahoo",
@@ -5867,15 +5926,15 @@
         "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "アニモカブランズジャパンに新CEO就任。天羽前CEOはイオレの専務取締役に",
-        "url": "https://news.yahoo.co.jp/articles/2a6414f76799c2509fe575ce3b2ad7d4ecdb7781",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
+        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "英FCA、暗号資産規制を来年10月に施行へ。ステーブルコイン要件は緩和",
         "url": "https://news.yahoo.co.jp/articles/f293478e37d3a96962aeb8ee808d2f7ed9a75b65",
@@ -5903,18 +5962,18 @@
       {
         "title": "Binance Japan、新代表に豊崎亜里紗氏──元Google・Forbes選出",
         "url": "https://news.yahoo.co.jp/articles/1fc8feb190f2f81c831fd47449cdff5af8521eef",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英FCA、暗号資産の最終規制枠組みを策定＝報道",
-        "url": "https://news.yahoo.co.jp/articles/3b358b7cc6efdfd6896b0d229912ce325fb01f0e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
+        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英FCA、暗号資産規制を来年10月に施行へ。ステーブルコイン要件は緩和",
         "url": "https://news.yahoo.co.jp/articles/f293478e37d3a96962aeb8ee808d2f7ed9a75b65",
         "source": "Yahoo",
@@ -5943,15 +6002,15 @@
         "url": "https://news.yahoo.co.jp/articles/1fc8feb190f2f81c831fd47449cdff5af8521eef",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "英FCA、暗号資産の最終規制枠組みを策定＝報道",
-        "url": "https://news.yahoo.co.jp/articles/3b358b7cc6efdfd6896b0d229912ce325fb01f0e",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
+        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "普及進まぬ「デジタル給与払い」。ダイソーが社員900名に導入して分かったメリットとは",
         "url": "https://news.yahoo.co.jp/articles/a858c5d1eb05687d59bdb30c5c70082c4d871b6d",
@@ -5979,18 +6038,18 @@
       {
         "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
         "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYSC、すでに38億円相当発行──SBIが国内初の信託型円ステーブルコイン",
-        "url": "https://news.yahoo.co.jp/articles/7a986291ff81cfd8268468eb5473f853738c859d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
+        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "普及進まぬ「デジタル給与払い」。ダイソーが社員900名に導入して分かったメリットとは",
         "url": "https://news.yahoo.co.jp/articles/a858c5d1eb05687d59bdb30c5c70082c4d871b6d",
         "source": "Yahoo",
@@ -6017,12 +6076,6 @@
       {
         "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
         "url": "https://news.yahoo.co.jp/articles/9c47d2163da5a8b889cca54089fce62d3874502d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYSC、すでに38億円相当発行──SBIが国内初の信託型円ステーブルコイン",
-        "url": "https://news.yahoo.co.jp/articles/7a986291ff81cfd8268468eb5473f853738c859d",
         "source": "Yahoo",
         "date": ""
       }
