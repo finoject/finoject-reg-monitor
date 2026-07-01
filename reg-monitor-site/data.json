@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T06:54:22.481Z",
+  "generatedAt": "2026-07-01T10:56:34.290Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,51 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの新規上場について",
+      "url": "https://www.jpx.co.jp/news/2020/20260701-01.html",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-01T10:56:34.290Z",
+      "enriched": "2026-07-01T10:56:40.584Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大阪取引所は2026年8月3日（月）にキオクシア、レゾナック、JX金属、良品計画、バンダイナムコ、アシックス、豊田通商の7銘柄の有価証券オプション（かぶオプ）を新規上場する。",
+        "取引参加者は8月3日から当該銘柄のオプション取引を開始でき、フレックス・オプション取引については銘柄設定が可能。建玉制限数量は銘柄ごとに設定され、大口建玉報告基準値も定められている。",
+        "限月取引は8月・9月・12月・3月の4限月で、取引最終日は各月の第2木曜日（8月13日、9月10日、12月10日、3月11日）に設定されており、有価証券オプションに関する詳細は大阪取引所に照会。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX,東証,OSE,TOCOM]2026年6月及び年上半期（1－6月）の売買状況について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/20260701-11.html",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-01T10:56:34.290Z",
+      "enriched": "2026-07-01T10:56:40.584Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年6月のデリバティブ合計取引代金が593兆円となり過去最高を記録し、上半期の取引高が2億4,847万1,363単位で過去2番目となった。",
+        "市場参加者は東証プライム市場の1日平均売買代金（6月：12兆9,727億円、上半期：10兆1,412億円）及びETF市場の動向（6月：6,619億円）を参考に売買判断を行う必要がある。",
+        "本統計は2022年4月4日の市場区分見直しに基づき新市場区分で集計され、2021年9月分以降はフレックス限月取引を含み、2026年6月及び上半期のデータは7月1日付で公表された。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]JPXマンスリー・ヘッドライン（6月分）について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260701-02.html",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-01T10:56:34.290Z",
+      "enriched": "2026-07-01T10:56:40.584Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "6月29日からAIを活用した開示情報活用サービス「J-LENS」シリーズの提供が開始され、同日より10本板ヒストリカルデータの提供も開始される。",
+        "上場会社及び機関投資家を対象にアンケートが6月12日に実施され、JPXは市場利用者向けの魅力向上に向けた取り組みを推進している。",
+        "JPX自主規制法人が6月19日に年次報告2026を発刊し、定時株主総会も同日開催されるなど、JPXグループの市場改革動向が月次で情報提供される。"
       ],
       "aiSumV": 3
     },
@@ -5868,12 +5913,6 @@
   "lawnews": {
     "323AC0000000025": [
       {
-        "title": "I-neと大西社長に合計8000万円超の課徴金勧告 東証は猶予期間入りを通告、関連当事者取引の不記載で",
-        "url": "https://news.yahoo.co.jp/articles/c2b9af44ddfb6b6039dc7a1a3dbb49c9baaad64e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
         "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
         "source": "Yahoo",
@@ -5900,18 +5939,18 @@
       {
         "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
-        "title": "I-neと大西社長に合計8000万円超の課徴金勧告 東証は猶予期間入りを通告、関連当事者取引の不記載で",
-        "url": "https://news.yahoo.co.jp/articles/c2b9af44ddfb6b6039dc7a1a3dbb49c9baaad64e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
         "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
         "source": "Yahoo",
@@ -5938,18 +5977,18 @@
       {
         "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
-        "title": "I-neと大西社長に合計8000万円超の課徴金勧告 東証は猶予期間入りを通告、関連当事者取引の不記載で",
-        "url": "https://news.yahoo.co.jp/articles/c2b9af44ddfb6b6039dc7a1a3dbb49c9baaad64e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
         "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
         "source": "Yahoo",
@@ -5976,18 +6015,18 @@
       {
         "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
-        "title": "I-neと大西社長に合計8000万円超の課徴金勧告 東証は猶予期間入りを通告、関連当事者取引の不記載で",
-        "url": "https://news.yahoo.co.jp/articles/c2b9af44ddfb6b6039dc7a1a3dbb49c9baaad64e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
         "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
         "source": "Yahoo",
@@ -6014,6 +6053,12 @@
       {
         "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
+        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
         "source": "Yahoo",
         "date": ""
       }
@@ -6096,6 +6141,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "トランプ氏、暗号資産で２３００億円の収入",
+        "url": "https://news.yahoo.co.jp/articles/41f808e57eb53d13a0cf330f54e1b7a03cdd9bad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ氏、暗号資産で1600億円超の収入 大統領復帰1年目",
+        "url": "https://news.yahoo.co.jp/articles/a82cecf59395bb5ce0bbd1a382398733d58adf42",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
         "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
         "source": "Yahoo",
@@ -6116,24 +6173,24 @@
       {
         "title": "DeFi出身の新代表が描くBinance Japanの「成長フェーズ」──豊崎亜里紗氏が語る戦略とは",
         "url": "https://news.yahoo.co.jp/articles/04d1719c88f437d6e404a2b5f1f4fa1543e81bea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、アンカレッジ・デジタルと提携。機関投資家向け取引所外清算を提供へ",
-        "url": "https://news.yahoo.co.jp/articles/ecf1983fd0af06bca6697e92693d8311bff3da73",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏暗号資産、収益2300億円超 利益相反の疑いも トランプ氏は「米国を暗号資産の首都にする」と宣言。規制緩和などを通じ関連市場の拡大に取り組んでいる。ただ、一族企業が暗号資産事業を手広く行っているこ",
-        "url": "https://news.yahoo.co.jp/articles/18d761a86bb851a5071b01308a2c4548901ae9ac",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプ氏、暗号資産で２３００億円の収入",
+        "url": "https://news.yahoo.co.jp/articles/41f808e57eb53d13a0cf330f54e1b7a03cdd9bad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ氏、暗号資産で1600億円超の収入 大統領復帰1年目",
+        "url": "https://news.yahoo.co.jp/articles/a82cecf59395bb5ce0bbd1a382398733d58adf42",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
         "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
         "source": "Yahoo",
@@ -6154,18 +6211,6 @@
       {
         "title": "DeFi出身の新代表が描くBinance Japanの「成長フェーズ」──豊崎亜里紗氏が語る戦略とは",
         "url": "https://news.yahoo.co.jp/articles/04d1719c88f437d6e404a2b5f1f4fa1543e81bea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、アンカレッジ・デジタルと提携。機関投資家向け取引所外清算を提供へ",
-        "url": "https://news.yahoo.co.jp/articles/ecf1983fd0af06bca6697e92693d8311bff3da73",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏暗号資産、収益2300億円超 利益相反の疑いも トランプ氏は「米国を暗号資産の首都にする」と宣言。規制緩和などを通じ関連市場の拡大に取り組んでいる。ただ、一族企業が暗号資産事業を手広く行っているこ",
-        "url": "https://news.yahoo.co.jp/articles/18d761a86bb851a5071b01308a2c4548901ae9ac",
         "source": "Yahoo",
         "date": ""
       }
@@ -6324,6 +6369,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "トランプ氏、暗号資産で２３００億円の収入",
+        "url": "https://news.yahoo.co.jp/articles/41f808e57eb53d13a0cf330f54e1b7a03cdd9bad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ氏、昨年はいくら稼いだのか",
         "url": "https://news.yahoo.co.jp/articles/c24eb73e45a00ec90e2d4a6f68ee846f98fb3ca7",
         "source": "Yahoo",
@@ -6348,20 +6399,20 @@
         "date": ""
       },
       {
-        "title": "ソラナ、「Confidential Balances」がメインネット再有効活化。秘匿送金機能が復帰",
+        "title": "ソラナ、「Confidential Balances」がメインネット再有効化。秘匿送金機能が復帰",
         "url": "https://news.yahoo.co.jp/articles/20221be9f68aa5962c8027496b484f5ffbfec2e8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "巨大企業連合がドル連動型ステーブルコイン立ち上げ、利用加速促進狙う",
-        "url": "https://news.yahoo.co.jp/articles/731ee2648a29a02856b441e385bc79e2cd4d2b9b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "トランプ氏、暗号資産で２３００億円の収入",
+        "url": "https://news.yahoo.co.jp/articles/41f808e57eb53d13a0cf330f54e1b7a03cdd9bad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ氏、昨年はいくら稼いだのか",
         "url": "https://news.yahoo.co.jp/articles/c24eb73e45a00ec90e2d4a6f68ee846f98fb3ca7",
         "source": "Yahoo",
@@ -6386,14 +6437,8 @@
         "date": ""
       },
       {
-        "title": "ソラナ、「Confidential Balances」がメインネット再有効活化。秘匿送金機能が復帰",
+        "title": "ソラナ、「Confidential Balances」がメインネット再有効化。秘匿送金機能が復帰",
         "url": "https://news.yahoo.co.jp/articles/20221be9f68aa5962c8027496b484f5ffbfec2e8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "巨大企業連合がドル連動型ステーブルコイン立ち上げ、利用加速促進狙う",
-        "url": "https://news.yahoo.co.jp/articles/731ee2648a29a02856b441e385bc79e2cd4d2b9b",
         "source": "Yahoo",
         "date": ""
       }
