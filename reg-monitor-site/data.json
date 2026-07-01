@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T01:54:42.897Z",
+  "generatedAt": "2026-07-01T06:54:22.481Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,113 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-01T06:54:22.481Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-01T06:54:27.770Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "会長記者会見の資料を公開しました",
+      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-01T06:54:22.481Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
+        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
+        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-01T06:54:27.770Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【記者会見】佐藤審議委員（6月30日分）",
+      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260701a.pdf",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-01T06:54:22.481Z",
+      "enriched": "2026-07-01T06:54:27.771Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日銀は2026年6月の金融政策決定会合で政策金利を1％に引き上げたが、佐藤新審議委員は中立金利の推計値に幅があり緩和的か引き締め的かの判断は困難との見方を示した。",
+        "佐藤審議委員は金融政策の役割を物価安定観点から基調的物価動向の注視に限定し、原油価格上昇による一時的なコストプッシュと持続的なインフレを見極めることが重要と述べた。",
+        "審議委員は次回決定会合に向けてデータ分析を深め、為替変動の物価への影響および予想物価上昇率への波及可能性を慎重に監視する方針を表明した。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日銀当座預金増減要因と金融調節（6月実績）",
+      "url": "https://www.boj.or.jp/statistics/boj/fm/juqf/juqf06.xlsx",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-01T06:54:22.481Z",
+      "enriched": "2026-07-01T06:54:27.771Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がExcelファイルの暗号化データであり、6月実績の具体的な日銀当座預金増減要因および金融調節の内容を抽出することができません。",
+        "ファイル形式の問題により、実務担当者が必要とする具体的な数値・金額・対象者・実施期限等の情報を確認できません。",
+        "公表資料の通常の形式での開示または別途の説明資料を確認する必要があります。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260701-01.html",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-01T06:54:22.481Z",
+      "enriched": "2026-07-01T06:54:27.771Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "Hmcomm（株）（コード265A）について、2営業日連続してストップ高（安）となり売買高が0株または午後立会終了時のみストップ高（安）で売買成立した場合、翌営業日（7月2日）から制限値幅の上限を600円（下限は150円）に拡大。",
+        "取引参加者および投資家は、同銘柄の7月2日の取引において拡大された制限値幅（上限600円）での売買が行われることに注意し、成行注文での予期しない約定を避けるため指値注文の活用を検討すべき。",
+        "拡大された制限値幅は、7月2日以降ストップ高（安）以外の値段で売買が成立した場合の翌営業日から通常に戻り、東証の裁量により個別銘柄ごとに適用される特例措置。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：シンポ（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260701-11.html",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-01T06:54:22.481Z",
+      "enriched": "2026-07-01T06:54:27.771Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "シンポ（株）（コード5903、スタンダード市場）は特別支配株主による株式等売渡請求により上場廃止される。上場規程第601条第1項第17号に該当。",
+        "取引参加者は同社株式を2026年7月2日以降、信用取引・発行日決済取引の委託保証金や売買証拠金等の代用有価証券から除外する必要がある。",
+        "整理銘柄指定期間は2026年7月1日から7月21日まで、上場廃止日は2026年7月22日（ただし速やかに廃止すべき事情発生時は変更の可能性あり）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]「TOKYO PRO Marketへの上場目的の開示企業一覧表」及び「TOKYO PRO MarketにおけるJ-Adviserのご紹介」の公表等について",
+      "url": "https://www.jpx.co.jp/news/1071/20260701-01.html",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-01T06:54:22.481Z",
+      "enriched": "2026-07-01T06:54:27.771Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証は2026年4月3日にTPM全上場企業に上場目的開示を依頼し、6月15日時点で107社（約6割）が開示を完了、毎月一覧表を更新開始。",
+        "TPM上場企業は社内体制強化（91%）・営業力強化（89%）・採用力強化（80%）等の目的を掲げ、一般市場上場やM&A準備を進める企業が多く、評価軸・目標を開示。",
+        "東証は7月2日にTPM上場企業向け「一般市場上場後を見据えた成長セミナー」を開催、15のJ-Adviser（証券会社・コンサル等）が上場支援と伴走助言役を担当。"
       ],
       "aiSumV": 3
     },
@@ -1328,22 +1435,6 @@
         "金融機能強化法ガイドラインは令和8年6月24日限り廃止され、協同組織金融機関の優先出資に係る主務大臣定率等を定める関連告示も廃止される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-06-24",
-      "detectedAt": "2026-06-24T10:00:34.152Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-06-24T10:00:40.853Z"
     },
     {
       "agency": "日本銀行",
@@ -3122,21 +3213,6 @@
         "2026年4月の新規短期貸出金利は、国内銀行1.474%、都市銀行1.530%、地方銀行1.487%、第二地方銀行1.703%、信用金庫2.261%であり、前月比で変動した。",
         "新規長期貸出金利は、国内銀行1.790%、都市銀行1.962%、地方銀行1.721%、第二地方銀行1.686%、信用金庫2.132%である。",
         "日本銀行が毎月公表する貸出約定平均金利は、国内銀行・都市銀行・地方銀行・信用金庫等の短期・長期・総合について月中の新規実行貸出と月末残高ベースのストック統計で構成される。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "会長記者会見の要旨を公開しました",
-      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
-      "date": "2026-06-10",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:01:58.833Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
-        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
-        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
       ],
       "aiSumV": 3
     },
@@ -5792,6 +5868,24 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "I-neと大西社長に合計8000万円超の課徴金勧告 東証は猶予期間入りを通告、関連当事者取引の不記載で",
+        "url": "https://news.yahoo.co.jp/articles/c2b9af44ddfb6b6039dc7a1a3dbb49c9baaad64e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
+        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
+        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "経営者の“先読み”が勝利を呼んだ",
         "url": "https://news.yahoo.co.jp/articles/f3287fafa93c894009b86dc1e1d59eb6b56fc50a",
         "source": "Yahoo",
@@ -5806,30 +5900,30 @@
       {
         "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "TKP元社員らをインサイダー取引の罪で在宅起訴 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/9480ab4828618008079a77b5387fd681655b42f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
-        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "I-neと大西社長に合計8000万円超の課徴金勧告 東証は猶予期間入りを通告、関連当事者取引の不記載で",
+        "url": "https://news.yahoo.co.jp/articles/c2b9af44ddfb6b6039dc7a1a3dbb49c9baaad64e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
+        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
+        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "経営者の“先読み”が勝利を呼んだ",
         "url": "https://news.yahoo.co.jp/articles/f3287fafa93c894009b86dc1e1d59eb6b56fc50a",
         "source": "Yahoo",
@@ -5844,30 +5938,30 @@
       {
         "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "TKP元社員らをインサイダー取引の罪で在宅起訴 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/9480ab4828618008079a77b5387fd681655b42f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
-        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "I-neと大西社長に合計8000万円超の課徴金勧告 東証は猶予期間入りを通告、関連当事者取引の不記載で",
+        "url": "https://news.yahoo.co.jp/articles/c2b9af44ddfb6b6039dc7a1a3dbb49c9baaad64e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
+        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
+        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "経営者の“先読み”が勝利を呼んだ",
         "url": "https://news.yahoo.co.jp/articles/f3287fafa93c894009b86dc1e1d59eb6b56fc50a",
         "source": "Yahoo",
@@ -5882,30 +5976,30 @@
       {
         "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "TKP元社員らをインサイダー取引の罪で在宅起訴 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/9480ab4828618008079a77b5387fd681655b42f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
-        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "I-neと大西社長に合計8000万円超の課徴金勧告 東証は猶予期間入りを通告、関連当事者取引の不記載で",
+        "url": "https://news.yahoo.co.jp/articles/c2b9af44ddfb6b6039dc7a1a3dbb49c9baaad64e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
+        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
+        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "経営者の“先読み”が勝利を呼んだ",
         "url": "https://news.yahoo.co.jp/articles/f3287fafa93c894009b86dc1e1d59eb6b56fc50a",
         "source": "Yahoo",
@@ -5922,27 +6016,21 @@
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "TKP元社員らをインサイダー取引の罪で在宅起訴 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/9480ab4828618008079a77b5387fd681655b42f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
-        "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
+        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
+        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
         "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
@@ -5964,24 +6052,24 @@
       {
         "title": "Circle、野村ホールディングスとデジタル金融で協業へ──改正資金決済法の施行と、動き出す日本のステーブルコイン決済【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【2017年のINTERNET Watch】分散型SNS「マストドン」に業界が熱狂。ランサムウェア「WannaCry」が猛威",
-        "url": "https://news.yahoo.co.jp/articles/de47611954563ef728ab7f922a753c1dba153233",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "このままでは日本と心中しかねない",
-        "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
+        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
+        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
         "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
         "source": "Yahoo",
@@ -6004,98 +6092,92 @@
         "url": "https://news.yahoo.co.jp/articles/90dfa9816b5ffea03097ed4be26da69db89c674a",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "【2017年のINTERNET Watch】分散型SNS「マストドン」に業界が熱狂。ランサムウェア「WannaCry」が猛威",
-        "url": "https://news.yahoo.co.jp/articles/de47611954563ef728ab7f922a753c1dba153233",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "このままでは日本と心中しかねない",
-        "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
       {
+        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
+        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットフライヤーがMiCA認可取得でEU27国でサービス提供。米国は49州・ワシントンDCへ拡大も",
+        "url": "https://news.yahoo.co.jp/articles/529bd8269d5f28e511be0b0d506328eecd4e6ef3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
+        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DeFi出身の新代表が描くBinance Japanの「成長フェーズ」──豊崎亜里紗氏が語る戦略とは",
+        "url": "https://news.yahoo.co.jp/articles/04d1719c88f437d6e404a2b5f1f4fa1543e81bea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、アンカレッジ・デジタルと提携。機関投資家向け取引所外清算を提供へ",
+        "url": "https://news.yahoo.co.jp/articles/ecf1983fd0af06bca6697e92693d8311bff3da73",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ氏暗号資産、収益2300億円超 利益相反の疑いも トランプ氏は「米国を暗号資産の首都にする」と宣言。規制緩和などを通じ関連市場の拡大に取り組んでいる。ただ、一族企業が暗号資産事業を手広く行っているこ",
         "url": "https://news.yahoo.co.jp/articles/18d761a86bb851a5071b01308a2c4548901ae9ac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、2025年の暗号資産関連の収入は12億ドル",
-        "url": "https://news.yahoo.co.jp/articles/719de0e8e52d27af66a6e190b3528f659fbfa6da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナ、BTCを上回る値動き──SGBの手数料免除とトークン化株式取引高13億ドルが追い風【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/351c480e368e6dc183fc80b81d26d589a7ee3c32",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MiCA期限迎えた欧州で取引所に混乱──BTC、5万ドル台前半まで下落拡大か【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/ca7c56a1a01be73264191257e1f2dcd4ddcec056",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインのビジネス利用が急増する見込み＝Cybrid",
-        "url": "https://news.yahoo.co.jp/articles/48663445074e2135d013be6888ff34cd24cd9a13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産関連企業、米中間選挙に向け1.9億ドル支出 企業献金最大業界に",
-        "url": "https://news.yahoo.co.jp/articles/cfc0192cad74eced91563e2ec45fc4291f59c578",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
+        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットフライヤーがMiCA認可取得でEU27国でサービス提供。米国は49州・ワシントンDCへ拡大も",
+        "url": "https://news.yahoo.co.jp/articles/529bd8269d5f28e511be0b0d506328eecd4e6ef3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
+        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DeFi出身の新代表が描くBinance Japanの「成長フェーズ」──豊崎亜里紗氏が語る戦略とは",
+        "url": "https://news.yahoo.co.jp/articles/04d1719c88f437d6e404a2b5f1f4fa1543e81bea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、アンカレッジ・デジタルと提携。機関投資家向け取引所外清算を提供へ",
+        "url": "https://news.yahoo.co.jp/articles/ecf1983fd0af06bca6697e92693d8311bff3da73",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ氏暗号資産、収益2300億円超 利益相反の疑いも トランプ氏は「米国を暗号資産の首都にする」と宣言。規制緩和などを通じ関連市場の拡大に取り組んでいる。ただ、一族企業が暗号資産事業を手広く行っているこ",
         "url": "https://news.yahoo.co.jp/articles/18d761a86bb851a5071b01308a2c4548901ae9ac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、2025年の暗号資産関連の収入は12億ドル",
-        "url": "https://news.yahoo.co.jp/articles/719de0e8e52d27af66a6e190b3528f659fbfa6da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナ、BTCを上回る値動き──SGBの手数料免除とトークン化株式取引高13億ドルが追い風【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/351c480e368e6dc183fc80b81d26d589a7ee3c32",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MiCA期限迎えた欧州で取引所に混乱──BTC、5万ドル台前半まで下落拡大か【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/ca7c56a1a01be73264191257e1f2dcd4ddcec056",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインのビジネス利用が急増する見込み＝Cybrid",
-        "url": "https://news.yahoo.co.jp/articles/48663445074e2135d013be6888ff34cd24cd9a13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産関連企業、米中間選挙に向け1.9億ドル支出 企業献金最大業界に",
-        "url": "https://news.yahoo.co.jp/articles/cfc0192cad74eced91563e2ec45fc4291f59c578",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422M60000002004": [
       {
+        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
+        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "PayPayがあるのになぜ？JR西日本が「Wesmo!」を強化、その先にある巨大構想とは",
         "url": "https://news.yahoo.co.jp/articles/95fac4599f295f10759ae80d70517441b2ff24e9",
         "source": "Yahoo",
@@ -6122,18 +6204,18 @@
       {
         "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進",
         "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし JPYSCは信託銀行が裏付け資産を管理する「信託型」で、各社によると国内初。先行する資金移動業型のステーブルコインと違い、1回あたりの送金や口座残高にかかる100万",
-        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
+        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "PayPayがあるのになぜ？JR西日本が「Wesmo!」を強化、その先にある巨大構想とは",
         "url": "https://news.yahoo.co.jp/articles/95fac4599f295f10759ae80d70517441b2ff24e9",
         "source": "Yahoo",
@@ -6160,12 +6242,6 @@
       {
         "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進",
         "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、国内初の信託型円ステーブルコイン「JPYSC」を発行 送金の100万円制限なし JPYSCは信託銀行が裏付け資産を管理する「信託型」で、各社によると国内初。先行する資金移動業型のステーブルコインと違い、1回あたりの送金や口座残高にかかる100万",
-        "url": "https://news.yahoo.co.jp/articles/ff1fa093545fc6729ee9f3d532abfd94c0c5e1f8",
         "source": "Yahoo",
         "date": ""
       }
@@ -6248,76 +6324,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "トランプ氏、昨年はいくら稼いだのか",
+        "url": "https://news.yahoo.co.jp/articles/c24eb73e45a00ec90e2d4a6f68ee846f98fb3ca7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハイパー財団、USDH段階的終了対応で約10Mドルの助成金",
+        "url": "https://news.yahoo.co.jp/articles/177092e31336fc385e4b29b2f51b33c80424422c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Google・Visaなど140社以上が“オープン”なステーブルコイン「Open USD」",
+        "url": "https://news.yahoo.co.jp/articles/0c0958eb52f2926672fbffd06d9b707bee8f617f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ大統領、暗号資産関連所得が14億ドル超。WLFIやミームコイン寄与",
+        "url": "https://news.yahoo.co.jp/articles/e6b2411dc89fb3fa7e29592422b0dd882e862e4a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソラナ、「Confidential Balances」がメインネット再有効活化。秘匿送金機能が復帰",
+        "url": "https://news.yahoo.co.jp/articles/20221be9f68aa5962c8027496b484f5ffbfec2e8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "巨大企業連合がドル連動型ステーブルコイン立ち上げ、利用加速促進狙う",
         "url": "https://news.yahoo.co.jp/articles/731ee2648a29a02856b441e385bc79e2cd4d2b9b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "6月のビットコインを振り返る──恐怖と蓄積が交錯した1か月、市場構造はどう変わったのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/caadda35b5fce78829eba545c900d25435d1f244",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、2025年の暗号資産関連の収入は12億ドル",
-        "url": "https://news.yahoo.co.jp/articles/719de0e8e52d27af66a6e190b3528f659fbfa6da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "次の局面へ、ブラックロックが運用システムにEthenaの合成ドル「USDe」採用",
-        "url": "https://news.yahoo.co.jp/articles/1431bb9a95c2b918627f5dc96912769da9c14629",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OKX、AIエージェント向けマーケットプレイスを立ち上げ",
-        "url": "https://news.yahoo.co.jp/articles/fcc53af375aa9659a537297a9b115d09909e7a4b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナ、BTCを上回る値動き──SGBの手数料免除とトークン化株式取引高13億ドルが追い風【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/351c480e368e6dc183fc80b81d26d589a7ee3c32",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "トランプ氏、昨年はいくら稼いだのか",
+        "url": "https://news.yahoo.co.jp/articles/c24eb73e45a00ec90e2d4a6f68ee846f98fb3ca7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハイパー財団、USDH段階的終了対応で約10Mドルの助成金",
+        "url": "https://news.yahoo.co.jp/articles/177092e31336fc385e4b29b2f51b33c80424422c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Google・Visaなど140社以上が“オープン”なステーブルコイン「Open USD」",
+        "url": "https://news.yahoo.co.jp/articles/0c0958eb52f2926672fbffd06d9b707bee8f617f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ大統領、暗号資産関連所得が14億ドル超。WLFIやミームコイン寄与",
+        "url": "https://news.yahoo.co.jp/articles/e6b2411dc89fb3fa7e29592422b0dd882e862e4a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソラナ、「Confidential Balances」がメインネット再有効活化。秘匿送金機能が復帰",
+        "url": "https://news.yahoo.co.jp/articles/20221be9f68aa5962c8027496b484f5ffbfec2e8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "巨大企業連合がドル連動型ステーブルコイン立ち上げ、利用加速促進狙う",
         "url": "https://news.yahoo.co.jp/articles/731ee2648a29a02856b441e385bc79e2cd4d2b9b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "6月のビットコインを振り返る──恐怖と蓄積が交錯した1か月、市場構造はどう変わったのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/caadda35b5fce78829eba545c900d25435d1f244",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、2025年の暗号資産関連の収入は12億ドル",
-        "url": "https://news.yahoo.co.jp/articles/719de0e8e52d27af66a6e190b3528f659fbfa6da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "次の局面へ、ブラックロックが運用システムにEthenaの合成ドル「USDe」採用",
-        "url": "https://news.yahoo.co.jp/articles/1431bb9a95c2b918627f5dc96912769da9c14629",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OKX、AIエージェント向けマーケットプレイスを立ち上げ",
-        "url": "https://news.yahoo.co.jp/articles/fcc53af375aa9659a537297a9b115d09909e7a4b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナ、BTCを上回る値動き──SGBの手数料免除とトークン化株式取引高13億ドルが追い風【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/351c480e368e6dc183fc80b81d26d589a7ee3c32",
         "source": "Yahoo",
         "date": ""
       }
