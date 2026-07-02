@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T05:42:10.070Z",
+  "generatedAt": "2026-07-02T09:46:22.264Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,159 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "電通総研（4812）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T09:46:22.264Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-02T09:46:27.657Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T09:46:22.264Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-02T09:46:27.657Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "PSJ予測統計値",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T09:46:22.264Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
+        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
+        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-02T09:46:27.657Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260630.xlsx",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T09:46:22.264Z",
+      "enriched": "2026-07-02T09:46:27.657Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がバイナリ形式（Excelファイル）であり、銘柄別残高の具体的な数値・構成等が解析不可能なため、公表日時点での日本銀行保有国債の残高状況を把握する必要があるが詳細は別途資料参照要",
+        "金融機関・市場参加者は日本銀行公表の国債銘柄別残高データを金融政策動向・オペレーション分析の参考資料として利用し、ポートフォリオ管理に反映させる対応が求められる",
+        "2026年7月2日公表のデータであり、日本銀行の国債保有戦略・金融緩和政策の実施状況を示す情報として、関連当局への報告義務がある場合は該当データを活用"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が受入れている担保の残高（6月末）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/col/col2606.xlsx",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T09:46:22.264Z",
+      "enriched": "2026-07-02T09:46:27.657Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が暗号化・圧縮されたExcel形式のため、具体的な担保残高の数値・内訳・前月比等の実務情報を抽出できない。",
+        "日本銀行が定期公表している担保受入状況の6月末データと判断されるが、本文内容が復号化不可のため対象者の対応要件を特定できない。",
+        "2026年7月2日付の公表資料であるが、ファイル形式の技術的問題により金融規制・コンプライアンス実務への適用内容を確認できない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：ニッセイＥＴＦ ラッセル２０００（コード600A）",
+      "url": "https://www.jpx.co.jp/news/1030/20260702-01.html",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T09:46:22.264Z",
+      "enriched": "2026-07-02T09:46:27.657Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ニッセイＥＴＦ ラッセル２０００（コード600A）は2026年7月9日に東証に新規上場予定で、呼値の単位は「ＥＴＦ等（1口）呼値テーブル」が適用される。",
+        "取引参加者及び市場参加者は当該銘柄の取引時に指定された呼値テーブルに従って注文執行及び価格提示を行う必要がある。",
+        "本通知は2026年7月2日付けで東京証券取引所から発表され、新規上場日である2026年7月9日から適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]『東証マネ部！ お金の超・バイブル』の発刊について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260702-01.html",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T09:46:22.264Z",
+      "enriched": "2026-07-02T09:46:27.657Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証は投資未経験・初心者向けの書籍『東証マネ部！お金の超・バイブル』を2026年7月15日に発売する。価格198円税込み、全301ページで、インフォグラフィックと漢字ルビ付きが特徴。",
+        "投資教育による金融リテラシー向上を中期経営計画2027の重点施策として位置付けており、本書は東証マネ部！の10年間の知見を集約した初心者向け金融教育教材として機能する。",
+        "2016年開設の「東証マネ部！」が2022年の「JPXマネ部！ラボ」設置を経て、NISA・税金・経済指標など身近なお金のテーマを幅広く扱う金融経済教育コンテンツとして展開している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]「取組みの進展が見られる企業」等に関する機関投資家アンケートの実施について（再掲）",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260702-01.html",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T09:46:22.264Z",
+      "enriched": "2026-07-02T09:46:27.657Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証は6月12日から7月17日まで、国内外の機関投資家を対象に資本コストや株価を意識した経営の観点から「取組みの進展が見られる企業」に関するアンケートを実施し、回答企業名と評価ポイントを本年夏頃に公表予定。",
+        "機関投資家は市場区分・規模別の4区分（プライム1,000億円以上/未満、スタンダード100億円以上/未満）ごとに最大10社まで、中長期的企業価値向上の観点から評価企業と評価ポイントを回答、社名の公表に同意できる。",
+        "回答期限は2026年7月17日（金）で、提出フォーム（https://forms.cloud.microsoft/r/54Snjz49qv）またはメール（jojo-kikaku@jpx.co.jp）で対応し、期限延長の相談も可能。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]「投資家への期待・要望」等に関する企業アンケートの実施について（再掲）",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260702-02.html",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T09:46:22.264Z",
+      "enriched": "2026-07-02T09:46:27.657Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証は6月12日から7月17日までの期間、プライム・スタンダード・グロース市場の全上場会社を対象に「投資家への期待・要望」等に関するアンケートを実施。既に200社超が回答済みで、未回答企業への回答を促している。",
+        "上場会社は事業戦略・ガバナンス・資本政策等について機関投資家との対話から得た気づきや、投資家への要望を回答フォーム（Microsoft Forms または メール送付）で報告。CEO・CFO・IR部門等実際に対話している部門からの声を把握することが目的。",
+        "回答内容は投資家向け参考情報として公表される（個社名特定は非公表）ほか、今後の企業向け情報発信・サポート検討の材料に活用。個別ヒアリングをお願いする場合もあり。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "自主規制モニター会議（2026年６月４日）の議事要旨等の公表について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260702mln.html",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T09:46:22.264Z",
+      "enriched": "2026-07-02T09:46:27.657Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年６月４日開催の自主規制モニター会議で、品質管理レビュー基本方針（2026～2028年度）及び2026年度品質管理レビュー方針が説明されたほか、昨今の会計不祥事への対応及び新規監査報酬算定のあり方検討プロジェクトチームの設置について報告された。",
+        "日本公認会計士協会は、会計不正事案への対応として個別事案審査において早期調査と必要に応じた処分の実施、既存の不正リスク対応基準の会員への周知徹底、及び監査現場の環境改善により監査品質向上に取り組む。",
+        "委員会は、監査品質の説明について会員や外部関係者に理解しやすい形での工夫、監査役等への周知活動の充実、並びに日本取引所グループ・日本証券業協会との連携による新規上場時の不正防止策実現を協会に要望した。"
       ],
       "aiSumV": 3
     },
@@ -443,22 +596,6 @@
         "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
         "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
         "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-06-30T08:44:07.173Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "共栄セキュリティーサービス （7058）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-06-30",
-      "detectedAt": "2026-06-30T08:43:59.621Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
       ],
       "aiSumV": 3,
       "updated": true,
@@ -1219,22 +1356,6 @@
         "金融商品取引業者等に対する行政処分であり、処分内容の詳細は関東財務局理財部証券監督第3課または金融庁監督局証券課に問い合わせ。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-06-25",
-      "detectedAt": "2026-06-25T09:56:32.545Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-06-25T09:56:37.007Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -2468,22 +2589,6 @@
         "東証は2営業日連続してストップ高（安）となり売買がない、又は午後立会終了時にストップ高（安）でのみ売買成立した3銘柄（ジーネクスト・アトム・笑美面）の制限値幅を6月17日より拡大する。",
         "取引参加者及び投資家は当該3銘柄について通常と異なる制限値幅（ジーネクスト上限600円・アトム下限320円・笑美面上限600円）を適用されることを認識し、成行注文による予期しない約定に注意する必要がある。",
         "拡大された制限値幅は6月17日以降、ストップ高（安）以外の値段で売買が成立した場合にはその翌営業日から通常値幅に戻る仕組み（東京証券取引所の制限値幅拡大制度に基づく）。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "PSJ予測統計値",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
-      "date": "2026-06-16",
-      "detectedAt": "2026-06-16T15:17:06.019Z",
-      "updated": true,
-      "enriched": "2026-06-19T06:01:56.135Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
-        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
-        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
       ],
       "aiSumV": 3
     },
@@ -6262,6 +6367,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "トランプ氏の暗号資産収入14億ドル、米上場デジタル資産企業を上回る",
+        "url": "https://news.yahoo.co.jp/articles/96a13f39c7d4c2510a7a6036600be42cbb15c787",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "LN Trends 2026年6月",
         "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
         "source": "Yahoo",
@@ -6288,18 +6399,18 @@
       {
         "title": "0:39トランプ大統領 暗号資産で2200億円の収入 利益相反の疑いも本人は否定",
         "url": "https://news.yahoo.co.jp/articles/ed848ebe3cf60f4a7d8e19f4a0fcdacf09ccc43a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "bitFlyerがMiCA認可、日本勢で初──EU27カ国で暗号資産サービス提供へ",
-        "url": "https://news.yahoo.co.jp/articles/5c22dcfff028230f25bc08fecdf6b7dc5e5e573a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプ氏の暗号資産収入14億ドル、米上場デジタル資産企業を上回る",
+        "url": "https://news.yahoo.co.jp/articles/96a13f39c7d4c2510a7a6036600be42cbb15c787",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "LN Trends 2026年6月",
         "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
         "source": "Yahoo",
@@ -6326,12 +6437,6 @@
       {
         "title": "0:39トランプ大統領 暗号資産で2200億円の収入 利益相反の疑いも本人は否定",
         "url": "https://news.yahoo.co.jp/articles/ed848ebe3cf60f4a7d8e19f4a0fcdacf09ccc43a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "bitFlyerがMiCA認可、日本勢で初──EU27カ国で暗号資産サービス提供へ",
-        "url": "https://news.yahoo.co.jp/articles/5c22dcfff028230f25bc08fecdf6b7dc5e5e573a",
         "source": "Yahoo",
         "date": ""
       }
@@ -6490,6 +6595,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "HashPort Wallet、アプリ内でJPYCの発行・償還が可能に",
+        "url": "https://news.yahoo.co.jp/articles/5f8921fc2f1f1c67adf6b81fc2c00adc0f96ae7e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロビンフッド、独自L2「Robinhood Chain」メインネット公開。株式トークンの24H取引対応",
+        "url": "https://news.yahoo.co.jp/articles/e90c7e0be359102a63dff7f4b431791ba8915f0a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ氏の暗号資産収入14億ドル、米上場デジタル資産企業を上回る",
+        "url": "https://news.yahoo.co.jp/articles/96a13f39c7d4c2510a7a6036600be42cbb15c787",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "LN Trends 2026年6月",
         "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
         "source": "Yahoo",
@@ -6504,30 +6627,30 @@
       {
         "title": "オープンスタンダード、Visaやストライプら140社超参画のステーブルコイン「Open USD」提供へ",
         "url": "https://news.yahoo.co.jp/articles/3218e06fa3a65ba30acc51397c4bac49f36d9e34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "機関投資家向け新団体「Ethereum Institutional」始動、ビットマイン・シャープリンクら支援で",
-        "url": "https://news.yahoo.co.jp/articles/75735052b6bf1401946b5002d6d75073c875890a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガン、「Kinexys」のブロックチェーン預金口座を日本円含む8通貨対応へ拡大",
-        "url": "https://news.yahoo.co.jp/articles/83cd1c9b778bb999a9673a515b1e034ca661a5f1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メタマスク、利回り付き口座「Money Account」提供開始、最大年率4%のmUSD運用に対応",
-        "url": "https://news.yahoo.co.jp/articles/c8c7ac73bfddd1bb7990ccf9418fdd7e42532a21",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "HashPort Wallet、アプリ内でJPYCの発行・償還が可能に",
+        "url": "https://news.yahoo.co.jp/articles/5f8921fc2f1f1c67adf6b81fc2c00adc0f96ae7e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロビンフッド、独自L2「Robinhood Chain」メインネット公開。株式トークンの24H取引対応",
+        "url": "https://news.yahoo.co.jp/articles/e90c7e0be359102a63dff7f4b431791ba8915f0a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ氏の暗号資産収入14億ドル、米上場デジタル資産企業を上回る",
+        "url": "https://news.yahoo.co.jp/articles/96a13f39c7d4c2510a7a6036600be42cbb15c787",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "LN Trends 2026年6月",
         "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
         "source": "Yahoo",
@@ -6544,27 +6667,27 @@
         "url": "https://news.yahoo.co.jp/articles/3218e06fa3a65ba30acc51397c4bac49f36d9e34",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "機関投資家向け新団体「Ethereum Institutional」始動、ビットマイン・シャープリンクら支援で",
-        "url": "https://news.yahoo.co.jp/articles/75735052b6bf1401946b5002d6d75073c875890a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガン、「Kinexys」のブロックチェーン預金口座を日本円含む8通貨対応へ拡大",
-        "url": "https://news.yahoo.co.jp/articles/83cd1c9b778bb999a9673a515b1e034ca661a5f1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メタマスク、利回り付き口座「Money Account」提供開始、最大年率4%のmUSD運用に対応",
-        "url": "https://news.yahoo.co.jp/articles/c8c7ac73bfddd1bb7990ccf9418fdd7e42532a21",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "【特殊詐欺】東京の警察官、検察官を名乗る男らが振り込みを依頼 渡島地方の70代・80代女性2人が計3777万円の巨額被害",
+        "url": "https://news.yahoo.co.jp/articles/cf8ead8ab991255b84c97fb82da049051de298a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
+        "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「電気料金の未納分がある」 渡島管内で約２千万円被害の詐欺相次ぐ",
+        "url": "https://news.yahoo.co.jp/articles/2535a3a988e8d7cbd6796cdea531a914c8e1e4f9",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
         "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
@@ -6580,30 +6703,30 @@
       {
         "title": "みずほFG、国際基準に対応したサステナビリティ情報開示: 国内メガバンクで初めて",
         "url": "https://news.yahoo.co.jp/articles/077cf2dcbf90da7fdcf885f935a8dad60fff886c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NECとCrypto Garage、国産のデジタル資産カストディシステム開発に向けて協業",
-        "url": "https://news.yahoo.co.jp/articles/a5a34a343184adf68b8e73c17864ddf9f4069924",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】高市政権「骨太の方針」にステーブルコイン、トークン化預金の利用拡大──自民党「次世代AI・オンチェーン金融構想PT」が提言",
-        "url": "https://news.yahoo.co.jp/articles/83754240300182437b247147d6849f8dbde414c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「日本がゆるいから」巨大犯罪組織が目を付けたその“魅力” アジア・マネーが不動産を爆買い",
-        "url": "https://news.yahoo.co.jp/articles/2139df96fa8a4565be1cf91c346e3d3a540422da",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "【特殊詐欺】東京の警察官、検察官を名乗る男らが振り込みを依頼 渡島地方の70代・80代女性2人が計3777万円の巨額被害",
+        "url": "https://news.yahoo.co.jp/articles/cf8ead8ab991255b84c97fb82da049051de298a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
+        "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「電気料金の未納分がある」 渡島管内で約２千万円被害の詐欺相次ぐ",
+        "url": "https://news.yahoo.co.jp/articles/2535a3a988e8d7cbd6796cdea531a914c8e1e4f9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
         "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
@@ -6618,30 +6741,30 @@
       {
         "title": "みずほFG、国際基準に対応したサステナビリティ情報開示: 国内メガバンクで初めて",
         "url": "https://news.yahoo.co.jp/articles/077cf2dcbf90da7fdcf885f935a8dad60fff886c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NECとCrypto Garage、国産のデジタル資産カストディシステム開発に向けて協業",
-        "url": "https://news.yahoo.co.jp/articles/a5a34a343184adf68b8e73c17864ddf9f4069924",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】高市政権「骨太の方針」にステーブルコイン、トークン化預金の利用拡大──自民党「次世代AI・オンチェーン金融構想PT」が提言",
-        "url": "https://news.yahoo.co.jp/articles/83754240300182437b247147d6849f8dbde414c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「日本がゆるいから」巨大犯罪組織が目を付けたその“魅力” アジア・マネーが不動産を爆買い",
-        "url": "https://news.yahoo.co.jp/articles/2139df96fa8a4565be1cf91c346e3d3a540422da",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "【特殊詐欺】東京の警察官、検察官を名乗る男らが振り込みを依頼 渡島地方の70代・80代女性2人が計3777万円の巨額被害",
+        "url": "https://news.yahoo.co.jp/articles/cf8ead8ab991255b84c97fb82da049051de298a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
+        "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「電気料金の未納分がある」 渡島管内で約２千万円被害の詐欺相次ぐ",
+        "url": "https://news.yahoo.co.jp/articles/2535a3a988e8d7cbd6796cdea531a914c8e1e4f9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
         "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
@@ -6656,24 +6779,6 @@
       {
         "title": "みずほFG、国際基準に対応したサステナビリティ情報開示: 国内メガバンクで初めて",
         "url": "https://news.yahoo.co.jp/articles/077cf2dcbf90da7fdcf885f935a8dad60fff886c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NECとCrypto Garage、国産のデジタル資産カストディシステム開発に向けて協業",
-        "url": "https://news.yahoo.co.jp/articles/a5a34a343184adf68b8e73c17864ddf9f4069924",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】高市政権「骨太の方針」にステーブルコイン、トークン化預金の利用拡大──自民党「次世代AI・オンチェーン金融構想PT」が提言",
-        "url": "https://news.yahoo.co.jp/articles/83754240300182437b247147d6849f8dbde414c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「日本がゆるいから」巨大犯罪組織が目を付けたその“魅力” アジア・マネーが不動産を爆買い",
-        "url": "https://news.yahoo.co.jp/articles/2139df96fa8a4565be1cf91c346e3d3a540422da",
         "source": "Yahoo",
         "date": ""
       }
