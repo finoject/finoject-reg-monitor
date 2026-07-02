@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T01:35:33.565Z",
+  "generatedAt": "2026-07-02T05:42:10.070Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,51 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "議事要旨（第11回中央銀行デジタル通貨に関する連絡協議会）",
+      "url": "https://www.boj.or.jp/paym/digital/dig260702a.pdf",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T05:42:10.070Z",
+      "enriched": "2026-07-02T05:42:16.121Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は一般利用型CBDCの検討に加え、預金のトークン化等の動きを踏まえ日銀当預のトークン化について検討を開始し、ホールセール型CBDC及びDLT連携サンドボックスを推進する。",
+        "民間金融機関及び関連事業者は、2030年度の新システム稼働開始に向けて、CBDC規格・API標準化、仲介機関システムの負担軽減、AML/CFT責任分界等について官民で具体的に協議し、対応する必要がある。",
+        "財務省・金融庁は制度設計時にCBDC保有制限額やオートスウィング機能、システム要件を関係者と協議決定し、民間デジタルマネーがカバーしない領域への公的支援としての位置づけを含め検討を進める。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]「2025年度株式分布状況調査の調査結果について <要約版>」の公表について",
+      "url": "https://www.jpx.co.jp/markets/statistics-equities/examination/01.html",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T05:42:10.070Z",
+      "enriched": "2026-07-02T05:42:16.121Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "個人株主数は前年度比839万人増加して9,198万人となり2014年度以来12年連続増加で調査開始以来過去最高を更新した。",
+        "外国法人等の株式保有比率は34.7％となり調査開始以来過去最高を更新、保有金額も113兆8,626億円プラスで420兆6,331億円となった。",
+        "投資信託の株式保有比率は11.3％となり調査開始以来過去最高を更新、一方事業法人等の株式保有比率は17.7％となり調査開始以来過去最低となった。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「会計」をテーマにした小中学生向け自由研究コンテンツを公開！",
+      "url": "https://jicpa.or.jp/news/information/2026/20260702acz.html",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T05:42:10.070Z",
+      "enriched": "2026-07-02T05:42:16.122Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本公認会計士協会と朝日学研シンクエストが「会計」をテーマにした小中学生向け自由研究コンテンツ3点を2026年7月2日に制作・公開した。",
+        "小学1年生から中学3年生を対象とした自由研究コンテンツ3点（おこづかい帳の謎解き・おうち社長ゲーム・ハンバーガーの原価調べ）がキッズネット内に公開され、学校の探究学習や夏休みの宿題に活用可能。",
+        "本コンテンツはお金の流れを理解させ判断力を育むとともに、公認会計士という職業への興味喚起を目的としており、学校現場と家庭での活用を想定している。"
       ],
       "aiSumV": 3
     },
@@ -6217,6 +6262,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "LN Trends 2026年6月",
+        "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "台湾、「虚擬資産服務法」が立法院で可決。ステーブルコイン発行制度など包括規制を整備",
+        "url": "https://news.yahoo.co.jp/articles/c48cdfd2f9120f4b03b7880e0754185e84b2879c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "メタマスク、利回り付き口座「Money Account」提供開始、最大年率4%のmUSD運用に対応",
+        "url": "https://news.yahoo.co.jp/articles/c8c7ac73bfddd1bb7990ccf9418fdd7e42532a21",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ米大統領、昨年暗号資産だけで14億ドル稼いだ",
         "url": "https://news.yahoo.co.jp/articles/4558a8c1ca09e3769b6f95dea9e819024186e985",
         "source": "Yahoo",
@@ -6231,30 +6294,30 @@
       {
         "title": "bitFlyerがMiCA認可、日本勢で初──EU27カ国で暗号資産サービス提供へ",
         "url": "https://news.yahoo.co.jp/articles/5c22dcfff028230f25bc08fecdf6b7dc5e5e573a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ リリースによると、同部会の設立は、暗号資産制度が金融商品取引法への規制移管に向けた議論や、電子決済手段・暗号資産サービス仲介業制度の開始など、大きな",
-        "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "仏銀Crédit Agricole、ユーロ建てステーブルコインEURXT発表",
-        "url": "https://news.yahoo.co.jp/articles/51b2c58d441816ddefb1932c8264c4995bde9949",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "台湾、暗号資産規制を本格整備──VASP許可制とステーブルコイン規制導入へ",
-        "url": "https://news.yahoo.co.jp/articles/7cd9a380d0858403bdae49ac2ed613b7434240a0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "LN Trends 2026年6月",
+        "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "台湾、「虚擬資産服務法」が立法院で可決。ステーブルコイン発行制度など包括規制を整備",
+        "url": "https://news.yahoo.co.jp/articles/c48cdfd2f9120f4b03b7880e0754185e84b2879c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "メタマスク、利回り付き口座「Money Account」提供開始、最大年率4%のmUSD運用に対応",
+        "url": "https://news.yahoo.co.jp/articles/c8c7ac73bfddd1bb7990ccf9418fdd7e42532a21",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ米大統領、昨年暗号資産だけで14億ドル稼いだ",
         "url": "https://news.yahoo.co.jp/articles/4558a8c1ca09e3769b6f95dea9e819024186e985",
         "source": "Yahoo",
@@ -6269,24 +6332,6 @@
       {
         "title": "bitFlyerがMiCA認可、日本勢で初──EU27カ国で暗号資産サービス提供へ",
         "url": "https://news.yahoo.co.jp/articles/5c22dcfff028230f25bc08fecdf6b7dc5e5e573a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ リリースによると、同部会の設立は、暗号資産制度が金融商品取引法への規制移管に向けた議論や、電子決済手段・暗号資産サービス仲介業制度の開始など、大きな",
-        "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "仏銀Crédit Agricole、ユーロ建てステーブルコインEURXT発表",
-        "url": "https://news.yahoo.co.jp/articles/51b2c58d441816ddefb1932c8264c4995bde9949",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "台湾、暗号資産規制を本格整備──VASP許可制とステーブルコイン規制導入へ",
-        "url": "https://news.yahoo.co.jp/articles/7cd9a380d0858403bdae49ac2ed613b7434240a0",
         "source": "Yahoo",
         "date": ""
       }
@@ -6445,76 +6490,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "トランプ米大統領、昨年暗号資産だけで14億ドル稼いだ",
-        "url": "https://news.yahoo.co.jp/articles/4558a8c1ca09e3769b6f95dea9e819024186e985",
+        "title": "LN Trends 2026年6月",
+        "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "仏銀Crédit Agricole、ユーロ建てステーブルコインEURXT発表",
-        "url": "https://news.yahoo.co.jp/articles/51b2c58d441816ddefb1932c8264c4995bde9949",
+        "title": "台湾、「虚擬資産服務法」が立法院で可決。ステーブルコイン発行制度など包括規制を整備",
+        "url": "https://news.yahoo.co.jp/articles/c48cdfd2f9120f4b03b7880e0754185e84b2879c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "台湾、暗号資産規制を本格整備──VASP許可制とステーブルコイン規制導入へ",
-        "url": "https://news.yahoo.co.jp/articles/7cd9a380d0858403bdae49ac2ed613b7434240a0",
+        "title": "オープンスタンダード、Visaやストライプら140社超参画のステーブルコイン「Open USD」提供へ",
+        "url": "https://news.yahoo.co.jp/articles/3218e06fa3a65ba30acc51397c4bac49f36d9e34",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "KOSPIに数十倍ベッティング",
-        "url": "https://news.yahoo.co.jp/articles/3a114e27510358bd7556c450f1d3b1e9607ec518",
+        "title": "機関投資家向け新団体「Ethereum Institutional」始動、ビットマイン・シャープリンクら支援で",
+        "url": "https://news.yahoo.co.jp/articles/75735052b6bf1401946b5002d6d75073c875890a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Solanaベースの予測市場「World」、Phantomウォレット上でリリース",
-        "url": "https://news.yahoo.co.jp/articles/39c32d29e53222dbee01dd576feecc660d4f4c50",
+        "title": "JPモルガン、「Kinexys」のブロックチェーン預金口座を日本円含む8通貨対応へ拡大",
+        "url": "https://news.yahoo.co.jp/articles/83cd1c9b778bb999a9673a515b1e034ca661a5f1",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "CircleのアレールCEO、USDコインのOpen USDに対する優位性を強調",
-        "url": "https://news.yahoo.co.jp/articles/5cbecefea8ec974f655d8a8cdd08dea8a3ba0e61",
+        "title": "メタマスク、利回り付き口座「Money Account」提供開始、最大年率4%のmUSD運用に対応",
+        "url": "https://news.yahoo.co.jp/articles/c8c7ac73bfddd1bb7990ccf9418fdd7e42532a21",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "トランプ米大統領、昨年暗号資産だけで14億ドル稼いだ",
-        "url": "https://news.yahoo.co.jp/articles/4558a8c1ca09e3769b6f95dea9e819024186e985",
+        "title": "LN Trends 2026年6月",
+        "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "仏銀Crédit Agricole、ユーロ建てステーブルコインEURXT発表",
-        "url": "https://news.yahoo.co.jp/articles/51b2c58d441816ddefb1932c8264c4995bde9949",
+        "title": "台湾、「虚擬資産服務法」が立法院で可決。ステーブルコイン発行制度など包括規制を整備",
+        "url": "https://news.yahoo.co.jp/articles/c48cdfd2f9120f4b03b7880e0754185e84b2879c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "台湾、暗号資産規制を本格整備──VASP許可制とステーブルコイン規制導入へ",
-        "url": "https://news.yahoo.co.jp/articles/7cd9a380d0858403bdae49ac2ed613b7434240a0",
+        "title": "オープンスタンダード、Visaやストライプら140社超参画のステーブルコイン「Open USD」提供へ",
+        "url": "https://news.yahoo.co.jp/articles/3218e06fa3a65ba30acc51397c4bac49f36d9e34",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "KOSPIに数十倍ベッティング",
-        "url": "https://news.yahoo.co.jp/articles/3a114e27510358bd7556c450f1d3b1e9607ec518",
+        "title": "機関投資家向け新団体「Ethereum Institutional」始動、ビットマイン・シャープリンクら支援で",
+        "url": "https://news.yahoo.co.jp/articles/75735052b6bf1401946b5002d6d75073c875890a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Solanaベースの予測市場「World」、Phantomウォレット上でリリース",
-        "url": "https://news.yahoo.co.jp/articles/39c32d29e53222dbee01dd576feecc660d4f4c50",
+        "title": "JPモルガン、「Kinexys」のブロックチェーン預金口座を日本円含む8通貨対応へ拡大",
+        "url": "https://news.yahoo.co.jp/articles/83cd1c9b778bb999a9673a515b1e034ca661a5f1",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "CircleのアレールCEO、USDコインのOpen USDに対する優位性を強調",
-        "url": "https://news.yahoo.co.jp/articles/5cbecefea8ec974f655d8a8cdd08dea8a3ba0e61",
+        "title": "メタマスク、利回り付き口座「Money Account」提供開始、最大年率4%のmUSD運用に対応",
+        "url": "https://news.yahoo.co.jp/articles/c8c7ac73bfddd1bb7990ccf9418fdd7e42532a21",
         "source": "Yahoo",
         "date": ""
       }
