@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:50:53.405Z",
+  "generatedAt": "2026-07-02T01:35:33.565Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,82 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（6月30日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260630.htm",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T01:35:33.565Z",
+      "enriched": "2026-07-02T01:35:38.974Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の2026年6月30日現在の資産合計は6395億5091万千円で、国債518兆3423億円、貸付金68兆0379億円等により構成されている。",
+        "金銭の信託（指数連動型上場投資信託）37兆0403億円、金銭の信託（不動産投資信託）6521億円を保有し、共通担保資金供給オペ等による貸付金289億3200万円を計上している。",
+        "負債側は発行銀行券115兆0317億円、当座預金440兆3645億円が主要で、純資産は資本金100万円、準備金38兆7224億円である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "【復旧】協会ウェブサイトへアクセスができない事象について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260702ijc.html",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-02T01:35:33.565Z",
+      "enriched": "2026-07-02T01:35:38.974Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本公認会計士協会のウェブサイトが2026年7月1日11時から13時頃にアクセス不可となり、サイト内コンテンツの閲覧ができない事象が発生した。",
+        "協会ウェブサイトの利用者は、当該時間帯におけるアクセス不可を認識し、復旧後は通常通り利用可能になったことを確認する。",
+        "障害発生は2026年7月1日11時～13時頃、復旧作業完了後は正常運用に戻った状況で、協会ウェブサイト全体に関わる事象である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "マネタリーベース（6月）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-02T01:35:33.565Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年5月のマネタリーベースは前年同月比-12.2％で、日銀当座預金（現預金）は-14.7％と縮小が続いており、季節調整済前月比年率では-13.3％。",
+        "統計データは日本銀行調査統計局が公表しており、実務担当者は時系列データ等から金融政策動向及び通貨供給状況を定期的に確認することが必要。",
+        "本統計は毎月公表されるマネタリーベース統計であり、日本銀行の金融統計として金融・経済分析の基礎データとして活用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-02T01:35:37.918Z"
+    },
+    {
+      "agency": "金融庁",
+      "title": "「保険会社向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等の公表",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20260701/20260701.html",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-02T01:35:33.565Z",
+      "enriched": "2026-07-02T01:35:38.974Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "生命保険会社における再保険取引の利用拡大に対応し、資産集約型再保険における責任準備金の不積立てに関する考え方を明確化・基準化し、保険会社のリスク管理高度化を促進する改正を行った。",
+        "保険会社は改正監督指針の適用により、既締結の再保険契約について改正のみを理由とした事後的な責任準備金不積立ての変更や一律の是正を求められないが、新規契約は新基準に従う必要がある。",
+        "改正後の監督指針は令和8年7月1日から適用し、既契約については契約条件変更困難性や財務影響を踏まえた柔軟な対応を行う見込みである。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "短観（6月）＜調査全容＞",
+      "url": "https://www.boj.or.jp/statistics/tk/tankan06b.htm",
+      "date": "2026-07-01",
+      "detectedAt": "2026-07-02T01:35:33.565Z",
+      "enriched": "2026-07-02T01:35:38.974Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年6月短観で調査対象9,141社（回答率99.4%）のうち、大企業製造業の業況判断は「最近」17ポイント（3月比+5）、「先行き」17ポイント（3月比-5）、非製造業は「最近」37ポイント（3月比+1）、「先行き」28ポイント（3月比-9）を示した。",
+        "金融機関・事業法人は日本銀行が提示した想定為替レート（米ドル/円152.57～152.62円、ユーロ/円175.56～175.68円）を事業計画策定時の前提とすべく、業況判断指数の変動を踏まえた経営判断を行う必要がある。",
+        "本調査は第209回全国企業短期経済観測調査で、2026年5月28日～6月30日に実施され、2026年7月1日に公表された（日本銀行調査統計局）。"
       ],
       "aiSumV": 3
     },
@@ -3847,21 +3923,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本銀行",
-      "title": "マネタリーベース（5月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
-      "date": "2026-06-02",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:02:07.749Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年5月のマネタリーベースは前年同月比-12.2％で、日銀当座預金（現預金）は-14.7％と縮小が続いており、季節調整済前月比年率では-13.3％。",
-        "統計データは日本銀行調査統計局が公表しており、実務担当者は時系列データ等から金融政策動向及び通貨供給状況を定期的に確認することが必要。",
-        "本統計は毎月公表されるマネタリーベース統計であり、日本銀行の金融統計として金融・経済分析の基礎データとして活用される。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "日本公認会計士協会",
       "title": "2026年6月3日の台風接近に伴う協会本部の窓口対応について",
       "url": "https://jicpa.or.jp/news/information/2026/20260602gdh.html",
@@ -5882,6 +5943,21 @@
         "2026年3月31日時点で同協会のWebサイト（https://jicpa.or.jp/about/activity/basic-education/tools.html）より教材を取得可能、教育関連法令に基づく総合的学習の時間に適用される。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "政策テーマ等一覧（金融行政方針との関連）",
+      "url": "https://www.fsa.go.jp/news/r7/20250829/20250829.html#sp_summary",
+      "date": "2025-08-29",
+      "detectedAt": "2026-07-02T01:35:33.565Z",
+      "enriched": "2026-07-02T01:35:38.974Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は2025事務年度の金融行政方針を策定・公表し、地域金融力強化・事業性融資推進・資産運用立国推進・デジタル技術対応・金融システム安定確保を重点課題として設定した。",
+        "金融機関は事業者の持続的成長を促す融資推進、家計の安定的資産形成支援、顧客本位の業務運営確保、金融システム安定と金融犯罪対策を実施すべき。",
+        "2025年8月29日公表の金融行政方針に基づき、金融庁による監督・検査はマクロ・プルーデンス政策、マネロン・サイバー対策、金融グループ実態把握等を含む実効的監督へ転換される。"
+      ],
+      "aiSumV": 3
     }
   ],
   "sources": [
@@ -5913,6 +5989,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ",
+        "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
         "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
         "source": "Yahoo",
@@ -5939,18 +6021,18 @@
       {
         "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ",
+        "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
         "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
         "source": "Yahoo",
@@ -5977,18 +6059,18 @@
       {
         "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ",
+        "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
         "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
         "source": "Yahoo",
@@ -6015,18 +6097,18 @@
       {
         "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ",
+        "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
         "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
         "source": "Yahoo",
@@ -6053,12 +6135,6 @@
       {
         "title": "貸会議室大手TKP元社員と夫を在宅起訴 インサイダー取引の疑い",
         "url": "https://news.yahoo.co.jp/articles/ecc8b7f0b59324d5c6e6828b7d08bf92b323f59f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "貸会議室大手「TKP」元社員の女とその夫を在宅起訴 インサイダー取引の罪 東京地検特捜部",
-        "url": "https://news.yahoo.co.jp/articles/05bbe2a6eb49267ae3a358552d8f2821fceac61a",
         "source": "Yahoo",
         "date": ""
       }
@@ -6141,76 +6217,76 @@
     ],
     "429M60000002007": [
       {
-        "title": "「日本の通貨主権を取られてはならない」──木原誠二氏が語るAI・オンチェーン金融の現在地【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/735cddf06b58ceb27db5f7a6f15b6ee4b6c37fb9",
+        "title": "トランプ米大統領、昨年暗号資産だけで14億ドル稼いだ",
+        "url": "https://news.yahoo.co.jp/articles/4558a8c1ca09e3769b6f95dea9e819024186e985",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "トランプ氏、暗号資産で1600億円超の収入 大統領復帰1年目",
-        "url": "https://news.yahoo.co.jp/articles/a82cecf59395bb5ce0bbd1a382398733d58adf42",
+        "title": "0:39トランプ大統領 暗号資産で2200億円の収入 利益相反の疑いも本人は否定",
+        "url": "https://news.yahoo.co.jp/articles/ed848ebe3cf60f4a7d8e19f4a0fcdacf09ccc43a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
-        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
+        "title": "bitFlyerがMiCA認可、日本勢で初──EU27カ国で暗号資産サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/5c22dcfff028230f25bc08fecdf6b7dc5e5e573a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットフライヤーがMiCA認可取得でEU27国でサービス提供。米国は49州・ワシントンDCへ拡大も",
-        "url": "https://news.yahoo.co.jp/articles/529bd8269d5f28e511be0b0d506328eecd4e6ef3",
+        "title": "JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ リリースによると、同部会の設立は、暗号資産制度が金融商品取引法への規制移管に向けた議論や、電子決済手段・暗号資産サービス仲介業制度の開始など、大きな",
+        "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
-        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "title": "仏銀Crédit Agricole、ユーロ建てステーブルコインEURXT発表",
+        "url": "https://news.yahoo.co.jp/articles/51b2c58d441816ddefb1932c8264c4995bde9949",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "DeFi出身の新代表が描くBinance Japanの「成長フェーズ」──豊崎亜里紗氏が語る戦略とは",
-        "url": "https://news.yahoo.co.jp/articles/04d1719c88f437d6e404a2b5f1f4fa1543e81bea",
+        "title": "台湾、暗号資産規制を本格整備──VASP許可制とステーブルコイン規制導入へ",
+        "url": "https://news.yahoo.co.jp/articles/7cd9a380d0858403bdae49ac2ed613b7434240a0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
-        "title": "「日本の通貨主権を取られてはならない」──木原誠二氏が語るAI・オンチェーン金融の現在地【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/735cddf06b58ceb27db5f7a6f15b6ee4b6c37fb9",
+        "title": "トランプ米大統領、昨年暗号資産だけで14億ドル稼いだ",
+        "url": "https://news.yahoo.co.jp/articles/4558a8c1ca09e3769b6f95dea9e819024186e985",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "トランプ氏、暗号資産で1600億円超の収入 大統領復帰1年目",
-        "url": "https://news.yahoo.co.jp/articles/a82cecf59395bb5ce0bbd1a382398733d58adf42",
+        "title": "0:39トランプ大統領 暗号資産で2200億円の収入 利益相反の疑いも本人は否定",
+        "url": "https://news.yahoo.co.jp/articles/ed848ebe3cf60f4a7d8e19f4a0fcdacf09ccc43a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
-        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
+        "title": "bitFlyerがMiCA認可、日本勢で初──EU27カ国で暗号資産サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/5c22dcfff028230f25bc08fecdf6b7dc5e5e573a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットフライヤーがMiCA認可取得でEU27国でサービス提供。米国は49州・ワシントンDCへ拡大も",
-        "url": "https://news.yahoo.co.jp/articles/529bd8269d5f28e511be0b0d506328eecd4e6ef3",
+        "title": "JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ リリースによると、同部会の設立は、暗号資産制度が金融商品取引法への規制移管に向けた議論や、電子決済手段・暗号資産サービス仲介業制度の開始など、大きな",
+        "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
-        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
+        "title": "仏銀Crédit Agricole、ユーロ建てステーブルコインEURXT発表",
+        "url": "https://news.yahoo.co.jp/articles/51b2c58d441816ddefb1932c8264c4995bde9949",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "DeFi出身の新代表が描くBinance Japanの「成長フェーズ」──豊崎亜里紗氏が語る戦略とは",
-        "url": "https://news.yahoo.co.jp/articles/04d1719c88f437d6e404a2b5f1f4fa1543e81bea",
+        "title": "台湾、暗号資産規制を本格整備──VASP許可制とステーブルコイン規制導入へ",
+        "url": "https://news.yahoo.co.jp/articles/7cd9a380d0858403bdae49ac2ed613b7434240a0",
         "source": "Yahoo",
         "date": ""
       }
@@ -6369,76 +6445,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "トランプ米大統領、昨年暗号資産だけで14億ドル稼いだ",
+        "url": "https://news.yahoo.co.jp/articles/4558a8c1ca09e3769b6f95dea9e819024186e985",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏銀Crédit Agricole、ユーロ建てステーブルコインEURXT発表",
+        "url": "https://news.yahoo.co.jp/articles/51b2c58d441816ddefb1932c8264c4995bde9949",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "台湾、暗号資産規制を本格整備──VASP許可制とステーブルコイン規制導入へ",
+        "url": "https://news.yahoo.co.jp/articles/7cd9a380d0858403bdae49ac2ed613b7434240a0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "KOSPIに数十倍ベッティング",
+        "url": "https://news.yahoo.co.jp/articles/3a114e27510358bd7556c450f1d3b1e9607ec518",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Solanaベースの予測市場「World」、Phantomウォレット上でリリース",
+        "url": "https://news.yahoo.co.jp/articles/39c32d29e53222dbee01dd576feecc660d4f4c50",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CircleのアレールCEO、USDコインのOpen USDに対する優位性を強調",
         "url": "https://news.yahoo.co.jp/articles/5cbecefea8ec974f655d8a8cdd08dea8a3ba0e61",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアムのステーキング参加待ち、2カ月で75万ETH減少──財団再編とETF流出が重しに【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/0d42e604e5380d27a4bc8ec74fe1b939a839ef1c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「日本の通貨主権を取られてはならない」──木原誠二氏が語るAI・オンチェーン金融の現在地【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/735cddf06b58ceb27db5f7a6f15b6ee4b6c37fb9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏、暗号資産で２３００億円の収入",
-        "url": "https://news.yahoo.co.jp/articles/41f808e57eb53d13a0cf330f54e1b7a03cdd9bad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏、昨年はいくら稼いだのか",
-        "url": "https://news.yahoo.co.jp/articles/c24eb73e45a00ec90e2d4a6f68ee846f98fb3ca7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパー財団、USDH段階的終了対応で約10Mドルの助成金",
-        "url": "https://news.yahoo.co.jp/articles/177092e31336fc385e4b29b2f51b33c80424422c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "トランプ米大統領、昨年暗号資産だけで14億ドル稼いだ",
+        "url": "https://news.yahoo.co.jp/articles/4558a8c1ca09e3769b6f95dea9e819024186e985",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏銀Crédit Agricole、ユーロ建てステーブルコインEURXT発表",
+        "url": "https://news.yahoo.co.jp/articles/51b2c58d441816ddefb1932c8264c4995bde9949",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "台湾、暗号資産規制を本格整備──VASP許可制とステーブルコイン規制導入へ",
+        "url": "https://news.yahoo.co.jp/articles/7cd9a380d0858403bdae49ac2ed613b7434240a0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "KOSPIに数十倍ベッティング",
+        "url": "https://news.yahoo.co.jp/articles/3a114e27510358bd7556c450f1d3b1e9607ec518",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Solanaベースの予測市場「World」、Phantomウォレット上でリリース",
+        "url": "https://news.yahoo.co.jp/articles/39c32d29e53222dbee01dd576feecc660d4f4c50",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CircleのアレールCEO、USDコインのOpen USDに対する優位性を強調",
         "url": "https://news.yahoo.co.jp/articles/5cbecefea8ec974f655d8a8cdd08dea8a3ba0e61",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアムのステーキング参加待ち、2カ月で75万ETH減少──財団再編とETF流出が重しに【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/0d42e604e5380d27a4bc8ec74fe1b939a839ef1c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「日本の通貨主権を取られてはならない」──木原誠二氏が語るAI・オンチェーン金融の現在地【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/735cddf06b58ceb27db5f7a6f15b6ee4b6c37fb9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏、暗号資産で２３００億円の収入",
-        "url": "https://news.yahoo.co.jp/articles/41f808e57eb53d13a0cf330f54e1b7a03cdd9bad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏、昨年はいくら稼いだのか",
-        "url": "https://news.yahoo.co.jp/articles/c24eb73e45a00ec90e2d4a6f68ee846f98fb3ca7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパー財団、USDH段階的終了対応で約10Mドルの助成金",
-        "url": "https://news.yahoo.co.jp/articles/177092e31336fc385e4b29b2f51b33c80424422c",
         "source": "Yahoo",
         "date": ""
       }
