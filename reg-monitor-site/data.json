@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-03T05:34:31.986Z",
+  "generatedAt": "2026-07-03T08:39:33.121Z",
   "items": [
+    {
+      "agency": "JVCEA",
+      "title": "会員統計情報を更新しました",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260703-002/",
+      "date": "2026-07-03",
+      "detectedAt": "2026-07-03T08:39:33.121Z",
+      "enriched": "2026-07-03T08:39:38.886Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA（日本暗号資産等取引業協会）が集計・公表している統計情報（現物/証拠金取引）を2026年7月3日付で更新した。",
+        "会員及び業界関係者は、統計情報ページにアクセスして最新の統計データを確認し、自社の取扱銘柄・市場動向把握に活用すべき。",
+        "更新対象は統計情報・取扱銘柄関連データであり、詳細は協会の統計情報ページで公開されている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "取扱い一時中止のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260703-001/",
+      "date": "2026-07-03",
+      "detectedAt": "2026-07-03T08:39:33.121Z",
+      "enriched": "2026-07-03T08:39:38.886Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA会員のビットトレード株式会社による暗号資産トンコイン（TON、ティッカーコード：TON）の取扱いが2026年7月9日15時をもって一時中止される。",
+        "ビットトレード株式会社は該当日時から当該銘柄の取扱いを停止し、顧客への周知と対応を実施する必要がある。",
+        "本通知はJVCEAの統計情報・取扱銘柄関連のお知らせとして2026年7月3日に公表され、会員規約に基づく取扱い中止措置である。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "金融政策決定会合議事録等の公表日時について",
@@ -6427,6 +6457,30 @@
     ],
     "429M60000002007": [
       {
+        "title": "オンドファイナンス、米国規制下で第三者カストディ型トークン化証券を本番導入",
+        "url": "https://news.yahoo.co.jp/articles/78a874e74ba17f4bb05e474f5f7664e1c7fcf38d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「年内にプーチン失脚」に掛け金6500万円超、予測市場ポリマーケットに謎のユーザー",
+        "url": "https://news.yahoo.co.jp/articles/a6ec85f75e4dc9c9c25283a6f74e7efd48a49151",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BTC（ビットコイン）はFOMC議事要旨とAI株調整リスクを警戒する展開か【マネックス証券】",
+        "url": "https://news.yahoo.co.jp/articles/3c18041ede5c91a1c4b21fbdc4ffdc29b35108a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏金融大手クレディ・アグリコル、ユーロ建てステーブルコイン「EURXT」ローンチ",
+        "url": "https://news.yahoo.co.jp/articles/af2212312d68940b844d20d39eeba9cbab89e2a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "セキュリタイズがNYSE上場初日に自社株をトークン化、ソラナとアバランチで提供開始",
         "url": "https://news.yahoo.co.jp/articles/0ec9900bc56bf5b30a7a83cfa826d3a14d0ac400",
         "source": "Yahoo",
@@ -6435,36 +6489,36 @@
       {
         "title": "ロシア中銀総裁、9月1日のデジタルルーブル導入に向けて順調と発言＝報道",
         "url": "https://news.yahoo.co.jp/articles/fd5995d5f492e5322634800d608b02387202f8bd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "投資家は「全てを失った」 トランプ氏は暗号資産で巨額収益 「人類史上最も深刻な腐敗」元法律顧問が批判 #エキスパートトピ",
-        "url": "https://news.yahoo.co.jp/expert/articles/41517e0c1d1d7b0c22d322da2be23453b8fbc182",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏の暗号資産収入14億ドル、米上場デジタル資産企業を上回る",
-        "url": "https://news.yahoo.co.jp/articles/96a13f39c7d4c2510a7a6036600be42cbb15c787",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "LN Trends 2026年6月",
-        "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "台湾、「虚擬資産服務法」が立法院で可決。ステーブルコイン発行制度など包括規制を整備",
-        "url": "https://news.yahoo.co.jp/articles/c48cdfd2f9120f4b03b7880e0754185e84b2879c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "オンドファイナンス、米国規制下で第三者カストディ型トークン化証券を本番導入",
+        "url": "https://news.yahoo.co.jp/articles/78a874e74ba17f4bb05e474f5f7664e1c7fcf38d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「年内にプーチン失脚」に掛け金6500万円超、予測市場ポリマーケットに謎のユーザー",
+        "url": "https://news.yahoo.co.jp/articles/a6ec85f75e4dc9c9c25283a6f74e7efd48a49151",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BTC（ビットコイン）はFOMC議事要旨とAI株調整リスクを警戒する展開か【マネックス証券】",
+        "url": "https://news.yahoo.co.jp/articles/3c18041ede5c91a1c4b21fbdc4ffdc29b35108a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏金融大手クレディ・アグリコル、ユーロ建てステーブルコイン「EURXT」ローンチ",
+        "url": "https://news.yahoo.co.jp/articles/af2212312d68940b844d20d39eeba9cbab89e2a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "セキュリタイズがNYSE上場初日に自社株をトークン化、ソラナとアバランチで提供開始",
         "url": "https://news.yahoo.co.jp/articles/0ec9900bc56bf5b30a7a83cfa826d3a14d0ac400",
         "source": "Yahoo",
@@ -6473,30 +6527,6 @@
       {
         "title": "ロシア中銀総裁、9月1日のデジタルルーブル導入に向けて順調と発言＝報道",
         "url": "https://news.yahoo.co.jp/articles/fd5995d5f492e5322634800d608b02387202f8bd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "投資家は「全てを失った」 トランプ氏は暗号資産で巨額収益 「人類史上最も深刻な腐敗」元法律顧問が批判 #エキスパートトピ",
-        "url": "https://news.yahoo.co.jp/expert/articles/41517e0c1d1d7b0c22d322da2be23453b8fbc182",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏の暗号資産収入14億ドル、米上場デジタル資産企業を上回る",
-        "url": "https://news.yahoo.co.jp/articles/96a13f39c7d4c2510a7a6036600be42cbb15c787",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "LN Trends 2026年6月",
-        "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "台湾、「虚擬資産服務法」が立法院で可決。ステーブルコイン発行制度など包括規制を整備",
-        "url": "https://news.yahoo.co.jp/articles/c48cdfd2f9120f4b03b7880e0754185e84b2879c",
         "source": "Yahoo",
         "date": ""
       }
@@ -6655,6 +6685,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "ソラナの無期限先物DEX「ドリフト」が「ベロシティ」へリブランディング、プライベートβ開始へ",
+        "url": "https://news.yahoo.co.jp/articles/2276020dd6db2bfba685d547b51716f8a087b1ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BTC（ビットコイン）はFOMC議事要旨とAI株調整リスクを警戒する展開か【マネックス証券】",
+        "url": "https://news.yahoo.co.jp/articles/3c18041ede5c91a1c4b21fbdc4ffdc29b35108a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏金融大手クレディ・アグリコル、ユーロ建てステーブルコイン「EURXT」ローンチ",
+        "url": "https://news.yahoo.co.jp/articles/af2212312d68940b844d20d39eeba9cbab89e2a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スタンダードチャータード、USDC発行・償還へのアクセス提供開始。G-SIB初",
+        "url": "https://news.yahoo.co.jp/articles/e56dc3f3746c63812d22646ccdf11502848ce56c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "セキュリタイズがNYSE上場初日に自社株をトークン化、ソラナとアバランチで提供開始",
         "url": "https://news.yahoo.co.jp/articles/0ec9900bc56bf5b30a7a83cfa826d3a14d0ac400",
         "source": "Yahoo",
@@ -6663,36 +6717,36 @@
       {
         "title": "ソラナ上の予測市場「World」、暗号資産ウォレットのファントム内で正式公開",
         "url": "https://news.yahoo.co.jp/articles/c41ab4ec774cfb5b3200a10bdcfa312e2507c556",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "RobinhoodがイーサリアムL2開始──Hyperliquidで9000万ドル規模のショート清算リスク【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/516c402dae9f094211debdc213838955ae42a7ca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スタンダードチャータード、USDCの発行・償還を銀行業務に導入",
-        "url": "https://news.yahoo.co.jp/articles/d2ed2db75650c6cd5af21914f88c930308ad3799",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化は世界の金融構造を変える可能性がある＝IMF",
-        "url": "https://news.yahoo.co.jp/articles/a818eeb97a42bab38dd8335449af3b3ca830c39e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融トークン化、次の主役は誰か──アセマネ3社が激論【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/72c9060ffc83236f58ec4aeff27e0c1ebfc2fc15",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ソラナの無期限先物DEX「ドリフト」が「ベロシティ」へリブランディング、プライベートβ開始へ",
+        "url": "https://news.yahoo.co.jp/articles/2276020dd6db2bfba685d547b51716f8a087b1ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BTC（ビットコイン）はFOMC議事要旨とAI株調整リスクを警戒する展開か【マネックス証券】",
+        "url": "https://news.yahoo.co.jp/articles/3c18041ede5c91a1c4b21fbdc4ffdc29b35108a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏金融大手クレディ・アグリコル、ユーロ建てステーブルコイン「EURXT」ローンチ",
+        "url": "https://news.yahoo.co.jp/articles/af2212312d68940b844d20d39eeba9cbab89e2a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スタンダードチャータード、USDC発行・償還へのアクセス提供開始。G-SIB初",
+        "url": "https://news.yahoo.co.jp/articles/e56dc3f3746c63812d22646ccdf11502848ce56c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "セキュリタイズがNYSE上場初日に自社株をトークン化、ソラナとアバランチで提供開始",
         "url": "https://news.yahoo.co.jp/articles/0ec9900bc56bf5b30a7a83cfa826d3a14d0ac400",
         "source": "Yahoo",
@@ -6703,33 +6757,15 @@
         "url": "https://news.yahoo.co.jp/articles/c41ab4ec774cfb5b3200a10bdcfa312e2507c556",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "RobinhoodがイーサリアムL2開始──Hyperliquidで9000万ドル規模のショート清算リスク【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/516c402dae9f094211debdc213838955ae42a7ca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スタンダードチャータード、USDCの発行・償還を銀行業務に導入",
-        "url": "https://news.yahoo.co.jp/articles/d2ed2db75650c6cd5af21914f88c930308ad3799",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化は世界の金融構造を変える可能性がある＝IMF",
-        "url": "https://news.yahoo.co.jp/articles/a818eeb97a42bab38dd8335449af3b3ca830c39e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融トークン化、次の主役は誰か──アセマネ3社が激論【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/72c9060ffc83236f58ec4aeff27e0c1ebfc2fc15",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
+        "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "AI防衛、G7で「基準」議論 金融機関は優先順位付けを 預金流出、マネロン対策重視・片山金融相",
         "url": "https://news.yahoo.co.jp/articles/d82645c1e490a3b1ef0e91e825a07c93282c22e5",
@@ -6757,18 +6793,18 @@
       {
         "title": "「電気料金の未納分がある」 渡島管内で約２千万円被害の詐欺相次ぐ",
         "url": "https://news.yahoo.co.jp/articles/2535a3a988e8d7cbd6796cdea531a914c8e1e4f9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
-        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
+        "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AI防衛、G7で「基準」議論 金融機関は優先順位付けを 預金流出、マネロン対策重視・片山金融相",
         "url": "https://news.yahoo.co.jp/articles/d82645c1e490a3b1ef0e91e825a07c93282c22e5",
         "source": "Yahoo",
@@ -6795,18 +6831,18 @@
       {
         "title": "「電気料金の未納分がある」 渡島管内で約２千万円被害の詐欺相次ぐ",
         "url": "https://news.yahoo.co.jp/articles/2535a3a988e8d7cbd6796cdea531a914c8e1e4f9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
-        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
+        "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AI防衛、G7で「基準」議論 金融機関は優先順位付けを 預金流出、マネロン対策重視・片山金融相",
         "url": "https://news.yahoo.co.jp/articles/d82645c1e490a3b1ef0e91e825a07c93282c22e5",
         "source": "Yahoo",
@@ -6833,12 +6869,6 @@
       {
         "title": "「電気料金の未納分がある」 渡島管内で約２千万円被害の詐欺相次ぐ",
         "url": "https://news.yahoo.co.jp/articles/2535a3a988e8d7cbd6796cdea531a914c8e1e4f9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
-        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
         "date": ""
       }
@@ -7255,6 +7285,18 @@
     ],
     "417AC0000000086": [
       {
+        "title": "インタビュー：アクティビスト隆盛「弊害大きく、欧米並みの対策を」＝西村あさひ・太田氏",
+        "url": "https://news.yahoo.co.jp/articles/c84bb600755f224ac979dbeec7a68bba6a11b506",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
+        "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
         "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
         "source": "Yahoo",
@@ -7275,24 +7317,24 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
-        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
-        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "インタビュー：アクティビスト隆盛「弊害大きく、欧米並みの対策を」＝西村あさひ・太田氏",
+        "url": "https://news.yahoo.co.jp/articles/c84bb600755f224ac979dbeec7a68bba6a11b506",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
+        "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
         "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
         "source": "Yahoo",
@@ -7313,24 +7355,24 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
-        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
-        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "インタビュー：アクティビスト隆盛「弊害大きく、欧米並みの対策を」＝西村あさひ・太田氏",
+        "url": "https://news.yahoo.co.jp/articles/c84bb600755f224ac979dbeec7a68bba6a11b506",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
+        "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
         "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
         "source": "Yahoo",
@@ -7351,24 +7393,24 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
-        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
-        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "インタビュー：アクティビスト隆盛「弊害大きく、欧米並みの対策を」＝西村あさひ・太田氏",
+        "url": "https://news.yahoo.co.jp/articles/c84bb600755f224ac979dbeec7a68bba6a11b506",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
+        "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
         "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
         "source": "Yahoo",
@@ -7389,24 +7431,24 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
-        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
-        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "インタビュー：アクティビスト隆盛「弊害大きく、欧米並みの対策を」＝西村あさひ・太田氏",
+        "url": "https://news.yahoo.co.jp/articles/c84bb600755f224ac979dbeec7a68bba6a11b506",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
+        "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
         "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
         "source": "Yahoo",
@@ -7427,18 +7469,6 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
-        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "社債市場の活性化へ環境整備、引受金融機関支援も－自民提言",
-        "url": "https://news.yahoo.co.jp/articles/87ae542c41f419654975bce2d99a9370f2500609",
         "source": "Yahoo",
         "date": ""
       }
