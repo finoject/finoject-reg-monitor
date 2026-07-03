@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-03T01:14:32.088Z",
+  "generatedAt": "2026-07-03T05:34:31.986Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "金融政策決定会合議事録等の公表日時について",
+      "url": "https://www.boj.or.jp/about/organization/policyboard/pb260703a.htm",
+      "date": "2026-07-03",
+      "detectedAt": "2026-07-03T05:34:31.986Z",
+      "enriched": "2026-07-03T05:34:36.412Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行法第20条第2項に基づく金融政策決定会合の議事録等について、2016年1月～6月開催分を2026年7月15日（水）8時50分にホームページに掲載する。",
+        "日本銀行は、各会合から10年経過後に議事録等をホームページに掲載する方法により公表する。",
+        "2026年7月15日8時50分の公表は2016年1月～6月開催の金融政策決定会合に関する議事録等が対象。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "需給ギャップ・潜在成長率および労働需給関連指標",
+      "url": "https://www.boj.or.jp/research/research_data/gap/index.htm",
+      "date": "2026-07-03",
+      "detectedAt": "2026-07-03T05:34:31.986Z",
+      "enriched": "2026-07-03T05:34:36.412Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行調査統計局は需給ギャップ・潜在成長率に加え、労働需給関連指標（ベバリッジ比率・失業率・就業率ギャップ・入離職ギャップ等）を四半期ごとに公表する仕組みに変更した。",
+        "金融経済に関心を有する利用者は、1・4・7・10月の第3営業日に公表される分析データを参照する際、需給ギャップと労働需給関連指標を補完的にモニタリングすることが適当とされている。",
+        "2026年3月26日に分析データの見直しが実施され、労働供給制約の強まりを背景に、労働集約的セクターの経済活動や物価動向への影響度合いが増大していることに対応している。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[OSE]国債先物における受渡適格銘柄及び交換比率一覧表の更新",
@@ -6397,6 +6427,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "セキュリタイズがNYSE上場初日に自社株をトークン化、ソラナとアバランチで提供開始",
+        "url": "https://news.yahoo.co.jp/articles/0ec9900bc56bf5b30a7a83cfa826d3a14d0ac400",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロシア中銀総裁、9月1日のデジタルルーブル導入に向けて順調と発言＝報道",
         "url": "https://news.yahoo.co.jp/articles/fd5995d5f492e5322634800d608b02387202f8bd",
         "source": "Yahoo",
@@ -6423,18 +6459,18 @@
       {
         "title": "台湾、「虚擬資産服務法」が立法院で可決。ステーブルコイン発行制度など包括規制を整備",
         "url": "https://news.yahoo.co.jp/articles/c48cdfd2f9120f4b03b7880e0754185e84b2879c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メタマスク、利回り付き口座「Money Account」提供開始、最大年率4%のmUSD運用に対応",
-        "url": "https://news.yahoo.co.jp/articles/c8c7ac73bfddd1bb7990ccf9418fdd7e42532a21",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "セキュリタイズがNYSE上場初日に自社株をトークン化、ソラナとアバランチで提供開始",
+        "url": "https://news.yahoo.co.jp/articles/0ec9900bc56bf5b30a7a83cfa826d3a14d0ac400",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロシア中銀総裁、9月1日のデジタルルーブル導入に向けて順調と発言＝報道",
         "url": "https://news.yahoo.co.jp/articles/fd5995d5f492e5322634800d608b02387202f8bd",
         "source": "Yahoo",
@@ -6461,12 +6497,6 @@
       {
         "title": "台湾、「虚擬資産服務法」が立法院で可決。ステーブルコイン発行制度など包括規制を整備",
         "url": "https://news.yahoo.co.jp/articles/c48cdfd2f9120f4b03b7880e0754185e84b2879c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メタマスク、利回り付き口座「Money Account」提供開始、最大年率4%のmUSD運用に対応",
-        "url": "https://news.yahoo.co.jp/articles/c8c7ac73bfddd1bb7990ccf9418fdd7e42532a21",
         "source": "Yahoo",
         "date": ""
       }
@@ -6625,6 +6655,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "セキュリタイズがNYSE上場初日に自社株をトークン化、ソラナとアバランチで提供開始",
+        "url": "https://news.yahoo.co.jp/articles/0ec9900bc56bf5b30a7a83cfa826d3a14d0ac400",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソラナ上の予測市場「World」、暗号資産ウォレットのファントム内で正式公開",
+        "url": "https://news.yahoo.co.jp/articles/c41ab4ec774cfb5b3200a10bdcfa312e2507c556",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "RobinhoodがイーサリアムL2開始──Hyperliquidで9000万ドル規模のショート清算リスク【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/516c402dae9f094211debdc213838955ae42a7ca",
         "source": "Yahoo",
@@ -6645,24 +6687,24 @@
       {
         "title": "金融トークン化、次の主役は誰か──アセマネ3社が激論【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/72c9060ffc83236f58ec4aeff27e0c1ebfc2fc15",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "HashPort Wallet、アプリ内でJPYCの発行・償還が可能に",
-        "url": "https://news.yahoo.co.jp/articles/5f8921fc2f1f1c67adf6b81fc2c00adc0f96ae7e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッド、独自L2「Robinhood Chain」メインネット公開。株式トークンの24H取引対応",
-        "url": "https://news.yahoo.co.jp/articles/e90c7e0be359102a63dff7f4b431791ba8915f0a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "セキュリタイズがNYSE上場初日に自社株をトークン化、ソラナとアバランチで提供開始",
+        "url": "https://news.yahoo.co.jp/articles/0ec9900bc56bf5b30a7a83cfa826d3a14d0ac400",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソラナ上の予測市場「World」、暗号資産ウォレットのファントム内で正式公開",
+        "url": "https://news.yahoo.co.jp/articles/c41ab4ec774cfb5b3200a10bdcfa312e2507c556",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "RobinhoodがイーサリアムL2開始──Hyperliquidで9000万ドル規模のショート清算リスク【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/516c402dae9f094211debdc213838955ae42a7ca",
         "source": "Yahoo",
@@ -6683,18 +6725,6 @@
       {
         "title": "金融トークン化、次の主役は誰か──アセマネ3社が激論【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/72c9060ffc83236f58ec4aeff27e0c1ebfc2fc15",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "HashPort Wallet、アプリ内でJPYCの発行・償還が可能に",
-        "url": "https://news.yahoo.co.jp/articles/5f8921fc2f1f1c67adf6b81fc2c00adc0f96ae7e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッド、独自L2「Robinhood Chain」メインネット公開。株式トークンの24H取引対応",
-        "url": "https://news.yahoo.co.jp/articles/e90c7e0be359102a63dff7f4b431791ba8915f0a",
         "source": "Yahoo",
         "date": ""
       }
