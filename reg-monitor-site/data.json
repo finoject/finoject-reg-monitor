@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-02T22:43:30.268Z",
+  "generatedAt": "2026-07-03T01:14:32.088Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]国債先物における受渡適格銘柄及び交換比率一覧表の更新",
+      "url": "https://www.jpx.co.jp/derivatives/products/jgb/jgb-futures/02.html",
+      "date": "2026-07-03",
+      "detectedAt": "2026-07-03T01:14:32.088Z",
+      "enriched": "2026-07-03T01:14:37.991Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "国債先物（長期国債先物（現金決済型ミニ）を除く）の受渡適格銘柄及び交換比率（コンバージョン・ファクター）を2026年7月3日付で更新した。物価連動国債及びクライメート・トランジション利付国債は受渡適格銘柄に含まれない。",
+        "国債先物の取引参加者及び関連機関は、更新された受渡適格銘柄一覧表及び交換比率を取引・決済業務に適用し、受渡決済時に対応銘柄を確認・使用する必要がある。",
+        "本更新は2026年7月3日付で有効。受渡適格銘柄が未定の限月については対象銘柄発行時に資料を更新する。交換比率の計算式は2015年7月6日以降のデータに基づく。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "企業会計審議会第２回サステナビリティ情報保証部会の開催",
@@ -13,6 +28,21 @@
         "企業会計審議会サステナビリティ情報保証部会が令和８年７月３日15時から中央合同庁舎７号館13階で開催され、事務局説明と討議が予定される。",
         "金融庁企画市場局企業開示課が主管し、議事録は会議後にウェブサイトで公表される予定。",
         "サステナビリティ情報の保証に関する基準等の検討が進められている状況を示す会議開催。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日銀当座預金増減要因（7月見込み）",
+      "url": "https://www.boj.or.jp/statistics/boj/fm/juqp/juqp2607.xlsx",
+      "date": "2026-07-02",
+      "detectedAt": "2026-07-03T01:14:32.088Z",
+      "enriched": "2026-07-03T01:14:37.991Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "提供されたファイルはExcelの圧縮形式（.xlsx）であり、テキスト本文が含まれていないため、具体的な内容を抽出できません。日銀当座預金増減要因の7月見込みに関する実質的な数値・対象・期限等の情報がありません。",
+        "本文の解凍またはテキスト形式での再提供が必要です。現状では、タイトルのみから「7月における日銀当座預金の増減要因見込みに関する情報が示されている」と推測されるのみです。",
+        "実務対応には、正確な本文内容（具体的な増減額・要因・適用期間等）の確認が不可欠です。提供資料の形式を確認し、テキスト形式での内容提示をお願いします。"
       ],
       "aiSumV": 3
     },
@@ -6367,6 +6397,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ロシア中銀総裁、9月1日のデジタルルーブル導入に向けて順調と発言＝報道",
+        "url": "https://news.yahoo.co.jp/articles/fd5995d5f492e5322634800d608b02387202f8bd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "投資家は「全てを失った」 トランプ氏は暗号資産で巨額収益 「人類史上最も深刻な腐敗」元法律顧問が批判 #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/41517e0c1d1d7b0c22d322da2be23453b8fbc182",
         "source": "Yahoo",
@@ -6393,18 +6429,18 @@
       {
         "title": "メタマスク、利回り付き口座「Money Account」提供開始、最大年率4%のmUSD運用に対応",
         "url": "https://news.yahoo.co.jp/articles/c8c7ac73bfddd1bb7990ccf9418fdd7e42532a21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ米大統領、昨年暗号資産だけで14億ドル稼いだ",
-        "url": "https://news.yahoo.co.jp/articles/4558a8c1ca09e3769b6f95dea9e819024186e985",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ロシア中銀総裁、9月1日のデジタルルーブル導入に向けて順調と発言＝報道",
+        "url": "https://news.yahoo.co.jp/articles/fd5995d5f492e5322634800d608b02387202f8bd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "投資家は「全てを失った」 トランプ氏は暗号資産で巨額収益 「人類史上最も深刻な腐敗」元法律顧問が批判 #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/41517e0c1d1d7b0c22d322da2be23453b8fbc182",
         "source": "Yahoo",
@@ -6431,12 +6467,6 @@
       {
         "title": "メタマスク、利回り付き口座「Money Account」提供開始、最大年率4%のmUSD運用に対応",
         "url": "https://news.yahoo.co.jp/articles/c8c7ac73bfddd1bb7990ccf9418fdd7e42532a21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ米大統領、昨年暗号資産だけで14億ドル稼いだ",
-        "url": "https://news.yahoo.co.jp/articles/4558a8c1ca09e3769b6f95dea9e819024186e985",
         "source": "Yahoo",
         "date": ""
       }
@@ -6595,6 +6625,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "RobinhoodがイーサリアムL2開始──Hyperliquidで9000万ドル規模のショート清算リスク【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/516c402dae9f094211debdc213838955ae42a7ca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スタンダードチャータード、USDCの発行・償還を銀行業務に導入",
+        "url": "https://news.yahoo.co.jp/articles/d2ed2db75650c6cd5af21914f88c930308ad3799",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トークン化は世界の金融構造を変える可能性がある＝IMF",
         "url": "https://news.yahoo.co.jp/articles/a818eeb97a42bab38dd8335449af3b3ca830c39e",
         "source": "Yahoo",
@@ -6615,24 +6657,24 @@
       {
         "title": "ロビンフッド、独自L2「Robinhood Chain」メインネット公開。株式トークンの24H取引対応",
         "url": "https://news.yahoo.co.jp/articles/e90c7e0be359102a63dff7f4b431791ba8915f0a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏の暗号資産収入14億ドル、米上場デジタル資産企業を上回る",
-        "url": "https://news.yahoo.co.jp/articles/96a13f39c7d4c2510a7a6036600be42cbb15c787",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "LN Trends 2026年6月",
-        "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "RobinhoodがイーサリアムL2開始──Hyperliquidで9000万ドル規模のショート清算リスク【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/516c402dae9f094211debdc213838955ae42a7ca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スタンダードチャータード、USDCの発行・償還を銀行業務に導入",
+        "url": "https://news.yahoo.co.jp/articles/d2ed2db75650c6cd5af21914f88c930308ad3799",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トークン化は世界の金融構造を変える可能性がある＝IMF",
         "url": "https://news.yahoo.co.jp/articles/a818eeb97a42bab38dd8335449af3b3ca830c39e",
         "source": "Yahoo",
@@ -6653,18 +6695,6 @@
       {
         "title": "ロビンフッド、独自L2「Robinhood Chain」メインネット公開。株式トークンの24H取引対応",
         "url": "https://news.yahoo.co.jp/articles/e90c7e0be359102a63dff7f4b431791ba8915f0a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏の暗号資産収入14億ドル、米上場デジタル資産企業を上回る",
-        "url": "https://news.yahoo.co.jp/articles/96a13f39c7d4c2510a7a6036600be42cbb15c787",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "LN Trends 2026年6月",
-        "url": "https://news.yahoo.co.jp/articles/e00d25cee554de80d0378d111382647a2790f690",
         "source": "Yahoo",
         "date": ""
       }
@@ -6861,6 +6891,12 @@
     ],
     "358AC1000000032": [
       {
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
@@ -6887,18 +6923,18 @@
       {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
-        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
@@ -6925,18 +6961,18 @@
       {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
-        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
@@ -6963,12 +6999,6 @@
       {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
-        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
