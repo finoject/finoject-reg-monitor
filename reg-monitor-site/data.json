@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-05T23:44:24.465Z",
+  "generatedAt": "2026-07-06T04:56:52.121Z",
   "items": [
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「第47回 日本公認会計士協会 研究大会2026」のご案内",
+      "url": "https://jicpa.or.jp/news/information/2026/20260706jea.html",
+      "date": "2026-07-06",
+      "detectedAt": "2026-07-06T04:56:52.121Z",
+      "enriched": "2026-07-06T04:56:56.888Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年9月4日に第47回日本公認会計士協会研究大会2026を開催し、申込受付期間は6月15日～7月31日。",
+        "公認会計士協会会員および関心のある者は、特設サイトから申し込みにより参加可能。",
+        "現地会場でのみの開催であり、リモート配信は実施されない。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "「金融商品取引業者等向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等の公表",
@@ -6516,6 +6531,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "全米郡保安官協会、クラリティ法案への反対を取り下げ",
+        "url": "https://news.yahoo.co.jp/articles/abbbb629e2282b38cc79eee7677f993b6d32cf12",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロシア・イラン・北朝鮮、制裁回避で暗号資産使用急増",
         "url": "https://news.yahoo.co.jp/articles/9eed974fd4ca5464e719744fe221a3f2d633fefe",
         "source": "Yahoo",
@@ -6542,18 +6563,18 @@
       {
         "title": "ビットコイン・暗号資産取引所が株式市場になる日──TradFi Perpetual急拡大が示す市場構造の変化【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/6cd64fdda4910940b066f2120a3843fe44c1076e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】米FRB利上げ観測で暗号資産の冬が長引く？",
-        "url": "https://news.yahoo.co.jp/articles/007b7f48b13b66a87fd987cf1ee4be1356621eaa",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "全米郡保安官協会、クラリティ法案への反対を取り下げ",
+        "url": "https://news.yahoo.co.jp/articles/abbbb629e2282b38cc79eee7677f993b6d32cf12",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロシア・イラン・北朝鮮、制裁回避で暗号資産使用急増",
         "url": "https://news.yahoo.co.jp/articles/9eed974fd4ca5464e719744fe221a3f2d633fefe",
         "source": "Yahoo",
@@ -6580,12 +6601,6 @@
       {
         "title": "ビットコイン・暗号資産取引所が株式市場になる日──TradFi Perpetual急拡大が示す市場構造の変化【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/6cd64fdda4910940b066f2120a3843fe44c1076e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】米FRB利上げ観測で暗号資産の冬が長引く？",
-        "url": "https://news.yahoo.co.jp/articles/007b7f48b13b66a87fd987cf1ee4be1356621eaa",
         "source": "Yahoo",
         "date": ""
       }
@@ -6744,6 +6759,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "アプトスのMove VMに重大脆弱性、ヘクセンズ報告。修正済みで被害確認されず",
+        "url": "https://news.yahoo.co.jp/articles/f04601c7868c83cc42a7279b720dca1d400bee34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「脱北外交官」太永浩氏の長男に約8億7000万ウォン賠償命令",
+        "url": "https://news.yahoo.co.jp/articles/011d1028483a529f67296a6ed6204642a692f999",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハッシュポートのHashPort Wallet、「JPYC」の発行・償還可能に",
+        "url": "https://news.yahoo.co.jp/articles/080cdcfbba58b97aa7d0169389693224188a85f9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "全米郡保安官協会、クラリティ法案への反対を取り下げ",
+        "url": "https://news.yahoo.co.jp/articles/abbbb629e2282b38cc79eee7677f993b6d32cf12",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Revolut、MiCA移行を受けてUSDTの取り扱いを停止",
         "url": "https://news.yahoo.co.jp/articles/6fe94cd717a91e5f5f00c4f08b936ea53481fb6f",
         "source": "Yahoo",
@@ -6752,36 +6791,36 @@
       {
         "title": "なぜビットコインより、SpaceXが世界一人気なのか──未上場株ブームとRWA時代の投資家心理【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/45847affea2c321b67139fcd06e6d11c3de44c82",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OUSD連合めぐり韓国企業が参加合意を否定＝Chosun Biz",
-        "url": "https://news.yahoo.co.jp/articles/85e79443ff5420fe0cc58a89bb5a6aa6672f3d52",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン・暗号資産取引所が株式市場になる日──TradFi Perpetual急拡大が示す市場構造の変化【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/6cd64fdda4910940b066f2120a3843fe44c1076e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「日本の通貨主権を取られてはならない」──木原誠二氏が語るAI・オンチェーン金融の現在地／Binance Japan、新代表に豊崎亜里紗氏──元Google・Forbes選出【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/0839425cdf33c202209573821d24044bb4efe477",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "XRPは上半期に約44％下落──米上場のXRP関連商品は約9億6500万XRPを保有【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/c38975be48ed63476c5e7eee408255bbbf0bb15b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "アプトスのMove VMに重大脆弱性、ヘクセンズ報告。修正済みで被害確認されず",
+        "url": "https://news.yahoo.co.jp/articles/f04601c7868c83cc42a7279b720dca1d400bee34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「脱北外交官」太永浩氏の長男に約8億7000万ウォン賠償命令",
+        "url": "https://news.yahoo.co.jp/articles/011d1028483a529f67296a6ed6204642a692f999",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハッシュポートのHashPort Wallet、「JPYC」の発行・償還可能に",
+        "url": "https://news.yahoo.co.jp/articles/080cdcfbba58b97aa7d0169389693224188a85f9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "全米郡保安官協会、クラリティ法案への反対を取り下げ",
+        "url": "https://news.yahoo.co.jp/articles/abbbb629e2282b38cc79eee7677f993b6d32cf12",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Revolut、MiCA移行を受けてUSDTの取り扱いを停止",
         "url": "https://news.yahoo.co.jp/articles/6fe94cd717a91e5f5f00c4f08b936ea53481fb6f",
         "source": "Yahoo",
@@ -6790,30 +6829,6 @@
       {
         "title": "なぜビットコインより、SpaceXが世界一人気なのか──未上場株ブームとRWA時代の投資家心理【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/45847affea2c321b67139fcd06e6d11c3de44c82",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OUSD連合めぐり韓国企業が参加合意を否定＝Chosun Biz",
-        "url": "https://news.yahoo.co.jp/articles/85e79443ff5420fe0cc58a89bb5a6aa6672f3d52",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン・暗号資産取引所が株式市場になる日──TradFi Perpetual急拡大が示す市場構造の変化【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/6cd64fdda4910940b066f2120a3843fe44c1076e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「日本の通貨主権を取られてはならない」──木原誠二氏が語るAI・オンチェーン金融の現在地／Binance Japan、新代表に豊崎亜里紗氏──元Google・Forbes選出【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/0839425cdf33c202209573821d24044bb4efe477",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "XRPは上半期に約44％下落──米上場のXRP関連商品は約9億6500万XRPを保有【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/c38975be48ed63476c5e7eee408255bbbf0bb15b",
         "source": "Yahoo",
         "date": ""
       }
