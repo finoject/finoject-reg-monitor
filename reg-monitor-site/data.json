@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-07-06T04:56:52.121Z",
+  "generatedAt": "2026-07-06T09:39:53.647Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]JPX日経中小型株指数の構成銘柄の除外について",
+      "url": "https://www.jpx.co.jp/news/6030/20260706-01.html",
+      "date": "2026-07-06",
+      "detectedAt": "2026-07-06T09:39:53.647Z",
+      "enriched": "2026-07-06T09:39:59.837Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX日経中小型株指数の構成銘柄からソラスト（6197）を2026年7月10日の算出分より除外する。除外事由は整理銘柄への指定。",
+        "指数の構成銘柄数が200銘柄を下回った場合、原則として都度補充は行わず毎年8月の定期入替時に200銘柄に戻す運用ルール。",
+        "JPX日経中小型株指数の銘柄選定ルールに基づき日本経済新聞社およびJPX総研が本措置を実施。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]信用取引残高の公表情報の変更日及び今後の公表スケジュールについて",
+      "url": "https://www.jpx.co.jp/news/1032/20260706-01.html",
+      "date": "2026-07-06",
+      "detectedAt": "2026-07-06T09:39:53.647Z",
+      "enriched": "2026-07-06T09:39:59.837Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所は集計システムのリプレース に伴い、信用取引残高の公表情報を2026年9月28日（月）から変更する。9月27日（日）にシステム移行を実施し、20時ごろに結果をウェブサイトで通知する。",
+        "市場参加者は新旧スケジュールに対応し、9月27日のシステム移行結果確認後、9月28日以降の新しい公表資料「日々公表銘柄等信用取引残高」「銘柄別信用取引残高」の取得方法を切り替える必要がある。",
+        "従来の「個別銘柄信用取引残高」（毎日16:00）等は9月25日が最終公表となり、9月28日から「日々公表銘柄等信用取引残高」（毎日16:00）が新たに毎日公表される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：2銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260706-01.html",
+      "date": "2026-07-06",
+      "detectedAt": "2026-07-06T09:39:53.647Z",
+      "enriched": "2026-07-06T09:39:59.837Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "窪田製薬ホールディングス（4596）は上限200円、イノバセル（504A）は上限400円に制限値幅を拡大し、2026年7月7日から適用。2営業日連続してストップ高安となり売買高0株またはストップ気配のまま立会終了した場合が対象。",
+        "取引参加者および投資家は、制限値幅拡大期間中の成行注文で思わぬ値段での約定リスクに対応し、値段指定注文の利用やストップ高安以外の値段で売買成立した場合の通常値幅復帰ルールを認識する必要がある。",
+        "東証の制限値幅拡大措置は売買流動性確保のための自主規制対応で、対象2銘柄について7月7日より実施され、通常どおり下限（窪田50円、イノバセル100円）は変更なし。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）ソラスト",
+      "url": "https://www.jpx.co.jp/news/1023/20260706-11.html",
+      "date": "2026-07-06",
+      "detectedAt": "2026-07-06T09:39:53.647Z",
+      "enriched": "2026-07-06T09:39:59.837Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社ソラスト（コード6197、プライム市場）について、特定の者以外の株主の所有する全株式が1株に満たない端数となる割合での株式併合に該当するため上場廃止を決定した（有価証券上場規程第601条第1項第18号）。",
+        "同社株式は2026年7月6日から8月5日まで整理銘柄に指定され、2026年8月6日に上場廃止となる。速やかに上場廃止すべき事情が発生した場合は期間と廃止日を変更することがある。",
+        "同社株式は2026年7月7日以降、信用取引・発行日決済取引の委託保証金、売買証拠金、取引参加者保証金、信認金の各代用有価証券から除外される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本公認会計士協会",
       "title": "「第47回 日本公認会計士協会 研究大会2026」のご案内",
@@ -6303,6 +6363,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kraken、トークン化株式をレバレッジ取引の担保として利用可能に",
         "url": "https://news.yahoo.co.jp/articles/bd6a11242f6ffc324a0085348703c5cb39ab85b7",
         "source": "Yahoo",
@@ -6329,18 +6395,18 @@
       {
         "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
         "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "経営者の“先読み”が勝利を呼んだ",
-        "url": "https://news.yahoo.co.jp/articles/f3287fafa93c894009b86dc1e1d59eb6b56fc50a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kraken、トークン化株式をレバレッジ取引の担保として利用可能に",
         "url": "https://news.yahoo.co.jp/articles/bd6a11242f6ffc324a0085348703c5cb39ab85b7",
         "source": "Yahoo",
@@ -6367,18 +6433,18 @@
       {
         "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
         "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "経営者の“先読み”が勝利を呼んだ",
-        "url": "https://news.yahoo.co.jp/articles/f3287fafa93c894009b86dc1e1d59eb6b56fc50a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kraken、トークン化株式をレバレッジ取引の担保として利用可能に",
         "url": "https://news.yahoo.co.jp/articles/bd6a11242f6ffc324a0085348703c5cb39ab85b7",
         "source": "Yahoo",
@@ -6405,18 +6471,18 @@
       {
         "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
         "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "経営者の“先読み”が勝利を呼んだ",
-        "url": "https://news.yahoo.co.jp/articles/f3287fafa93c894009b86dc1e1d59eb6b56fc50a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kraken、トークン化株式をレバレッジ取引の担保として利用可能に",
         "url": "https://news.yahoo.co.jp/articles/bd6a11242f6ffc324a0085348703c5cb39ab85b7",
         "source": "Yahoo",
@@ -6445,15 +6511,15 @@
         "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "経営者の“先読み”が勝利を呼んだ",
-        "url": "https://news.yahoo.co.jp/articles/f3287fafa93c894009b86dc1e1d59eb6b56fc50a",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "Revolut、MiCA移行を受けてUSDTの取り扱いを停止",
         "url": "https://news.yahoo.co.jp/articles/6fe94cd717a91e5f5f00c4f08b936ea53481fb6f",
@@ -6481,18 +6547,18 @@
       {
         "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
         "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】 この流れは、日本にとっても非常に参考になります。 日本でも暗号資産を資金決済法から金融商品取引法へ移行する制度改革が進んでおり、暗号資産を「決済手段",
-        "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Revolut、MiCA移行を受けてUSDTの取り扱いを停止",
         "url": "https://news.yahoo.co.jp/articles/6fe94cd717a91e5f5f00c4f08b936ea53481fb6f",
         "source": "Yahoo",
@@ -6521,15 +6587,27 @@
         "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "MiCA本格始動──欧州の暗号資産規制が日本に示す次の論点【エックスウィン】 この流れは、日本にとっても非常に参考になります。 日本でも暗号資産を資金決済法から金融商品取引法へ移行する制度改革が進んでおり、暗号資産を「決済手段",
-        "url": "https://news.yahoo.co.jp/articles/5c9fcfd0ce3d3d6153eabea783164cf501d0f935",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "Binanceから12億ドルの資金流出──前週比約3倍に増加",
+        "url": "https://news.yahoo.co.jp/articles/b42591490eaf79c96653302ef55cced00f7b4bf4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "レボリュートがUSDT取り扱い終了へ、8月末までに段階的廃止",
+        "url": "https://news.yahoo.co.jp/articles/9a1cce19b82b32466dfed76d7912ec81e13e7371",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "全米郡保安官協会、クラリティ法案への反対を取り下げ",
         "url": "https://news.yahoo.co.jp/articles/abbbb629e2282b38cc79eee7677f993b6d32cf12",
@@ -6545,30 +6623,30 @@
       {
         "title": "Revolut、MiCA移行を受けてUSDTの取り扱いを停止",
         "url": "https://news.yahoo.co.jp/articles/6fe94cd717a91e5f5f00c4f08b936ea53481fb6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜビットコインより、SpaceXが世界一人気なのか──未上場株ブームとRWA時代の投資家心理【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/45847affea2c321b67139fcd06e6d11c3de44c82",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アメリカ政治はビットコインを保有する時代へ、暗号資産が国家戦略になった理由【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/496cc8e2b5722505b525b33560c04da2272c0a06",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン・暗号資産取引所が株式市場になる日──TradFi Perpetual急拡大が示す市場構造の変化【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/6cd64fdda4910940b066f2120a3843fe44c1076e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Binanceから12億ドルの資金流出──前週比約3倍に増加",
+        "url": "https://news.yahoo.co.jp/articles/b42591490eaf79c96653302ef55cced00f7b4bf4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "レボリュートがUSDT取り扱い終了へ、8月末までに段階的廃止",
+        "url": "https://news.yahoo.co.jp/articles/9a1cce19b82b32466dfed76d7912ec81e13e7371",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "全米郡保安官協会、クラリティ法案への反対を取り下げ",
         "url": "https://news.yahoo.co.jp/articles/abbbb629e2282b38cc79eee7677f993b6d32cf12",
         "source": "Yahoo",
@@ -6583,24 +6661,6 @@
       {
         "title": "Revolut、MiCA移行を受けてUSDTの取り扱いを停止",
         "url": "https://news.yahoo.co.jp/articles/6fe94cd717a91e5f5f00c4f08b936ea53481fb6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜビットコインより、SpaceXが世界一人気なのか──未上場株ブームとRWA時代の投資家心理【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/45847affea2c321b67139fcd06e6d11c3de44c82",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アメリカ政治はビットコインを保有する時代へ、暗号資産が国家戦略になった理由【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/496cc8e2b5722505b525b33560c04da2272c0a06",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン・暗号資産取引所が株式市場になる日──TradFi Perpetual急拡大が示す市場構造の変化【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/6cd64fdda4910940b066f2120a3843fe44c1076e",
         "source": "Yahoo",
         "date": ""
       }
@@ -6759,6 +6819,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "Ethereum Foundation、政府・機関向けガイドを公開──組織再編で強める、政府・機関への働きかけ【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/b033bd5af2cb71b9d8783737fa9812ba9ec7cbdb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソニーＦＧ、米国でステーブルコイン事業向け子会社設立へ",
+        "url": "https://news.yahoo.co.jp/articles/5a4894c54de5c3119a64f07c28de6053e07a9967",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "レボリュートがUSDT取り扱い終了へ、8月末までに段階的廃止",
+        "url": "https://news.yahoo.co.jp/articles/9a1cce19b82b32466dfed76d7912ec81e13e7371",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アーべv3.7、モナドで稼働開始。独自ステーブルコイン「GHO」対応で12資産を初日からサポート",
+        "url": "https://news.yahoo.co.jp/articles/ff84bfacd507fcf6657beb6af4ff8bb23470e5ef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アプトスのMove VMに重大脆弱性、ヘクセンズ報告。修正済みで被害確認されず",
         "url": "https://news.yahoo.co.jp/articles/f04601c7868c83cc42a7279b720dca1d400bee34",
         "source": "Yahoo",
@@ -6767,36 +6851,36 @@
       {
         "title": "「脱北外交官」太永浩氏の長男に約8億7000万ウォン賠償命令",
         "url": "https://news.yahoo.co.jp/articles/011d1028483a529f67296a6ed6204642a692f999",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハッシュポートのHashPort Wallet、「JPYC」の発行・償還可能に",
-        "url": "https://news.yahoo.co.jp/articles/080cdcfbba58b97aa7d0169389693224188a85f9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "全米郡保安官協会、クラリティ法案への反対を取り下げ",
-        "url": "https://news.yahoo.co.jp/articles/abbbb629e2282b38cc79eee7677f993b6d32cf12",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Revolut、MiCA移行を受けてUSDTの取り扱いを停止",
-        "url": "https://news.yahoo.co.jp/articles/6fe94cd717a91e5f5f00c4f08b936ea53481fb6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜビットコインより、SpaceXが世界一人気なのか──未上場株ブームとRWA時代の投資家心理【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/45847affea2c321b67139fcd06e6d11c3de44c82",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Ethereum Foundation、政府・機関向けガイドを公開──組織再編で強める、政府・機関への働きかけ【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/b033bd5af2cb71b9d8783737fa9812ba9ec7cbdb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソニーＦＧ、米国でステーブルコイン事業向け子会社設立へ",
+        "url": "https://news.yahoo.co.jp/articles/5a4894c54de5c3119a64f07c28de6053e07a9967",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "レボリュートがUSDT取り扱い終了へ、8月末までに段階的廃止",
+        "url": "https://news.yahoo.co.jp/articles/9a1cce19b82b32466dfed76d7912ec81e13e7371",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アーべv3.7、モナドで稼働開始。独自ステーブルコイン「GHO」対応で12資産を初日からサポート",
+        "url": "https://news.yahoo.co.jp/articles/ff84bfacd507fcf6657beb6af4ff8bb23470e5ef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アプトスのMove VMに重大脆弱性、ヘクセンズ報告。修正済みで被害確認されず",
         "url": "https://news.yahoo.co.jp/articles/f04601c7868c83cc42a7279b720dca1d400bee34",
         "source": "Yahoo",
@@ -6805,30 +6889,6 @@
       {
         "title": "「脱北外交官」太永浩氏の長男に約8億7000万ウォン賠償命令",
         "url": "https://news.yahoo.co.jp/articles/011d1028483a529f67296a6ed6204642a692f999",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハッシュポートのHashPort Wallet、「JPYC」の発行・償還可能に",
-        "url": "https://news.yahoo.co.jp/articles/080cdcfbba58b97aa7d0169389693224188a85f9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "全米郡保安官協会、クラリティ法案への反対を取り下げ",
-        "url": "https://news.yahoo.co.jp/articles/abbbb629e2282b38cc79eee7677f993b6d32cf12",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Revolut、MiCA移行を受けてUSDTの取り扱いを停止",
-        "url": "https://news.yahoo.co.jp/articles/6fe94cd717a91e5f5f00c4f08b936ea53481fb6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜビットコインより、SpaceXが世界一人気なのか──未上場株ブームとRWA時代の投資家心理【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/45847affea2c321b67139fcd06e6d11c3de44c82",
         "source": "Yahoo",
         "date": ""
       }
@@ -7359,6 +7419,12 @@
     ],
     "417AC0000000086": [
       {
+        "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
+        "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -7385,18 +7451,18 @@
       {
         "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
         "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
-        "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
+        "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -7423,18 +7489,18 @@
       {
         "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
         "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
-        "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
+        "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -7461,18 +7527,18 @@
       {
         "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
         "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
-        "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
+        "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -7499,18 +7565,18 @@
       {
         "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
         "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
-        "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
+        "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -7537,12 +7603,6 @@
       {
         "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
         "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
-        "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
         "source": "Yahoo",
         "date": ""
       }
