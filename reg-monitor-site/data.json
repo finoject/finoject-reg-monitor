@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T20:30:54.358Z",
+  "generatedAt": "2026-07-07T21:59:24.813Z",
   "items": [
     {
       "agency": "日本取引所グループ",
@@ -6751,6 +6751,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "Gemini、米国でコミッション無料の株式取引を開始",
+        "url": "https://news.yahoo.co.jp/articles/4233e064b7c8df96dadbbc1956171f1ff133cc8f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SEC、暗号資産規制の明確化へ──2026年アジェンダで方針示す",
+        "url": "https://news.yahoo.co.jp/articles/24a5f64c8e2562b8e28863b83883283bf3be974c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、トラベルルール対象に5法域追加──8月3日から適用",
         "url": "https://news.yahoo.co.jp/articles/ac459b26758a4dff2491e683389cea0ea9bf2f5a",
         "source": "Yahoo",
@@ -6771,24 +6783,24 @@
       {
         "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
         "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCAのCASP認可とEMI免許取得",
-        "url": "https://news.yahoo.co.jp/articles/2eb2533a2e624e25191bcd26717f1ee9bac45124",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Ripple、MiCAライセンスを正式取得──欧州30カ国で暗号資産サービス提供へ",
-        "url": "https://news.yahoo.co.jp/articles/73165b3d5b47debde62a3e0f1bdf59f0f59c4ae5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Gemini、米国でコミッション無料の株式取引を開始",
+        "url": "https://news.yahoo.co.jp/articles/4233e064b7c8df96dadbbc1956171f1ff133cc8f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SEC、暗号資産規制の明確化へ──2026年アジェンダで方針示す",
+        "url": "https://news.yahoo.co.jp/articles/24a5f64c8e2562b8e28863b83883283bf3be974c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、トラベルルール対象に5法域追加──8月3日から適用",
         "url": "https://news.yahoo.co.jp/articles/ac459b26758a4dff2491e683389cea0ea9bf2f5a",
         "source": "Yahoo",
@@ -6809,18 +6821,6 @@
       {
         "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
         "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCAのCASP認可とEMI免許取得",
-        "url": "https://news.yahoo.co.jp/articles/2eb2533a2e624e25191bcd26717f1ee9bac45124",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Ripple、MiCAライセンスを正式取得──欧州30カ国で暗号資産サービス提供へ",
-        "url": "https://news.yahoo.co.jp/articles/73165b3d5b47debde62a3e0f1bdf59f0f59c4ae5",
         "source": "Yahoo",
         "date": ""
       }
