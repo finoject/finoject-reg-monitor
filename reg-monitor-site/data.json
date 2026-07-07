@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T13:03:01.329Z",
+  "generatedAt": "2026-07-07T16:08:16.762Z",
   "items": [
     {
       "agency": "日本取引所グループ",
@@ -6979,6 +6979,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI証券と大和証券、海外から日本のSTに投資できる仕組みを構築へ──2027年にも開始＝日経",
+        "url": "https://news.yahoo.co.jp/articles/bccc754c0b5093107607c9c35397ac14ffd20dc3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ネットスターズ、Cantonと協業──「StarPay-X」でWeb3決済の社会実装目指す",
         "url": "https://news.yahoo.co.jp/articles/c3ee58429df2cd70ddb16f0d9d31b04f88d9bb6d",
         "source": "Yahoo",
@@ -7005,18 +7011,18 @@
       {
         "title": "三菱UFJ銀行、オンチェーン金融インフラ構築へ──Datachainが技術助言",
         "url": "https://news.yahoo.co.jp/articles/ead508b8a8657b665d28ada1ace9de880e862798",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、欧州でMiCA準拠のCASPライセンス正式取得",
-        "url": "https://news.yahoo.co.jp/articles/732cdd50ea57476f121a7033629ee634b0d3ac14",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI証券と大和証券、海外から日本のSTに投資できる仕組みを構築へ──2027年にも開始＝日経",
+        "url": "https://news.yahoo.co.jp/articles/bccc754c0b5093107607c9c35397ac14ffd20dc3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ネットスターズ、Cantonと協業──「StarPay-X」でWeb3決済の社会実装目指す",
         "url": "https://news.yahoo.co.jp/articles/c3ee58429df2cd70ddb16f0d9d31b04f88d9bb6d",
         "source": "Yahoo",
@@ -7043,12 +7049,6 @@
       {
         "title": "三菱UFJ銀行、オンチェーン金融インフラ構築へ──Datachainが技術助言",
         "url": "https://news.yahoo.co.jp/articles/ead508b8a8657b665d28ada1ace9de880e862798",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、欧州でMiCA準拠のCASPライセンス正式取得",
-        "url": "https://news.yahoo.co.jp/articles/732cdd50ea57476f121a7033629ee634b0d3ac14",
         "source": "Yahoo",
         "date": ""
       }
