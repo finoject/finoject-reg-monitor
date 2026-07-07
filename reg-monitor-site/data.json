@@ -1,6 +1,151 @@
 {
-  "generatedAt": "2026-07-07T05:50:01.509Z",
+  "generatedAt": "2026-07-07T10:08:32.415Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）レックスアドバイザーズ",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-07-07",
+      "detectedAt": "2026-07-07T10:08:32.415Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-07T10:08:37.587Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "コール市場残高（6月）",
+      "url": "https://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+      "date": "2026-07-07",
+      "detectedAt": "2026-07-07T10:08:32.415Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がバイナリ形式（圧縮ファイル）のため、具体的な数値データ・統計内容を抽出できません。通常のコール市場残高統計では、月中平均残高・取引高・金利等が掲載されます。",
+        "日本銀行の定期統計公表物であり、金融機関等の実務担当者は公表された月次データを市場動向把握・資金繰り管理に活用することが想定されます。",
+        "毎月定期に公表される統計であり、2026年5月分の結果を2026年6月5日に公表したものと考えられます。具体内容は原文書の正常な取得が必要です。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-07T10:08:37.587Z"
+    },
+    {
+      "agency": "金融庁",
+      "title": "「犯罪による収益の移転防止に関する法律施行令第十七条の二及び第十七条の三の規定に基づき国又は地域を指定する件の一部を改正する件（案）」に対するパブリックコメントの結果等の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260707-2/20260707-2.html",
+      "date": "2026-07-07",
+      "detectedAt": "2026-07-07T10:08:32.415Z",
+      "lawrefs": [
+        {
+          "id": "420M60000F5A001",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律施行規則"
+        },
+        {
+          "id": "420CO0000000020",
+          "art": "第17条の2",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律施行令 第17条の2"
+        },
+        {
+          "id": "420CO0000000020",
+          "art": "第17条の3",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律施行令 第17条の3"
+        },
+        {
+          "id": "420CO0000000020",
+          "art": "第1条",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律施行令 第1条"
+        },
+        {
+          "id": "419AC0000000022",
+          "art": "第10条の3",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律 第10条の3"
+        },
+        {
+          "id": "419AC0000000022",
+          "art": "第10条の5",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律 第10条の5"
+        }
+      ],
+      "enriched": "2026-07-07T10:08:37.969Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "施行令第17条の2・3に基づき指定する国又は地域について、各法域の法令施行状況を踏まえ改正し、暗号資産・電子決済手段移転時の送付人・受取人情報通知義務（トラベルルール）対象を見直す。",
+        "暗号資産交換業者及び電子決済手段等取引業者は、中国・ベトナム・ロシア等トラベルルール対象外法域のウォレット取引について、施行規則24条・32条に基づき所有者情報の収集・保存が引き続き必須。",
+        "改正告示は令和8年8月3日から適用され、犯収法10条の3・5に相当する外国法令規定がない法域との取引規制が施行令第17条の2・3に基づき運用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]東証グロース市場250指数構成銘柄の一部除外",
+      "url": "https://www.jpx.co.jp/news/2020/20260707-01.html",
+      "date": "2026-07-07",
+      "detectedAt": "2026-07-07T10:08:32.415Z",
+      "enriched": "2026-07-07T10:08:37.969Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証グロース市場250指数の構成銘柄からタスキホールディングス（コード166A）が除外される。",
+        "指数先物取引の取引参加者は当該銘柄の除外に伴う指数先物の価格変動に注意して取引すること。",
+        "除外実施日は2026年7月31日（金）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：ＮＥＸＴ ＦＵＮＤＳ 日本株政策フォーカス上場投信（コード605A）",
+      "url": "https://www.jpx.co.jp/news/1030/20260707-01.html",
+      "date": "2026-07-07",
+      "detectedAt": "2026-07-07T10:08:32.415Z",
+      "enriched": "2026-07-07T10:08:37.969Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "NEXT FUNDS日本株政策フォーカス上場投信（コード605A）は2026年7月14日に東証に新規上場し、呼値の単位はTOPIX500呼値テーブルが適用される。",
+        "取引参加者および売買注文発注者は、本ETFの売買時にTOPIX500構成銘柄と同じ呼値単位を使用して注文を入力する必要がある。",
+        "適用開始日は2026年7月14日の上場初日から、東京証券取引所の株式部で管理される呼値テーブルに従う。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]自己株式の取得状況及び取得終了に関するお知らせ",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000001j0bu-att/20260707_j.pdf",
+      "date": "2026-07-07",
+      "detectedAt": "2026-07-07T10:08:32.415Z",
+      "enriched": "2026-07-07T10:08:37.969Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社日本取引所グループが2026年4月28日の取締役会決議に基づき、会社法第459条第1項の定款規定に基づく自己株式取得を実施し、2026年7月7日の買付をもって全て終了した。",
+        "同社は2026年7月1日～7月7日に東京証券取引所の市場買付けにより普通株式1,794,100株を取得し、取得価額総額は3,841,183,900円である。",
+        "本取得決議の上限は40,000,000株（発行済株式総数対比3.9%）で200億円、取得期間は2026年6月1日～10月26日（決算期末の5営業日前～末日を除く）に設定されていた。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "第１回「2040年に向けた我が国金融資本市場のビジョンについての懇談会」を開催いたしました",
+      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
+      "date": "2026-07-07",
+      "detectedAt": "2026-07-07T10:08:32.415Z",
+      "enriched": "2026-07-07T10:08:37.969Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
+        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
+        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "消費活動指数",
@@ -1260,22 +1405,6 @@
         "提供開始日は2026年6月29日、完全な順序性を保持する更新番号により正確な順序で板情報を再現でき、流動性分析・執行分析・トレーディング戦略立案が容易になる。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）元気な介護",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-06-26",
-      "detectedAt": "2026-06-26T10:38:10.516Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-06-26T10:38:16.907Z"
     },
     {
       "agency": "金融庁",
@@ -4001,21 +4130,6 @@
     },
     {
       "agency": "日本銀行",
-      "title": "コール市場残高（5月）",
-      "url": "https://www.boj.or.jp/statistics/market/short/call/call.xlsx",
-      "date": "2026-06-05",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:02:01.652Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "本文がバイナリ形式（圧縮ファイル）のため、具体的な数値データ・統計内容を抽出できません。通常のコール市場残高統計では、月中平均残高・取引高・金利等が掲載されます。",
-        "日本銀行の定期統計公表物であり、金融機関等の実務担当者は公表された月次データを市場動向把握・資金繰り管理に活用することが想定されます。",
-        "毎月定期に公表される統計であり、2026年5月分の結果を2026年6月5日に公表したものと考えられます。具体内容は原文書の正常な取得が必要です。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
       "title": "気候変動関連の市場機能サーベイ（第5回）調査結果",
       "url": "https://www.boj.or.jp/paym/m-climate/mcli260605a.htm",
       "date": "2026-06-05",
@@ -6637,7 +6751,13 @@
     ],
     "429M60000002007": [
       {
-        "title": "リップル、欧州でMiCA準拠のCASPライセンスを正式取得",
+        "title": "露スベルバンク、暗号資産ウォレット提供へ。銀行アプリへの統合を計画",
+        "url": "https://news.yahoo.co.jp/articles/0a8d359943c94ee2ba7991fb2ccfad47e6e9d3c0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、欧州でMiCA準拠のCASPライセンス正式取得",
         "url": "https://news.yahoo.co.jp/articles/732cdd50ea57476f121a7033629ee634b0d3ac14",
         "source": "Yahoo",
         "date": ""
@@ -6649,7 +6769,7 @@
         "date": ""
       },
       {
-        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCA下のCASP認可とEMI免許取得",
+        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCAのCASP認可とEMI免許取得",
         "url": "https://news.yahoo.co.jp/articles/2eb2533a2e624e25191bcd26717f1ee9bac45124",
         "source": "Yahoo",
         "date": ""
@@ -6663,19 +6783,19 @@
       {
         "title": "クラリティ法、次の焦点は8月6日か。法執行機関の対応分裂や倫理規定が争点に＝報道",
         "url": "https://news.yahoo.co.jp/articles/8fb92d5e471f76c371bff54a9a324851fd7ce7eb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "2030年、金融市場は24時間365日へ──TradFi Perpetualが示す金融市場・ビットコインの未来【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5621aaad83500090c12223e4c8860954139ed554",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
-        "title": "リップル、欧州でMiCA準拠のCASPライセンスを正式取得",
+        "title": "露スベルバンク、暗号資産ウォレット提供へ。銀行アプリへの統合を計画",
+        "url": "https://news.yahoo.co.jp/articles/0a8d359943c94ee2ba7991fb2ccfad47e6e9d3c0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、欧州でMiCA準拠のCASPライセンス正式取得",
         "url": "https://news.yahoo.co.jp/articles/732cdd50ea57476f121a7033629ee634b0d3ac14",
         "source": "Yahoo",
         "date": ""
@@ -6687,7 +6807,7 @@
         "date": ""
       },
       {
-        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCA下のCASP認可とEMI免許取得",
+        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCAのCASP認可とEMI免許取得",
         "url": "https://news.yahoo.co.jp/articles/2eb2533a2e624e25191bcd26717f1ee9bac45124",
         "source": "Yahoo",
         "date": ""
@@ -6701,12 +6821,6 @@
       {
         "title": "クラリティ法、次の焦点は8月6日か。法執行機関の対応分裂や倫理規定が争点に＝報道",
         "url": "https://news.yahoo.co.jp/articles/8fb92d5e471f76c371bff54a9a324851fd7ce7eb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "2030年、金融市場は24時間365日へ──TradFi Perpetualが示す金融市場・ビットコインの未来【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5621aaad83500090c12223e4c8860954139ed554",
         "source": "Yahoo",
         "date": ""
       }
@@ -6865,76 +6979,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "リップル、欧州でMiCA準拠のCASPライセンスを正式取得",
+        "title": "ネットスターズ、Cantonと協業──「StarPay-X」でWeb3決済の社会実装目指す",
+        "url": "https://news.yahoo.co.jp/articles/c3ee58429df2cd70ddb16f0d9d31b04f88d9bb6d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本初、「JPYC」での自動販売機決済を実証実験。INSPAY主導で",
+        "url": "https://news.yahoo.co.jp/articles/c5b9e5e45a1d5d7997911efe85038ebf4381da6a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ネットスターズがカントン財団とMOU、Web3決済普及に向け",
+        "url": "https://news.yahoo.co.jp/articles/ed84c569291c43c927e32e5218f59934447aad11",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "OKX、ベネズエラ地震支援で対象ユーザーに20USDT付与",
+        "url": "https://news.yahoo.co.jp/articles/935239b3c7eb716b55ead5a0cf4eff0da9823716",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三菱UFJ銀行、オンチェーン金融インフラ構築へ──Datachainが技術助言",
+        "url": "https://news.yahoo.co.jp/articles/ead508b8a8657b665d28ada1ace9de880e862798",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、欧州でMiCA準拠のCASPライセンス正式取得",
         "url": "https://news.yahoo.co.jp/articles/732cdd50ea57476f121a7033629ee634b0d3ac14",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
-        "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCA下のCASP認可とEMI免許取得",
-        "url": "https://news.yahoo.co.jp/articles/2eb2533a2e624e25191bcd26717f1ee9bac45124",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソニー銀行、米国でステーブルコイン事業展開へ。OCCより信託子会社設立の条件付き承認取得",
-        "url": "https://news.yahoo.co.jp/articles/dcabe7b79d6075271fe7aff397c3f29a935cb50b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソニー銀行、ドル建てステーブルコイン発行に向け米国子会社設立へ",
-        "url": "https://news.yahoo.co.jp/articles/45f1fc3793ed23b257ecae45e4b874c5915e9530",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英FCA、AIとトークン化が個人向け金融サービスに大きな変革をもたらすと警告",
-        "url": "https://news.yahoo.co.jp/articles/72da93ad958ce34ef7dc16562e0861ad92c53a38",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "リップル、欧州でMiCA準拠のCASPライセンスを正式取得",
+        "title": "ネットスターズ、Cantonと協業──「StarPay-X」でWeb3決済の社会実装目指す",
+        "url": "https://news.yahoo.co.jp/articles/c3ee58429df2cd70ddb16f0d9d31b04f88d9bb6d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本初、「JPYC」での自動販売機決済を実証実験。INSPAY主導で",
+        "url": "https://news.yahoo.co.jp/articles/c5b9e5e45a1d5d7997911efe85038ebf4381da6a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ネットスターズがカントン財団とMOU、Web3決済普及に向け",
+        "url": "https://news.yahoo.co.jp/articles/ed84c569291c43c927e32e5218f59934447aad11",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "OKX、ベネズエラ地震支援で対象ユーザーに20USDT付与",
+        "url": "https://news.yahoo.co.jp/articles/935239b3c7eb716b55ead5a0cf4eff0da9823716",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三菱UFJ銀行、オンチェーン金融インフラ構築へ──Datachainが技術助言",
+        "url": "https://news.yahoo.co.jp/articles/ead508b8a8657b665d28ada1ace9de880e862798",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、欧州でMiCA準拠のCASPライセンス正式取得",
         "url": "https://news.yahoo.co.jp/articles/732cdd50ea57476f121a7033629ee634b0d3ac14",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
-        "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCA下のCASP認可とEMI免許取得",
-        "url": "https://news.yahoo.co.jp/articles/2eb2533a2e624e25191bcd26717f1ee9bac45124",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソニー銀行、米国でステーブルコイン事業展開へ。OCCより信託子会社設立の条件付き承認取得",
-        "url": "https://news.yahoo.co.jp/articles/dcabe7b79d6075271fe7aff397c3f29a935cb50b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソニー銀行、ドル建てステーブルコイン発行に向け米国子会社設立へ",
-        "url": "https://news.yahoo.co.jp/articles/45f1fc3793ed23b257ecae45e4b874c5915e9530",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英FCA、AIとトークン化が個人向け金融サービスに大きな変革をもたらすと警告",
-        "url": "https://news.yahoo.co.jp/articles/72da93ad958ce34ef7dc16562e0861ad92c53a38",
         "source": "Yahoo",
         "date": ""
       }
@@ -7131,6 +7245,12 @@
     ],
     "358AC1000000032": [
       {
+        "title": "無登録でヤミ金を営み、知人に160万円を貸し付けた貸金業法違反容疑 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
+        "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
@@ -7157,18 +7277,18 @@
       {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「もうあかん、このまま家族で",
-        "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
+        "title": "無登録でヤミ金を営み、知人に160万円を貸し付けた貸金業法違反容疑 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
+        "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
@@ -7195,18 +7315,18 @@
       {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「もうあかん、このまま家族で",
-        "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
+        "title": "無登録でヤミ金を営み、知人に160万円を貸し付けた貸金業法違反容疑 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
+        "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
@@ -7233,12 +7353,6 @@
       {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「もうあかん、このまま家族で",
-        "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
         "source": "Yahoo",
         "date": ""
       }
@@ -7655,6 +7769,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "個人情報漏えい、１万９０００件超政府は７日の閣議で、個人情報保護委員会の２０２５年度年次報告を決定した。個人情報保護法に基づいて同年度中に報告があった漏えいの件数は、１万９４１７件に上った。写真は、閣議に臨む高市早苗首相（中央）ら。時事通信政治7/7(火) 16:04",
+        "url": "https://news.yahoo.co.jp/articles/26775a11efada19e99d66705c97131417ea50033/images/000",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "個人情報漏えい、1万9000件超 25年度報告、過去2番目の多さ 政府は7日の閣議で、個人情報保護委員会の2025年度年次報告を決定した。 個人情報保護法に基づいて同年度中に報告があった漏えいの件数は、過去最高だった24年",
+        "url": "https://news.yahoo.co.jp/articles/b3ced9a6a6853b1f6914590b7900bdaeb670a313",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "GRCS、従業員のAI利用を可視化・管理する「従業員向けシャドーAI対策トータル支援パッケージ」を提供",
         "url": "https://news.yahoo.co.jp/articles/c9d8306daaf0e309fa56784e48a91a7dd655de5f",
         "source": "Yahoo",
@@ -7675,24 +7801,24 @@
       {
         "title": "CORTIS、アーティストの車両にGPSを取り付けたサセンファンを摘発",
         "url": "https://news.yahoo.co.jp/articles/30939cfafa5f692588e30ab8ab8a8daf0425f70e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "政府のAI基本計画素案 パブコメに大量の「AI作成」意見か",
-        "url": "https://news.yahoo.co.jp/articles/cf9456f4f31d41dbf6f5c0d8c0cdcbe068ccba0e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "週明け国会、正常化焦点 カギ握る予算委・党首討論 維新は会期延長要求へ",
-        "url": "https://news.yahoo.co.jp/articles/a4da1129ccd95c60d317f8299d7638d9593f681a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "個人情報漏えい、１万９０００件超政府は７日の閣議で、個人情報保護委員会の２０２５年度年次報告を決定した。個人情報保護法に基づいて同年度中に報告があった漏えいの件数は、１万９４１７件に上った。写真は、閣議に臨む高市早苗首相（中央）ら。時事通信政治7/7(火) 16:04",
+        "url": "https://news.yahoo.co.jp/articles/26775a11efada19e99d66705c97131417ea50033/images/000",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "個人情報漏えい、1万9000件超 25年度報告、過去2番目の多さ 政府は7日の閣議で、個人情報保護委員会の2025年度年次報告を決定した。 個人情報保護法に基づいて同年度中に報告があった漏えいの件数は、過去最高だった24年",
+        "url": "https://news.yahoo.co.jp/articles/b3ced9a6a6853b1f6914590b7900bdaeb670a313",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "GRCS、従業員のAI利用を可視化・管理する「従業員向けシャドーAI対策トータル支援パッケージ」を提供",
         "url": "https://news.yahoo.co.jp/articles/c9d8306daaf0e309fa56784e48a91a7dd655de5f",
         "source": "Yahoo",
@@ -7713,24 +7839,24 @@
       {
         "title": "CORTIS、アーティストの車両にGPSを取り付けたサセンファンを摘発",
         "url": "https://news.yahoo.co.jp/articles/30939cfafa5f692588e30ab8ab8a8daf0425f70e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "政府のAI基本計画素案 パブコメに大量の「AI作成」意見か",
-        "url": "https://news.yahoo.co.jp/articles/cf9456f4f31d41dbf6f5c0d8c0cdcbe068ccba0e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "週明け国会、正常化焦点 カギ握る予算委・党首討論 維新は会期延長要求へ",
-        "url": "https://news.yahoo.co.jp/articles/a4da1129ccd95c60d317f8299d7638d9593f681a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "個人情報漏えい、１万９０００件超政府は７日の閣議で、個人情報保護委員会の２０２５年度年次報告を決定した。個人情報保護法に基づいて同年度中に報告があった漏えいの件数は、１万９４１７件に上った。写真は、閣議に臨む高市早苗首相（中央）ら。時事通信政治7/7(火) 16:04",
+        "url": "https://news.yahoo.co.jp/articles/26775a11efada19e99d66705c97131417ea50033/images/000",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "個人情報漏えい、1万9000件超 25年度報告、過去2番目の多さ 政府は7日の閣議で、個人情報保護委員会の2025年度年次報告を決定した。 個人情報保護法に基づいて同年度中に報告があった漏えいの件数は、過去最高だった24年",
+        "url": "https://news.yahoo.co.jp/articles/b3ced9a6a6853b1f6914590b7900bdaeb670a313",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "GRCS、従業員のAI利用を可視化・管理する「従業員向けシャドーAI対策トータル支援パッケージ」を提供",
         "url": "https://news.yahoo.co.jp/articles/c9d8306daaf0e309fa56784e48a91a7dd655de5f",
         "source": "Yahoo",
@@ -7751,18 +7877,6 @@
       {
         "title": "CORTIS、アーティストの車両にGPSを取り付けたサセンファンを摘発",
         "url": "https://news.yahoo.co.jp/articles/30939cfafa5f692588e30ab8ab8a8daf0425f70e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "政府のAI基本計画素案 パブコメに大量の「AI作成」意見か",
-        "url": "https://news.yahoo.co.jp/articles/cf9456f4f31d41dbf6f5c0d8c0cdcbe068ccba0e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "週明け国会、正常化焦点 カギ握る予算委・党首討論 維新は会期延長要求へ",
-        "url": "https://news.yahoo.co.jp/articles/a4da1129ccd95c60d317f8299d7638d9593f681a",
         "source": "Yahoo",
         "date": ""
       }
