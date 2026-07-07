@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-07-06T22:47:18.003Z",
+  "generatedAt": "2026-07-07T01:20:58.588Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "マネタリーベースと日本銀行の取引（6月）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mbt/mbt2606.pdf",
+      "date": "2026-07-06",
+      "detectedAt": "2026-07-07T01:20:58.588Z",
+      "enriched": "2026-07-07T01:21:04.332Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "長期国債買入が6月末時点で5兆1,834億円で、前月比14万7,932億円減少。国債売現先は逆に5月の341,959億円から179,275億円に減少、気候変動対応オペは211,146億円で前月同水準。",
+        "日本銀行は長期国債・共通担保オペ・気候変動対応オペ・貸出支援基金等の各種操作を継続運用し、マネタリーベース調整を行う必要がある。",
+        "本統計は2026年6月末の取引残高を示し、毎月継続的に公表される日本銀行の金融調節実績である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行の対政府取引（6月）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2606.pdf",
+      "date": "2026-07-06",
+      "detectedAt": "2026-07-07T01:20:58.588Z",
+      "enriched": "2026-07-07T01:21:04.332Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年6月末時点で、日本銀行が国債整理基金に対する長期国債売現先残高は179,275億円で、月中に162,684億円減少した（買戻額468,409億円から売却額305,725億円を差引）。",
+        "日本銀行は6月、政府短期証券引受残高・割引短期国債借換引受残高・各種買入残高・財政融資資金向け取引いずれも残高がゼロで、新規取引なし。",
+        "対政府取引は日本銀行企画局が毎月公表する統計資料で、ストック表と月中フロー表により政府債務管理の透明性を確保している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "オペレーション（6月）",
+      "url": "https://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2606.xlsx",
+      "date": "2026-07-06",
+      "detectedAt": "2026-07-07T01:20:58.588Z",
+      "enriched": "2026-07-07T01:21:04.332Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がバイナリ形式（暗号化されたExcelファイル）であり、テキスト情報を抽出できません。具体的な内容の把握には、復号化またはファイル形式の変換が必要です。",
+        "6月のオペレーション実績に関する統計情報が含まれているとみられますが、本文から具体的な数値、変更内容、対象者、適用日を特定できません。",
+        "日本銀行の公式資料の確認またはPDF形式での提供を推奨します。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[JPX総研]JPX日経中小型株指数の構成銘柄の除外について",
@@ -6819,6 +6864,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "英FCA、AIとトークン化が個人向け金融サービスに大きな変革をもたらすと警告",
+        "url": "https://news.yahoo.co.jp/articles/72da93ad958ce34ef7dc16562e0861ad92c53a38",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "2030年、金融市場は24時間365日へ──TradFi Perpetualが示す金融市場・ビットコインの未来【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5621aaad83500090c12223e4c8860954139ed554",
         "source": "Yahoo",
@@ -6845,18 +6896,18 @@
       {
         "title": "リップル、MiCAライセンス取得──XRP価格は7月に1.40ドルを突破するか【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/f88a8117867a0ba6c5b77f232e8d05902e7305cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「最大のリスクはマクロ経済」──米暗号資産銀行幹部が語るビットコイン下半期の3大リスク",
-        "url": "https://news.yahoo.co.jp/articles/cde5ba510792650fb7b0c150c33f67bdd4bb176b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "英FCA、AIとトークン化が個人向け金融サービスに大きな変革をもたらすと警告",
+        "url": "https://news.yahoo.co.jp/articles/72da93ad958ce34ef7dc16562e0861ad92c53a38",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "2030年、金融市場は24時間365日へ──TradFi Perpetualが示す金融市場・ビットコインの未来【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5621aaad83500090c12223e4c8860954139ed554",
         "source": "Yahoo",
@@ -6883,12 +6934,6 @@
       {
         "title": "リップル、MiCAライセンス取得──XRP価格は7月に1.40ドルを突破するか【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/f88a8117867a0ba6c5b77f232e8d05902e7305cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「最大のリスクはマクロ経済」──米暗号資産銀行幹部が語るビットコイン下半期の3大リスク",
-        "url": "https://news.yahoo.co.jp/articles/cde5ba510792650fb7b0c150c33f67bdd4bb176b",
         "source": "Yahoo",
         "date": ""
       }
