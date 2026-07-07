@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-07T01:20:58.588Z",
+  "generatedAt": "2026-07-07T05:50:01.509Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "消費活動指数",
+      "url": "https://www.boj.or.jp/research/research_data/cai/index.htm",
+      "date": "2026-07-07",
+      "detectedAt": "2026-07-07T05:50:01.509Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は消費活動指数を毎月第5営業日14:00に公表し、2026年4月に2020年基準への改定に伴う見直しを実施、名目値・実質値、旅行収支調整の有無など複数系列を提供している。",
+        "個人消費動向の把握が必要な政策当局・分析担当者は、財・サービス販売統計を基礎とした月次・四半期の消費活動指数（耐久財8.6%、非耐久財44.3%、サービス47.1%）を活用し景気判断に活かすべき。",
+        "季節調整はX-12-ARIMA使用で毎年4月頃全期間データで替え実施、ARIMA次数は原則automdlで選択、曜日・祝日・異常値調整はAICベースで判定（2026年5月時点スペック適用）。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-07T05:50:06.719Z"
+    },
     {
       "agency": "日本銀行",
       "title": "マネタリーベースと日本銀行の取引（6月）",
@@ -4000,21 +4016,6 @@
     },
     {
       "agency": "日本銀行",
-      "title": "消費活動指数",
-      "url": "https://www.boj.or.jp/research/research_data/cai/index.htm",
-      "date": "2026-06-05",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:02:01.652Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行は消費活動指数を毎月第5営業日14:00に公表し、2026年4月に2020年基準への改定に伴う見直しを実施、名目値・実質値、旅行収支調整の有無など複数系列を提供している。",
-        "個人消費動向の把握が必要な政策当局・分析担当者は、財・サービス販売統計を基礎とした月次・四半期の消費活動指数（耐久財8.6%、非耐久財44.3%、サービス47.1%）を活用し景気判断に活かすべき。",
-        "季節調整はX-12-ARIMA使用で毎年4月頃全期間データで替え実施、ARIMA次数は原則automdlで選択、曜日・祝日・異常値調整はAICベースで判定（2026年5月時点スペック適用）。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
       "title": "気候変動関連の市場機能サーベイ（第5回）調査結果",
       "url": "https://www.boj.or.jp/paym/m-climate/mcli260605a.htm",
       "date": "2026-06-05",
@@ -6636,82 +6637,88 @@
     ],
     "429M60000002007": [
       {
+        "title": "リップル、欧州でMiCA準拠のCASPライセンスを正式取得",
+        "url": "https://news.yahoo.co.jp/articles/732cdd50ea57476f121a7033629ee634b0d3ac14",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
+        "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCA下のCASP認可とEMI免許取得",
+        "url": "https://news.yahoo.co.jp/articles/2eb2533a2e624e25191bcd26717f1ee9bac45124",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Ripple、MiCAライセンスを正式取得──欧州30カ国で暗号資産サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/73165b3d5b47debde62a3e0f1bdf59f0f59c4ae5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラリティ法、次の焦点は8月6日か。法執行機関の対応分裂や倫理規定が争点に＝報道",
+        "url": "https://news.yahoo.co.jp/articles/8fb92d5e471f76c371bff54a9a324851fd7ce7eb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "2030年、金融市場は24時間365日へ──TradFi Perpetualが示す金融市場・ビットコインの未来【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5621aaad83500090c12223e4c8860954139ed554",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏「暗号資産を大いに支持」と発言──家族の暗号資産事業とは距離強調",
-        "url": "https://news.yahoo.co.jp/articles/419a37bc4c137b2e15b2140316f5753cbbb3e88a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融商品では他社と差が付かない",
-        "url": "https://news.yahoo.co.jp/articles/53bf26f24621e85c398f7816dd7c3e8eb7f7a0e0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、MiCAライセンス取得──XRP価格は7月に1.40ドルを突破するか【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/f88a8117867a0ba6c5b77f232e8d05902e7305cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「最大のリスクはマクロ経済」──米暗号資産銀行幹部が語るビットコイン下半期の3大リスク",
-        "url": "https://news.yahoo.co.jp/articles/cde5ba510792650fb7b0c150c33f67bdd4bb176b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Binanceから12億ドルの資金流出──前週比約3倍に増加",
-        "url": "https://news.yahoo.co.jp/articles/b42591490eaf79c96653302ef55cced00f7b4bf4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "リップル、欧州でMiCA準拠のCASPライセンスを正式取得",
+        "url": "https://news.yahoo.co.jp/articles/732cdd50ea57476f121a7033629ee634b0d3ac14",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
+        "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCA下のCASP認可とEMI免許取得",
+        "url": "https://news.yahoo.co.jp/articles/2eb2533a2e624e25191bcd26717f1ee9bac45124",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Ripple、MiCAライセンスを正式取得──欧州30カ国で暗号資産サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/73165b3d5b47debde62a3e0f1bdf59f0f59c4ae5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラリティ法、次の焦点は8月6日か。法執行機関の対応分裂や倫理規定が争点に＝報道",
+        "url": "https://news.yahoo.co.jp/articles/8fb92d5e471f76c371bff54a9a324851fd7ce7eb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "2030年、金融市場は24時間365日へ──TradFi Perpetualが示す金融市場・ビットコインの未来【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5621aaad83500090c12223e4c8860954139ed554",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏「暗号資産を大いに支持」と発言──家族の暗号資産事業とは距離強調",
-        "url": "https://news.yahoo.co.jp/articles/419a37bc4c137b2e15b2140316f5753cbbb3e88a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融商品では他社と差が付かない",
-        "url": "https://news.yahoo.co.jp/articles/53bf26f24621e85c398f7816dd7c3e8eb7f7a0e0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、MiCAライセンス取得──XRP価格は7月に1.40ドルを突破するか【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/f88a8117867a0ba6c5b77f232e8d05902e7305cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「最大のリスクはマクロ経済」──米暗号資産銀行幹部が語るビットコイン下半期の3大リスク",
-        "url": "https://news.yahoo.co.jp/articles/cde5ba510792650fb7b0c150c33f67bdd4bb176b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Binanceから12億ドルの資金流出──前週比約3倍に増加",
-        "url": "https://news.yahoo.co.jp/articles/b42591490eaf79c96653302ef55cced00f7b4bf4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422M60000002004": [
       {
+        "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
+        "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
         "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
         "source": "Yahoo",
@@ -6738,18 +6745,18 @@
       {
         "title": "このままでは日本と心中しかねない",
         "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進",
-        "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
+        "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
         "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
         "source": "Yahoo",
@@ -6776,12 +6783,6 @@
       {
         "title": "このままでは日本と心中しかねない",
         "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進",
-        "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
         "source": "Yahoo",
         "date": ""
       }
@@ -6864,76 +6865,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "リップル、欧州でMiCA準拠のCASPライセンスを正式取得",
+        "url": "https://news.yahoo.co.jp/articles/732cdd50ea57476f121a7033629ee634b0d3ac14",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
+        "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCA下のCASP認可とEMI免許取得",
+        "url": "https://news.yahoo.co.jp/articles/2eb2533a2e624e25191bcd26717f1ee9bac45124",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソニー銀行、米国でステーブルコイン事業展開へ。OCCより信託子会社設立の条件付き承認取得",
+        "url": "https://news.yahoo.co.jp/articles/dcabe7b79d6075271fe7aff397c3f29a935cb50b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソニー銀行、ドル建てステーブルコイン発行に向け米国子会社設立へ",
+        "url": "https://news.yahoo.co.jp/articles/45f1fc3793ed23b257ecae45e4b874c5915e9530",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英FCA、AIとトークン化が個人向け金融サービスに大きな変革をもたらすと警告",
         "url": "https://news.yahoo.co.jp/articles/72da93ad958ce34ef7dc16562e0861ad92c53a38",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "2030年、金融市場は24時間365日へ──TradFi Perpetualが示す金融市場・ビットコインの未来【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5621aaad83500090c12223e4c8860954139ed554",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融商品では他社と差が付かない",
-        "url": "https://news.yahoo.co.jp/articles/53bf26f24621e85c398f7816dd7c3e8eb7f7a0e0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "USDC、ステーブルコイン取引高でUSDTとの差広げる＝Visa",
-        "url": "https://news.yahoo.co.jp/articles/88415dc22fe8965e9479d8f32b3f8e169b3d7e13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIが買い物を代行する時代、企業はどう選ばれるのか。シンプレクス三浦氏が語るオンチェーンの未来",
-        "url": "https://news.yahoo.co.jp/articles/cb7df86da9807c79d082b768c671c7ce9a711482",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、MiCAライセンス取得──XRP価格は7月に1.40ドルを突破するか【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/f88a8117867a0ba6c5b77f232e8d05902e7305cd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "リップル、欧州でMiCA準拠のCASPライセンスを正式取得",
+        "url": "https://news.yahoo.co.jp/articles/732cdd50ea57476f121a7033629ee634b0d3ac14",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
+        "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ストライプ傘下ステーブルコイン決済のブリッジ、MiCA下のCASP認可とEMI免許取得",
+        "url": "https://news.yahoo.co.jp/articles/2eb2533a2e624e25191bcd26717f1ee9bac45124",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソニー銀行、米国でステーブルコイン事業展開へ。OCCより信託子会社設立の条件付き承認取得",
+        "url": "https://news.yahoo.co.jp/articles/dcabe7b79d6075271fe7aff397c3f29a935cb50b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソニー銀行、ドル建てステーブルコイン発行に向け米国子会社設立へ",
+        "url": "https://news.yahoo.co.jp/articles/45f1fc3793ed23b257ecae45e4b874c5915e9530",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英FCA、AIとトークン化が個人向け金融サービスに大きな変革をもたらすと警告",
         "url": "https://news.yahoo.co.jp/articles/72da93ad958ce34ef7dc16562e0861ad92c53a38",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "2030年、金融市場は24時間365日へ──TradFi Perpetualが示す金融市場・ビットコインの未来【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5621aaad83500090c12223e4c8860954139ed554",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融商品では他社と差が付かない",
-        "url": "https://news.yahoo.co.jp/articles/53bf26f24621e85c398f7816dd7c3e8eb7f7a0e0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "USDC、ステーブルコイン取引高でUSDTとの差広げる＝Visa",
-        "url": "https://news.yahoo.co.jp/articles/88415dc22fe8965e9479d8f32b3f8e169b3d7e13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIが買い物を代行する時代、企業はどう選ばれるのか。シンプレクス三浦氏が語るオンチェーンの未来",
-        "url": "https://news.yahoo.co.jp/articles/cb7df86da9807c79d082b768c671c7ce9a711482",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、MiCAライセンス取得──XRP価格は7月に1.40ドルを突破するか【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/f88a8117867a0ba6c5b77f232e8d05902e7305cd",
         "source": "Yahoo",
         "date": ""
       }
