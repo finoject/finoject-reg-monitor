@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-08T01:08:22.579Z",
+  "generatedAt": "2026-07-08T04:51:45.185Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）ＰＲＯ ＨＯＬＤＩＮＧＳ",
+      "url": "https://www.jpx.co.jp/news/1031/20260708_01.html",
+      "date": "2026-07-08",
+      "detectedAt": "2026-07-08T04:51:45.185Z",
+      "enriched": "2026-07-08T04:51:50.209Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ＰＲＯ ＨＯＬＤＩＮＧＳ（コード594A）の7月9日上場時、板中心値段430円から気配運用を開始し、上限989円・下限323円の範囲で段階的に気配を更新する。",
+        "取引参加者は、新規上場日の売買において成行呼値を禁止され、注文受付価格は108円以上1,720円以下の範囲で指値注文のみ受け付ける。",
+        "初値決定まで制限値幅は適用されず、初値決定後に当該初値を基準値段として制限値幅が適用される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "貸出金・債券・預金の期間別残高（2025年9月末）",
@@ -6568,6 +6583,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
+        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
+        "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
         "source": "Yahoo",
@@ -6588,24 +6615,24 @@
       {
         "title": "JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ",
         "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
-        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
-        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
+        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
+        "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
         "source": "Yahoo",
@@ -6626,24 +6653,24 @@
       {
         "title": "JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ",
         "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
-        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
-        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
+        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
+        "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
         "source": "Yahoo",
@@ -6664,24 +6691,24 @@
       {
         "title": "JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ",
         "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
-        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
-        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
+        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
+        "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
         "source": "Yahoo",
@@ -6704,21 +6731,15 @@
         "url": "https://news.yahoo.co.jp/articles/060027cbaf40ad4af9c1f441f411f822c372cb09",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
-        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
-        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
+        "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
@@ -6746,18 +6767,18 @@
       {
         "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
         "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
-        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
+        "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
         "source": "Yahoo",
@@ -6786,15 +6807,21 @@
         "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "国内暗号資産ETF実現へ──N.Avenueと日鉄ソリューションズ、暗号資産インデックス協議会の報告書公表",
-        "url": "https://news.yahoo.co.jp/articles/23e202b8012ff1af73ee7d8be52ee6a08b5667d2",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は? 仮想通貨の法規制についてQ&A形式で分かりやすく解説します。 Q 仮想通貨（暗号資産）を規制する法律が変わるって聞いたよ。 A これまで仮想通",
+        "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、フィリピン再参入へ前進。現地パートナーがSECサンドボックスで試験承認",
+        "url": "https://news.yahoo.co.jp/articles/e922c2eb7ed267e9baef2215b65ff6a5181a9462",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "Coinbase、イギリスの投資サービス認可を取得",
         "url": "https://news.yahoo.co.jp/articles/a9ac17fdcf2311d465bbc4de53c22b2009bc8a7f",
@@ -6816,24 +6843,24 @@
       {
         "title": "SEC、暗号資産規制の明確化へ──2026年アジェンダで方針示す",
         "url": "https://news.yahoo.co.jp/articles/24a5f64c8e2562b8e28863b83883283bf3be974c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、トラベルルール対象に5法域追加──8月3日から適用",
-        "url": "https://news.yahoo.co.jp/articles/ac459b26758a4dff2491e683389cea0ea9bf2f5a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "露スベルバンク、暗号資産ウォレット提供へ。銀行アプリへの統合を計画",
-        "url": "https://news.yahoo.co.jp/articles/0a8d359943c94ee2ba7991fb2ccfad47e6e9d3c0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は? 仮想通貨の法規制についてQ&A形式で分かりやすく解説します。 Q 仮想通貨（暗号資産）を規制する法律が変わるって聞いたよ。 A これまで仮想通",
+        "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、フィリピン再参入へ前進。現地パートナーがSECサンドボックスで試験承認",
+        "url": "https://news.yahoo.co.jp/articles/e922c2eb7ed267e9baef2215b65ff6a5181a9462",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Coinbase、イギリスの投資サービス認可を取得",
         "url": "https://news.yahoo.co.jp/articles/a9ac17fdcf2311d465bbc4de53c22b2009bc8a7f",
         "source": "Yahoo",
@@ -6854,18 +6881,6 @@
       {
         "title": "SEC、暗号資産規制の明確化へ──2026年アジェンダで方針示す",
         "url": "https://news.yahoo.co.jp/articles/24a5f64c8e2562b8e28863b83883283bf3be974c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、トラベルルール対象に5法域追加──8月3日から適用",
-        "url": "https://news.yahoo.co.jp/articles/ac459b26758a4dff2491e683389cea0ea9bf2f5a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "露スベルバンク、暗号資産ウォレット提供へ。銀行アプリへの統合を計画",
-        "url": "https://news.yahoo.co.jp/articles/0a8d359943c94ee2ba7991fb2ccfad47e6e9d3c0",
         "source": "Yahoo",
         "date": ""
       }
@@ -7024,76 +7039,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "Coinbase、イギリスの投資サービス認可を取得",
-        "url": "https://news.yahoo.co.jp/articles/a9ac17fdcf2311d465bbc4de53c22b2009bc8a7f",
+        "title": "SBI・大和証券ら5社、セキュリティトークン海外取引にイーサリアム活用",
+        "url": "https://news.yahoo.co.jp/articles/81df800a3c3c1d1b62aa432a06dea8b12fd2d2db",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI証券と大和証券、海外から日本のSTに投資できる仕組みを構築へ──2027年にも開始＝日経",
-        "url": "https://news.yahoo.co.jp/articles/bccc754c0b5093107607c9c35397ac14ffd20dc3",
+        "title": "SBI、米国の機関投資家向け暗号資産取引所に約120億円出資",
+        "url": "https://news.yahoo.co.jp/articles/40f5678d663e3ba5ce8baef323a75713f3c2c1ab",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ネットスターズ、Cantonと協業──「StarPay-X」でWeb3決済の社会実装目指す",
-        "url": "https://news.yahoo.co.jp/articles/c3ee58429df2cd70ddb16f0d9d31b04f88d9bb6d",
+        "title": "テザー、ビットコインネイティブのUSDT展開へ。UTEXO活用で＝報道",
+        "url": "https://news.yahoo.co.jp/articles/f87846079ebcb8a0a3902b1dbd38e07c4f1f19ee",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "日本初、「JPYC」での自動販売機決済を実証実験。INSPAY主導で",
-        "url": "https://news.yahoo.co.jp/articles/c5b9e5e45a1d5d7997911efe85038ebf4381da6a",
+        "title": "Tether、ブラジルの暗号資産取引所Mercado Bitcoinに2000万ドル出資",
+        "url": "https://news.yahoo.co.jp/articles/8223ccfc717ad52bfd57792bae6430242851557c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ネットスターズがカントン財団とMOU、Web3決済普及に向け",
-        "url": "https://news.yahoo.co.jp/articles/ed84c569291c43c927e32e5218f59934447aad11",
+        "title": "SBI証券と大和証券ら5社、国内デジタル証券の越境取引を実証。イーサリアムとUSDC活用",
+        "url": "https://news.yahoo.co.jp/articles/e7e103f3a3fbd4fe71558c4f613f29eb761cc381",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "OKX、ベネズエラ地震支援で対象ユーザーに20USDT付与",
-        "url": "https://news.yahoo.co.jp/articles/935239b3c7eb716b55ead5a0cf4eff0da9823716",
+        "title": "SBI VCトレード、口座登録数200万突破。ビットポイントとの統合は12月末頃を予定",
+        "url": "https://news.yahoo.co.jp/articles/6cf88f0e0d32872e5c1856c31ab76ced612d0c8e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "Coinbase、イギリスの投資サービス認可を取得",
-        "url": "https://news.yahoo.co.jp/articles/a9ac17fdcf2311d465bbc4de53c22b2009bc8a7f",
+        "title": "SBI・大和証券ら5社、セキュリティトークン海外取引にイーサリアム活用",
+        "url": "https://news.yahoo.co.jp/articles/81df800a3c3c1d1b62aa432a06dea8b12fd2d2db",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI証券と大和証券、海外から日本のSTに投資できる仕組みを構築へ──2027年にも開始＝日経",
-        "url": "https://news.yahoo.co.jp/articles/bccc754c0b5093107607c9c35397ac14ffd20dc3",
+        "title": "SBI、米国の機関投資家向け暗号資産取引所に約120億円出資",
+        "url": "https://news.yahoo.co.jp/articles/40f5678d663e3ba5ce8baef323a75713f3c2c1ab",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ネットスターズ、Cantonと協業──「StarPay-X」でWeb3決済の社会実装目指す",
-        "url": "https://news.yahoo.co.jp/articles/c3ee58429df2cd70ddb16f0d9d31b04f88d9bb6d",
+        "title": "テザー、ビットコインネイティブのUSDT展開へ。UTEXO活用で＝報道",
+        "url": "https://news.yahoo.co.jp/articles/f87846079ebcb8a0a3902b1dbd38e07c4f1f19ee",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "日本初、「JPYC」での自動販売機決済を実証実験。INSPAY主導で",
-        "url": "https://news.yahoo.co.jp/articles/c5b9e5e45a1d5d7997911efe85038ebf4381da6a",
+        "title": "Tether、ブラジルの暗号資産取引所Mercado Bitcoinに2000万ドル出資",
+        "url": "https://news.yahoo.co.jp/articles/8223ccfc717ad52bfd57792bae6430242851557c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ネットスターズがカントン財団とMOU、Web3決済普及に向け",
-        "url": "https://news.yahoo.co.jp/articles/ed84c569291c43c927e32e5218f59934447aad11",
+        "title": "SBI証券と大和証券ら5社、国内デジタル証券の越境取引を実証。イーサリアムとUSDC活用",
+        "url": "https://news.yahoo.co.jp/articles/e7e103f3a3fbd4fe71558c4f613f29eb761cc381",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "OKX、ベネズエラ地震支援で対象ユーザーに20USDT付与",
-        "url": "https://news.yahoo.co.jp/articles/935239b3c7eb716b55ead5a0cf4eff0da9823716",
+        "title": "SBI VCトレード、口座登録数200万突破。ビットポイントとの統合は12月末頃を予定",
+        "url": "https://news.yahoo.co.jp/articles/6cf88f0e0d32872e5c1856c31ab76ced612d0c8e",
         "source": "Yahoo",
         "date": ""
       }
@@ -7290,7 +7305,7 @@
     ],
     "358AC1000000032": [
       {
-        "title": "無登録でヤミ金を営み、知人に160万円を貸し付けた貸金業法違反容疑 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
+        "title": "無登録でヤミ金を営み、知人に210万円を貸し付けた疑い 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
         "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
         "source": "Yahoo",
         "date": ""
@@ -7328,7 +7343,7 @@
     ],
     "358CO0000000181": [
       {
-        "title": "無登録でヤミ金を営み、知人に160万円を貸し付けた貸金業法違反容疑 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
+        "title": "無登録でヤミ金を営み、知人に210万円を貸し付けた疑い 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
         "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
         "source": "Yahoo",
         "date": ""
@@ -7366,7 +7381,7 @@
     ],
     "358M50000040040": [
       {
-        "title": "無登録でヤミ金を営み、知人に160万円を貸し付けた貸金業法違反容疑 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
+        "title": "無登録でヤミ金を営み、知人に210万円を貸し付けた疑い 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
         "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
         "source": "Yahoo",
         "date": ""
@@ -7624,6 +7639,12 @@
     ],
     "417AC0000000086": [
       {
+        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
+        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
         "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
         "source": "Yahoo",
@@ -7650,18 +7671,18 @@
       {
         "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
         "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
-        "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
+        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
         "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
         "source": "Yahoo",
@@ -7688,18 +7709,18 @@
       {
         "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
         "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
-        "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
+        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
         "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
         "source": "Yahoo",
@@ -7726,18 +7747,18 @@
       {
         "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
         "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
-        "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
+        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
         "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
         "source": "Yahoo",
@@ -7764,18 +7785,18 @@
       {
         "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
         "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
-        "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
+        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
         "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
         "source": "Yahoo",
@@ -7802,12 +7823,6 @@
       {
         "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
         "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マクロスコープ：物言う株主、強まる「包囲網」 自民が対策会合",
-        "url": "https://news.yahoo.co.jp/articles/ad44ef06ab66da2d2b0302bc0e6d30957440d45c",
         "source": "Yahoo",
         "date": ""
       }
