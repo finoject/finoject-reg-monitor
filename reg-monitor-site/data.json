@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-08T07:57:13.907Z",
+  "generatedAt": "2026-07-08T10:38:01.148Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）ストレージ王",
+      "url": "https://www.jpx.co.jp/news/1023/20260708-11.html",
+      "date": "2026-07-08",
+      "detectedAt": "2026-07-08T10:38:01.148Z",
+      "enriched": "2026-07-08T10:38:10.318Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ストレージ王の株式（グロース市場、コード2997）が2026年7月8日から監理銘柄（確認中）に指定され、エリアリンク株式会社による公開買付け成立後の上場廃止手続き進行中。",
+        "同社株主及び投資家は、株式等売渡請求の承認または株式併合議案の承認により上場廃止となる可能性を認識し、保有株式の売却等の対応を検討する必要がある。",
+        "有価証券上場規程施行規則第604条第1項第23号・24号に基づき、上場廃止基準該当性が認定されるまでの間、監理銘柄（確認中）の指定が継続される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の基準値段等：ニッセイＥＴＦ ラッセル２０００（コード600A）",
+      "url": "https://www.jpx.co.jp/news/1030/20260708-03.html",
+      "date": "2026-07-08",
+      "detectedAt": "2026-07-08T10:38:01.148Z",
+      "enriched": "2026-07-08T10:38:10.318Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ニッセイETFラッセル2000（コード600A）が2026年7月9日に東証に新規上場され、基準値段は2,000円、値段上限値は2,500円、値段下限値は1,500円と設定された。",
+        "取引参加者および投資家は当該ETFについて売買単位1口での取引に対応し、制限値幅（上限2,500円、下限1,500円）の範囲内での売買を行う必要がある。",
+        "本件は2026年7月9日からの適用であり、東京証券取引所による新規上場基準値段等の公表に基づく。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
@@ -6856,6 +6886,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "SBIホールディングス、EDXマーケッツへ出資。機関投資家向けデジタルアセット市場インフラ強化へ",
+        "url": "https://news.yahoo.co.jp/articles/54f8f9d93ce30d6d7db7b5b0db4e549a23aaac18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、8月3日適用の暗号資産トラベルルール対象にアンギラなど5法域を追加",
         "url": "https://news.yahoo.co.jp/articles/5cd2a67012cb66c1bb1a9eca0d4befe0dafb11a0",
         "source": "Yahoo",
@@ -6882,18 +6918,18 @@
       {
         "title": "Coinbase、イギリスの投資サービス認可を取得",
         "url": "https://news.yahoo.co.jp/articles/a9ac17fdcf2311d465bbc4de53c22b2009bc8a7f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Vanguard、暗号資産戦略責任者を募集",
-        "url": "https://news.yahoo.co.jp/articles/d3cdb2ebaeaccbf10fcd421fa2068721f011e5b3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "SBIホールディングス、EDXマーケッツへ出資。機関投資家向けデジタルアセット市場インフラ強化へ",
+        "url": "https://news.yahoo.co.jp/articles/54f8f9d93ce30d6d7db7b5b0db4e549a23aaac18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、8月3日適用の暗号資産トラベルルール対象にアンギラなど5法域を追加",
         "url": "https://news.yahoo.co.jp/articles/5cd2a67012cb66c1bb1a9eca0d4befe0dafb11a0",
         "source": "Yahoo",
@@ -6920,12 +6956,6 @@
       {
         "title": "Coinbase、イギリスの投資サービス認可を取得",
         "url": "https://news.yahoo.co.jp/articles/a9ac17fdcf2311d465bbc4de53c22b2009bc8a7f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Vanguard、暗号資産戦略責任者を募集",
-        "url": "https://news.yahoo.co.jp/articles/d3cdb2ebaeaccbf10fcd421fa2068721f011e5b3",
         "source": "Yahoo",
         "date": ""
       }
@@ -7084,6 +7114,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI証券・大和証券ら5社、STのクロスボーダー取引を実証──イーサリアム上で即時決済を目指す",
+        "url": "https://news.yahoo.co.jp/articles/a84041630b9ae1564525fada0f7a1960bd17a3a1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIホールディングス、EDXマーケッツへ出資。機関投資家向けデジタルアセット市場インフラ強化へ",
+        "url": "https://news.yahoo.co.jp/articles/54f8f9d93ce30d6d7db7b5b0db4e549a23aaac18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kaia、韓国最大の地銀BNK釜山銀行とのデジタル地域通貨実証を完了",
         "url": "https://news.yahoo.co.jp/articles/dfbb591d9c6d1be8ff8677591839f60364802db1",
         "source": "Yahoo",
@@ -7104,24 +7146,24 @@
       {
         "title": "SBI、米国の機関投資家向け暗号資産取引所に約120億円出資",
         "url": "https://news.yahoo.co.jp/articles/40f5678d663e3ba5ce8baef323a75713f3c2c1ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、ビットコインネイティブのUSDT展開へ。UTEXO活用で＝報道",
-        "url": "https://news.yahoo.co.jp/articles/f87846079ebcb8a0a3902b1dbd38e07c4f1f19ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Tether、ブラジルの暗号資産取引所Mercado Bitcoinに2000万ドル出資",
-        "url": "https://news.yahoo.co.jp/articles/8223ccfc717ad52bfd57792bae6430242851557c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI証券・大和証券ら5社、STのクロスボーダー取引を実証──イーサリアム上で即時決済を目指す",
+        "url": "https://news.yahoo.co.jp/articles/a84041630b9ae1564525fada0f7a1960bd17a3a1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIホールディングス、EDXマーケッツへ出資。機関投資家向けデジタルアセット市場インフラ強化へ",
+        "url": "https://news.yahoo.co.jp/articles/54f8f9d93ce30d6d7db7b5b0db4e549a23aaac18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kaia、韓国最大の地銀BNK釜山銀行とのデジタル地域通貨実証を完了",
         "url": "https://news.yahoo.co.jp/articles/dfbb591d9c6d1be8ff8677591839f60364802db1",
         "source": "Yahoo",
@@ -7142,18 +7184,6 @@
       {
         "title": "SBI、米国の機関投資家向け暗号資産取引所に約120億円出資",
         "url": "https://news.yahoo.co.jp/articles/40f5678d663e3ba5ce8baef323a75713f3c2c1ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、ビットコインネイティブのUSDT展開へ。UTEXO活用で＝報道",
-        "url": "https://news.yahoo.co.jp/articles/f87846079ebcb8a0a3902b1dbd38e07c4f1f19ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Tether、ブラジルの暗号資産取引所Mercado Bitcoinに2000万ドル出資",
-        "url": "https://news.yahoo.co.jp/articles/8223ccfc717ad52bfd57792bae6430242851557c",
         "source": "Yahoo",
         "date": ""
       }
@@ -7368,20 +7398,20 @@
         "date": ""
       },
       {
-        "title": "家計の金融資産、40年に株・投信・債券で4割に 政府の新金融戦略",
-        "url": "https://news.yahoo.co.jp/articles/7c07643c391ae9ed7c95fb0631b868a1fbd66627",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ヤミ金営み年利約180％の利息受け取り 容疑で鹿児島の山口組系組員ら2人逮捕 京都",
-        "url": "https://news.yahoo.co.jp/articles/e634a6f50df2fab564ac29d8c93487daad4e2241",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「もうあかん、このまま家族で",
+        "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
+        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
@@ -7406,20 +7436,20 @@
         "date": ""
       },
       {
-        "title": "家計の金融資産、40年に株・投信・債券で4割に 政府の新金融戦略",
-        "url": "https://news.yahoo.co.jp/articles/7c07643c391ae9ed7c95fb0631b868a1fbd66627",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ヤミ金営み年利約180％の利息受け取り 容疑で鹿児島の山口組系組員ら2人逮捕 京都",
-        "url": "https://news.yahoo.co.jp/articles/e634a6f50df2fab564ac29d8c93487daad4e2241",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「もうあかん、このまま家族で",
+        "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
+        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
@@ -7444,20 +7474,20 @@
         "date": ""
       },
       {
-        "title": "家計の金融資産、40年に株・投信・債券で4割に 政府の新金融戦略",
-        "url": "https://news.yahoo.co.jp/articles/7c07643c391ae9ed7c95fb0631b868a1fbd66627",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ヤミ金営み年利約180％の利息受け取り 容疑で鹿児島の山口組系組員ら2人逮捕 京都",
-        "url": "https://news.yahoo.co.jp/articles/e634a6f50df2fab564ac29d8c93487daad4e2241",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「もうあかん、このまま家族で",
+        "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
+        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
