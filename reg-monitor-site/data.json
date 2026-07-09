@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-08T23:42:05.237Z",
+  "generatedAt": "2026-07-09T04:36:08.747Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）ＴＨＥグローバル社",
+      "url": "https://www.jpx.co.jp/news/1023/20260709-11.html",
+      "date": "2026-07-09",
+      "detectedAt": "2026-07-09T04:36:08.747Z",
+      "enriched": "2026-07-09T04:36:13.020Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ＴＨＥグローバル社が特定の者以外の株主全てを端数化する株式併合を行うため、有価証券上場規程第６０１条第１項第１８号に該当し上場廃止が決定された。",
+        "同社株式は整理銘柄に指定される期間（2026年7月9日〜7月27日）を経て、2026年7月28日をもって上場廃止される。また2026年7月10日以降、信用取引等の代用有価証券から除外される。",
+        "株主総会で承認された株式併合議案により、東証スタンダード市場上場の同社（コード：3271）に対してこの処置が適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "マネーストック（6月）",
+      "url": "https://www.boj.or.jp/statistics/money/ms/ms2606.pdf",
+      "date": "2026-07-08",
+      "detectedAt": "2026-07-09T04:36:08.747Z",
+      "enriched": "2026-07-09T04:36:13.020Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年6月のM2は前年同月比2.2%増で季調済前月比−0.6%、M3は前年同月比1.5%増で季調済前月比−1.0%と発表された。",
+        "日本銀行が毎月公表するマネーストック統計により、金融機関・企業・個人の資金動向を把握する必要があり、実務担当者は月次データの変動を金融政策判断の参考情報として監視すること。",
+        "本速報は2026年7月9日8時50分に日本銀行調査統計局より対外公表され、M1・M2・M3・広義流動性（L）など主要指標が毎月更新される仕組み。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]監理銘柄（確認中）の指定：（株）ストレージ王",
@@ -6810,6 +6840,24 @@
     ],
     "421AC0000000059": [
       {
+        "title": "「マリオカート ツアー」9月30日サービス終了 オフライン版の予定はなし",
+        "url": "https://news.yahoo.co.jp/articles/4a3fda1de30a02526ad79dcd6b2a82684054c9e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Datachain、法人向けWeb3ウォレット提供開始──円建てステーブルコイン普及を見据え",
+        "url": "https://news.yahoo.co.jp/articles/bfb603c01b5ba1056ee0379f2a662670b4357b05",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "任天堂、スマホゲーム「マリオカート ツアー」9月30日に終了 未使用の有償ルビーは払い戻しへ",
+        "url": "https://news.yahoo.co.jp/articles/d03650615a1c3415454d1f31e136c15bc1ad4074",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金商法移行で暗号資産ビジネスは変わるのか──金融庁・業界団体・弁護士が語る規制のリアル【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/3dbd7766ea917a09a2eec61ce7b2d3a8b2915fb0",
         "source": "Yahoo",
@@ -6824,30 +6872,30 @@
       {
         "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
         "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Revolut、MiCA移行を受けてUSDTの取り扱いを停止",
-        "url": "https://news.yahoo.co.jp/articles/6fe94cd717a91e5f5f00c4f08b936ea53481fb6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
-        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "「マリオカート ツアー」9月30日サービス終了 オフライン版の予定はなし",
+        "url": "https://news.yahoo.co.jp/articles/4a3fda1de30a02526ad79dcd6b2a82684054c9e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Datachain、法人向けWeb3ウォレット提供開始──円建てステーブルコイン普及を見据え",
+        "url": "https://news.yahoo.co.jp/articles/bfb603c01b5ba1056ee0379f2a662670b4357b05",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "任天堂、スマホゲーム「マリオカート ツアー」9月30日に終了 未使用の有償ルビーは払い戻しへ",
+        "url": "https://news.yahoo.co.jp/articles/d03650615a1c3415454d1f31e136c15bc1ad4074",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金商法移行で暗号資産ビジネスは変わるのか──金融庁・業界団体・弁護士が語る規制のリアル【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/3dbd7766ea917a09a2eec61ce7b2d3a8b2915fb0",
         "source": "Yahoo",
@@ -6864,98 +6912,80 @@
         "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Revolut、MiCA移行を受けてUSDTの取り扱いを停止",
-        "url": "https://news.yahoo.co.jp/articles/6fe94cd717a91e5f5f00c4f08b936ea53481fb6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA新体制、金融庁WGのアカデミア陣が理事に就任",
-        "url": "https://news.yahoo.co.jp/articles/8924af77aa7bde7bce925ed10c6d851265a2002e",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
       {
+        "title": "ESMA、MiCA経過措置終了後初の暗号資産カストディ共通監督措置を開始",
+        "url": "https://news.yahoo.co.jp/articles/9a88e10118f3db259007be99966c19f80abd1795",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BNBチェーン、次世代レイヤー1開発へ。AIエージェントや機関利用見据え",
+        "url": "https://news.yahoo.co.jp/articles/5f3758ca032216fc8029aef8dc3f9c05dbdcdb06",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インド中銀、暗号資産「禁止寄り」政策を改めて主張。海外取引所経由の取引把握に懸念",
+        "url": "https://news.yahoo.co.jp/articles/ca5e48ea2e2435124af40d88b5b7df2d04cadef5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "量子コンピューターは暗号資産の壁を破るか－ビットコインに迫る試練",
+        "url": "https://news.yahoo.co.jp/articles/762576584930e4dd9148e8af8e87f20c785707e5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インド中銀、暗号資産を「禁止する方向」と改めて表明＝政府文書",
+        "url": "https://news.yahoo.co.jp/articles/e68fcad0adedc6f7c8fc5381b945620174ea25d1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "MiCA移行後のEU、規制当局がカストディアンの回復力審査を開始",
         "url": "https://news.yahoo.co.jp/articles/edb0b0cbeda1f5201e5c5775d1b5db04675f254b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米国政治家はなぜ暗号資産を保有するのか──ビットコインがワシントンを動かし始めた【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/91a1d56ad6336a0297c2d3d708529b1a4c8ab477",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インド中銀、暗号資産の禁止寄り政策を改めて支持＝Reuters",
-        "url": "https://news.yahoo.co.jp/articles/2dc0120cd5ec0c1d06c28a76d0fed589ae17f0ae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金商法移行で暗号資産ビジネスは変わるのか──金融庁・業界団体・弁護士が語る規制のリアル【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/3dbd7766ea917a09a2eec61ce7b2d3a8b2915fb0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kalshiの勤務先開示に限界、予測市場のインサイダー取引対策として不十分か──Predictive Labs CEO",
-        "url": "https://news.yahoo.co.jp/articles/79da847b91f79000dbd289a63e03d4022979d292",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIホールディングス、EDXマーケッツへ出資。機関投資家向けデジタルアセット市場インフラ強化へ",
-        "url": "https://news.yahoo.co.jp/articles/54f8f9d93ce30d6d7db7b5b0db4e549a23aaac18",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ESMA、MiCA経過措置終了後初の暗号資産カストディ共通監督措置を開始",
+        "url": "https://news.yahoo.co.jp/articles/9a88e10118f3db259007be99966c19f80abd1795",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BNBチェーン、次世代レイヤー1開発へ。AIエージェントや機関利用見据え",
+        "url": "https://news.yahoo.co.jp/articles/5f3758ca032216fc8029aef8dc3f9c05dbdcdb06",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インド中銀、暗号資産「禁止寄り」政策を改めて主張。海外取引所経由の取引把握に懸念",
+        "url": "https://news.yahoo.co.jp/articles/ca5e48ea2e2435124af40d88b5b7df2d04cadef5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "量子コンピューターは暗号資産の壁を破るか－ビットコインに迫る試練",
+        "url": "https://news.yahoo.co.jp/articles/762576584930e4dd9148e8af8e87f20c785707e5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インド中銀、暗号資産を「禁止する方向」と改めて表明＝政府文書",
+        "url": "https://news.yahoo.co.jp/articles/e68fcad0adedc6f7c8fc5381b945620174ea25d1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "MiCA移行後のEU、規制当局がカストディアンの回復力審査を開始",
         "url": "https://news.yahoo.co.jp/articles/edb0b0cbeda1f5201e5c5775d1b5db04675f254b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米国政治家はなぜ暗号資産を保有するのか──ビットコインがワシントンを動かし始めた【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/91a1d56ad6336a0297c2d3d708529b1a4c8ab477",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インド中銀、暗号資産の禁止寄り政策を改めて支持＝Reuters",
-        "url": "https://news.yahoo.co.jp/articles/2dc0120cd5ec0c1d06c28a76d0fed589ae17f0ae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金商法移行で暗号資産ビジネスは変わるのか──金融庁・業界団体・弁護士が語る規制のリアル【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/3dbd7766ea917a09a2eec61ce7b2d3a8b2915fb0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kalshiの勤務先開示に限界、予測市場のインサイダー取引対策として不十分か──Predictive Labs CEO",
-        "url": "https://news.yahoo.co.jp/articles/79da847b91f79000dbd289a63e03d4022979d292",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIホールディングス、EDXマーケッツへ出資。機関投資家向けデジタルアセット市場インフラ強化へ",
-        "url": "https://news.yahoo.co.jp/articles/54f8f9d93ce30d6d7db7b5b0db4e549a23aaac18",
         "source": "Yahoo",
         "date": ""
       }
@@ -7114,6 +7144,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "BNBチェーン、次世代レイヤー1開発へ。AIエージェントや機関利用見据え",
+        "url": "https://news.yahoo.co.jp/articles/5f3758ca032216fc8029aef8dc3f9c05dbdcdb06",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インド中銀、暗号資産「禁止寄り」政策を改めて主張。海外取引所経由の取引把握に懸念",
+        "url": "https://news.yahoo.co.jp/articles/ca5e48ea2e2435124af40d88b5b7df2d04cadef5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Datachain、法人向けWeb3ウォレット提供開始──円建てステーブルコイン普及を見据え",
+        "url": "https://news.yahoo.co.jp/articles/bfb603c01b5ba1056ee0379f2a662670b4357b05",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インド中銀、暗号資産を「禁止する方向」と改めて表明＝政府文書",
+        "url": "https://news.yahoo.co.jp/articles/e68fcad0adedc6f7c8fc5381b945620174ea25d1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米国政治家はなぜ暗号資産を保有するのか──ビットコインがワシントンを動かし始めた【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/91a1d56ad6336a0297c2d3d708529b1a4c8ab477",
         "source": "Yahoo",
@@ -7122,36 +7176,36 @@
       {
         "title": "Paradigm、12億ドルの新ファンド調達──AI・ロボティクスにも投資拡大",
         "url": "https://news.yahoo.co.jp/articles/392352321119aaad8edd9bd4476088ec66b94332",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インド中銀、暗号資産の禁止寄り政策を改めて支持＝Reuters",
-        "url": "https://news.yahoo.co.jp/articles/2dc0120cd5ec0c1d06c28a76d0fed589ae17f0ae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金商法移行で暗号資産ビジネスは変わるのか──金融庁・業界団体・弁護士が語る規制のリアル【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/3dbd7766ea917a09a2eec61ce7b2d3a8b2915fb0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kalshiの勤務先開示に限界、予測市場のインサイダー取引対策として不十分か──Predictive Labs CEO",
-        "url": "https://news.yahoo.co.jp/articles/79da847b91f79000dbd289a63e03d4022979d292",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI証券・大和証券ら5社、STのクロスボーダー取引を実証──イーサリアム上で即時決済を目指す",
-        "url": "https://news.yahoo.co.jp/articles/a84041630b9ae1564525fada0f7a1960bd17a3a1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "BNBチェーン、次世代レイヤー1開発へ。AIエージェントや機関利用見据え",
+        "url": "https://news.yahoo.co.jp/articles/5f3758ca032216fc8029aef8dc3f9c05dbdcdb06",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インド中銀、暗号資産「禁止寄り」政策を改めて主張。海外取引所経由の取引把握に懸念",
+        "url": "https://news.yahoo.co.jp/articles/ca5e48ea2e2435124af40d88b5b7df2d04cadef5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Datachain、法人向けWeb3ウォレット提供開始──円建てステーブルコイン普及を見据え",
+        "url": "https://news.yahoo.co.jp/articles/bfb603c01b5ba1056ee0379f2a662670b4357b05",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "インド中銀、暗号資産を「禁止する方向」と改めて表明＝政府文書",
+        "url": "https://news.yahoo.co.jp/articles/e68fcad0adedc6f7c8fc5381b945620174ea25d1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米国政治家はなぜ暗号資産を保有するのか──ビットコインがワシントンを動かし始めた【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/91a1d56ad6336a0297c2d3d708529b1a4c8ab477",
         "source": "Yahoo",
@@ -7160,30 +7214,6 @@
       {
         "title": "Paradigm、12億ドルの新ファンド調達──AI・ロボティクスにも投資拡大",
         "url": "https://news.yahoo.co.jp/articles/392352321119aaad8edd9bd4476088ec66b94332",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インド中銀、暗号資産の禁止寄り政策を改めて支持＝Reuters",
-        "url": "https://news.yahoo.co.jp/articles/2dc0120cd5ec0c1d06c28a76d0fed589ae17f0ae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金商法移行で暗号資産ビジネスは変わるのか──金融庁・業界団体・弁護士が語る規制のリアル【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/3dbd7766ea917a09a2eec61ce7b2d3a8b2915fb0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kalshiの勤務先開示に限界、予測市場のインサイダー取引対策として不十分か──Predictive Labs CEO",
-        "url": "https://news.yahoo.co.jp/articles/79da847b91f79000dbd289a63e03d4022979d292",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI証券・大和証券ら5社、STのクロスボーダー取引を実証──イーサリアム上で即時決済を目指す",
-        "url": "https://news.yahoo.co.jp/articles/a84041630b9ae1564525fada0f7a1960bd17a3a1",
         "source": "Yahoo",
         "date": ""
       }
@@ -7380,6 +7410,12 @@
     ],
     "358AC1000000032": [
       {
+        "title": "年利最大360％の高金利で違法融資か 37歳男をヤミ金容疑で逮捕 出資法違反や組織的犯罪処罰法違反など3つの容疑 富山",
+        "url": "https://news.yahoo.co.jp/articles/55e7cbc352910d1712677041ba8beebeae22f5a3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "無登録でヤミ金を営み、知人に210万円を貸し付けた疑い 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
         "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
         "source": "Yahoo",
@@ -7406,18 +7442,18 @@
       {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
-        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
+        "title": "年利最大360％の高金利で違法融資か 37歳男をヤミ金容疑で逮捕 出資法違反や組織的犯罪処罰法違反など3つの容疑 富山",
+        "url": "https://news.yahoo.co.jp/articles/55e7cbc352910d1712677041ba8beebeae22f5a3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "無登録でヤミ金を営み、知人に210万円を貸し付けた疑い 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
         "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
         "source": "Yahoo",
@@ -7444,18 +7480,18 @@
       {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
-        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
+        "title": "年利最大360％の高金利で違法融資か 37歳男をヤミ金容疑で逮捕 出資法違反や組織的犯罪処罰法違反など3つの容疑 富山",
+        "url": "https://news.yahoo.co.jp/articles/55e7cbc352910d1712677041ba8beebeae22f5a3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "無登録でヤミ金を営み、知人に210万円を貸し付けた疑い 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
         "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
         "source": "Yahoo",
@@ -7482,12 +7518,6 @@
       {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
-        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
@@ -7904,6 +7934,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "メルカリ、ヤフー、楽天 ECで不正利用のクレカ情報を警察庁と共有",
+        "url": "https://news.yahoo.co.jp/articles/231e9e34b88f6cb07b867d7b96fc667095e7a165",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "契約者情報の記憶装置が行方不明 九電子会社が再発防止策を公表",
         "url": "https://news.yahoo.co.jp/articles/de1284deea5e0c0f5ba10c9f17a82d066ac21bef",
         "source": "Yahoo",
@@ -7930,18 +7966,18 @@
       {
         "title": "GRCS、従業員のAI利用を可視化・管理する「従業員向けシャドーAI対策トータル支援パッケージ」を提供",
         "url": "https://news.yahoo.co.jp/articles/c9d8306daaf0e309fa56784e48a91a7dd655de5f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI開発なら同意不要 病歴も渡りうる個人情報保護法改正案の危うさ",
-        "url": "https://news.yahoo.co.jp/articles/4ba4269b277863732ffb3ca3c67cb2292a789d95",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "メルカリ、ヤフー、楽天 ECで不正利用のクレカ情報を警察庁と共有",
+        "url": "https://news.yahoo.co.jp/articles/231e9e34b88f6cb07b867d7b96fc667095e7a165",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "契約者情報の記憶装置が行方不明 九電子会社が再発防止策を公表",
         "url": "https://news.yahoo.co.jp/articles/de1284deea5e0c0f5ba10c9f17a82d066ac21bef",
         "source": "Yahoo",
@@ -7968,18 +8004,18 @@
       {
         "title": "GRCS、従業員のAI利用を可視化・管理する「従業員向けシャドーAI対策トータル支援パッケージ」を提供",
         "url": "https://news.yahoo.co.jp/articles/c9d8306daaf0e309fa56784e48a91a7dd655de5f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI開発なら同意不要 病歴も渡りうる個人情報保護法改正案の危うさ",
-        "url": "https://news.yahoo.co.jp/articles/4ba4269b277863732ffb3ca3c67cb2292a789d95",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "メルカリ、ヤフー、楽天 ECで不正利用のクレカ情報を警察庁と共有",
+        "url": "https://news.yahoo.co.jp/articles/231e9e34b88f6cb07b867d7b96fc667095e7a165",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "契約者情報の記憶装置が行方不明 九電子会社が再発防止策を公表",
         "url": "https://news.yahoo.co.jp/articles/de1284deea5e0c0f5ba10c9f17a82d066ac21bef",
         "source": "Yahoo",
@@ -8006,12 +8042,6 @@
       {
         "title": "GRCS、従業員のAI利用を可視化・管理する「従業員向けシャドーAI対策トータル支援パッケージ」を提供",
         "url": "https://news.yahoo.co.jp/articles/c9d8306daaf0e309fa56784e48a91a7dd655de5f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI開発なら同意不要 病歴も渡りうる個人情報保護法改正案の危うさ",
-        "url": "https://news.yahoo.co.jp/articles/4ba4269b277863732ffb3ca3c67cb2292a789d95",
         "source": "Yahoo",
         "date": ""
       }
