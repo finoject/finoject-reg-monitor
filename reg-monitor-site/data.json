@@ -1,6 +1,77 @@
 {
-  "generatedAt": "2026-07-09T11:31:15.544Z",
+  "generatedAt": "2026-07-09T14:12:21.815Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "「銀行法施行規則等の一部を改正する内閣府令」等の公布及びパブリックコメントの結果等の公表",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260709/20260709.html",
+      "date": "2026-07-09",
+      "detectedAt": "2026-07-09T14:12:21.815Z",
+      "lawrefs": [
+        {
+          "id": "fsa-kantoku-chusho",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "中小・地域金融機関向けの総合的な監督指針"
+        },
+        {
+          "id": "fsa-kantoku-city",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "主要行等向けの総合的な監督指針"
+        },
+        {
+          "id": "357M50000040010",
+          "art": "第1条",
+          "kind": "パブコメ",
+          "label": "銀行法施行規則 第1条"
+        },
+        {
+          "id": "356AC0000000059",
+          "art": "第50条",
+          "kind": "パブコメ",
+          "label": "銀行法 第50条"
+        },
+        {
+          "id": "356AC0000000059",
+          "art": "第53条",
+          "kind": "パブコメ",
+          "label": "銀行法 第53条"
+        },
+        {
+          "id": "356AC0000000059",
+          "art": "第64条",
+          "kind": "パブコメ",
+          "label": "銀行法 第64条"
+        },
+        {
+          "id": "356AC0000000059",
+          "art": "第30条",
+          "kind": "パブコメ",
+          "label": "銀行法 第30条"
+        },
+        {
+          "id": "356AC0000000059",
+          "art": "第21条",
+          "kind": "パブコメ",
+          "label": "銀行法 第21条"
+        },
+        {
+          "id": "356AC0000000059",
+          "art": "第52条の51",
+          "kind": "パブコメ",
+          "label": "銀行法 第52条の51"
+        }
+      ],
+      "enriched": "2026-07-09T14:12:28.580Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "早期事業再生手続に基づく事業再生会社を銀行等の子会社とすることを明確化するため、銀行法施行規則等を改正し、あわせて各監督指針を改正する。銀行・信用金庫・信用組合等の金融機関は改正後の規定に対応した体制整備が必要になる。令和8年12月11日施行の「円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律」に対応した銀行法施行規則等の改正。",
+        "早期警戒制度の枠組みで基準に該当した金融機関は、早期事業再生手続の利用ではなく、当局が促す他の経営改善対応策の策定・実施を確実かつ迅速に行う。銀行等が債務者としての立場で早期事業再生手続を開始する場合、当局への事前報告は法定されていない。本件改正及び関連監督指針改正（令和8年12月11日及び本日から適用）。",
+        "デジタル化による業務効率化は推進するが、寡占状態での不透明な価格形成やサービスの横並び提供に対し、コスト削減分の利用者への還元やデジタル格差への対応を含む利用者利益の確保が金融行政の課題として認識された。主要行等・中小・地域金融機関向け監督指針改正に関連。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "株券等貸借取引状況（週間）",
@@ -7219,6 +7290,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ドコモFG設立、グループサービスと連携強化で「優しい金融をみんなの手に」",
+        "url": "https://news.yahoo.co.jp/articles/1d740da1ece6c8ba3c000b010a82756af638e4a5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ドコモのパワーを集めて金融強化 新生ドコモFGは\"リアル”活用で成長",
         "url": "https://news.yahoo.co.jp/articles/20ed815b7ab4eddb14f886ca48d0e6ff67a97a90",
         "source": "Yahoo",
@@ -7245,18 +7322,18 @@
       {
         "title": "韓銀「韓国株式市場の持続的な下落の可能性は限定的",
         "url": "https://news.yahoo.co.jp/articles/13cbd94a0d04f60d711ae1a048b4c2cff472269b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーン、法人向けWeb3ウォレット「Datachain Wallet」先行評価版を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/d4c0e66911ff89f811f04056fe00d7eb61716df9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ドコモFG設立、グループサービスと連携強化で「優しい金融をみんなの手に」",
+        "url": "https://news.yahoo.co.jp/articles/1d740da1ece6c8ba3c000b010a82756af638e4a5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ドコモのパワーを集めて金融強化 新生ドコモFGは\"リアル”活用で成長",
         "url": "https://news.yahoo.co.jp/articles/20ed815b7ab4eddb14f886ca48d0e6ff67a97a90",
         "source": "Yahoo",
@@ -7283,12 +7360,6 @@
       {
         "title": "韓銀「韓国株式市場の持続的な下落の可能性は限定的",
         "url": "https://news.yahoo.co.jp/articles/13cbd94a0d04f60d711ae1a048b4c2cff472269b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーン、法人向けWeb3ウォレット「Datachain Wallet」先行評価版を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/d4c0e66911ff89f811f04056fe00d7eb61716df9",
         "source": "Yahoo",
         "date": ""
       }
@@ -8009,6 +8080,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "“別れ強要”の元巡査長 個人情報を不正入手し略式起訴 ストーカー違反などは不起訴 山梨",
+        "url": "https://news.yahoo.co.jp/articles/2a78bab8d46a598355ba45abe9ad2c6048df3dfb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "メルカリ、ヤフー、楽天 ECで不正利用のクレカ情報を警察庁と共有",
         "url": "https://news.yahoo.co.jp/articles/231e9e34b88f6cb07b867d7b96fc667095e7a165",
         "source": "Yahoo",
@@ -8035,18 +8112,18 @@
       {
         "title": "個人情報漏えい、1万9000件超 25年度報告、過去2番目の多さ 政府は7日の閣議で、個人情報保護委員会の2025年度年次報告を決定した。 個人情報保護法に基づいて同年度中に報告があった漏えいの件数は、過去最高だった24年",
         "url": "https://news.yahoo.co.jp/articles/b3ced9a6a6853b1f6914590b7900bdaeb670a313",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "GRCS、従業員のAI利用を可視化・管理する「従業員向けシャドーAI対策トータル支援パッケージ」を提供",
-        "url": "https://news.yahoo.co.jp/articles/c9d8306daaf0e309fa56784e48a91a7dd655de5f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "“別れ強要”の元巡査長 個人情報を不正入手し略式起訴 ストーカー違反などは不起訴 山梨",
+        "url": "https://news.yahoo.co.jp/articles/2a78bab8d46a598355ba45abe9ad2c6048df3dfb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "メルカリ、ヤフー、楽天 ECで不正利用のクレカ情報を警察庁と共有",
         "url": "https://news.yahoo.co.jp/articles/231e9e34b88f6cb07b867d7b96fc667095e7a165",
         "source": "Yahoo",
@@ -8073,18 +8150,18 @@
       {
         "title": "個人情報漏えい、1万9000件超 25年度報告、過去2番目の多さ 政府は7日の閣議で、個人情報保護委員会の2025年度年次報告を決定した。 個人情報保護法に基づいて同年度中に報告があった漏えいの件数は、過去最高だった24年",
         "url": "https://news.yahoo.co.jp/articles/b3ced9a6a6853b1f6914590b7900bdaeb670a313",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "GRCS、従業員のAI利用を可視化・管理する「従業員向けシャドーAI対策トータル支援パッケージ」を提供",
-        "url": "https://news.yahoo.co.jp/articles/c9d8306daaf0e309fa56784e48a91a7dd655de5f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "“別れ強要”の元巡査長 個人情報を不正入手し略式起訴 ストーカー違反などは不起訴 山梨",
+        "url": "https://news.yahoo.co.jp/articles/2a78bab8d46a598355ba45abe9ad2c6048df3dfb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "メルカリ、ヤフー、楽天 ECで不正利用のクレカ情報を警察庁と共有",
         "url": "https://news.yahoo.co.jp/articles/231e9e34b88f6cb07b867d7b96fc667095e7a165",
         "source": "Yahoo",
@@ -8111,12 +8188,6 @@
       {
         "title": "個人情報漏えい、1万9000件超 25年度報告、過去2番目の多さ 政府は7日の閣議で、個人情報保護委員会の2025年度年次報告を決定した。 個人情報保護法に基づいて同年度中に報告があった漏えいの件数は、過去最高だった24年",
         "url": "https://news.yahoo.co.jp/articles/b3ced9a6a6853b1f6914590b7900bdaeb670a313",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "GRCS、従業員のAI利用を可視化・管理する「従業員向けシャドーAI対策トータル支援パッケージ」を提供",
-        "url": "https://news.yahoo.co.jp/articles/c9d8306daaf0e309fa56784e48a91a7dd655de5f",
         "source": "Yahoo",
         "date": ""
       }
