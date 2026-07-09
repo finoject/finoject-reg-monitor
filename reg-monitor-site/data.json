@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T19:11:40.795Z",
+  "generatedAt": "2026-07-09T21:06:13.217Z",
   "items": [
     {
       "agency": "金融庁",
@@ -7062,6 +7062,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "CFTC委員長、クラリティ法案停滞に警鐘＝Fox Business",
+        "url": "https://news.yahoo.co.jp/articles/83387a543b5f8065911d78d8d459bcf7d2e18a09",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TradFiとオンチェーン市場を横断──日鉄ソリューションズなど5社が共同検証",
         "url": "https://news.yahoo.co.jp/articles/6dae8c18097d4513705f230765dd4026e2c8792f",
         "source": "Yahoo",
@@ -7088,18 +7094,18 @@
       {
         "title": "米上院議員、クラリティ法案の開発者保護条項「BRCA」維持を要求＝The Block",
         "url": "https://news.yahoo.co.jp/articles/0b660002449c6f541ef715d524e725e9f9f55fb8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ジェミナイ、米国で手数料無料の株式取引開始。金融スーパーアプリ構想を前進",
-        "url": "https://news.yahoo.co.jp/articles/e1fb0dcab59859987a2c9dd773bad5c952a5bde0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "CFTC委員長、クラリティ法案停滞に警鐘＝Fox Business",
+        "url": "https://news.yahoo.co.jp/articles/83387a543b5f8065911d78d8d459bcf7d2e18a09",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TradFiとオンチェーン市場を横断──日鉄ソリューションズなど5社が共同検証",
         "url": "https://news.yahoo.co.jp/articles/6dae8c18097d4513705f230765dd4026e2c8792f",
         "source": "Yahoo",
@@ -7126,12 +7132,6 @@
       {
         "title": "米上院議員、クラリティ法案の開発者保護条項「BRCA」維持を要求＝The Block",
         "url": "https://news.yahoo.co.jp/articles/0b660002449c6f541ef715d524e725e9f9f55fb8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ジェミナイ、米国で手数料無料の株式取引開始。金融スーパーアプリ構想を前進",
-        "url": "https://news.yahoo.co.jp/articles/e1fb0dcab59859987a2c9dd773bad5c952a5bde0",
         "source": "Yahoo",
         "date": ""
       }
