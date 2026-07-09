@@ -1,6 +1,97 @@
 {
-  "generatedAt": "2026-07-09T04:36:08.747Z",
+  "generatedAt": "2026-07-09T08:06:24.079Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-07-09",
+      "detectedAt": "2026-07-09T08:06:24.079Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-09T08:06:28.655Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "各地域からみた景気の現状（2026年7月支店長会議における報告）",
+      "url": "https://www.boj.or.jp/research/brp/rer/rera260709.htm",
+      "date": "2026-07-09",
+      "detectedAt": "2026-07-09T08:06:24.079Z",
+      "enriched": "2026-07-09T08:06:28.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "全地域で景気は緩やかな回復・持ち直しと判断されており、4月支店長会議時点から総括判断は全地域で維持されている。中東情勢の影響で物流停滞・原材料不足がみられるが、代替調達進展により大幅減少可能性は低下している。",
+        "企業は人手不足対応・生産性向上目的の省力化・デジタル化投資、AI関連需要に基づく能力増強・研究開発投資を積極展開しており、建設コスト上昇や工事進捗遅れの一部影響を受けながらも投資スタンスは維持されている。",
+        "2026年度は人材確保・係留観点から中小企業を含め2025年度並みの高水準賃上げを実施した企業が多い一方、価格転嫁遅れにより高水準賃上げが困難な企業や新規求人抑制企業があり、食料品・日用品で夏場以降の値上げ検討が進む。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "地域経済報告（さくらレポート、2026年7月）",
+      "url": "https://www.boj.or.jp/research/brp/rer/rer260709.htm",
+      "date": "2026-07-09",
+      "detectedAt": "2026-07-09T08:06:24.079Z",
+      "enriched": "2026-07-09T08:06:28.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月時点で全9地域の景気判断は「緩やかに回復」「持ち直し」「緩やかに持ち直し」のいずれかに分類され、関東甲信越では中東情勢の影響が一部弱めの動きとして新たに記載された。",
+        "金融機関や企業等は各地域の設備投資増加基調・公共投資の水準動向・個人消費の物価影響等を踏まえ、地域別の経営判断・融資姿勢を調整すべき。",
+        "本報告は2026年7月9日の日本銀行支店長会議に向けた地域経済調査の結果であり、金融政策運営及び地域経済分析の基礎となる参考資料として機能する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "東海地域業況判断DI（6月）",
+      "url": "https://www.boj.or.jp/statistics/other/toukai/toukai.xlsx",
+      "date": "2026-07-09",
+      "detectedAt": "2026-07-09T08:06:24.079Z",
+      "enriched": "2026-07-09T08:06:28.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がバイナリ形式（Excelファイル）であり、テキスト抽出が不可能なため、具体的な内容の抽出ができません。",
+        "東海地域業況判断DI（6月）の詳細データを確認するには、日本銀行公開資料の正規テキスト版の入手が必要です。",
+        "日本銀行の地域経済報告は定期公表物であり、金融機関・事業者は最新の業況判断を経営判断の参考にしています。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "関東甲信越地域業況判断DI（6月）",
+      "url": "https://www.boj.or.jp/statistics/other/kantou/kantou.xlsx",
+      "date": "2026-07-09",
+      "detectedAt": "2026-07-09T08:06:24.079Z",
+      "enriched": "2026-07-09T08:06:28.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が圧縮ファイル形式（Excel）となっており、具体的な業況判断DIの数値・対象地域・産業別評価等の記述内容を確認できない。",
+        "日本銀行が公表した関東甲信越地域の6月業況判断DIについて、実務上の対応が必要な場合は正規の本文資料にて確認が必須。",
+        "2026年7月9日公表の本統計は、金融規制法令の適用開始日や改正条項に関連しない統計情報であるため、直接的なコンプライアンス対応対象外。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]JPX日経中小型株指数の構成銘柄の除外について",
+      "url": "https://www.jpx.co.jp/news/6030/20260709-01.html",
+      "date": "2026-07-09",
+      "detectedAt": "2026-07-09T08:06:24.079Z",
+      "enriched": "2026-07-09T08:06:28.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX日経中小型株指数の構成銘柄からTHEグローバル社（証券コード3271）が整理銘柄への指定により除外される。",
+        "指数算出対象銘柄が200銘柄を下回った場合、原則として補充を行わず毎年8月の定期入替時に200銘柄に戻す運用ルール。",
+        "除外は2026年7月15日算出分から適用される。日本経済新聞社およびJPX総研による銘柄選定ルール基づく。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]上場廃止等の決定：（株）ＴＨＥグローバル社",
@@ -626,22 +717,6 @@
       ],
       "aiSumV": 3,
       "updated": true,
-      "enriched": "2026-07-02T09:46:27.657Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-07-02",
-      "detectedAt": "2026-07-02T09:46:22.264Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
       "enriched": "2026-07-02T09:46:27.657Z"
     },
     {
@@ -6688,6 +6763,24 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "【速報】三井住友信託銀行、外国籍ファンド受益権のトークン化実証開始。イーサリアム採用で",
+        "url": "https://news.yahoo.co.jp/articles/b7559ce158a8686b73fa60dd4bfdf7778316b653",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三井住友トラスト、“外国籍”ファンドをパブリックブロックチェーンでトークン化──「グローバルスタンダード」に挑戦",
+        "url": "https://news.yahoo.co.jp/articles/5a109adfe92689cdb1b4337d43c0243450185f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金商法移行後、金融機関の暗号資産事業参入を阻む3つの壁──デジタルアセットマーケッツらが示す実装の現実",
+        "url": "https://news.yahoo.co.jp/articles/dc19907bd3332dcb5fffdc52b63a41bfc8986a99",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金商法移行で暗号資産ビジネスは変わるのか──金融庁・業界団体・弁護士が語る規制のリアル【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/3dbd7766ea917a09a2eec61ce7b2d3a8b2915fb0",
         "source": "Yahoo",
@@ -6702,30 +6795,30 @@
       {
         "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
         "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kraken、トークン化株式をレバレッジ取引の担保として利用可能に",
-        "url": "https://news.yahoo.co.jp/articles/bd6a11242f6ffc324a0085348703c5cb39ab85b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.2】",
-        "url": "https://news.yahoo.co.jp/articles/c579802ea63ad558e2b79c6b76a958d06abd5530",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "【速報】三井住友信託銀行、外国籍ファンド受益権のトークン化実証開始。イーサリアム採用で",
+        "url": "https://news.yahoo.co.jp/articles/b7559ce158a8686b73fa60dd4bfdf7778316b653",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三井住友トラスト、“外国籍”ファンドをパブリックブロックチェーンでトークン化──「グローバルスタンダード」に挑戦",
+        "url": "https://news.yahoo.co.jp/articles/5a109adfe92689cdb1b4337d43c0243450185f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金商法移行後、金融機関の暗号資産事業参入を阻む3つの壁──デジタルアセットマーケッツらが示す実装の現実",
+        "url": "https://news.yahoo.co.jp/articles/dc19907bd3332dcb5fffdc52b63a41bfc8986a99",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金商法移行で暗号資産ビジネスは変わるのか──金融庁・業界団体・弁護士が語る規制のリアル【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/3dbd7766ea917a09a2eec61ce7b2d3a8b2915fb0",
         "source": "Yahoo",
@@ -6740,30 +6833,30 @@
       {
         "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
         "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kraken、トークン化株式をレバレッジ取引の担保として利用可能に",
-        "url": "https://news.yahoo.co.jp/articles/bd6a11242f6ffc324a0085348703c5cb39ab85b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.2】",
-        "url": "https://news.yahoo.co.jp/articles/c579802ea63ad558e2b79c6b76a958d06abd5530",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "【速報】三井住友信託銀行、外国籍ファンド受益権のトークン化実証開始。イーサリアム採用で",
+        "url": "https://news.yahoo.co.jp/articles/b7559ce158a8686b73fa60dd4bfdf7778316b653",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三井住友トラスト、“外国籍”ファンドをパブリックブロックチェーンでトークン化──「グローバルスタンダード」に挑戦",
+        "url": "https://news.yahoo.co.jp/articles/5a109adfe92689cdb1b4337d43c0243450185f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金商法移行後、金融機関の暗号資産事業参入を阻む3つの壁──デジタルアセットマーケッツらが示す実装の現実",
+        "url": "https://news.yahoo.co.jp/articles/dc19907bd3332dcb5fffdc52b63a41bfc8986a99",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金商法移行で暗号資産ビジネスは変わるのか──金融庁・業界団体・弁護士が語る規制のリアル【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/3dbd7766ea917a09a2eec61ce7b2d3a8b2915fb0",
         "source": "Yahoo",
@@ -6778,30 +6871,30 @@
       {
         "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
         "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kraken、トークン化株式をレバレッジ取引の担保として利用可能に",
-        "url": "https://news.yahoo.co.jp/articles/bd6a11242f6ffc324a0085348703c5cb39ab85b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.2】",
-        "url": "https://news.yahoo.co.jp/articles/c579802ea63ad558e2b79c6b76a958d06abd5530",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "【速報】三井住友信託銀行、外国籍ファンド受益権のトークン化実証開始。イーサリアム採用で",
+        "url": "https://news.yahoo.co.jp/articles/b7559ce158a8686b73fa60dd4bfdf7778316b653",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三井住友トラスト、“外国籍”ファンドをパブリックブロックチェーンでトークン化──「グローバルスタンダード」に挑戦",
+        "url": "https://news.yahoo.co.jp/articles/5a109adfe92689cdb1b4337d43c0243450185f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金商法移行後、金融機関の暗号資産事業参入を阻む3つの壁──デジタルアセットマーケッツらが示す実装の現実",
+        "url": "https://news.yahoo.co.jp/articles/dc19907bd3332dcb5fffdc52b63a41bfc8986a99",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金商法移行で暗号資産ビジネスは変わるのか──金融庁・業界団体・弁護士が語る規制のリアル【IVS2026 CRYPTO ZONE】",
         "url": "https://news.yahoo.co.jp/articles/3dbd7766ea917a09a2eec61ce7b2d3a8b2915fb0",
         "source": "Yahoo",
@@ -6818,27 +6911,15 @@
         "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "「クリプト単品は限界がある」──ビットバンク廣末氏、SBI入りの理由を明かす【IVS2026 CRYPTO ZONE】",
-        "url": "https://news.yahoo.co.jp/articles/9cdf926adb4cf934557e44532086b0d88a85cb5d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kraken、トークン化株式をレバレッジ取引の担保として利用可能に",
-        "url": "https://news.yahoo.co.jp/articles/bd6a11242f6ffc324a0085348703c5cb39ab85b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.2】",
-        "url": "https://news.yahoo.co.jp/articles/c579802ea63ad558e2b79c6b76a958d06abd5530",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "金商法移行後、金融機関の暗号資産事業参入を阻む3つの壁──デジタルアセットマーケッツらが示す実装の現実",
+        "url": "https://news.yahoo.co.jp/articles/dc19907bd3332dcb5fffdc52b63a41bfc8986a99",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「マリオカート ツアー」9月30日サービス終了 オフライン版の予定はなし",
         "url": "https://news.yahoo.co.jp/articles/4a3fda1de30a02526ad79dcd6b2a82684054c9e2",
@@ -6866,18 +6947,18 @@
       {
         "title": "任天堂、スマホ向け「マリオカート ツアー」を9月末で終了 有償ルビーの払い戻し対応を案内",
         "url": "https://news.yahoo.co.jp/articles/56abbf6cacc06314f14399c2eee8f29ab094e0aa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
-        "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "金商法移行後、金融機関の暗号資産事業参入を阻む3つの壁──デジタルアセットマーケッツらが示す実装の現実",
+        "url": "https://news.yahoo.co.jp/articles/dc19907bd3332dcb5fffdc52b63a41bfc8986a99",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「マリオカート ツアー」9月30日サービス終了 オフライン版の予定はなし",
         "url": "https://news.yahoo.co.jp/articles/4a3fda1de30a02526ad79dcd6b2a82684054c9e2",
         "source": "Yahoo",
@@ -6906,86 +6987,80 @@
         "url": "https://news.yahoo.co.jp/articles/56abbf6cacc06314f14399c2eee8f29ab094e0aa",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "仮想通貨が法改正で「金融商品」に 規制のあり方は?",
-        "url": "https://news.yahoo.co.jp/articles/fd5576ebe6dd0f63869f74ea82d3da13bf0ec96c",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
       {
-        "title": "ESMA、MiCA経過措置終了後初の暗号資産カストディ共通監督措置を開始",
-        "url": "https://news.yahoo.co.jp/articles/9a88e10118f3db259007be99966c19f80abd1795",
+        "title": "ディファイラマ、MiCA認可取引所比較ページ公開。認可状況や流動性など一覧化",
+        "url": "https://news.yahoo.co.jp/articles/bf06a17fa58612a04623af587c27c50e23b8b68d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "BNBチェーン、次世代レイヤー1開発へ。AIエージェントや機関利用見据え",
-        "url": "https://news.yahoo.co.jp/articles/5f3758ca032216fc8029aef8dc3f9c05dbdcdb06",
+        "title": "ステーブルコインとトークン化預金、AI時代のお金を担うのは誰か──Startale、DCP、メルペイが議論【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/a9aedc958fad19f71ab0670b6500a57ae4addf19",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "インド中銀、暗号資産「禁止寄り」政策を改めて主張。海外取引所経由の取引把握に懸念",
-        "url": "https://news.yahoo.co.jp/articles/ca5e48ea2e2435124af40d88b5b7df2d04cadef5",
+        "title": "米上院議員、クラリティ法案の開発者保護条項「BRCA」維持を要求＝The Block",
+        "url": "https://news.yahoo.co.jp/articles/0b660002449c6f541ef715d524e725e9f9f55fb8",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "量子コンピューターは暗号資産の壁を破るか－ビットコインに迫る試練",
-        "url": "https://news.yahoo.co.jp/articles/762576584930e4dd9148e8af8e87f20c785707e5",
+        "title": "ジェミナイ、米国で手数料無料の株式取引開始。金融スーパーアプリ構想を前進",
+        "url": "https://news.yahoo.co.jp/articles/e1fb0dcab59859987a2c9dd773bad5c952a5bde0",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "インド中銀、暗号資産を「禁止する方向」と改めて表明＝政府文書",
-        "url": "https://news.yahoo.co.jp/articles/e68fcad0adedc6f7c8fc5381b945620174ea25d1",
+        "title": "テザーがブラジルの「メルカド・ビットコイン」へ20Mドル出資へ",
+        "url": "https://news.yahoo.co.jp/articles/9cb051e11193e186306d67e7f56c225cb2c56111",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "MiCA移行後のEU、規制当局がカストディアンの回復力審査を開始",
-        "url": "https://news.yahoo.co.jp/articles/edb0b0cbeda1f5201e5c5775d1b5db04675f254b",
+        "title": "金商法移行後、金融機関の暗号資産事業参入を阻む3つの壁──デジタルアセットマーケッツらが示す実装の現実",
+        "url": "https://news.yahoo.co.jp/articles/dc19907bd3332dcb5fffdc52b63a41bfc8986a99",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
-        "title": "ESMA、MiCA経過措置終了後初の暗号資産カストディ共通監督措置を開始",
-        "url": "https://news.yahoo.co.jp/articles/9a88e10118f3db259007be99966c19f80abd1795",
+        "title": "ディファイラマ、MiCA認可取引所比較ページ公開。認可状況や流動性など一覧化",
+        "url": "https://news.yahoo.co.jp/articles/bf06a17fa58612a04623af587c27c50e23b8b68d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "BNBチェーン、次世代レイヤー1開発へ。AIエージェントや機関利用見据え",
-        "url": "https://news.yahoo.co.jp/articles/5f3758ca032216fc8029aef8dc3f9c05dbdcdb06",
+        "title": "ステーブルコインとトークン化預金、AI時代のお金を担うのは誰か──Startale、DCP、メルペイが議論【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/a9aedc958fad19f71ab0670b6500a57ae4addf19",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "インド中銀、暗号資産「禁止寄り」政策を改めて主張。海外取引所経由の取引把握に懸念",
-        "url": "https://news.yahoo.co.jp/articles/ca5e48ea2e2435124af40d88b5b7df2d04cadef5",
+        "title": "米上院議員、クラリティ法案の開発者保護条項「BRCA」維持を要求＝The Block",
+        "url": "https://news.yahoo.co.jp/articles/0b660002449c6f541ef715d524e725e9f9f55fb8",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "量子コンピューターは暗号資産の壁を破るか－ビットコインに迫る試練",
-        "url": "https://news.yahoo.co.jp/articles/762576584930e4dd9148e8af8e87f20c785707e5",
+        "title": "ジェミナイ、米国で手数料無料の株式取引開始。金融スーパーアプリ構想を前進",
+        "url": "https://news.yahoo.co.jp/articles/e1fb0dcab59859987a2c9dd773bad5c952a5bde0",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "インド中銀、暗号資産を「禁止する方向」と改めて表明＝政府文書",
-        "url": "https://news.yahoo.co.jp/articles/e68fcad0adedc6f7c8fc5381b945620174ea25d1",
+        "title": "テザーがブラジルの「メルカド・ビットコイン」へ20Mドル出資へ",
+        "url": "https://news.yahoo.co.jp/articles/9cb051e11193e186306d67e7f56c225cb2c56111",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "MiCA移行後のEU、規制当局がカストディアンの回復力審査を開始",
-        "url": "https://news.yahoo.co.jp/articles/edb0b0cbeda1f5201e5c5775d1b5db04675f254b",
+        "title": "金商法移行後、金融機関の暗号資産事業参入を阻む3つの壁──デジタルアセットマーケッツらが示す実装の現実",
+        "url": "https://news.yahoo.co.jp/articles/dc19907bd3332dcb5fffdc52b63a41bfc8986a99",
         "source": "Yahoo",
         "date": ""
       }
@@ -7144,76 +7219,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "BNBチェーン、次世代レイヤー1開発へ。AIエージェントや機関利用見据え",
-        "url": "https://news.yahoo.co.jp/articles/5f3758ca032216fc8029aef8dc3f9c05dbdcdb06",
+        "title": "【速報】三井住友信託銀行、外国籍ファンド受益権のトークン化実証開始。イーサリアム採用で",
+        "url": "https://news.yahoo.co.jp/articles/b7559ce158a8686b73fa60dd4bfdf7778316b653",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "インド中銀、暗号資産「禁止寄り」政策を改めて主張。海外取引所経由の取引把握に懸念",
-        "url": "https://news.yahoo.co.jp/articles/ca5e48ea2e2435124af40d88b5b7df2d04cadef5",
+        "title": "三井住友トラスト、“外国籍”ファンドをパブリックブロックチェーンでトークン化──「グローバルスタンダード」に挑戦",
+        "url": "https://news.yahoo.co.jp/articles/5a109adfe92689cdb1b4337d43c0243450185f0f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Datachain、法人向けWeb3ウォレット提供開始──円建てステーブルコイン普及を見据え",
-        "url": "https://news.yahoo.co.jp/articles/bfb603c01b5ba1056ee0379f2a662670b4357b05",
+        "title": "韓銀「韓国株式市場の持続的な下落の可能性は限定的",
+        "url": "https://news.yahoo.co.jp/articles/13cbd94a0d04f60d711ae1a048b4c2cff472269b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "インド中銀、暗号資産を「禁止する方向」と改めて表明＝政府文書",
-        "url": "https://news.yahoo.co.jp/articles/e68fcad0adedc6f7c8fc5381b945620174ea25d1",
+        "title": "データチェーン、法人向けWeb3ウォレット「Datachain Wallet」先行評価版を提供開始",
+        "url": "https://news.yahoo.co.jp/articles/d4c0e66911ff89f811f04056fe00d7eb61716df9",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米国政治家はなぜ暗号資産を保有するのか──ビットコインがワシントンを動かし始めた【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/91a1d56ad6336a0297c2d3d708529b1a4c8ab477",
+        "title": "JPYC、総流通量20億円を突破──2週間で10億円増加",
+        "url": "https://news.yahoo.co.jp/articles/344c13e5cee69280968046119c053bb99c2b79e7",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Paradigm、12億ドルの新ファンド調達──AI・ロボティクスにも投資拡大",
-        "url": "https://news.yahoo.co.jp/articles/392352321119aaad8edd9bd4476088ec66b94332",
+        "title": "ステーブルコインとトークン化預金、AI時代のお金を担うのは誰か──Startale、DCP、メルペイが議論【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/a9aedc958fad19f71ab0670b6500a57ae4addf19",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "BNBチェーン、次世代レイヤー1開発へ。AIエージェントや機関利用見据え",
-        "url": "https://news.yahoo.co.jp/articles/5f3758ca032216fc8029aef8dc3f9c05dbdcdb06",
+        "title": "【速報】三井住友信託銀行、外国籍ファンド受益権のトークン化実証開始。イーサリアム採用で",
+        "url": "https://news.yahoo.co.jp/articles/b7559ce158a8686b73fa60dd4bfdf7778316b653",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "インド中銀、暗号資産「禁止寄り」政策を改めて主張。海外取引所経由の取引把握に懸念",
-        "url": "https://news.yahoo.co.jp/articles/ca5e48ea2e2435124af40d88b5b7df2d04cadef5",
+        "title": "三井住友トラスト、“外国籍”ファンドをパブリックブロックチェーンでトークン化──「グローバルスタンダード」に挑戦",
+        "url": "https://news.yahoo.co.jp/articles/5a109adfe92689cdb1b4337d43c0243450185f0f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Datachain、法人向けWeb3ウォレット提供開始──円建てステーブルコイン普及を見据え",
-        "url": "https://news.yahoo.co.jp/articles/bfb603c01b5ba1056ee0379f2a662670b4357b05",
+        "title": "韓銀「韓国株式市場の持続的な下落の可能性は限定的",
+        "url": "https://news.yahoo.co.jp/articles/13cbd94a0d04f60d711ae1a048b4c2cff472269b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "インド中銀、暗号資産を「禁止する方向」と改めて表明＝政府文書",
-        "url": "https://news.yahoo.co.jp/articles/e68fcad0adedc6f7c8fc5381b945620174ea25d1",
+        "title": "データチェーン、法人向けWeb3ウォレット「Datachain Wallet」先行評価版を提供開始",
+        "url": "https://news.yahoo.co.jp/articles/d4c0e66911ff89f811f04056fe00d7eb61716df9",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米国政治家はなぜ暗号資産を保有するのか──ビットコインがワシントンを動かし始めた【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/91a1d56ad6336a0297c2d3d708529b1a4c8ab477",
+        "title": "JPYC、総流通量20億円を突破──2週間で10億円増加",
+        "url": "https://news.yahoo.co.jp/articles/344c13e5cee69280968046119c053bb99c2b79e7",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Paradigm、12億ドルの新ファンド調達──AI・ロボティクスにも投資拡大",
-        "url": "https://news.yahoo.co.jp/articles/392352321119aaad8edd9bd4476088ec66b94332",
+        "title": "ステーブルコインとトークン化預金、AI時代のお金を担うのは誰か──Startale、DCP、メルペイが議論【IVS2026 CRYPTO ZONE】",
+        "url": "https://news.yahoo.co.jp/articles/a9aedc958fad19f71ab0670b6500a57ae4addf19",
         "source": "Yahoo",
         "date": ""
       }
