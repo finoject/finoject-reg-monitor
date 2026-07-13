@@ -1,6 +1,67 @@
 {
-  "generatedAt": "2026-07-13T05:05:30.207Z",
+  "generatedAt": "2026-07-13T08:35:41.836Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "会長記者会見の要旨を公開しました",
+      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
+      "date": "2026-07-13",
+      "detectedAt": "2026-07-13T08:35:41.836Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
+        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
+        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-13T08:35:46.968Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "令和8年7月滋賀県甲賀市の土砂崩れに係る災害等に対する金融上の措置について（滋賀県）",
+      "url": "https://www.boj.or.jp/about/bcp/fso/fso260713a.pdf",
+      "date": "2026-07-13",
+      "detectedAt": "2026-07-13T08:35:41.836Z",
+      "enriched": "2026-07-13T08:35:46.969Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和8年7月滋賀県甲賀市の土砂崩れで災害救助法が適用された地域の被災者に対し、預金払戻・期限前払い戻し・融資返済猶予・保険金迅速支払・証券売却等の金融上の措置を講じるよう要請した。",
+        "預貯金取扱金融機関・証券会社・生命保険会社・損害保険会社・少額短期保険業者・電子債権記録機関は、証書・届出印鑑紛失時の確認方法の柔軟化、罹災証明書の後日提出許容、営業時間外対応等を講じ、顧客に店頭掲示やホームページで周知すること。",
+        "金融機関等は自然災害による被災者の債務整理に関するガイドライン利用相談対応、提出書類の最小化、融資相談所開設等の迅速な手続簡便化を実施する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大（ETF/ETN）：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260713-01.html",
+      "date": "2026-07-13",
+      "detectedAt": "2026-07-13T08:35:41.836Z",
+      "enriched": "2026-07-13T08:35:46.969Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "NEXT NOTES韓国KOSPI・ダブル・ブル ETN受益証券（コード2033）について、7月14日の立会から制限値幅下限を60,000円に拡大（上限は通常の15,000円のまま）。",
+        "当該銘柄の取引参加者および投資家は、7月14日以降の制限値幅拡大に対応し、成行注文による思わぬ約定を回避する措置を講じるべき。",
+        "本措置は東証がストップ高で立会終了したため7月14日から適用され、その後ストップ高安以外で約定し立会終了すれば翌営業日から通常値幅に戻る。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）グローバルインフォメーション",
+      "url": "https://www.jpx.co.jp/news/1023/20260713-11.html",
+      "date": "2026-07-13",
+      "detectedAt": "2026-07-13T08:35:41.836Z",
+      "enriched": "2026-07-13T08:35:46.969Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）グローバルインフォメーション（コード4171、スタンダード市場）について、特別支配株主による株式等売渡請求の承認に伴い上場廃止を決定した。有価証券上場規程第601条第1項第17号に基づく。",
+        "同社株式は2026年7月13日から8月12日まで整理銘柄に指定され、2026年8月13日に上場廃止となる。取引参加者は2026年7月14日以降、同社株式を信用取引保証金等の代用有価証券から除外する対応が必要。",
+        "速やかに上場廃止すべき事情が発生した場合は整理銘柄指定期間および上場廃止日が変更される可能性がある。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "アールビバン（7523）",
@@ -1396,22 +1457,6 @@
         "JPX自主規制法人が6月19日に年次報告2026を発刊し、定時株主総会も同日開催されるなど、JPXグループの市場改革動向が月次で情報提供される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "会長記者会見の資料を公開しました",
-      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
-      "date": "2026-07-01",
-      "detectedAt": "2026-07-01T06:54:22.481Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
-        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
-        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-01T06:54:27.770Z"
     },
     {
       "agency": "日本銀行",
@@ -7094,6 +7139,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "「DeFiの法整備を2〜3年で」神田潤一議員──暗号資産の金商法移行の次を見据える【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/521b75317c0bb82bc64eb958b06ed49f31f50f96",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避／全米郡保安官協会、クラリティ法案への反対を取り下げ【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/538190349618a077d8a8d1be039bb8b1e08a277e",
         "source": "Yahoo",
@@ -7120,18 +7171,18 @@
       {
         "title": "【速報】三井住友信託銀行、外国籍ファンド受益権のトークン化実証開始。イーサリアム採用で",
         "url": "https://news.yahoo.co.jp/articles/b7559ce158a8686b73fa60dd4bfdf7778316b653",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "三井住友トラスト、“外国籍”ファンドをパブリックブロックチェーンでトークン化──「グローバルスタンダード」に挑戦",
-        "url": "https://news.yahoo.co.jp/articles/5a109adfe92689cdb1b4337d43c0243450185f0f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "「DeFiの法整備を2〜3年で」神田潤一議員──暗号資産の金商法移行の次を見据える【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/521b75317c0bb82bc64eb958b06ed49f31f50f96",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避／全米郡保安官協会、クラリティ法案への反対を取り下げ【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/538190349618a077d8a8d1be039bb8b1e08a277e",
         "source": "Yahoo",
@@ -7158,18 +7209,18 @@
       {
         "title": "【速報】三井住友信託銀行、外国籍ファンド受益権のトークン化実証開始。イーサリアム採用で",
         "url": "https://news.yahoo.co.jp/articles/b7559ce158a8686b73fa60dd4bfdf7778316b653",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "三井住友トラスト、“外国籍”ファンドをパブリックブロックチェーンでトークン化──「グローバルスタンダード」に挑戦",
-        "url": "https://news.yahoo.co.jp/articles/5a109adfe92689cdb1b4337d43c0243450185f0f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "「DeFiの法整備を2〜3年で」神田潤一議員──暗号資産の金商法移行の次を見据える【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/521b75317c0bb82bc64eb958b06ed49f31f50f96",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避／全米郡保安官協会、クラリティ法案への反対を取り下げ【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/538190349618a077d8a8d1be039bb8b1e08a277e",
         "source": "Yahoo",
@@ -7196,18 +7247,18 @@
       {
         "title": "【速報】三井住友信託銀行、外国籍ファンド受益権のトークン化実証開始。イーサリアム採用で",
         "url": "https://news.yahoo.co.jp/articles/b7559ce158a8686b73fa60dd4bfdf7778316b653",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "三井住友トラスト、“外国籍”ファンドをパブリックブロックチェーンでトークン化──「グローバルスタンダード」に挑戦",
-        "url": "https://news.yahoo.co.jp/articles/5a109adfe92689cdb1b4337d43c0243450185f0f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "「DeFiの法整備を2〜3年で」神田潤一議員──暗号資産の金商法移行の次を見据える【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/521b75317c0bb82bc64eb958b06ed49f31f50f96",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避／全米郡保安官協会、クラリティ法案への反対を取り下げ【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/538190349618a077d8a8d1be039bb8b1e08a277e",
         "source": "Yahoo",
@@ -7236,15 +7287,33 @@
         "url": "https://news.yahoo.co.jp/articles/b7559ce158a8686b73fa60dd4bfdf7778316b653",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "三井住友トラスト、“外国籍”ファンドをパブリックブロックチェーンでトークン化──「グローバルスタンダード」に挑戦",
-        "url": "https://news.yahoo.co.jp/articles/5a109adfe92689cdb1b4337d43c0243450185f0f",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "SBI VCトレード、円建てステーブルコイン「JPYSC」のレンディング開始。年率3％で",
+        "url": "https://news.yahoo.co.jp/articles/a575d937c1888f8eb8be9f38050137cc6cb13bc1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa・Stripeなど140社超、共同運営のステーブルコイン「Open USD」発表──発行体に利回りを集約しない設計と日本勢の参画【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ローソンでステーブルコイン支払い KDDI・HashPortが技術実証へ 高輪ゲートウェイ店で8月実施 背景には、円建てステーブルコインの制度環境の整備がある。日本では2023年6月の改正資金決済法施行以後、円建てステーブルコインの発行・流通環境が整いつつある。ステー",
+        "url": "https://news.yahoo.co.jp/articles/e4a72ca9916bb7f1626a61fb036765f5de7f8c20",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「DeFiの法整備を2〜3年で」神田潤一議員──暗号資産の金商法移行の次を見据える【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/521b75317c0bb82bc64eb958b06ed49f31f50f96",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.3】",
         "url": "https://news.yahoo.co.jp/articles/a21cc789383f039cc484ba46ae08268599ed5928",
@@ -7254,36 +7323,36 @@
       {
         "title": "【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避",
         "url": "https://news.yahoo.co.jp/articles/8315c193f1d0cea48a114f8511c462f3b3de96ba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金商法移行後、金融機関の暗号資産事業参入を阻む3つの壁──デジタルアセットマーケッツらが示す実装の現実",
-        "url": "https://news.yahoo.co.jp/articles/dc19907bd3332dcb5fffdc52b63a41bfc8986a99",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「マリオカート ツアー」9月30日サービス終了 オフライン版の予定はなし",
-        "url": "https://news.yahoo.co.jp/articles/4a3fda1de30a02526ad79dcd6b2a82684054c9e2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Datachain、法人向けWeb3ウォレット提供開始──円建てステーブルコイン普及を見据え",
-        "url": "https://news.yahoo.co.jp/articles/bfb603c01b5ba1056ee0379f2a662670b4357b05",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "任天堂、スマホゲーム「マリオカート ツアー」9月30日に終了 未使用の有償ルビーは払い戻しへ",
-        "url": "https://news.yahoo.co.jp/articles/d03650615a1c3415454d1f31e136c15bc1ad4074",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "SBI VCトレード、円建てステーブルコイン「JPYSC」のレンディング開始。年率3％で",
+        "url": "https://news.yahoo.co.jp/articles/a575d937c1888f8eb8be9f38050137cc6cb13bc1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa・Stripeなど140社超、共同運営のステーブルコイン「Open USD」発表──発行体に利回りを集約しない設計と日本勢の参画【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ローソンでステーブルコイン支払い KDDI・HashPortが技術実証へ 高輪ゲートウェイ店で8月実施 背景には、円建てステーブルコインの制度環境の整備がある。日本では2023年6月の改正資金決済法施行以後、円建てステーブルコインの発行・流通環境が整いつつある。ステー",
+        "url": "https://news.yahoo.co.jp/articles/e4a72ca9916bb7f1626a61fb036765f5de7f8c20",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「DeFiの法整備を2〜3年で」神田潤一議員──暗号資産の金商法移行の次を見据える【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/521b75317c0bb82bc64eb958b06ed49f31f50f96",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.3】",
         "url": "https://news.yahoo.co.jp/articles/a21cc789383f039cc484ba46ae08268599ed5928",
         "source": "Yahoo",
@@ -7294,33 +7363,27 @@
         "url": "https://news.yahoo.co.jp/articles/8315c193f1d0cea48a114f8511c462f3b3de96ba",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "金商法移行後、金融機関の暗号資産事業参入を阻む3つの壁──デジタルアセットマーケッツらが示す実装の現実",
-        "url": "https://news.yahoo.co.jp/articles/dc19907bd3332dcb5fffdc52b63a41bfc8986a99",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「マリオカート ツアー」9月30日サービス終了 オフライン版の予定はなし",
-        "url": "https://news.yahoo.co.jp/articles/4a3fda1de30a02526ad79dcd6b2a82684054c9e2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Datachain、法人向けWeb3ウォレット提供開始──円建てステーブルコイン普及を見据え",
-        "url": "https://news.yahoo.co.jp/articles/bfb603c01b5ba1056ee0379f2a662670b4357b05",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "任天堂、スマホゲーム「マリオカート ツアー」9月30日に終了 未使用の有償ルビーは払い戻しへ",
-        "url": "https://news.yahoo.co.jp/articles/d03650615a1c3415454d1f31e136c15bc1ad4074",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "Visa・Stripeなど140社超、共同運営のステーブルコイン「Open USD」発表──発行体に利回りを集約しない設計と日本勢の参画【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "OKJに「カントンコイン（CC）」上場へ、板取引は国内初",
+        "url": "https://news.yahoo.co.jp/articles/bdde7b338282d91441cad9be49417ae7418309e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「DeFiの法整備を2〜3年で」神田潤一議員──暗号資産の金商法移行の次を見据える【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/521b75317c0bb82bc64eb958b06ed49f31f50f96",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "bitFlyer、機関投資家向けサービス「bitFlyer Prime」を発表【WebX 2026】",
         "url": "https://news.yahoo.co.jp/articles/981d21f32932773cc230a89577016e8169a4aa12",
@@ -7336,30 +7399,30 @@
       {
         "title": "投資家の教科書が変わる──ETF・RWA時代に必要な分析とは【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/83a704b22ec9a39bd46b4799353f7e8e5fe7c317",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「機関投資家はXではなくデータを見る」── 新組織Ethereum Institutionalが登壇【JBWサミット2026】",
-        "url": "https://news.yahoo.co.jp/articles/6321224be5ba4bee0e77ccea382161152ec3edc1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "投機から長期保有へ──バイナンスジャパン新代表・豊崎氏、暗号資産の国内普及に意欲【JBWサミット2026】",
-        "url": "https://news.yahoo.co.jp/articles/be21b8830d506354d020de3bcc2bab6756e74d34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、Mastercard、Stripeはなぜステーブルコインへ向かうのか──2030年の金融インフラを読む：国際送金の未来②【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/6004cc160bf3874854086b2528441a84ec73e96e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Visa・Stripeなど140社超、共同運営のステーブルコイン「Open USD」発表──発行体に利回りを集約しない設計と日本勢の参画【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "OKJに「カントンコイン（CC）」上場へ、板取引は国内初",
+        "url": "https://news.yahoo.co.jp/articles/bdde7b338282d91441cad9be49417ae7418309e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「DeFiの法整備を2〜3年で」神田潤一議員──暗号資産の金商法移行の次を見据える【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/521b75317c0bb82bc64eb958b06ed49f31f50f96",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "bitFlyer、機関投資家向けサービス「bitFlyer Prime」を発表【WebX 2026】",
         "url": "https://news.yahoo.co.jp/articles/981d21f32932773cc230a89577016e8169a4aa12",
         "source": "Yahoo",
@@ -7374,24 +7437,6 @@
       {
         "title": "投資家の教科書が変わる──ETF・RWA時代に必要な分析とは【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/83a704b22ec9a39bd46b4799353f7e8e5fe7c317",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「機関投資家はXではなくデータを見る」── 新組織Ethereum Institutionalが登壇【JBWサミット2026】",
-        "url": "https://news.yahoo.co.jp/articles/6321224be5ba4bee0e77ccea382161152ec3edc1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "投機から長期保有へ──バイナンスジャパン新代表・豊崎氏、暗号資産の国内普及に意欲【JBWサミット2026】",
-        "url": "https://news.yahoo.co.jp/articles/be21b8830d506354d020de3bcc2bab6756e74d34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、Mastercard、Stripeはなぜステーブルコインへ向かうのか──2030年の金融インフラを読む：国際送金の未来②【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/6004cc160bf3874854086b2528441a84ec73e96e",
         "source": "Yahoo",
         "date": ""
       }
@@ -7550,76 +7595,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "スターテイル、金融機関向け「オンチェーン金融キット」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/f277837fb86f7bde35ed40981b0e8afa7abf8216",
+        "title": "SBI証券とトレードワークス、ブロックチェーン証跡基盤を証券システムで実証",
+        "url": "https://news.yahoo.co.jp/articles/ba2098b15565a42de8e34f0505bf05a050a9e82a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ネットスターズ、店舗向けステーブルコイン決済を本格始動──Stablecoin Pay、手数料0.98％",
-        "url": "https://news.yahoo.co.jp/articles/8459bd492212203401a34d5db45f595b014071d9",
+        "title": "SBI VCトレード、円建てステーブルコイン「JPYSC」のレンディング開始。年率3％で",
+        "url": "https://news.yahoo.co.jp/articles/a575d937c1888f8eb8be9f38050137cc6cb13bc1",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ハッシュポート、KDDI・ローソンと円ステーブルコイン店頭決済実証へ。8月に一部社員対象",
-        "url": "https://news.yahoo.co.jp/articles/6d559e44068b010dec912fba938022edcad60291",
+        "title": "SBIグループ会社にソラナ財団が参画──「SBI Solana Global」に商号変更へ",
+        "url": "https://news.yahoo.co.jp/articles/7e33f374606bfb42f0f9d378120c7d89fe17a182",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ネットスターズ、店舗向けステーブルコイン決済「Stablecoin Pay」提供開始。USDC・USDT・JPYCに対応",
-        "url": "https://news.yahoo.co.jp/articles/1bfd3beef245a625b2436885cfb1f4a37e6143bf",
+        "title": "JPYSC、年度内1000億円規模へ──「ステーブルコイン単体のビジネスはない」渡辺氏【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/4d206fce9a8a7cbf9b38ecad5dc06628ce9c6249",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "メタプラネット、JPYCやProgmatとビットコイン活用のデジタルクレジット検討開始",
-        "url": "https://news.yahoo.co.jp/articles/ca48526276ed355665ffa6cf77f38a47c205e09f",
+        "title": "Visa・Stripeなど140社超、共同運営のステーブルコイン「Open USD」発表──発行体に利回りを集約しない設計と日本勢の参画【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ローソン、JPYC決済を8月に実証へ──POS連携で国内初＝日経",
-        "url": "https://news.yahoo.co.jp/articles/96a78cec0fd58539243714f269849960d2b9becf",
+        "title": "ローソン店頭で日本円ステーブルコイン決済 8月に実証",
+        "url": "https://news.yahoo.co.jp/articles/181925a05ea557085b7f9edb447cc3367415a0ac",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "スターテイル、金融機関向け「オンチェーン金融キット」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/f277837fb86f7bde35ed40981b0e8afa7abf8216",
+        "title": "SBI証券とトレードワークス、ブロックチェーン証跡基盤を証券システムで実証",
+        "url": "https://news.yahoo.co.jp/articles/ba2098b15565a42de8e34f0505bf05a050a9e82a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ネットスターズ、店舗向けステーブルコイン決済を本格始動──Stablecoin Pay、手数料0.98％",
-        "url": "https://news.yahoo.co.jp/articles/8459bd492212203401a34d5db45f595b014071d9",
+        "title": "SBI VCトレード、円建てステーブルコイン「JPYSC」のレンディング開始。年率3％で",
+        "url": "https://news.yahoo.co.jp/articles/a575d937c1888f8eb8be9f38050137cc6cb13bc1",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ハッシュポート、KDDI・ローソンと円ステーブルコイン店頭決済実証へ。8月に一部社員対象",
-        "url": "https://news.yahoo.co.jp/articles/6d559e44068b010dec912fba938022edcad60291",
+        "title": "SBIグループ会社にソラナ財団が参画──「SBI Solana Global」に商号変更へ",
+        "url": "https://news.yahoo.co.jp/articles/7e33f374606bfb42f0f9d378120c7d89fe17a182",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ネットスターズ、店舗向けステーブルコイン決済「Stablecoin Pay」提供開始。USDC・USDT・JPYCに対応",
-        "url": "https://news.yahoo.co.jp/articles/1bfd3beef245a625b2436885cfb1f4a37e6143bf",
+        "title": "JPYSC、年度内1000億円規模へ──「ステーブルコイン単体のビジネスはない」渡辺氏【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/4d206fce9a8a7cbf9b38ecad5dc06628ce9c6249",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "メタプラネット、JPYCやProgmatとビットコイン活用のデジタルクレジット検討開始",
-        "url": "https://news.yahoo.co.jp/articles/ca48526276ed355665ffa6cf77f38a47c205e09f",
+        "title": "Visa・Stripeなど140社超、共同運営のステーブルコイン「Open USD」発表──発行体に利回りを集約しない設計と日本勢の参画【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ローソン、JPYC決済を8月に実証へ──POS連携で国内初＝日経",
-        "url": "https://news.yahoo.co.jp/articles/96a78cec0fd58539243714f269849960d2b9becf",
+        "title": "ローソン店頭で日本円ステーブルコイン決済 8月に実証",
+        "url": "https://news.yahoo.co.jp/articles/181925a05ea557085b7f9edb447cc3367415a0ac",
         "source": "Yahoo",
         "date": ""
       }
