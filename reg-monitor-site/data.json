@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T20:41:41.784Z",
+  "generatedAt": "2026-07-13T22:33:40.898Z",
   "items": [
     {
       "agency": "金融庁",
@@ -7640,6 +7640,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ネットスターズ、ステーブルコイン決済に対応する「Stablecoin Pay」を始動",
+        "url": "https://news.yahoo.co.jp/articles/0bfbe20b72038bece4067fe8b88c0c8726125ef4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英国、金融市場トークン化のロードマップ公表",
+        "url": "https://news.yahoo.co.jp/articles/eee1cd2754fd7f3958ee16f41029eb4eec181fcb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI VCトレード、JPYSCレンディング開始──初回年率3％",
         "url": "https://news.yahoo.co.jp/articles/41674e1dd5a5f98be6642721e4cc98ce8f84a5bb",
         "source": "Yahoo",
@@ -7660,24 +7672,24 @@
       {
         "title": "アーベラボ、企業向け「Stable Vaults」の提供開始。ステーブルコイン利回り機能の組み込みを支援",
         "url": "https://news.yahoo.co.jp/articles/1f3dc3514862fe9b1fbd959825b2897b41a07bfa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スターテイル、金融機関向けオンチェーン金融基盤「Startale OFK」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/e67f159d608516da0c8266e8d527c86af667435b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、オンチェーン対応の最先端取引所構築へ──24時間365日取引・即時決済・ステーブルコイン対応を構想【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/89792c7ae13b8512f93709672de312d2475a12e6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ネットスターズ、ステーブルコイン決済に対応する「Stablecoin Pay」を始動",
+        "url": "https://news.yahoo.co.jp/articles/0bfbe20b72038bece4067fe8b88c0c8726125ef4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英国、金融市場トークン化のロードマップ公表",
+        "url": "https://news.yahoo.co.jp/articles/eee1cd2754fd7f3958ee16f41029eb4eec181fcb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI VCトレード、JPYSCレンディング開始──初回年率3％",
         "url": "https://news.yahoo.co.jp/articles/41674e1dd5a5f98be6642721e4cc98ce8f84a5bb",
         "source": "Yahoo",
@@ -7698,18 +7710,6 @@
       {
         "title": "アーベラボ、企業向け「Stable Vaults」の提供開始。ステーブルコイン利回り機能の組み込みを支援",
         "url": "https://news.yahoo.co.jp/articles/1f3dc3514862fe9b1fbd959825b2897b41a07bfa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スターテイル、金融機関向けオンチェーン金融基盤「Startale OFK」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/e67f159d608516da0c8266e8d527c86af667435b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、オンチェーン対応の最先端取引所構築へ──24時間365日取引・即時決済・ステーブルコイン対応を構想【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/89792c7ae13b8512f93709672de312d2475a12e6",
         "source": "Yahoo",
         "date": ""
       }
