@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-07-13T08:35:41.836Z",
+  "generatedAt": "2026-07-13T11:46:36.049Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "令和８年７月滋賀県甲賀市の土砂崩れに係る災害等に対する金融上の措置（滋賀県）",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260713.html",
+      "date": "2026-07-13",
+      "detectedAt": "2026-07-13T11:46:36.049Z",
+      "enriched": "2026-07-13T11:46:41.849Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は令和8年7月13日、滋賀県甲賀市の土砂崩れ災害に対する金融上の措置を近畿財務局が要請したことを公表。詳細は近畿財務局ウェブサイトに掲載。",
+        "金融機関等は近畿財務局の要請内容を確認し、被災事業者・利用者への適切な金融上の対応（融資条件変更等）を検討・実施すること。",
+        "令和8年7月13日付で金融庁が公表。災害対応に関する金融上の措置については金融機関に対する指導基準等に準拠。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in旭川」の開催",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260713/20260713.html",
+      "date": "2026-07-13",
+      "detectedAt": "2026-07-13T11:46:36.049Z",
+      "enriched": "2026-07-13T11:46:41.849Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は2026年8月22日（土）10時～16時30分、イオンモール旭川西でステージショー・ミニ講義・体験ブースからなる金融経済教育イベントを開催する。",
+        "ファミリー向けにお金・金融・株式・経済についてアニメ・ゲーム・クイズ形式で学ぶプログラムを提供し、入場無料で参加できる。",
+        "金融庁総合政策局金融経済教育推進室主催、特設サイト参照またはフリーダイヤル0570-016811（IP電話は03-5251-6811）で問合せ。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の基準値段等：ＮＥＸＴ ＦＵＮＤＳ 日本株政策フォーカス上場投信（コード605A）",
+      "url": "https://www.jpx.co.jp/news/1030/20260713-02.html",
+      "date": "2026-07-13",
+      "detectedAt": "2026-07-13T11:46:36.049Z",
+      "enriched": "2026-07-13T11:46:41.849Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ＮＥＸＴ ＦＵＮＤＳ 日本株政策フォーカス上場投信（コード605A）が2026年7月14日に東証に新規上場し、基準値段197.9円、売買単位10口で取扱開始。",
+        "取引参加者および投資家は同ETFについて基準値段197.9円を参考に、値段上限値247.9円から値段下限値147.9円の制限値幅内で売買に対応。",
+        "東京証券取引所規則に基づく新規上場銘柄の基準値段等決定により、2026年7月14日から同ETFの取引が開始される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "会長記者会見の要旨を公開しました",
@@ -7291,6 +7336,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "SBIとソラナ財団が戦略提携、SBI R3 Japanを「SBI Solana Global」に商号変更へ",
+        "url": "https://news.yahoo.co.jp/articles/d1d34c9da6174cd2aa67064e1405088906534d52",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI VCトレード、円建てステーブルコイン「JPYSC」のレンディング開始。年率3％で",
         "url": "https://news.yahoo.co.jp/articles/a575d937c1888f8eb8be9f38050137cc6cb13bc1",
         "source": "Yahoo",
@@ -7317,18 +7368,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.3】",
         "url": "https://news.yahoo.co.jp/articles/a21cc789383f039cc484ba46ae08268599ed5928",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避",
-        "url": "https://news.yahoo.co.jp/articles/8315c193f1d0cea48a114f8511c462f3b3de96ba",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "SBIとソラナ財団が戦略提携、SBI R3 Japanを「SBI Solana Global」に商号変更へ",
+        "url": "https://news.yahoo.co.jp/articles/d1d34c9da6174cd2aa67064e1405088906534d52",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI VCトレード、円建てステーブルコイン「JPYSC」のレンディング開始。年率3％で",
         "url": "https://news.yahoo.co.jp/articles/a575d937c1888f8eb8be9f38050137cc6cb13bc1",
         "source": "Yahoo",
@@ -7355,12 +7406,6 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.3】",
         "url": "https://news.yahoo.co.jp/articles/a21cc789383f039cc484ba46ae08268599ed5928",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避",
-        "url": "https://news.yahoo.co.jp/articles/8315c193f1d0cea48a114f8511c462f3b3de96ba",
         "source": "Yahoo",
         "date": ""
       }
@@ -7595,76 +7640,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "SBI証券とトレードワークス、ブロックチェーン証跡基盤を証券システムで実証",
-        "url": "https://news.yahoo.co.jp/articles/ba2098b15565a42de8e34f0505bf05a050a9e82a",
+        "title": "SBI VCトレード、JPYSCレンディング開始──初回年率3％",
+        "url": "https://news.yahoo.co.jp/articles/41674e1dd5a5f98be6642721e4cc98ce8f84a5bb",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI VCトレード、円建てステーブルコイン「JPYSC」のレンディング開始。年率3％で",
-        "url": "https://news.yahoo.co.jp/articles/a575d937c1888f8eb8be9f38050137cc6cb13bc1",
+        "title": "SBI、ステーブルコインのレンディングサービス開始",
+        "url": "https://news.yahoo.co.jp/articles/5a6ff00e78e8ef666864d7229084aab39987bb3f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBIグループ会社にソラナ財団が参画──「SBI Solana Global」に商号変更へ",
-        "url": "https://news.yahoo.co.jp/articles/7e33f374606bfb42f0f9d378120c7d89fe17a182",
+        "title": "SBIとソラナ財団が戦略提携、SBI R3 Japanを「SBI Solana Global」に商号変更へ",
+        "url": "https://news.yahoo.co.jp/articles/d1d34c9da6174cd2aa67064e1405088906534d52",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "JPYSC、年度内1000億円規模へ──「ステーブルコイン単体のビジネスはない」渡辺氏【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/4d206fce9a8a7cbf9b38ecad5dc06628ce9c6249",
+        "title": "アーベラボ、企業向け「Stable Vaults」の提供開始。ステーブルコイン利回り機能の組み込みを支援",
+        "url": "https://news.yahoo.co.jp/articles/1f3dc3514862fe9b1fbd959825b2897b41a07bfa",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Visa・Stripeなど140社超、共同運営のステーブルコイン「Open USD」発表──発行体に利回りを集約しない設計と日本勢の参画【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
+        "title": "スターテイル、金融機関向けオンチェーン金融基盤「Startale OFK」提供開始",
+        "url": "https://news.yahoo.co.jp/articles/e67f159d608516da0c8266e8d527c86af667435b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ローソン店頭で日本円ステーブルコイン決済 8月に実証",
-        "url": "https://news.yahoo.co.jp/articles/181925a05ea557085b7f9edb447cc3367415a0ac",
+        "title": "SBI、オンチェーン対応の最先端取引所構築へ──24時間365日取引・即時決済・ステーブルコイン対応を構想【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/89792c7ae13b8512f93709672de312d2475a12e6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "SBI証券とトレードワークス、ブロックチェーン証跡基盤を証券システムで実証",
-        "url": "https://news.yahoo.co.jp/articles/ba2098b15565a42de8e34f0505bf05a050a9e82a",
+        "title": "SBI VCトレード、JPYSCレンディング開始──初回年率3％",
+        "url": "https://news.yahoo.co.jp/articles/41674e1dd5a5f98be6642721e4cc98ce8f84a5bb",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI VCトレード、円建てステーブルコイン「JPYSC」のレンディング開始。年率3％で",
-        "url": "https://news.yahoo.co.jp/articles/a575d937c1888f8eb8be9f38050137cc6cb13bc1",
+        "title": "SBI、ステーブルコインのレンディングサービス開始",
+        "url": "https://news.yahoo.co.jp/articles/5a6ff00e78e8ef666864d7229084aab39987bb3f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBIグループ会社にソラナ財団が参画──「SBI Solana Global」に商号変更へ",
-        "url": "https://news.yahoo.co.jp/articles/7e33f374606bfb42f0f9d378120c7d89fe17a182",
+        "title": "SBIとソラナ財団が戦略提携、SBI R3 Japanを「SBI Solana Global」に商号変更へ",
+        "url": "https://news.yahoo.co.jp/articles/d1d34c9da6174cd2aa67064e1405088906534d52",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "JPYSC、年度内1000億円規模へ──「ステーブルコイン単体のビジネスはない」渡辺氏【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/4d206fce9a8a7cbf9b38ecad5dc06628ce9c6249",
+        "title": "アーベラボ、企業向け「Stable Vaults」の提供開始。ステーブルコイン利回り機能の組み込みを支援",
+        "url": "https://news.yahoo.co.jp/articles/1f3dc3514862fe9b1fbd959825b2897b41a07bfa",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Visa・Stripeなど140社超、共同運営のステーブルコイン「Open USD」発表──発行体に利回りを集約しない設計と日本勢の参画【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
+        "title": "スターテイル、金融機関向けオンチェーン金融基盤「Startale OFK」提供開始",
+        "url": "https://news.yahoo.co.jp/articles/e67f159d608516da0c8266e8d527c86af667435b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ローソン店頭で日本円ステーブルコイン決済 8月に実証",
-        "url": "https://news.yahoo.co.jp/articles/181925a05ea557085b7f9edb447cc3367415a0ac",
+        "title": "SBI、オンチェーン対応の最先端取引所構築へ──24時間365日取引・即時決済・ステーブルコイン対応を構想【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/89792c7ae13b8512f93709672de312d2475a12e6",
         "source": "Yahoo",
         "date": ""
       }
