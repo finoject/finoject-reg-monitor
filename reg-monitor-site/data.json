@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-13T23:32:17.449Z",
+  "generatedAt": "2026-07-14T01:01:00.911Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（7月10日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260710.htm",
+      "date": "2026-07-14",
+      "detectedAt": "2026-07-14T01:01:00.911Z",
+      "enriched": "2026-07-14T01:01:06.105Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の令和8年7月10日現在の貸付金68,037,000,000千円のうち、共通担保資金供給オペレーション・被災地支援・気候変動対応による貸付金が28,931,100,000千円、貸出支援基金が39,105,900,000千円である。",
+        "金銭の信託は指数連動型上場投資信託37,031,165,733千円と不動産投資信託651,979,898千円で、信託銀行を通じて買入れられた受益権・投資口である。",
+        "外国為替11,979,500,864千円は外国中央銀行預け金、国債、外貨投資信託および米ドル資金供給オペレーション貸付金で構成されている。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "令和８年７月滋賀県甲賀市の土砂崩れに係る災害等に対する金融上の措置（滋賀県）",
@@ -7640,6 +7655,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "Robinhood Chain、初週DEX取引高31億ドル＝Bernstein",
+        "url": "https://news.yahoo.co.jp/articles/ae25347bc429f7e42809200c08087fa7806dabb4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "タイ中央銀行、グレーマネー取り締まりでステーブルコインへの監視強化＝報道",
         "url": "https://news.yahoo.co.jp/articles/734a8a24a39704f2faf1a3cd9010cb753de8f160",
         "source": "Yahoo",
@@ -7666,18 +7687,18 @@
       {
         "title": "英国、金融市場トークン化のロードマップ公表",
         "url": "https://news.yahoo.co.jp/articles/eee1cd2754fd7f3958ee16f41029eb4eec181fcb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI VCトレード、JPYSCレンディング開始──初回年率3％",
-        "url": "https://news.yahoo.co.jp/articles/41674e1dd5a5f98be6642721e4cc98ce8f84a5bb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Robinhood Chain、初週DEX取引高31億ドル＝Bernstein",
+        "url": "https://news.yahoo.co.jp/articles/ae25347bc429f7e42809200c08087fa7806dabb4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "タイ中央銀行、グレーマネー取り締まりでステーブルコインへの監視強化＝報道",
         "url": "https://news.yahoo.co.jp/articles/734a8a24a39704f2faf1a3cd9010cb753de8f160",
         "source": "Yahoo",
@@ -7704,12 +7725,6 @@
       {
         "title": "英国、金融市場トークン化のロードマップ公表",
         "url": "https://news.yahoo.co.jp/articles/eee1cd2754fd7f3958ee16f41029eb4eec181fcb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI VCトレード、JPYSCレンディング開始──初回年率3％",
-        "url": "https://news.yahoo.co.jp/articles/41674e1dd5a5f98be6642721e4cc98ce8f84a5bb",
         "source": "Yahoo",
         "date": ""
       }
@@ -7906,6 +7921,12 @@
     ],
     "358AC1000000032": [
       {
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「助けて助けて助けて」「既読だけでも」消費者金融に追われた高野健一被告が「最上あい」に送っていた“返済懇願LINE”",
         "url": "https://news.yahoo.co.jp/articles/c958e05eebcde90b9a4dc70e47e2f50e735d7745",
         "source": "Yahoo",
@@ -7932,18 +7953,18 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国で年2400％の違法貸金組織摘発",
-        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「助けて助けて助けて」「既読だけでも」消費者金融に追われた高野健一被告が「最上あい」に送っていた“返済懇願LINE”",
         "url": "https://news.yahoo.co.jp/articles/c958e05eebcde90b9a4dc70e47e2f50e735d7745",
         "source": "Yahoo",
@@ -7970,18 +7991,18 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国で年2400％の違法貸金組織摘発",
-        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「助けて助けて助けて」「既読だけでも」消費者金融に追われた高野健一被告が「最上あい」に送っていた“返済懇願LINE”",
         "url": "https://news.yahoo.co.jp/articles/c958e05eebcde90b9a4dc70e47e2f50e735d7745",
         "source": "Yahoo",
@@ -8008,12 +8029,6 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国で年2400％の違法貸金組織摘発",
-        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
