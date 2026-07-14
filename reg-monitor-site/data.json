@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-07-14T06:56:39.271Z",
+  "generatedAt": "2026-07-14T09:28:25.678Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260710.xlsx",
+      "date": "2026-07-14",
+      "detectedAt": "2026-07-14T09:28:25.678Z",
+      "enriched": "2026-07-14T09:28:31.058Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "提供データが暗号化・圧縮されており、本文の具体的内容が判別不可能。日本銀行が保有する国債の銘柄別残高に関する統計情報の公表と推定されるが、詳細な金額・銘柄・変更内容は確認できない。",
+        "本文が技術的に読取不可のため、金融機関や市場参加者が取るべき具体的対応を特定できない。原文書のダウンロード・表示方法の確認が必要。",
+        "公表日は2026年7月14日と表示されているが、適用日時や関連法令・条項を本文から判別できない。原資料の正常な形式での確認が必須。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の基準値段等：金２倍ブルＥＴＦ（コード606A）",
+      "url": "https://www.jpx.co.jp/news/1030/20260714-02.html",
+      "date": "2026-07-14",
+      "detectedAt": "2026-07-14T09:28:25.678Z",
+      "enriched": "2026-07-14T09:28:31.058Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金2倍ブルＥＴＦ（コード606A）が2026年7月15日に東証に新規上場され、基準値段は19,945円、値段上限値23,945円、値段下限値15,945円、売買単位は1口に設定された。",
+        "取引参加者および投資家は、同日の取引開始から当該ＥＴＦの売買に参加する際、公表された基準値段および制限値幅の範囲内で注文を発注する必要がある。",
+        "2026年7月15日の新規上場から適用される東京証券取引所の売買ルールに基づき、コード606Aのポジション管理および値段設定が行われる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：上場インデックスファンド東証ＲＥＩＴ高利回り30（コード608A）",
+      "url": "https://www.jpx.co.jp/news/1030/20260714-01.html",
+      "date": "2026-07-14",
+      "detectedAt": "2026-07-14T09:28:25.678Z",
+      "enriched": "2026-07-14T09:28:31.059Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "上場インデックスファンド東証REIT高利回り30（コード608A）は2026年7月21日に東証に新規上場し、呼値の単位は「ETF等（1口）呼値テーブル」が適用される。",
+        "取引参加者及び売買に関わる事業者は、同ETFの売買単位が1口であり、当該呼値テーブルに基づいて注文値段を設定して取引を執行する必要がある。",
+        "上場日は2026年7月21日、東京証券取引所（東証）への上場であり、呼値ルールは「ETF等（1口）呼値テーブル」の適用に基づく。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：iFreeETF ドイツ0-3カ月短期国債（大和アセットマネジメント）",
+      "url": "https://www.jpx.co.jp/news/1070/20260714.html",
+      "date": "2026-07-14",
+      "detectedAt": "2026-07-14T09:28:25.678Z",
+      "enriched": "2026-07-14T09:28:31.059Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大和アセットマネジメント運用のiFreeETF ドイツ0-3カ月短期国債（コード613A）がSolactive ドイツ政府0-3カ月短期国債指数（円ベース）に連動するETFとして新規上場承認された。",
+        "証券会社は2026年8月3日の上場日から本銘柄を取扱い可能であり、特定口座での取扱いが実施される。信託報酬は0.14%（税込0.154%）以内で、分配金は年4回（2月10日・5月10日・8月10日・11月10日）支払われる。",
+        "租税特別措置法第9条の4の2に規定する上場証券投資信託等の受益証券に該当し、指標連動型ETFとして国内組成される内国ETFであり、新規上場日の売買から成行売呼値・成行買呼値が可能。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "自主規制規則の見直しに関する検討計画について",
+      "url": "https://www.jsda.or.jp/shijyo/seido/jishukisei/minaoshi/minaoshi.html",
+      "date": "2026-07-14",
+      "detectedAt": "2026-07-14T09:28:25.678Z",
+      "enriched": "2026-07-14T09:30:01.300Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2011年度より年1回程度の定期的な自主規制規則見直しを実施し、協会員からの意見・要望を4月・5月に募集、12月に検討結果を公表するスケジュールで進めている。",
+        "協会員等は毎年4月・5月の募集期間に規則見直しに関する意見・要望を提出でき、寄せられた提案は規則所管委員会で審議のうえ、翌年1月以降のパブリック・コメント募集を経て4月に改正施行される。",
+        "2026年度の検討計画は2026年7月に公表される予定であり、具体的な見直し対象や内容は同月の公表文書で明らかになる予定。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場日の初値決定前の気配運用について：（株）ａｎｄ ＵＳ",
@@ -7244,6 +7319,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産の金商法改正案が参院委可決──野党は「サナエトークン」等懸念で反対",
         "url": "https://news.yahoo.co.jp/articles/ce362171424b2cc4fcb9cef8b3e51c2fada9d6dc",
         "source": "Yahoo",
@@ -7270,18 +7351,18 @@
       {
         "title": "【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避",
         "url": "https://news.yahoo.co.jp/articles/8315c193f1d0cea48a114f8511c462f3b3de96ba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "TradFiとオンチェーン市場を横断──日鉄ソリューションズなど5社が共同検証",
-        "url": "https://news.yahoo.co.jp/articles/6dae8c18097d4513705f230765dd4026e2c8792f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産の金商法改正案が参院委可決──野党は「サナエトークン」等懸念で反対",
         "url": "https://news.yahoo.co.jp/articles/ce362171424b2cc4fcb9cef8b3e51c2fada9d6dc",
         "source": "Yahoo",
@@ -7308,18 +7389,18 @@
       {
         "title": "【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避",
         "url": "https://news.yahoo.co.jp/articles/8315c193f1d0cea48a114f8511c462f3b3de96ba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "TradFiとオンチェーン市場を横断──日鉄ソリューションズなど5社が共同検証",
-        "url": "https://news.yahoo.co.jp/articles/6dae8c18097d4513705f230765dd4026e2c8792f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産の金商法改正案が参院委可決──野党は「サナエトークン」等懸念で反対",
         "url": "https://news.yahoo.co.jp/articles/ce362171424b2cc4fcb9cef8b3e51c2fada9d6dc",
         "source": "Yahoo",
@@ -7346,18 +7427,18 @@
       {
         "title": "【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避",
         "url": "https://news.yahoo.co.jp/articles/8315c193f1d0cea48a114f8511c462f3b3de96ba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "TradFiとオンチェーン市場を横断──日鉄ソリューションズなど5社が共同検証",
-        "url": "https://news.yahoo.co.jp/articles/6dae8c18097d4513705f230765dd4026e2c8792f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産の金商法改正案が参院委可決──野党は「サナエトークン」等懸念で反対",
         "url": "https://news.yahoo.co.jp/articles/ce362171424b2cc4fcb9cef8b3e51c2fada9d6dc",
         "source": "Yahoo",
@@ -7384,12 +7465,6 @@
       {
         "title": "【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避",
         "url": "https://news.yahoo.co.jp/articles/8315c193f1d0cea48a114f8511c462f3b3de96ba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "TradFiとオンチェーン市場を横断──日鉄ソリューションズなど5社が共同検証",
-        "url": "https://news.yahoo.co.jp/articles/6dae8c18097d4513705f230765dd4026e2c8792f",
         "source": "Yahoo",
         "date": ""
       }
@@ -7472,6 +7547,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産の金商法改正案が参院委可決──野党は「サナエトークン」等懸念で反対",
         "url": "https://news.yahoo.co.jp/articles/ce362171424b2cc4fcb9cef8b3e51c2fada9d6dc",
         "source": "Yahoo",
@@ -7498,18 +7579,18 @@
       {
         "title": "ボリビア、USDTを決済システムに追加することを検討中＝報道",
         "url": "https://news.yahoo.co.jp/articles/f6c277ad4c1f04f1622fb9b949fb06a0355e0932",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa・Stripeなど140社超、共同運営のステーブルコイン「Open USD」発表──発行体に利回りを集約しない設計と日本勢の参画【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産の金商法改正案が参院委可決──野党は「サナエトークン」等懸念で反対",
         "url": "https://news.yahoo.co.jp/articles/ce362171424b2cc4fcb9cef8b3e51c2fada9d6dc",
         "source": "Yahoo",
@@ -7536,12 +7617,6 @@
       {
         "title": "ボリビア、USDTを決済システムに追加することを検討中＝報道",
         "url": "https://news.yahoo.co.jp/articles/f6c277ad4c1f04f1622fb9b949fb06a0355e0932",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa・Stripeなど140社超、共同運営のステーブルコイン「Open USD」発表──発行体に利回りを集約しない設計と日本勢の参画【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
         "source": "Yahoo",
         "date": ""
       }
@@ -7700,6 +7775,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハッシュポート、企業向けステーブルコイン決済を機能拡張。ウォレットからプライバシー送金可能に",
+        "url": "https://news.yahoo.co.jp/articles/b53a47ae846b50b1cf6e95a1478deab75f225227",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "メタプラネットはBTCを保有するだけの企業ではない──証券会社買収後、次の一手は【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/1bd2d6009800be5ca360486536655dc2b17dc223",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JCBとサークルがMOU、「USDC」でクロスボーダー決済と国内加盟店決済を検討",
         "url": "https://news.yahoo.co.jp/articles/b53c4e9f6ae28385f0baf69d922a81f14eef9312",
         "source": "Yahoo",
@@ -7714,30 +7807,30 @@
       {
         "title": "JCB、Circleとステーブルコイン活用で協業検討──USDCで社内資金移動の実証も視野",
         "url": "https://news.yahoo.co.jp/articles/3bdbce7df86cfc0e0c06f2d66c765f8cb4c1a607",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国KT、通信会社からAI企業へ",
-        "url": "https://news.yahoo.co.jp/articles/002aa728efec1e1683ebcebf2eebe27210e6dbdb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DJT、暗号資産・ステーブルコイン会計「RIKYU」を完全子会社化へ",
-        "url": "https://news.yahoo.co.jp/articles/b2e27a27dc28ccc49ee7ce633852f587e19e19ba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Robinhood Chain、初週DEX取引高31億ドル＝Bernstein",
-        "url": "https://news.yahoo.co.jp/articles/ae25347bc429f7e42809200c08087fa7806dabb4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハッシュポート、企業向けステーブルコイン決済を機能拡張。ウォレットからプライバシー送金可能に",
+        "url": "https://news.yahoo.co.jp/articles/b53a47ae846b50b1cf6e95a1478deab75f225227",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "メタプラネットはBTCを保有するだけの企業ではない──証券会社買収後、次の一手は【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/1bd2d6009800be5ca360486536655dc2b17dc223",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JCBとサークルがMOU、「USDC」でクロスボーダー決済と国内加盟店決済を検討",
         "url": "https://news.yahoo.co.jp/articles/b53c4e9f6ae28385f0baf69d922a81f14eef9312",
         "source": "Yahoo",
@@ -7752,24 +7845,6 @@
       {
         "title": "JCB、Circleとステーブルコイン活用で協業検討──USDCで社内資金移動の実証も視野",
         "url": "https://news.yahoo.co.jp/articles/3bdbce7df86cfc0e0c06f2d66c765f8cb4c1a607",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国KT、通信会社からAI企業へ",
-        "url": "https://news.yahoo.co.jp/articles/002aa728efec1e1683ebcebf2eebe27210e6dbdb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DJT、暗号資産・ステーブルコイン会計「RIKYU」を完全子会社化へ",
-        "url": "https://news.yahoo.co.jp/articles/b2e27a27dc28ccc49ee7ce633852f587e19e19ba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Robinhood Chain、初週DEX取引高31億ドル＝Bernstein",
-        "url": "https://news.yahoo.co.jp/articles/ae25347bc429f7e42809200c08087fa7806dabb4",
         "source": "Yahoo",
         "date": ""
       }
