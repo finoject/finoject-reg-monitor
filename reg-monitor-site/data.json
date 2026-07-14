@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-07-14T01:01:00.911Z",
+  "generatedAt": "2026-07-14T04:33:38.692Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）ａｎｄ ＵＳ",
+      "url": "https://www.jpx.co.jp/news/1031/20260714_01.html",
+      "date": "2026-07-14",
+      "detectedAt": "2026-07-14T04:33:38.692Z",
+      "enriched": "2026-07-14T04:33:44.673Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ａｎｄ ＵＳ（コード597A）は7月15日に東証に新規上場し、初値決定前の気配は板中心値1,000円から上限2,300円・下限750円の範囲で、更新値幅50円・10分間隔で上昇方向、3分間隔で下降方向に運用される。",
+        "取引参加者は当該新規上場日において成行呼値を禁止され、注文受付価格を250円以上4,000円以下の範囲内で指値注文のみで発注する必要がある。",
+        "初値決定まで制限値幅が適用されず、決定後は初値を基準として通常の制限値幅が適用される取扱いが東京証券取引所により2026年7月15日から実施される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：チャットプラス（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20260714_02.html",
+      "date": "2026-07-14",
+      "detectedAt": "2026-07-14T04:33:38.692Z",
+      "enriched": "2026-07-14T04:33:44.673Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス（株）は2026年7月15日の新規上場日に、板中心値段1,080円から上限2,484円（更新値幅54円、10分間隔）・下限810円（通常値幅、3分）の気配運用が適用される。",
+        "取引参加者は新規上場日の売買において成行呼値を禁止され、注文受付価格を270円以上4,320円以下の範囲で発注する必要がある。",
+        "初値決定まで制限値幅は適用されず、初値決定後にその初値を基準値段として呼値の制限値幅が適用される（東証自主規制に基づく新規上場時の気配運用ルール）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]自己株券買付状況報告書",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000001j98s-att/20260714.pdf",
+      "date": "2026-07-14",
+      "detectedAt": "2026-07-14T04:33:38.692Z",
+      "enriched": "2026-07-14T04:33:44.673Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社日本取引所グループが2026年4月28日の取締役会決議により4,000万株・200億円の自己株式取得を開始し、2026年6月1日から10月26日の取得期間で東京証券取引所の市場買付により実施している。",
+        "2026年6月末時点で769万2,600株・161億5,874万円を取得（進捗率19.2％・80.8％）し、決算期末日5営業日前から末日までは買付停止とする内規を遵守している。",
+        "金融商品取引法24条の6第1項に基づき2026年7月14日に関東財務局へ報告書を提出し、東京証券取引所に縦覧供置して市場への情報開示を実施した。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "営業毎旬報告（7月10日現在）",
@@ -7351,6 +7396,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
+        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "タイ中央銀行、グレーマネー取り締まりでステーブルコインへの監視強化＝報道",
         "url": "https://news.yahoo.co.jp/articles/734a8a24a39704f2faf1a3cd9010cb753de8f160",
         "source": "Yahoo",
@@ -7377,18 +7428,18 @@
       {
         "title": "Visa・Stripeなど140社超、共同運営のステーブルコイン「Open USD」発表──発行体に利回りを集約しない設計と日本勢の参画【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソンでステーブルコイン支払い KDDI・HashPortが技術実証へ 高輪ゲートウェイ店で8月実施 背景には、円建てステーブルコインの制度環境の整備がある。日本では2023年6月の改正資金決済法施行以後、円建てステーブルコインの発行・流通環境が整いつつある。ステー",
-        "url": "https://news.yahoo.co.jp/articles/e4a72ca9916bb7f1626a61fb036765f5de7f8c20",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
+        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "タイ中央銀行、グレーマネー取り締まりでステーブルコインへの監視強化＝報道",
         "url": "https://news.yahoo.co.jp/articles/734a8a24a39704f2faf1a3cd9010cb753de8f160",
         "source": "Yahoo",
@@ -7417,15 +7468,21 @@
         "url": "https://news.yahoo.co.jp/articles/e94d6b76c99320b02ce06dbe621249d28988d99f",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "ローソンでステーブルコイン支払い KDDI・HashPortが技術実証へ 高輪ゲートウェイ店で8月実施 背景には、円建てステーブルコインの制度環境の整備がある。日本では2023年6月の改正資金決済法施行以後、円建てステーブルコインの発行・流通環境が整いつつある。ステー",
-        "url": "https://news.yahoo.co.jp/articles/e4a72ca9916bb7f1626a61fb036765f5de7f8c20",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "トランプ氏、米クラリティ法案の可決を上院に要請──統合草案は今週公開か",
+        "url": "https://news.yahoo.co.jp/articles/525cb1badfc632ec7189db135253b75da6f5788f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
+        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "タイ中央銀行、グレーマネー取り締まりでステーブルコインへの監視強化＝報道",
         "url": "https://news.yahoo.co.jp/articles/734a8a24a39704f2faf1a3cd9010cb753de8f160",
@@ -7447,24 +7504,24 @@
       {
         "title": "OKJに「カントンコイン（CC）」上場へ、板取引は国内初",
         "url": "https://news.yahoo.co.jp/articles/bdde7b338282d91441cad9be49417ae7418309e6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「DeFiの法整備を2〜3年で」神田潤一議員──暗号資産の金商法移行の次を見据える【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/521b75317c0bb82bc64eb958b06ed49f31f50f96",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "bitFlyer、機関投資家向けサービス「bitFlyer Prime」を発表【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/981d21f32932773cc230a89577016e8169a4aa12",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプ氏、米クラリティ法案の可決を上院に要請──統合草案は今週公開か",
+        "url": "https://news.yahoo.co.jp/articles/525cb1badfc632ec7189db135253b75da6f5788f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
+        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "タイ中央銀行、グレーマネー取り締まりでステーブルコインへの監視強化＝報道",
         "url": "https://news.yahoo.co.jp/articles/734a8a24a39704f2faf1a3cd9010cb753de8f160",
         "source": "Yahoo",
@@ -7487,21 +7544,21 @@
         "url": "https://news.yahoo.co.jp/articles/bdde7b338282d91441cad9be49417ae7418309e6",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "「DeFiの法整備を2〜3年で」神田潤一議員──暗号資産の金商法移行の次を見据える【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/521b75317c0bb82bc64eb958b06ed49f31f50f96",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "bitFlyer、機関投資家向けサービス「bitFlyer Prime」を発表【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/981d21f32932773cc230a89577016e8169a4aa12",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
+        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
+        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
         "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
@@ -7523,24 +7580,24 @@
       {
         "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
         "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "このままでは日本と心中しかねない",
-        "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進",
-        "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
+        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
+        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
         "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
         "source": "Yahoo",
@@ -7561,18 +7618,6 @@
       {
         "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
         "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "このままでは日本と心中しかねない",
-        "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進",
-        "url": "https://news.yahoo.co.jp/articles/2be86aecc0158f964dd8289f7b09906166bcc020",
         "source": "Yahoo",
         "date": ""
       }
@@ -7655,82 +7700,88 @@
     ],
     "505M60000002048": [
       {
+        "title": "JCBとサークルがMOU、「USDC」でクロスボーダー決済と国内加盟店決済を検討",
+        "url": "https://news.yahoo.co.jp/articles/b53c4e9f6ae28385f0baf69d922a81f14eef9312",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
+        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JCB、Circleとステーブルコイン活用で協業検討──USDCで社内資金移動の実証も視野",
+        "url": "https://news.yahoo.co.jp/articles/3bdbce7df86cfc0e0c06f2d66c765f8cb4c1a607",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国KT、通信会社からAI企業へ",
+        "url": "https://news.yahoo.co.jp/articles/002aa728efec1e1683ebcebf2eebe27210e6dbdb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DJT、暗号資産・ステーブルコイン会計「RIKYU」を完全子会社化へ",
+        "url": "https://news.yahoo.co.jp/articles/b2e27a27dc28ccc49ee7ce633852f587e19e19ba",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Robinhood Chain、初週DEX取引高31億ドル＝Bernstein",
         "url": "https://news.yahoo.co.jp/articles/ae25347bc429f7e42809200c08087fa7806dabb4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイ中央銀行、グレーマネー取り締まりでステーブルコインへの監視強化＝報道",
-        "url": "https://news.yahoo.co.jp/articles/734a8a24a39704f2faf1a3cd9010cb753de8f160",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ボリビア、USDTを決済システムに追加することを検討中＝報道",
-        "url": "https://news.yahoo.co.jp/articles/f6c277ad4c1f04f1622fb9b949fb06a0355e0932",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ホリエモン「紙幣を存在させる意味がない」──現金大国日本でステーブルコインは普及するか【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/bf9e1c0ec90525d8e0b71102b0ef3c4744e4f748",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ネットスターズ、ステーブルコイン決済に対応する「Stablecoin Pay」を始動",
-        "url": "https://news.yahoo.co.jp/articles/0bfbe20b72038bece4067fe8b88c0c8726125ef4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英国、金融市場トークン化のロードマップ公表",
-        "url": "https://news.yahoo.co.jp/articles/eee1cd2754fd7f3958ee16f41029eb4eec181fcb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JCBとサークルがMOU、「USDC」でクロスボーダー決済と国内加盟店決済を検討",
+        "url": "https://news.yahoo.co.jp/articles/b53c4e9f6ae28385f0baf69d922a81f14eef9312",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
+        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JCB、Circleとステーブルコイン活用で協業検討──USDCで社内資金移動の実証も視野",
+        "url": "https://news.yahoo.co.jp/articles/3bdbce7df86cfc0e0c06f2d66c765f8cb4c1a607",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国KT、通信会社からAI企業へ",
+        "url": "https://news.yahoo.co.jp/articles/002aa728efec1e1683ebcebf2eebe27210e6dbdb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DJT、暗号資産・ステーブルコイン会計「RIKYU」を完全子会社化へ",
+        "url": "https://news.yahoo.co.jp/articles/b2e27a27dc28ccc49ee7ce633852f587e19e19ba",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Robinhood Chain、初週DEX取引高31億ドル＝Bernstein",
         "url": "https://news.yahoo.co.jp/articles/ae25347bc429f7e42809200c08087fa7806dabb4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイ中央銀行、グレーマネー取り締まりでステーブルコインへの監視強化＝報道",
-        "url": "https://news.yahoo.co.jp/articles/734a8a24a39704f2faf1a3cd9010cb753de8f160",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ボリビア、USDTを決済システムに追加することを検討中＝報道",
-        "url": "https://news.yahoo.co.jp/articles/f6c277ad4c1f04f1622fb9b949fb06a0355e0932",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ホリエモン「紙幣を存在させる意味がない」──現金大国日本でステーブルコインは普及するか【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/bf9e1c0ec90525d8e0b71102b0ef3c4744e4f748",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ネットスターズ、ステーブルコイン決済に対応する「Stablecoin Pay」を始動",
-        "url": "https://news.yahoo.co.jp/articles/0bfbe20b72038bece4067fe8b88c0c8726125ef4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英国、金融市場トークン化のロードマップ公表",
-        "url": "https://news.yahoo.co.jp/articles/eee1cd2754fd7f3958ee16f41029eb4eec181fcb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419AC0000000022": [
       {
+        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
+        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
         "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
         "source": "Yahoo",
@@ -7757,18 +7808,18 @@
       {
         "title": "AI防衛、G7で「基準」議論 金融機関は優先順位付けを 預金流出、マネロン対策重視・片山金融相",
         "url": "https://news.yahoo.co.jp/articles/d82645c1e490a3b1ef0e91e825a07c93282c22e5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
-        "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
+        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
         "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
         "source": "Yahoo",
@@ -7795,18 +7846,18 @@
       {
         "title": "AI防衛、G7で「基準」議論 金融機関は優先順位付けを 預金流出、マネロン対策重視・片山金融相",
         "url": "https://news.yahoo.co.jp/articles/d82645c1e490a3b1ef0e91e825a07c93282c22e5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
-        "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
+        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
         "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
         "source": "Yahoo",
@@ -7833,12 +7884,6 @@
       {
         "title": "AI防衛、G7で「基準」議論 金融機関は優先順位付けを 預金流出、マネロン対策重視・片山金融相",
         "url": "https://news.yahoo.co.jp/articles/d82645c1e490a3b1ef0e91e825a07c93282c22e5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
-        "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
         "source": "Yahoo",
         "date": ""
       }
@@ -7921,6 +7966,12 @@
     ],
     "358AC1000000032": [
       {
+        "title": "出費がかさむ夏に知っておきたい。カードの「キャッシング枠」金利と上限",
+        "url": "https://news.yahoo.co.jp/articles/06278ca989bcee3271f9f449555145b3244f3660",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -7947,18 +7998,18 @@
       {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "指名手配のベトナム人、無断横断で御用",
-        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
+        "title": "出費がかさむ夏に知っておきたい。カードの「キャッシング枠」金利と上限",
+        "url": "https://news.yahoo.co.jp/articles/06278ca989bcee3271f9f449555145b3244f3660",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -7985,18 +8036,18 @@
       {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "指名手配のベトナム人、無断横断で御用",
-        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
+        "title": "出費がかさむ夏に知っておきたい。カードの「キャッシング枠」金利と上限",
+        "url": "https://news.yahoo.co.jp/articles/06278ca989bcee3271f9f449555145b3244f3660",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -8023,12 +8074,6 @@
       {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "指名手配のベトナム人、無断横断で御用",
-        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
@@ -8445,6 +8490,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "個人情報保護法の改正「懸念は承知」 透明性高める考え デジタル相 10日に成立した改正個人情報保護法について、松本尚デジタル相は14日の閣議後会見で、「個人情報がいろんなところに漏れてしまうという懸念があることは",
+        "url": "https://news.yahoo.co.jp/articles/57e3aa096dd6698898d38f96f7e1a8487de4fafb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "＜QAで解説＞同意なく病歴など提供可能に 改正個人情報保護法",
         "url": "https://news.yahoo.co.jp/articles/eb4db284f1024372ae83799d076568c6fcfdd712",
         "source": "Yahoo",
@@ -8471,18 +8522,18 @@
       {
         "title": "個人情報の悪用恐れなお 改正保護法成立 提供中止は要求できず／対象曖昧で企業に不安",
         "url": "https://news.yahoo.co.jp/articles/5336a5142aa0e9c4db7837bd427690fe54dd1299",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:38「改正個人情報保護法」が成立 AI開発促進のために個人情報取得の規制を緩和など盛り込み 「個人情報が漏洩するリスクが高まる」と反対も",
-        "url": "https://news.yahoo.co.jp/articles/de160619c6b99e8263f4af31ea92331b6e129400",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "個人情報保護法の改正「懸念は承知」 透明性高める考え デジタル相 10日に成立した改正個人情報保護法について、松本尚デジタル相は14日の閣議後会見で、「個人情報がいろんなところに漏れてしまうという懸念があることは",
+        "url": "https://news.yahoo.co.jp/articles/57e3aa096dd6698898d38f96f7e1a8487de4fafb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "＜QAで解説＞同意なく病歴など提供可能に 改正個人情報保護法",
         "url": "https://news.yahoo.co.jp/articles/eb4db284f1024372ae83799d076568c6fcfdd712",
         "source": "Yahoo",
@@ -8509,18 +8560,18 @@
       {
         "title": "個人情報の悪用恐れなお 改正保護法成立 提供中止は要求できず／対象曖昧で企業に不安",
         "url": "https://news.yahoo.co.jp/articles/5336a5142aa0e9c4db7837bd427690fe54dd1299",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:38「改正個人情報保護法」が成立 AI開発促進のために個人情報取得の規制を緩和など盛り込み 「個人情報が漏洩するリスクが高まる」と反対も",
-        "url": "https://news.yahoo.co.jp/articles/de160619c6b99e8263f4af31ea92331b6e129400",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "個人情報保護法の改正「懸念は承知」 透明性高める考え デジタル相 10日に成立した改正個人情報保護法について、松本尚デジタル相は14日の閣議後会見で、「個人情報がいろんなところに漏れてしまうという懸念があることは",
+        "url": "https://news.yahoo.co.jp/articles/57e3aa096dd6698898d38f96f7e1a8487de4fafb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "＜QAで解説＞同意なく病歴など提供可能に 改正個人情報保護法",
         "url": "https://news.yahoo.co.jp/articles/eb4db284f1024372ae83799d076568c6fcfdd712",
         "source": "Yahoo",
@@ -8547,12 +8598,6 @@
       {
         "title": "個人情報の悪用恐れなお 改正保護法成立 提供中止は要求できず／対象曖昧で企業に不安",
         "url": "https://news.yahoo.co.jp/articles/5336a5142aa0e9c4db7837bd427690fe54dd1299",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:38「改正個人情報保護法」が成立 AI開発促進のために個人情報取得の規制を緩和など盛り込み 「個人情報が漏洩するリスクが高まる」と反対も",
-        "url": "https://news.yahoo.co.jp/articles/de160619c6b99e8263f4af31ea92331b6e129400",
         "source": "Yahoo",
         "date": ""
       }
