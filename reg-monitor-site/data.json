@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T11:13:38.361Z",
+  "generatedAt": "2026-07-15T12:56:23.010Z",
   "items": [
     {
       "agency": "日本取引所グループ",
@@ -7896,6 +7896,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBIとのDigiFT、日本株運用をオンチェーン化──「JXトークン」",
+        "url": "https://news.yahoo.co.jp/articles/37e1dc039902a4aaac3e5633e04a2526f7ad2754",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "中国の検察関係者ら、暗号資産ミキサーへの対応強化を提言──Zcashは10.5％上昇【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/113cc5a73f8a602873db4e789decde5c8f714ad9",
         "source": "Yahoo",
@@ -7922,18 +7928,18 @@
       {
         "title": "SBIら、トークン化日本株ファンドの決済・分配を検証──JPYSC活用見据え",
         "url": "https://news.yahoo.co.jp/articles/bcda046389f61c600f2517912a1bb0464eaa3eba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIグローバルAM・スターテイルら、「JPYSC」活用見据えたトークン化日本株ファンドの決済・分配PoC開始",
-        "url": "https://news.yahoo.co.jp/articles/e142fd7e859ad2a661c06c58ef14f739342962cf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBIとのDigiFT、日本株運用をオンチェーン化──「JXトークン」",
+        "url": "https://news.yahoo.co.jp/articles/37e1dc039902a4aaac3e5633e04a2526f7ad2754",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "中国の検察関係者ら、暗号資産ミキサーへの対応強化を提言──Zcashは10.5％上昇【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/113cc5a73f8a602873db4e789decde5c8f714ad9",
         "source": "Yahoo",
@@ -7960,12 +7966,6 @@
       {
         "title": "SBIら、トークン化日本株ファンドの決済・分配を検証──JPYSC活用見据え",
         "url": "https://news.yahoo.co.jp/articles/bcda046389f61c600f2517912a1bb0464eaa3eba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIグローバルAM・スターテイルら、「JPYSC」活用見据えたトークン化日本株ファンドの決済・分配PoC開始",
-        "url": "https://news.yahoo.co.jp/articles/e142fd7e859ad2a661c06c58ef14f739342962cf",
         "source": "Yahoo",
         "date": ""
       }
