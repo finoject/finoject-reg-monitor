@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-07-15T04:33:53.301Z",
+  "generatedAt": "2026-07-15T06:58:25.241Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-07-15",
+      "detectedAt": "2026-07-15T06:58:25.241Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-15T06:58:30.893Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株式投資型クラウドファンディングの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucrowdfunding/index.html",
+      "date": "2026-07-15",
+      "detectedAt": "2026-07-15T06:58:25.241Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が株式投資型クラウドファンディングの月次・年次取扱状況統計を更新し、2026年5月中のデータを6月15日に公表した。会員等は毎月末現在の取扱状況を翌月15日（休日は翌営業日）に報告する必要がある。",
+        "統計は証券会社および株式投資型クラウドファンディング専業業者から提出された報告をもとに、有価証券の種類ごとに集計され、価格・数量・金額は各々1円単位、1株単位、1個単位で表示される。",
+        "月次統計は毎月末現在の取扱状況を翌月15日、年次統計は毎年末現在の取扱状況を翌年1月15日（各々休日は翌営業日）に協会ウェブサイトで公表される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-15T06:58:30.893Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場銘柄の売買に関する規制措置：チャットプラス（株）",
+      "url": "https://www.jpx.co.jp/news/1030/20260715-01.html",
+      "date": "2026-07-15",
+      "detectedAt": "2026-07-15T06:58:25.241Z",
+      "enriched": "2026-07-15T06:58:30.893Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス（株）（コード598A）の初値決定日の買付について、取引参加者は買付顧客から買付代金（現金）を即日徴収し、自己計算による買付を禁止される。MRF残高で充当する場合も同等に扱う。",
+        "気配運用は前日最終気配値段の2.3倍を上限とし、5％幅（10分）または直前気配基準の幅（3分）で更新。成行呼値は初値決定日まで禁止。初値決定後は初値を基準値段として呼値制限が適用される。",
+        "本規制措置はチャットプラス（株）の初値決定日までの期間に適用される新規上場銘柄に対する取引所の自主規制措置であり、2026年7月15日に東京証券取引所により公表された。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場（２日目）の初値決定前の気配運用について：チャットプラス（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20260715_01.html",
+      "date": "2026-07-15",
+      "detectedAt": "2026-07-15T06:58:25.241Z",
+      "enriched": "2026-07-15T06:58:30.893Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス（株）（コード598A）の2日目初値決定前気配運用：板中心値段2,484円を基準に上限5,720円（更新値幅125円・10分間隔）、下限1,863円（通常値幅・3分間隔）で気配を更新。",
+        "取引参加者は該当銘柄について、初値決定まで成行呼値を禁止し、注文受付価格を621円以上9,940円以下の範囲内で執行する必要がある。",
+        "2026年7月15日の2日目（初値決定日前）から本運用が適用され、初値決定後は当該初値を基準値段とする制限値幅が適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）ＰＡＬＴＡＣ",
+      "url": "https://www.jpx.co.jp/news/1023/20260715-11.html",
+      "date": "2026-07-15",
+      "detectedAt": "2026-07-15T06:58:25.241Z",
+      "enriched": "2026-07-15T06:58:30.893Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）PALTAC（コード8283、プライム市場）は特別支配株主による株式等売渡請求に該当するため上場廃止が決定され、2026年7月15日から8月9日まで整理銘柄に指定される。",
+        "投資家・取引参加者は同社株式について2026年7月16日以降、信用取引委託保証金・発行日決済取引証拠金・取引参加者保証金・信認金の代用有価証券から除外されたことを認識し対応する必要がある。",
+        "上場廃止日は2026年8月10日で、有価証券上場規程第601条第1項第17号に基づき実施されるが、速やかに廃止すべき事情発生時は期間・廃止日が変更される可能性がある。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "第16回日本証券サミットを米国ニューヨークで開催します。",
@@ -890,22 +967,6 @@
         "本件は2026年7月9日からの適用であり、東京証券取引所による新規上場基準値段等の公表に基づく。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-07-08",
-      "detectedAt": "2026-07-08T07:57:13.907Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-08T07:57:19.765Z"
     },
     {
       "agency": "金融庁",
@@ -4180,22 +4241,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本証券業協会",
-      "title": "「株式投資型クラウドファンディングの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucrowdfunding/index.html",
-      "date": "2026-06-15",
-      "detectedAt": "2026-06-16T15:17:06.019Z",
-      "updated": true,
-      "enriched": "2026-06-19T06:01:56.315Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が株式投資型クラウドファンディングの月次・年次取扱状況統計を更新し、2026年5月中のデータを6月15日に公表した。会員等は毎月末現在の取扱状況を翌月15日（休日は翌営業日）に報告する必要がある。",
-        "統計は証券会社および株式投資型クラウドファンディング専業業者から提出された報告をもとに、有価証券の種類ごとに集計され、価格・数量・金額は各々1円単位、1株単位、1個単位で表示される。",
-        "月次統計は毎月末現在の取扱状況を翌月15日、年次統計は毎年末現在の取扱状況を翌年1月15日（各々休日は翌営業日）に協会ウェブサイトで公表される。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "金融庁",
       "title": "預金口座の不正利用に係る情報提供件数等（令和８年３月末）の公表",
       "url": "https://www.fsa.go.jp/news/r7/ginkou/20260615.html",
@@ -7395,6 +7440,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
+        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "改正金商法が成立 仮想通貨を規制対象に 改正金融商品取引法が15日の参院本会議で可決、成立した。 投資商品として暗号資産（仮想通貨）の人気が高まる中、株式などの有価証券と共に金商法の規",
         "url": "https://news.yahoo.co.jp/articles/c985312b5b721cdc3f0f7ff5303a89a131dfc195",
         "source": "Yahoo",
@@ -7421,18 +7472,18 @@
       {
         "title": "不正入手口座で相場操縦か 詐欺疑い逮捕の中国籍姉妹",
         "url": "https://news.yahoo.co.jp/articles/2378d8f538147b7bd1be26c42ffc9a2ee301bed1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
-        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
+        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "改正金商法が成立 仮想通貨を規制対象に 改正金融商品取引法が15日の参院本会議で可決、成立した。 投資商品として暗号資産（仮想通貨）の人気が高まる中、株式などの有価証券と共に金商法の規",
         "url": "https://news.yahoo.co.jp/articles/c985312b5b721cdc3f0f7ff5303a89a131dfc195",
         "source": "Yahoo",
@@ -7459,18 +7510,18 @@
       {
         "title": "不正入手口座で相場操縦か 詐欺疑い逮捕の中国籍姉妹",
         "url": "https://news.yahoo.co.jp/articles/2378d8f538147b7bd1be26c42ffc9a2ee301bed1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
-        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
+        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "改正金商法が成立 仮想通貨を規制対象に 改正金融商品取引法が15日の参院本会議で可決、成立した。 投資商品として暗号資産（仮想通貨）の人気が高まる中、株式などの有価証券と共に金商法の規",
         "url": "https://news.yahoo.co.jp/articles/c985312b5b721cdc3f0f7ff5303a89a131dfc195",
         "source": "Yahoo",
@@ -7497,18 +7548,18 @@
       {
         "title": "不正入手口座で相場操縦か 詐欺疑い逮捕の中国籍姉妹",
         "url": "https://news.yahoo.co.jp/articles/2378d8f538147b7bd1be26c42ffc9a2ee301bed1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
-        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
+        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "改正金商法が成立 仮想通貨を規制対象に 改正金融商品取引法が15日の参院本会議で可決、成立した。 投資商品として暗号資産（仮想通貨）の人気が高まる中、株式などの有価証券と共に金商法の規",
         "url": "https://news.yahoo.co.jp/articles/c985312b5b721cdc3f0f7ff5303a89a131dfc195",
         "source": "Yahoo",
@@ -7535,12 +7586,6 @@
       {
         "title": "不正入手口座で相場操縦か 詐欺疑い逮捕の中国籍姉妹",
         "url": "https://news.yahoo.co.jp/articles/2378d8f538147b7bd1be26c42ffc9a2ee301bed1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材】パシフィックメタとキリフダ、Ellipticの日本展開を支援。金融機関向けオンチェーン分析サービス提供へ",
-        "url": "https://news.yahoo.co.jp/articles/905422f054884750a09dc5cd1e9d09b7f3477339",
         "source": "Yahoo",
         "date": ""
       }
@@ -7623,6 +7668,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "世界の10％、300兆円市場を築けるか──セキュリタイズ小林氏、日本のRWA市場に危機感【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/2498c707402e50c97340dc286891b17175c4cac8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "キリフダ、規制対応型DeFiレンディングサービス「LaaS」提供開始、国内向けにMorpho導入支援",
+        "url": "https://news.yahoo.co.jp/articles/db3f2bd9ce485b8aadd57b41d63d8ed0b6bb8fbd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
+        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "改正金商法が成立 仮想通貨を規制対象に",
         "url": "https://news.yahoo.co.jp/articles/c985312b5b721cdc3f0f7ff5303a89a131dfc195",
         "source": "Yahoo",
@@ -7637,30 +7700,30 @@
       {
         "title": "暗号資産は金融商品、ETF解禁へ 改正法成立、問われる利用者保護 これまで暗号資産はネットでやりとりできる決済手段として資金決済法で規制されてきた。最近は投資目的の利用が増えたため、金商法改正で金融商品として規制される",
         "url": "https://news.yahoo.co.jp/articles/bf237572b18d9aaea66e3a368771575832acbe53",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【速報】暗号資産の金商法改正案が成立──仮想通貨、正式に「金融商品」へ",
-        "url": "https://news.yahoo.co.jp/articles/07b437a06ac50b534cecfaf2f97805ba6271d955",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "預かり資産約2兆円のDeFi「Morpho」、日本のアプリに導入可能に──キリフダが支援",
-        "url": "https://news.yahoo.co.jp/articles/fd2adfd867df5dcec45f573c182c928f76eb9ebe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米民主党の上院議員3人がクラリティ法案への反対を表明",
-        "url": "https://news.yahoo.co.jp/articles/a48e86be79a1eb8f2efb3f22682b3cf5183602f5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "世界の10％、300兆円市場を築けるか──セキュリタイズ小林氏、日本のRWA市場に危機感【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/2498c707402e50c97340dc286891b17175c4cac8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "キリフダ、規制対応型DeFiレンディングサービス「LaaS」提供開始、国内向けにMorpho導入支援",
+        "url": "https://news.yahoo.co.jp/articles/db3f2bd9ce485b8aadd57b41d63d8ed0b6bb8fbd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
+        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "改正金商法が成立 仮想通貨を規制対象に",
         "url": "https://news.yahoo.co.jp/articles/c985312b5b721cdc3f0f7ff5303a89a131dfc195",
         "source": "Yahoo",
@@ -7675,24 +7738,6 @@
       {
         "title": "暗号資産は金融商品、ETF解禁へ 改正法成立、問われる利用者保護 これまで暗号資産はネットでやりとりできる決済手段として資金決済法で規制されてきた。最近は投資目的の利用が増えたため、金商法改正で金融商品として規制される",
         "url": "https://news.yahoo.co.jp/articles/bf237572b18d9aaea66e3a368771575832acbe53",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【速報】暗号資産の金商法改正案が成立──仮想通貨、正式に「金融商品」へ",
-        "url": "https://news.yahoo.co.jp/articles/07b437a06ac50b534cecfaf2f97805ba6271d955",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "預かり資産約2兆円のDeFi「Morpho」、日本のアプリに導入可能に──キリフダが支援",
-        "url": "https://news.yahoo.co.jp/articles/fd2adfd867df5dcec45f573c182c928f76eb9ebe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米民主党の上院議員3人がクラリティ法案への反対を表明",
-        "url": "https://news.yahoo.co.jp/articles/a48e86be79a1eb8f2efb3f22682b3cf5183602f5",
         "source": "Yahoo",
         "date": ""
       }
@@ -7851,76 +7896,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "金融機関が国債のオンチェーン化を求める理由──鍵は「余分な担保」【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/f6ec59d65094a89c9468fd9264d503c6054f20dc",
+        "title": "SBIら、トークン化日本株ファンドの決済・分配を検証──JPYSC活用見据え",
+        "url": "https://news.yahoo.co.jp/articles/bcda046389f61c600f2517912a1bb0464eaa3eba",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米銀行業界、クラリティ法案のステーブルコイン利回り条項の修正を要求",
-        "url": "https://news.yahoo.co.jp/articles/58dafab81a3149ce1665f25519cf44feca651a6c",
+        "title": "SBIグローバルAM・スターテイルら、「JPYSC」活用見据えたトークン化日本株ファンドの決済・分配PoC開始",
+        "url": "https://news.yahoo.co.jp/articles/e142fd7e859ad2a661c06c58ef14f739342962cf",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「暗号資産の9割はゴミ」と主張する著名エコノミストが、独自の暗号資産を発行した理由は“インフレ耐性”（海外）",
-        "url": "https://news.yahoo.co.jp/articles/4bd647791050168c3e1dda9e262625593d3396c3",
+        "title": "SBIグローバルAMとDigiFT、日本株ファンド戦略のトークン「JX」をソラナで提供開始",
+        "url": "https://news.yahoo.co.jp/articles/2a401ee134ef7e3cae6072e1e428bb54cbf112a4",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ETH、約1カ月ぶりの高値圏──ロビンフッドL2の週間DEX取引高は31億ドル超【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/9a9cc680b497758b69e9e5991b54c757de211966",
+        "title": "元イーサリアム財団チームが「イーサシステムズ」正式稼働、金融機関向けプライバシー技術を提供へ",
+        "url": "https://news.yahoo.co.jp/articles/79cbc6153077b7c570ff877b3385a3b65c2d3b3c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米英、ステーブルコイン競争促進へ共同提言",
-        "url": "https://news.yahoo.co.jp/articles/786641d820a88e5eac42f649c06fd97eb8464437",
+        "title": "世界の10％、300兆円市場を築けるか──セキュリタイズ小林氏、日本のRWA市場に危機感【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/2498c707402e50c97340dc286891b17175c4cac8",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "〔情報ＢＯＸ〕ウォーシュ米ＦＲＢ議長の議会証言要旨（1日目） ＊他の銀行規制当局と連携し、期限までに、暗号資産（仮想‌通貨）ステーブルコイン規制法案「ジーニアス法」に沿ったルール策定を目指す ＊ＡＩは",
-        "url": "https://news.yahoo.co.jp/articles/33d24f4da8c61b54b750e48807094ecfb9d17258",
+        "title": "日本株ファンドのデジタル資産をパブリック・ブロックチェーン上で取引開始、SBIグローバルアセットマネジメントが世界初で実現",
+        "url": "https://news.yahoo.co.jp/articles/acd389bb56244d1484f25719f649d68dd1ec72aa",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "金融機関が国債のオンチェーン化を求める理由──鍵は「余分な担保」【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/f6ec59d65094a89c9468fd9264d503c6054f20dc",
+        "title": "SBIら、トークン化日本株ファンドの決済・分配を検証──JPYSC活用見据え",
+        "url": "https://news.yahoo.co.jp/articles/bcda046389f61c600f2517912a1bb0464eaa3eba",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米銀行業界、クラリティ法案のステーブルコイン利回り条項の修正を要求",
-        "url": "https://news.yahoo.co.jp/articles/58dafab81a3149ce1665f25519cf44feca651a6c",
+        "title": "SBIグローバルAM・スターテイルら、「JPYSC」活用見据えたトークン化日本株ファンドの決済・分配PoC開始",
+        "url": "https://news.yahoo.co.jp/articles/e142fd7e859ad2a661c06c58ef14f739342962cf",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「暗号資産の9割はゴミ」と主張する著名エコノミストが、独自の暗号資産を発行した理由は“インフレ耐性”（海外）",
-        "url": "https://news.yahoo.co.jp/articles/4bd647791050168c3e1dda9e262625593d3396c3",
+        "title": "SBIグローバルAMとDigiFT、日本株ファンド戦略のトークン「JX」をソラナで提供開始",
+        "url": "https://news.yahoo.co.jp/articles/2a401ee134ef7e3cae6072e1e428bb54cbf112a4",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ETH、約1カ月ぶりの高値圏──ロビンフッドL2の週間DEX取引高は31億ドル超【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/9a9cc680b497758b69e9e5991b54c757de211966",
+        "title": "元イーサリアム財団チームが「イーサシステムズ」正式稼働、金融機関向けプライバシー技術を提供へ",
+        "url": "https://news.yahoo.co.jp/articles/79cbc6153077b7c570ff877b3385a3b65c2d3b3c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米英、ステーブルコイン競争促進へ共同提言",
-        "url": "https://news.yahoo.co.jp/articles/786641d820a88e5eac42f649c06fd97eb8464437",
+        "title": "世界の10％、300兆円市場を築けるか──セキュリタイズ小林氏、日本のRWA市場に危機感【WebX 2026】",
+        "url": "https://news.yahoo.co.jp/articles/2498c707402e50c97340dc286891b17175c4cac8",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "〔情報ＢＯＸ〕ウォーシュ米ＦＲＢ議長の議会証言要旨（1日目） ＊他の銀行規制当局と連携し、期限までに、暗号資産（仮想‌通貨）ステーブルコイン規制法案「ジーニアス法」に沿ったルール策定を目指す ＊ＡＩは",
-        "url": "https://news.yahoo.co.jp/articles/33d24f4da8c61b54b750e48807094ecfb9d17258",
+        "title": "日本株ファンドのデジタル資産をパブリック・ブロックチェーン上で取引開始、SBIグローバルアセットマネジメントが世界初で実現",
+        "url": "https://news.yahoo.co.jp/articles/acd389bb56244d1484f25719f649d68dd1ec72aa",
         "source": "Yahoo",
         "date": ""
       }
@@ -8641,6 +8686,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "GDPR・CCPAだけでは足りない! アジアでも急進するデータ保護法、日本企業が取るべき“現実的な最適解”とは？",
+        "url": "https://news.yahoo.co.jp/articles/00a5b37ddf07c7f60d9a4699d886a1b699d45d7d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "病歴や犯罪歴もAI開発に利用可能へ",
+        "url": "https://news.yahoo.co.jp/articles/9004ac8de66524d0b5e2f0491ecfaae351a67100",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "病歴・前科・人種・信条など「同意なし」で取得可に",
         "url": "https://news.yahoo.co.jp/articles/85c990c446c6e4c27c2602701c5717bd3b8908ce",
         "source": "Yahoo",
@@ -8661,24 +8718,24 @@
       {
         "title": "個人情報保護法の改正「懸念は承知」 透明性高める考え デジタル相 10日に成立した改正個人情報保護法について、松本尚デジタル相は14日の閣議後会見で、「個人情報がいろんなところに漏れてしまうという懸念があることは",
         "url": "https://news.yahoo.co.jp/articles/57e3aa096dd6698898d38f96f7e1a8487de4fafb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "＜QAで解説＞同意なく病歴など提供可能に 改正個人情報保護法",
-        "url": "https://news.yahoo.co.jp/articles/eb4db284f1024372ae83799d076568c6fcfdd712",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ＡＩ開発促進へ、「個人情報」企業による取得の規制緩和",
-        "url": "https://news.yahoo.co.jp/articles/fc3d0accc9677cbbbbdbb1ae9a1984d560547290",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "GDPR・CCPAだけでは足りない! アジアでも急進するデータ保護法、日本企業が取るべき“現実的な最適解”とは？",
+        "url": "https://news.yahoo.co.jp/articles/00a5b37ddf07c7f60d9a4699d886a1b699d45d7d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "病歴や犯罪歴もAI開発に利用可能へ",
+        "url": "https://news.yahoo.co.jp/articles/9004ac8de66524d0b5e2f0491ecfaae351a67100",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "病歴・前科・人種・信条など「同意なし」で取得可に",
         "url": "https://news.yahoo.co.jp/articles/85c990c446c6e4c27c2602701c5717bd3b8908ce",
         "source": "Yahoo",
@@ -8699,24 +8756,24 @@
       {
         "title": "個人情報保護法の改正「懸念は承知」 透明性高める考え デジタル相 10日に成立した改正個人情報保護法について、松本尚デジタル相は14日の閣議後会見で、「個人情報がいろんなところに漏れてしまうという懸念があることは",
         "url": "https://news.yahoo.co.jp/articles/57e3aa096dd6698898d38f96f7e1a8487de4fafb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "＜QAで解説＞同意なく病歴など提供可能に 改正個人情報保護法",
-        "url": "https://news.yahoo.co.jp/articles/eb4db284f1024372ae83799d076568c6fcfdd712",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ＡＩ開発促進へ、「個人情報」企業による取得の規制緩和",
-        "url": "https://news.yahoo.co.jp/articles/fc3d0accc9677cbbbbdbb1ae9a1984d560547290",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "GDPR・CCPAだけでは足りない! アジアでも急進するデータ保護法、日本企業が取るべき“現実的な最適解”とは？",
+        "url": "https://news.yahoo.co.jp/articles/00a5b37ddf07c7f60d9a4699d886a1b699d45d7d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "病歴や犯罪歴もAI開発に利用可能へ",
+        "url": "https://news.yahoo.co.jp/articles/9004ac8de66524d0b5e2f0491ecfaae351a67100",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "病歴・前科・人種・信条など「同意なし」で取得可に",
         "url": "https://news.yahoo.co.jp/articles/85c990c446c6e4c27c2602701c5717bd3b8908ce",
         "source": "Yahoo",
@@ -8737,18 +8794,6 @@
       {
         "title": "個人情報保護法の改正「懸念は承知」 透明性高める考え デジタル相 10日に成立した改正個人情報保護法について、松本尚デジタル相は14日の閣議後会見で、「個人情報がいろんなところに漏れてしまうという懸念があることは",
         "url": "https://news.yahoo.co.jp/articles/57e3aa096dd6698898d38f96f7e1a8487de4fafb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "＜QAで解説＞同意なく病歴など提供可能に 改正個人情報保護法",
-        "url": "https://news.yahoo.co.jp/articles/eb4db284f1024372ae83799d076568c6fcfdd712",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ＡＩ開発促進へ、「個人情報」企業による取得の規制緩和",
-        "url": "https://news.yahoo.co.jp/articles/fc3d0accc9677cbbbbdbb1ae9a1984d560547290",
         "source": "Yahoo",
         "date": ""
       }
