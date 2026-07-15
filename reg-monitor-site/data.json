@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-07-14T23:33:20.628Z",
+  "generatedAt": "2026-07-15T00:57:42.721Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]国債先物における受渡適格銘柄及び交換比率一覧表の更新",
+      "url": "https://www.jpx.co.jp/derivatives/products/jgb/jgb-futures/02.html",
+      "date": "2026-07-15",
+      "detectedAt": "2026-07-15T00:57:42.721Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "国債先物（長期国債先物（現金決済型ミニ）を除く）の受渡適格銘柄及び交換比率（コンバージョン・ファクター）を2026年7月3日付で更新した。物価連動国債及びクライメート・トランジション利付国債は受渡適格銘柄に含まれない。",
+        "国債先物の取引参加者及び関連機関は、更新された受渡適格銘柄一覧表及び交換比率を取引・決済業務に適用し、受渡決済時に対応銘柄を確認・使用する必要がある。",
+        "本更新は2026年7月3日付で有効。受渡適格銘柄が未定の限月については対象銘柄発行時に資料を更新する。交換比率の計算式は2015年7月6日以降のデータに基づく。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-15T00:57:48.478Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "個人情報等の苦情処理に関する実績報告",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojn_kujyou.html",
+      "date": "2026-07-15",
+      "detectedAt": "2026-07-15T00:57:42.721Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会の個人情報相談室が扱った個人情報等の苦情処理件数を毎月集計し、協会員における個人情報・仮名加工情報・匿名加工情報の適正な取扱いを確保するための参考資料として公表している。",
+        "協会員は個人情報保護法17条～46条に基づく利用目的の特定、利用制限、安全管理措置、第三者提供の制限等について、苦情申出がある場合は協会に通知され、その内容は月次で統計集計される。",
+        "苦情処理実績は自主規制規則「個人情報の取扱いに関する苦情処理業務規則」第10条第1項に基づき集計され、毎月中旬を目途にホームページで公表される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-15T00:57:48.479Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融政策決定会合議事録等（2016年1月～6月開催分）",
+      "url": "https://www.boj.or.jp/mopo/mpmsche_minu/record_2016/gjrk.htm",
+      "date": "2026-07-14",
+      "detectedAt": "2026-07-15T00:57:42.721Z",
+      "enriched": "2026-07-15T00:57:48.479Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文に具体的な金融政策の決定内容や改正事項の記載がなく、2016年1月～6月開催の金融政策決定会合議事録公表の告知のみである。",
+        "日本銀行が過去の金融政策決定会合議事録を公表したことを示すもので、実務担当者向けの具体的な対応要件や規制変更は含まれていない。",
+        "本資料は議事録公表告知（2026年7月15日付）であり、具体的な規制内容や実務上の対応が本文に記載されていないため、さらに詳細な資料の確認が必要である。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]監理銘柄（審査中）の指定：昭和ホールディングス（株）",
@@ -561,22 +608,6 @@
         "東証は初値決定後に初値を基準値段として通常の呼値制限値幅を適用し、初値決定後は成行呼値の禁止を解除する（初値決定日以降）。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[OSE]国債先物における受渡適格銘柄及び交換比率一覧表の更新",
-      "url": "https://www.jpx.co.jp/derivatives/products/jgb/jgb-futures/02.html",
-      "date": "2026-07-10",
-      "detectedAt": "2026-07-10T01:13:21.097Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "国債先物（長期国債先物（現金決済型ミニ）を除く）の受渡適格銘柄及び交換比率（コンバージョン・ファクター）を2026年7月3日付で更新した。物価連動国債及びクライメート・トランジション利付国債は受渡適格銘柄に含まれない。",
-        "国債先物の取引参加者及び関連機関は、更新された受渡適格銘柄一覧表及び交換比率を取引・決済業務に適用し、受渡決済時に対応銘柄を確認・使用する必要がある。",
-        "本更新は2026年7月3日付で有効。受渡適格銘柄が未定の限月については対象銘柄発行時に資料を更新する。交換比率の計算式は2015年7月6日以降のデータに基づく。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-10T01:13:27.296Z"
     },
     {
       "agency": "日本銀行",
@@ -4189,21 +4220,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本証券業協会",
-      "title": "個人情報等の苦情処理に関する実績報告",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojn_kujyou.html",
-      "date": "2026-06-15",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:01:56.315Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会の個人情報相談室が扱った個人情報等の苦情処理件数を毎月集計し、協会員における個人情報・仮名加工情報・匿名加工情報の適正な取扱いを確保するための参考資料として公表している。",
-        "協会員は個人情報保護法17条～46条に基づく利用目的の特定、利用制限、安全管理措置、第三者提供の制限等について、苦情申出がある場合は協会に通知され、その内容は月次で統計集計される。",
-        "苦情処理実績は自主規制規則「個人情報の取扱いに関する苦情処理業務規則」第10条第1項に基づき集計され、毎月中旬を目途にホームページで公表される。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "日本公認会計士協会",
       "title": "「令和８年度修了考査受験案内」及び「担当常務理事から受験者へのメッセージ」公開",
       "url": "https://jicpa.or.jp/news/information/2026/20260615cjq.html",
@@ -7562,6 +7578,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米民主党の上院議員3人がクラリティ法案への反対を表明",
+        "url": "https://news.yahoo.co.jp/articles/a48e86be79a1eb8f2efb3f22682b3cf5183602f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米銀行業界、クラリティ法案のステーブルコイン利回り条項の修正を要求",
         "url": "https://news.yahoo.co.jp/articles/58dafab81a3149ce1665f25519cf44feca651a6c",
         "source": "Yahoo",
@@ -7588,18 +7610,18 @@
       {
         "title": "トランプ氏、米クラリティ法案の可決を上院に要請──統合草案は今週公開か",
         "url": "https://news.yahoo.co.jp/articles/525cb1badfc632ec7189db135253b75da6f5788f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
-        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米民主党の上院議員3人がクラリティ法案への反対を表明",
+        "url": "https://news.yahoo.co.jp/articles/a48e86be79a1eb8f2efb3f22682b3cf5183602f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米銀行業界、クラリティ法案のステーブルコイン利回り条項の修正を要求",
         "url": "https://news.yahoo.co.jp/articles/58dafab81a3149ce1665f25519cf44feca651a6c",
         "source": "Yahoo",
@@ -7626,12 +7648,6 @@
       {
         "title": "トランプ氏、米クラリティ法案の可決を上院に要請──統合草案は今週公開か",
         "url": "https://news.yahoo.co.jp/articles/525cb1badfc632ec7189db135253b75da6f5788f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
-        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
         "source": "Yahoo",
         "date": ""
       }
@@ -8580,6 +8596,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "【社説】個人情報の利用 AI開発に偏りはないか",
+        "url": "https://news.yahoo.co.jp/articles/c82697409a2199de96e2f082acec2c07f198978e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報保護委員会「令和7年度年次報告」公表 ～ 名簿業者への勧告・命令事例も記載",
         "url": "https://news.yahoo.co.jp/articles/0f204ba780489ab64ddbeaa71121d79bcf377635",
         "source": "Yahoo",
@@ -8606,18 +8628,18 @@
       {
         "title": "「中国に対して突っ張ったり",
         "url": "https://news.yahoo.co.jp/articles/adf8a92e17d2353a5be377496ab9bc40b1ac3e17",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市首相秘書の陳述書「近日中に提出」表明から半月超...迫る会期末、「出さないまま逃げ切る」説も",
-        "url": "https://news.yahoo.co.jp/articles/a2a9cfd432c39c82b471c2ef6c267bd5ddcf3909",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "【社説】個人情報の利用 AI開発に偏りはないか",
+        "url": "https://news.yahoo.co.jp/articles/c82697409a2199de96e2f082acec2c07f198978e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報保護委員会「令和7年度年次報告」公表 ～ 名簿業者への勧告・命令事例も記載",
         "url": "https://news.yahoo.co.jp/articles/0f204ba780489ab64ddbeaa71121d79bcf377635",
         "source": "Yahoo",
@@ -8644,18 +8666,18 @@
       {
         "title": "「中国に対して突っ張ったり",
         "url": "https://news.yahoo.co.jp/articles/adf8a92e17d2353a5be377496ab9bc40b1ac3e17",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市首相秘書の陳述書「近日中に提出」表明から半月超...迫る会期末、「出さないまま逃げ切る」説も",
-        "url": "https://news.yahoo.co.jp/articles/a2a9cfd432c39c82b471c2ef6c267bd5ddcf3909",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "【社説】個人情報の利用 AI開発に偏りはないか",
+        "url": "https://news.yahoo.co.jp/articles/c82697409a2199de96e2f082acec2c07f198978e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報保護委員会「令和7年度年次報告」公表 ～ 名簿業者への勧告・命令事例も記載",
         "url": "https://news.yahoo.co.jp/articles/0f204ba780489ab64ddbeaa71121d79bcf377635",
         "source": "Yahoo",
@@ -8682,12 +8704,6 @@
       {
         "title": "「中国に対して突っ張ったり",
         "url": "https://news.yahoo.co.jp/articles/adf8a92e17d2353a5be377496ab9bc40b1ac3e17",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市首相秘書の陳述書「近日中に提出」表明から半月超...迫る会期末、「出さないまま逃げ切る」説も",
-        "url": "https://news.yahoo.co.jp/articles/a2a9cfd432c39c82b471c2ef6c267bd5ddcf3909",
         "source": "Yahoo",
         "date": ""
       }
