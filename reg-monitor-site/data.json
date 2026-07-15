@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-15T06:58:25.241Z",
+  "generatedAt": "2026-07-15T09:32:17.954Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]TOKYO PRO Marketへの上場申請：山八商事（株）",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-07-15",
+      "detectedAt": "2026-07-15T09:32:17.954Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-15T09:32:23.695Z"
+    },
     {
       "agency": "日本証券業協会",
       "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
@@ -1072,22 +1088,6 @@
         "2026年7月8日付で日本銀行が統計データを公開、直接投資収益（69KB）と直接投資フロー（94KB）を別途ファイルで提供。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）レックスアドバイザーズ",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-07-07",
-      "detectedAt": "2026-07-07T10:08:32.415Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-07T10:08:37.587Z"
     },
     {
       "agency": "日本銀行",
@@ -7440,6 +7440,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
+        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
         "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
         "source": "Yahoo",
@@ -7466,18 +7472,18 @@
       {
         "title": "【速報】暗号資産の金商法改正案が成立──仮想通貨、正式に「金融商品」へ",
         "url": "https://news.yahoo.co.jp/articles/07b437a06ac50b534cecfaf2f97805ba6271d955",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "不正入手口座で相場操縦か 詐欺疑い逮捕の中国籍姉妹",
-        "url": "https://news.yahoo.co.jp/articles/2378d8f538147b7bd1be26c42ffc9a2ee301bed1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
+        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
         "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
         "source": "Yahoo",
@@ -7504,18 +7510,18 @@
       {
         "title": "【速報】暗号資産の金商法改正案が成立──仮想通貨、正式に「金融商品」へ",
         "url": "https://news.yahoo.co.jp/articles/07b437a06ac50b534cecfaf2f97805ba6271d955",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "不正入手口座で相場操縦か 詐欺疑い逮捕の中国籍姉妹",
-        "url": "https://news.yahoo.co.jp/articles/2378d8f538147b7bd1be26c42ffc9a2ee301bed1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
+        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
         "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
         "source": "Yahoo",
@@ -7542,18 +7548,18 @@
       {
         "title": "【速報】暗号資産の金商法改正案が成立──仮想通貨、正式に「金融商品」へ",
         "url": "https://news.yahoo.co.jp/articles/07b437a06ac50b534cecfaf2f97805ba6271d955",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "不正入手口座で相場操縦か 詐欺疑い逮捕の中国籍姉妹",
-        "url": "https://news.yahoo.co.jp/articles/2378d8f538147b7bd1be26c42ffc9a2ee301bed1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
+        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
         "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
         "source": "Yahoo",
@@ -7582,15 +7588,15 @@
         "url": "https://news.yahoo.co.jp/articles/07b437a06ac50b534cecfaf2f97805ba6271d955",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "不正入手口座で相場操縦か 詐欺疑い逮捕の中国籍姉妹",
-        "url": "https://news.yahoo.co.jp/articles/2378d8f538147b7bd1be26c42ffc9a2ee301bed1",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
+        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "改正金商法が成立 仮想通貨を規制対象に",
         "url": "https://news.yahoo.co.jp/articles/c985312b5b721cdc3f0f7ff5303a89a131dfc195",
@@ -7618,18 +7624,18 @@
       {
         "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
         "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイ中央銀行、グレーマネー取り締まりでステーブルコインへの監視強化＝報道",
-        "url": "https://news.yahoo.co.jp/articles/734a8a24a39704f2faf1a3cd9010cb753de8f160",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
+        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "改正金商法が成立 仮想通貨を規制対象に",
         "url": "https://news.yahoo.co.jp/articles/c985312b5b721cdc3f0f7ff5303a89a131dfc195",
         "source": "Yahoo",
@@ -7658,15 +7664,15 @@
         "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "タイ中央銀行、グレーマネー取り締まりでステーブルコインへの監視強化＝報道",
-        "url": "https://news.yahoo.co.jp/articles/734a8a24a39704f2faf1a3cd9010cb753de8f160",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
+        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "世界の10％、300兆円市場を築けるか──セキュリタイズ小林氏、日本のRWA市場に危機感【WebX 2026】",
         "url": "https://news.yahoo.co.jp/articles/2498c707402e50c97340dc286891b17175c4cac8",
@@ -7694,18 +7700,18 @@
       {
         "title": "改正金商法が成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。共同通信経済総合7/15(水) 13:23",
         "url": "https://news.yahoo.co.jp/articles/23c4dd39543b824b0d09eada740229f522cfe293",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産は金融商品、ETF解禁へ 改正法成立、問われる利用者保護 これまで暗号資産はネットでやりとりできる決済手段として資金決済法で規制されてきた。最近は投資目的の利用が増えたため、金商法改正で金融商品として規制される",
-        "url": "https://news.yahoo.co.jp/articles/bf237572b18d9aaea66e3a368771575832acbe53",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
+        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "世界の10％、300兆円市場を築けるか──セキュリタイズ小林氏、日本のRWA市場に危機感【WebX 2026】",
         "url": "https://news.yahoo.co.jp/articles/2498c707402e50c97340dc286891b17175c4cac8",
         "source": "Yahoo",
@@ -7732,12 +7738,6 @@
       {
         "title": "改正金商法が成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。共同通信経済総合7/15(水) 13:23",
         "url": "https://news.yahoo.co.jp/articles/23c4dd39543b824b0d09eada740229f522cfe293",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産は金融商品、ETF解禁へ 改正法成立、問われる利用者保護 これまで暗号資産はネットでやりとりできる決済手段として資金決済法で規制されてきた。最近は投資目的の利用が増えたため、金商法改正で金融商品として規制される",
-        "url": "https://news.yahoo.co.jp/articles/bf237572b18d9aaea66e3a368771575832acbe53",
         "source": "Yahoo",
         "date": ""
       }
@@ -7896,6 +7896,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "英国、トークン化金融市場の第1次報告書公表。2027年Q1までのデジタル国債発行など提言",
+        "url": "https://news.yahoo.co.jp/articles/d6f25e08d97b3209c868004cb03dbad892e2d3b3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "R25の新興国向けRWAファンド、Binance Walletから利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/fca383ebe542422f6f58fd9aa3fdd6e7ba7401e8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIら、トークン化日本株ファンドの決済・分配を検証──JPYSC活用見据え",
         "url": "https://news.yahoo.co.jp/articles/bcda046389f61c600f2517912a1bb0464eaa3eba",
         "source": "Yahoo",
@@ -7916,24 +7928,24 @@
       {
         "title": "元イーサリアム財団チームが「イーサシステムズ」正式稼働、金融機関向けプライバシー技術を提供へ",
         "url": "https://news.yahoo.co.jp/articles/79cbc6153077b7c570ff877b3385a3b65c2d3b3c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界の10％、300兆円市場を築けるか──セキュリタイズ小林氏、日本のRWA市場に危機感【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/2498c707402e50c97340dc286891b17175c4cac8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本株ファンドのデジタル資産をパブリック・ブロックチェーン上で取引開始、SBIグローバルアセットマネジメントが世界初で実現",
-        "url": "https://news.yahoo.co.jp/articles/acd389bb56244d1484f25719f649d68dd1ec72aa",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "英国、トークン化金融市場の第1次報告書公表。2027年Q1までのデジタル国債発行など提言",
+        "url": "https://news.yahoo.co.jp/articles/d6f25e08d97b3209c868004cb03dbad892e2d3b3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "R25の新興国向けRWAファンド、Binance Walletから利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/fca383ebe542422f6f58fd9aa3fdd6e7ba7401e8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIら、トークン化日本株ファンドの決済・分配を検証──JPYSC活用見据え",
         "url": "https://news.yahoo.co.jp/articles/bcda046389f61c600f2517912a1bb0464eaa3eba",
         "source": "Yahoo",
@@ -7954,18 +7966,6 @@
       {
         "title": "元イーサリアム財団チームが「イーサシステムズ」正式稼働、金融機関向けプライバシー技術を提供へ",
         "url": "https://news.yahoo.co.jp/articles/79cbc6153077b7c570ff877b3385a3b65c2d3b3c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界の10％、300兆円市場を築けるか──セキュリタイズ小林氏、日本のRWA市場に危機感【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/2498c707402e50c97340dc286891b17175c4cac8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本株ファンドのデジタル資産をパブリック・ブロックチェーン上で取引開始、SBIグローバルアセットマネジメントが世界初で実現",
-        "url": "https://news.yahoo.co.jp/articles/acd389bb56244d1484f25719f649d68dd1ec72aa",
         "source": "Yahoo",
         "date": ""
       }
@@ -8686,6 +8686,24 @@
     ],
     "415AC0000000057": [
       {
+        "title": "7:30香港メディア“日本旅行の8大NG行為” 「無断撮影で永久入国拒否」「花見で桜に触れると罰金」って少し盛り過ぎ?",
+        "url": "https://news.yahoo.co.jp/articles/80a8b518482240cf29e70d930d56674f22052dc1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】50代男性警部が業務用PCで個人情報を不正入手 女性に「連絡取りたい」とメッセージ 業務用パソコンを使って複数の女性らの個人情報を不正に入手したとして、滋賀県警が個人情報保護法違反の疑いで、県警本部に勤務していた50代男性警部を書類送検していた",
+        "url": "https://news.yahoo.co.jp/articles/854703c6f5c7bca02dde79599486e78ce4a7e48c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "業務用ＰＣから個人情報を不正入手し自分の携帯に登録か 滋賀県警の警部を書類送検",
+        "url": "https://news.yahoo.co.jp/articles/b524b557dc4cc9d3422d338a087d01b7b2d25faa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "GDPR・CCPAだけでは足りない! アジアでも急進するデータ保護法、日本企業が取るべき“現実的な最適解”とは？",
         "url": "https://news.yahoo.co.jp/articles/00a5b37ddf07c7f60d9a4699d886a1b699d45d7d",
         "source": "Yahoo",
@@ -8700,30 +8718,30 @@
       {
         "title": "病歴・前科・人種・信条など「同意なし」で取得可に",
         "url": "https://news.yahoo.co.jp/articles/85c990c446c6e4c27c2602701c5717bd3b8908ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【社説】個人情報の利用 AI開発に偏りはないか",
-        "url": "https://news.yahoo.co.jp/articles/c82697409a2199de96e2f082acec2c07f198978e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護委員会「令和7年度年次報告」公表 ～ 名簿業者への勧告・命令事例も記載",
-        "url": "https://news.yahoo.co.jp/articles/0f204ba780489ab64ddbeaa71121d79bcf377635",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護法の改正「懸念は承知」 透明性高める考え デジタル相 10日に成立した改正個人情報保護法について、松本尚デジタル相は14日の閣議後会見で、「個人情報がいろんなところに漏れてしまうという懸念があることは",
-        "url": "https://news.yahoo.co.jp/articles/57e3aa096dd6698898d38f96f7e1a8487de4fafb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "7:30香港メディア“日本旅行の8大NG行為” 「無断撮影で永久入国拒否」「花見で桜に触れると罰金」って少し盛り過ぎ?",
+        "url": "https://news.yahoo.co.jp/articles/80a8b518482240cf29e70d930d56674f22052dc1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】50代男性警部が業務用PCで個人情報を不正入手 女性に「連絡取りたい」とメッセージ 業務用パソコンを使って複数の女性らの個人情報を不正に入手したとして、滋賀県警が個人情報保護法違反の疑いで、県警本部に勤務していた50代男性警部を書類送検していた",
+        "url": "https://news.yahoo.co.jp/articles/854703c6f5c7bca02dde79599486e78ce4a7e48c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "業務用ＰＣから個人情報を不正入手し自分の携帯に登録か 滋賀県警の警部を書類送検",
+        "url": "https://news.yahoo.co.jp/articles/b524b557dc4cc9d3422d338a087d01b7b2d25faa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "GDPR・CCPAだけでは足りない! アジアでも急進するデータ保護法、日本企業が取るべき“現実的な最適解”とは？",
         "url": "https://news.yahoo.co.jp/articles/00a5b37ddf07c7f60d9a4699d886a1b699d45d7d",
         "source": "Yahoo",
@@ -8738,30 +8756,30 @@
       {
         "title": "病歴・前科・人種・信条など「同意なし」で取得可に",
         "url": "https://news.yahoo.co.jp/articles/85c990c446c6e4c27c2602701c5717bd3b8908ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【社説】個人情報の利用 AI開発に偏りはないか",
-        "url": "https://news.yahoo.co.jp/articles/c82697409a2199de96e2f082acec2c07f198978e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護委員会「令和7年度年次報告」公表 ～ 名簿業者への勧告・命令事例も記載",
-        "url": "https://news.yahoo.co.jp/articles/0f204ba780489ab64ddbeaa71121d79bcf377635",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護法の改正「懸念は承知」 透明性高める考え デジタル相 10日に成立した改正個人情報保護法について、松本尚デジタル相は14日の閣議後会見で、「個人情報がいろんなところに漏れてしまうという懸念があることは",
-        "url": "https://news.yahoo.co.jp/articles/57e3aa096dd6698898d38f96f7e1a8487de4fafb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "7:30香港メディア“日本旅行の8大NG行為” 「無断撮影で永久入国拒否」「花見で桜に触れると罰金」って少し盛り過ぎ?",
+        "url": "https://news.yahoo.co.jp/articles/80a8b518482240cf29e70d930d56674f22052dc1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】50代男性警部が業務用PCで個人情報を不正入手 女性に「連絡取りたい」とメッセージ 業務用パソコンを使って複数の女性らの個人情報を不正に入手したとして、滋賀県警が個人情報保護法違反の疑いで、県警本部に勤務していた50代男性警部を書類送検していた",
+        "url": "https://news.yahoo.co.jp/articles/854703c6f5c7bca02dde79599486e78ce4a7e48c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "業務用ＰＣから個人情報を不正入手し自分の携帯に登録か 滋賀県警の警部を書類送検",
+        "url": "https://news.yahoo.co.jp/articles/b524b557dc4cc9d3422d338a087d01b7b2d25faa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "GDPR・CCPAだけでは足りない! アジアでも急進するデータ保護法、日本企業が取るべき“現実的な最適解”とは？",
         "url": "https://news.yahoo.co.jp/articles/00a5b37ddf07c7f60d9a4699d886a1b699d45d7d",
         "source": "Yahoo",
@@ -8776,24 +8794,6 @@
       {
         "title": "病歴・前科・人種・信条など「同意なし」で取得可に",
         "url": "https://news.yahoo.co.jp/articles/85c990c446c6e4c27c2602701c5717bd3b8908ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【社説】個人情報の利用 AI開発に偏りはないか",
-        "url": "https://news.yahoo.co.jp/articles/c82697409a2199de96e2f082acec2c07f198978e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護委員会「令和7年度年次報告」公表 ～ 名簿業者への勧告・命令事例も記載",
-        "url": "https://news.yahoo.co.jp/articles/0f204ba780489ab64ddbeaa71121d79bcf377635",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護法の改正「懸念は承知」 透明性高める考え デジタル相 10日に成立した改正個人情報保護法について、松本尚デジタル相は14日の閣議後会見で、「個人情報がいろんなところに漏れてしまうという懸念があることは",
-        "url": "https://news.yahoo.co.jp/articles/57e3aa096dd6698898d38f96f7e1a8487de4fafb",
         "source": "Yahoo",
         "date": ""
       }
