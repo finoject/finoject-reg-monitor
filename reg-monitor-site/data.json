@@ -1,6 +1,115 @@
 {
-  "generatedAt": "2026-07-16T03:50:54.345Z",
+  "generatedAt": "2026-07-16T07:07:00.128Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "Ｂｉｔｃｏｉｎ Ｊａｐａｎ（8105）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-07-16",
+      "detectedAt": "2026-07-16T07:07:00.128Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-16T07:07:05.871Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-07-16",
+      "detectedAt": "2026-07-16T07:07:00.128Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-16T07:07:05.871Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "PSJ予測統計値",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
+      "date": "2026-07-16",
+      "detectedAt": "2026-07-16T07:07:00.128Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
+        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
+        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-16T07:07:05.871Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "証券化市場の動向調査",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/doukou/index.html",
+      "date": "2026-07-16",
+      "detectedAt": "2026-07-16T07:07:00.128Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会と全国銀行協会は2006年4月から毎月「証券化市場の動向調査」を実施し、国内資産を裏付けとする債券・信託受益権・CP等の発行データを報告者から任意に収集・公表している。",
+        "証券化商品のアレンジャー・スポンサー・格付機関等は、当局への報告時に個別商品の正確性を保証する責任を負わず、協会も掲載情報の正確性を保証しないため、利用者は投資判断の参考として取扱い注意が必要である。",
+        "「証券化商品プログラムの設定状況」の半期調査は2021年10月18日発表分（9月末時点）をもって終了し、「証券化市場の動向調査」は2019年度以降半期ごとのレポート公表を廃止して月次データのみを公表している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-16T07:07:05.871Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "「生活意識に関するアンケート調査」（第106回）の結果",
+      "url": "https://www.boj.or.jp/research/o_survey/ishiki2607.htm",
+      "date": "2026-07-16",
+      "detectedAt": "2026-07-16T07:07:00.128Z",
+      "enriched": "2026-07-16T07:07:05.871Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年6月調査では、現在の景況感（1年前対比）のD.I.が-56.7ポイントへ悪化し、「良くなった」5.8%に対し「悪くなった」62.5%と前回比で景況感が大きく後退した。",
+        "1年後の景況感見通しについても、「良くなる」7.4%、「悪くなる」49.9%となり、D.I.は-42.5ポイントへ悪化し、国民の先行き景況感も低下している。",
+        "日本銀行は全国の満20歳以上個人4,000人（有効回答2,031人）を対象に、2026年5月7日～6月9日に郵送・インターネット選択式で実施した世論調査として報告している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止日の変更：（株）エフティグループ",
+      "url": "https://www.jpx.co.jp/news/1021/20260716-21.html",
+      "date": "2026-07-16",
+      "detectedAt": "2026-07-16T07:07:00.128Z",
+      "enriched": "2026-07-16T07:07:05.871Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）エフティグループ（コード2763、スタンダード市場）の上場廃止日が2026年10月1日から2026年7月30日（木）に変更された。",
+        "同社は2026年8月1日を効力発生日とする株式交換により（株）光通信（プライム市場）の完全子会社となるため、有価証券上場規程第601条第1項第13号に該当し廃止日繰上げの対象となった。",
+        "変更前の廃止理由は上場維持基準への不適合（同規程第601条第1項第1号）だったが、株式交換による完全子会社化が先行することで廃止日が前倒しされた。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）サトウ産業",
+      "url": "https://www.jpx.co.jp/news/1021/20260716-18.html",
+      "date": "2026-07-16",
+      "detectedAt": "2026-07-16T07:07:00.128Z",
+      "enriched": "2026-07-16T07:07:05.871Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）サトウ産業の株式（コード3450、TOKYO PRO Market）について、上場廃止を決定し整理銘柄に指定した。整理銘柄指定期間は2026年7月16日から8月16日、上場廃止日は2026年8月17日。",
+        "同社株式は2026年7月17日以降、信用取引・発行日決済取引の委託保証金、売買証拠金、取引参加者保証金、信認金から代用有価証券として除外される。取引参加者は保証金管理の見直しが必要。",
+        "上場廃止は同社の申請に基づくもので、有価証券上場規程の特例第143条に関連。速やかに上場廃止すべき事情発生時は整理銘柄指定期間および廃止日を変更することがある。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "外国株式信用取引の取扱状況",
@@ -459,22 +568,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本取引所グループ",
-      "title": "アールビバン（7523）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-07-10",
-      "detectedAt": "2026-07-10T10:03:41.506Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-10T10:03:45.928Z"
-    },
-    {
       "agency": "日本証券業協会",
       "title": "公社債発行額・償還額等",
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/hakkou/index.html",
@@ -848,22 +941,6 @@
         "デジタル化による業務効率化は推進するが、寡占状態での不透明な価格形成やサービスの横並び提供に対し、コスト削減分の利用者への還元やデジタル格差への対応を含む利用者利益の確保が金融行政の課題として認識された。主要行等・中小・地域金融機関向け監督指針改正に関連。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-07-09",
-      "detectedAt": "2026-07-09T08:06:24.079Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-09T08:06:28.655Z"
     },
     {
       "agency": "日本銀行",
@@ -1503,22 +1580,6 @@
         "実務対応には、正確な本文内容（具体的な増減額・要因・適用期間等）の確認が不可欠です。提供資料の形式を確認し、テキスト形式での内容提示をお願いします。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "PSJ予測統計値",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
-      "date": "2026-07-02",
-      "detectedAt": "2026-07-02T09:46:22.264Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
-        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
-        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-02T09:46:27.657Z"
     },
     {
       "agency": "日本銀行",
@@ -4012,22 +4073,6 @@
         "東証は2営業日連続してストップ高（安）となり売買がない、又は午後立会終了時にストップ高（安）でのみ売買成立した3銘柄（ジーネクスト・アトム・笑美面）の制限値幅を6月17日より拡大する。",
         "取引参加者及び投資家は当該3銘柄について通常と異なる制限値幅（ジーネクスト上限600円・アトム下限320円・笑美面上限600円）を適用されることを認識し、成行注文による予期しない約定に注意する必要がある。",
         "拡大された制限値幅は6月17日以降、ストップ高（安）以外の値段で売買が成立した場合にはその翌営業日から通常値幅に戻る仕組み（東京証券取引所の制限値幅拡大制度に基づく）。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "証券化市場の動向調査",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/doukou/index.html",
-      "date": "2026-06-16",
-      "detectedAt": "2026-06-16T15:17:06.019Z",
-      "updated": true,
-      "enriched": "2026-06-19T06:01:56.135Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会と全国銀行協会は2006年4月から毎月「証券化市場の動向調査」を実施し、国内資産を裏付けとする債券・信託受益権・CP等の発行データを報告者から任意に収集・公表している。",
-        "証券化商品のアレンジャー・スポンサー・格付機関等は、当局への報告時に個別商品の正確性を保証する責任を負わず、協会も掲載情報の正確性を保証しないため、利用者は投資判断の参考として取扱い注意が必要である。",
-        "「証券化商品プログラムの設定状況」の半期調査は2021年10月18日発表分（9月末時点）をもって終了し、「証券化市場の動向調査」は2019年度以降半期ごとのレポート公表を廃止して月次データのみを公表している。"
       ],
       "aiSumV": 3
     },
@@ -7593,6 +7638,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "暗号屋、銀行振込で利用できるステーブルコイン決済「すてぶるペイ」提供へ",
+        "url": "https://news.yahoo.co.jp/articles/6a51c9a44abbb9d5b4a17ed3182c7cf8ca41e1fc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
         "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
         "source": "Yahoo",
@@ -7619,18 +7670,18 @@
       {
         "title": "暗号資産の金商法改正案が参院委可決──野党は「サナエトークン」等懸念で反対",
         "url": "https://news.yahoo.co.jp/articles/ce362171424b2cc4fcb9cef8b3e51c2fada9d6dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
-        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "暗号屋、銀行振込で利用できるステーブルコイン決済「すてぶるペイ」提供へ",
+        "url": "https://news.yahoo.co.jp/articles/6a51c9a44abbb9d5b4a17ed3182c7cf8ca41e1fc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
         "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
         "source": "Yahoo",
@@ -7659,15 +7710,27 @@
         "url": "https://news.yahoo.co.jp/articles/ce362171424b2cc4fcb9cef8b3e51c2fada9d6dc",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
-        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "W杯の裏でうごめく「予測市場」という名の新世代ギャンブル スポーツから政治、天気までが賭けの対象に",
+        "url": "https://news.yahoo.co.jp/articles/f09282059007f89d489c220e52884d5cd0ffec0a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SEC、ハイパーリキッド陣営と会合。暗号資産規制を巡り意見交換",
+        "url": "https://news.yahoo.co.jp/articles/99b4e18b417792ace12d1d6611c3e60f1559434d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン小幅続伸 改正金商法成立で2028年20%分離課税決定【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/12982d2951597fe0aee38501abb50f223f375d18",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ＥＵ、対ロ追加制裁で合意至らず 原油上限据え置き＝外交筋",
         "url": "https://news.yahoo.co.jp/articles/058d19845767e8416ee8db3135b05a7d3d4f7868",
@@ -7683,30 +7746,30 @@
       {
         "title": "夏相場をどう読む？③：オンチェーン分析で読み解くレバレッジ市場──先物市場から相場転換のサインを探る【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/42c6f134b481fe9a66fcd6e74e61529fceb186b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Revolut、UAEでの暗号資産サービス提供の原則承認を取得",
-        "url": "https://news.yahoo.co.jp/articles/1058cbcfc9fdcb777215a253b619e6540a043164",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中国の検察関係者ら、暗号資産ミキサーへの対応強化を提言──Zcashは10.5％上昇【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/113cc5a73f8a602873db4e789decde5c8f714ad9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
-        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "W杯の裏でうごめく「予測市場」という名の新世代ギャンブル スポーツから政治、天気までが賭けの対象に",
+        "url": "https://news.yahoo.co.jp/articles/f09282059007f89d489c220e52884d5cd0ffec0a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SEC、ハイパーリキッド陣営と会合。暗号資産規制を巡り意見交換",
+        "url": "https://news.yahoo.co.jp/articles/99b4e18b417792ace12d1d6611c3e60f1559434d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン小幅続伸 改正金商法成立で2028年20%分離課税決定【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/12982d2951597fe0aee38501abb50f223f375d18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ＥＵ、対ロ追加制裁で合意至らず 原油上限据え置き＝外交筋",
         "url": "https://news.yahoo.co.jp/articles/058d19845767e8416ee8db3135b05a7d3d4f7868",
         "source": "Yahoo",
@@ -7721,24 +7784,6 @@
       {
         "title": "夏相場をどう読む？③：オンチェーン分析で読み解くレバレッジ市場──先物市場から相場転換のサインを探る【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/42c6f134b481fe9a66fcd6e74e61529fceb186b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Revolut、UAEでの暗号資産サービス提供の原則承認を取得",
-        "url": "https://news.yahoo.co.jp/articles/1058cbcfc9fdcb777215a253b619e6540a043164",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中国の検察関係者ら、暗号資産ミキサーへの対応強化を提言──Zcashは10.5％上昇【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/113cc5a73f8a602873db4e789decde5c8f714ad9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
-        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
         "source": "Yahoo",
         "date": ""
       }
@@ -7897,6 +7942,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "リナックス財団の「x402財団」が本格始動、サークルやリップルなど40組織が参加",
+        "url": "https://news.yahoo.co.jp/articles/8bab659bf1786837943c55e6dd8de57aa6377650",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号屋、銀行振込で利用できるステーブルコイン決済「すてぶるペイ」提供へ",
+        "url": "https://news.yahoo.co.jp/articles/6a51c9a44abbb9d5b4a17ed3182c7cf8ca41e1fc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "夏相場をどう読む？③：オンチェーン分析で読み解くレバレッジ市場──先物市場から相場転換のサインを探る【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/42c6f134b481fe9a66fcd6e74e61529fceb186b0",
         "source": "Yahoo",
@@ -7917,24 +7974,24 @@
       {
         "title": "ARK Invest、大きく下落したサークル株を22万株買い増し",
         "url": "https://news.yahoo.co.jp/articles/988db6340b5088aa162d75aa0ca4f9b23bb70c86",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BlackRock、暗号資産と伝統的金融の融合加速へ",
-        "url": "https://news.yahoo.co.jp/articles/4d634814655f21e2398193e7589e5dc8339ed907",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIとのDigiFT、日本株運用をオンチェーン化──「JXトークン」",
-        "url": "https://news.yahoo.co.jp/articles/37e1dc039902a4aaac3e5633e04a2526f7ad2754",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "リナックス財団の「x402財団」が本格始動、サークルやリップルなど40組織が参加",
+        "url": "https://news.yahoo.co.jp/articles/8bab659bf1786837943c55e6dd8de57aa6377650",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号屋、銀行振込で利用できるステーブルコイン決済「すてぶるペイ」提供へ",
+        "url": "https://news.yahoo.co.jp/articles/6a51c9a44abbb9d5b4a17ed3182c7cf8ca41e1fc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "夏相場をどう読む？③：オンチェーン分析で読み解くレバレッジ市場──先物市場から相場転換のサインを探る【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/42c6f134b481fe9a66fcd6e74e61529fceb186b0",
         "source": "Yahoo",
@@ -7955,18 +8012,6 @@
       {
         "title": "ARK Invest、大きく下落したサークル株を22万株買い増し",
         "url": "https://news.yahoo.co.jp/articles/988db6340b5088aa162d75aa0ca4f9b23bb70c86",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BlackRock、暗号資産と伝統的金融の融合加速へ",
-        "url": "https://news.yahoo.co.jp/articles/4d634814655f21e2398193e7589e5dc8339ed907",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIとのDigiFT、日本株運用をオンチェーン化──「JXトークン」",
-        "url": "https://news.yahoo.co.jp/articles/37e1dc039902a4aaac3e5633e04a2526f7ad2754",
         "source": "Yahoo",
         "date": ""
       }
@@ -8687,6 +8732,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "ニチレイ“サイバー攻撃”で個人情報漏えいの可能性・商品欠品も 木原官房長官「バックアップを取る、最新の状態に保つ」と対策呼びかけ",
+        "url": "https://news.yahoo.co.jp/articles/d8f5d23939bba261f0223ed958b72796877a7924",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "女性４人含む６人の個人情報、警部が不正照会容疑で書類送検",
         "url": "https://news.yahoo.co.jp/articles/66e1f137de5cb30137db3acf5d184c6278a85396",
         "source": "Yahoo",
@@ -8713,18 +8764,18 @@
       {
         "title": "50代男性警部が業務用PCで個人情報を不正入手 女性に「連絡取りたい」とメッセージ 業務用パソコンを使って複数の女性らの個人情報を不正に入手したとして、滋賀県警が個人情報保護法違反の疑いで、県警本部に勤務していた50代男性警部を書類送検していた",
         "url": "https://news.yahoo.co.jp/articles/854703c6f5c7bca02dde79599486e78ce4a7e48c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "業務用ＰＣから個人情報を不正入手し自分の携帯に登録か 滋賀県警の警部を書類送検",
-        "url": "https://news.yahoo.co.jp/articles/b524b557dc4cc9d3422d338a087d01b7b2d25faa",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "ニチレイ“サイバー攻撃”で個人情報漏えいの可能性・商品欠品も 木原官房長官「バックアップを取る、最新の状態に保つ」と対策呼びかけ",
+        "url": "https://news.yahoo.co.jp/articles/d8f5d23939bba261f0223ed958b72796877a7924",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "女性４人含む６人の個人情報、警部が不正照会容疑で書類送検",
         "url": "https://news.yahoo.co.jp/articles/66e1f137de5cb30137db3acf5d184c6278a85396",
         "source": "Yahoo",
@@ -8751,18 +8802,18 @@
       {
         "title": "50代男性警部が業務用PCで個人情報を不正入手 女性に「連絡取りたい」とメッセージ 業務用パソコンを使って複数の女性らの個人情報を不正に入手したとして、滋賀県警が個人情報保護法違反の疑いで、県警本部に勤務していた50代男性警部を書類送検していた",
         "url": "https://news.yahoo.co.jp/articles/854703c6f5c7bca02dde79599486e78ce4a7e48c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "業務用ＰＣから個人情報を不正入手し自分の携帯に登録か 滋賀県警の警部を書類送検",
-        "url": "https://news.yahoo.co.jp/articles/b524b557dc4cc9d3422d338a087d01b7b2d25faa",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "ニチレイ“サイバー攻撃”で個人情報漏えいの可能性・商品欠品も 木原官房長官「バックアップを取る、最新の状態に保つ」と対策呼びかけ",
+        "url": "https://news.yahoo.co.jp/articles/d8f5d23939bba261f0223ed958b72796877a7924",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "女性４人含む６人の個人情報、警部が不正照会容疑で書類送検",
         "url": "https://news.yahoo.co.jp/articles/66e1f137de5cb30137db3acf5d184c6278a85396",
         "source": "Yahoo",
@@ -8789,12 +8840,6 @@
       {
         "title": "50代男性警部が業務用PCで個人情報を不正入手 女性に「連絡取りたい」とメッセージ 業務用パソコンを使って複数の女性らの個人情報を不正に入手したとして、滋賀県警が個人情報保護法違反の疑いで、県警本部に勤務していた50代男性警部を書類送検していた",
         "url": "https://news.yahoo.co.jp/articles/854703c6f5c7bca02dde79599486e78ce4a7e48c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "業務用ＰＣから個人情報を不正入手し自分の携帯に登録か 滋賀県警の警部を書類送検",
-        "url": "https://news.yahoo.co.jp/articles/b524b557dc4cc9d3422d338a087d01b7b2d25faa",
         "source": "Yahoo",
         "date": ""
       }
