@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-15T23:40:42.705Z",
+  "generatedAt": "2026-07-16T03:50:54.345Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "外国株式信用取引の取扱状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign-shinyo/index.html",
+      "date": "2026-07-15",
+      "detectedAt": "2026-07-16T03:50:54.345Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は外国株式信用取引について、会員から報告を受けた月間委託売買代金と月末残高を統計として毎月公表し、2026年4月分データを2026年6月15日に公開した。",
+        "会員である証券会社は外国株式信用取引の実績（委託売買代金・月末残高）を協会に報告し、協会はこれを集計して統計情報として提供する。",
+        "統計公表は原則として毎月15日（休業日の場合は翌営業日）に実施され、外国株式信用取引制度は2022年7月から開始されており、本統計はその後の継続的な取扱状況を示すもの。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-16T03:50:58.520Z"
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]TOKYO PRO Marketへの上場申請：山八商事（株）",
@@ -4295,21 +4311,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本証券業協会",
-      "title": "外国株式信用取引の取扱状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign-shinyo/index.html",
-      "date": "2026-06-15",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:01:56.315Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は外国株式信用取引について、会員から報告を受けた月間委託売買代金と月末残高を統計として毎月公表し、2026年4月分データを2026年6月15日に公開した。",
-        "会員である証券会社は外国株式信用取引の実績（委託売買代金・月末残高）を協会に報告し、協会はこれを集計して統計情報として提供する。",
-        "統計公表は原則として毎月15日（休業日の場合は翌営業日）に実施され、外国株式信用取引制度は2022年7月から開始されており、本統計はその後の継続的な取扱状況を示すもの。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "日本公認会計士協会",
       "title": "「令和８年度修了考査受験案内」及び「担当常務理事から受験者へのメッセージ」公開",
       "url": "https://jicpa.or.jp/news/information/2026/20260615cjq.html",
@@ -7668,6 +7669,30 @@
     ],
     "429M60000002007": [
       {
+        "title": "ＥＵ、対ロ追加制裁で合意至らず 原油上限据え置き＝外交筋",
+        "url": "https://news.yahoo.co.jp/articles/058d19845767e8416ee8db3135b05a7d3d4f7868",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "｢1日48億円｣を強制労働で荒稼ぎ",
+        "url": "https://news.yahoo.co.jp/articles/9a36c93261ff9d4b266f35c3fa6263f3d5afa876",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "夏相場をどう読む？③：オンチェーン分析で読み解くレバレッジ市場──先物市場から相場転換のサインを探る【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/42c6f134b481fe9a66fcd6e74e61529fceb186b0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Revolut、UAEでの暗号資産サービス提供の原則承認を取得",
+        "url": "https://news.yahoo.co.jp/articles/1058cbcfc9fdcb777215a253b619e6540a043164",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "中国の検察関係者ら、暗号資産ミキサーへの対応強化を提言──Zcashは10.5％上昇【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/113cc5a73f8a602873db4e789decde5c8f714ad9",
         "source": "Yahoo",
@@ -7676,36 +7701,36 @@
       {
         "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
         "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界の10％、300兆円市場を築けるか──セキュリタイズ小林氏、日本のRWA市場に危機感【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/2498c707402e50c97340dc286891b17175c4cac8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "キリフダ、規制対応型DeFiレンディングサービス「LaaS」提供開始、国内向けにMorpho導入支援",
-        "url": "https://news.yahoo.co.jp/articles/db3f2bd9ce485b8aadd57b41d63d8ed0b6bb8fbd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
-        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "改正金商法が成立 仮想通貨を規制対象に",
-        "url": "https://news.yahoo.co.jp/articles/c985312b5b721cdc3f0f7ff5303a89a131dfc195",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ＥＵ、対ロ追加制裁で合意至らず 原油上限据え置き＝外交筋",
+        "url": "https://news.yahoo.co.jp/articles/058d19845767e8416ee8db3135b05a7d3d4f7868",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "｢1日48億円｣を強制労働で荒稼ぎ",
+        "url": "https://news.yahoo.co.jp/articles/9a36c93261ff9d4b266f35c3fa6263f3d5afa876",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "夏相場をどう読む？③：オンチェーン分析で読み解くレバレッジ市場──先物市場から相場転換のサインを探る【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/42c6f134b481fe9a66fcd6e74e61529fceb186b0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Revolut、UAEでの暗号資産サービス提供の原則承認を取得",
+        "url": "https://news.yahoo.co.jp/articles/1058cbcfc9fdcb777215a253b619e6540a043164",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "中国の検察関係者ら、暗号資産ミキサーへの対応強化を提言──Zcashは10.5％上昇【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/113cc5a73f8a602873db4e789decde5c8f714ad9",
         "source": "Yahoo",
@@ -7716,33 +7741,15 @@
         "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "世界の10％、300兆円市場を築けるか──セキュリタイズ小林氏、日本のRWA市場に危機感【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/2498c707402e50c97340dc286891b17175c4cac8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "キリフダ、規制対応型DeFiレンディングサービス「LaaS」提供開始、国内向けにMorpho導入支援",
-        "url": "https://news.yahoo.co.jp/articles/db3f2bd9ce485b8aadd57b41d63d8ed0b6bb8fbd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
-        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "改正金商法が成立 仮想通貨を規制対象に",
-        "url": "https://news.yahoo.co.jp/articles/c985312b5b721cdc3f0f7ff5303a89a131dfc195",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "Revolut、UAEでの暗号資産サービス提供の原則承認を取得",
+        "url": "https://news.yahoo.co.jp/articles/1058cbcfc9fdcb777215a253b619e6540a043164",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
         "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
@@ -7770,18 +7777,18 @@
       {
         "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
         "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "このままでは日本と心中しかねない",
-        "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "Revolut、UAEでの暗号資産サービス提供の原則承認を取得",
+        "url": "https://news.yahoo.co.jp/articles/1058cbcfc9fdcb777215a253b619e6540a043164",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
         "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
         "source": "Yahoo",
@@ -7808,12 +7815,6 @@
       {
         "title": "JVCEA新会長にコインチェック蓮尾聡氏が就任へ",
         "url": "https://news.yahoo.co.jp/articles/73f4a20322c5910963dfe08517d1001a65cb3523",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "このままでは日本と心中しかねない",
-        "url": "https://news.yahoo.co.jp/articles/3c913222427088bc3684a54ab60514b769b25dd4",
         "source": "Yahoo",
         "date": ""
       }
@@ -7896,6 +7897,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "夏相場をどう読む？③：オンチェーン分析で読み解くレバレッジ市場──先物市場から相場転換のサインを探る【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/42c6f134b481fe9a66fcd6e74e61529fceb186b0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Revolut、UAEでの暗号資産サービス提供の原則承認を取得",
+        "url": "https://news.yahoo.co.jp/articles/1058cbcfc9fdcb777215a253b619e6540a043164",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "最新決済で変わる大阪の街 デジタル通貨の実証を支援",
         "url": "https://news.yahoo.co.jp/articles/ccb43c51561d8d00d4baf02850ebd3ae81bef04d",
         "source": "Yahoo",
@@ -7916,24 +7929,24 @@
       {
         "title": "SBIとのDigiFT、日本株運用をオンチェーン化──「JXトークン」",
         "url": "https://news.yahoo.co.jp/articles/37e1dc039902a4aaac3e5633e04a2526f7ad2754",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中国の検察関係者ら、暗号資産ミキサーへの対応強化を提言──Zcashは10.5％上昇【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/113cc5a73f8a602873db4e789decde5c8f714ad9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英米、国際決済・証券・商品市場でのステーブルコイン活用を支持──ETHは7％上昇【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/49276aec3bc31121e97c74cb12d6cf40bbf811de",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "夏相場をどう読む？③：オンチェーン分析で読み解くレバレッジ市場──先物市場から相場転換のサインを探る【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/42c6f134b481fe9a66fcd6e74e61529fceb186b0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Revolut、UAEでの暗号資産サービス提供の原則承認を取得",
+        "url": "https://news.yahoo.co.jp/articles/1058cbcfc9fdcb777215a253b619e6540a043164",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "最新決済で変わる大阪の街 デジタル通貨の実証を支援",
         "url": "https://news.yahoo.co.jp/articles/ccb43c51561d8d00d4baf02850ebd3ae81bef04d",
         "source": "Yahoo",
@@ -7954,18 +7967,6 @@
       {
         "title": "SBIとのDigiFT、日本株運用をオンチェーン化──「JXトークン」",
         "url": "https://news.yahoo.co.jp/articles/37e1dc039902a4aaac3e5633e04a2526f7ad2754",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中国の検察関係者ら、暗号資産ミキサーへの対応強化を提言──Zcashは10.5％上昇【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/113cc5a73f8a602873db4e789decde5c8f714ad9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英米、国際決済・証券・商品市場でのステーブルコイン活用を支持──ETHは7％上昇【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/49276aec3bc31121e97c74cb12d6cf40bbf811de",
         "source": "Yahoo",
         "date": ""
       }
@@ -8686,6 +8687,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "女性４人含む６人の個人情報、警部が不正照会容疑で書類送検",
+        "url": "https://news.yahoo.co.jp/articles/66e1f137de5cb30137db3acf5d184c6278a85396",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "やや誇張?無断撮影で“永久入国拒否” 肉など持ち込み“罰金300万円” 香港メディア発の「日本旅行8大NG行為」",
         "url": "https://news.yahoo.co.jp/articles/d21da8ed902066224ca3b1498f4b483f4a3aa150",
         "source": "Yahoo",
@@ -8712,18 +8719,18 @@
       {
         "title": "業務用ＰＣから個人情報を不正入手し自分の携帯に登録か 滋賀県警の警部を書類送検",
         "url": "https://news.yahoo.co.jp/articles/b524b557dc4cc9d3422d338a087d01b7b2d25faa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "GDPR・CCPAだけでは足りない! アジアでも急進するデータ保護法、日本企業が取るべき“現実的な最適解”とは？",
-        "url": "https://news.yahoo.co.jp/articles/00a5b37ddf07c7f60d9a4699d886a1b699d45d7d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "女性４人含む６人の個人情報、警部が不正照会容疑で書類送検",
+        "url": "https://news.yahoo.co.jp/articles/66e1f137de5cb30137db3acf5d184c6278a85396",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "やや誇張?無断撮影で“永久入国拒否” 肉など持ち込み“罰金300万円” 香港メディア発の「日本旅行8大NG行為」",
         "url": "https://news.yahoo.co.jp/articles/d21da8ed902066224ca3b1498f4b483f4a3aa150",
         "source": "Yahoo",
@@ -8750,18 +8757,18 @@
       {
         "title": "業務用ＰＣから個人情報を不正入手し自分の携帯に登録か 滋賀県警の警部を書類送検",
         "url": "https://news.yahoo.co.jp/articles/b524b557dc4cc9d3422d338a087d01b7b2d25faa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "GDPR・CCPAだけでは足りない! アジアでも急進するデータ保護法、日本企業が取るべき“現実的な最適解”とは？",
-        "url": "https://news.yahoo.co.jp/articles/00a5b37ddf07c7f60d9a4699d886a1b699d45d7d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "女性４人含む６人の個人情報、警部が不正照会容疑で書類送検",
+        "url": "https://news.yahoo.co.jp/articles/66e1f137de5cb30137db3acf5d184c6278a85396",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "やや誇張?無断撮影で“永久入国拒否” 肉など持ち込み“罰金300万円” 香港メディア発の「日本旅行8大NG行為」",
         "url": "https://news.yahoo.co.jp/articles/d21da8ed902066224ca3b1498f4b483f4a3aa150",
         "source": "Yahoo",
@@ -8788,12 +8795,6 @@
       {
         "title": "業務用ＰＣから個人情報を不正入手し自分の携帯に登録か 滋賀県警の警部を書類送検",
         "url": "https://news.yahoo.co.jp/articles/b524b557dc4cc9d3422d338a087d01b7b2d25faa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "GDPR・CCPAだけでは足りない! アジアでも急進するデータ保護法、日本企業が取るべき“現実的な最適解”とは？",
-        "url": "https://news.yahoo.co.jp/articles/00a5b37ddf07c7f60d9a4699d886a1b699d45d7d",
         "source": "Yahoo",
         "date": ""
       }
@@ -8828,7 +8829,7 @@
       {
         "session": "221",
         "name": "金融商品取引法及び資金決済に関する法律の一部を改正する法律案",
-        "status": "参議院で審議中",
+        "status": "成立",
         "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DE278A.htm"
       }
     ],
@@ -8836,7 +8837,7 @@
       {
         "session": "221",
         "name": "金融商品取引法及び資金決済に関する法律の一部を改正する法律案",
-        "status": "参議院で審議中",
+        "status": "成立",
         "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DE278A.htm"
       }
     ]
