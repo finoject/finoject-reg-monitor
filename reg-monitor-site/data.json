@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-07-16T07:07:00.128Z",
+  "generatedAt": "2026-07-16T09:37:12.731Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "業態別の日銀当座預金残高（6月）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+      "date": "2026-07-16",
+      "detectedAt": "2026-07-16T09:37:12.731Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "提供データ：業態別の日銀当座預金残高について2026年5月分を集計・公表、金融機関の流動性管理状況を反映した残高データを掲載。",
+        "対象者：日銀当座預金を保有する金融機関、月次統計の公表により市場参加者が金融市場の動向を把握可能。",
+        "適用時期：2026年5月末時点の残高集計であり、日本銀行の定期統計公表スケジュールに基づき月次で継続実施。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-16T09:37:17.186Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの取扱い（2026年7月30日調整分）",
+      "url": "https://www.jpx.co.jp/news/2020/20260716-01.html",
+      "date": "2026-07-16",
+      "detectedAt": "2026-07-16T09:37:12.731Z",
+      "enriched": "2026-07-16T09:37:17.186Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "三井住友トラストグループ株式（コード8309）について2026年8月1日の株式分割に伴い、7月30日から有価証券オプションの権利行使価格を4分の1に、建玉を4倍に、建玉制限数量を69,800単位から279,500単位に調整する。",
+        "オプション取引参加者は全限月取引について上記調整内容を確認し、7月30日以降の取引を適切に執行する必要がある。権利行使価格の端数は円位未満を四捨五入（フレックス限月は小数点第2位未満）。",
+        "調整は2026年7月30日から適用開始、2026年8月1日の株式分割効力発生日を基準として実施される（大阪取引所が実施主体）。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "Ｂｉｔｃｏｉｎ Ｊａｐａｎ（8105）",
@@ -4108,21 +4139,6 @@
     },
     {
       "agency": "日本銀行",
-      "title": "業態別の日銀当座預金残高（5月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
-      "date": "2026-06-16",
-      "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-19T06:01:56.135Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "提供データ：業態別の日銀当座預金残高について2026年5月分を集計・公表、金融機関の流動性管理状況を反映した残高データを掲載。",
-        "対象者：日銀当座預金を保有する金融機関、月次統計の公表により市場参加者が金融市場の動向を把握可能。",
-        "適用時期：2026年5月末時点の残高集計であり、日本銀行の定期統計公表スケジュールに基づき月次で継続実施。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
       "title": "総裁記者会見（内田副総裁代理・6月16日）動画の配信開始",
       "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
       "date": "2026-06-16",
@@ -7714,7 +7730,13 @@
     ],
     "429M60000002007": [
       {
-        "title": "W杯の裏でうごめく「予測市場」という名の新世代ギャンブル スポーツから政治、天気までが賭けの対象に",
+        "title": "ペイパルに約8.6兆円の買収提案か、ストライプとアドベントが共同保有へ＝関係筋",
+        "url": "https://news.yahoo.co.jp/articles/1f2606d52398aec683c428501d97964af6cb02fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "W杯ピッチ傍に掲載される「謎の企業」の正体 海外メディアは新たなギャンブル企業と批判",
         "url": "https://news.yahoo.co.jp/articles/f09282059007f89d489c220e52884d5cd0ffec0a",
         "source": "Yahoo",
         "date": ""
@@ -7740,19 +7762,19 @@
       {
         "title": "｢1日48億円｣を強制労働で荒稼ぎ",
         "url": "https://news.yahoo.co.jp/articles/9a36c93261ff9d4b266f35c3fa6263f3d5afa876",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "夏相場をどう読む？③：オンチェーン分析で読み解くレバレッジ市場──先物市場から相場転換のサインを探る【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/42c6f134b481fe9a66fcd6e74e61529fceb186b0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
-        "title": "W杯の裏でうごめく「予測市場」という名の新世代ギャンブル スポーツから政治、天気までが賭けの対象に",
+        "title": "ペイパルに約8.6兆円の買収提案か、ストライプとアドベントが共同保有へ＝関係筋",
+        "url": "https://news.yahoo.co.jp/articles/1f2606d52398aec683c428501d97964af6cb02fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "W杯ピッチ傍に掲載される「謎の企業」の正体 海外メディアは新たなギャンブル企業と批判",
         "url": "https://news.yahoo.co.jp/articles/f09282059007f89d489c220e52884d5cd0ffec0a",
         "source": "Yahoo",
         "date": ""
@@ -7778,12 +7800,6 @@
       {
         "title": "｢1日48億円｣を強制労働で荒稼ぎ",
         "url": "https://news.yahoo.co.jp/articles/9a36c93261ff9d4b266f35c3fa6263f3d5afa876",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "夏相場をどう読む？③：オンチェーン分析で読み解くレバレッジ市場──先物市場から相場転換のサインを探る【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/42c6f134b481fe9a66fcd6e74e61529fceb186b0",
         "source": "Yahoo",
         "date": ""
       }
@@ -7942,6 +7958,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ペイパルに約8.6兆円の買収提案か、ストライプとアドベントが共同保有へ＝関係筋",
+        "url": "https://news.yahoo.co.jp/articles/1f2606d52398aec683c428501d97964af6cb02fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リナックス財団の「x402財団」が本格始動、サークルやリップルなど40組織が参加",
         "url": "https://news.yahoo.co.jp/articles/8bab659bf1786837943c55e6dd8de57aa6377650",
         "source": "Yahoo",
@@ -7968,18 +7990,18 @@
       {
         "title": "最新決済で変わる大阪の街 デジタル通貨の実証を支援",
         "url": "https://news.yahoo.co.jp/articles/ccb43c51561d8d00d4baf02850ebd3ae81bef04d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ARK Invest、大きく下落したサークル株を22万株買い増し",
-        "url": "https://news.yahoo.co.jp/articles/988db6340b5088aa162d75aa0ca4f9b23bb70c86",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ペイパルに約8.6兆円の買収提案か、ストライプとアドベントが共同保有へ＝関係筋",
+        "url": "https://news.yahoo.co.jp/articles/1f2606d52398aec683c428501d97964af6cb02fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リナックス財団の「x402財団」が本格始動、サークルやリップルなど40組織が参加",
         "url": "https://news.yahoo.co.jp/articles/8bab659bf1786837943c55e6dd8de57aa6377650",
         "source": "Yahoo",
@@ -8006,12 +8028,6 @@
       {
         "title": "最新決済で変わる大阪の街 デジタル通貨の実証を支援",
         "url": "https://news.yahoo.co.jp/articles/ccb43c51561d8d00d4baf02850ebd3ae81bef04d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ARK Invest、大きく下落したサークル株を22万株買い増し",
-        "url": "https://news.yahoo.co.jp/articles/988db6340b5088aa162d75aa0ca4f9b23bb70c86",
         "source": "Yahoo",
         "date": ""
       }
