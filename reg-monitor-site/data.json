@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-07-16T23:33:27.436Z",
+  "generatedAt": "2026-07-17T01:09:26.190Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "報告省令レート（8月分）",
+      "url": "https://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2608.htm",
+      "date": "2026-07-17",
+      "detectedAt": "2026-07-17T01:09:26.190Z",
+      "enriched": "2026-07-17T01:09:31.738Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "外国為替取引等報告時に使用する換算レートが令和8年8月分として公示され、1米ドル=161円をはじめ48通貨の対米ドルレートが財務大臣により指定された。",
+        "外国為替取引報告義務のある事業者・個人は令和8年8月中の取引報告において「外国為替の取引等の報告に関する省令」第35条第2号に基づく当該レートを使用して換算を行う必要がある。",
+        "令和8年8月分から適用され、上記レート以外の通貨は令和8年6月中の市場実勢相場平均値によるものとする。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "基準外国為替相場及び裁定外国為替相場（8月分）",
+      "url": "https://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2608.htm",
+      "date": "2026-07-17",
+      "detectedAt": "2026-07-17T01:09:26.190Z",
+      "enriched": "2026-07-17T01:09:31.738Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行が令和8年8月中に適用する基準外国為替相場を1米ドル=161円と公示し、カナダドル115円、ユーロ185円など主要通貨の裁定外国為替相場を同時に設定した。",
+        "金融機関・企業等は令和8年8月1日から月末まで、公示された相場を外国為替取引の基準として適用し、その他通貨については令和8年6月の市場実勢相場をドル相場で裁定して円建て相場を算出する。",
+        "本公示は財務大臣公示に基づき日本銀行国際局が2026年7月17日に公表し、外国為替取引の基準相場（基準外国為替相場）及び裁定相場（裁定外国為替相場）を規定する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "主要銀行貸出動向アンケート調査（7月）",
+      "url": "https://www.boj.or.jp/statistics/dl/loan/loos/release/loos2607.pdf",
+      "date": "2026-07-16",
+      "detectedAt": "2026-07-17T01:09:26.190Z",
+      "enriched": "2026-07-17T01:09:31.738Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行が実施した2026年7月の主要銀行貸出動向アンケート調査において、企業向け・地公体等向け・個人向けの資金需要は全て横這いが大半（86～90%）であり、前月比でD.I.が企業向け-1から4、地公体等向け3から3、個人向け3から5に変動した。",
+        "対象50行庫の貸出担当部門は、大企業向け・中堅企業向け・中小企業向けの各カテゴリーおよび製造業等業種別に資金需要状況を報告し、企業向けについて規模別・業種別の詳細分析が求められている。",
+        "本調査は2026年6月9日～7月8日の回答期間で実施され、7月17日8時50分に日本銀行金融機構局から対外公表される予定であり、資金需要判断D.I.の算出方法は設問1・2・4・6で共通の計算式が適用される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "業態別の日銀当座預金残高（6月）",
@@ -7958,6 +8003,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "アステリア、「ASTERIA Warp」新版を8月25日に提供開始 AIによる連携フローの自動生成に対応",
+        "url": "https://news.yahoo.co.jp/articles/524a2356ee86eaaa624afe1dd3b2660cb397d12e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産が低迷する中、予測市場が記録的な取引高＝CoinGecko",
         "url": "https://news.yahoo.co.jp/articles/529242f6fe9f62b3864112cfb2bfb3e2e245660d",
         "source": "Yahoo",
@@ -7984,18 +8035,18 @@
       {
         "title": "日本の暗号資産市場は新たな時代へ──金商法改正が示すETFへのロードマップ【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/9812c92079339e364c97fd1b622efeedc55e3dc4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、米オンド・ファイナンスと戦略提携",
-        "url": "https://news.yahoo.co.jp/articles/eca163552365e808097f767f39e7b1fb62c8b7a7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "アステリア、「ASTERIA Warp」新版を8月25日に提供開始 AIによる連携フローの自動生成に対応",
+        "url": "https://news.yahoo.co.jp/articles/524a2356ee86eaaa624afe1dd3b2660cb397d12e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産が低迷する中、予測市場が記録的な取引高＝CoinGecko",
         "url": "https://news.yahoo.co.jp/articles/529242f6fe9f62b3864112cfb2bfb3e2e245660d",
         "source": "Yahoo",
@@ -8022,12 +8073,6 @@
       {
         "title": "日本の暗号資産市場は新たな時代へ──金商法改正が示すETFへのロードマップ【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/9812c92079339e364c97fd1b622efeedc55e3dc4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、米オンド・ファイナンスと戦略提携",
-        "url": "https://news.yahoo.co.jp/articles/eca163552365e808097f767f39e7b1fb62c8b7a7",
         "source": "Yahoo",
         "date": ""
       }
@@ -8558,6 +8603,12 @@
     ],
     "417AC0000000086": [
       {
+        "title": "自民PT､株主権限の厳格化を提案へ－アクティビスト活動に一定の規制",
+        "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
         "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
         "source": "Yahoo",
@@ -8584,18 +8635,18 @@
       {
         "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
         "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
-        "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "自民PT､株主権限の厳格化を提案へ－アクティビスト活動に一定の規制",
+        "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
         "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
         "source": "Yahoo",
@@ -8622,18 +8673,18 @@
       {
         "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
         "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
-        "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "自民PT､株主権限の厳格化を提案へ－アクティビスト活動に一定の規制",
+        "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
         "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
         "source": "Yahoo",
@@ -8660,18 +8711,18 @@
       {
         "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
         "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
-        "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "自民PT､株主権限の厳格化を提案へ－アクティビスト活動に一定の規制",
+        "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
         "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
         "source": "Yahoo",
@@ -8698,18 +8749,18 @@
       {
         "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
         "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
-        "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "自民PT､株主権限の厳格化を提案へ－アクティビスト活動に一定の規制",
+        "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
         "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
         "source": "Yahoo",
@@ -8736,12 +8787,6 @@
       {
         "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
         "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アクティビストがサムスン傘下標的、韓国ガバナンス改革の試金石",
-        "url": "https://news.yahoo.co.jp/articles/89955f4fbd3a8d54c86fcb61f8a5850cdfbad44c",
         "source": "Yahoo",
         "date": ""
       }
