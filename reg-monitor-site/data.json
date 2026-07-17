@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-07-17T04:46:45.286Z",
+  "generatedAt": "2026-07-17T07:35:29.857Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "気候変動対応を支援するための資金供給オペレーションの実施結果",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260717a.pdf",
+      "date": "2026-07-17",
+      "detectedAt": "2026-07-17T07:35:29.857Z",
+      "enriched": "2026-07-17T07:35:36.305Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "気候変動対応支援資金供給オペで139,812億円を貸付予定、2026年7月21日実行、返済期日は2027年7月21日。",
+        "日本銀行の当座預金取引相手方でない金融機関およびその会員機関が、気候変動対応投融資実績に基づき貸付対象として利用可能。",
+        "2026年3月末時点で対象投融資残高は263,370億円、本オペの貸付残高見込み（7月21日時点）は249,361億円。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]7月22日以降の呼値の単位の取扱いについて",
+      "url": "https://www.jpx.co.jp/news/1030/20260717-02.html",
+      "date": "2026-07-17",
+      "detectedAt": "2026-07-17T07:35:29.857Z",
+      "enriched": "2026-07-17T07:35:36.305Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "TOPIX500構成銘柄に適用されていた専用の呼値テーブル（業務規程第14条第3項第1号のｂ）が7月22日以降、PALTACコード8283について適用廃止される。",
+        "東証取引参加者及び投資家は7月22日より当該銘柄の呼値単位が他銘柄と同じ基準に変更されることを認識し、取引システム・リスク管理を調整する必要がある。",
+        "2026年7月22日以降、PALTAC（8283）の呼値の単位は業務規程第14条第3項に基づく通常の基準に統一される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：2銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260717-03.html",
+      "date": "2026-07-17",
+      "detectedAt": "2026-07-17T07:35:29.857Z",
+      "enriched": "2026-07-17T07:35:36.305Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JSH（コード150A）は7月21日から制限値幅上限を400円に拡大、TMH（コード280A）は制限値幅下限を1,200円に拡大する。2営業日連続でストップ高安となり売買が成立しない等の要件を満たしたため。",
+        "取引参加者および投資家は当該銘柄について拡大された制限値幅での取引に対応し、成行注文による想定外の約定リスクに注意して発注する必要がある。",
+        "東証の制限値幅拡大措置は2026年7月21日から適用開始、ストップ高安以外での売買成立時に通常幅へ戻る仕組みである。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：ＮＥＸＴ ＦＵＮＤＳ ＭＳＣＩジャパンカントリー指数（セレクト）連動型上場投信",
+      "url": "https://www.jpx.co.jp/news/1023/20260717-11.html",
+      "date": "2026-07-17",
+      "detectedAt": "2026-07-17T07:35:29.857Z",
+      "enriched": "2026-07-17T07:35:36.305Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ＮＥＸＴ ＦＵＮＤＳ ＭＳＣＩジャパンカントリー指数（セレクト）連動型上場投信（コード2643）が監理銘柄（確認中）に指定された。理由は投資信託約款の期間定めに関する変更決定であり、2026年7月17日から指定開始。",
+        "管理会社は2026年8月17日まで20営業日連続して受益権口数が50万口を下回った場合、9月24日を契約終了日とする約款変更を実施予定。2026年9月18日に上場廃止となるおそれがある。",
+        "管理会社は8月17日までに受益権口数が50万口以上に回復した場合は契約終了と約款変更を行わないため、その場合は監理銘柄（確認中）指定が解除される（有価証券上場規程施行規則第1115条第1項第2号該当）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]日経225mini上場20周年について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260717-01.html",
+      "date": "2026-07-17",
+      "detectedAt": "2026-07-17T07:35:29.857Z",
+      "enriched": "2026-07-17T07:35:36.305Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日経225miniは2006年7月18日の大阪取引所上場から20周年を迎え、日経225先物の10分1サイズで個人・機関投資家の双方に活用される指数先物市場の主力商品に成長した。",
+        "本商品の登場により、ミニTOPIX先物、ミニ長期国債先物、日経225マイクロ先物及び日経225ミニオプションなど多様な商品開発が促進され、取引時間拡充や取引システム高度化を通じた市場基盤整備が進展した。",
+        "大阪取引所は今後、NISA制度拡充に伴う投資家層の拡大とリスク管理機能向上のニーズに対応し、市場の信頼性・利便性向上を通じた魅力ある市場づくりを進める。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]ダークプールにおける売買代金の推移（～2026年6月）",
@@ -7805,6 +7880,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "アルパカが700億円超を調達、トークン化市場・AIエージェント向け証券基盤を拡充",
+        "url": "https://news.yahoo.co.jp/articles/1e8527019851d234230daf0b0a22130ca2468c90",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クリプトドットコム、シタデル・セキュリティーズから4億ドル調達。評価額は200億ドル",
+        "url": "https://news.yahoo.co.jp/articles/b049ff51ceb2345b32a1a6a13a0c347b5068b282",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「トランプ氏、株式購入後に自身のSNSで企業を宣伝",
+        "url": "https://news.yahoo.co.jp/articles/9837b945793509e0d11623b000a3aaef667614ae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産が低迷する中、予測市場が記録的な取引高＝CoinGecko",
         "url": "https://news.yahoo.co.jp/articles/529242f6fe9f62b3864112cfb2bfb3e2e245660d",
         "source": "Yahoo",
@@ -7819,30 +7912,30 @@
       {
         "title": "住友商事も出資、金融特化型プロジェクト「ファロス」が狙う日本の低金利環境",
         "url": "https://news.yahoo.co.jp/articles/ae80a61c5ab08b664a4492b3cac3ec46eb7451ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本の暗号資産市場は新たな時代へ──金商法改正が示すETFへのロードマップ【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/9812c92079339e364c97fd1b622efeedc55e3dc4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Crypto.com、Citadel Securitiesから4億ドル調達",
-        "url": "https://news.yahoo.co.jp/articles/8c68c6439010cb1b954c84c2937161fa13850276",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ペイパルに約8.6兆円の買収提案か、ストライプとアドベントが共同保有へ＝関係筋",
-        "url": "https://news.yahoo.co.jp/articles/1f2606d52398aec683c428501d97964af6cb02fa",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "アルパカが700億円超を調達、トークン化市場・AIエージェント向け証券基盤を拡充",
+        "url": "https://news.yahoo.co.jp/articles/1e8527019851d234230daf0b0a22130ca2468c90",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クリプトドットコム、シタデル・セキュリティーズから4億ドル調達。評価額は200億ドル",
+        "url": "https://news.yahoo.co.jp/articles/b049ff51ceb2345b32a1a6a13a0c347b5068b282",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「トランプ氏、株式購入後に自身のSNSで企業を宣伝",
+        "url": "https://news.yahoo.co.jp/articles/9837b945793509e0d11623b000a3aaef667614ae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産が低迷する中、予測市場が記録的な取引高＝CoinGecko",
         "url": "https://news.yahoo.co.jp/articles/529242f6fe9f62b3864112cfb2bfb3e2e245660d",
         "source": "Yahoo",
@@ -7857,24 +7950,6 @@
       {
         "title": "住友商事も出資、金融特化型プロジェクト「ファロス」が狙う日本の低金利環境",
         "url": "https://news.yahoo.co.jp/articles/ae80a61c5ab08b664a4492b3cac3ec46eb7451ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本の暗号資産市場は新たな時代へ──金商法改正が示すETFへのロードマップ【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/9812c92079339e364c97fd1b622efeedc55e3dc4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Crypto.com、Citadel Securitiesから4億ドル調達",
-        "url": "https://news.yahoo.co.jp/articles/8c68c6439010cb1b954c84c2937161fa13850276",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ペイパルに約8.6兆円の買収提案か、ストライプとアドベントが共同保有へ＝関係筋",
-        "url": "https://news.yahoo.co.jp/articles/1f2606d52398aec683c428501d97964af6cb02fa",
         "source": "Yahoo",
         "date": ""
       }
@@ -8033,76 +8108,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "SBIと米オンドファイナンスが提携、トークン化日本株式の提供へ、JPYSCでの決済担保活用も",
-        "url": "https://news.yahoo.co.jp/articles/050f18e8fc9e6018e39a1812ed074552ffd89921",
+        "title": "ポリゴンラボ、コインミー買収最終段階で追加の人員削減、決済企業へ転換",
+        "url": "https://news.yahoo.co.jp/articles/492d46ab12e295c1f8ed6b4246ee966c17284fcf",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「10年前は断られた」──SBI出資の米エバーノース、CEOが語った機関投資家の変化",
-        "url": "https://news.yahoo.co.jp/articles/c474984d4fd75867e13da4d1bc5bf47bf3e2f6ae",
+        "title": "米デジタル資産大手Galaxy、機関投資家向けDeFi運用を開始──ステーブルコインをMorphoで運用",
+        "url": "https://news.yahoo.co.jp/articles/fe9ab84529928eb151c921e3f0d391988671eb13",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "アステリア、「ASTERIA Warp」新版を8月25日に提供開始 AIによる連携フローの自動生成に対応",
-        "url": "https://news.yahoo.co.jp/articles/524a2356ee86eaaa624afe1dd3b2660cb397d12e",
+        "title": "アーベV4、アバランチ上でローンチ。専用RWAハブ導入の計画も",
+        "url": "https://news.yahoo.co.jp/articles/ca9b57c5c5c9149bdd6e5a1c2fcd8ad902ccc694",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "暗号資産が低迷する中、予測市場が記録的な取引高＝CoinGecko",
-        "url": "https://news.yahoo.co.jp/articles/529242f6fe9f62b3864112cfb2bfb3e2e245660d",
+        "title": "マルチコイン・キャピタル、アジア向け無期限先物取引プラットフォーム「Trasia」に175万ドル出資",
+        "url": "https://news.yahoo.co.jp/articles/7240007e2dd00ac5c71b631b4ea6a9cf66f839a3",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "モルガン・スタンレー、E*TRADEで暗号資産現物取引を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/75a4f5055440b7c27296179059b153014bbef45b",
+        "title": "DJTがハウディ・クリプトと提携。「N Suite」が国内開発「Openloop」との連携に対応",
+        "url": "https://news.yahoo.co.jp/articles/59fd8fb7ad201fb52987e201fdabc18b2ac829af",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "住友商事も出資、金融特化型プロジェクト「ファロス」が狙う日本の低金利環境",
-        "url": "https://news.yahoo.co.jp/articles/ae80a61c5ab08b664a4492b3cac3ec46eb7451ce",
+        "title": "イーサL2「Base」責任者、オンチェーンソーシャル戦略の誤り認める",
+        "url": "https://news.yahoo.co.jp/articles/2ad848db9e686c0fcc6a1fb6f14b3d8ebeda614d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "SBIと米オンドファイナンスが提携、トークン化日本株式の提供へ、JPYSCでの決済担保活用も",
-        "url": "https://news.yahoo.co.jp/articles/050f18e8fc9e6018e39a1812ed074552ffd89921",
+        "title": "ポリゴンラボ、コインミー買収最終段階で追加の人員削減、決済企業へ転換",
+        "url": "https://news.yahoo.co.jp/articles/492d46ab12e295c1f8ed6b4246ee966c17284fcf",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「10年前は断られた」──SBI出資の米エバーノース、CEOが語った機関投資家の変化",
-        "url": "https://news.yahoo.co.jp/articles/c474984d4fd75867e13da4d1bc5bf47bf3e2f6ae",
+        "title": "米デジタル資産大手Galaxy、機関投資家向けDeFi運用を開始──ステーブルコインをMorphoで運用",
+        "url": "https://news.yahoo.co.jp/articles/fe9ab84529928eb151c921e3f0d391988671eb13",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "アステリア、「ASTERIA Warp」新版を8月25日に提供開始 AIによる連携フローの自動生成に対応",
-        "url": "https://news.yahoo.co.jp/articles/524a2356ee86eaaa624afe1dd3b2660cb397d12e",
+        "title": "アーベV4、アバランチ上でローンチ。専用RWAハブ導入の計画も",
+        "url": "https://news.yahoo.co.jp/articles/ca9b57c5c5c9149bdd6e5a1c2fcd8ad902ccc694",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "暗号資産が低迷する中、予測市場が記録的な取引高＝CoinGecko",
-        "url": "https://news.yahoo.co.jp/articles/529242f6fe9f62b3864112cfb2bfb3e2e245660d",
+        "title": "マルチコイン・キャピタル、アジア向け無期限先物取引プラットフォーム「Trasia」に175万ドル出資",
+        "url": "https://news.yahoo.co.jp/articles/7240007e2dd00ac5c71b631b4ea6a9cf66f839a3",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "モルガン・スタンレー、E*TRADEで暗号資産現物取引を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/75a4f5055440b7c27296179059b153014bbef45b",
+        "title": "DJTがハウディ・クリプトと提携。「N Suite」が国内開発「Openloop」との連携に対応",
+        "url": "https://news.yahoo.co.jp/articles/59fd8fb7ad201fb52987e201fdabc18b2ac829af",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "住友商事も出資、金融特化型プロジェクト「ファロス」が狙う日本の低金利環境",
-        "url": "https://news.yahoo.co.jp/articles/ae80a61c5ab08b664a4492b3cac3ec46eb7451ce",
+        "title": "イーサL2「Base」責任者、オンチェーンソーシャル戦略の誤り認める",
+        "url": "https://news.yahoo.co.jp/articles/2ad848db9e686c0fcc6a1fb6f14b3d8ebeda614d",
         "source": "Yahoo",
         "date": ""
       }
@@ -8633,6 +8708,12 @@
     ],
     "417AC0000000086": [
       {
+        "title": "自民PT、臨時株総要件の厳格化を要請 「物言う株主」対策で",
+        "url": "https://news.yahoo.co.jp/articles/ac1b5d5e8035335127133b0fbefdaf9c8c38a98a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
@@ -8659,18 +8740,18 @@
       {
         "title": "再送-〔マクロスコープ〕アクティビスト隆盛「弊害大きく、欧米並みの対策を」＝西村あさひ・太田氏",
         "url": "https://news.yahoo.co.jp/articles/c84bb600755f224ac979dbeec7a68bba6a11b506",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
-        "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "自民PT、臨時株総要件の厳格化を要請 「物言う株主」対策で",
+        "url": "https://news.yahoo.co.jp/articles/ac1b5d5e8035335127133b0fbefdaf9c8c38a98a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
@@ -8697,18 +8778,18 @@
       {
         "title": "再送-〔マクロスコープ〕アクティビスト隆盛「弊害大きく、欧米並みの対策を」＝西村あさひ・太田氏",
         "url": "https://news.yahoo.co.jp/articles/c84bb600755f224ac979dbeec7a68bba6a11b506",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
-        "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "自民PT、臨時株総要件の厳格化を要請 「物言う株主」対策で",
+        "url": "https://news.yahoo.co.jp/articles/ac1b5d5e8035335127133b0fbefdaf9c8c38a98a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
@@ -8735,18 +8816,18 @@
       {
         "title": "再送-〔マクロスコープ〕アクティビスト隆盛「弊害大きく、欧米並みの対策を」＝西村あさひ・太田氏",
         "url": "https://news.yahoo.co.jp/articles/c84bb600755f224ac979dbeec7a68bba6a11b506",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
-        "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "自民PT、臨時株総要件の厳格化を要請 「物言う株主」対策で",
+        "url": "https://news.yahoo.co.jp/articles/ac1b5d5e8035335127133b0fbefdaf9c8c38a98a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
@@ -8773,18 +8854,18 @@
       {
         "title": "再送-〔マクロスコープ〕アクティビスト隆盛「弊害大きく、欧米並みの対策を」＝西村あさひ・太田氏",
         "url": "https://news.yahoo.co.jp/articles/c84bb600755f224ac979dbeec7a68bba6a11b506",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
-        "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "自民PT、臨時株総要件の厳格化を要請 「物言う株主」対策で",
+        "url": "https://news.yahoo.co.jp/articles/ac1b5d5e8035335127133b0fbefdaf9c8c38a98a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
@@ -8811,12 +8892,6 @@
       {
         "title": "再送-〔マクロスコープ〕アクティビスト隆盛「弊害大きく、欧米並みの対策を」＝西村あさひ・太田氏",
         "url": "https://news.yahoo.co.jp/articles/c84bb600755f224ac979dbeec7a68bba6a11b506",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "女性活躍は「数値目標」ではなく、変革の経験値で決まる",
-        "url": "https://news.yahoo.co.jp/articles/db6fed7347708322d1cf9322333c1fa964337ab6",
         "source": "Yahoo",
         "date": ""
       }
