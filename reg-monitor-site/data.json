@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-17T07:35:29.857Z",
+  "generatedAt": "2026-07-17T09:30:00.357Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の基準値段等：上場インデックスファンド東証ＲＥＩＴ高利回り30（コード608A）",
+      "url": "https://www.jpx.co.jp/news/1030/20260717-04.html",
+      "date": "2026-07-17",
+      "detectedAt": "2026-07-17T09:30:00.357Z",
+      "enriched": "2026-07-17T09:30:05.551Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "上場インデックスファンド東証REIT高利回り30（コード608A）が2026年7月21日に東証に新規上場予定で、基準値段は1口当たり1,507円（値段上限1,907円、下限1,107円）に設定された。",
+        "東証での取引参加者は同銘柄の売買単位が1口であること、および制限値幅を確認し取引開始日に備える必要がある。",
+        "2026年7月21日付でのREIT型ETF新規上場に関し、東京証券取引所が公表した基準値段等の決定に基づく。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE,TOCOM]デリバティブの祝日取引の実施について（2026年7月20日）",
+      "url": "https://www.jpx.co.jp/news/2040/20260717-02.html",
+      "date": "2026-07-17",
+      "detectedAt": "2026-07-17T09:30:00.357Z",
+      "enriched": "2026-07-17T09:30:05.551Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月20日（月・海の日）について、大阪取引所と東京商品取引所のデリバティブ取引において祝日取引を実施する。",
+        "デリバティブ取引参加者は、2026年7月20日の祝日に同取引所での取引が可能であることを認識し、システムおよび業務体制を確認する必要がある。",
+        "本実施は2026年7月20日に適用され、大阪取引所および東京商品取引所の祝日取引ルールに基づいて運用される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "気候変動対応を支援するための資金供給オペレーションの実施結果",
@@ -7652,6 +7682,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "オルツ元CFO、粉飾関与認める 初公判で「間違いありません」",
+        "url": "https://news.yahoo.co.jp/articles/fe8c173312438b7fb47151039d2fdb5ab6a7d030",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "上場装い６８０万円詐取疑い",
         "url": "https://news.yahoo.co.jp/articles/f16b6b6ab6c9fe13b483b4a00caf99b1654f7323",
         "source": "Yahoo",
@@ -7678,18 +7714,18 @@
       {
         "title": "なぜ全東信は20年も粉飾を続け“1,259億円破綻”した？ 決済インフラ“最大の穴”とは",
         "url": "https://news.yahoo.co.jp/articles/a77e65ad28c195ddf67d2fa746c004167c1de9c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
-        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "オルツ元CFO、粉飾関与認める 初公判で「間違いありません」",
+        "url": "https://news.yahoo.co.jp/articles/fe8c173312438b7fb47151039d2fdb5ab6a7d030",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "上場装い６８０万円詐取疑い",
         "url": "https://news.yahoo.co.jp/articles/f16b6b6ab6c9fe13b483b4a00caf99b1654f7323",
         "source": "Yahoo",
@@ -7716,18 +7752,18 @@
       {
         "title": "なぜ全東信は20年も粉飾を続け“1,259億円破綻”した？ 決済インフラ“最大の穴”とは",
         "url": "https://news.yahoo.co.jp/articles/a77e65ad28c195ddf67d2fa746c004167c1de9c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
-        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "オルツ元CFO、粉飾関与認める 初公判で「間違いありません」",
+        "url": "https://news.yahoo.co.jp/articles/fe8c173312438b7fb47151039d2fdb5ab6a7d030",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "上場装い６８０万円詐取疑い",
         "url": "https://news.yahoo.co.jp/articles/f16b6b6ab6c9fe13b483b4a00caf99b1654f7323",
         "source": "Yahoo",
@@ -7754,18 +7790,18 @@
       {
         "title": "なぜ全東信は20年も粉飾を続け“1,259億円破綻”した？ 決済インフラ“最大の穴”とは",
         "url": "https://news.yahoo.co.jp/articles/a77e65ad28c195ddf67d2fa746c004167c1de9c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
-        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "オルツ元CFO、粉飾関与認める 初公判で「間違いありません」",
+        "url": "https://news.yahoo.co.jp/articles/fe8c173312438b7fb47151039d2fdb5ab6a7d030",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "上場装い６８０万円詐取疑い",
         "url": "https://news.yahoo.co.jp/articles/f16b6b6ab6c9fe13b483b4a00caf99b1654f7323",
         "source": "Yahoo",
@@ -7792,12 +7828,6 @@
       {
         "title": "なぜ全東信は20年も粉飾を続け“1,259億円破綻”した？ 決済インフラ“最大の穴”とは",
         "url": "https://news.yahoo.co.jp/articles/a77e65ad28c195ddf67d2fa746c004167c1de9c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
-        "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
         "source": "Yahoo",
         "date": ""
       }
@@ -8108,6 +8138,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "一般公開前のDeFi運用金庫から約2億円流出──Cascadeが被害を公表",
+        "url": "https://news.yahoo.co.jp/articles/6fe5b5f4dd5376df2351da6897ca975c97ff6b23",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ポリゴンラボ、コインミー買収最終段階で追加の人員削減、決済企業へ転換",
         "url": "https://news.yahoo.co.jp/articles/492d46ab12e295c1f8ed6b4246ee966c17284fcf",
         "source": "Yahoo",
@@ -8134,18 +8170,18 @@
       {
         "title": "DJTがハウディ・クリプトと提携。「N Suite」が国内開発「Openloop」との連携に対応",
         "url": "https://news.yahoo.co.jp/articles/59fd8fb7ad201fb52987e201fdabc18b2ac829af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサL2「Base」責任者、オンチェーンソーシャル戦略の誤り認める",
-        "url": "https://news.yahoo.co.jp/articles/2ad848db9e686c0fcc6a1fb6f14b3d8ebeda614d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "一般公開前のDeFi運用金庫から約2億円流出──Cascadeが被害を公表",
+        "url": "https://news.yahoo.co.jp/articles/6fe5b5f4dd5376df2351da6897ca975c97ff6b23",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ポリゴンラボ、コインミー買収最終段階で追加の人員削減、決済企業へ転換",
         "url": "https://news.yahoo.co.jp/articles/492d46ab12e295c1f8ed6b4246ee966c17284fcf",
         "source": "Yahoo",
@@ -8172,12 +8208,6 @@
       {
         "title": "DJTがハウディ・クリプトと提携。「N Suite」が国内開発「Openloop」との連携に対応",
         "url": "https://news.yahoo.co.jp/articles/59fd8fb7ad201fb52987e201fdabc18b2ac829af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサL2「Base」責任者、オンチェーンソーシャル戦略の誤り認める",
-        "url": "https://news.yahoo.co.jp/articles/2ad848db9e686c0fcc6a1fb6f14b3d8ebeda614d",
         "source": "Yahoo",
         "date": ""
       }
@@ -8202,12 +8232,6 @@
         "date": ""
       },
       {
-        "title": "1:36偽の\"勾留状\"をLINEで送付「お金を調べるので振込みを」",
-        "url": "https://news.yahoo.co.jp/articles/f1195e6ea5ad978b446dd6b85c54e19351696a13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
         "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
         "source": "Yahoo",
@@ -8216,6 +8240,12 @@
       {
         "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
         "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
+        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
         "date": ""
       }
@@ -8240,12 +8270,6 @@
         "date": ""
       },
       {
-        "title": "1:36偽の\"勾留状\"をLINEで送付「お金を調べるので振込みを」",
-        "url": "https://news.yahoo.co.jp/articles/f1195e6ea5ad978b446dd6b85c54e19351696a13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
         "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
         "source": "Yahoo",
@@ -8254,6 +8278,12 @@
       {
         "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
         "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
+        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
         "date": ""
       }
@@ -8278,12 +8308,6 @@
         "date": ""
       },
       {
-        "title": "1:36偽の\"勾留状\"をLINEで送付「お金を調べるので振込みを」",
-        "url": "https://news.yahoo.co.jp/articles/f1195e6ea5ad978b446dd6b85c54e19351696a13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
         "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
         "source": "Yahoo",
@@ -8292,6 +8316,12 @@
       {
         "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
         "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンスがEU撤退を否定、ギリシャでのMiCA申請不成立で別ルート模索",
+        "url": "https://news.yahoo.co.jp/articles/66be25bda9e31de118636a9b44fc36c71dede5d2",
         "source": "Yahoo",
         "date": ""
       }
