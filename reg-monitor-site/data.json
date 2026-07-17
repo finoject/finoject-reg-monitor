@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-17T01:09:26.190Z",
+  "generatedAt": "2026-07-17T04:46:45.286Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]ダークプールにおける売買代金の推移（～2026年6月）",
+      "url": "https://www.jpx.co.jp/news/1030/20260717-01.html",
+      "date": "2026-07-17",
+      "detectedAt": "2026-07-17T04:46:45.286Z",
+      "enriched": "2026-07-17T04:46:54.804Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証ToSTNeT市場のダークプール取引は2020年9月の月平均1,119億円から2026年6月の7,959億円に増加し、市場全体に占める割合は2.78％から4.26％に上昇。",
+        "金融商品取引業者はダークプール経由の注文にフラグを付して識別し、透明性を確保する必要がある（2020年6月改正の内閣府令・監督指針に基づく）。",
+        "2020年9月以降のダークプール売買代金推移を定期公表し、市場参加者が利用状況を把握できるよう情報提供を継続する（金融審議会2019年6月の透明化対応策に対応）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]ダークプールにおける取引契約金額の推移（～2026年6月）",
+      "url": "https://www.jpx.co.jp/news/2040/20260717-01.html",
+      "date": "2026-07-17",
+      "detectedAt": "2026-07-17T04:46:45.286Z",
+      "enriched": "2026-07-17T04:46:54.804Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2020年6月の金融商品取引業等に関する内閣府令改正に基づき、大阪取引所J-NET市場の日経225先物・日経225ミニ・TOPIX先物取引においてダークプール・フラグを導入し、透明性向上を図っている。",
+        "取引参加者は2020年9月から2026年6月までのダークプール経由取引の月別契約金額・全体比を把握でき、日経225ミニが全体比10～13%で最も利用度が高く、TOPIX先物は0.2～0.6%に留まっている状況が提供されている。",
+        "ダークプール・フラグ付取引の集計対象は祝日取引を除く立会内取引とJ-NET取引の契約金額であり、大阪取引所が透明性向上の観点から継続的にデータを公表・更新している。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "報告省令レート（8月分）",
@@ -7547,6 +7577,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "上場装い６８０万円詐取疑い",
+        "url": "https://news.yahoo.co.jp/articles/f16b6b6ab6c9fe13b483b4a00caf99b1654f7323",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産が低迷する中、予測市場が記録的な取引高＝CoinGecko",
         "url": "https://news.yahoo.co.jp/articles/529242f6fe9f62b3864112cfb2bfb3e2e245660d",
         "source": "Yahoo",
@@ -7573,18 +7609,18 @@
       {
         "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
         "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
-        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "上場装い６８０万円詐取疑い",
+        "url": "https://news.yahoo.co.jp/articles/f16b6b6ab6c9fe13b483b4a00caf99b1654f7323",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産が低迷する中、予測市場が記録的な取引高＝CoinGecko",
         "url": "https://news.yahoo.co.jp/articles/529242f6fe9f62b3864112cfb2bfb3e2e245660d",
         "source": "Yahoo",
@@ -7611,18 +7647,18 @@
       {
         "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
         "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
-        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "上場装い６８０万円詐取疑い",
+        "url": "https://news.yahoo.co.jp/articles/f16b6b6ab6c9fe13b483b4a00caf99b1654f7323",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産が低迷する中、予測市場が記録的な取引高＝CoinGecko",
         "url": "https://news.yahoo.co.jp/articles/529242f6fe9f62b3864112cfb2bfb3e2e245660d",
         "source": "Yahoo",
@@ -7649,18 +7685,18 @@
       {
         "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
         "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
-        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "上場装い６８０万円詐取疑い",
+        "url": "https://news.yahoo.co.jp/articles/f16b6b6ab6c9fe13b483b4a00caf99b1654f7323",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産が低迷する中、予測市場が記録的な取引高＝CoinGecko",
         "url": "https://news.yahoo.co.jp/articles/529242f6fe9f62b3864112cfb2bfb3e2e245660d",
         "source": "Yahoo",
@@ -7687,12 +7723,6 @@
       {
         "title": "暗号資産規制を金商法へ移管、改正法案が参院本会議で可決・成立",
         "url": "https://news.yahoo.co.jp/articles/31efe2b217de77bcbcdd9a1f8be0f87f7a8046cc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産を規制対象に 金融商品取引法の改正法成立 暗号資産（仮想通貨）を規制の対象とする金融商品取引法の改正法が15日、参院本会議で与党などの賛成多数で可決、成立した。暗号資産への投資が増加してい",
-        "url": "https://news.yahoo.co.jp/articles/ba479c71621373b9c7dcab395db94492396bc30f",
         "source": "Yahoo",
         "date": ""
       }
@@ -8003,6 +8033,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBIと米オンドファイナンスが提携、トークン化日本株式の提供へ、JPYSCでの決済担保活用も",
+        "url": "https://news.yahoo.co.jp/articles/050f18e8fc9e6018e39a1812ed074552ffd89921",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「10年前は断られた」──SBI出資の米エバーノース、CEOが語った機関投資家の変化",
+        "url": "https://news.yahoo.co.jp/articles/c474984d4fd75867e13da4d1bc5bf47bf3e2f6ae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アステリア、「ASTERIA Warp」新版を8月25日に提供開始 AIによる連携フローの自動生成に対応",
         "url": "https://news.yahoo.co.jp/articles/524a2356ee86eaaa624afe1dd3b2660cb397d12e",
         "source": "Yahoo",
@@ -8023,24 +8065,24 @@
       {
         "title": "住友商事も出資、金融特化型プロジェクト「ファロス」が狙う日本の低金利環境",
         "url": "https://news.yahoo.co.jp/articles/ae80a61c5ab08b664a4492b3cac3ec46eb7451ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、ステーブルコイン基盤「VSP」発表",
-        "url": "https://news.yahoo.co.jp/articles/f2b9cc1117396ad10ecb18e5bc77f439685d433d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本の暗号資産市場は新たな時代へ──金商法改正が示すETFへのロードマップ【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/9812c92079339e364c97fd1b622efeedc55e3dc4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBIと米オンドファイナンスが提携、トークン化日本株式の提供へ、JPYSCでの決済担保活用も",
+        "url": "https://news.yahoo.co.jp/articles/050f18e8fc9e6018e39a1812ed074552ffd89921",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「10年前は断られた」──SBI出資の米エバーノース、CEOが語った機関投資家の変化",
+        "url": "https://news.yahoo.co.jp/articles/c474984d4fd75867e13da4d1bc5bf47bf3e2f6ae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アステリア、「ASTERIA Warp」新版を8月25日に提供開始 AIによる連携フローの自動生成に対応",
         "url": "https://news.yahoo.co.jp/articles/524a2356ee86eaaa624afe1dd3b2660cb397d12e",
         "source": "Yahoo",
@@ -8061,18 +8103,6 @@
       {
         "title": "住友商事も出資、金融特化型プロジェクト「ファロス」が狙う日本の低金利環境",
         "url": "https://news.yahoo.co.jp/articles/ae80a61c5ab08b664a4492b3cac3ec46eb7451ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、ステーブルコイン基盤「VSP」発表",
-        "url": "https://news.yahoo.co.jp/articles/f2b9cc1117396ad10ecb18e5bc77f439685d433d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本の暗号資産市場は新たな時代へ──金商法改正が示すETFへのロードマップ【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/9812c92079339e364c97fd1b622efeedc55e3dc4",
         "source": "Yahoo",
         "date": ""
       }
@@ -8603,7 +8633,7 @@
     ],
     "417AC0000000086": [
       {
-        "title": "自民PT､株主権限の厳格化を提案へ－アクティビスト活動に一定の規制",
+        "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
         "date": ""
@@ -8641,7 +8671,7 @@
     ],
     "417CO0000000364": [
       {
-        "title": "自民PT､株主権限の厳格化を提案へ－アクティビスト活動に一定の規制",
+        "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
         "date": ""
@@ -8679,7 +8709,7 @@
     ],
     "418M60000010012": [
       {
-        "title": "自民PT､株主権限の厳格化を提案へ－アクティビスト活動に一定の規制",
+        "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
         "date": ""
@@ -8717,7 +8747,7 @@
     ],
     "418M60000010013": [
       {
-        "title": "自民PT､株主権限の厳格化を提案へ－アクティビスト活動に一定の規制",
+        "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
         "date": ""
@@ -8755,7 +8785,7 @@
     ],
     "418M60000010014": [
       {
-        "title": "自民PT､株主権限の厳格化を提案へ－アクティビスト活動に一定の規制",
+        "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
         "date": ""
@@ -8793,6 +8823,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "玉川徹氏「国が国民を監視、拘束する未来も当然考えられる」改正個人情報保護法成立に強い懸念",
+        "url": "https://news.yahoo.co.jp/articles/a460183cc75ac80167549cc579d37a57e286cf01",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「現金持ってなくて詰んだ」 クレカ障害、飲食店で会計できない",
         "url": "https://news.yahoo.co.jp/articles/525beea11d54bca8f8a3423bfea71334bb7ecdf5",
         "source": "Yahoo",
@@ -8819,18 +8855,18 @@
       {
         "title": "「怪しい者ではない」とショートメッセージ 好意を持った女性らの電話番号を警察の照会システムから入手した疑い 男性警部を書類送検 滋賀県警",
         "url": "https://news.yahoo.co.jp/articles/577c08db2a31bb0742bee38b0d3d1f0b4f151987",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "7:30香港メディア“日本旅行の8大NG行為” 「無断撮影で永久入国拒否」「花見で桜に触れると罰金」って少し盛り過ぎ?",
-        "url": "https://news.yahoo.co.jp/articles/80a8b518482240cf29e70d930d56674f22052dc1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "玉川徹氏「国が国民を監視、拘束する未来も当然考えられる」改正個人情報保護法成立に強い懸念",
+        "url": "https://news.yahoo.co.jp/articles/a460183cc75ac80167549cc579d37a57e286cf01",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「現金持ってなくて詰んだ」 クレカ障害、飲食店で会計できない",
         "url": "https://news.yahoo.co.jp/articles/525beea11d54bca8f8a3423bfea71334bb7ecdf5",
         "source": "Yahoo",
@@ -8857,18 +8893,18 @@
       {
         "title": "「怪しい者ではない」とショートメッセージ 好意を持った女性らの電話番号を警察の照会システムから入手した疑い 男性警部を書類送検 滋賀県警",
         "url": "https://news.yahoo.co.jp/articles/577c08db2a31bb0742bee38b0d3d1f0b4f151987",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "7:30香港メディア“日本旅行の8大NG行為” 「無断撮影で永久入国拒否」「花見で桜に触れると罰金」って少し盛り過ぎ?",
-        "url": "https://news.yahoo.co.jp/articles/80a8b518482240cf29e70d930d56674f22052dc1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "玉川徹氏「国が国民を監視、拘束する未来も当然考えられる」改正個人情報保護法成立に強い懸念",
+        "url": "https://news.yahoo.co.jp/articles/a460183cc75ac80167549cc579d37a57e286cf01",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「現金持ってなくて詰んだ」 クレカ障害、飲食店で会計できない",
         "url": "https://news.yahoo.co.jp/articles/525beea11d54bca8f8a3423bfea71334bb7ecdf5",
         "source": "Yahoo",
@@ -8895,12 +8931,6 @@
       {
         "title": "「怪しい者ではない」とショートメッセージ 好意を持った女性らの電話番号を警察の照会システムから入手した疑い 男性警部を書類送検 滋賀県警",
         "url": "https://news.yahoo.co.jp/articles/577c08db2a31bb0742bee38b0d3d1f0b4f151987",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "7:30香港メディア“日本旅行の8大NG行為” 「無断撮影で永久入国拒否」「花見で桜に触れると罰金」って少し盛り過ぎ?",
-        "url": "https://news.yahoo.co.jp/articles/80a8b518482240cf29e70d930d56674f22052dc1",
         "source": "Yahoo",
         "date": ""
       }
