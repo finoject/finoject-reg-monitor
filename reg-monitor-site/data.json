@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-07-20T23:37:20.510Z",
+  "generatedAt": "2026-07-21T01:08:42.577Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "公社債投資家別条件付売買(現先)月末残高 （旧公社債投資家別現先売買月末残高）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/jyouken/index.html",
+      "date": "2026-07-21",
+      "detectedAt": "2026-07-21T01:08:42.577Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "日本証券業協会は2018年6月発表分（5月取引分）より、公社債店頭取引の発表様式を再編し、「公社債種類別店頭売買高」「公社債投資家別売買高」「国債投資家別売買高」を「公社債店頭売買高」に統合した。",
+        "市場参加者は2018年6月以降、統合後の「公社債店頭売買高」（毎月20日発表）により国債以外を含む投資家別売買状況を確認する必要があり、また銘柄後決めGCレポ取引のバスケット取引が新たに発表項目に追加されている。",
+        "国債決済のT+1化（2018年5月1日実施）への対応として、銘柄後決めGCレポ取引におけるバスケット取引が「公社債店頭売買高」及び「公社債条件付売買残高」の発表項目に追加された。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-21T01:08:46.801Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "外国投信の運用成績一覧表",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign/index.html",
+      "date": "2026-07-21",
+      "detectedAt": "2026-07-21T01:08:42.577Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "日本証券業協会は、代行協会員からの報告を基に、毎月末の外国投資信託証券の運用成績（月末基準価額・騰落率等）を一覧表として公表する。毎月20日前後に前月末データを掲載。",
+        "金融機関・投資顧問会社は、外国投信の月末基準価額を対顧客電信買相場(TTB)で円貨換算し報告し、分配金は受領確認日のTTBで換算する（確認できない場合は前月末TTBで暫定値換算）。",
+        "一覧表では、商品分類を株式型・債券型・その他に区分し、ポートフォリオ組入比率・分配金込み騰落率・分配頻度等を掲載。税法上の公社債投信と株式投信の区分とは異なることに留意する必要がある。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-21T01:08:46.801Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "公社債店頭売買高",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/tentoubaibai/index.html",
+      "date": "2026-07-21",
+      "detectedAt": "2026-07-21T01:08:42.577Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "日本証券業協会は2024年2月から発行予定のクライメート・トランジション利付国庫債券（GX国債）を既発国債と同様に扱い、公社債店頭売買参考統計値および公社債店頭売買高等の統計情報に組み込むことを決定した。",
+        "指定報告協会員は報告対象銘柄の届出手続として「届出不要銘柄」扱いとし、入札アナウンスメント日以降の報告開始、複利利回り報告（入札前）または単利利回り報告（償還日の3営業日前終了）を実施する。",
+        "発表機関は銘柄コード「国債.02」、銘柄名「GX中期国債」等として入札日の翌営業日から償還日の2営業日前まで発表対象とし、スペース挿入なしの命名規則で既発国債の次の掲載位置に統合する。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-21T01:08:46.802Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]コーポレートガバナンス・コード（2026年7月版）の公表について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260721-01.html",
+      "date": "2026-07-21",
+      "detectedAt": "2026-07-21T01:08:42.577Z",
+      "enriched": "2026-07-21T01:08:46.802Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証は2026年7月21日、有価証券上場規程を改正し、コーポレートガバナンス・コード（2026年7月版）を施行する。本改訂は「プリンシプル化」・「スリム化」により、補充原則を再整理し中核部分を原則に格上げする一方、重複記載を削除した。",
+        "上場会社は、プリンシプルベース・アプローチに基づき、各原則の趣旨・精神を踏まえて自社の状況に応じた実施又はエクスプレイン（実施しない理由の丁寧な説明）を選択し、単なる形式的対応ではなく実質化した対応を行うことが求められる。",
+        "原則１－２で有価証券報告書を株主総会前に提出することが記載され、株主総会開催日の3週間以上前の提出が最も望ましいとされた（解釈指針）。金融庁は法務省と連携し、有価証券報告書と事業報告の一本化等の制度的検討を並行して進める。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "「公認会計士及び監査法人におけるマネー・ローンダリング、テロ資金供与及び拡散金融対策に関するガイドライン（案）」に対するパブリックコメントの結果等の公表",
@@ -4023,54 +4086,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本証券業協会",
-      "title": "公社債投資家別条件付売買(現先)月末残高 （旧公社債投資家別現先売買月末残高）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/jyouken/index.html",
-      "date": "2026-06-22",
-      "detectedAt": "2026-06-22T02:07:14.308Z",
-      "enrichV": 2,
-      "updated": true,
-      "enriched": "2026-06-22T02:07:19.999Z",
-      "aiSummary": [
-        "日本証券業協会は2018年6月発表分（5月取引分）より、公社債店頭取引の発表様式を再編し、「公社債種類別店頭売買高」「公社債投資家別売買高」「国債投資家別売買高」を「公社債店頭売買高」に統合した。",
-        "市場参加者は2018年6月以降、統合後の「公社債店頭売買高」（毎月20日発表）により国債以外を含む投資家別売買状況を確認する必要があり、また銘柄後決めGCレポ取引のバスケット取引が新たに発表項目に追加されている。",
-        "国債決済のT+1化（2018年5月1日実施）への対応として、銘柄後決めGCレポ取引におけるバスケット取引が「公社債店頭売買高」及び「公社債条件付売買残高」の発表項目に追加された。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "外国投信の運用成績一覧表",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign/index.html",
-      "date": "2026-06-22",
-      "detectedAt": "2026-06-22T02:07:14.308Z",
-      "enrichV": 2,
-      "updated": true,
-      "enriched": "2026-06-22T02:07:19.999Z",
-      "aiSummary": [
-        "日本証券業協会は、代行協会員からの報告を基に、毎月末の外国投資信託証券の運用成績（月末基準価額・騰落率等）を一覧表として公表する。毎月20日前後に前月末データを掲載。",
-        "金融機関・投資顧問会社は、外国投信の月末基準価額を対顧客電信買相場(TTB)で円貨換算し報告し、分配金は受領確認日のTTBで換算する（確認できない場合は前月末TTBで暫定値換算）。",
-        "一覧表では、商品分類を株式型・債券型・その他に区分し、ポートフォリオ組入比率・分配金込み騰落率・分配頻度等を掲載。税法上の公社債投信と株式投信の区分とは異なることに留意する必要がある。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "公社債店頭売買高",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/tentoubaibai/index.html",
-      "date": "2026-06-22",
-      "detectedAt": "2026-06-22T02:07:14.308Z",
-      "enrichV": 2,
-      "updated": true,
-      "enriched": "2026-06-22T02:07:19.999Z",
-      "aiSummary": [
-        "日本証券業協会は2024年2月から発行予定のクライメート・トランジション利付国庫債券（GX国債）を既発国債と同様に扱い、公社債店頭売買参考統計値および公社債店頭売買高等の統計情報に組み込むことを決定した。",
-        "指定報告協会員は報告対象銘柄の届出手続として「届出不要銘柄」扱いとし、入札アナウンスメント日以降の報告開始、複利利回り報告（入札前）または単利利回り報告（償還日の3営業日前終了）を実施する。",
-        "発表機関は銘柄コード「国債.02」、銘柄名「GX中期国債」等として入札日の翌営業日から償還日の2営業日前まで発表対象とし、スペース挿入なしの命名規則で既発国債の次の掲載位置に統合する。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "金融庁",
       "title": "「金融商品取引法の審判手続等における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令」及び「公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令」の公布及びパブリックコメントの結果の公表",
       "url": "https://www.fsa.go.jp/news/r7/sonota/20260619-2/20260619-2.html",
@@ -8047,6 +8062,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
+        "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "改札で0.3秒遅れ、運賃“割引”もなし",
         "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
         "source": "Yahoo",
@@ -8073,18 +8094,18 @@
       {
         "title": "なぜ全東信は20年も粉飾を続け“1,259億円破綻”した？ 決済インフラ“最大の穴”とは",
         "url": "https://news.yahoo.co.jp/articles/a77e65ad28c195ddf67d2fa746c004167c1de9c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号屋、銀行振込で利用できるステーブルコイン決済「すてぶるペイ」提供へ",
-        "url": "https://news.yahoo.co.jp/articles/6a51c9a44abbb9d5b4a17ed3182c7cf8ca41e1fc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
+        "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "改札で0.3秒遅れ、運賃“割引”もなし",
         "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
         "source": "Yahoo",
@@ -8111,12 +8132,6 @@
       {
         "title": "なぜ全東信は20年も粉飾を続け“1,259億円破綻”した？ 決済インフラ“最大の穴”とは",
         "url": "https://news.yahoo.co.jp/articles/a77e65ad28c195ddf67d2fa746c004167c1de9c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号屋、銀行振込で利用できるステーブルコイン決済「すてぶるペイ」提供へ",
-        "url": "https://news.yahoo.co.jp/articles/6a51c9a44abbb9d5b4a17ed3182c7cf8ca41e1fc",
         "source": "Yahoo",
         "date": ""
       }
@@ -8351,6 +8366,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
+        "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国際金融都市OSAKA、本格始動 大阪府、ブロックチェーンなど金融サービス実証実験へ",
         "url": "https://news.yahoo.co.jp/articles/ab481d2f4f68c9dd6393594aac7e1458f26c2cef",
         "source": "Yahoo",
@@ -8377,18 +8398,18 @@
       {
         "title": "CLARITY法案は米国の暗号資産市場をどう変えるのか──「成立時期」より重要な市場構造改革の本質【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/916ac7080242f51c2eb5ea01903ecd32d5068a62",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/bc8a8a83ec63b2a159abb844bf9a9663dffb30bb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
+        "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国際金融都市OSAKA、本格始動 大阪府、ブロックチェーンなど金融サービス実証実験へ",
         "url": "https://news.yahoo.co.jp/articles/ab481d2f4f68c9dd6393594aac7e1458f26c2cef",
         "source": "Yahoo",
@@ -8415,12 +8436,6 @@
       {
         "title": "CLARITY法案は米国の暗号資産市場をどう変えるのか──「成立時期」より重要な市場構造改革の本質【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/916ac7080242f51c2eb5ea01903ecd32d5068a62",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/bc8a8a83ec63b2a159abb844bf9a9663dffb30bb",
         "source": "Yahoo",
         "date": ""
       }
@@ -8623,12 +8638,6 @@
         "date": ""
       },
       {
-        "title": "出費がかさむ夏に知っておきたい。カードの「キャッシング枠」金利と上限",
-        "url": "https://news.yahoo.co.jp/articles/06278ca989bcee3271f9f449555145b3244f3660",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -8649,6 +8658,12 @@
       {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "指名手配のベトナム人、無断横断で御用",
+        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
@@ -8661,12 +8676,6 @@
         "date": ""
       },
       {
-        "title": "出費がかさむ夏に知っておきたい。カードの「キャッシング枠」金利と上限",
-        "url": "https://news.yahoo.co.jp/articles/06278ca989bcee3271f9f449555145b3244f3660",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -8687,6 +8696,12 @@
       {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "指名手配のベトナム人、無断横断で御用",
+        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
@@ -8699,12 +8714,6 @@
         "date": ""
       },
       {
-        "title": "出費がかさむ夏に知っておきたい。カードの「キャッシング枠」金利と上限",
-        "url": "https://news.yahoo.co.jp/articles/06278ca989bcee3271f9f449555145b3244f3660",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -8725,6 +8734,12 @@
       {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "指名手配のベトナム人、無断横断で御用",
+        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
