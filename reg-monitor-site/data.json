@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-21T10:47:55.261Z",
+  "generatedAt": "2026-07-21T13:02:27.997Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "コーポレートガバナンス・コード（2026年改訂版）の確定の公表",
+      "url": "https://www.fsa.go.jp/news/r7/singi/20260721.html",
+      "date": "2026-07-21",
+      "detectedAt": "2026-07-21T13:02:27.997Z",
+      "enriched": "2026-07-21T13:02:32.919Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "コーポレートガバナンス・コード2026年改訂版が2026年7月21日付けで確定され、成長投資促進に向けた「攻めのガバナンス」実現を目指す改訂内容が公表された。上場企業は改訂版の各原則の趣旨・精神に基づき、自社の課題検討と自律的対応が求められる。",
+        "上場企業は「プリンシプルベース・アプローチ」と「コンプライ・オア・エクスプレイン」に従い、形式的記載に囚われず原則の趣旨に照らして適合性判断し、非実施時は理由を説明する対応が必要。",
+        "本コードは法的拘束力を持たない任意規範であり、市場の中長期投資促進と日本版スチュワードシップ・コードとの相互作用による実効的ガバナンス実現を目的として適用される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "エムティジェネックス（9820）",
@@ -8000,6 +8015,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
+        "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産の金商法化が成立── 「お墨付きではない」と23回言われた法律【記者コラム】",
         "url": "https://news.yahoo.co.jp/articles/20db87396a2d207e05434beee2f3daec29bb37b0",
         "source": "Yahoo",
@@ -8026,18 +8047,18 @@
       {
         "title": "期待が先行し、需要が追いかける局面へ── 制度改革と現物買いが支えるビットコイン市場【BitTrade Market Weekly】",
         "url": "https://news.yahoo.co.jp/articles/3d6ed8173c6fc43133a40ef6ab9713acb6c19e04",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.4】",
-        "url": "https://news.yahoo.co.jp/articles/1214f4f918a3789aa67e4df2e7ccd7d1cfa70404",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
+        "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産の金商法化が成立── 「お墨付きではない」と23回言われた法律【記者コラム】",
         "url": "https://news.yahoo.co.jp/articles/20db87396a2d207e05434beee2f3daec29bb37b0",
         "source": "Yahoo",
@@ -8064,18 +8085,18 @@
       {
         "title": "期待が先行し、需要が追いかける局面へ── 制度改革と現物買いが支えるビットコイン市場【BitTrade Market Weekly】",
         "url": "https://news.yahoo.co.jp/articles/3d6ed8173c6fc43133a40ef6ab9713acb6c19e04",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.4】",
-        "url": "https://news.yahoo.co.jp/articles/1214f4f918a3789aa67e4df2e7ccd7d1cfa70404",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
+        "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産の金商法化が成立── 「お墨付きではない」と23回言われた法律【記者コラム】",
         "url": "https://news.yahoo.co.jp/articles/20db87396a2d207e05434beee2f3daec29bb37b0",
         "source": "Yahoo",
@@ -8102,18 +8123,18 @@
       {
         "title": "期待が先行し、需要が追いかける局面へ── 制度改革と現物買いが支えるビットコイン市場【BitTrade Market Weekly】",
         "url": "https://news.yahoo.co.jp/articles/3d6ed8173c6fc43133a40ef6ab9713acb6c19e04",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.4】",
-        "url": "https://news.yahoo.co.jp/articles/1214f4f918a3789aa67e4df2e7ccd7d1cfa70404",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
+        "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産の金商法化が成立── 「お墨付きではない」と23回言われた法律【記者コラム】",
         "url": "https://news.yahoo.co.jp/articles/20db87396a2d207e05434beee2f3daec29bb37b0",
         "source": "Yahoo",
@@ -8140,12 +8161,6 @@
       {
         "title": "期待が先行し、需要が追いかける局面へ── 制度改革と現物買いが支えるビットコイン市場【BitTrade Market Weekly】",
         "url": "https://news.yahoo.co.jp/articles/3d6ed8173c6fc43133a40ef6ab9713acb6c19e04",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.4】",
-        "url": "https://news.yahoo.co.jp/articles/1214f4f918a3789aa67e4df2e7ccd7d1cfa70404",
         "source": "Yahoo",
         "date": ""
       }
