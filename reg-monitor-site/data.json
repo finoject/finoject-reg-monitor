@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-07-21T04:51:26.819Z",
+  "generatedAt": "2026-07-21T07:57:13.168Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "エムティジェネックス（9820）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-07-21",
+      "detectedAt": "2026-07-21T07:57:13.168Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-21T07:57:18.638Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]特別注意銘柄等の取扱いに関する指数コンサルテーションを踏まえた対応について",
+      "url": "https://www.jpx.co.jp/news/6030/20260721-01.html",
+      "date": "2026-07-21",
+      "detectedAt": "2026-07-21T07:57:13.168Z",
+      "enriched": "2026-07-21T07:57:18.639Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研は2026年4月3日から5月7日に特別注意銘柄等の取扱いについて指数コンサルテーションを実施し、寄せられた意見を踏まえて原案どおりの対応を実施することを決定した。",
+        "指数の算出・構成銘柄の選定に関わる投資家・機関投資家は、特別注意銘柄等の取扱い変更の詳細をリンク先で確認し、必要に応じてポートフォリオ対応を検討すべき。",
+        "本対応は2026年7月21日公表であり、具体的な適用開始日・変更内容の詳細はJPX総研インデックスビジネス部の指数コンサルテーション資料に記載されている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "コーポレートガバナンス・コード（2026年改訂版）の公表について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260721efb.html",
+      "date": "2026-07-21",
+      "detectedAt": "2026-07-21T07:57:13.168Z",
+      "enriched": "2026-07-21T07:57:18.639Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁及び東京証券取引所がコーポレートガバナンス・コード2026年改訂版を2026年7月21日に公表した。改訂内容の詳細は両機関ウェブサイトに掲載。",
+        "上場企業及び関連実務者は公表された改訂版の内容を確認し、必要に応じてガバナンス体制の見直しを検討する必要がある。",
+        "適用開始日を含む具体的な改訂内容は金融庁及び東京証券取引所の公表資料で確認すること。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
@@ -563,22 +609,6 @@
         "調整は2026年7月30日から適用開始、2026年8月1日の株式分割効力発生日を基準として実施される（大阪取引所が実施主体）。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "Ｂｉｔｃｏｉｎ Ｊａｐａｎ（8105）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-07-16",
-      "detectedAt": "2026-07-16T07:07:00.128Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-16T07:07:05.871Z"
     },
     {
       "agency": "日本証券業協会",
@@ -8198,6 +8228,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "レボリュート、ドバイでVASPライセンスの原則承認取得",
+        "url": "https://news.yahoo.co.jp/articles/8afe2fe65d2e6acccbf5e298ea19444033750d3d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ベトナム、暗号資産市場の違反行為に行政罰を導入する政令公布。9/1より発効",
+        "url": "https://news.yahoo.co.jp/articles/4f8e30972b4f96ab6c15a594f5e11366ee928706",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "W杯とともに駆け抜けた1カ月──“点”だったニュースが「オンチェーン金融」につながった【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/ffd37c63d852cda8effe0fb5c7a0da81a932725c",
         "source": "Yahoo",
@@ -8218,24 +8260,24 @@
       {
         "title": "CLARITY法案は米国の暗号資産市場をどう変えるのか──「成立時期」より重要な市場構造改革の本質【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/916ac7080242f51c2eb5ea01903ecd32d5068a62",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI時代、DeFiは金融インフラに──日本人創業者らが描くオンチェーン金融の未来【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/7fa05ed4c476907d186b514fe39eaa569d0933f6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/bc8a8a83ec63b2a159abb844bf9a9663dffb30bb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "レボリュート、ドバイでVASPライセンスの原則承認取得",
+        "url": "https://news.yahoo.co.jp/articles/8afe2fe65d2e6acccbf5e298ea19444033750d3d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ベトナム、暗号資産市場の違反行為に行政罰を導入する政令公布。9/1より発効",
+        "url": "https://news.yahoo.co.jp/articles/4f8e30972b4f96ab6c15a594f5e11366ee928706",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "W杯とともに駆け抜けた1カ月──“点”だったニュースが「オンチェーン金融」につながった【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/ffd37c63d852cda8effe0fb5c7a0da81a932725c",
         "source": "Yahoo",
@@ -8256,18 +8298,6 @@
       {
         "title": "CLARITY法案は米国の暗号資産市場をどう変えるのか──「成立時期」より重要な市場構造改革の本質【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/916ac7080242f51c2eb5ea01903ecd32d5068a62",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI時代、DeFiは金融インフラに──日本人創業者らが描くオンチェーン金融の未来【WebX 2026】",
-        "url": "https://news.yahoo.co.jp/articles/7fa05ed4c476907d186b514fe39eaa569d0933f6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/bc8a8a83ec63b2a159abb844bf9a9663dffb30bb",
         "source": "Yahoo",
         "date": ""
       }
@@ -8426,6 +8456,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "ギャラクシー、法人・機関向けオンチェーン運用サービス「Galaxy Curator」を提供開始。モルフォ上に構築",
+        "url": "https://news.yahoo.co.jp/articles/5d6c0d6f06154f749d435e02f6bb4c2baf6bbf21",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、アルゼンチン発ネオバンク「ウアラ」に20Mドル出資",
+        "url": "https://news.yahoo.co.jp/articles/b50f4b24f2c4c4049a3bce468240041fadc21f08",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に",
+        "url": "https://news.yahoo.co.jp/articles/81ba1158f1a4dbdfad29880314ec76aaf52fe59b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、シンガポール「コインハコ」子会社化完了。アジアのデジタルアセット事業を拡大へ",
         "url": "https://news.yahoo.co.jp/articles/a6c5208d59231ea107e7ca91ea81b28918573c9c",
         "source": "Yahoo",
@@ -8440,30 +8488,30 @@
       {
         "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
         "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国際金融都市OSAKA、本格始動 大阪府、ブロックチェーンなど金融サービス実証実験へ",
-        "url": "https://news.yahoo.co.jp/articles/ab481d2f4f68c9dd6393594aac7e1458f26c2cef",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Exodus、世界人員の約25％削減──ステーブルコイン決済へ経営資源集中",
-        "url": "https://news.yahoo.co.jp/articles/e5a4ef3ecd0782dec502d38b6c6e080c495a2567",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アマゾン配送大手のAZ-COM丸和、協力会社2300社への支払いにJPYC導入へ=日経",
-        "url": "https://news.yahoo.co.jp/articles/b7b4d527b4a66edd24620301087ce930c4ac303c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ギャラクシー、法人・機関向けオンチェーン運用サービス「Galaxy Curator」を提供開始。モルフォ上に構築",
+        "url": "https://news.yahoo.co.jp/articles/5d6c0d6f06154f749d435e02f6bb4c2baf6bbf21",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、アルゼンチン発ネオバンク「ウアラ」に20Mドル出資",
+        "url": "https://news.yahoo.co.jp/articles/b50f4b24f2c4c4049a3bce468240041fadc21f08",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に",
+        "url": "https://news.yahoo.co.jp/articles/81ba1158f1a4dbdfad29880314ec76aaf52fe59b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、シンガポール「コインハコ」子会社化完了。アジアのデジタルアセット事業を拡大へ",
         "url": "https://news.yahoo.co.jp/articles/a6c5208d59231ea107e7ca91ea81b28918573c9c",
         "source": "Yahoo",
@@ -8478,24 +8526,6 @@
       {
         "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
         "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国際金融都市OSAKA、本格始動 大阪府、ブロックチェーンなど金融サービス実証実験へ",
-        "url": "https://news.yahoo.co.jp/articles/ab481d2f4f68c9dd6393594aac7e1458f26c2cef",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Exodus、世界人員の約25％削減──ステーブルコイン決済へ経営資源集中",
-        "url": "https://news.yahoo.co.jp/articles/e5a4ef3ecd0782dec502d38b6c6e080c495a2567",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アマゾン配送大手のAZ-COM丸和、協力会社2300社への支払いにJPYC導入へ=日経",
-        "url": "https://news.yahoo.co.jp/articles/b7b4d527b4a66edd24620301087ce930c4ac303c",
         "source": "Yahoo",
         "date": ""
       }
@@ -9216,6 +9246,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "異例",
+        "url": "https://news.yahoo.co.jp/articles/cdc6da6e588c45d16351511bdb97a4f48e7f7e84",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "どんなAIで世界に勝つ？「同意不要で個人情報提供」に賛否",
         "url": "https://news.yahoo.co.jp/articles/8a6ad93849741608ec2751f9306c689c345f79bf",
         "source": "Yahoo",
@@ -9242,18 +9278,18 @@
       {
         "title": "ニチレイ“サイバー攻撃”で個人情報漏えいの可能性・商品欠品も 木原官房長官「バックアップを取る、最新の状態に保つ」と対策呼びかけ",
         "url": "https://news.yahoo.co.jp/articles/d8f5d23939bba261f0223ed958b72796877a7924",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "女性４人含む６人の個人情報、警部が不正照会容疑で書類送検",
-        "url": "https://news.yahoo.co.jp/articles/66e1f137de5cb30137db3acf5d184c6278a85396",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "異例",
+        "url": "https://news.yahoo.co.jp/articles/cdc6da6e588c45d16351511bdb97a4f48e7f7e84",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "どんなAIで世界に勝つ？「同意不要で個人情報提供」に賛否",
         "url": "https://news.yahoo.co.jp/articles/8a6ad93849741608ec2751f9306c689c345f79bf",
         "source": "Yahoo",
@@ -9280,18 +9316,18 @@
       {
         "title": "ニチレイ“サイバー攻撃”で個人情報漏えいの可能性・商品欠品も 木原官房長官「バックアップを取る、最新の状態に保つ」と対策呼びかけ",
         "url": "https://news.yahoo.co.jp/articles/d8f5d23939bba261f0223ed958b72796877a7924",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "女性４人含む６人の個人情報、警部が不正照会容疑で書類送検",
-        "url": "https://news.yahoo.co.jp/articles/66e1f137de5cb30137db3acf5d184c6278a85396",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "異例",
+        "url": "https://news.yahoo.co.jp/articles/cdc6da6e588c45d16351511bdb97a4f48e7f7e84",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "どんなAIで世界に勝つ？「同意不要で個人情報提供」に賛否",
         "url": "https://news.yahoo.co.jp/articles/8a6ad93849741608ec2751f9306c689c345f79bf",
         "source": "Yahoo",
@@ -9318,12 +9354,6 @@
       {
         "title": "ニチレイ“サイバー攻撃”で個人情報漏えいの可能性・商品欠品も 木原官房長官「バックアップを取る、最新の状態に保つ」と対策呼びかけ",
         "url": "https://news.yahoo.co.jp/articles/d8f5d23939bba261f0223ed958b72796877a7924",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "女性４人含む６人の個人情報、警部が不正照会容疑で書類送検",
-        "url": "https://news.yahoo.co.jp/articles/66e1f137de5cb30137db3acf5d184c6278a85396",
         "source": "Yahoo",
         "date": ""
       }
