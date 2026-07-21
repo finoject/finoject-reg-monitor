@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T07:57:13.168Z",
+  "generatedAt": "2026-07-21T10:47:55.261Z",
   "items": [
     {
       "agency": "日本取引所グループ",
@@ -8152,6 +8152,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
+        "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
         "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
         "source": "Yahoo",
@@ -8178,18 +8184,18 @@
       {
         "title": "日本の暗号資産市場は新たな時代へ──金商法改正が示すETFへのロードマップ【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/9812c92079339e364c97fd1b622efeedc55e3dc4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜ全東信は20年も粉飾を続け“1,259億円破綻”した？ 決済インフラ“最大の穴”とは",
-        "url": "https://news.yahoo.co.jp/articles/a77e65ad28c195ddf67d2fa746c004167c1de9c2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
+        "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
         "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
         "source": "Yahoo",
@@ -8218,15 +8224,21 @@
         "url": "https://news.yahoo.co.jp/articles/9812c92079339e364c97fd1b622efeedc55e3dc4",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "なぜ全東信は20年も粉飾を続け“1,259億円破綻”した？ 決済インフラ“最大の穴”とは",
-        "url": "https://news.yahoo.co.jp/articles/a77e65ad28c195ddf67d2fa746c004167c1de9c2",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "バイビット、インドネシア向け暗号資産取引プラットフォーム提供開始",
+        "url": "https://news.yahoo.co.jp/articles/57d2bdfc1425d4f00d26f3e8ab99df600b0e1b00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ氏、クラリティ法案の倫理条項に同意──上院採決へ前進＝THE BLOCK",
+        "url": "https://news.yahoo.co.jp/articles/f80f0846f9ef504d6ac818860278b097091bd2fb",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "レボリュート、ドバイでVASPライセンスの原則承認取得",
         "url": "https://news.yahoo.co.jp/articles/8afe2fe65d2e6acccbf5e298ea19444033750d3d",
@@ -8248,24 +8260,24 @@
       {
         "title": "暗号資産の金商法化が成立── 「お墨付きではない」と23回言われた法律【記者コラム】",
         "url": "https://news.yahoo.co.jp/articles/20db87396a2d207e05434beee2f3daec29bb37b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "エヌビディア株、32兆円市場に挑む新CPU「Vera」で急騰するか",
-        "url": "https://news.yahoo.co.jp/articles/6c1d60533e0861e9880f1e4a907347d6fef4416b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY法案は米国の暗号資産市場をどう変えるのか──「成立時期」より重要な市場構造改革の本質【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/916ac7080242f51c2eb5ea01903ecd32d5068a62",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "バイビット、インドネシア向け暗号資産取引プラットフォーム提供開始",
+        "url": "https://news.yahoo.co.jp/articles/57d2bdfc1425d4f00d26f3e8ab99df600b0e1b00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ氏、クラリティ法案の倫理条項に同意──上院採決へ前進＝THE BLOCK",
+        "url": "https://news.yahoo.co.jp/articles/f80f0846f9ef504d6ac818860278b097091bd2fb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "レボリュート、ドバイでVASPライセンスの原則承認取得",
         "url": "https://news.yahoo.co.jp/articles/8afe2fe65d2e6acccbf5e298ea19444033750d3d",
         "source": "Yahoo",
@@ -8288,21 +8300,15 @@
         "url": "https://news.yahoo.co.jp/articles/20db87396a2d207e05434beee2f3daec29bb37b0",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "エヌビディア株、32兆円市場に挑む新CPU「Vera」で急騰するか",
-        "url": "https://news.yahoo.co.jp/articles/6c1d60533e0861e9880f1e4a907347d6fef4416b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY法案は米国の暗号資産市場をどう変えるのか──「成立時期」より重要な市場構造改革の本質【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/916ac7080242f51c2eb5ea01903ecd32d5068a62",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
+        "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "なぜ全東信は20年も粉飾を続け“1,259億円破綻”した？ 決済インフラ“最大の穴”とは",
         "url": "https://news.yahoo.co.jp/articles/a77e65ad28c195ddf67d2fa746c004167c1de9c2",
@@ -8330,18 +8336,18 @@
       {
         "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
         "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
-        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
+        "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "なぜ全東信は20年も粉飾を続け“1,259億円破綻”した？ 決済インフラ“最大の穴”とは",
         "url": "https://news.yahoo.co.jp/articles/a77e65ad28c195ddf67d2fa746c004167c1de9c2",
         "source": "Yahoo",
@@ -8368,12 +8374,6 @@
       {
         "title": "米保安官団体MCSA、クラリティ法案への反対取り下げ。法執行機関の懸念後退か",
         "url": "https://news.yahoo.co.jp/articles/310a6856090af735600a233eefe6c2d0af144c34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JVCEA会長にコインチェック蓮尾聡代表が就任",
-        "url": "https://news.yahoo.co.jp/articles/1c66b399997a58eaed7842de84de10c61a0dbc8a",
         "source": "Yahoo",
         "date": ""
       }
@@ -8456,7 +8456,25 @@
     ],
     "505M60000002048": [
       {
-        "title": "ギャラクシー、法人・機関向けオンチェーン運用サービス「Galaxy Curator」を提供開始。モルフォ上に構築",
+        "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
+        "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "高市政権、骨太の方針に「オンチェーン金融の推進」明記",
+        "url": "https://news.yahoo.co.jp/articles/263894ef2634a7138166b0bade7351e50bd3e223",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "RWA担保の合成ドルで日常決済──Falcon Financeがバーチャルカード提供開始、日本もサポート対象に",
+        "url": "https://news.yahoo.co.jp/articles/26990c1901920a205574842a2efd93f0b2857dce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ギャラクシー、法人・機関向けオンチェーン運用サービス「Galaxy Curator」提供開始。モルフォ上に構築",
         "url": "https://news.yahoo.co.jp/articles/5d6c0d6f06154f749d435e02f6bb4c2baf6bbf21",
         "source": "Yahoo",
         "date": ""
@@ -8470,31 +8488,31 @@
       {
         "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に",
         "url": "https://news.yahoo.co.jp/articles/81ba1158f1a4dbdfad29880314ec76aaf52fe59b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、シンガポール「コインハコ」子会社化完了。アジアのデジタルアセット事業を拡大へ",
-        "url": "https://news.yahoo.co.jp/articles/a6c5208d59231ea107e7ca91ea81b28918573c9c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "“地域”をオンチェーン化すると何が変わるのか──地方創生は、リアルな経済圏接続へ​【N.Avenue club 3期11回ラウンドテーブル・レポート】",
-        "url": "https://news.yahoo.co.jp/articles/7588f3b0a088904f216bb58b0b37359d1e18dd9a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
-        "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "ギャラクシー、法人・機関向けオンチェーン運用サービス「Galaxy Curator」を提供開始。モルフォ上に構築",
+        "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
+        "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "高市政権、骨太の方針に「オンチェーン金融の推進」明記",
+        "url": "https://news.yahoo.co.jp/articles/263894ef2634a7138166b0bade7351e50bd3e223",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "RWA担保の合成ドルで日常決済──Falcon Financeがバーチャルカード提供開始、日本もサポート対象に",
+        "url": "https://news.yahoo.co.jp/articles/26990c1901920a205574842a2efd93f0b2857dce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ギャラクシー、法人・機関向けオンチェーン運用サービス「Galaxy Curator」提供開始。モルフォ上に構築",
         "url": "https://news.yahoo.co.jp/articles/5d6c0d6f06154f749d435e02f6bb4c2baf6bbf21",
         "source": "Yahoo",
         "date": ""
@@ -8508,24 +8526,6 @@
       {
         "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に",
         "url": "https://news.yahoo.co.jp/articles/81ba1158f1a4dbdfad29880314ec76aaf52fe59b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、シンガポール「コインハコ」子会社化完了。アジアのデジタルアセット事業を拡大へ",
-        "url": "https://news.yahoo.co.jp/articles/a6c5208d59231ea107e7ca91ea81b28918573c9c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "“地域”をオンチェーン化すると何が変わるのか──地方創生は、リアルな経済圏接続へ​【N.Avenue club 3期11回ラウンドテーブル・レポート】",
-        "url": "https://news.yahoo.co.jp/articles/7588f3b0a088904f216bb58b0b37359d1e18dd9a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
-        "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
         "source": "Yahoo",
         "date": ""
       }
@@ -8740,12 +8740,6 @@
         "date": ""
       },
       {
-        "title": "無登録でヤミ金を営み、知人に210万円を貸し付けた疑い 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
-        "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
@@ -8754,6 +8748,12 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国で年2400％の違法貸金組織摘発",
+        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
@@ -8778,12 +8778,6 @@
         "date": ""
       },
       {
-        "title": "無登録でヤミ金を営み、知人に210万円を貸し付けた疑い 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
-        "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
@@ -8792,6 +8786,12 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国で年2400％の違法貸金組織摘発",
+        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
@@ -8816,12 +8816,6 @@
         "date": ""
       },
       {
-        "title": "無登録でヤミ金を営み、知人に210万円を貸し付けた疑い 組長の男を再逮捕 神戸 無登録の貸金業「ヤミ金」を営んだとして、兵庫県警暴力団対策課と灘署などは７日、貸金業法違反（無登録営業）の疑いで、特定抗争指定暴力団神戸山口組系組長の男（５４",
-        "url": "https://news.yahoo.co.jp/articles/65eea20652abc7e2c9c6e63537e170a930c75e6a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
@@ -8830,6 +8824,12 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国で年2400％の違法貸金組織摘発",
+        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
