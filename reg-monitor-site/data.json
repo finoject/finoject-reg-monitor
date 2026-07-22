@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T13:08:28.259Z",
+  "generatedAt": "2026-07-22T15:21:50.410Z",
   "items": [
     {
       "agency": "日本銀行",
@@ -8532,6 +8532,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "JPYC社、アマゾン配送大手のAZ丸和と資本業務提携",
+        "url": "https://news.yahoo.co.jp/articles/5aee457fbaafde771abad8a4478a697e5616d213",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ETH、7月に3週連続でBTCを上回る──Robinhood Chainとトークン化拡大、12億ドル相当の取引所流出が追い風【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/4de8c9071320221f9e57f6e59fb951cb64e0790b",
         "source": "Yahoo",
@@ -8558,18 +8564,18 @@
       {
         "title": "香港ドルステーブルコイン「HKDAP」、7月にも発行か。香港の新制度が実運用段階へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/710de8e91c0d40829d91a22b0d7edd8573166086",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFi融資大手AaveのUSDT借入、1週間で約390億円急増──残高4000億円で再び上限目前",
-        "url": "https://news.yahoo.co.jp/articles/c1c69f42c927c1c52636510afc41e7ca4e658ee9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JPYC社、アマゾン配送大手のAZ丸和と資本業務提携",
+        "url": "https://news.yahoo.co.jp/articles/5aee457fbaafde771abad8a4478a697e5616d213",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ETH、7月に3週連続でBTCを上回る──Robinhood Chainとトークン化拡大、12億ドル相当の取引所流出が追い風【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/4de8c9071320221f9e57f6e59fb951cb64e0790b",
         "source": "Yahoo",
@@ -8596,12 +8602,6 @@
       {
         "title": "香港ドルステーブルコイン「HKDAP」、7月にも発行か。香港の新制度が実運用段階へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/710de8e91c0d40829d91a22b0d7edd8573166086",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFi融資大手AaveのUSDT借入、1週間で約390億円急増──残高4000億円で再び上限目前",
-        "url": "https://news.yahoo.co.jp/articles/c1c69f42c927c1c52636510afc41e7ca4e658ee9",
         "source": "Yahoo",
         "date": ""
       }
