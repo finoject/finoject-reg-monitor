@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-22T04:51:10.887Z",
+  "generatedAt": "2026-07-22T07:57:11.567Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "協会員の異動状況等を更新しました。",
+      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
+      "date": "2026-07-22",
+      "detectedAt": "2026-07-22T07:57:11.567Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
+        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
+        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-22T07:57:17.406Z"
+    },
     {
       "agency": "日本銀行",
       "title": "営業毎旬報告（7月20日現在）",
@@ -3439,22 +3455,6 @@
         "東証が提示する気配更新ルール（上限方向13円×10分間隔、下限方向通常値幅×3分間隔）に従い、市場の需給に応じた段階的な値段形成をすることで初値決定を行う。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "協会員の異動状況等を更新しました。",
-      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
-      "date": "2026-06-26",
-      "detectedAt": "2026-06-26T01:39:07.351Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
-        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
-        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-06-26T01:39:13.137Z"
     },
     {
       "agency": "日本証券業協会",
@@ -8274,6 +8274,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "カントン開発デジタルアセットに10Mドル追加出資、新韓金融GとSCベンチャーズが参加",
+        "url": "https://news.yahoo.co.jp/articles/806e8bf9cbbabe7f7e6a1afffddd884eba006337",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロシア下院、暗号資産とデジタル権利を包括規制する法案を可決",
+        "url": "https://news.yahoo.co.jp/articles/b6a078138987543f6eccb32c30c1c661cd12dae9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "bitFlyer Holdings、法人向け新サービスbitFlyer Primeを発表",
+        "url": "https://news.yahoo.co.jp/articles/77a5509dfd7eb826841d210ea4e11a9768dc7063",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロンドン証券取引所、夜間取引市場「LSE 24」開設へ。株式の24時間取引も視野",
         "url": "https://news.yahoo.co.jp/articles/edd28e2301585bfa0a32f702fff1df16961e0308",
         "source": "Yahoo",
@@ -8288,30 +8306,30 @@
       {
         "title": "CoinShares、欧州でビットコインマイニングETFを上場",
         "url": "https://news.yahoo.co.jp/articles/25128c9bf65789d09a2f5daa2c3c223e54a9085b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OpenAI幹部が中国製AI「Kimi K3」に対する「爆弾発言」で論争を巻き起こしている（海外）",
-        "url": "https://news.yahoo.co.jp/articles/c346dd2062d712ee04eacd922d88f9a8e641d38f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイビット、インドネシア向け暗号資産取引プラットフォーム提供開始",
-        "url": "https://news.yahoo.co.jp/articles/57d2bdfc1425d4f00d26f3e8ab99df600b0e1b00",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏、クラリティ法案の倫理条項に同意──上院採決へ前進＝THE BLOCK",
-        "url": "https://news.yahoo.co.jp/articles/f80f0846f9ef504d6ac818860278b097091bd2fb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "カントン開発デジタルアセットに10Mドル追加出資、新韓金融GとSCベンチャーズが参加",
+        "url": "https://news.yahoo.co.jp/articles/806e8bf9cbbabe7f7e6a1afffddd884eba006337",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロシア下院、暗号資産とデジタル権利を包括規制する法案を可決",
+        "url": "https://news.yahoo.co.jp/articles/b6a078138987543f6eccb32c30c1c661cd12dae9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "bitFlyer Holdings、法人向け新サービスbitFlyer Primeを発表",
+        "url": "https://news.yahoo.co.jp/articles/77a5509dfd7eb826841d210ea4e11a9768dc7063",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロンドン証券取引所、夜間取引市場「LSE 24」開設へ。株式の24時間取引も視野",
         "url": "https://news.yahoo.co.jp/articles/edd28e2301585bfa0a32f702fff1df16961e0308",
         "source": "Yahoo",
@@ -8326,24 +8344,6 @@
       {
         "title": "CoinShares、欧州でビットコインマイニングETFを上場",
         "url": "https://news.yahoo.co.jp/articles/25128c9bf65789d09a2f5daa2c3c223e54a9085b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OpenAI幹部が中国製AI「Kimi K3」に対する「爆弾発言」で論争を巻き起こしている（海外）",
-        "url": "https://news.yahoo.co.jp/articles/c346dd2062d712ee04eacd922d88f9a8e641d38f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイビット、インドネシア向け暗号資産取引プラットフォーム提供開始",
-        "url": "https://news.yahoo.co.jp/articles/57d2bdfc1425d4f00d26f3e8ab99df600b0e1b00",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏、クラリティ法案の倫理条項に同意──上院採決へ前進＝THE BLOCK",
-        "url": "https://news.yahoo.co.jp/articles/f80f0846f9ef504d6ac818860278b097091bd2fb",
         "source": "Yahoo",
         "date": ""
       }
@@ -8578,6 +8578,12 @@
     ],
     "419AC0000000022": [
       {
+        "title": "【ニセの税関職員、ニセ警察官、そしてニセ検事",
+        "url": "https://news.yahoo.co.jp/articles/4b3cd43fc5f8b139c85cfa8bfcb9bcbcc79d1299",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
         "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
         "source": "Yahoo",
@@ -8604,18 +8610,18 @@
       {
         "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
         "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
-        "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "【ニセの税関職員、ニセ警察官、そしてニセ検事",
+        "url": "https://news.yahoo.co.jp/articles/4b3cd43fc5f8b139c85cfa8bfcb9bcbcc79d1299",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
         "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
         "source": "Yahoo",
@@ -8642,18 +8648,18 @@
       {
         "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
         "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
-        "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "【ニセの税関職員、ニセ警察官、そしてニセ検事",
+        "url": "https://news.yahoo.co.jp/articles/4b3cd43fc5f8b139c85cfa8bfcb9bcbcc79d1299",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
         "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
         "source": "Yahoo",
@@ -8680,12 +8686,6 @@
       {
         "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
         "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【サギ速報】1800万円近くが消えた！これが\"ニセの逮捕状\"だ！「あなた名義の口座がマネーロンダリングに使われている」インチキ警官らが70代女性にSNSで見せつけ脅して現金だまし取る〈北海道〉",
-        "url": "https://news.yahoo.co.jp/articles/d1f17ab00ae733107a075a27d1193d87363a056a",
         "source": "Yahoo",
         "date": ""
       }
@@ -9292,6 +9292,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「改正個人情報保護法」公布、2年以内に施行、AI開発などのデータ利活用の同意特例新設",
+        "url": "https://news.yahoo.co.jp/articles/566b5ee5f292eeaf80d72ed1632617ad0ab9af50",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "異例",
         "url": "https://news.yahoo.co.jp/articles/cdc6da6e588c45d16351511bdb97a4f48e7f7e84",
         "source": "Yahoo",
@@ -9318,18 +9324,18 @@
       {
         "title": "「現金持ってなくて詰んだ」 クレカ障害、飲食店で会計できない",
         "url": "https://news.yahoo.co.jp/articles/525beea11d54bca8f8a3423bfea71334bb7ecdf5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニチレイ“サイバー攻撃”で個人情報漏えいの可能性・商品欠品も 木原官房長官「バックアップを取る、最新の状態に保つ」と対策呼びかけ",
-        "url": "https://news.yahoo.co.jp/articles/d8f5d23939bba261f0223ed958b72796877a7924",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「改正個人情報保護法」公布、2年以内に施行、AI開発などのデータ利活用の同意特例新設",
+        "url": "https://news.yahoo.co.jp/articles/566b5ee5f292eeaf80d72ed1632617ad0ab9af50",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "異例",
         "url": "https://news.yahoo.co.jp/articles/cdc6da6e588c45d16351511bdb97a4f48e7f7e84",
         "source": "Yahoo",
@@ -9356,18 +9362,18 @@
       {
         "title": "「現金持ってなくて詰んだ」 クレカ障害、飲食店で会計できない",
         "url": "https://news.yahoo.co.jp/articles/525beea11d54bca8f8a3423bfea71334bb7ecdf5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニチレイ“サイバー攻撃”で個人情報漏えいの可能性・商品欠品も 木原官房長官「バックアップを取る、最新の状態に保つ」と対策呼びかけ",
-        "url": "https://news.yahoo.co.jp/articles/d8f5d23939bba261f0223ed958b72796877a7924",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「改正個人情報保護法」公布、2年以内に施行、AI開発などのデータ利活用の同意特例新設",
+        "url": "https://news.yahoo.co.jp/articles/566b5ee5f292eeaf80d72ed1632617ad0ab9af50",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "異例",
         "url": "https://news.yahoo.co.jp/articles/cdc6da6e588c45d16351511bdb97a4f48e7f7e84",
         "source": "Yahoo",
@@ -9394,12 +9400,6 @@
       {
         "title": "「現金持ってなくて詰んだ」 クレカ障害、飲食店で会計できない",
         "url": "https://news.yahoo.co.jp/articles/525beea11d54bca8f8a3423bfea71334bb7ecdf5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニチレイ“サイバー攻撃”で個人情報漏えいの可能性・商品欠品も 木原官房長官「バックアップを取る、最新の状態に保つ」と対策呼びかけ",
-        "url": "https://news.yahoo.co.jp/articles/d8f5d23939bba261f0223ed958b72796877a7924",
         "source": "Yahoo",
         "date": ""
       }
