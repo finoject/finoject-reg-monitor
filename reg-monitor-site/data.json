@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-07-21T23:36:54.790Z",
+  "generatedAt": "2026-07-22T01:06:42.163Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（7月20日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260720.htm",
+      "date": "2026-07-22",
+      "detectedAt": "2026-07-22T01:06:42.163Z",
+      "enriched": "2026-07-22T01:06:47.998Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の2026年7月20日現在の資産総額639,369,552,506千円のうち、国債518,224,842,227千円（長期国債）、外国為替12,013,446,961千円、貸付金68,037,000,000千円を保有し、負債は発行銀行券114,996,570,363千円、当座預金431,604,480,601千円が主要構成。",
+        "金銭の信託は指数連動型上場投資信託受益権37,023,515,788千円、不動産投資法人投資口651,856,411千円を保有し、このほか社債（不動産投資法人債を含む）1,515,964,157千円、金地金441,253,409千円を資産に計上。",
+        "貸付金68,037,000,000千円のうち、共通担保資金供給オペレーション等による貸付金28,931,100,000千円、貸出支援基金から39,105,900,000千円が供給され、気候変動対応を支援するための資金供給オペレーションを実施。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "「気候変動関連の市場機能サーベイ」第5回説明会",
+      "url": "https://www.boj.or.jp/paym/m-climate/mcli260722a.htm",
+      "date": "2026-07-22",
+      "detectedAt": "2026-07-22T01:06:42.163Z",
+      "enriched": "2026-07-22T01:06:47.998Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年2月～3月に第5回「気候変動関連の市場機能サーベイ」を実施し、金融機関・事業法人・格付け会社等951先中473先から回収（回収率50％）。",
+        "今回調査では気候関連リスク・機会の金融商品価格反映、ESG債市場の現状、先行き課題に加えSSBJ基準の適用義務化を受けた情報開示準備状況に関する設問を追加。",
+        "トランジション・ファイナンスとSSBJ基準に基づく開示義務化の動向をBOXで整理し、市場参加者の見方と課題を把握することで金融市場機能の向上に資することを目的とする。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "FSBレポ統計の日本分集計結果",
+      "url": "https://www.boj.or.jp/statistics/bis/repo/index.htm",
+      "date": "2026-07-21",
+      "detectedAt": "2026-07-22T01:06:42.163Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行がFSBレポ統計の日本分集計結果（2026年5月分）を2026年6月19日に公表し、日本円現先取引等のフロー・ストックデータ及びレポレートを提供開始した。",
+        "市場参加者はFSBレポ統計の公表データ（XLSX・PDF形式）から日本円・外貨取引、取引相手別の現先・証券貸借取引額及び取引レートを参照可能である。",
+        "本統計は2020年1月から定期公表されており、2026年1月26日及び2025年8月22日の過去訂正が記録されているため、最新データと訂正履歴の確認が必要である。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-22T01:06:47.998Z"
+    },
     {
       "agency": "金融庁",
       "title": "コーポレートガバナンス・コード（2026年改訂版）の確定の公表",
@@ -4388,21 +4434,6 @@
     },
     {
       "agency": "日本銀行",
-      "title": "FSBレポ統計の日本分集計結果",
-      "url": "https://www.boj.or.jp/statistics/bis/repo/index.htm",
-      "date": "2026-06-18",
-      "detectedAt": "2026-06-19T02:21:26.532Z",
-      "enriched": "2026-06-19T06:01:52.710Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行がFSBレポ統計の日本分集計結果（2026年5月分）を2026年6月19日に公表し、日本円現先取引等のフロー・ストックデータ及びレポレートを提供開始した。",
-        "市場参加者はFSBレポ統計の公表データ（XLSX・PDF形式）から日本円・外貨取引、取引相手別の現先・証券貸借取引額及び取引レートを参照可能である。",
-        "本統計は2020年1月から定期公表されており、2026年1月26日及び2025年8月22日の過去訂正が記録されているため、最新データと訂正履歴の確認が必要である。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
       "title": "（論文）関税率の変動が消費者物価に及ぼす影響について：米国における実証分析",
       "url": "https://www.boj.or.jp/research/wps_rev/wps_2026/wp26j08.htm",
       "date": "2026-06-18",
@@ -8243,6 +8274,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "パキスタン、資金洗浄対策として暗号資産取締りの専門部隊を設置",
+        "url": "https://news.yahoo.co.jp/articles/a272c359e53407651410a955c35342245dbe28e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CoinShares、欧州でビットコインマイニングETFを上場",
         "url": "https://news.yahoo.co.jp/articles/25128c9bf65789d09a2f5daa2c3c223e54a9085b",
         "source": "Yahoo",
@@ -8269,18 +8306,18 @@
       {
         "title": "レボリュート、ドバイでVASPライセンスの原則承認取得",
         "url": "https://news.yahoo.co.jp/articles/8afe2fe65d2e6acccbf5e298ea19444033750d3d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ベトナム、暗号資産市場の違反行為に行政罰を導入する政令公布。9/1より発効",
-        "url": "https://news.yahoo.co.jp/articles/4f8e30972b4f96ab6c15a594f5e11366ee928706",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "パキスタン、資金洗浄対策として暗号資産取締りの専門部隊を設置",
+        "url": "https://news.yahoo.co.jp/articles/a272c359e53407651410a955c35342245dbe28e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CoinShares、欧州でビットコインマイニングETFを上場",
         "url": "https://news.yahoo.co.jp/articles/25128c9bf65789d09a2f5daa2c3c223e54a9085b",
         "source": "Yahoo",
@@ -8307,12 +8344,6 @@
       {
         "title": "レボリュート、ドバイでVASPライセンスの原則承認取得",
         "url": "https://news.yahoo.co.jp/articles/8afe2fe65d2e6acccbf5e298ea19444033750d3d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ベトナム、暗号資産市場の違反行為に行政罰を導入する政令公布。9/1より発効",
-        "url": "https://news.yahoo.co.jp/articles/4f8e30972b4f96ab6c15a594f5e11366ee928706",
         "source": "Yahoo",
         "date": ""
       }
@@ -8471,6 +8502,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "パキスタン、資金洗浄対策として暗号資産取締りの専門部隊を設置",
+        "url": "https://news.yahoo.co.jp/articles/a272c359e53407651410a955c35342245dbe28e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マイナンバーカード連携ウォレット、一般提供開始──App StoreとGoogle Playで マイナンバーカードをスマートフォンにかざして本人確認するだけで、ステーブルコインや暗号資産、NFTを管理できるウォレットで、秘密鍵をユーザー自身が管",
         "url": "https://news.yahoo.co.jp/articles/14052f3df061c1b1357a32967e4534b694c71d29",
         "source": "Yahoo",
@@ -8497,18 +8534,18 @@
       {
         "title": "RWA担保の合成ドルで日常決済──Falcon Financeがバーチャルカード提供開始、日本もサポート対象に",
         "url": "https://news.yahoo.co.jp/articles/26990c1901920a205574842a2efd93f0b2857dce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ギャラクシー、法人・機関向けオンチェーン運用サービス「Galaxy Curator」提供開始。モルフォ上に構築",
-        "url": "https://news.yahoo.co.jp/articles/5d6c0d6f06154f749d435e02f6bb4c2baf6bbf21",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "パキスタン、資金洗浄対策として暗号資産取締りの専門部隊を設置",
+        "url": "https://news.yahoo.co.jp/articles/a272c359e53407651410a955c35342245dbe28e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マイナンバーカード連携ウォレット、一般提供開始──App StoreとGoogle Playで マイナンバーカードをスマートフォンにかざして本人確認するだけで、ステーブルコインや暗号資産、NFTを管理できるウォレットで、秘密鍵をユーザー自身が管",
         "url": "https://news.yahoo.co.jp/articles/14052f3df061c1b1357a32967e4534b694c71d29",
         "source": "Yahoo",
@@ -8535,12 +8572,6 @@
       {
         "title": "RWA担保の合成ドルで日常決済──Falcon Financeがバーチャルカード提供開始、日本もサポート対象に",
         "url": "https://news.yahoo.co.jp/articles/26990c1901920a205574842a2efd93f0b2857dce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ギャラクシー、法人・機関向けオンチェーン運用サービス「Galaxy Curator」提供開始。モルフォ上に構築",
-        "url": "https://news.yahoo.co.jp/articles/5d6c0d6f06154f749d435e02f6bb4c2baf6bbf21",
         "source": "Yahoo",
         "date": ""
       }
