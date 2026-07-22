@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-22T07:57:11.567Z",
+  "generatedAt": "2026-07-22T10:49:11.908Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260717.xlsx",
+      "date": "2026-07-22",
+      "detectedAt": "2026-07-22T10:49:11.908Z",
+      "enriched": "2026-07-22T10:49:17.295Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行が2026年7月22日時点で保有する国債について、銘柄別の残高データを公表した。取得可能な具体的な保有残高は本文が破損しており確認不可。",
+        "金融機関・市場参加者は当行の公表データにより国債市場での日銀保有状況を把握し、市場分析や取引判断に活用する。",
+        "国債の銘柄別保有残高は金融調節・金融政策の透明性向上に関連し、日本銀行法に基づく情報公開の一環と位置付けられる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「第60回定期総会の決議事項「第61事業年度事業計画」について」",
+      "url": "https://jicpa.or.jp/news/information/2026/20260722hjq.html",
+      "date": "2026-07-22",
+      "detectedAt": "2026-07-22T10:49:11.908Z",
+      "enriched": "2026-07-22T10:49:17.295Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "第61事業年度（2026年7月開始）において日本公認会計士協会は①上場会社等監査人登録制度の適切な運用・制度周知②中小監査事務所へのAI等テクノロジー対応支援③監査報酬の考え方に関する検討・取りまとめを重点施策として実施する。",
+        "会員及び中小監査事務所は①高品質な監査提供に向けた環境整備に対応②テクノロジー進展への対応支援を活用③品質管理レビュー制度と上場会社等監査人登録制度の運用に従う。",
+        "第61事業年度事業計画は2026年7月22日の第60回定期総会で決議され、5つの重点目標実現に向けた17項目の重点施策を推進する。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "協会員の異動状況等を更新しました。",
@@ -8198,6 +8228,18 @@
     ],
     "421AC0000000059": [
       {
+        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
+        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マイナンバーカード活用のデジタル資産ウォレット「マイナウォレット」、一般提供開始",
+        "url": "https://news.yahoo.co.jp/articles/cfcf006ccbda49b1df29bdbd37a066ca434633d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "名前が官製っぽいが民間サービス「マイナウォレット」マイナカード活用したデジタル資産ウォレット",
         "url": "https://news.yahoo.co.jp/articles/796439c6b09ff2dcba17b4f9328b7cd69e1b48d2",
         "source": "Yahoo",
@@ -8218,24 +8260,24 @@
       {
         "title": "改札で0.3秒遅れ、運賃“割引”もなし",
         "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "地域限定の電子通貨、アリですか？",
-        "url": "https://news.yahoo.co.jp/articles/842dfb06c110add6bddd2964c9dfc341f448f715",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "モルガン・スタンレー、E*TRADEで暗号資産現物取引を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/75a4f5055440b7c27296179059b153014bbef45b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
+        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マイナンバーカード活用のデジタル資産ウォレット「マイナウォレット」、一般提供開始",
+        "url": "https://news.yahoo.co.jp/articles/cfcf006ccbda49b1df29bdbd37a066ca434633d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "名前が官製っぽいが民間サービス「マイナウォレット」マイナカード活用したデジタル資産ウォレット",
         "url": "https://news.yahoo.co.jp/articles/796439c6b09ff2dcba17b4f9328b7cd69e1b48d2",
         "source": "Yahoo",
@@ -8256,18 +8298,6 @@
       {
         "title": "改札で0.3秒遅れ、運賃“割引”もなし",
         "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "地域限定の電子通貨、アリですか？",
-        "url": "https://news.yahoo.co.jp/articles/842dfb06c110add6bddd2964c9dfc341f448f715",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "モルガン・スタンレー、E*TRADEで暗号資産現物取引を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/75a4f5055440b7c27296179059b153014bbef45b",
         "source": "Yahoo",
         "date": ""
       }
@@ -8350,6 +8380,12 @@
     ],
     "422M60000002004": [
       {
+        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
+        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "決済代行業、業績は過去6年で最高 キャッシュレス決済市場の拡大が背景",
         "url": "https://news.yahoo.co.jp/articles/f49c12a0c07c953c3cd88cebea5f3bf031ec1ed7",
         "source": "Yahoo",
@@ -8376,18 +8412,18 @@
       {
         "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
         "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
-        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
+        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "決済代行業、業績は過去6年で最高 キャッシュレス決済市場の拡大が背景",
         "url": "https://news.yahoo.co.jp/articles/f49c12a0c07c953c3cd88cebea5f3bf031ec1ed7",
         "source": "Yahoo",
@@ -8414,12 +8450,6 @@
       {
         "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
         "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
-        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
         "source": "Yahoo",
         "date": ""
       }
@@ -8502,6 +8532,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "預かり資産約2兆円のDeFi「Morpho」、初の固定金利型融資を開始",
+        "url": "https://news.yahoo.co.jp/articles/f378b393139d0ccb895253256937edcaa54635fd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
+        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マイナンバーカード活用のデジタル資産ウォレット「マイナウォレット」、一般提供開始",
+        "url": "https://news.yahoo.co.jp/articles/cfcf006ccbda49b1df29bdbd37a066ca434633d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "香港ドルステーブルコイン「HKDAP」、7月にも発行か。香港の新制度が実運用段階へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/710de8e91c0d40829d91a22b0d7edd8573166086",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DeFi融資大手AaveのUSDT借入、1週間で約390億円急増──残高4000億円で再び上限目前",
         "url": "https://news.yahoo.co.jp/articles/c1c69f42c927c1c52636510afc41e7ca4e658ee9",
         "source": "Yahoo",
@@ -8510,36 +8564,36 @@
       {
         "title": "ムーブメント旧開発元のMovement Labs、米連邦破産法11条を申請",
         "url": "https://news.yahoo.co.jp/articles/c66a546b945986f85ae5ef8cf2279b233691beb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "名前が官製っぽいが民間サービス「マイナウォレット」マイナカード活用したデジタル資産ウォレット",
-        "url": "https://news.yahoo.co.jp/articles/796439c6b09ff2dcba17b4f9328b7cd69e1b48d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パキスタン、資金洗浄対策として暗号資産取締りの専門部隊を設置",
-        "url": "https://news.yahoo.co.jp/articles/a272c359e53407651410a955c35342245dbe28e6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マイナンバーカード連携ウォレット、一般提供開始──App StoreとGoogle Playで マイナンバーカードをスマートフォンにかざして本人確認するだけで、ステーブルコインや暗号資産、NFTを管理できるウォレットで、秘密鍵をユーザー自身が管",
-        "url": "https://news.yahoo.co.jp/articles/14052f3df061c1b1357a32967e4534b694c71d29",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン、各国の資本規制を回避できる可能性＝BIS",
-        "url": "https://news.yahoo.co.jp/articles/4ba7c1c5115610ce7de7123bd843d94373427148",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "預かり資産約2兆円のDeFi「Morpho」、初の固定金利型融資を開始",
+        "url": "https://news.yahoo.co.jp/articles/f378b393139d0ccb895253256937edcaa54635fd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
+        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マイナンバーカード活用のデジタル資産ウォレット「マイナウォレット」、一般提供開始",
+        "url": "https://news.yahoo.co.jp/articles/cfcf006ccbda49b1df29bdbd37a066ca434633d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "香港ドルステーブルコイン「HKDAP」、7月にも発行か。香港の新制度が実運用段階へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/710de8e91c0d40829d91a22b0d7edd8573166086",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DeFi融資大手AaveのUSDT借入、1週間で約390億円急増──残高4000億円で再び上限目前",
         "url": "https://news.yahoo.co.jp/articles/c1c69f42c927c1c52636510afc41e7ca4e658ee9",
         "source": "Yahoo",
@@ -8548,30 +8602,6 @@
       {
         "title": "ムーブメント旧開発元のMovement Labs、米連邦破産法11条を申請",
         "url": "https://news.yahoo.co.jp/articles/c66a546b945986f85ae5ef8cf2279b233691beb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "名前が官製っぽいが民間サービス「マイナウォレット」マイナカード活用したデジタル資産ウォレット",
-        "url": "https://news.yahoo.co.jp/articles/796439c6b09ff2dcba17b4f9328b7cd69e1b48d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パキスタン、資金洗浄対策として暗号資産取締りの専門部隊を設置",
-        "url": "https://news.yahoo.co.jp/articles/a272c359e53407651410a955c35342245dbe28e6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マイナンバーカード連携ウォレット、一般提供開始──App StoreとGoogle Playで マイナンバーカードをスマートフォンにかざして本人確認するだけで、ステーブルコインや暗号資産、NFTを管理できるウォレットで、秘密鍵をユーザー自身が管",
-        "url": "https://news.yahoo.co.jp/articles/14052f3df061c1b1357a32967e4534b694c71d29",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン、各国の資本規制を回避できる可能性＝BIS",
-        "url": "https://news.yahoo.co.jp/articles/4ba7c1c5115610ce7de7123bd843d94373427148",
         "source": "Yahoo",
         "date": ""
       }
