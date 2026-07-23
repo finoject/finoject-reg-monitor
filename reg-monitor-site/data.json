@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-23T22:35:05.636Z",
+  "generatedAt": "2026-07-23T23:36:46.907Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "愛媛銀行（8541）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-07-23",
+      "detectedAt": "2026-07-23T23:36:46.907Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-23T23:36:52.522Z"
+    },
     {
       "agency": "金融庁",
       "title": "「中小・地域金融機関向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等の公表",
@@ -235,22 +251,6 @@
         "本コードは法的拘束力を持たない任意規範であり、市場の中長期投資促進と日本版スチュワードシップ・コードとの相互作用による実効的ガバナンス実現を目的として適用される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "エムティジェネックス（9820）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-07-21",
-      "detectedAt": "2026-07-21T07:57:13.168Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-21T07:57:18.638Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -8172,6 +8172,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
+        "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
         "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
         "source": "Yahoo",
@@ -8198,18 +8204,18 @@
       {
         "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
         "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産の金商法化が成立── 「お墨付きではない」と23回言われた法律【記者コラム】",
-        "url": "https://news.yahoo.co.jp/articles/20db87396a2d207e05434beee2f3daec29bb37b0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
+        "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
         "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
         "source": "Yahoo",
@@ -8236,18 +8242,18 @@
       {
         "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
         "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産の金商法化が成立── 「お墨付きではない」と23回言われた法律【記者コラム】",
-        "url": "https://news.yahoo.co.jp/articles/20db87396a2d207e05434beee2f3daec29bb37b0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
+        "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
         "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
         "source": "Yahoo",
@@ -8274,18 +8280,18 @@
       {
         "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
         "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産の金商法化が成立── 「お墨付きではない」と23回言われた法律【記者コラム】",
-        "url": "https://news.yahoo.co.jp/articles/20db87396a2d207e05434beee2f3daec29bb37b0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
+        "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
         "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
         "source": "Yahoo",
@@ -8312,12 +8318,6 @@
       {
         "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
         "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産の金商法化が成立── 「お墨付きではない」と23回言われた法律【記者コラム】",
-        "url": "https://news.yahoo.co.jp/articles/20db87396a2d207e05434beee2f3daec29bb37b0",
         "source": "Yahoo",
         "date": ""
       }
@@ -8400,6 +8400,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
+        "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
         "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
         "source": "Yahoo",
@@ -8426,18 +8432,18 @@
       {
         "title": "米上院共和党が「CLARITY法」修正版を公表、倫理規定や法執行強化策を追加",
         "url": "https://news.yahoo.co.jp/articles/830d6dbafb611471173c6f99c0b8097141a3df11",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC、「物流×ステーブルコイン」の社会実装へ──「Pay」は目指さず、商慣習の骨格をつくる",
-        "url": "https://news.yahoo.co.jp/articles/f8ae1714b1bc4c374139726d3b6c64f6adf3ce81",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
+        "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
         "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
         "source": "Yahoo",
@@ -8464,12 +8470,6 @@
       {
         "title": "米上院共和党が「CLARITY法」修正版を公表、倫理規定や法執行強化策を追加",
         "url": "https://news.yahoo.co.jp/articles/830d6dbafb611471173c6f99c0b8097141a3df11",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC、「物流×ステーブルコイン」の社会実装へ──「Pay」は目指さず、商慣習の骨格をつくる",
-        "url": "https://news.yahoo.co.jp/articles/f8ae1714b1bc4c374139726d3b6c64f6adf3ce81",
         "source": "Yahoo",
         "date": ""
       }
@@ -8628,6 +8628,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "Coinbase、AIエージェントによるUSDC決済を企業ユーザーに提供",
+        "url": "https://news.yahoo.co.jp/articles/089a0b2242a3d722605cac9031f720f1a7f21ea1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
         "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
         "source": "Yahoo",
@@ -8654,18 +8660,18 @@
       {
         "title": "テザーの金連動トークン「XAUT」、ADGMの受入対象現物商品に認定",
         "url": "https://news.yahoo.co.jp/articles/af2483fb7a0bd17348832a486ec34c877f861396",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "HODL1、ベルウッドグループとXR・ブロックチェーン共同事業を検討。JV設立も視野",
-        "url": "https://news.yahoo.co.jp/articles/b45c9e1032a869c7d08b042cdd0ea5b5a82617f0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Coinbase、AIエージェントによるUSDC決済を企業ユーザーに提供",
+        "url": "https://news.yahoo.co.jp/articles/089a0b2242a3d722605cac9031f720f1a7f21ea1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
         "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
         "source": "Yahoo",
@@ -8692,12 +8698,6 @@
       {
         "title": "テザーの金連動トークン「XAUT」、ADGMの受入対象現物商品に認定",
         "url": "https://news.yahoo.co.jp/articles/af2483fb7a0bd17348832a486ec34c877f861396",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "HODL1、ベルウッドグループとXR・ブロックチェーン共同事業を検討。JV設立も視野",
-        "url": "https://news.yahoo.co.jp/articles/b45c9e1032a869c7d08b042cdd0ea5b5a82617f0",
         "source": "Yahoo",
         "date": ""
       }
