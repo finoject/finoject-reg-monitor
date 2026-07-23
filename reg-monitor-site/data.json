@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-22T22:38:30.411Z",
+  "generatedAt": "2026-07-23T01:08:13.996Z",
   "items": [
+    {
+      "agency": "日本公認会計士協会",
+      "title": "第60回定期総会開催報告",
+      "url": "https://jicpa.or.jp/news/information/2026/20260723ici.html",
+      "date": "2026-07-23",
+      "detectedAt": "2026-07-23T01:08:13.996Z",
+      "enriched": "2026-07-23T01:08:18.320Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月22日、日本公認会計士協会第60回定期総会を帝国ホテルで開催し、会場参加約230名、ライブ配信約580名が参加した。",
+        "総会では第60事業年度事業及び会務報告がなされ、すべての議案が承認され、専務理事選任結果報告・協会学術賞授与・会員表彰が実施された。",
+        "総会後に約450名の国会議員・一般来賓を含む懇親パーティーを開催し、高市総理大臣の挨拶は首相官邸ウェブサイトで動画・全文が公開されている。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "日本銀行が保有する国債の銘柄別残高",
@@ -8076,6 +8091,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "ビットコインは回復局面へ、それでも強気相場とは言い切れない理由──3つのオンチェーン指標が示す市場の現在地【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/265c93813b9a3ccb87de9595fa0f24832e25e3a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
         "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
         "source": "Yahoo",
@@ -8102,18 +8123,18 @@
       {
         "title": "悪質アクティビストから「舐められている」日本 企業を守る規制強化の是非 良質アクティビストまで妨げる壁になる？",
         "url": "https://news.yahoo.co.jp/articles/fe6ec6edddd374a057d4f847081f5ed7d09e5e09",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "期待が先行し、需要が追いかける局面へ── 制度改革と現物買いが支えるビットコイン市場【BitTrade Market Weekly】",
-        "url": "https://news.yahoo.co.jp/articles/3d6ed8173c6fc43133a40ef6ab9713acb6c19e04",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "ビットコインは回復局面へ、それでも強気相場とは言い切れない理由──3つのオンチェーン指標が示す市場の現在地【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/265c93813b9a3ccb87de9595fa0f24832e25e3a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
         "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
         "source": "Yahoo",
@@ -8140,18 +8161,18 @@
       {
         "title": "悪質アクティビストから「舐められている」日本 企業を守る規制強化の是非 良質アクティビストまで妨げる壁になる？",
         "url": "https://news.yahoo.co.jp/articles/fe6ec6edddd374a057d4f847081f5ed7d09e5e09",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "期待が先行し、需要が追いかける局面へ── 制度改革と現物買いが支えるビットコイン市場【BitTrade Market Weekly】",
-        "url": "https://news.yahoo.co.jp/articles/3d6ed8173c6fc43133a40ef6ab9713acb6c19e04",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "ビットコインは回復局面へ、それでも強気相場とは言い切れない理由──3つのオンチェーン指標が示す市場の現在地【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/265c93813b9a3ccb87de9595fa0f24832e25e3a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
         "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
         "source": "Yahoo",
@@ -8178,18 +8199,18 @@
       {
         "title": "悪質アクティビストから「舐められている」日本 企業を守る規制強化の是非 良質アクティビストまで妨げる壁になる？",
         "url": "https://news.yahoo.co.jp/articles/fe6ec6edddd374a057d4f847081f5ed7d09e5e09",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "期待が先行し、需要が追いかける局面へ── 制度改革と現物買いが支えるビットコイン市場【BitTrade Market Weekly】",
-        "url": "https://news.yahoo.co.jp/articles/3d6ed8173c6fc43133a40ef6ab9713acb6c19e04",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "ビットコインは回復局面へ、それでも強気相場とは言い切れない理由──3つのオンチェーン指標が示す市場の現在地【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/265c93813b9a3ccb87de9595fa0f24832e25e3a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「財務省とも仕事」とうたい無登録で投資勧誘か 46歳の男を逮捕 警視庁神田署",
         "url": "https://news.yahoo.co.jp/articles/d6a494aa8e9d13d0bb5a7adcbac23412145997e2",
         "source": "Yahoo",
@@ -8216,12 +8237,6 @@
       {
         "title": "悪質アクティビストから「舐められている」日本 企業を守る規制強化の是非 良質アクティビストまで妨げる壁になる？",
         "url": "https://news.yahoo.co.jp/articles/fe6ec6edddd374a057d4f847081f5ed7d09e5e09",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "期待が先行し、需要が追いかける局面へ── 制度改革と現物買いが支えるビットコイン市場【BitTrade Market Weekly】",
-        "url": "https://news.yahoo.co.jp/articles/3d6ed8173c6fc43133a40ef6ab9713acb6c19e04",
         "source": "Yahoo",
         "date": ""
       }
@@ -8304,6 +8319,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "JPYC、「物流×ステーブルコイン」の社会実装へ──「Pay」は目指さず、商慣習の骨格をつくる",
+        "url": "https://news.yahoo.co.jp/articles/f8ae1714b1bc4c374139726d3b6c64f6adf3ce81",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「大統領の暗号資産発行を禁止」 与党が条項追加、法案採決へ 米上院",
+        "url": "https://news.yahoo.co.jp/articles/a09def607dffe7dd1152a64c1741acaab1055031",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院共和党、クラリティ法案の最新草案を公表──倫理規定は2029年に失効",
         "url": "https://news.yahoo.co.jp/articles/e29654c9ea2d074d32ea5a27465ef0570f7577bb",
         "source": "Yahoo",
@@ -8324,24 +8351,24 @@
       {
         "title": "ETH、7月に3週連続でBTCを上回る──Robinhood Chainとトークン化拡大、12億ドル相当の取引所流出が追い風【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/4de8c9071320221f9e57f6e59fb951cb64e0790b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カントン開発デジタルアセットに10Mドル追加出資、新韓金融GとSCベンチャーズが参加",
-        "url": "https://news.yahoo.co.jp/articles/806e8bf9cbbabe7f7e6a1afffddd884eba006337",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロシア下院、暗号資産とデジタル権利を包括規制する法案を可決",
-        "url": "https://news.yahoo.co.jp/articles/b6a078138987543f6eccb32c30c1c661cd12dae9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "JPYC、「物流×ステーブルコイン」の社会実装へ──「Pay」は目指さず、商慣習の骨格をつくる",
+        "url": "https://news.yahoo.co.jp/articles/f8ae1714b1bc4c374139726d3b6c64f6adf3ce81",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「大統領の暗号資産発行を禁止」 与党が条項追加、法案採決へ 米上院",
+        "url": "https://news.yahoo.co.jp/articles/a09def607dffe7dd1152a64c1741acaab1055031",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院共和党、クラリティ法案の最新草案を公表──倫理規定は2029年に失効",
         "url": "https://news.yahoo.co.jp/articles/e29654c9ea2d074d32ea5a27465ef0570f7577bb",
         "source": "Yahoo",
@@ -8362,18 +8389,6 @@
       {
         "title": "ETH、7月に3週連続でBTCを上回る──Robinhood Chainとトークン化拡大、12億ドル相当の取引所流出が追い風【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/4de8c9071320221f9e57f6e59fb951cb64e0790b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カントン開発デジタルアセットに10Mドル追加出資、新韓金融GとSCベンチャーズが参加",
-        "url": "https://news.yahoo.co.jp/articles/806e8bf9cbbabe7f7e6a1afffddd884eba006337",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロシア下院、暗号資産とデジタル権利を包括規制する法案を可決",
-        "url": "https://news.yahoo.co.jp/articles/b6a078138987543f6eccb32c30c1c661cd12dae9",
         "source": "Yahoo",
         "date": ""
       }
@@ -8532,6 +8547,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "JPYC、「物流×ステーブルコイン」の社会実装へ──「Pay」は目指さず、商慣習の骨格をつくる",
+        "url": "https://news.yahoo.co.jp/articles/f8ae1714b1bc4c374139726d3b6c64f6adf3ce81",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国の暗号資産取引が激減。個人投資家の関心は株式へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/f655886c402dd9158155433f2bbfce8156d94328",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "AIエージェントはブロックチェーンの「キラーユースケース」になる＝Franklin Templeton",
+        "url": "https://news.yahoo.co.jp/articles/f32a1b07a8d915008d4554b15182e8d92d416899",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコインは回復局面へ、それでも強気相場とは言い切れない理由──3つのオンチェーン指標が示す市場の現在地【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/265c93813b9a3ccb87de9595fa0f24832e25e3a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院共和党、クラリティ法案の最新草案を公表──倫理規定は2029年に失効",
         "url": "https://news.yahoo.co.jp/articles/e29654c9ea2d074d32ea5a27465ef0570f7577bb",
         "source": "Yahoo",
@@ -8540,36 +8579,36 @@
       {
         "title": "JPYC社、アマゾン配送大手のAZ丸和と資本業務提携",
         "url": "https://news.yahoo.co.jp/articles/5aee457fbaafde771abad8a4478a697e5616d213",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ETH、7月に3週連続でBTCを上回る──Robinhood Chainとトークン化拡大、12億ドル相当の取引所流出が追い風【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/4de8c9071320221f9e57f6e59fb951cb64e0790b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "預かり資産約2兆円のDeFi「Morpho」、初の固定金利型融資を開始",
-        "url": "https://news.yahoo.co.jp/articles/f378b393139d0ccb895253256937edcaa54635fd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
-        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マイナンバーカード活用のデジタル資産ウォレット「マイナウォレット」、一般提供開始",
-        "url": "https://news.yahoo.co.jp/articles/cfcf006ccbda49b1df29bdbd37a066ca434633d0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JPYC、「物流×ステーブルコイン」の社会実装へ──「Pay」は目指さず、商慣習の骨格をつくる",
+        "url": "https://news.yahoo.co.jp/articles/f8ae1714b1bc4c374139726d3b6c64f6adf3ce81",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国の暗号資産取引が激減。個人投資家の関心は株式へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/f655886c402dd9158155433f2bbfce8156d94328",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "AIエージェントはブロックチェーンの「キラーユースケース」になる＝Franklin Templeton",
+        "url": "https://news.yahoo.co.jp/articles/f32a1b07a8d915008d4554b15182e8d92d416899",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコインは回復局面へ、それでも強気相場とは言い切れない理由──3つのオンチェーン指標が示す市場の現在地【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/265c93813b9a3ccb87de9595fa0f24832e25e3a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院共和党、クラリティ法案の最新草案を公表──倫理規定は2029年に失効",
         "url": "https://news.yahoo.co.jp/articles/e29654c9ea2d074d32ea5a27465ef0570f7577bb",
         "source": "Yahoo",
@@ -8580,33 +8619,15 @@
         "url": "https://news.yahoo.co.jp/articles/5aee457fbaafde771abad8a4478a697e5616d213",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "ETH、7月に3週連続でBTCを上回る──Robinhood Chainとトークン化拡大、12億ドル相当の取引所流出が追い風【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/4de8c9071320221f9e57f6e59fb951cb64e0790b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "預かり資産約2兆円のDeFi「Morpho」、初の固定金利型融資を開始",
-        "url": "https://news.yahoo.co.jp/articles/f378b393139d0ccb895253256937edcaa54635fd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
-        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マイナンバーカード活用のデジタル資産ウォレット「マイナウォレット」、一般提供開始",
-        "url": "https://news.yahoo.co.jp/articles/cfcf006ccbda49b1df29bdbd37a066ca434633d0",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "父の遺品整理をしていたら、金庫から「500万円」の現金が出てきました。銀行に預けようとしたら窓口で「税務署に",
+        "url": "https://news.yahoo.co.jp/articles/e2a7c3a10e6ccc8e03a3c2dc58c5a5c6912082d6",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "【ニセの税関職員、ニセ警察官、そしてニセ検事",
         "url": "https://news.yahoo.co.jp/articles/4b3cd43fc5f8b139c85cfa8bfcb9bcbcc79d1299",
@@ -8634,18 +8655,18 @@
       {
         "title": "金融庁、8月3日適用の暗号資産トラベルルール対象にアンギラなど5法域を追加",
         "url": "https://news.yahoo.co.jp/articles/5cd2a67012cb66c1bb1a9eca0d4befe0dafb11a0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
-        "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "父の遺品整理をしていたら、金庫から「500万円」の現金が出てきました。銀行に預けようとしたら窓口で「税務署に",
+        "url": "https://news.yahoo.co.jp/articles/e2a7c3a10e6ccc8e03a3c2dc58c5a5c6912082d6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【ニセの税関職員、ニセ警察官、そしてニセ検事",
         "url": "https://news.yahoo.co.jp/articles/4b3cd43fc5f8b139c85cfa8bfcb9bcbcc79d1299",
         "source": "Yahoo",
@@ -8672,18 +8693,18 @@
       {
         "title": "金融庁、8月3日適用の暗号資産トラベルルール対象にアンギラなど5法域を追加",
         "url": "https://news.yahoo.co.jp/articles/5cd2a67012cb66c1bb1a9eca0d4befe0dafb11a0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
-        "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "父の遺品整理をしていたら、金庫から「500万円」の現金が出てきました。銀行に預けようとしたら窓口で「税務署に",
+        "url": "https://news.yahoo.co.jp/articles/e2a7c3a10e6ccc8e03a3c2dc58c5a5c6912082d6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【ニセの税関職員、ニセ警察官、そしてニセ検事",
         "url": "https://news.yahoo.co.jp/articles/4b3cd43fc5f8b139c85cfa8bfcb9bcbcc79d1299",
         "source": "Yahoo",
@@ -8710,12 +8731,6 @@
       {
         "title": "金融庁、8月3日適用の暗号資産トラベルルール対象にアンギラなど5法域を追加",
         "url": "https://news.yahoo.co.jp/articles/5cd2a67012cb66c1bb1a9eca0d4befe0dafb11a0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明",
-        "url": "https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86",
         "source": "Yahoo",
         "date": ""
       }
