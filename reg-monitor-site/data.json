@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-24T04:53:15.137Z",
+  "generatedAt": "2026-07-24T07:56:55.545Z",
   "items": [
     {
       "agency": "日本取引所グループ",
-      "title": "愛媛銀行（8541）",
+      "title": "昭和ホールディングス（5103）",
       "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-07-23",
-      "detectedAt": "2026-07-23T23:36:46.907Z",
+      "date": "2026-07-24",
+      "detectedAt": "2026-07-24T07:56:55.545Z",
       "enrichV": 2,
       "aiSummary": [
         "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
@@ -15,7 +15,98 @@
       ],
       "aiSumV": 3,
       "updated": true,
-      "enriched": "2026-07-23T23:36:52.522Z"
+      "enriched": "2026-07-24T07:57:01.670Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）数理技研",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-07-24",
+      "detectedAt": "2026-07-24T07:56:55.545Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-24T07:57:01.670Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融システムレポート別冊「2025年度の銀行・信用金庫決算」",
+      "url": "https://www.boj.or.jp/research/brp/fsr/fsrb260724.htm",
+      "date": "2026-07-24",
+      "detectedAt": "2026-07-24T07:56:55.545Z",
+      "enriched": "2026-07-24T07:57:01.671Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2025年度決算：大手行(連結)の当期純利益約6.0兆円(前年比+32.7%)、地域銀行約1.7兆円(+37.4%)、信用金庫約0.2兆円(-16.9%)となり、業態別に増減が分かれた。円金利上昇による資金利益増加が全業態の押し上げ要因だが、債券売却損が利益を圧迫。",
+        "金融機関は国内基準行で自己資本比率が上昇、国際統一基準行で低下したが、いずれの業態も規制水準を十分上回る水準を維持している状況にある。",
+        "コア業務純益(投信解約損益除外)は全業態で増益となり、円金利上昇等を背景に資金利益の増加と非資金利益の増加が基礎的収益力の改善を示している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：昭和ホールディングス（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260724-13.html",
+      "date": "2026-07-24",
+      "detectedAt": "2026-07-24T07:56:55.545Z",
+      "enriched": "2026-07-24T07:57:01.671Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "昭和ホールディングス株式会社（コード5103、スタンダード市場）の株式について、内部管理体制が適切に整備・運用される見込みがないとして上場廃止を決定し、有価証券上場規程第601条第1項第9号aに基づき指定。",
+        "同社は代表取締役選任ができず従業員が確認できないなど必要な内部管理体制が確保されていないため、体制再構築の具体的スケジュール・計画が示されないままでは実効性評価が不可とされた。",
+        "整理銘柄指定期間は2026年7月24日から8月24日まで、上場廃止日は2026年8月25日、同社株式は2026年7月27日以降、信用取引保証金等の代用有価証券から除外される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：Ｏｎｅ ＥＴＦ 日本国債 ２７－３０年（コード611A）等2銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260724-01.html",
+      "date": "2026-07-24",
+      "detectedAt": "2026-07-24T07:56:55.545Z",
+      "enriched": "2026-07-24T07:57:01.671Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月31日に新規上場するOneETF日本国債27-30年（611A）及びOneETF日本国債先物逆連動指数（612A）の2銘柄について呼値の単位が決定された。",
+        "取引参加者及び投資家は、両銘柄がTOPIX500呼値テーブルを適用される旨を認識し、発注・执行時の呼値単位を確認して対応する必要がある。",
+        "呼値の単位の詳細は東京証券取引所株式部株式総務グループ（03-3666-0141）に照会可能であり、適用は新規上場日の2026年7月31日から開始される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]特別注意銘柄の指定及び上場契約違約金の徴求：（株）ＲＥＶＯＬＵＴＩＯＮ",
+      "url": "https://www.jpx.co.jp/news/1023/20260724-12.html",
+      "date": "2026-07-24",
+      "detectedAt": "2026-07-24T07:56:55.545Z",
+      "enriched": "2026-07-24T07:57:01.671Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)REVOLUTIONは2026年7月25日付で特別注意銘柄に指定される。期中レビュー報告書において監査人が結論不表明を記載し、連結子会社ヤマワケ社の不動産ファンド取引の会計処理が適切でなかった可能性があるため。",
+        "同社は内部管理体制の不備（子会社の監査対応不備、子会社管理の不十分性、M&A時のデューデリジェンス不足）を改善する必要があり、有価証券上場規程第503条第1項第2号b及び第4号に基づき指摘される。",
+        "上場契約違約金1,440万円を同社が支払う。当取引所の市場に対する株主・投資者の信頼を毀損したと認定され、有価証券上場規程第509条第1項第2号に基づく徴求。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：ｉシェアーズ ＭＳＣＩ ジャパンＳＲＩ ＥＴＦ",
+      "url": "https://www.jpx.co.jp/news/1023/20260724-11.html",
+      "date": "2026-07-24",
+      "detectedAt": "2026-07-24T07:56:55.545Z",
+      "enriched": "2026-07-24T07:57:01.671Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ｉシェアーズ ＭＳＣＩ ジャパンＳＲＩ ＥＴＦ（コード2851）が監理銘柄（確認中）に指定された。投資信託契約期間を2026年11月25日までとする約款変更決定により、11月21日の上場廃止予定が生じたため。",
+        "受益者は2026年10月20日の書面による決議において信託約款変更議案を判断する。議案が承認されると同ETFは指定期日に上場廃止となる予定。",
+        "指定期間は2026年7月24日から当取引所が上場廃止基準該当性を認定した日まで。有価証券上場規程施行規則第1115条第1項第2号に基づく。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "金融庁",
@@ -937,22 +1028,6 @@
       "aiSumV": 3,
       "updated": true,
       "enriched": "2026-07-16T03:50:58.520Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：山八商事（株）",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-07-15",
-      "detectedAt": "2026-07-15T09:32:17.954Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-15T09:32:23.695Z"
     },
     {
       "agency": "日本証券業協会",
@@ -8400,6 +8475,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
+        "url": "https://news.yahoo.co.jp/articles/ab75e6d5e42a0c813589e1e2e339d1ee225a7564",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ナスダック、データサービスで「稼ぐ」 第2四半期15％増収",
         "url": "https://news.yahoo.co.jp/articles/14ced51bace7c0c16a7ad1d74b2aa115fa9ea37f",
         "source": "Yahoo",
@@ -8426,18 +8507,18 @@
       {
         "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
         "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米クラリティ法案、夏季休会前の上院通過は厳しい見通し＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/967f4fcedf7aa469e0aca0ef10bb71ba0c3c1e3b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
+        "url": "https://news.yahoo.co.jp/articles/ab75e6d5e42a0c813589e1e2e339d1ee225a7564",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ナスダック、データサービスで「稼ぐ」 第2四半期15％増収",
         "url": "https://news.yahoo.co.jp/articles/14ced51bace7c0c16a7ad1d74b2aa115fa9ea37f",
         "source": "Yahoo",
@@ -8464,12 +8545,6 @@
       {
         "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
         "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米クラリティ法案、夏季休会前の上院通過は厳しい見通し＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/967f4fcedf7aa469e0aca0ef10bb71ba0c3c1e3b",
         "source": "Yahoo",
         "date": ""
       }
@@ -8628,82 +8703,88 @@
     ],
     "505M60000002048": [
       {
+        "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始",
+        "url": "https://news.yahoo.co.jp/articles/e1beea94d25280bb3fb52e5056d36e30e3965993",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+        "url": "https://news.yahoo.co.jp/articles/1fce8eaae8253457d80c074d558dea60633ff8b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、暗号資産決済・コンプライアンス基盤のノタベネに戦略出資",
+        "url": "https://news.yahoo.co.jp/articles/12d22e70873bee43e2f1378618899309c6469503",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
+        "url": "https://news.yahoo.co.jp/articles/ab75e6d5e42a0c813589e1e2e339d1ee225a7564",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイビット、xStocksを構造化運用商品「デュアルアセット」に追加",
+        "url": "https://news.yahoo.co.jp/articles/3ccfba7ade2e16a50a88b3d29c965afb6b13322d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カイアDLT財団とfinojectが業務提携、日本でステーブルコインやトークン化の事業推進",
         "url": "https://news.yahoo.co.jp/articles/769b72744b1651496618708a091bf91a576b0de3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッドチェーン、日次アクティブアドレス数でBase上回る",
-        "url": "https://news.yahoo.co.jp/articles/128fc3e63ef7aa0c1d54537b97d55fd12d1ec395",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、機関向けRLUSD発行基盤「Ripple Mint」を開始──5つのネットワークへの追加展開に続き",
-        "url": "https://news.yahoo.co.jp/articles/07ca3b6be13f2ac9d8765bf026c2b10e0495d765",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "42DAOの「バランスプロトコル」で約91万ドル規模の損失か、ステーブルコイン「BLC」が99%超下落",
-        "url": "https://news.yahoo.co.jp/articles/f709978cc062f74fb11e83f1fb526c430d592f65",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、AIエージェントによるUSDC決済を企業ユーザーに提供",
-        "url": "https://news.yahoo.co.jp/articles/089a0b2242a3d722605cac9031f720f1a7f21ea1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
-        "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始",
+        "url": "https://news.yahoo.co.jp/articles/e1beea94d25280bb3fb52e5056d36e30e3965993",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+        "url": "https://news.yahoo.co.jp/articles/1fce8eaae8253457d80c074d558dea60633ff8b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、暗号資産決済・コンプライアンス基盤のノタベネに戦略出資",
+        "url": "https://news.yahoo.co.jp/articles/12d22e70873bee43e2f1378618899309c6469503",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
+        "url": "https://news.yahoo.co.jp/articles/ab75e6d5e42a0c813589e1e2e339d1ee225a7564",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイビット、xStocksを構造化運用商品「デュアルアセット」に追加",
+        "url": "https://news.yahoo.co.jp/articles/3ccfba7ade2e16a50a88b3d29c965afb6b13322d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カイアDLT財団とfinojectが業務提携、日本でステーブルコインやトークン化の事業推進",
         "url": "https://news.yahoo.co.jp/articles/769b72744b1651496618708a091bf91a576b0de3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッドチェーン、日次アクティブアドレス数でBase上回る",
-        "url": "https://news.yahoo.co.jp/articles/128fc3e63ef7aa0c1d54537b97d55fd12d1ec395",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、機関向けRLUSD発行基盤「Ripple Mint」を開始──5つのネットワークへの追加展開に続き",
-        "url": "https://news.yahoo.co.jp/articles/07ca3b6be13f2ac9d8765bf026c2b10e0495d765",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "42DAOの「バランスプロトコル」で約91万ドル規模の損失か、ステーブルコイン「BLC」が99%超下落",
-        "url": "https://news.yahoo.co.jp/articles/f709978cc062f74fb11e83f1fb526c430d592f65",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、AIエージェントによるUSDC決済を企業ユーザーに提供",
-        "url": "https://news.yahoo.co.jp/articles/089a0b2242a3d722605cac9031f720f1a7f21ea1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
-        "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419AC0000000022": [
       {
+        "title": "金融庁、暗号資産事業者のサイバーセキュリティ調査報告書を公表",
+        "url": "https://news.yahoo.co.jp/articles/a51a0ec1ae72cd9b3416d151bbf51ea762698340",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "父の遺品整理をしていたら、金庫から「500万円」の現金が出てきました。銀行に預けようとしたら窓口で「税務署に",
         "url": "https://news.yahoo.co.jp/articles/e2a7c3a10e6ccc8e03a3c2dc58c5a5c6912082d6",
         "source": "Yahoo",
@@ -8730,18 +8811,18 @@
       {
         "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
         "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、8月3日適用の暗号資産トラベルルール対象にアンギラなど5法域を追加",
-        "url": "https://news.yahoo.co.jp/articles/5cd2a67012cb66c1bb1a9eca0d4befe0dafb11a0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "金融庁、暗号資産事業者のサイバーセキュリティ調査報告書を公表",
+        "url": "https://news.yahoo.co.jp/articles/a51a0ec1ae72cd9b3416d151bbf51ea762698340",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "父の遺品整理をしていたら、金庫から「500万円」の現金が出てきました。銀行に預けようとしたら窓口で「税務署に",
         "url": "https://news.yahoo.co.jp/articles/e2a7c3a10e6ccc8e03a3c2dc58c5a5c6912082d6",
         "source": "Yahoo",
@@ -8768,18 +8849,18 @@
       {
         "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
         "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、8月3日適用の暗号資産トラベルルール対象にアンギラなど5法域を追加",
-        "url": "https://news.yahoo.co.jp/articles/5cd2a67012cb66c1bb1a9eca0d4befe0dafb11a0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "金融庁、暗号資産事業者のサイバーセキュリティ調査報告書を公表",
+        "url": "https://news.yahoo.co.jp/articles/a51a0ec1ae72cd9b3416d151bbf51ea762698340",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "父の遺品整理をしていたら、金庫から「500万円」の現金が出てきました。銀行に預けようとしたら窓口で「税務署に",
         "url": "https://news.yahoo.co.jp/articles/e2a7c3a10e6ccc8e03a3c2dc58c5a5c6912082d6",
         "source": "Yahoo",
@@ -8806,12 +8887,6 @@
       {
         "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
         "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、8月3日適用の暗号資産トラベルルール対象にアンギラなど5法域を追加",
-        "url": "https://news.yahoo.co.jp/articles/5cd2a67012cb66c1bb1a9eca0d4befe0dafb11a0",
         "source": "Yahoo",
         "date": ""
       }
