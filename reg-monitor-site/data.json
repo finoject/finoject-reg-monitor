@@ -1,6 +1,112 @@
 {
-  "generatedAt": "2026-07-27T05:29:46.664Z",
+  "generatedAt": "2026-07-27T08:57:44.009Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/j-ships/index.html",
+      "date": "2026-07-27",
+      "detectedAt": "2026-07-27T08:57:44.009Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "日本証券業協会がJ-Ships（特定投資家向け銘柄制度）の統計情報を月次・年次で公表する。取扱協会員から報告を受けた当月中の取引状況を有価証券種類ごとに集計し、価格・数量・金額を所定単位で表示する。",
+        "取扱協会員はJ-Shipsを利用した取引の取扱状況報告を協会に提出する義務を負う。統計データは協会ウェブサイトで一般公開される。",
+        "月次統計は毎月末現在を翌月25日（休日時は翌営業日）に、年次統計は毎年末現在を翌年1月25日（休日時は翌営業日）に公表される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-27T08:57:49.221Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（金研ニュースレター）2026年国際コンファランス",
+      "url": "https://www.boj.or.jp/about/release_2026/rel260727a.htm",
+      "date": "2026-07-27",
+      "detectedAt": "2026-07-27T08:57:44.009Z",
+      "enriched": "2026-07-27T08:57:49.221Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行金融研究所が5月27日～28日に2026年国際コンファランスを開催し、各国中央銀行・国際機関・学界から約70名が参加して「金融政策の新たな視野」をテーマに議論を実施。",
+        "金融政策や経済分析に関心のある中央銀行職員・国際機関スタッフ・研究者等は、金融研究所ホームページでプログラムと論文報告資料の閲覧が可能。",
+        "本コンファランスは1983年の第1回開催以降31回目であり、金融研究所が継続的に開催している学術・政策交流の場として位置付けられている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行に関する学生向けのインターンシップ（総合コース向け）およびオープン・カンパニー（特定コース向け）への参加募集について",
+      "url": "https://www.boj.or.jp/about/recruit/rec260727a.htm",
+      "date": "2026-07-27",
+      "detectedAt": "2026-07-27T08:57:44.009Z",
+      "enriched": "2026-07-27T08:57:49.221Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2028年度から新たに「総合コース」と「特定コース」の採用制度を開始し、それに向けた学生向けインターンシップ（総合コース向け）とオープン・カンパニー（特定コース向け）を開催する。",
+        "対象の大学生・大学院生は、マイページから応募でき、インターンシップは2027年2月～3月に計5日間（東京対面、給与なし）、オープン・カンパニーは2026年9月～11月に各業務分野別に開催（主にオンライン、採用選考とは無関係）。",
+        "インターンシップ応募期間は2026年7月27日から、一次締切9月15日、二次締切10月15日；オープン・カンパニーは開催日ごとに異なる締切（対面の国際関係（3）は先着35名、交通費・宿泊費補助なし）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：iFreeETF ドイツ0-3カ月短期国債（コード613A）",
+      "url": "https://www.jpx.co.jp/news/1030/20260727-01.html",
+      "date": "2026-07-27",
+      "detectedAt": "2026-07-27T08:57:44.009Z",
+      "enriched": "2026-07-27T08:57:49.221Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "iFreeETF ドイツ0-3カ月短期国債（コード613A）の新規上場に際し、呼値の単位をETF等（1口）呼値テーブルに設定する。",
+        "取引参加者および投資家は本ETFの売買時に当該呼値テーブルを適用して取引を実行する必要がある。",
+        "2026年8月3日の上場日から適用され、東京証券取引所の呼値管理規則に基づく取扱いとなる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]大起証券株式会社が大阪取引所の商品先物等取引資格を取得",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260727-01.html",
+      "date": "2026-07-27",
+      "detectedAt": "2026-07-27T08:57:44.009Z",
+      "enriched": "2026-07-27T08:57:49.221Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大起証券株式会社が大阪取引所の商品先物等取引参加者資格（受託取引参加者（貴金属・ゴム））を取得し、日本証券クリアリング機構から貴金属先物等及びゴム先物等の清算資格も同時に承認された。",
+        "大起証券は2026年8月7日より、顧客からの貴金属及びゴムに関するOSE商品先物取引について、受託から清算までの一貫した取扱いが可能になる。",
+        "資格取得予定日は2026年8月7日（金）であり、大阪取引所及び日本証券クリアリング機構の承認に基づいている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]法人向けデータ配信サービス J-Quants Pro 株式保有データの新規追加のお知らせ",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/6020/20260727-01.html",
+      "date": "2026-07-27",
+      "detectedAt": "2026-07-27T08:57:44.009Z",
+      "enriched": "2026-07-27T08:57:49.503Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研は2026年7月27日から「J-Quants Pro」において、大量保有報告書データ（2021年7月1日以降）、大株主状況データ（2016年6月1日以降）、政策保有株式データ（2020年3月31日以降）の3つで構成される株式保有データの配信を開始する。",
+        "法人ユーザーは国内全上場会社の株主情報を一元的に取得でき、ガバナンス分析やエンゲージメント、イベントドリブン戦略等の用途に活用可能。月額サブスクリプション形式で必要なデータセットを選択して利用申し込みが可能。",
+        "本データは「J-Quants Pro」という法人向けデータ配信サービス（JPX総研提供）の新規追加データセットであり、EDINETに提出された大量保有報告書から速やかに配信される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "当協会が開催した記者会見の概要等について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260727fac.html",
+      "date": "2026-07-27",
+      "detectedAt": "2026-07-27T08:57:44.009Z",
+      "enriched": "2026-07-27T08:57:49.503Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2025年7月に登録上場会社等監査人の全登録審査が終了し、今後は品質管理レビューのリソースを登録上場会社等監査人に重点的に配分する。登録上場会社等監査人が監査品質維持・向上のための費用を相応に負担する仕組みとして、新たに登録上場会社等監査人会費を新設した。公認会計士法2022年改正に基づく上場会社監査の品質確保について。",
+        "監査事務所の業務会費は、これまでの監査報酬に対する一律1％から、監査報酬額に応じて利率が段階的に低減するレーマン方式（累進逓減方式）に変更する。また普通会費は月額6000円から月額8000円に値上げする。第60回定期総会で承認され、会費構造の歪みを是正するもの。",
+        "7月15日に金融商品取引法改正法案（サステナビリティ開示及び保証制度導入）が成立し、公認会計士及び監査法人がサステナビリティ情報に対する保証の提供を行う。協会はJICPAサステナビリティ専門プログラムにより三段階の研修プログラムを提供し、人材育成・基準開発を進める。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "債券貸借取引残高等状況",
@@ -3906,22 +4012,6 @@
       "aiSumV": 3,
       "updated": true,
       "enriched": "2026-06-25T09:56:37.007Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/j-ships/index.html",
-      "date": "2026-06-25",
-      "detectedAt": "2026-06-25T09:56:32.545Z",
-      "enrichV": 2,
-      "updated": true,
-      "enriched": "2026-06-25T09:56:37.007Z",
-      "aiSummary": [
-        "日本証券業協会がJ-Ships（特定投資家向け銘柄制度）の統計情報を月次・年次で公表する。取扱協会員から報告を受けた当月中の取引状況を有価証券種類ごとに集計し、価格・数量・金額を所定単位で表示する。",
-        "取扱協会員はJ-Shipsを利用した取引の取扱状況報告を協会に提出する義務を負う。統計データは協会ウェブサイトで一般公開される。",
-        "月次統計は毎月末現在を翌月25日（休日時は翌営業日）に、年次統計は毎年末現在を翌年1月25日（休日時は翌営業日）に公表される。"
-      ],
-      "aiSumV": 3
     },
     {
       "agency": "日本取引所グループ",
@@ -8395,6 +8485,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
+        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/c09e029906dbf70dbf53c070481d1e7d728af9e1",
         "source": "Yahoo",
@@ -8415,24 +8517,24 @@
       {
         "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
         "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
-        "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "無料FP相談は本当にお得？資格の違いと選び方を整理",
-        "url": "https://news.yahoo.co.jp/articles/0f134c321a729432e87528c82438bd9a0a7b91a5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
+        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/c09e029906dbf70dbf53c070481d1e7d728af9e1",
         "source": "Yahoo",
@@ -8453,24 +8555,24 @@
       {
         "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
         "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
-        "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "無料FP相談は本当にお得？資格の違いと選び方を整理",
-        "url": "https://news.yahoo.co.jp/articles/0f134c321a729432e87528c82438bd9a0a7b91a5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
+        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/c09e029906dbf70dbf53c070481d1e7d728af9e1",
         "source": "Yahoo",
@@ -8491,24 +8593,24 @@
       {
         "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
         "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
-        "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "無料FP相談は本当にお得？資格の違いと選び方を整理",
-        "url": "https://news.yahoo.co.jp/articles/0f134c321a729432e87528c82438bd9a0a7b91a5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
+        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/c09e029906dbf70dbf53c070481d1e7d728af9e1",
         "source": "Yahoo",
@@ -8531,21 +8633,27 @@
         "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
-        "url": "https://news.yahoo.co.jp/articles/7b45d6b4233e15ee518045bc02033c53fe9de82c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "無料FP相談は本当にお得？資格の違いと選び方を整理",
-        "url": "https://news.yahoo.co.jp/articles/0f134c321a729432e87528c82438bd9a0a7b91a5",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
+        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "中道・後藤氏「素直に認められた方が",
+        "url": "https://news.yahoo.co.jp/articles/76896810ab622f553767a358b2dc58c9dcfc9df8",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
@@ -8561,30 +8669,30 @@
       {
         "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
         "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マイナンバーカード活用のデジタル資産ウォレット「マイナウォレット」、一般提供開始",
-        "url": "https://news.yahoo.co.jp/articles/cfcf006ccbda49b1df29bdbd37a066ca434633d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "名前が官製っぽいが民間サービス「マイナウォレット」マイナカード活用したデジタル資産ウォレット",
-        "url": "https://news.yahoo.co.jp/articles/796439c6b09ff2dcba17b4f9328b7cd69e1b48d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
-        "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
+        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "中道・後藤氏「素直に認められた方が",
+        "url": "https://news.yahoo.co.jp/articles/76896810ab622f553767a358b2dc58c9dcfc9df8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
         "source": "Yahoo",
@@ -8601,27 +8709,27 @@
         "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "マイナンバーカード活用のデジタル資産ウォレット「マイナウォレット」、一般提供開始",
-        "url": "https://news.yahoo.co.jp/articles/cfcf006ccbda49b1df29bdbd37a066ca434633d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "名前が官製っぽいが民間サービス「マイナウォレット」マイナカード活用したデジタル資産ウォレット",
-        "url": "https://news.yahoo.co.jp/articles/796439c6b09ff2dcba17b4f9328b7cd69e1b48d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
-        "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "中道・後藤祐一氏「関係ない立証責任は総理側」サナエトークンへの関与 記者団と一問一答",
+        "url": "https://news.yahoo.co.jp/articles/67738a6491d65cdb13acf11af5e8c8207460aaef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
+        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ビットコインマイニングプールPoolin、米国でチャプター11を申請",
         "url": "https://news.yahoo.co.jp/articles/2b4f1fd5bd13c3d838f85f212b877eab0d766e1d",
@@ -8629,7 +8737,7 @@
         "date": ""
       },
       {
-        "title": "米資産運用大手フィデリティ、CLARITY法案上院通過を求める この倫理規定は、トランプ大統領一族の暗号資産関連事業をめぐる利益相反への批判を背景に盛り込まれた。ただし、規制対象となる家族は配偶者に限られ、子ども",
+        "title": "米資産運用大手フィデリティ、「CLARITY法案」上院通過を求める この倫理規定は、トランプ大統領一族の暗号資産関連事業をめぐる利益相反への批判を背景に盛り込まれた。ただし、規制対象となる家族は配偶者に限られ、子ども",
         "url": "https://news.yahoo.co.jp/articles/33e475bc6603bf891742f5b02ac879281007b746",
         "source": "Yahoo",
         "date": ""
@@ -8637,37 +8745,37 @@
       {
         "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
         "url": "https://news.yahoo.co.jp/articles/f56ddb1175564688743d46b45e59a5866a441216",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY Actは新たな局面へ。民主党が求める「修正」とは何か【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/5f50ed025383a24982144d1284ff3d2ed0ffe0d6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/c09e029906dbf70dbf53c070481d1e7d728af9e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
-        "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "中道・後藤祐一氏「関係ない立証責任は総理側」サナエトークンへの関与 記者団と一問一答",
+        "url": "https://news.yahoo.co.jp/articles/67738a6491d65cdb13acf11af5e8c8207460aaef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
+        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインマイニングプールPoolin、米国でチャプター11を申請",
         "url": "https://news.yahoo.co.jp/articles/2b4f1fd5bd13c3d838f85f212b877eab0d766e1d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米資産運用大手フィデリティ、CLARITY法案上院通過を求める この倫理規定は、トランプ大統領一族の暗号資産関連事業をめぐる利益相反への批判を背景に盛り込まれた。ただし、規制対象となる家族は配偶者に限られ、子ども",
+        "title": "米資産運用大手フィデリティ、「CLARITY法案」上院通過を求める この倫理規定は、トランプ大統領一族の暗号資産関連事業をめぐる利益相反への批判を背景に盛り込まれた。ただし、規制対象となる家族は配偶者に限られ、子ども",
         "url": "https://news.yahoo.co.jp/articles/33e475bc6603bf891742f5b02ac879281007b746",
         "source": "Yahoo",
         "date": ""
@@ -8675,24 +8783,6 @@
       {
         "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
         "url": "https://news.yahoo.co.jp/articles/f56ddb1175564688743d46b45e59a5866a441216",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY Actは新たな局面へ。民主党が求める「修正」とは何か【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/5f50ed025383a24982144d1284ff3d2ed0ffe0d6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/c09e029906dbf70dbf53c070481d1e7d728af9e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
-        "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
         "source": "Yahoo",
         "date": ""
       }
@@ -8851,7 +8941,25 @@
     ],
     "505M60000002048": [
       {
-        "title": "米資産運用大手フィデリティ、CLARITY法案上院通過を求める",
+        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サムスンの「Samsung Wallet」がステーブルコイン対応へ、主要スマホブランドとして先駆け目指す",
+        "url": "https://news.yahoo.co.jp/articles/ebd394e92086d98de1dfe1ce7f5c1f1c6863395a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、機関向けRLUSD管理基盤「Ripple Mint」提供開始",
+        "url": "https://news.yahoo.co.jp/articles/729a4966c4261f9ea70b8da2740844c732cb36f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米資産運用大手フィデリティ、「CLARITY法案」上院通過を求める",
         "url": "https://news.yahoo.co.jp/articles/33e475bc6603bf891742f5b02ac879281007b746",
         "source": "Yahoo",
         "date": ""
@@ -8865,31 +8973,31 @@
       {
         "title": "サムスン、Galaxy端末のウォレットにステーブルコイン機能導入へ",
         "url": "https://news.yahoo.co.jp/articles/5761561c4c9eb0ce49dea6720339a18b3c5dd39d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/b8bcaca8f0a90c51ec130c49a339a4fd50ef7f69",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/1bc3cdf29ebcf712fd5f73c30abc8faaa0dd3445",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/c09e029906dbf70dbf53c070481d1e7d728af9e1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "米資産運用大手フィデリティ、CLARITY法案上院通過を求める",
+        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サムスンの「Samsung Wallet」がステーブルコイン対応へ、主要スマホブランドとして先駆け目指す",
+        "url": "https://news.yahoo.co.jp/articles/ebd394e92086d98de1dfe1ce7f5c1f1c6863395a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、機関向けRLUSD管理基盤「Ripple Mint」提供開始",
+        "url": "https://news.yahoo.co.jp/articles/729a4966c4261f9ea70b8da2740844c732cb36f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米資産運用大手フィデリティ、「CLARITY法案」上院通過を求める",
         "url": "https://news.yahoo.co.jp/articles/33e475bc6603bf891742f5b02ac879281007b746",
         "source": "Yahoo",
         "date": ""
@@ -8903,24 +9011,6 @@
       {
         "title": "サムスン、Galaxy端末のウォレットにステーブルコイン機能導入へ",
         "url": "https://news.yahoo.co.jp/articles/5761561c4c9eb0ce49dea6720339a18b3c5dd39d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/b8bcaca8f0a90c51ec130c49a339a4fd50ef7f69",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/1bc3cdf29ebcf712fd5f73c30abc8faaa0dd3445",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/c09e029906dbf70dbf53c070481d1e7d728af9e1",
         "source": "Yahoo",
         "date": ""
       }
