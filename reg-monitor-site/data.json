@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-27T01:14:56.393Z",
+  "generatedAt": "2026-07-27T05:29:46.664Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "債券貸借取引残高等状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/taishaku/index.html",
+      "date": "2026-07-27",
+      "detectedAt": "2026-07-27T05:29:46.664Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "債券貸借取引残高等状況の公表統計について、2009年1月取引分より集計方法を改め、公表名称を「債券貸借取引状況」から「債券貸借取引残高等状況」に変更した。",
+        "報告対象をディーリング勘定のみに限定し、外貨建債券・短期社債・手形CPを除外し、投資家別内訳を「公社債投資家別現先売買月末残高」と整合させた。",
+        "毎月25日に更新される本統計は、債券貸借取引残高を金融機関・事業法人・外国人・個人等の投資家別に月末残高でまとめており、2009年1月以降のデータが対象。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-27T05:29:52.113Z"
+    },
     {
       "agency": "日本証券業協会",
       "title": "上場有価証券の発行会社が発行した店頭取扱有価証券の売買状況",
@@ -39,7 +55,13 @@
       "date": "2026-07-27",
       "detectedAt": "2026-07-27T01:14:56.393Z",
       "enriched": "2026-07-27T01:15:00.950Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月21日にロイヤルパークホテルで日本証券業協会の新役員披露懇談会が開催され、片山大臣・岩田副大臣が出席して挨拶を行った。",
+        "金融関係団体・報道機関など多くの関係者が参加し、日比野会長・資産運用業協会菱田会長・JPX山道CEO等が挨拶・乾杯を行った。",
+        "本公表は行事開催実績の周知であり、協会の新役員体制や具体的な規制変更・実務上の対応義務は記載されていない。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本銀行",
@@ -4003,22 +4025,6 @@
         "令和8年6月24日からの大雨で災害救助法が適用された鹿児島県内の被災者に対し、預貯金機関・証券会社・保険会社等に金融上の措置を講ずるよう要請した。",
         "預金機関は通帳紛失時も被災状況に基づく本人確認で払戻に応じ、定期預金の期限前払戻しや融資相談所開設、返済猶予等で被災者に配慮すること。",
         "証券会社は印鑑紛失時も本人確認で払戻対応、保険会社は保険証券紛失時も保険契約内容確認で保険金請求案内を行い、保険料払込猶予を適宜措置すること。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "債券貸借取引残高等状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/taishaku/index.html",
-      "date": "2026-06-25",
-      "detectedAt": "2026-06-25T01:35:42.429Z",
-      "enrichV": 2,
-      "updated": true,
-      "enriched": "2026-06-25T01:35:47.985Z",
-      "aiSummary": [
-        "債券貸借取引残高等状況の公表統計について、2009年1月取引分より集計方法を改め、公表名称を「債券貸借取引状況」から「債券貸借取引残高等状況」に変更した。",
-        "報告対象をディーリング勘定のみに限定し、外貨建債券・短期社債・手形CPを除外し、投資家別内訳を「公社債投資家別現先売買月末残高」と整合させた。",
-        "毎月25日に更新される本統計は、債券貸借取引残高を金融機関・事業法人・外国人・個人等の投資家別に月末残高でまとめており、2009年1月以降のデータが対象。"
       ],
       "aiSumV": 3
     },
@@ -8541,6 +8547,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
+        "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カイアDLT財団とfinojectが業務提携、日本でステーブルコインやトークン化の事業推進",
         "url": "https://news.yahoo.co.jp/articles/769b72744b1651496618708a091bf91a576b0de3",
         "source": "Yahoo",
@@ -8567,18 +8579,18 @@
       {
         "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
         "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
-        "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
+        "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カイアDLT財団とfinojectが業務提携、日本でステーブルコインやトークン化の事業推進",
         "url": "https://news.yahoo.co.jp/articles/769b72744b1651496618708a091bf91a576b0de3",
         "source": "Yahoo",
@@ -8607,15 +8619,21 @@
         "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "欧州中央銀行理事、ステーブルコインによる銀行預金流出を警告",
-        "url": "https://news.yahoo.co.jp/articles/28fc72779883c4241d9402216ff936e836af2b4c",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "ビットコインマイニングプールPoolin、米国でチャプター11を申請",
+        "url": "https://news.yahoo.co.jp/articles/2b4f1fd5bd13c3d838f85f212b877eab0d766e1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米資産運用大手フィデリティ、CLARITY法案上院通過を求める この倫理規定は、トランプ大統領一族の暗号資産関連事業をめぐる利益相反への批判を背景に盛り込まれた。ただし、規制対象となる家族は配偶者に限られ、子ども",
+        "url": "https://news.yahoo.co.jp/articles/33e475bc6603bf891742f5b02ac879281007b746",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
         "url": "https://news.yahoo.co.jp/articles/f56ddb1175564688743d46b45e59a5866a441216",
@@ -8637,24 +8655,24 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
         "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
-        "url": "https://news.yahoo.co.jp/articles/ab75e6d5e42a0c813589e1e2e339d1ee225a7564",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ナスダック、データサービスで「稼ぐ」 第2四半期15％増収",
-        "url": "https://news.yahoo.co.jp/articles/14ced51bace7c0c16a7ad1d74b2aa115fa9ea37f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ビットコインマイニングプールPoolin、米国でチャプター11を申請",
+        "url": "https://news.yahoo.co.jp/articles/2b4f1fd5bd13c3d838f85f212b877eab0d766e1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米資産運用大手フィデリティ、CLARITY法案上院通過を求める この倫理規定は、トランプ大統領一族の暗号資産関連事業をめぐる利益相反への批判を背景に盛り込まれた。ただし、規制対象となる家族は配偶者に限られ、子ども",
+        "url": "https://news.yahoo.co.jp/articles/33e475bc6603bf891742f5b02ac879281007b746",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
         "url": "https://news.yahoo.co.jp/articles/f56ddb1175564688743d46b45e59a5866a441216",
         "source": "Yahoo",
@@ -8675,18 +8693,6 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
         "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
-        "url": "https://news.yahoo.co.jp/articles/ab75e6d5e42a0c813589e1e2e339d1ee225a7564",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ナスダック、データサービスで「稼ぐ」 第2四半期15％増収",
-        "url": "https://news.yahoo.co.jp/articles/14ced51bace7c0c16a7ad1d74b2aa115fa9ea37f",
         "source": "Yahoo",
         "date": ""
       }
@@ -8769,6 +8775,12 @@
     ],
     "422M60000002003": [
       {
+        "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
+        "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "改札で0.3秒遅れ、運賃“割引”もなし",
         "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
         "source": "Yahoo",
@@ -8795,18 +8807,18 @@
       {
         "title": "日本円に連動する初のステーブルコインが秋にも発行開始か #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/0ef998cad1737192e59d0b02763311e861cc6342",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アマゾンが株主に仮想通貨を交付して非公開化したら",
-        "url": "https://news.yahoo.co.jp/expert/articles/a2a82c226dab87ad0098ac11aa9bb986ebad626b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-05": [
       {
+        "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
+        "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "改札で0.3秒遅れ、運賃“割引”もなし",
         "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
         "source": "Yahoo",
@@ -8835,15 +8847,27 @@
         "url": "https://news.yahoo.co.jp/expert/articles/0ef998cad1737192e59d0b02763311e861cc6342",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "アマゾンが株主に仮想通貨を交付して非公開化したら",
-        "url": "https://news.yahoo.co.jp/expert/articles/a2a82c226dab87ad0098ac11aa9bb986ebad626b",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "505M60000002048": [
+      {
+        "title": "米資産運用大手フィデリティ、CLARITY法案上院通過を求める",
+        "url": "https://news.yahoo.co.jp/articles/33e475bc6603bf891742f5b02ac879281007b746",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オンド傘下オアシス・プロ・マーケッツ、米国でトークン化株式・ファンド提供へ。FINRA追加認可取得で",
+        "url": "https://news.yahoo.co.jp/articles/1a1c4c0934942358b9c2a879c28569fc19dc140a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サムスン、Galaxy端末のウォレットにステーブルコイン機能導入へ",
+        "url": "https://news.yahoo.co.jp/articles/5761561c4c9eb0ce49dea6720339a18b3c5dd39d",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/b8bcaca8f0a90c51ec130c49a339a4fd50ef7f69",
@@ -8859,30 +8883,30 @@
       {
         "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/c09e029906dbf70dbf53c070481d1e7d728af9e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/5c736eccfae577ed2ee295dfd32511a18282e924",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
-        "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "強気回復の中で問われる「買いの質」── ETF流入と現物需要が支えるビットコイン市場【BitTrade Market Weekly】",
-        "url": "https://news.yahoo.co.jp/articles/758264577d786a506097bfd59702eadd44ca33d8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米資産運用大手フィデリティ、CLARITY法案上院通過を求める",
+        "url": "https://news.yahoo.co.jp/articles/33e475bc6603bf891742f5b02ac879281007b746",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オンド傘下オアシス・プロ・マーケッツ、米国でトークン化株式・ファンド提供へ。FINRA追加認可取得で",
+        "url": "https://news.yahoo.co.jp/articles/1a1c4c0934942358b9c2a879c28569fc19dc140a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サムスン、Galaxy端末のウォレットにステーブルコイン機能導入へ",
+        "url": "https://news.yahoo.co.jp/articles/5761561c4c9eb0ce49dea6720339a18b3c5dd39d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/b8bcaca8f0a90c51ec130c49a339a4fd50ef7f69",
         "source": "Yahoo",
@@ -8897,24 +8921,6 @@
       {
         "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
         "url": "https://news.yahoo.co.jp/articles/c09e029906dbf70dbf53c070481d1e7d728af9e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/5c736eccfae577ed2ee295dfd32511a18282e924",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
-        "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "強気回復の中で問われる「買いの質」── ETF流入と現物需要が支えるビットコイン市場【BitTrade Market Weekly】",
-        "url": "https://news.yahoo.co.jp/articles/758264577d786a506097bfd59702eadd44ca33d8",
         "source": "Yahoo",
         "date": ""
       }
@@ -9635,6 +9641,24 @@
     ],
     "415AC0000000057": [
       {
+        "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
+        "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "台湾や韓国から「ちょっと福岡まで」の日常",
+        "url": "https://news.yahoo.co.jp/articles/a0f87496b19cb0f52e12b519a353c33bca0b02a9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "LINE、広告データの保存記録に不備 3年半分を誤って削除",
+        "url": "https://news.yahoo.co.jp/articles/ece4a77945bdd82c22fb78a25971d86b23a2028c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "中国勢AIを「単なる安い代替品」と考えると見誤る、アメリカ勢との“性能の差”近づいている？どう使い分けるのが正解か",
         "url": "https://news.yahoo.co.jp/articles/fa38a485289526d87ea2170bac406bede00277f0",
         "source": "Yahoo",
@@ -9649,30 +9673,30 @@
       {
         "title": "“職場内いじめ疑惑”ミン・ヒジンとADOR元社員による損害賠償訴訟の弁論が終結",
         "url": "https://news.yahoo.co.jp/articles/6e9138d006edc5298a3c404ea76916d68daa19ea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【実録】「地域のライブカメラ」で“自宅の玄関”がYouTube配信されてて恐怖！ 毎日の「出勤・帰宅時間」「ゴミ捨ての姿」が世界に公表されてたなんて",
-        "url": "https://news.yahoo.co.jp/articles/f74ca1f25de3adfc3ca39156932964cb9bb514fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第3弾】陸自部隊、身分隠し情報収集か 開示程度4段階で運用 国内有識者ら対象 愛国心など調査",
-        "url": "https://news.yahoo.co.jp/articles/95ac383c6b3a418e005c0b2b0ac5218628d6438c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "社会に求められる「基礎的公共情報」の共有・その2＜明日のジャーナリズムへ＞第4回【調査情報デジタル】",
-        "url": "https://news.yahoo.co.jp/articles/406f14cc58e33cd267750ee0426ac2c8b27ade0e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
+        "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "台湾や韓国から「ちょっと福岡まで」の日常",
+        "url": "https://news.yahoo.co.jp/articles/a0f87496b19cb0f52e12b519a353c33bca0b02a9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "LINE、広告データの保存記録に不備 3年半分を誤って削除",
+        "url": "https://news.yahoo.co.jp/articles/ece4a77945bdd82c22fb78a25971d86b23a2028c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "中国勢AIを「単なる安い代替品」と考えると見誤る、アメリカ勢との“性能の差”近づいている？どう使い分けるのが正解か",
         "url": "https://news.yahoo.co.jp/articles/fa38a485289526d87ea2170bac406bede00277f0",
         "source": "Yahoo",
@@ -9687,30 +9711,30 @@
       {
         "title": "“職場内いじめ疑惑”ミン・ヒジンとADOR元社員による損害賠償訴訟の弁論が終結",
         "url": "https://news.yahoo.co.jp/articles/6e9138d006edc5298a3c404ea76916d68daa19ea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【実録】「地域のライブカメラ」で“自宅の玄関”がYouTube配信されてて恐怖！ 毎日の「出勤・帰宅時間」「ゴミ捨ての姿」が世界に公表されてたなんて",
-        "url": "https://news.yahoo.co.jp/articles/f74ca1f25de3adfc3ca39156932964cb9bb514fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第3弾】陸自部隊、身分隠し情報収集か 開示程度4段階で運用 国内有識者ら対象 愛国心など調査",
-        "url": "https://news.yahoo.co.jp/articles/95ac383c6b3a418e005c0b2b0ac5218628d6438c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "社会に求められる「基礎的公共情報」の共有・その2＜明日のジャーナリズムへ＞第4回【調査情報デジタル】",
-        "url": "https://news.yahoo.co.jp/articles/406f14cc58e33cd267750ee0426ac2c8b27ade0e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
+        "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "台湾や韓国から「ちょっと福岡まで」の日常",
+        "url": "https://news.yahoo.co.jp/articles/a0f87496b19cb0f52e12b519a353c33bca0b02a9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "LINE、広告データの保存記録に不備 3年半分を誤って削除",
+        "url": "https://news.yahoo.co.jp/articles/ece4a77945bdd82c22fb78a25971d86b23a2028c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "中国勢AIを「単なる安い代替品」と考えると見誤る、アメリカ勢との“性能の差”近づいている？どう使い分けるのが正解か",
         "url": "https://news.yahoo.co.jp/articles/fa38a485289526d87ea2170bac406bede00277f0",
         "source": "Yahoo",
@@ -9725,24 +9749,6 @@
       {
         "title": "“職場内いじめ疑惑”ミン・ヒジンとADOR元社員による損害賠償訴訟の弁論が終結",
         "url": "https://news.yahoo.co.jp/articles/6e9138d006edc5298a3c404ea76916d68daa19ea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【実録】「地域のライブカメラ」で“自宅の玄関”がYouTube配信されてて恐怖！ 毎日の「出勤・帰宅時間」「ゴミ捨ての姿」が世界に公表されてたなんて",
-        "url": "https://news.yahoo.co.jp/articles/f74ca1f25de3adfc3ca39156932964cb9bb514fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第3弾】陸自部隊、身分隠し情報収集か 開示程度4段階で運用 国内有識者ら対象 愛国心など調査",
-        "url": "https://news.yahoo.co.jp/articles/95ac383c6b3a418e005c0b2b0ac5218628d6438c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "社会に求められる「基礎的公共情報」の共有・その2＜明日のジャーナリズムへ＞第4回【調査情報デジタル】",
-        "url": "https://news.yahoo.co.jp/articles/406f14cc58e33cd267750ee0426ac2c8b27ade0e",
         "source": "Yahoo",
         "date": ""
       }
