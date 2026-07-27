@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T08:57:44.009Z",
+  "generatedAt": "2026-07-27T12:43:54.723Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -8637,6 +8637,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "高市早苗首相が“因縁”中道議員と１カ月ぶり対決「サナエトークン」追及受けるも議論深まらず",
+        "url": "https://news.yahoo.co.jp/articles/f86ae73b2d1229181b89c8a988e3b880779eac64",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
         "source": "Yahoo",
@@ -8663,18 +8669,18 @@
       {
         "title": "カイアDLT財団とfinojectが業務提携、日本でステーブルコインやトークン化の事業推進",
         "url": "https://news.yahoo.co.jp/articles/769b72744b1651496618708a091bf91a576b0de3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
-        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "高市早苗首相が“因縁”中道議員と１カ月ぶり対決「サナエトークン」追及受けるも議論深まらず",
+        "url": "https://news.yahoo.co.jp/articles/f86ae73b2d1229181b89c8a988e3b880779eac64",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
         "source": "Yahoo",
@@ -8701,12 +8707,6 @@
       {
         "title": "カイアDLT財団とfinojectが業務提携、日本でステーブルコインやトークン化の事業推進",
         "url": "https://news.yahoo.co.jp/articles/769b72744b1651496618708a091bf91a576b0de3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
-        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
         "source": "Yahoo",
         "date": ""
       }
