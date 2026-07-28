@@ -1,6 +1,59 @@
 {
-  "generatedAt": "2026-07-28T07:21:27.571Z",
+  "generatedAt": "2026-07-28T10:13:11.586Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "「投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令（案）」に対するパブリックコメントの実施の公表",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20260728/20260728.html",
+      "date": "2026-07-28",
+      "detectedAt": "2026-07-28T10:13:11.586Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": "第27条の2",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第27条の2"
+        }
+      ],
+      "enriched": "2026-07-28T10:13:23.023Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "現物拠出型ETFの設定時、申込者の所有割合が30%を超える銘柄に相当する部分について、金銭で設定することを可能にする規定を投資信託及び投資法人に関する法律施行規則第19条第5項第1号ハに新設する。",
+        "投資信託委託会社及びETF設定に関わる事業者は、30%超の議決権集中を回避する必要がある場合、該当銘柄部分を金銭で拠出する対応を講じ、評価額により算出した金銭及び必要経費相当額を準備する。",
+        "本改正は金融商品取引法第27条の2の大量保有報告制度との関連で、パブリックコメント（2026年8月28日17時必着）後に公布・施行される予定である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "ベースフード（株）株式外２銘柄に係る相場操縦審判事件の第１回審判手続期日開催の公表",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20260728.html",
+      "date": "2026-07-28",
+      "detectedAt": "2026-07-28T10:13:11.586Z",
+      "enriched": "2026-07-28T10:13:23.024Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ベースフード株式ほか2銘柄の相場操縦事件について、証券取引等監視委員会からの課徴金納付命令勧告を受け、令和8年4月24日に審判手続を開始し、第1回審判期日を令和8年8月6日14時に開催する。",
+        "被審人は審判廷での手続に応じる必要があり、違反事実を認める答弁書提出時は審判期日が開かれない場合がある。取材申込は8月4日15時までに金融庁広報室に申し込むこと。",
+        "審判手続は金融商品取引法に基づく相場操縦行為の不公正な取引慣行に関する事件（令和8年度（判）第2号）であり、審判手続期日は原則公開で傍聴可能（先着順、定員あり）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行政策委員会月報（令和8年6月号）",
+      "url": "https://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2606.htm",
+      "date": "2026-07-28",
+      "detectedAt": "2026-07-28T10:13:11.586Z",
+      "enriched": "2026-07-28T10:13:23.024Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "無担保コールレート（オーバーナイト物）を1.0％程度で推移するよう促す方針を決定し、補完当座預金制度の適用利率を年0.75％から1.0％に引き上げることを決定した。",
+        "金融機関等は令和8年6月17日以降、補完当座預金の適用利率1.0％および基準割引率・基準貸付利率1.25％の新利率で対応する必要がある。",
+        "日本銀行法第33条第1項に基づく基準割引率・基準貸付利率および補完当座預金制度基本要領の一部改正が令和8年6月17日から実施される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "消費者物価のコア指標",
@@ -8804,6 +8857,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ロビンフッド、クリプトドットコムと予測市場で提携協議か＝報道",
+        "url": "https://news.yahoo.co.jp/articles/55910ed462ebc17d79a27fe2eb65d57e74f9cafe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アンソロピックCEO、オープン型AI全面規制に反対－安全性試験を提唱",
         "url": "https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5",
         "source": "Yahoo",
@@ -8830,18 +8889,18 @@
       {
         "title": "ストーカー加害者にGPS装着を検討 政府、規制法改正も視野に",
         "url": "https://news.yahoo.co.jp/articles/96856355d4ad45f4b46ae2738140fa12c2cb714e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？",
-        "url": "https://news.yahoo.co.jp/articles/93165444c235744a163c6e8aecc17e0b26048026",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ロビンフッド、クリプトドットコムと予測市場で提携協議か＝報道",
+        "url": "https://news.yahoo.co.jp/articles/55910ed462ebc17d79a27fe2eb65d57e74f9cafe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アンソロピックCEO、オープン型AI全面規制に反対－安全性試験を提唱",
         "url": "https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5",
         "source": "Yahoo",
@@ -8868,12 +8927,6 @@
       {
         "title": "ストーカー加害者にGPS装着を検討 政府、規制法改正も視野に",
         "url": "https://news.yahoo.co.jp/articles/96856355d4ad45f4b46ae2738140fa12c2cb714e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？",
-        "url": "https://news.yahoo.co.jp/articles/93165444c235744a163c6e8aecc17e0b26048026",
         "source": "Yahoo",
         "date": ""
       }
@@ -9032,6 +9085,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ウィミックスのステーブルコイン「WEMIX$」、約522万枚が不正発行",
+        "url": "https://news.yahoo.co.jp/articles/667b68fe010b3aa7647fbffd2bd51c103f83ea0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国KB国民銀行、JPモルガン「Kinexys」活用の企業向け国際決済を8月開始へ",
         "url": "https://news.yahoo.co.jp/articles/34393749e5b6b24ca28d1f9c88d164b3e0897268",
         "source": "Yahoo",
@@ -9058,18 +9117,18 @@
       {
         "title": "t54[.]ai、XRPL向けAI決済基盤でマスターカードの「Verifiable Intent」に対応",
         "url": "https://news.yahoo.co.jp/articles/866d2c44ce96f9dba21100dbc386517dfb71909c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Circle、IBMから約1000件のブロックチェーン特許取得",
-        "url": "https://news.yahoo.co.jp/articles/07cf0f28e15752fdf93afbb9d606d107ca68e710",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ウィミックスのステーブルコイン「WEMIX$」、約522万枚が不正発行",
+        "url": "https://news.yahoo.co.jp/articles/667b68fe010b3aa7647fbffd2bd51c103f83ea0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国KB国民銀行、JPモルガン「Kinexys」活用の企業向け国際決済を8月開始へ",
         "url": "https://news.yahoo.co.jp/articles/34393749e5b6b24ca28d1f9c88d164b3e0897268",
         "source": "Yahoo",
@@ -9096,12 +9155,6 @@
       {
         "title": "t54[.]ai、XRPL向けAI決済基盤でマスターカードの「Verifiable Intent」に対応",
         "url": "https://news.yahoo.co.jp/articles/866d2c44ce96f9dba21100dbc386517dfb71909c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Circle、IBMから約1000件のブロックチェーン特許取得",
-        "url": "https://news.yahoo.co.jp/articles/07cf0f28e15752fdf93afbb9d606d107ca68e710",
         "source": "Yahoo",
         "date": ""
       }
@@ -9822,6 +9875,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "NewJeans ハニのビザ情報流出の疑い",
+        "url": "https://news.yahoo.co.jp/articles/4e9b5cd182ff22e8a52f1056f9bf670c2eeed50e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
         "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
         "source": "Yahoo",
@@ -9848,18 +9907,18 @@
       {
         "title": "陸自部隊の情報収集 「愛国心や性的嗜好は記録する必要ない」「身分隠して収集なら違憲の疑い」 木村草太・東京都立大教授に聞く",
         "url": "https://news.yahoo.co.jp/articles/e1fddf422f1b4c086f5c80c1870454980deaab47",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "“職場内いじめ疑惑”ミン・ヒジンとADOR元社員による損害賠償訴訟の弁論が終結",
-        "url": "https://news.yahoo.co.jp/articles/6e9138d006edc5298a3c404ea76916d68daa19ea",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "NewJeans ハニのビザ情報流出の疑い",
+        "url": "https://news.yahoo.co.jp/articles/4e9b5cd182ff22e8a52f1056f9bf670c2eeed50e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
         "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
         "source": "Yahoo",
@@ -9886,18 +9945,18 @@
       {
         "title": "陸自部隊の情報収集 「愛国心や性的嗜好は記録する必要ない」「身分隠して収集なら違憲の疑い」 木村草太・東京都立大教授に聞く",
         "url": "https://news.yahoo.co.jp/articles/e1fddf422f1b4c086f5c80c1870454980deaab47",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "“職場内いじめ疑惑”ミン・ヒジンとADOR元社員による損害賠償訴訟の弁論が終結",
-        "url": "https://news.yahoo.co.jp/articles/6e9138d006edc5298a3c404ea76916d68daa19ea",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "NewJeans ハニのビザ情報流出の疑い",
+        "url": "https://news.yahoo.co.jp/articles/4e9b5cd182ff22e8a52f1056f9bf670c2eeed50e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
         "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
         "source": "Yahoo",
@@ -9924,12 +9983,6 @@
       {
         "title": "陸自部隊の情報収集 「愛国心や性的嗜好は記録する必要ない」「身分隠して収集なら違憲の疑い」 木村草太・東京都立大教授に聞く",
         "url": "https://news.yahoo.co.jp/articles/e1fddf422f1b4c086f5c80c1870454980deaab47",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "“職場内いじめ疑惑”ミン・ヒジンとADOR元社員による損害賠償訴訟の弁論が終結",
-        "url": "https://news.yahoo.co.jp/articles/6e9138d006edc5298a3c404ea76916d68daa19ea",
         "source": "Yahoo",
         "date": ""
       }
