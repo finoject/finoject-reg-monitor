@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-07-27T23:41:36.593Z",
+  "generatedAt": "2026-07-28T03:50:30.581Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]2027年３月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000001oo5t-att/J_ER_JPX_Q1FY2026.pdf",
+      "date": "2026-07-28",
+      "detectedAt": "2026-07-28T03:50:30.581Z",
+      "enriched": "2026-07-28T03:50:35.729Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2027年3月期第1四半期（2026年4月～6月）の営業収益は65,515百万円で前年同期比50.8％増、営業利益は43,716百万円で同73.3％増を達成。",
+        "JPX及び監査法人は本四半期決算短信について公認会計士又は監査法人によるレビューを実施していない（IFRS基準に基づく四半期報告）。",
+        "2027年3月期通期の営業収益予想を241,500百万円（前期比21.5％増）、営業利益を145,500百万円（同25.1％増）に修正し、基本的1株当たり当期利益を96.40円と見込む。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]【補足資料】2026年度 第１四半期 決算の概要",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000001oo97-att/J_EM_JPX_Q1FY2026.pdf",
+      "date": "2026-07-28",
+      "detectedAt": "2026-07-28T03:50:30.581Z",
+      "enriched": "2026-07-28T03:50:35.729Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年度第1四半期の営業収益は65,515百万円（前年同期比+50.8%）、営業利益は43,716百万円（同+73.3%）に増加。日本株市場の活況を受け、株券等の取引関連収益が+10,513百万円、金利スワップ取引担保管理関連の清算収益が+9,484百万円増加した。",
+        "営業費用は23,146百万円（前年同期比+22.4%）に増加。その他営業費用が+2,987百万円増加し、うち金利スワップ取引担保管理費用等が+3,179百万円計上され、清算参加者への返戻額に相当する費用が発生している。",
+        "株券等の一日平均売買代金は12.39兆円（前年同期6.01兆円比+106.2%）、日経225オプション取引高は445億円（前年同期273億円比+63.1%）となり、各商品の取引量・取引料が大幅に増加している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]業績予想及び配当予想の修正に関するお知らせ",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000001oocn-att/20260728_J.pdf",
+      "date": "2026-07-28",
+      "detectedAt": "2026-07-28T03:50:30.581Z",
+      "enriched": "2026-07-28T03:50:35.729Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本取引所グループが2027年3月期通期連結業績予想を修正し、営業収益を205,000百万円から241,500百万円へ、当期利益を80,000百万円から100,500百万円へ上方修正した。",
+        "最近の市況動向を踏まえ、株券等の1日平均売買代金を7兆5,000億円から10兆2,000億円に引き上げるなど取引量見通しを見直したことが修正理由である。",
+        "配当性向60％以上を目標としており、修正に伴い1株当たり配当予想を年間61.00円から77.00円に引き上げ、第2四半期末30.00円・期末39.00円とした。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
@@ -8485,6 +8530,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
+        "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
         "source": "Yahoo",
@@ -8511,18 +8562,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
         "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
+        "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
         "source": "Yahoo",
@@ -8549,18 +8600,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
         "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
+        "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
         "source": "Yahoo",
@@ -8587,18 +8638,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
         "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
+        "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
         "source": "Yahoo",
@@ -8625,12 +8676,6 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
         "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/81091112583d0a2c4a3069dd747042b10a065d5d",
         "source": "Yahoo",
         "date": ""
       }
@@ -8713,6 +8758,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "米上院、クラリティ法案の審議を当面延期か＝CoinDesk報道",
+        "url": "https://news.yahoo.co.jp/articles/b337a6402d65a380f40b44be2a94eb6bb23488a9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ストーカー加害者にGPS装着を検討 政府、規制法改正も視野に",
+        "url": "https://news.yahoo.co.jp/articles/96856355d4ad45f4b46ae2738140fa12c2cb714e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？",
         "url": "https://news.yahoo.co.jp/articles/93165444c235744a163c6e8aecc17e0b26048026",
         "source": "Yahoo",
@@ -8733,24 +8790,24 @@
       {
         "title": "中道・後藤祐一氏「関係ない立証責任は総理側」サナエトークンへの関与 記者団と一問一答",
         "url": "https://news.yahoo.co.jp/articles/67738a6491d65cdb13acf11af5e8c8207460aaef",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
-        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米上院、クラリティ法案の審議を当面延期か＝CoinDesk報道",
+        "url": "https://news.yahoo.co.jp/articles/b337a6402d65a380f40b44be2a94eb6bb23488a9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ストーカー加害者にGPS装着を検討 政府、規制法改正も視野に",
+        "url": "https://news.yahoo.co.jp/articles/96856355d4ad45f4b46ae2738140fa12c2cb714e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？",
         "url": "https://news.yahoo.co.jp/articles/93165444c235744a163c6e8aecc17e0b26048026",
         "source": "Yahoo",
@@ -8771,18 +8828,6 @@
       {
         "title": "中道・後藤祐一氏「関係ない立証責任は総理側」サナエトークンへの関与 記者団と一問一答",
         "url": "https://news.yahoo.co.jp/articles/67738a6491d65cdb13acf11af5e8c8207460aaef",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
-        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
         "source": "Yahoo",
         "date": ""
       }
@@ -8819,8 +8864,8 @@
         "date": ""
       },
       {
-        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
-        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
+        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
         "source": "Yahoo",
         "date": ""
       }
@@ -8857,8 +8902,8 @@
         "date": ""
       },
       {
-        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
-        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
+        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
         "source": "Yahoo",
         "date": ""
       }
@@ -8941,6 +8986,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "米上院、クラリティ法案の審議を当面延期か＝CoinDesk報道 仮に同法案の成立が見送られた場合、規制の焦点はすでに成立しているステーブルコイン規制法（GENIUS Act）の運用や、米証券取引委員会（SEC）お",
+        "url": "https://news.yahoo.co.jp/articles/b337a6402d65a380f40b44be2a94eb6bb23488a9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "t54[.]ai、XRPL向けAI決済基盤でマスターカードの「Verifiable Intent」に対応",
+        "url": "https://news.yahoo.co.jp/articles/866d2c44ce96f9dba21100dbc386517dfb71909c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Circle、IBMから約1000件のブロックチェーン特許取得",
         "url": "https://news.yahoo.co.jp/articles/07cf0f28e15752fdf93afbb9d606d107ca68e710",
         "source": "Yahoo",
@@ -8961,24 +9018,24 @@
       {
         "title": "リップル、機関向けRLUSD管理基盤「Ripple Mint」提供開始",
         "url": "https://news.yahoo.co.jp/articles/729a4966c4261f9ea70b8da2740844c732cb36f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米資産運用大手フィデリティ、「CLARITY法案」上院通過を求める",
-        "url": "https://news.yahoo.co.jp/articles/33e475bc6603bf891742f5b02ac879281007b746",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンド傘下オアシス・プロ・マーケッツ、米国でトークン化株式・ファンド提供へ。FINRA追加認可取得で",
-        "url": "https://news.yahoo.co.jp/articles/1a1c4c0934942358b9c2a879c28569fc19dc140a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米上院、クラリティ法案の審議を当面延期か＝CoinDesk報道 仮に同法案の成立が見送られた場合、規制の焦点はすでに成立しているステーブルコイン規制法（GENIUS Act）の運用や、米証券取引委員会（SEC）お",
+        "url": "https://news.yahoo.co.jp/articles/b337a6402d65a380f40b44be2a94eb6bb23488a9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "t54[.]ai、XRPL向けAI決済基盤でマスターカードの「Verifiable Intent」に対応",
+        "url": "https://news.yahoo.co.jp/articles/866d2c44ce96f9dba21100dbc386517dfb71909c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Circle、IBMから約1000件のブロックチェーン特許取得",
         "url": "https://news.yahoo.co.jp/articles/07cf0f28e15752fdf93afbb9d606d107ca68e710",
         "source": "Yahoo",
@@ -8999,18 +9056,6 @@
       {
         "title": "リップル、機関向けRLUSD管理基盤「Ripple Mint」提供開始",
         "url": "https://news.yahoo.co.jp/articles/729a4966c4261f9ea70b8da2740844c732cb36f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米資産運用大手フィデリティ、「CLARITY法案」上院通過を求める",
-        "url": "https://news.yahoo.co.jp/articles/33e475bc6603bf891742f5b02ac879281007b746",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンド傘下オアシス・プロ・マーケッツ、米国でトークン化株式・ファンド提供へ。FINRA追加認可取得で",
-        "url": "https://news.yahoo.co.jp/articles/1a1c4c0934942358b9c2a879c28569fc19dc140a",
         "source": "Yahoo",
         "date": ""
       }
@@ -9047,8 +9092,8 @@
         "date": ""
       },
       {
-        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
-        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
+        "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
         "source": "Yahoo",
         "date": ""
       }
@@ -9085,8 +9130,8 @@
         "date": ""
       },
       {
-        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
-        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
+        "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
         "source": "Yahoo",
         "date": ""
       }
@@ -9123,8 +9168,8 @@
         "date": ""
       },
       {
-        "title": "預金利回り6％？イーロン・マスク氏の悲願『Xマネー』使ってみた！NY在住の利用者「マスク氏に3.9ドル送った」",
-        "url": "https://news.yahoo.co.jp/articles/61004e776611edf774bf03e885a2945ecd25d9a6",
+        "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
+        "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
         "source": "Yahoo",
         "date": ""
       }
