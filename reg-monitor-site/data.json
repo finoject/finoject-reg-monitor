@@ -1,6 +1,67 @@
 {
-  "generatedAt": "2026-07-28T03:50:30.581Z",
+  "generatedAt": "2026-07-28T07:21:27.571Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "消費者物価のコア指標",
+      "url": "https://www.boj.or.jp/research/research_data/cpi/index.htm",
+      "date": "2026-07-28",
+      "detectedAt": "2026-07-28T07:21:27.571Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は消費者物価の基調的上昇率を把握するため、消費税率変更・教育無償化政策・携帯電話通信料引き下げ・旅行支援策・エネルギー負担緩和策の5項目を特殊要因として除いたコア指標を公表する。",
+        "金融経済分析に従事する実務者は、全国消費者物価指数公表日の2営業日後14時を目途に日本銀行が試算した特殊要因調整済みの消費者物価および刈込平均値・加重中央値等の4指標データを参照し、物価動向分析に活用する。",
+        "本コア指標公表システムは2026年3月26日より開始され、特殊要因の定義は予告なく変更される可能性があり、商用利用時は日本銀行調査統計局への事前相談が必要である。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-28T07:21:32.181Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）アイ・グリッド・ソリューションズ",
+      "url": "https://www.jpx.co.jp/news/1031/20260728_01.html",
+      "date": "2026-07-28",
+      "detectedAt": "2026-07-28T07:21:27.571Z",
+      "enriched": "2026-07-28T07:21:32.181Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）アイ・グリッド・ソリューションズ（コード603A）の2026年7月29日上場において、初値決定前の気配は板中心値段770円からスタートし、上限1,771円（更新値幅39円・10分間隔）、下限578円（通常更新値幅・3分間隔）で運用される。",
+        "市場参加者は同銘柄の新規上場日において、成行売呼値・成行買呼値を禁止され、193円以上3,080円以下の指値注文のみで対応する必要がある。",
+        "初値決定まで制限値幅は適用されず、初値決定後に当該初値を基準値段として制限値幅が適用される東証の新規上場銘柄の気配運用ルール。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）ビーエイブル",
+      "url": "https://www.jpx.co.jp/news/1031/20260728_02.html",
+      "date": "2026-07-28",
+      "detectedAt": "2026-07-28T07:21:27.571Z",
+      "enriched": "2026-07-28T07:21:32.181Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ビーエイブル（コード604A）の新規上場日（2026年7月29日）における気配運用として、板中心値段700円から開始し、上限1,610円（更新値幅35円・10分間隔）、下限525円（通常値幅・3分間隔）で気配を更新する。",
+        "取引参加者は新規上場日の売買において成行売呼値および成行買呼値を禁止され、注文受付価格を175円以上2,800円以下の範囲に限定する必要がある。",
+        "初値決定まで制限値幅は適用されず、初値決定後に当該初値を基準値段とした呼値の制限値幅が適用される（東証ルール）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]投資単位の引下げに係る検討の要請及び「更なる少額投資の実現に向けた制度・実務ワーキング・グループ」の設置について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260728-01.html",
+      "date": "2026-07-28",
+      "detectedAt": "2026-07-28T07:21:27.571Z",
+      "enriched": "2026-07-28T07:21:32.181Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証は2026年6月30日時点で投資単位50万円以上の約270社に対し、株式分割による投資単位引下げの検討を改めて要請。2022年10月以降の要請では760社が株式分割を決議済み。",
+        "上場会社代表者は投資単位50万円以上の場合、個人投資家の期待である10万円台までの引下げを目指した株式分割の実施検討が求められる。直近1年間の決議企業の約70%が10万円台を企図。",
+        "投資単位の引下げ制度は継続適用され、「更なる少額投資の実現に向けた制度・実務ワーキング・グループ」を東証が設置して、より一層の少額投資実現のための具体的施策を検討する予定。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[JPX]2027年３月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
@@ -4512,21 +4573,6 @@
     },
     {
       "agency": "日本銀行",
-      "title": "消費者物価のコア指標",
-      "url": "https://www.boj.or.jp/research/research_data/cpi/index.htm",
-      "date": "2026-06-23",
-      "detectedAt": "2026-06-24T01:05:55.681Z",
-      "enriched": "2026-06-24T01:06:01.776Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行は消費者物価の基調的上昇率を把握するため、消費税率変更・教育無償化政策・携帯電話通信料引き下げ・旅行支援策・エネルギー負担緩和策の5項目を特殊要因として除いたコア指標を公表する。",
-        "金融経済分析に従事する実務者は、全国消費者物価指数公表日の2営業日後14時を目途に日本銀行が試算した特殊要因調整済みの消費者物価および刈込平均値・加重中央値等の4指標データを参照し、物価動向分析に活用する。",
-        "本コア指標公表システムは2026年3月26日より開始され、特殊要因の定義は予告なく変更される可能性があり、商用利用時は日本銀行調査統計局への事前相談が必要である。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
       "title": "営業毎旬報告（6月20日現在）",
       "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260620.htm",
       "date": "2026-06-23",
@@ -8530,6 +8576,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "PTS（私設電子取引システム）の取引所化とUTP（非上場取引特権）",
+        "url": "https://news.yahoo.co.jp/articles/2a78915edc2bf0a9272d64604f0b197ef1eed57f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
         "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
         "source": "Yahoo",
@@ -8556,18 +8608,18 @@
       {
         "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5005dbc0ca3fc37d3d7d7373d01d50e2d45e8f36",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
-        "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "PTS（私設電子取引システム）の取引所化とUTP（非上場取引特権）",
+        "url": "https://news.yahoo.co.jp/articles/2a78915edc2bf0a9272d64604f0b197ef1eed57f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
         "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
         "source": "Yahoo",
@@ -8594,18 +8646,18 @@
       {
         "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5005dbc0ca3fc37d3d7d7373d01d50e2d45e8f36",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
-        "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "PTS（私設電子取引システム）の取引所化とUTP（非上場取引特権）",
+        "url": "https://news.yahoo.co.jp/articles/2a78915edc2bf0a9272d64604f0b197ef1eed57f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
         "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
         "source": "Yahoo",
@@ -8632,18 +8684,18 @@
       {
         "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5005dbc0ca3fc37d3d7d7373d01d50e2d45e8f36",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
-        "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "PTS（私設電子取引システム）の取引所化とUTP（非上場取引特権）",
+        "url": "https://news.yahoo.co.jp/articles/2a78915edc2bf0a9272d64604f0b197ef1eed57f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
         "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
         "source": "Yahoo",
@@ -8670,12 +8722,6 @@
       {
         "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5005dbc0ca3fc37d3d7d7373d01d50e2d45e8f36",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
-        "url": "https://news.yahoo.co.jp/articles/e29a7f30ad13df0bf477303380fd580c854ed067",
         "source": "Yahoo",
         "date": ""
       }
@@ -8758,6 +8804,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "アンソロピックCEO、オープン型AI全面規制に反対－安全性試験を提唱",
+        "url": "https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "セキュリタイズキャピタル、米SECに投資顧問業者として登録",
+        "url": "https://news.yahoo.co.jp/articles/dfd10c3e8dc0cc442811e44f5e745ad8f0eeaa8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "露最大手銀行スベルバンク、12/1までに暗号資産取引インフラ構築へ",
+        "url": "https://news.yahoo.co.jp/articles/d00a93e73e5728a41ed9b6c1198f0c840aacb643",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院、クラリティ法案の審議を当面延期か＝CoinDesk報道",
         "url": "https://news.yahoo.co.jp/articles/b337a6402d65a380f40b44be2a94eb6bb23488a9",
         "source": "Yahoo",
@@ -8772,30 +8836,30 @@
       {
         "title": "【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？",
         "url": "https://news.yahoo.co.jp/articles/93165444c235744a163c6e8aecc17e0b26048026",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Securitize、SEC登録投資顧問業者に──機関投資家向け事業を強化",
-        "url": "https://news.yahoo.co.jp/articles/7b65497d8c6f49cbd38403472ee06712cc319ae6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Binanceに集まるビットコイン──BitMEX・BitMart閉鎖で加速する『勝者総取り』とセルフカストディの時代【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/d258901e08f4b28f95b21833672a6a10a10ce54e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中道・後藤祐一氏「関係ない立証責任は総理側」サナエトークンへの関与 記者団と一問一答",
-        "url": "https://news.yahoo.co.jp/articles/67738a6491d65cdb13acf11af5e8c8207460aaef",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "アンソロピックCEO、オープン型AI全面規制に反対－安全性試験を提唱",
+        "url": "https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "セキュリタイズキャピタル、米SECに投資顧問業者として登録",
+        "url": "https://news.yahoo.co.jp/articles/dfd10c3e8dc0cc442811e44f5e745ad8f0eeaa8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "露最大手銀行スベルバンク、12/1までに暗号資産取引インフラ構築へ",
+        "url": "https://news.yahoo.co.jp/articles/d00a93e73e5728a41ed9b6c1198f0c840aacb643",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院、クラリティ法案の審議を当面延期か＝CoinDesk報道",
         "url": "https://news.yahoo.co.jp/articles/b337a6402d65a380f40b44be2a94eb6bb23488a9",
         "source": "Yahoo",
@@ -8810,24 +8874,6 @@
       {
         "title": "【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？",
         "url": "https://news.yahoo.co.jp/articles/93165444c235744a163c6e8aecc17e0b26048026",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Securitize、SEC登録投資顧問業者に──機関投資家向け事業を強化",
-        "url": "https://news.yahoo.co.jp/articles/7b65497d8c6f49cbd38403472ee06712cc319ae6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Binanceに集まるビットコイン──BitMEX・BitMart閉鎖で加速する『勝者総取り』とセルフカストディの時代【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/d258901e08f4b28f95b21833672a6a10a10ce54e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中道・後藤祐一氏「関係ない立証責任は総理側」サナエトークンへの関与 記者団と一問一答",
-        "url": "https://news.yahoo.co.jp/articles/67738a6491d65cdb13acf11af5e8c8207460aaef",
         "source": "Yahoo",
         "date": ""
       }
@@ -8910,6 +8956,12 @@
     ],
     "422M60000002003": [
       {
+        "title": "PS5版『GTA6』日本向けパッケージ版のコードは発売170日後に失効するので注意―期限付きになっている理由とは",
+        "url": "https://news.yahoo.co.jp/articles/9ec180b5540bf16360e18247737099740642002a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
         "source": "Yahoo",
@@ -8936,18 +8988,18 @@
       {
         "title": "“勝手に広がる”エコシステムが醍醐味、AI時代のデジタル円へ──JPYC岡部氏が語るステーブルコイン最前線【GFTN 2026】",
         "url": "https://news.yahoo.co.jp/articles/4b679ec723e7156e76a831c2f07c376355336560",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本円に連動する初のステーブルコインが秋にも発行開始か #エキスパートトピ",
-        "url": "https://news.yahoo.co.jp/expert/articles/0ef998cad1737192e59d0b02763311e861cc6342",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-05": [
       {
+        "title": "PS5版『GTA6』日本向けパッケージ版のコードは発売170日後に失効するので注意―期限付きになっている理由とは",
+        "url": "https://news.yahoo.co.jp/articles/9ec180b5540bf16360e18247737099740642002a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
         "source": "Yahoo",
@@ -8976,15 +9028,27 @@
         "url": "https://news.yahoo.co.jp/articles/4b679ec723e7156e76a831c2f07c376355336560",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "日本円に連動する初のステーブルコインが秋にも発行開始か #エキスパートトピ",
-        "url": "https://news.yahoo.co.jp/expert/articles/0ef998cad1737192e59d0b02763311e861cc6342",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "505M60000002048": [
+      {
+        "title": "韓国KB国民銀行、JPモルガン「Kinexys」活用の企業向け国際決済を8月開始へ",
+        "url": "https://news.yahoo.co.jp/articles/34393749e5b6b24ca28d1f9c88d164b3e0897268",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラーケン親会社ペイワード、企業向けウォレット基盤提供「マジックラボ」のWaaS事業買収へ",
+        "url": "https://news.yahoo.co.jp/articles/355cc316ce553b4b4fbd844599c17fff4fb8b8f7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米サークル、IBMのブロックチェーン特許群を取得。米最大の特許保有企業に",
+        "url": "https://news.yahoo.co.jp/articles/6e42a40491a83b419741fecc43209652d54d547d",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "米上院、クラリティ法案の審議を当面延期か＝CoinDesk報道 仮に同法案の成立が見送られた場合、規制の焦点はすでに成立しているステーブルコイン規制法（GENIUS Act）の運用や、米証券取引委員会（SEC）お",
         "url": "https://news.yahoo.co.jp/articles/b337a6402d65a380f40b44be2a94eb6bb23488a9",
@@ -9000,30 +9064,30 @@
       {
         "title": "Circle、IBMから約1000件のブロックチェーン特許取得",
         "url": "https://news.yahoo.co.jp/articles/07cf0f28e15752fdf93afbb9d606d107ca68e710",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サムスンの「Samsung Wallet」がステーブルコイン対応へ、主要スマホブランドとして先駆け目指す",
-        "url": "https://news.yahoo.co.jp/articles/ebd394e92086d98de1dfe1ce7f5c1f1c6863395a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、機関向けRLUSD管理基盤「Ripple Mint」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/729a4966c4261f9ea70b8da2740844c732cb36f5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "韓国KB国民銀行、JPモルガン「Kinexys」活用の企業向け国際決済を8月開始へ",
+        "url": "https://news.yahoo.co.jp/articles/34393749e5b6b24ca28d1f9c88d164b3e0897268",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラーケン親会社ペイワード、企業向けウォレット基盤提供「マジックラボ」のWaaS事業買収へ",
+        "url": "https://news.yahoo.co.jp/articles/355cc316ce553b4b4fbd844599c17fff4fb8b8f7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米サークル、IBMのブロックチェーン特許群を取得。米最大の特許保有企業に",
+        "url": "https://news.yahoo.co.jp/articles/6e42a40491a83b419741fecc43209652d54d547d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院、クラリティ法案の審議を当面延期か＝CoinDesk報道 仮に同法案の成立が見送られた場合、規制の焦点はすでに成立しているステーブルコイン規制法（GENIUS Act）の運用や、米証券取引委員会（SEC）お",
         "url": "https://news.yahoo.co.jp/articles/b337a6402d65a380f40b44be2a94eb6bb23488a9",
         "source": "Yahoo",
@@ -9038,24 +9102,6 @@
       {
         "title": "Circle、IBMから約1000件のブロックチェーン特許取得",
         "url": "https://news.yahoo.co.jp/articles/07cf0f28e15752fdf93afbb9d606d107ca68e710",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サムスンの「Samsung Wallet」がステーブルコイン対応へ、主要スマホブランドとして先駆け目指す",
-        "url": "https://news.yahoo.co.jp/articles/ebd394e92086d98de1dfe1ce7f5c1f1c6863395a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、機関向けRLUSD管理基盤「Ripple Mint」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/729a4966c4261f9ea70b8da2740844c732cb36f5",
         "source": "Yahoo",
         "date": ""
       }
