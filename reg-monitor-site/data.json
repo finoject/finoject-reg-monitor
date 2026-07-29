@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T21:32:16.864Z",
+  "generatedAt": "2026-07-29T22:35:48.906Z",
   "items": [
     {
       "agency": "日本取引所グループ",
@@ -9171,6 +9171,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米検察団体、クラリティ法案の変更を提案＝報道",
+        "url": "https://news.yahoo.co.jp/articles/a47c2cd18701f35b2a5beef2fa154497527bc515",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Anchorage、FRBの新決済口座案は「マスターアカウントの代替にならず」",
         "url": "https://news.yahoo.co.jp/articles/24662b2470f64a1226dfd9ee9d40f909ac65f2c6",
         "source": "Yahoo",
@@ -9197,18 +9203,18 @@
       {
         "title": "モルガンスタンレー、イーサリアム（ETH）・ソラナ（SOL）連動ETPをNYSEアーカに上場",
         "url": "https://news.yahoo.co.jp/articles/1b4789875bb05a432fb3518e4abe5b925c2c27b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハッシュキー、地域別サービスの入口を統合した新アプリ提供開始",
-        "url": "https://news.yahoo.co.jp/articles/8e3f9801e6b2a8504c72a03c582793d26326d53a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米検察団体、クラリティ法案の変更を提案＝報道",
+        "url": "https://news.yahoo.co.jp/articles/a47c2cd18701f35b2a5beef2fa154497527bc515",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Anchorage、FRBの新決済口座案は「マスターアカウントの代替にならず」",
         "url": "https://news.yahoo.co.jp/articles/24662b2470f64a1226dfd9ee9d40f909ac65f2c6",
         "source": "Yahoo",
@@ -9235,12 +9241,6 @@
       {
         "title": "モルガンスタンレー、イーサリアム（ETH）・ソラナ（SOL）連動ETPをNYSEアーカに上場",
         "url": "https://news.yahoo.co.jp/articles/1b4789875bb05a432fb3518e4abe5b925c2c27b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハッシュキー、地域別サービスの入口を統合した新アプリ提供開始",
-        "url": "https://news.yahoo.co.jp/articles/8e3f9801e6b2a8504c72a03c582793d26326d53a",
         "source": "Yahoo",
         "date": ""
       }
