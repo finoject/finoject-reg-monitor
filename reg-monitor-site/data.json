@@ -1,6 +1,82 @@
 {
-  "generatedAt": "2026-07-29T04:52:12.363Z",
+  "generatedAt": "2026-07-29T08:08:47.300Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T08:08:47.300Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-29T08:08:53.157Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの調整後の権利行使価格：2026年7月30日調整分",
+      "url": "https://www.jpx.co.jp/news/2020/20260729-01.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T08:08:47.300Z",
+      "enriched": "2026-07-29T08:08:53.157Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "一部有価証券について2026年8月1日を効力発生日とする株式分割が予定されたため、当該有価証券に係る有価証券オプションの権利行使価格を2026年7月30日より調整する。",
+        "有価証券オプション取引参加者は調整後の権利行使価格（フレックスオプション限月取引を含む）を確認し、ポジション管理・発注時に適用する必要がある。",
+        "調整は2026年7月30日（木）から適用され、円位未満の端数は四捨五入、フレックス限月取引は小数点第2位未満を四捨五入して計算する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）ウィル・ドゥ",
+      "url": "https://www.jpx.co.jp/news/1021/20260729-18.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T08:08:47.300Z",
+      "enriched": "2026-07-29T08:08:53.158Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ウィル・ドゥ（コード5617、TOKYO PRO Market上場）が上場廃止を申請し、東証が同申請を承認し上場廃止を決定した。特定上場有価証券に関する有価証券上場規程の特例第143条に基づく。",
+        "同社株式は2026年7月30日(木)以降、信用取引・発行日決済取引の委託保証金、売買証拠金、取引参加者保証金、信認金の代用有価証券から除外される。証券会社・取引参加者は担保適格性喪失に対応する必要がある。",
+        "整理銘柄指定期間は2026年7月29日(水)から8月26日(水)まで、上場廃止日は2026年8月27日(木)。ただし速やかに廃止すべき事情発生時は期間・廃止日が変更される可能性がある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大（ETF/ETN）：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260729-01.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T08:08:47.300Z",
+      "enriched": "2026-07-29T08:08:53.158Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "NEXT NOTES韓国KOSPI・ダブル・ブルETN受益証券（コード2033）について、7月29日のストップ高終了に伴い7月30日の制限値幅下限を通常の10,000円から40,000円に拡大。基準値段53,940円、ストップ安13,940円。",
+        "取引参加者および投資家は7月30日のこのETNの取引で拡大した制限値幅（下限40,000円）の適用を認識し、成行注文による予期しない約定に注意。拡大後のストップ高安以外の値段で終了した場合翌営業日から通常値幅に戻ることを確認。",
+        "東京証券取引所の自主規制に基づき7月30日から適用。制限値幅に関する詳細は株式部株式総務グループ（電話03-3666-0141）へ問合せ可能。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定解除：（株）メタルアート",
+      "url": "https://www.jpx.co.jp/news/1023/20260729-12.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T08:08:47.300Z",
+      "enriched": "2026-07-29T08:08:53.158Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）メタルアート（コード5644、スタンダード市場）の監理銘柄（確認中）指定を2026年7月30日に解除。上場廃止のおそれが消滅したため。",
+        "Gerbera holdings株式会社による公開買付けが不成立となったことで、同社株式の上場廃止リスクが解消された。",
+        "有価証券上場規程施行規則第604条第3項本文及び同条第1項第24号に基づき、監理銘柄（確認中）指定解除の手続が実行される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "会長記者会見の資料を公開しました",
@@ -84,7 +160,13 @@
       "date": "2026-07-29",
       "detectedAt": "2026-07-29T04:52:12.363Z",
       "enriched": "2026-07-29T04:52:17.610Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は、松下幸之助の1967年論文「株式の大衆化で新たな繁栄を」の考え方を基に、個人株主拡大に向けた調査研究活動を推進。2024年12月に「ステークホルダー資本主義」資料をアップデート版として公表した。",
+        "国民の株式保有実現に向け、2025年度末時点で個人株主1,677万人（総人口の13.5％）、個人金融資産2,385兆円のうち上場株式217兆円（9.1％）の現状から、松下幸之助の理想である約6割世帯（7,428万人）が株式保有する状態を目標に掲げている。",
+        "個人投資家は株主・従業員・顧客・地域構成員として多様な立場を有し、機関投資家は企業との中長期対話を実施するなど、ステークホルダー資本主義の実現に向けて協会が提言・啓発活動を展開している。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本証券業協会",
@@ -727,22 +809,6 @@
       ],
       "aiSumV": 3,
       "enriched": "2026-07-23T07:59:45.526Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-07-23",
-      "detectedAt": "2026-07-23T07:59:39.838Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-23T07:59:45.527Z"
     },
     {
       "agency": "日本銀行",
@@ -8965,6 +9031,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ロシア中銀、暗号資産市場創設へ向けた初の規制草案を公表",
+        "url": "https://news.yahoo.co.jp/articles/3a4d11c60f9db3b3548e653322fe2c3e2ff47a72",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "モルガンスタンレー、イーサリアム（ETH）・ソラナ（SOL）連動ETPをNYSEアーカに上場",
         "url": "https://news.yahoo.co.jp/articles/1b4789875bb05a432fb3518e4abe5b925c2c27b8",
         "source": "Yahoo",
@@ -8991,18 +9063,18 @@
       {
         "title": "BlackRockやFidelityらウォール街大手、クラリティ法案支持を表明",
         "url": "https://news.yahoo.co.jp/articles/41ceb3c3763632440150f0fcd8cd17f4cb77f0fd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Strategyがビットコインを買わなかった理由──「買い控え」ではなく次の一手に備えた資金戦略か【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/c048643c33598f1da09e1f32c9b04f397af19f7f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ロシア中銀、暗号資産市場創設へ向けた初の規制草案を公表",
+        "url": "https://news.yahoo.co.jp/articles/3a4d11c60f9db3b3548e653322fe2c3e2ff47a72",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "モルガンスタンレー、イーサリアム（ETH）・ソラナ（SOL）連動ETPをNYSEアーカに上場",
         "url": "https://news.yahoo.co.jp/articles/1b4789875bb05a432fb3518e4abe5b925c2c27b8",
         "source": "Yahoo",
@@ -9029,12 +9101,6 @@
       {
         "title": "BlackRockやFidelityらウォール街大手、クラリティ法案支持を表明",
         "url": "https://news.yahoo.co.jp/articles/41ceb3c3763632440150f0fcd8cd17f4cb77f0fd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Strategyがビットコインを買わなかった理由──「買い控え」ではなく次の一手に備えた資金戦略か【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/c048643c33598f1da09e1f32c9b04f397af19f7f",
         "source": "Yahoo",
         "date": ""
       }
@@ -9193,76 +9259,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "ソニー銀行、音楽カタログ投資向け米ドル建デジタル証券の募集開始。予定配当率年3.5％",
-        "url": "https://news.yahoo.co.jp/articles/95d3bab95b8c513f2037070be26919e86e7e5016",
+        "title": "データチェーン、「KuraPrivacy」のAPIをテストネットで提供開始。企業の秘匿送金導入を支援",
+        "url": "https://news.yahoo.co.jp/articles/a42de9c7542e9ba1a97aefd4442b533efe9217be",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
-        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
+        "title": "金裏付けトークン「テザーゴールド（XAUT）」、シャリア準拠認証を取得。イスラム金融での活用拡大を後押し",
+        "url": "https://news.yahoo.co.jp/articles/67381c1a1161bc02e92363f41402112aedab603a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "上半期の暗号資産ハッキング被害10億ドル超──攻撃件数は過去最多＝Blockaid",
-        "url": "https://news.yahoo.co.jp/articles/01c839625865bc1b1d2efce447c28f815c25d757",
+        "title": "テザー、ケニアのナイロビ証券取引所とMoU締結。証券トークン化や即時決済を検討",
+        "url": "https://news.yahoo.co.jp/articles/f497265fa113ce08a76eaf0a02cf144cef3d41fe",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "BlackRockやFidelityらウォール街大手、クラリティ法案支持を表明",
-        "url": "https://news.yahoo.co.jp/articles/41ceb3c3763632440150f0fcd8cd17f4cb77f0fd",
+        "title": "イーサシステムズ、金融機関のパブリックブロックチェーン活用へプライバシー技術が不可欠と指摘＝報道",
+        "url": "https://news.yahoo.co.jp/articles/3fc43ee3f80f7f3e7eecf82aa6921258474f8ce7",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "d払いを軸に金融サービスを統合 ドコモFG廣井社長が明かすドコモ回線と金融の連携構想",
-        "url": "https://news.yahoo.co.jp/articles/e1387d1c60e23cc2567f3d57b3e7328f940db798",
+        "title": "JPYC岡部氏、熊本地震支援でステーブルコイン寄付を金融庁に照会",
+        "url": "https://news.yahoo.co.jp/articles/0bde9779db48972bba33784f5c4ca6b806b76933",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米ビザが2600人削減へ、全社員の7%相当－競争激化受け効率化推進",
-        "url": "https://news.yahoo.co.jp/articles/ad30b5d35173c6c97ef8859542272f79164d6e77",
+        "title": "欧州金融機関10社が共同運営型ブロックチェーン「RL1」始動──Visaはステーブルコイン基盤拡充",
+        "url": "https://news.yahoo.co.jp/articles/7aadd0866ee7b532e885f17349ca16c725710864",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "ソニー銀行、音楽カタログ投資向け米ドル建デジタル証券の募集開始。予定配当率年3.5％",
-        "url": "https://news.yahoo.co.jp/articles/95d3bab95b8c513f2037070be26919e86e7e5016",
+        "title": "データチェーン、「KuraPrivacy」のAPIをテストネットで提供開始。企業の秘匿送金導入を支援",
+        "url": "https://news.yahoo.co.jp/articles/a42de9c7542e9ba1a97aefd4442b533efe9217be",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
-        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
+        "title": "金裏付けトークン「テザーゴールド（XAUT）」、シャリア準拠認証を取得。イスラム金融での活用拡大を後押し",
+        "url": "https://news.yahoo.co.jp/articles/67381c1a1161bc02e92363f41402112aedab603a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "上半期の暗号資産ハッキング被害10億ドル超──攻撃件数は過去最多＝Blockaid",
-        "url": "https://news.yahoo.co.jp/articles/01c839625865bc1b1d2efce447c28f815c25d757",
+        "title": "テザー、ケニアのナイロビ証券取引所とMoU締結。証券トークン化や即時決済を検討",
+        "url": "https://news.yahoo.co.jp/articles/f497265fa113ce08a76eaf0a02cf144cef3d41fe",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "BlackRockやFidelityらウォール街大手、クラリティ法案支持を表明",
-        "url": "https://news.yahoo.co.jp/articles/41ceb3c3763632440150f0fcd8cd17f4cb77f0fd",
+        "title": "イーサシステムズ、金融機関のパブリックブロックチェーン活用へプライバシー技術が不可欠と指摘＝報道",
+        "url": "https://news.yahoo.co.jp/articles/3fc43ee3f80f7f3e7eecf82aa6921258474f8ce7",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "d払いを軸に金融サービスを統合 ドコモFG廣井社長が明かすドコモ回線と金融の連携構想",
-        "url": "https://news.yahoo.co.jp/articles/e1387d1c60e23cc2567f3d57b3e7328f940db798",
+        "title": "JPYC岡部氏、熊本地震支援でステーブルコイン寄付を金融庁に照会",
+        "url": "https://news.yahoo.co.jp/articles/0bde9779db48972bba33784f5c4ca6b806b76933",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米ビザが2600人削減へ、全社員の7%相当－競争激化受け効率化推進",
-        "url": "https://news.yahoo.co.jp/articles/ad30b5d35173c6c97ef8859542272f79164d6e77",
+        "title": "欧州金融機関10社が共同運営型ブロックチェーン「RL1」始動──Visaはステーブルコイン基盤拡充",
+        "url": "https://news.yahoo.co.jp/articles/7aadd0866ee7b532e885f17349ca16c725710864",
         "source": "Yahoo",
         "date": ""
       }
@@ -9293,14 +9359,14 @@
         "date": ""
       },
       {
-        "title": "【ニセの税関職員、ニセ警察官、そしてニセ検事",
-        "url": "https://news.yahoo.co.jp/articles/4b3cd43fc5f8b139c85cfa8bfcb9bcbcc79d1299",
+        "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
+        "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
-        "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
+        "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
+        "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
         "source": "Yahoo",
         "date": ""
       }
@@ -9331,14 +9397,14 @@
         "date": ""
       },
       {
-        "title": "【ニセの税関職員、ニセ警察官、そしてニセ検事",
-        "url": "https://news.yahoo.co.jp/articles/4b3cd43fc5f8b139c85cfa8bfcb9bcbcc79d1299",
+        "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
+        "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
-        "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
+        "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
+        "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
         "source": "Yahoo",
         "date": ""
       }
@@ -9369,14 +9435,14 @@
         "date": ""
       },
       {
-        "title": "【ニセの税関職員、ニセ警察官、そしてニセ検事",
-        "url": "https://news.yahoo.co.jp/articles/4b3cd43fc5f8b139c85cfa8bfcb9bcbcc79d1299",
+        "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
+        "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
-        "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
+        "title": "「タンス預金は危ない」と聞き、手元の「450万円」を複数の銀行口座に小分けに入金！ 悪質な隠ぺいとみなされて重いペナルティを食らうこともあるのでしょうか？",
+        "url": "https://news.yahoo.co.jp/articles/0a036deadfaeb56e4de7c45f63ed58ba89ecf204",
         "source": "Yahoo",
         "date": ""
       }
