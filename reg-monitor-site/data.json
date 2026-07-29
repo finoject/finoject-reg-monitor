@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-28T22:39:33.613Z",
+  "generatedAt": "2026-07-29T01:04:56.536Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]JPX-QUICK 暗号資産指数シリーズの共同運営について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260729-01.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T01:04:56.536Z",
+      "enriched": "2026-07-29T01:05:01.533Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研とQUICKが共同で、国内暗号資産交換業者の約定情報に基づく指数を算出・運営する体制へ移行し、「JPX-QUICKビットコイン指数」と「JPX-QUICKイーサリアム指数」を公表する。",
+        "金融機関・投資家等は、QUICKウェブサイト及びQUICK端末サービスから指数値・算出要領・参照取引所等の公開情報を取得し、国内暗号資産市場の動向把握に活用する。",
+        "2026年7月29日より指数名称を変更し共同運営開始、指数運営の公正性・透明性確保のため運営方針・算出要領を定めて公表（関連法令等の明記はなし）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "貸出約定平均金利（6月）",
+      "url": "https://www.boj.or.jp/statistics/dl/loan/yaku/yaku2606.pdf",
+      "date": "2026-07-28",
+      "detectedAt": "2026-07-29T01:04:56.536Z",
+      "enriched": "2026-07-29T01:05:01.532Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年6月の貸出約定平均金利について、国内銀行の短期新規貸出は1.452％、長期新規貸出は1.944％、総合1.767％を記録し、5月比でそれぞれ0.207、△0.122、0.057ポイント変動した。",
+        "日本銀行金融機構局が毎月末時点の新規貸出および既存貸出残高（ストック）の約定平均金利を、銀行種別（都市銀行、地方銀行、第二地方銀行、信用金庫等）および期間別（短期・長期）に集計・公表する統計調査である。",
+        "本統計は日本銀行が金融機構局として継続的に実施する定点観測で、毎月末現在のデータを翌月下旬に公表し、時系列統計データ検索サイトにも掲載される金融統計の一部。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "「投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令（案）」に対するパブリックコメントの実施の公表",
@@ -8629,6 +8659,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
+        "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "モルガン・スタンレー、イーサリアムとソラナのETP提供開始",
+        "url": "https://news.yahoo.co.jp/articles/cfa52168eed4f25be3deb6bfc2c1ee754ba8f8a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
         "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
         "source": "Yahoo",
@@ -8649,24 +8691,24 @@
       {
         "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
         "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
-        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
+        "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "モルガン・スタンレー、イーサリアムとソラナのETP提供開始",
+        "url": "https://news.yahoo.co.jp/articles/cfa52168eed4f25be3deb6bfc2c1ee754ba8f8a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
         "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
         "source": "Yahoo",
@@ -8687,24 +8729,24 @@
       {
         "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
         "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
-        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
+        "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "モルガン・スタンレー、イーサリアムとソラナのETP提供開始",
+        "url": "https://news.yahoo.co.jp/articles/cfa52168eed4f25be3deb6bfc2c1ee754ba8f8a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
         "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
         "source": "Yahoo",
@@ -8725,24 +8767,24 @@
       {
         "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
         "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
-        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
+        "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "モルガン・スタンレー、イーサリアムとソラナのETP提供開始",
+        "url": "https://news.yahoo.co.jp/articles/cfa52168eed4f25be3deb6bfc2c1ee754ba8f8a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
         "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
         "source": "Yahoo",
@@ -8765,21 +8807,15 @@
         "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/a7d436a49770071b1a837c01c08d2f1f401f2cfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと",
-        "url": "https://news.yahoo.co.jp/articles/19ceca96fac2d0d4b696878e09e85359bc410f0f",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
+        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "d払いを軸に金融サービスを統合 ドコモFG廣井社長が明かすドコモ回線と金融の連携構想 先日、国会でステーブルコインを含む暗号資産の法的な位置づけが変わりました。これまで資金決済法だったのが、金融商品取引法（金商法）になったのです。つまり、決済手段で",
         "url": "https://news.yahoo.co.jp/articles/e1387d1c60e23cc2567f3d57b3e7328f940db798",
@@ -8807,18 +8843,18 @@
       {
         "title": "中道・後藤氏「素直に認められた方が",
         "url": "https://news.yahoo.co.jp/articles/76896810ab622f553767a358b2dc58c9dcfc9df8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
-        "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
+        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "d払いを軸に金融サービスを統合 ドコモFG廣井社長が明かすドコモ回線と金融の連携構想 先日、国会でステーブルコインを含む暗号資産の法的な位置づけが変わりました。これまで資金決済法だったのが、金融商品取引法（金商法）になったのです。つまり、決済手段で",
         "url": "https://news.yahoo.co.jp/articles/e1387d1c60e23cc2567f3d57b3e7328f940db798",
         "source": "Yahoo",
@@ -8847,15 +8883,15 @@
         "url": "https://news.yahoo.co.jp/articles/76896810ab622f553767a358b2dc58c9dcfc9df8",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
-        "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
+        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
         "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
@@ -8883,18 +8919,18 @@
       {
         "title": "アンソロピックCEO、オープン型AI全面規制に反対－安全性試験を提唱",
         "url": "https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "セキュリタイズキャピタル、米SECに投資顧問業者として登録",
-        "url": "https://news.yahoo.co.jp/articles/dfd10c3e8dc0cc442811e44f5e745ad8f0eeaa8a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
+        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
         "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
         "source": "Yahoo",
@@ -8923,15 +8959,15 @@
         "url": "https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "セキュリタイズキャピタル、米SECに投資顧問業者として登録",
-        "url": "https://news.yahoo.co.jp/articles/dfd10c3e8dc0cc442811e44f5e745ad8f0eeaa8a",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
+        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "米上院共和党、クラリティ法案の最新草案を公表──倫理規定は2029年に失効",
         "url": "https://news.yahoo.co.jp/articles/e29654c9ea2d074d32ea5a27465ef0570f7577bb",
@@ -8959,18 +8995,18 @@
       {
         "title": "Revolut、UAEでの暗号資産サービス提供の原則承認を取得",
         "url": "https://news.yahoo.co.jp/articles/1058cbcfc9fdcb777215a253b619e6540a043164",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
-        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
+        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院共和党、クラリティ法案の最新草案を公表──倫理規定は2029年に失効",
         "url": "https://news.yahoo.co.jp/articles/e29654c9ea2d074d32ea5a27465ef0570f7577bb",
         "source": "Yahoo",
@@ -8997,12 +9033,6 @@
       {
         "title": "Revolut、UAEでの暗号資産サービス提供の原則承認を取得",
         "url": "https://news.yahoo.co.jp/articles/1058cbcfc9fdcb777215a253b619e6540a043164",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
-        "url": "https://news.yahoo.co.jp/articles/aaa1912b4cdb794e58d5529ac80b551a3d133dd8",
         "source": "Yahoo",
         "date": ""
       }
@@ -9085,6 +9115,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
+        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "上半期の暗号資産ハッキング被害10億ドル超──攻撃件数は過去最多＝Blockaid",
         "url": "https://news.yahoo.co.jp/articles/01c839625865bc1b1d2efce447c28f815c25d757",
         "source": "Yahoo",
@@ -9111,18 +9147,18 @@
       {
         "title": "AI時代の「人間証明」──Worldの日本トップに元Uber社長の髙橋氏、ステーブルコインに期待も",
         "url": "https://news.yahoo.co.jp/articles/fd4fab01014a24853308e5d8673c82a2b8f8fa0b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ウィミックスのステーブルコイン「WEMIX$」、約522万枚が不正発行",
-        "url": "https://news.yahoo.co.jp/articles/667b68fe010b3aa7647fbffd2bd51c103f83ea0f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
+        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "上半期の暗号資産ハッキング被害10億ドル超──攻撃件数は過去最多＝Blockaid",
         "url": "https://news.yahoo.co.jp/articles/01c839625865bc1b1d2efce447c28f815c25d757",
         "source": "Yahoo",
@@ -9149,12 +9185,6 @@
       {
         "title": "AI時代の「人間証明」──Worldの日本トップに元Uber社長の髙橋氏、ステーブルコインに期待も",
         "url": "https://news.yahoo.co.jp/articles/fd4fab01014a24853308e5d8673c82a2b8f8fa0b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ウィミックスのステーブルコイン「WEMIX$」、約522万枚が不正発行",
-        "url": "https://news.yahoo.co.jp/articles/667b68fe010b3aa7647fbffd2bd51c103f83ea0f",
         "source": "Yahoo",
         "date": ""
       }
