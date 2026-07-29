@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-07-29T01:04:56.536Z",
+  "generatedAt": "2026-07-29T04:52:12.363Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "会長記者会見の資料を公開しました",
+      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T04:52:12.363Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
+        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
+        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-29T04:52:17.609Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "令和8年熊本地震に係る災害等に対する金融上の措置について（熊本県）",
+      "url": "https://www.boj.or.jp/about/bcp/fso/fso260729a.pdf",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T04:52:12.363Z",
+      "enriched": "2026-07-29T04:52:17.609Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和8年熊本地震で災害救助法適用地域の被災者に対し、預貯金取扱金融機関等に通帳等紛失時の本人確認簡便化、定期預金の期限前払戻し、手形の不渡報告配慮、融資相談所開設や返済猶予等の措置を要請した。",
+        "証券会社は印鑑紛失時の払戻し応諾、有価証券紛失の再発行協力、預かり有価証券等の即日売却・解約代金払戻しを、生命保険会社等は保険証券紛失時の請求案内、保険金迅速支払い、保険料払込猶予期間延長を実施すること。",
+        "本措置は令和8年7月29日付で財務省九州財務局長・日本銀行熊本支店長から金融機関等に要請され、災害救助法適用地域追加時も同様に対応するよう求める。営業店舗は店頭掲示とホームページで顧客に周知徹底する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]銘柄別信用取引残高の日次配信サービスの提供開始について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/6020/20260729-01.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T04:52:12.363Z",
+      "enriched": "2026-07-29T04:52:17.610Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研が2026年9月28日から、東京証券取引所上場銘柄を対象に前営業日時点の銘柄別信用取引残高（売り・買い別、一般・制度別）を日次配信するサービスを新規提供開始。",
+        "情報利用者（証券会社・投資関連事業者等）はAPIやFTP・Snowflakeなど複数の配信方法からサービス契約を選択し、JPX総研と申込手続・契約締結が必要。",
+        "2026年12月末までの早期契約で2027年3月分まで利用料金を75%割引；詳細申込はJPX総研フロンティア戦略部（frontier-data@jpx.co.jp）に問い合わせ。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「個人投資家の証券投資に関する意識調査」（調査結果概要）を掲載しました",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojn_isiki.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T04:52:12.363Z",
+      "enriched": "2026-07-29T04:52:17.610Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が毎年実施している意識調査で、2026年4月に全国の有価証券保有者5,000名を対象にインターネット調査を実施し、株式保有率72.4%、投資信託67.2%、平均保有額1,125万円を把握した。",
+        "調査対象者のうち新NISA口座開設済は83.4%（30代以下は94.1%）であり、非利用理由は「NISA以外の口座を利用」22.0%、「日常支出が多く投資余裕がない」20.4%、「購入したい商品がない」16.1%で、証券会社は説明わかりやすさで改善の余地がある。",
+        "2040年に向けた有価証券保有希望額の平均は1,689万円で現在より564万円増加希望であり、証券会社等に求めるサービスは「わかりやすい情報提供」50.6%、「税制・手続きサポート」30.6%、「セキュリティ強化」28.3%が上位である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「新NISA白書2025」を掲載しました",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/shin-nisa-hakusyo/index.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T04:52:12.363Z",
+      "enriched": "2026-07-29T04:52:17.610Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2025年12月末のNISA口座数は2,821万口座で前年比1.1倍増加、累計買付額は71.4兆円で前年比1.4倍増加。うち2025年１年間の買付額は18.7兆円（つみたて投資枠6.2兆円・成長投資枠12.5兆円）。",
+        "金融機関は新NISA制度の利活用促進に取り組み、顧客に対して都道府県別のNISA口座数データを含む多角的な利用状況情報を提供。",
+        "日本証券業協会が2025年6月に初発刊した新NISA白書を更新版として2026年7月に発刊、2024年抜本改正後のNISA利用動向・市場動向を分析。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "一億総株主・国民総株主の理想を公開しました。",
+      "url": "https://www.jsda.or.jp/about/teigen/itiokusoukabunusi/index.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T04:52:12.363Z",
+      "enriched": "2026-07-29T04:52:17.610Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「個人株主の動向について」を公表しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojin_doukou.html",
+      "date": "2026-07-29",
+      "detectedAt": "2026-07-29T04:52:12.363Z",
+      "enriched": "2026-07-29T04:52:17.610Z",
+      "enrichV": 2
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[JPX総研]JPX-QUICK 暗号資産指数シリーズの共同運営について",
@@ -1851,22 +1945,6 @@
         "東京証券取引所規則に基づく新規上場銘柄の基準値段等決定により、2026年7月14日から同ETFの取引が開始される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "会長記者会見の要旨を公開しました",
-      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
-      "date": "2026-07-13",
-      "detectedAt": "2026-07-13T08:35:41.836Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
-        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
-        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-13T08:35:46.968Z"
     },
     {
       "agency": "日本銀行",
@@ -8659,6 +8737,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "「プロにしかできない投資方法」株式投資名目で1500万円詐取容疑の男逮捕",
+        "url": "https://news.yahoo.co.jp/articles/cddb55781156d63a8468a800efddd60a4119b25f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
         "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
         "source": "Yahoo",
@@ -8685,18 +8769,18 @@
       {
         "title": "PTS（私設電子取引システム）の取引所化とUTP（非上場取引特権）",
         "url": "https://news.yahoo.co.jp/articles/2a78915edc2bf0a9272d64604f0b197ef1eed57f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
-        "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "「プロにしかできない投資方法」株式投資名目で1500万円詐取容疑の男逮捕",
+        "url": "https://news.yahoo.co.jp/articles/cddb55781156d63a8468a800efddd60a4119b25f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
         "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
         "source": "Yahoo",
@@ -8723,18 +8807,18 @@
       {
         "title": "PTS（私設電子取引システム）の取引所化とUTP（非上場取引特権）",
         "url": "https://news.yahoo.co.jp/articles/2a78915edc2bf0a9272d64604f0b197ef1eed57f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
-        "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "「プロにしかできない投資方法」株式投資名目で1500万円詐取容疑の男逮捕",
+        "url": "https://news.yahoo.co.jp/articles/cddb55781156d63a8468a800efddd60a4119b25f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
         "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
         "source": "Yahoo",
@@ -8761,18 +8845,18 @@
       {
         "title": "PTS（私設電子取引システム）の取引所化とUTP（非上場取引特権）",
         "url": "https://news.yahoo.co.jp/articles/2a78915edc2bf0a9272d64604f0b197ef1eed57f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
-        "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "「プロにしかできない投資方法」株式投資名目で1500万円詐取容疑の男逮捕",
+        "url": "https://news.yahoo.co.jp/articles/cddb55781156d63a8468a800efddd60a4119b25f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
         "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
         "source": "Yahoo",
@@ -8799,12 +8883,6 @@
       {
         "title": "PTS（私設電子取引システム）の取引所化とUTP（非上場取引特権）",
         "url": "https://news.yahoo.co.jp/articles/2a78915edc2bf0a9272d64604f0b197ef1eed57f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "夫口座で1億円超の株購入､インサイダーに墜ちた妻の末路",
-        "url": "https://news.yahoo.co.jp/articles/495af10a83e8dab6700b03dfd64743ecb99e0a66",
         "source": "Yahoo",
         "date": ""
       }
@@ -8887,6 +8965,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "モルガンスタンレー、イーサリアム（ETH）・ソラナ（SOL）連動ETPをNYSEアーカに上場",
+        "url": "https://news.yahoo.co.jp/articles/1b4789875bb05a432fb3518e4abe5b925c2c27b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハッシュキー、地域別サービスの入口を統合した新アプリ提供開始",
+        "url": "https://news.yahoo.co.jp/articles/8e3f9801e6b2a8504c72a03c582793d26326d53a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
         "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
         "source": "Yahoo",
@@ -8907,24 +8997,24 @@
       {
         "title": "Strategyがビットコインを買わなかった理由──「買い控え」ではなく次の一手に備えた資金戦略か【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/c048643c33598f1da09e1f32c9b04f397af19f7f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッド、クリプトドットコムと予測市場で提携協議か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/55910ed462ebc17d79a27fe2eb65d57e74f9cafe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンソロピックCEO、オープン型AI全面規制に反対－安全性試験を提唱",
-        "url": "https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "モルガンスタンレー、イーサリアム（ETH）・ソラナ（SOL）連動ETPをNYSEアーカに上場",
+        "url": "https://news.yahoo.co.jp/articles/1b4789875bb05a432fb3518e4abe5b925c2c27b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハッシュキー、地域別サービスの入口を統合した新アプリ提供開始",
+        "url": "https://news.yahoo.co.jp/articles/8e3f9801e6b2a8504c72a03c582793d26326d53a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
         "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
         "source": "Yahoo",
@@ -8945,18 +9035,6 @@
       {
         "title": "Strategyがビットコインを買わなかった理由──「買い控え」ではなく次の一手に備えた資金戦略か【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/c048643c33598f1da09e1f32c9b04f397af19f7f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッド、クリプトドットコムと予測市場で提携協議か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/55910ed462ebc17d79a27fe2eb65d57e74f9cafe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンソロピックCEO、オープン型AI全面規制に反対－安全性試験を提唱",
-        "url": "https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5",
         "source": "Yahoo",
         "date": ""
       }
@@ -9115,6 +9193,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ソニー銀行、音楽カタログ投資向け米ドル建デジタル証券の募集開始。予定配当率年3.5％",
+        "url": "https://news.yahoo.co.jp/articles/95d3bab95b8c513f2037070be26919e86e7e5016",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
         "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
         "source": "Yahoo",
@@ -9141,18 +9225,18 @@
       {
         "title": "米ビザが2600人削減へ、全社員の7%相当－競争激化受け効率化推進",
         "url": "https://news.yahoo.co.jp/articles/ad30b5d35173c6c97ef8859542272f79164d6e77",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI時代の「人間証明」──Worldの日本トップに元Uber社長の髙橋氏、ステーブルコインに期待も",
-        "url": "https://news.yahoo.co.jp/articles/fd4fab01014a24853308e5d8673c82a2b8f8fa0b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ソニー銀行、音楽カタログ投資向け米ドル建デジタル証券の募集開始。予定配当率年3.5％",
+        "url": "https://news.yahoo.co.jp/articles/95d3bab95b8c513f2037070be26919e86e7e5016",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
         "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
         "source": "Yahoo",
@@ -9179,12 +9263,6 @@
       {
         "title": "米ビザが2600人削減へ、全社員の7%相当－競争激化受け効率化推進",
         "url": "https://news.yahoo.co.jp/articles/ad30b5d35173c6c97ef8859542272f79164d6e77",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI時代の「人間証明」──Worldの日本トップに元Uber社長の髙橋氏、ステーブルコインに期待も",
-        "url": "https://news.yahoo.co.jp/articles/fd4fab01014a24853308e5d8673c82a2b8f8fa0b",
         "source": "Yahoo",
         "date": ""
       }
@@ -9905,6 +9983,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "ADOR、NewJeansハニのビザ情報流出で告発される",
+        "url": "https://news.yahoo.co.jp/articles/dbb067d1dcbfd71a27eaed8b5d05730bd67cc41f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "NewJeans ハニのビザ情報流出の疑い",
         "url": "https://news.yahoo.co.jp/articles/4e9b5cd182ff22e8a52f1056f9bf670c2eeed50e",
         "source": "Yahoo",
@@ -9931,18 +10015,18 @@
       {
         "title": "中国勢AIを「単なる安い代替品」と考えると見誤る、アメリカ勢との“性能の差”近づいている？どう使い分けるのが正解か",
         "url": "https://news.yahoo.co.jp/articles/fa38a485289526d87ea2170bac406bede00277f0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自部隊の情報収集 「愛国心や性的嗜好は記録する必要ない」「身分隠して収集なら違憲の疑い」 木村草太・東京都立大教授に聞く",
-        "url": "https://news.yahoo.co.jp/articles/e1fddf422f1b4c086f5c80c1870454980deaab47",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "ADOR、NewJeansハニのビザ情報流出で告発される",
+        "url": "https://news.yahoo.co.jp/articles/dbb067d1dcbfd71a27eaed8b5d05730bd67cc41f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "NewJeans ハニのビザ情報流出の疑い",
         "url": "https://news.yahoo.co.jp/articles/4e9b5cd182ff22e8a52f1056f9bf670c2eeed50e",
         "source": "Yahoo",
@@ -9969,18 +10053,18 @@
       {
         "title": "中国勢AIを「単なる安い代替品」と考えると見誤る、アメリカ勢との“性能の差”近づいている？どう使い分けるのが正解か",
         "url": "https://news.yahoo.co.jp/articles/fa38a485289526d87ea2170bac406bede00277f0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自部隊の情報収集 「愛国心や性的嗜好は記録する必要ない」「身分隠して収集なら違憲の疑い」 木村草太・東京都立大教授に聞く",
-        "url": "https://news.yahoo.co.jp/articles/e1fddf422f1b4c086f5c80c1870454980deaab47",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "ADOR、NewJeansハニのビザ情報流出で告発される",
+        "url": "https://news.yahoo.co.jp/articles/dbb067d1dcbfd71a27eaed8b5d05730bd67cc41f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "NewJeans ハニのビザ情報流出の疑い",
         "url": "https://news.yahoo.co.jp/articles/4e9b5cd182ff22e8a52f1056f9bf670c2eeed50e",
         "source": "Yahoo",
@@ -10007,12 +10091,6 @@
       {
         "title": "中国勢AIを「単なる安い代替品」と考えると見誤る、アメリカ勢との“性能の差”近づいている？どう使い分けるのが正解か",
         "url": "https://news.yahoo.co.jp/articles/fa38a485289526d87ea2170bac406bede00277f0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自部隊の情報収集 「愛国心や性的嗜好は記録する必要ない」「身分隠して収集なら違憲の疑い」 木村草太・東京都立大教授に聞く",
-        "url": "https://news.yahoo.co.jp/articles/e1fddf422f1b4c086f5c80c1870454980deaab47",
         "source": "Yahoo",
         "date": ""
       }
