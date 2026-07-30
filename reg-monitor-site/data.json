@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-07-30T07:18:17.612Z",
+  "generatedAt": "2026-07-30T10:01:56.412Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "第２回「2040年に向けた我が国金融資本市場のビジョンについての懇談会」（2026年７月23日）を開催いたしました",
+      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
+      "date": "2026-07-30",
+      "detectedAt": "2026-07-30T10:01:56.412Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
+        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
+        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-30T10:02:01.262Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の基準値段等：Ｏｎｅ ＥＴＦ 日本国債 ２７－３０年（コード611A）等2銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260730-01.html",
+      "date": "2026-07-30",
+      "detectedAt": "2026-07-30T10:01:56.412Z",
+      "enriched": "2026-07-30T10:02:01.262Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月31日、OneETF日本国債27-30年（611A）と日本国債先負連動指数（612A）の2銘柄がETFとして東証に新規上場。",
+        "取引参加者および投資家は、611Aの基準値段1,000円（変動幅700～1,300円）、612Aの基準値段10,000円（変動幅7,000～13,000円）、売買単位10口で取引開始。",
+        "2026年7月31日施行、東京証券取引所規則に基づくETFとしての基準値段・値段上限下限値の公表。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：ｎｍｓ ホールディングス（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260730-11.html",
+      "date": "2026-07-30",
+      "detectedAt": "2026-07-30T10:01:56.412Z",
+      "enriched": "2026-07-30T10:02:01.262Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "nmsホールディングス（株）は特別支配株主による株式等売渡請求により上場廃止となり、2026年7月30日から8月27日まで整理銘柄に指定され、8月28日付で東証スタンダード市場から廃止される（有価証券上場規程601条1項17号）。",
+        "同社株式は2026年7月31日以降、信用取引・発行日決済取引の委託保証金、売買証拠金、取引参加者保証金、信認金の代用有価証券から除外される。",
+        "速やかに上場廃止すべき事情が発生した場合は整理銘柄指定期間と上場廃止日が変更されることがある。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "ゼネテック（4492）",
@@ -2938,21 +2984,6 @@
         "株式会社日本取引所グループが2026年4月28日の取締役会決議に基づき、会社法第459条第1項の定款規定に基づく自己株式取得を実施し、2026年7月7日の買付をもって全て終了した。",
         "同社は2026年7月1日～7月7日に東京証券取引所の市場買付けにより普通株式1,794,100株を取得し、取得価額総額は3,841,183,900円である。",
         "本取得決議の上限は40,000,000株（発行済株式総数対比3.9%）で200億円、取得期間は2026年6月1日～10月26日（決算期末の5営業日前～末日を除く）に設定されていた。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "第１回「2040年に向けた我が国金融資本市場のビジョンについての懇談会」を開催いたしました",
-      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
-      "date": "2026-07-07",
-      "detectedAt": "2026-07-07T10:08:32.415Z",
-      "enriched": "2026-07-07T10:08:37.969Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
-        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
-        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
       ],
       "aiSumV": 3
     },
@@ -9186,6 +9217,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "バイナンス、金・銀連動オプションを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/e147306fa2b3393a95f15168a155deadea6e48c8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+        "url": "https://news.yahoo.co.jp/articles/eb2bf9fee5f16ef8f5c062e37fa2b9d6d2a0833c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+        "url": "https://news.yahoo.co.jp/articles/fcc9220a3f628e19083064e5672f92f1e5f09a1b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日立、デジタル資産取引におけるAML実証実施。実務適用可能性を確認",
         "url": "https://news.yahoo.co.jp/articles/f23720b63d2cbfde26239ba68cf7eb012a7b8f79",
         "source": "Yahoo",
@@ -9200,30 +9249,30 @@
       {
         "title": "ゲートUS、ビットゴーのオフエクスチェンジ決済「OES」に参加",
         "url": "https://news.yahoo.co.jp/articles/4b5e17cdf923d7bcb3d239251dd670f62ef5924b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "エミレーツ航空、「Crypto[.]com Pay」導入。UAE居住者向けディルハム建て予約に対応",
-        "url": "https://news.yahoo.co.jp/articles/98b0c94f444822d3ba644dc375a1fd89fdd198cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "XRP、FRB据え置き後に主要10銘柄で上昇率トップ──XRPLで修正アメンドメント有効化【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/7798a88af9ca2f3018c91034e67692579bd2f74f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化資産の時価総額が66億ドルに急成長＝CoinGecko",
-        "url": "https://news.yahoo.co.jp/articles/19664d22c931ba78449a9c0a80f9429c5c28cf91",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "バイナンス、金・銀連動オプションを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/e147306fa2b3393a95f15168a155deadea6e48c8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+        "url": "https://news.yahoo.co.jp/articles/eb2bf9fee5f16ef8f5c062e37fa2b9d6d2a0833c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+        "url": "https://news.yahoo.co.jp/articles/fcc9220a3f628e19083064e5672f92f1e5f09a1b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日立、デジタル資産取引におけるAML実証実施。実務適用可能性を確認",
         "url": "https://news.yahoo.co.jp/articles/f23720b63d2cbfde26239ba68cf7eb012a7b8f79",
         "source": "Yahoo",
@@ -9238,24 +9287,6 @@
       {
         "title": "ゲートUS、ビットゴーのオフエクスチェンジ決済「OES」に参加",
         "url": "https://news.yahoo.co.jp/articles/4b5e17cdf923d7bcb3d239251dd670f62ef5924b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "エミレーツ航空、「Crypto[.]com Pay」導入。UAE居住者向けディルハム建て予約に対応",
-        "url": "https://news.yahoo.co.jp/articles/98b0c94f444822d3ba644dc375a1fd89fdd198cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "XRP、FRB据え置き後に主要10銘柄で上昇率トップ──XRPLで修正アメンドメント有効化【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/7798a88af9ca2f3018c91034e67692579bd2f74f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化資産の時価総額が66億ドルに急成長＝CoinGecko",
-        "url": "https://news.yahoo.co.jp/articles/19664d22c931ba78449a9c0a80f9429c5c28cf91",
         "source": "Yahoo",
         "date": ""
       }
@@ -9338,6 +9369,12 @@
     ],
     "422M60000002003": [
       {
+        "title": "0:35【独自】JAL系の保険サイトが保険業法違反か「ポイント特典」でサービス停止",
+        "url": "https://news.yahoo.co.jp/articles/e22688dceb0ae4961dd168b12ef37eb7c5a87a93",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "PS5版『GTA6』日本向けパッケージ版のコードは発売170日後に失効するので注意―期限付きになっている理由とは",
         "url": "https://news.yahoo.co.jp/articles/9ec180b5540bf16360e18247737099740642002a",
         "source": "Yahoo",
@@ -9364,18 +9401,18 @@
       {
         "title": "「MIXI M」残高の払い戻し期限は3月6日15時まで #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/ba8ce2d2e21fccc68e99f7677395e45960d54a42",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "“勝手に広がる”エコシステムが醍醐味、AI時代のデジタル円へ──JPYC岡部氏が語るステーブルコイン最前線【GFTN 2026】",
-        "url": "https://news.yahoo.co.jp/articles/4b679ec723e7156e76a831c2f07c376355336560",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-05": [
       {
+        "title": "0:35【独自】JAL系の保険サイトが保険業法違反か「ポイント特典」でサービス停止",
+        "url": "https://news.yahoo.co.jp/articles/e22688dceb0ae4961dd168b12ef37eb7c5a87a93",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "PS5版『GTA6』日本向けパッケージ版のコードは発売170日後に失効するので注意―期限付きになっている理由とは",
         "url": "https://news.yahoo.co.jp/articles/9ec180b5540bf16360e18247737099740642002a",
         "source": "Yahoo",
@@ -9404,15 +9441,33 @@
         "url": "https://news.yahoo.co.jp/expert/articles/ba8ce2d2e21fccc68e99f7677395e45960d54a42",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "“勝手に広がる”エコシステムが醍醐味、AI時代のデジタル円へ──JPYC岡部氏が語るステーブルコイン最前線【GFTN 2026】",
-        "url": "https://news.yahoo.co.jp/articles/4b679ec723e7156e76a831c2f07c376355336560",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "505M60000002048": [
+      {
+        "title": "バイナンス、金・銀連動オプションを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/e147306fa2b3393a95f15168a155deadea6e48c8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
+        "url": "https://news.yahoo.co.jp/articles/7c2598062ccb3fba11e2cfeebd6ffa56c68aa443",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+        "url": "https://news.yahoo.co.jp/articles/eb2bf9fee5f16ef8f5c062e37fa2b9d6d2a0833c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+        "url": "https://news.yahoo.co.jp/articles/fcc9220a3f628e19083064e5672f92f1e5f09a1b",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
         "url": "https://news.yahoo.co.jp/articles/99dbd51001a4d3d14b0a0e4100dedd38c01f6150",
@@ -9422,36 +9477,36 @@
       {
         "title": "日立、デジタルアセット取引向けマネロン対策サービスを10月提供へ",
         "url": "https://news.yahoo.co.jp/articles/954a9bc241309798abd346c8c8f1676a86b9be79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ケネディクスら、ステーブルコインでデジタル証券を即時決済へ＝日経",
-        "url": "https://news.yahoo.co.jp/articles/ac56c6b3a5d18a6a8b2f11e0e1fc7084677e2fdb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日立、デジタル資産取引におけるAML実証実施。実務適用可能性を確認",
-        "url": "https://news.yahoo.co.jp/articles/f23720b63d2cbfde26239ba68cf7eb012a7b8f79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "XRP、FRB据え置き後に主要10銘柄で上昇率トップ──XRPLで修正アメンドメント有効化【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/7798a88af9ca2f3018c91034e67692579bd2f74f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道",
-        "url": "https://news.yahoo.co.jp/articles/bd45225a78ab4f2ca25e9509d068795729608714",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "バイナンス、金・銀連動オプションを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/e147306fa2b3393a95f15168a155deadea6e48c8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
+        "url": "https://news.yahoo.co.jp/articles/7c2598062ccb3fba11e2cfeebd6ffa56c68aa443",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+        "url": "https://news.yahoo.co.jp/articles/eb2bf9fee5f16ef8f5c062e37fa2b9d6d2a0833c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+        "url": "https://news.yahoo.co.jp/articles/fcc9220a3f628e19083064e5672f92f1e5f09a1b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
         "url": "https://news.yahoo.co.jp/articles/99dbd51001a4d3d14b0a0e4100dedd38c01f6150",
         "source": "Yahoo",
@@ -9460,30 +9515,6 @@
       {
         "title": "日立、デジタルアセット取引向けマネロン対策サービスを10月提供へ",
         "url": "https://news.yahoo.co.jp/articles/954a9bc241309798abd346c8c8f1676a86b9be79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ケネディクスら、ステーブルコインでデジタル証券を即時決済へ＝日経",
-        "url": "https://news.yahoo.co.jp/articles/ac56c6b3a5d18a6a8b2f11e0e1fc7084677e2fdb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日立、デジタル資産取引におけるAML実証実施。実務適用可能性を確認",
-        "url": "https://news.yahoo.co.jp/articles/f23720b63d2cbfde26239ba68cf7eb012a7b8f79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "XRP、FRB据え置き後に主要10銘柄で上昇率トップ──XRPLで修正アメンドメント有効化【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/7798a88af9ca2f3018c91034e67692579bd2f74f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道",
-        "url": "https://news.yahoo.co.jp/articles/bd45225a78ab4f2ca25e9509d068795729608714",
         "source": "Yahoo",
         "date": ""
       }
