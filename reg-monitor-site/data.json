@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-30T03:44:17.735Z",
+  "generatedAt": "2026-07-30T07:18:17.612Z",
   "items": [
     {
       "agency": "日本取引所グループ",
-      "title": "フューチャー（4722）",
+      "title": "ゼネテック（4492）",
       "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-07-29",
-      "detectedAt": "2026-07-29T11:07:27.009Z",
+      "date": "2026-07-30",
+      "detectedAt": "2026-07-30T07:18:17.612Z",
       "enrichV": 2,
       "aiSummary": [
         "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
@@ -15,7 +15,54 @@
       ],
       "aiSumV": 3,
       "updated": true,
-      "enriched": "2026-07-29T11:07:32.259Z"
+      "enriched": "2026-07-30T07:18:27.461Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：山八商事（株）",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-07-30",
+      "detectedAt": "2026-07-30T07:18:17.612Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-30T07:18:27.461Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-07-30",
+      "detectedAt": "2026-07-30T07:18:17.612Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-07-30T07:18:27.461Z"
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "懲戒 会員の懲戒処分について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260730fcj.html",
+      "date": "2026-07-30",
+      "detectedAt": "2026-07-30T07:18:17.612Z",
+      "enriched": "2026-07-30T07:18:27.462Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "継続的専門能力開発制度の義務不履行が3年度連続となった会員16名に対し、2026年7月30日付で退会勧告の懲戒処分を実施。会則第67条第1項第6号該当。",
+        "対象会員は2022～2024年度に必要単位数の履修報告を怠り、協会からの指示に従わなかったため、退会するまで協会会員としての権利が停止される。",
+        "懲戒事由の改善が確認されれば会長が退会勧告の効力を解除可能（会則第69条第4項）。公認会計士業務自体は制限されない。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "金融庁",
@@ -809,22 +856,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）数理技研",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-07-24",
-      "detectedAt": "2026-07-24T07:56:55.545Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-24T07:57:01.670Z"
-    },
-    {
       "agency": "日本銀行",
       "title": "金融システムレポート別冊「2025年度の銀行・信用金庫決算」",
       "url": "https://www.boj.or.jp/research/brp/fsr/fsrb260724.htm",
@@ -933,22 +964,6 @@
         "改正監督指針は2026年8月3日から適用。対象は中小・地域金融機関、主要行、系統金融機関、漁協系統信用事業。パブリックコメント結果を踏まえ最終化。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-07-23",
-      "detectedAt": "2026-07-23T07:59:39.838Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-23T07:59:45.526Z"
     },
     {
       "agency": "日本銀行",
@@ -9171,6 +9186,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "日立、デジタル資産取引におけるAML実証実施。実務適用可能性を確認",
+        "url": "https://news.yahoo.co.jp/articles/f23720b63d2cbfde26239ba68cf7eb012a7b8f79",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロシア、テロ捜査を巡りTelegram創業者パベル・ドゥーロフ氏を国際指名手配",
+        "url": "https://news.yahoo.co.jp/articles/768bc3093a029f76cd31babc00168fa98c1e693a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ゲートUS、ビットゴーのオフエクスチェンジ決済「OES」に参加",
+        "url": "https://news.yahoo.co.jp/articles/4b5e17cdf923d7bcb3d239251dd670f62ef5924b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "エミレーツ航空、「Crypto[.]com Pay」導入。UAE居住者向けディルハム建て予約に対応",
         "url": "https://news.yahoo.co.jp/articles/98b0c94f444822d3ba644dc375a1fd89fdd198cd",
         "source": "Yahoo",
@@ -9185,30 +9218,30 @@
       {
         "title": "トークン化資産の時価総額が66億ドルに急成長＝CoinGecko",
         "url": "https://news.yahoo.co.jp/articles/19664d22c931ba78449a9c0a80f9429c5c28cf91",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道",
-        "url": "https://news.yahoo.co.jp/articles/bd45225a78ab4f2ca25e9509d068795729608714",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米検察団体、クラリティ法案の変更を提案＝報道",
-        "url": "https://news.yahoo.co.jp/articles/a47c2cd18701f35b2a5beef2fa154497527bc515",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Anchorage、FRBの新決済口座案は「マスターアカウントの代替にならず」",
-        "url": "https://news.yahoo.co.jp/articles/24662b2470f64a1226dfd9ee9d40f909ac65f2c6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "日立、デジタル資産取引におけるAML実証実施。実務適用可能性を確認",
+        "url": "https://news.yahoo.co.jp/articles/f23720b63d2cbfde26239ba68cf7eb012a7b8f79",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロシア、テロ捜査を巡りTelegram創業者パベル・ドゥーロフ氏を国際指名手配",
+        "url": "https://news.yahoo.co.jp/articles/768bc3093a029f76cd31babc00168fa98c1e693a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ゲートUS、ビットゴーのオフエクスチェンジ決済「OES」に参加",
+        "url": "https://news.yahoo.co.jp/articles/4b5e17cdf923d7bcb3d239251dd670f62ef5924b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "エミレーツ航空、「Crypto[.]com Pay」導入。UAE居住者向けディルハム建て予約に対応",
         "url": "https://news.yahoo.co.jp/articles/98b0c94f444822d3ba644dc375a1fd89fdd198cd",
         "source": "Yahoo",
@@ -9223,24 +9256,6 @@
       {
         "title": "トークン化資産の時価総額が66億ドルに急成長＝CoinGecko",
         "url": "https://news.yahoo.co.jp/articles/19664d22c931ba78449a9c0a80f9429c5c28cf91",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道",
-        "url": "https://news.yahoo.co.jp/articles/bd45225a78ab4f2ca25e9509d068795729608714",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米検察団体、クラリティ法案の変更を提案＝報道",
-        "url": "https://news.yahoo.co.jp/articles/a47c2cd18701f35b2a5beef2fa154497527bc515",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Anchorage、FRBの新決済口座案は「マスターアカウントの代替にならず」",
-        "url": "https://news.yahoo.co.jp/articles/24662b2470f64a1226dfd9ee9d40f909ac65f2c6",
         "source": "Yahoo",
         "date": ""
       }
@@ -9399,6 +9414,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+        "url": "https://news.yahoo.co.jp/articles/99dbd51001a4d3d14b0a0e4100dedd38c01f6150",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日立、デジタルアセット取引向けマネロン対策サービスを10月提供へ",
+        "url": "https://news.yahoo.co.jp/articles/954a9bc241309798abd346c8c8f1676a86b9be79",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ケネディクスら、ステーブルコインでデジタル証券を即時決済へ＝日経",
+        "url": "https://news.yahoo.co.jp/articles/ac56c6b3a5d18a6a8b2f11e0e1fc7084677e2fdb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日立、デジタル資産取引におけるAML実証実施。実務適用可能性を確認",
+        "url": "https://news.yahoo.co.jp/articles/f23720b63d2cbfde26239ba68cf7eb012a7b8f79",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "XRP、FRB据え置き後に主要10銘柄で上昇率トップ──XRPLで修正アメンドメント有効化【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/7798a88af9ca2f3018c91034e67692579bd2f74f",
         "source": "Yahoo",
@@ -9407,36 +9446,36 @@
       {
         "title": "米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道",
         "url": "https://news.yahoo.co.jp/articles/bd45225a78ab4f2ca25e9509d068795729608714",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーン、「KuraPrivacy」のAPIをテストネットで提供開始。企業の秘匿送金導入を支援",
-        "url": "https://news.yahoo.co.jp/articles/a42de9c7542e9ba1a97aefd4442b533efe9217be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金裏付けトークン「テザーゴールド（XAUT）」、シャリア準拠認証を取得。イスラム金融での活用拡大を後押し",
-        "url": "https://news.yahoo.co.jp/articles/67381c1a1161bc02e92363f41402112aedab603a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、ケニアのナイロビ証券取引所とMoU締結。証券トークン化や即時決済を検討",
-        "url": "https://news.yahoo.co.jp/articles/f497265fa113ce08a76eaf0a02cf144cef3d41fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサシステムズ、金融機関のパブリックブロックチェーン活用へプライバシー技術が不可欠と指摘＝報道",
-        "url": "https://news.yahoo.co.jp/articles/3fc43ee3f80f7f3e7eecf82aa6921258474f8ce7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+        "url": "https://news.yahoo.co.jp/articles/99dbd51001a4d3d14b0a0e4100dedd38c01f6150",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日立、デジタルアセット取引向けマネロン対策サービスを10月提供へ",
+        "url": "https://news.yahoo.co.jp/articles/954a9bc241309798abd346c8c8f1676a86b9be79",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ケネディクスら、ステーブルコインでデジタル証券を即時決済へ＝日経",
+        "url": "https://news.yahoo.co.jp/articles/ac56c6b3a5d18a6a8b2f11e0e1fc7084677e2fdb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日立、デジタル資産取引におけるAML実証実施。実務適用可能性を確認",
+        "url": "https://news.yahoo.co.jp/articles/f23720b63d2cbfde26239ba68cf7eb012a7b8f79",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "XRP、FRB据え置き後に主要10銘柄で上昇率トップ──XRPLで修正アメンドメント有効化【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/7798a88af9ca2f3018c91034e67692579bd2f74f",
         "source": "Yahoo",
@@ -9447,33 +9486,15 @@
         "url": "https://news.yahoo.co.jp/articles/bd45225a78ab4f2ca25e9509d068795729608714",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "データチェーン、「KuraPrivacy」のAPIをテストネットで提供開始。企業の秘匿送金導入を支援",
-        "url": "https://news.yahoo.co.jp/articles/a42de9c7542e9ba1a97aefd4442b533efe9217be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金裏付けトークン「テザーゴールド（XAUT）」、シャリア準拠認証を取得。イスラム金融での活用拡大を後押し",
-        "url": "https://news.yahoo.co.jp/articles/67381c1a1161bc02e92363f41402112aedab603a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、ケニアのナイロビ証券取引所とMoU締結。証券トークン化や即時決済を検討",
-        "url": "https://news.yahoo.co.jp/articles/f497265fa113ce08a76eaf0a02cf144cef3d41fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサシステムズ、金融機関のパブリックブロックチェーン活用へプライバシー技術が不可欠と指摘＝報道",
-        "url": "https://news.yahoo.co.jp/articles/3fc43ee3f80f7f3e7eecf82aa6921258474f8ce7",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "「マネーロンダリングの犯人を逮捕した」松本市の男性 4240万円電話でお金詐欺被害",
+        "url": "https://news.yahoo.co.jp/articles/ad9a4ec8dd411f36fd98f395d079da3b870d47b9",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「だまされて加担」でも送検、有罪の見込みがなくても逮捕!? 警察が乱発する\"無理筋逮捕\"に正義はあるのか？",
         "url": "https://news.yahoo.co.jp/articles/b6bc9207871fea079865dc66bfd1fa635aee3401",
@@ -9501,18 +9522,18 @@
       {
         "title": "父の遺品整理をしていたら、金庫から「500万円」の現金が出てきました。銀行に預けようとしたら窓口で「税務署に",
         "url": "https://news.yahoo.co.jp/articles/e2a7c3a10e6ccc8e03a3c2dc58c5a5c6912082d6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
-        "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "「マネーロンダリングの犯人を逮捕した」松本市の男性 4240万円電話でお金詐欺被害",
+        "url": "https://news.yahoo.co.jp/articles/ad9a4ec8dd411f36fd98f395d079da3b870d47b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「だまされて加担」でも送検、有罪の見込みがなくても逮捕!? 警察が乱発する\"無理筋逮捕\"に正義はあるのか？",
         "url": "https://news.yahoo.co.jp/articles/b6bc9207871fea079865dc66bfd1fa635aee3401",
         "source": "Yahoo",
@@ -9539,18 +9560,18 @@
       {
         "title": "父の遺品整理をしていたら、金庫から「500万円」の現金が出てきました。銀行に預けようとしたら窓口で「税務署に",
         "url": "https://news.yahoo.co.jp/articles/e2a7c3a10e6ccc8e03a3c2dc58c5a5c6912082d6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
-        "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "「マネーロンダリングの犯人を逮捕した」松本市の男性 4240万円電話でお金詐欺被害",
+        "url": "https://news.yahoo.co.jp/articles/ad9a4ec8dd411f36fd98f395d079da3b870d47b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「だまされて加担」でも送検、有罪の見込みがなくても逮捕!? 警察が乱発する\"無理筋逮捕\"に正義はあるのか？",
         "url": "https://news.yahoo.co.jp/articles/b6bc9207871fea079865dc66bfd1fa635aee3401",
         "source": "Yahoo",
@@ -9577,12 +9598,6 @@
       {
         "title": "父の遺品整理をしていたら、金庫から「500万円」の現金が出てきました。銀行に預けようとしたら窓口で「税務署に",
         "url": "https://news.yahoo.co.jp/articles/e2a7c3a10e6ccc8e03a3c2dc58c5a5c6912082d6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高齢者が被害者に⁉ 心理学で読み解く特殊詐欺のメカニズム それを見透かすように、警察官はAさんが持つ金融資産の残高を答えさせ、「その全額を一時的に金融庁が指定する口座に移してください」と誘導します。Aさんは言われたとおりにし",
-        "url": "https://news.yahoo.co.jp/articles/3e14c212f2e3714c1522e25b88368c6bddbd62ca",
         "source": "Yahoo",
         "date": ""
       }
