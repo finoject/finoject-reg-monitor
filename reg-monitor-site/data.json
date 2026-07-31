@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-30T22:43:57.330Z",
+  "generatedAt": "2026-07-31T01:09:55.207Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "総裁記者会見ライブ配信（7月31日15時30分予定）",
+      "url": "https://www.boj.or.jp/about/release/sousailive.htm",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T01:09:55.207Z",
+      "enriched": "2026-07-31T01:09:59.494Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行総裁記者会見を7月31日15時30分から日本銀行動画チャンネル（YouTube）でライブ配信予定",
+        "金融市場関係者・メディア等が記者会見の内容をリアルタイムで視聴可能",
+        "配信予定日時：2026年7月31日15時30分から（日本銀行動画チャンネルYouTube）"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "移転制限が付された暗号資産の情報提供及び公表に関する規則第5条第3項に基づく公表について更新しました。",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260731-001/",
+      "date": "2026-07-30",
+      "detectedAt": "2026-07-31T01:09:55.207Z",
+      "enriched": "2026-07-31T01:10:01.485Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEAは移転制限が付された暗号資産の情報提供及び公表に関する規則第5条第3項に基づく公表内容を2026年7月31日付で更新した。",
+        "会員及び利用者は当該規則第5条第3項に基づく公表について詳細ページより最新情報を確認する必要がある。",
+        "本件は統計情報・取扱銘柄関連の情報提供制度に関わり、JVCEA規則に基づく公表義務に対応するもの。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "第２回「2040年に向けた我が国金融資本市場のビジョンについての懇談会」（2026年７月23日）を開催いたしました",
@@ -9217,6 +9247,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米コインベースは3期連続の最終赤字、暗号資産低迷長期化で取引減",
+        "url": "https://news.yahoo.co.jp/articles/2d38dc698a2d6c61a1c4bb49b564b3ad63e38c33",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ベッセント米財務長官、クラリティ法案の採決を要求",
         "url": "https://news.yahoo.co.jp/articles/1e4dbddf4df944b0bdfbca43005f52e98fb483b5",
         "source": "Yahoo",
@@ -9243,18 +9279,18 @@
       {
         "title": "バイナンス、金・銀連動オプションを提供開始",
         "url": "https://news.yahoo.co.jp/articles/e147306fa2b3393a95f15168a155deadea6e48c8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
-        "url": "https://news.yahoo.co.jp/articles/eb2bf9fee5f16ef8f5c062e37fa2b9d6d2a0833c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米コインベースは3期連続の最終赤字、暗号資産低迷長期化で取引減",
+        "url": "https://news.yahoo.co.jp/articles/2d38dc698a2d6c61a1c4bb49b564b3ad63e38c33",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ベッセント米財務長官、クラリティ法案の採決を要求",
         "url": "https://news.yahoo.co.jp/articles/1e4dbddf4df944b0bdfbca43005f52e98fb483b5",
         "source": "Yahoo",
@@ -9281,12 +9317,6 @@
       {
         "title": "バイナンス、金・銀連動オプションを提供開始",
         "url": "https://news.yahoo.co.jp/articles/e147306fa2b3393a95f15168a155deadea6e48c8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
-        "url": "https://news.yahoo.co.jp/articles/eb2bf9fee5f16ef8f5c062e37fa2b9d6d2a0833c",
         "source": "Yahoo",
         "date": ""
       }
@@ -9445,6 +9475,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+        "url": "https://news.yahoo.co.jp/articles/f49f91a5f4987d5f870cfb66e3321c1de4d7c320",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk",
         "url": "https://news.yahoo.co.jp/articles/2265e959aacdc165aa868e9e7fc444de1b0ffe31",
         "source": "Yahoo",
@@ -9471,18 +9507,18 @@
       {
         "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
         "url": "https://news.yahoo.co.jp/articles/eb2bf9fee5f16ef8f5c062e37fa2b9d6d2a0833c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
-        "url": "https://news.yahoo.co.jp/articles/fcc9220a3f628e19083064e5672f92f1e5f09a1b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+        "url": "https://news.yahoo.co.jp/articles/f49f91a5f4987d5f870cfb66e3321c1de4d7c320",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk",
         "url": "https://news.yahoo.co.jp/articles/2265e959aacdc165aa868e9e7fc444de1b0ffe31",
         "source": "Yahoo",
@@ -9509,12 +9545,6 @@
       {
         "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
         "url": "https://news.yahoo.co.jp/articles/eb2bf9fee5f16ef8f5c062e37fa2b9d6d2a0833c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
-        "url": "https://news.yahoo.co.jp/articles/fcc9220a3f628e19083064e5672f92f1e5f09a1b",
         "source": "Yahoo",
         "date": ""
       }
