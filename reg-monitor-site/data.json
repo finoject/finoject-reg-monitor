@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-07-31T01:09:55.207Z",
+  "generatedAt": "2026-07-31T05:05:20.909Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "当面の金融政策運営について",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260731a.pdf",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T05:05:20.909Z",
+      "enriched": "2026-07-31T05:05:26.027Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年7月31日の金融政策決定会合で、無担保コールレート(オーバーナイト物)を1.0%程度で推移するよう促すことを決定した(賛成8、反対1)。",
+        "金融機関は日本銀行の当該決定に基づき、資金調達コストが1.0%程度に設定される金融市場環境での資金運用・調達戦略を策定する必要がある。",
+        "当金融政策決定は2026年7月31日に公表され、次回決定会合までの間効力を有する。なお反対委員は1.25%程度への引き上げを主張した。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "経済・物価情勢の展望（7月、基本的見解）",
+      "url": "https://www.boj.or.jp/mopo/outlook/gor2607a.pdf",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T05:05:20.909Z",
+      "enriched": "2026-07-31T05:05:26.027Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日銀は2026年度後半から2027年度にかけて消費者物価（除く生鮮食品）が2％をはっきりと上回る水準に高まり、その後2％程度に向けて縮小すると予想。原油価格上昇、AI関連需要増加、円安が価格押し上げ要因。",
+        "企業は人手不足が続く中での賃金転嫁圧力に対応し、労働需給の引き締まりと中長期的な予想物価上昇率の上昇を踏まえた価格・賃金設定行動が必要。2026年度後半から物価安定目標との整合性確認が重要。",
+        "日銀の経済見通しは2026年度：原油高が下押し要因も緩やかな成長継続、2027年度以降：原油高影響減衰で成長率上昇を予想。金融政策運営は市場の織り込みを参考に、物価の２％定着状況を確認していく基本姿勢。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融政策決定会合等の日程（2027年）",
+      "url": "https://www.boj.or.jp/mopo/mpmsche_minu/m_ref/mref260731a.pdf",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T05:05:20.909Z",
+      "enriched": "2026-07-31T05:05:26.027Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2027年の金融政策決定会合は1月21・22日、3月17・18日、4月27・28日、6月10・11日、7月21・22日、9月21・22日、10月28・29日、12月16・17日の計8回開催される。",
+        "市場参加者・金融機関は上記日程に基づき、経済・物価情勢の展望（基本的見解）、主な意見、議事要旨の各資料の公表時期（会合終了後直ちに、翌営業日14時、8時50分等）を踏まえて対応する。",
+        "金融政策決定会合等の具体的な日程は2026年7月31日付の日本銀行公表により2027年について定められた。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "決済動向（6月）",
+      "url": "https://www.boj.or.jp/statistics/set/kess/release/2026/kess2606.pdf",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T05:05:20.909Z",
+      "enriched": "2026-07-31T05:05:26.027Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年6月の決済統計として、日銀当座預金決済、国債振決口座振替決済、民間決済システム（全銀システム・外為円決済等）、電子マネー、デビットカードなど主要決済指標を編集・公表。",
+        "全国金融機関等の実務担当者は、日銀当座預金決済件数・金額、BOJ-NETの利用状況、全銀システムの取扱高等の統計から自行の決済動向を把握・確認する必要がある。",
+        "決済機構局が2026年7月31日に公表した月次統計であり、各機関は報告義務に基づき取扱実績を日本銀行に報告し、政策・経営判断の基礎資料として活用する。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "総裁記者会見ライブ配信（7月31日15時30分予定）",
@@ -9019,6 +9079,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
+        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【墨汁うまい氏寄稿】BitMEX閉鎖が示す暗号資産業界の転換点、取引所が生き残れない3つの理由",
+        "url": "https://news.yahoo.co.jp/articles/96ec2ed3eedd9305fd3ba0df87c7a16787b019f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「法令違反を平然と継続」斎藤知事をバッサリ 「兵庫県告発文書問題」著者・奥山俊宏教授に聞く",
         "url": "https://news.yahoo.co.jp/articles/1aaf567f718f674b685b20c4dd6562f086cd4f9b",
         "source": "Yahoo",
@@ -9039,24 +9111,24 @@
       {
         "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
         "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "モルガン・スタンレー、イーサリアムとソラナのETP提供開始",
-        "url": "https://news.yahoo.co.jp/articles/cfa52168eed4f25be3deb6bfc2c1ee754ba8f8a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
-        "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
+        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【墨汁うまい氏寄稿】BitMEX閉鎖が示す暗号資産業界の転換点、取引所が生き残れない3つの理由",
+        "url": "https://news.yahoo.co.jp/articles/96ec2ed3eedd9305fd3ba0df87c7a16787b019f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「法令違反を平然と継続」斎藤知事をバッサリ 「兵庫県告発文書問題」著者・奥山俊宏教授に聞く",
         "url": "https://news.yahoo.co.jp/articles/1aaf567f718f674b685b20c4dd6562f086cd4f9b",
         "source": "Yahoo",
@@ -9077,24 +9149,24 @@
       {
         "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
         "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "モルガン・スタンレー、イーサリアムとソラナのETP提供開始",
-        "url": "https://news.yahoo.co.jp/articles/cfa52168eed4f25be3deb6bfc2c1ee754ba8f8a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
-        "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
+        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【墨汁うまい氏寄稿】BitMEX閉鎖が示す暗号資産業界の転換点、取引所が生き残れない3つの理由",
+        "url": "https://news.yahoo.co.jp/articles/96ec2ed3eedd9305fd3ba0df87c7a16787b019f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「法令違反を平然と継続」斎藤知事をバッサリ 「兵庫県告発文書問題」著者・奥山俊宏教授に聞く",
         "url": "https://news.yahoo.co.jp/articles/1aaf567f718f674b685b20c4dd6562f086cd4f9b",
         "source": "Yahoo",
@@ -9115,24 +9187,24 @@
       {
         "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
         "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "モルガン・スタンレー、イーサリアムとソラナのETP提供開始",
-        "url": "https://news.yahoo.co.jp/articles/cfa52168eed4f25be3deb6bfc2c1ee754ba8f8a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
-        "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
+        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【墨汁うまい氏寄稿】BitMEX閉鎖が示す暗号資産業界の転換点、取引所が生き残れない3つの理由",
+        "url": "https://news.yahoo.co.jp/articles/96ec2ed3eedd9305fd3ba0df87c7a16787b019f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「法令違反を平然と継続」斎藤知事をバッサリ 「兵庫県告発文書問題」著者・奥山俊宏教授に聞く",
         "url": "https://news.yahoo.co.jp/articles/1aaf567f718f674b685b20c4dd6562f086cd4f9b",
         "source": "Yahoo",
@@ -9155,21 +9227,15 @@
         "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "モルガン・スタンレー、イーサリアムとソラナのETP提供開始",
-        "url": "https://news.yahoo.co.jp/articles/cfa52168eed4f25be3deb6bfc2c1ee754ba8f8a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
-        "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "【墨汁うまい氏寄稿】BitMEX閉鎖が示す暗号資産業界の転換点、取引所が生き残れない3つの理由",
+        "url": "https://news.yahoo.co.jp/articles/96ec2ed3eedd9305fd3ba0df87c7a16787b019f2",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「廃業で明日サ終」「払い戻しも不可」スマホゲームの異例事案に困惑の声 規約根拠に法律違反を回避する可能性",
         "url": "https://news.yahoo.co.jp/articles/150eb1456552f5f861eefd4cee6565c6431870c4",
@@ -9197,18 +9263,18 @@
       {
         "title": "d払いを軸に金融サービスを統合 ドコモFG廣井社長が明かすドコモ回線と金融の連携構想 先日、国会でステーブルコインを含む暗号資産の法的な位置づけが変わりました。これまで資金決済法だったのが、金融商品取引法（金商法）になったのです。つまり、決済手段で",
         "url": "https://news.yahoo.co.jp/articles/e1387d1c60e23cc2567f3d57b3e7328f940db798",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市早苗首相が“因縁”中道議員と１カ月ぶり対決「サナエトークン」追及受けるも議論深まらず",
-        "url": "https://news.yahoo.co.jp/articles/f86ae73b2d1229181b89c8a988e3b880779eac64",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "【墨汁うまい氏寄稿】BitMEX閉鎖が示す暗号資産業界の転換点、取引所が生き残れない3つの理由",
+        "url": "https://news.yahoo.co.jp/articles/96ec2ed3eedd9305fd3ba0df87c7a16787b019f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「廃業で明日サ終」「払い戻しも不可」スマホゲームの異例事案に困惑の声 規約根拠に法律違反を回避する可能性",
         "url": "https://news.yahoo.co.jp/articles/150eb1456552f5f861eefd4cee6565c6431870c4",
         "source": "Yahoo",
@@ -9237,15 +9303,33 @@
         "url": "https://news.yahoo.co.jp/articles/e1387d1c60e23cc2567f3d57b3e7328f940db798",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "高市早苗首相が“因縁”中道議員と１カ月ぶり対決「サナエトークン」追及受けるも議論深まらず",
-        "url": "https://news.yahoo.co.jp/articles/f86ae73b2d1229181b89c8a988e3b880779eac64",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "金融庁、資産運用業の育成へ新体制始動－2018年以来の大規模再編",
+        "url": "https://news.yahoo.co.jp/articles/c4e8887250daf6105fbd9155652c6aff4baa3dea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米コインベース、3四半期連続の最終赤字。取引収益22％減",
+        "url": "https://news.yahoo.co.jp/articles/ece15235fbf65842bff37e3c511652c599dbaf2a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オンドファイナンス、最大5億ドル規模の買収検討か。ウェルステックなど対象＝報道",
+        "url": "https://news.yahoo.co.jp/articles/ee1df7e82e07e3a4b6ffdc20e1a73de13ba238cb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【墨汁うまい氏寄稿】BitMEX閉鎖が示す暗号資産業界の転換点、取引所が生き残れない3つの理由",
+        "url": "https://news.yahoo.co.jp/articles/96ec2ed3eedd9305fd3ba0df87c7a16787b019f2",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "米コインベースは3期連続の最終赤字、暗号資産低迷長期化で取引減",
         "url": "https://news.yahoo.co.jp/articles/2d38dc698a2d6c61a1c4bb49b564b3ad63e38c33",
@@ -9255,36 +9339,36 @@
       {
         "title": "ベッセント米財務長官、クラリティ法案の採決を要求",
         "url": "https://news.yahoo.co.jp/articles/1e4dbddf4df944b0bdfbca43005f52e98fb483b5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/2265e959aacdc165aa868e9e7fc444de1b0ffe31",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米上院議員、クラリティ法案巡る新たな倫理規定案をホワイトハウスに提出＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/d61b39d32c4da389e884168cb0c7dbfb92fcf92d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/ba4b2c5a7947a6f9effbc7fa3db8ab30165f73fb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、金・銀連動オプションを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/e147306fa2b3393a95f15168a155deadea6e48c8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "金融庁、資産運用業の育成へ新体制始動－2018年以来の大規模再編",
+        "url": "https://news.yahoo.co.jp/articles/c4e8887250daf6105fbd9155652c6aff4baa3dea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米コインベース、3四半期連続の最終赤字。取引収益22％減",
+        "url": "https://news.yahoo.co.jp/articles/ece15235fbf65842bff37e3c511652c599dbaf2a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オンドファイナンス、最大5億ドル規模の買収検討か。ウェルステックなど対象＝報道",
+        "url": "https://news.yahoo.co.jp/articles/ee1df7e82e07e3a4b6ffdc20e1a73de13ba238cb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【墨汁うまい氏寄稿】BitMEX閉鎖が示す暗号資産業界の転換点、取引所が生き残れない3つの理由",
+        "url": "https://news.yahoo.co.jp/articles/96ec2ed3eedd9305fd3ba0df87c7a16787b019f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米コインベースは3期連続の最終赤字、暗号資産低迷長期化で取引減",
         "url": "https://news.yahoo.co.jp/articles/2d38dc698a2d6c61a1c4bb49b564b3ad63e38c33",
         "source": "Yahoo",
@@ -9293,30 +9377,6 @@
       {
         "title": "ベッセント米財務長官、クラリティ法案の採決を要求",
         "url": "https://news.yahoo.co.jp/articles/1e4dbddf4df944b0bdfbca43005f52e98fb483b5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/2265e959aacdc165aa868e9e7fc444de1b0ffe31",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米上院議員、クラリティ法案巡る新たな倫理規定案をホワイトハウスに提出＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/d61b39d32c4da389e884168cb0c7dbfb92fcf92d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/ba4b2c5a7947a6f9effbc7fa3db8ab30165f73fb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、金・銀連動オプションを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/e147306fa2b3393a95f15168a155deadea6e48c8",
         "source": "Yahoo",
         "date": ""
       }
@@ -9475,76 +9535,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
-        "url": "https://news.yahoo.co.jp/articles/f49f91a5f4987d5f870cfb66e3321c1de4d7c320",
+        "title": "金融庁、資産運用業の育成へ新体制始動－2018年以来の大規模再編",
+        "url": "https://news.yahoo.co.jp/articles/c4e8887250daf6105fbd9155652c6aff4baa3dea",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/2265e959aacdc165aa868e9e7fc444de1b0ffe31",
+        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
+        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米上院議員、クラリティ法案巡る新たな倫理規定案をホワイトハウスに提出＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/d61b39d32c4da389e884168cb0c7dbfb92fcf92d",
+        "title": "米コインベース、3四半期連続の最終赤字。取引収益22％減",
+        "url": "https://news.yahoo.co.jp/articles/ece15235fbf65842bff37e3c511652c599dbaf2a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "バイナンス、金・銀連動オプションを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/e147306fa2b3393a95f15168a155deadea6e48c8",
+        "title": "データチェーン、トークン化預金によるプログラマブル決済へ。「統合クロスチェーンAPI基盤」の実証開始",
+        "url": "https://news.yahoo.co.jp/articles/946c07625776b98c2e7989822abd8464c09373cd",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
-        "url": "https://news.yahoo.co.jp/articles/7c2598062ccb3fba11e2cfeebd6ffa56c68aa443",
+        "title": "TISI、デジタル決済「ペイシェルジュ」の次世代プラットフォーム戦略始動。AIと人材を融合へ",
+        "url": "https://news.yahoo.co.jp/articles/2064c842cf957ca374b143f3fb34bd03c4312454",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
-        "url": "https://news.yahoo.co.jp/articles/eb2bf9fee5f16ef8f5c062e37fa2b9d6d2a0833c",
+        "title": "BNY、デジタルネイティブ型ファンド向け「Digital TA」提供開始",
+        "url": "https://news.yahoo.co.jp/articles/7eef5071dc2957693fad07bb70a2c4ee7c0ace35",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
-        "url": "https://news.yahoo.co.jp/articles/f49f91a5f4987d5f870cfb66e3321c1de4d7c320",
+        "title": "金融庁、資産運用業の育成へ新体制始動－2018年以来の大規模再編",
+        "url": "https://news.yahoo.co.jp/articles/c4e8887250daf6105fbd9155652c6aff4baa3dea",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/2265e959aacdc165aa868e9e7fc444de1b0ffe31",
+        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
+        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米上院議員、クラリティ法案巡る新たな倫理規定案をホワイトハウスに提出＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/d61b39d32c4da389e884168cb0c7dbfb92fcf92d",
+        "title": "米コインベース、3四半期連続の最終赤字。取引収益22％減",
+        "url": "https://news.yahoo.co.jp/articles/ece15235fbf65842bff37e3c511652c599dbaf2a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "バイナンス、金・銀連動オプションを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/e147306fa2b3393a95f15168a155deadea6e48c8",
+        "title": "データチェーン、トークン化預金によるプログラマブル決済へ。「統合クロスチェーンAPI基盤」の実証開始",
+        "url": "https://news.yahoo.co.jp/articles/946c07625776b98c2e7989822abd8464c09373cd",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
-        "url": "https://news.yahoo.co.jp/articles/7c2598062ccb3fba11e2cfeebd6ffa56c68aa443",
+        "title": "TISI、デジタル決済「ペイシェルジュ」の次世代プラットフォーム戦略始動。AIと人材を融合へ",
+        "url": "https://news.yahoo.co.jp/articles/2064c842cf957ca374b143f3fb34bd03c4312454",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
-        "url": "https://news.yahoo.co.jp/articles/eb2bf9fee5f16ef8f5c062e37fa2b9d6d2a0833c",
+        "title": "BNY、デジタルネイティブ型ファンド向け「Digital TA」提供開始",
+        "url": "https://news.yahoo.co.jp/articles/7eef5071dc2957693fad07bb70a2c4ee7c0ace35",
         "source": "Yahoo",
         "date": ""
       }
@@ -10265,6 +10325,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「裁判所法で定められた義務」 40件の個別意見を書いた宇賀克也・元最高裁判事が語る公的記録の意義",
+        "url": "https://news.yahoo.co.jp/articles/dba64dc96d65ba0c62fbaeb014ea5c6acda12c0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「国民生活をガン無視」経済のプロ荻原博子が斬る！高市政権“法改正ラッシュ”の裏で進む国民負担増の事態",
+        "url": "https://news.yahoo.co.jp/articles/06c26e44a1efafcd349c2f7d19ac1c1cba0c417d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓流NewJeansメンバーの「ビザ情報」流出疑惑、所属事務所に「個人情報保護法違反」",
         "url": "https://news.yahoo.co.jp/articles/fb853818f07a2a26c788a2ea5686f72819f24b0e",
         "source": "Yahoo",
@@ -10285,24 +10357,24 @@
       {
         "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
         "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "台湾や韓国から「ちょっと福岡まで」の日常",
-        "url": "https://news.yahoo.co.jp/articles/a0f87496b19cb0f52e12b519a353c33bca0b02a9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "LINE、広告データの保存記録に不備 3年半分を誤って削除",
-        "url": "https://news.yahoo.co.jp/articles/ece4a77945bdd82c22fb78a25971d86b23a2028c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「裁判所法で定められた義務」 40件の個別意見を書いた宇賀克也・元最高裁判事が語る公的記録の意義",
+        "url": "https://news.yahoo.co.jp/articles/dba64dc96d65ba0c62fbaeb014ea5c6acda12c0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「国民生活をガン無視」経済のプロ荻原博子が斬る！高市政権“法改正ラッシュ”の裏で進む国民負担増の事態",
+        "url": "https://news.yahoo.co.jp/articles/06c26e44a1efafcd349c2f7d19ac1c1cba0c417d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓流NewJeansメンバーの「ビザ情報」流出疑惑、所属事務所に「個人情報保護法違反」",
         "url": "https://news.yahoo.co.jp/articles/fb853818f07a2a26c788a2ea5686f72819f24b0e",
         "source": "Yahoo",
@@ -10323,24 +10395,24 @@
       {
         "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
         "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "台湾や韓国から「ちょっと福岡まで」の日常",
-        "url": "https://news.yahoo.co.jp/articles/a0f87496b19cb0f52e12b519a353c33bca0b02a9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "LINE、広告データの保存記録に不備 3年半分を誤って削除",
-        "url": "https://news.yahoo.co.jp/articles/ece4a77945bdd82c22fb78a25971d86b23a2028c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「裁判所法で定められた義務」 40件の個別意見を書いた宇賀克也・元最高裁判事が語る公的記録の意義",
+        "url": "https://news.yahoo.co.jp/articles/dba64dc96d65ba0c62fbaeb014ea5c6acda12c0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「国民生活をガン無視」経済のプロ荻原博子が斬る！高市政権“法改正ラッシュ”の裏で進む国民負担増の事態",
+        "url": "https://news.yahoo.co.jp/articles/06c26e44a1efafcd349c2f7d19ac1c1cba0c417d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓流NewJeansメンバーの「ビザ情報」流出疑惑、所属事務所に「個人情報保護法違反」",
         "url": "https://news.yahoo.co.jp/articles/fb853818f07a2a26c788a2ea5686f72819f24b0e",
         "source": "Yahoo",
@@ -10361,18 +10433,6 @@
       {
         "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
         "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "台湾や韓国から「ちょっと福岡まで」の日常",
-        "url": "https://news.yahoo.co.jp/articles/a0f87496b19cb0f52e12b519a353c33bca0b02a9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "LINE、広告データの保存記録に不備 3年半分を誤って削除",
-        "url": "https://news.yahoo.co.jp/articles/ece4a77945bdd82c22fb78a25971d86b23a2028c",
         "source": "Yahoo",
         "date": ""
       }
