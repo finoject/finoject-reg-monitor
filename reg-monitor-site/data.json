@@ -1,6 +1,220 @@
 {
-  "generatedAt": "2026-07-31T05:05:20.909Z",
+  "generatedAt": "2026-07-31T08:19:10.867Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "Ａｂａｌａｎｃｅ（3856）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-31T08:19:16.564Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]グロース市場からスタンダード市場への変更：（株）ＪＭＣ",
+      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
+        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
+        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-31T08:19:16.564Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "総裁記者会見（7月31日）動画の配信開始",
+      "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の総裁定例記者会見の動画が日本銀行動画チャンネル（YouTube）で配信されている",
+        "国民および関係者が該当チャンネルにアクセスして総裁記者会見の内容を視聴できる",
+        "日本銀行の公開情報として、記者会見動画の配信を通じた情報発信が実施されている"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-31T08:19:16.565Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "主幹事証券会社別の初期収益率等（2026年６月末）を公表しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/syokisyueki/index.html",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が2022年4月以降のIPOについて、主幹事証券会社別の公開価格・上場後株価・初期収益率を公表開始。発行会社がIPO時の主幹事選定の参考情報として活用可能。",
+        "統計は上場3年以内の内国株式新規上場が対象（TOKYO PRO Market除く）。共同主幹事IPOの場合は複数証券会社が主幹事件数に計上される。",
+        "公表は原則3か月ごと（1月・4月・7月・10月）の最終営業日に、前月末までの新規上場会社情報を日本証券業協会ホームページに更新。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-07-31T08:19:16.565Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年7～9月）［日程更新］",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260731b.pdf",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enriched": "2026-07-31T08:19:16.565Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年7～9月の長期国債買入れ（利回り・価格入札方式）につき、残存期間別に1回当たりオファー金額を設定し、7月6日から実施する日程を公表した。月間オファー金額は計25,000億円。",
+        "債券市場参加者は公表された日程（7/6、7/15、7/23、7/29等）に基づいて利付国債・物価連動債の入札に参加し、実際のオファー金額はオファー通知で確認する必要がある。",
+        "日本銀行は市場動向に応じて回数・日程を変更可能であり、財務省の国債入札日には原則としてオファーを見合わせ、9月分日程は8月31日17時に別途公表予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "米ドル資金供給オペレーションのオファー日程（2026年8月～12月）",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260731a.pdf",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enriched": "2026-07-31T08:19:16.565Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年8月から12月にかけて米ドル資金供給オペレーションを実施し、オファー日時を日本時間10:40（応募締切11:30）と定めた。",
+        "金融機関等の資金調達需要者は、各オファー日に定められた時間までに応募し、6～14日間の期限で米ドルを調達できる。",
+        "オファーは固定金利で無制限の金額枠で実施され、8月4日から12月22日まで計22回程度実施される（注2参照）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（審査中）の指定：Ａｂａｌａｎｃｅ（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260731-12.html",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enriched": "2026-07-31T08:19:16.565Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "Ａｂａｌａｎｃｅ（株）（コード3856、スタンダード市場）が内部管理体制の改善見込みがなくなったおそれで監理銘柄（審査中）に指定された。2026年7月31日から当取引所の認定日まで指定期間。",
+        "元代表取締役会長兼ＣＥＯの権限集中体制脱却及び会社分割等が検討されたが実施困難との見解に至り、該当者が取締役継続・海外子会社経営情報の組織管理により運営継続される方針が示された。",
+        "有価証券上場規程施行規則604条1項12号・同上場規程601号1項9号ｂに基づき、日本取引所自主規制法人が内部管理体制改善の見込みについて審査を実施し、改善見込みなしと認定された場合は上場廃止決定となる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：ＮＳユナイテッド海運（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260731-11.html",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enriched": "2026-07-31T08:19:16.565Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ＮＳユナイテッド海運株式会社（プライム市場、コード9110）の株式が監理銘柄（確認中）に指定された。日本郵船による公開買付け成立後、特定株主以外の株式を端数となる割合で併合することで上場廃止となるおそれがあるため。",
+        "東証が有価証券上場規程施行規則第604条第1項第24号に該当すると判断。同社は公開買付者の要請に応じて株式併合議案を株主総会に付議することを承認済み。",
+        "指定期間は2026年7月31日（金）から東証が上場廃止基準該当性を認定する日までであり、上場廃止手続きの進行に伴い監理銘柄指定が継続される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大（ETF/ETN）：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260731-01.html",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enriched": "2026-07-31T08:19:16.565Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "「NEXT NOTES 韓国KOSPI・ダブル・ブル ETN」（コード2033）について、8月3日の東証立会から制限値幅の上限を通常の10,000円から40,000円に拡大する。",
+        "取引参加者および投資者は、同銘柄の成行注文により想定外の値段で約定する可能性があることに留意し、売買発注時に注意する必要がある。",
+        "拡大後のストップ高（安）値幅以外での売買立会終了後は、その翌営業日から通常の制限値幅に自動的に戻る（東証規則に基づく自動調整機能）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]令和8年熊本地震に対する義援金の拠出について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260731-01.html",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enriched": "2026-07-31T08:19:16.565Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本取引所グループが令和8年熊本地震の被災者支援および被災地復興支援のため、日本赤十字社を通じて義援金1,000万円を拠出することを決定した。",
+        "日本取引所グループが災害被害者への支援金を公表し、日本赤十字社を経由して義援金を拠出する対応を実施する。",
+        "2026年7月31日付の公表により、令和8年熊本地震に関連する日本取引所グループの社会貢献活動が明らかになった。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]「会計基準の選択に関する基本的な考え方」の開示内容の分析について≪2026年3月決算会社まで≫",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260731-01.html",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enriched": "2026-07-31T08:19:16.565Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年3月決算会社までに、IFRS適用済・決定・予定会社の合計が318社となり、前年比18社増加。プライム市場では250社で、東証全体時価総額に占める割合が51.2%に達した。",
+        "上場企業は年度決算短信に「会計基準の選択に関する基本的な考え方」を記載し、IFRS適用の検討状況を開示することが2015年3月期決算から要請されている。",
+        "東証は決算短信のこの記載内容を毎年集計・分析し、分類別（適用済297社、適用決定20社、適用予定1社、検討中81社）にIFRS適用状況を公表している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "会員統計情報を更新しました",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260731-002/",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enriched": "2026-07-31T08:19:16.565Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA(日本暗号資産等取引業協会)が会員統計情報を更新し、現物・証拠金取引に関する統計データを公表した。詳細は協会ウェブサイトの統計情報ページから確認可能。",
+        "JVCEA会員及び暗号資産取引業者は、協会が集計・公表する最新の統計情報(現物/証拠金取引)を定期的に確認し、市場動向や業界データを監視する必要がある。",
+        "更新日2026年7月31日。統計情報は継続的に更新される仕組みであり、会員は協会ウェブサイトの統計情報カテゴリーから最新データを参照する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "倫理委員会（2026年７月２日）の議事要旨等の公表について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260731lmn.html",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enriched": "2026-07-31T08:19:16.565Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "報酬依存度に関する倫理規則実務ガイダンス第1号の改正案について、公開草案へのコメント対応が承認された。15%の数値基準はIESBA倫理規程にも定められた国際的基準である。",
+        "公認会計士協会は、IESBA適用後レビュー調査への回答を委員会関係者の意見聴取を経て取りまとめており、組織内会計士も含めて独立的に調査に回答できる体制となっている。",
+        "金融商品取引法改正案（2026年4月国会提出）の内容を踏まえた倫理規則の修正について、委員長から説明がなされた。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「第３回Web3.0関連ビジネスの会計・監査に関する事業者・監査人共同フォーラム ～事業者と監査人の相互理解の促進のために～」の開催報告について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260731dhw.html",
+      "date": "2026-07-31",
+      "detectedAt": "2026-07-31T08:19:10.867Z",
+      "enriched": "2026-07-31T08:19:16.565Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月17日、JICPA・JCBA・JBA・JVCEAの共催により、Web3.0関連ビジネスの会計・監査に関する事業者・監査人共同フォーラム第3回を開催し、約90名が参加。",
+        "事業者と監査人は、金融商品取引法改正および暗号資産・Web3.0ビジネスの会計・監査実務論点について、パネルディスカッションを通じて相互理解を促進した。",
+        "フォーラムは2024年12月の第2回開催後のWeb3.0関連ビジネスを取り巻く状況アップデートを踏まえて実施され、事業上・法律上・会計監査上の論点について意見交換が行われた。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "当面の金融政策運営について",
@@ -136,22 +350,6 @@
         "速やかに上場廃止すべき事情が発生した場合は整理銘柄指定期間と上場廃止日が変更されることがある。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ゼネテック（4492）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-07-30",
-      "detectedAt": "2026-07-30T07:18:17.612Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-30T07:18:27.461Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -4608,22 +4806,6 @@
     },
     {
       "agency": "日本取引所グループ",
-      "title": "[東証]プライム市場からスタンダード市場への変更：Ｌｉｎｋ－Ｕグループ（株）",
-      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
-      "date": "2026-06-25",
-      "detectedAt": "2026-06-25T09:56:32.545Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
-        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
-        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-06-25T09:56:37.007Z"
-    },
-    {
-      "agency": "日本取引所グループ",
       "title": "[東証]新規上場の承認（ETF）：ＮＥＸＴ ＦＵＮＤＳ 日本株政策フォーカス上場投信（野村アセットマネジメント）",
       "url": "https://www.jpx.co.jp/news/1070/20260625.html",
       "date": "2026-06-25",
@@ -5711,21 +5893,6 @@
         "国債補完供給の最低品貸料を0.25%から0.50%に引き上げ、一の売却対象先に対する利付国債の連続利用日数を50営業日から30営業日に短縮する。",
         "国債の売却対象先（金融機関等）は7月16日以降のオファーから新たな最低品貸料と連続利用日数の上限に対応する必要がある。",
         "2026年7月16日以降実施の国債補完供給より適用。日本銀行の減額措置取り扱い（市中保有額1.5兆円程度が上限）は2025年6月17日の基準から不変。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "総裁記者会見（内田副総裁代理・6月16日）動画の配信開始",
-      "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
-      "date": "2026-06-16",
-      "detectedAt": "2026-06-16T15:05:03.308Z",
-      "enriched": "2026-06-19T06:01:56.135Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行の総裁定例記者会見の動画が日本銀行動画チャンネル（YouTube）で配信されている",
-        "国民および関係者が該当チャンネルにアクセスして総裁記者会見の内容を視聴できる",
-        "日本銀行の公開情報として、記者会見動画の配信を通じた情報発信が実施されている"
       ],
       "aiSumV": 3
     },
@@ -8673,21 +8840,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "主幹事証券会社別の初期収益率等（2026年3月末）を公表しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/syokisyueki/index.html",
-      "date": "2026-04-30",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:03:14.203Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が2022年4月以降のIPOについて、主幹事証券会社別の公開価格・上場後株価・初期収益率を公表開始。発行会社がIPO時の主幹事選定の参考情報として活用可能。",
-        "統計は上場3年以内の内国株式新規上場が対象（TOKYO PRO Market除く）。共同主幹事IPOの場合は複数証券会社が主幹事件数に計上される。",
-        "公表は原則3か月ごと（1月・4月・7月・10月）の最終営業日に、前月末までの新規上場会社情報を日本証券業協会ホームページに更新。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "店頭CFD取引状況",
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/cfd/index.html",
       "date": "2026-04-30",
@@ -9079,6 +9231,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "みずほ証、4ー6月純利益は前年比58%増697億円ー投資銀行業務がけん引",
+        "url": "https://news.yahoo.co.jp/articles/45ff5bf7920f6eeb4dbf4bfc5444446e01956985",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
         "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
         "source": "Yahoo",
@@ -9105,18 +9263,18 @@
       {
         "title": "「プロにしかできない投資方法」株式投資名目で1500万円詐取容疑の男逮捕",
         "url": "https://news.yahoo.co.jp/articles/cddb55781156d63a8468a800efddd60a4119b25f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
-        "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "みずほ証、4ー6月純利益は前年比58%増697億円ー投資銀行業務がけん引",
+        "url": "https://news.yahoo.co.jp/articles/45ff5bf7920f6eeb4dbf4bfc5444446e01956985",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
         "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
         "source": "Yahoo",
@@ -9143,18 +9301,18 @@
       {
         "title": "「プロにしかできない投資方法」株式投資名目で1500万円詐取容疑の男逮捕",
         "url": "https://news.yahoo.co.jp/articles/cddb55781156d63a8468a800efddd60a4119b25f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
-        "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "みずほ証、4ー6月純利益は前年比58%増697億円ー投資銀行業務がけん引",
+        "url": "https://news.yahoo.co.jp/articles/45ff5bf7920f6eeb4dbf4bfc5444446e01956985",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
         "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
         "source": "Yahoo",
@@ -9181,18 +9339,18 @@
       {
         "title": "「プロにしかできない投資方法」株式投資名目で1500万円詐取容疑の男逮捕",
         "url": "https://news.yahoo.co.jp/articles/cddb55781156d63a8468a800efddd60a4119b25f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
-        "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "みずほ証、4ー6月純利益は前年比58%増697億円ー投資銀行業務がけん引",
+        "url": "https://news.yahoo.co.jp/articles/45ff5bf7920f6eeb4dbf4bfc5444446e01956985",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
         "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
         "source": "Yahoo",
@@ -9219,12 +9377,6 @@
       {
         "title": "「プロにしかできない投資方法」株式投資名目で1500万円詐取容疑の男逮捕",
         "url": "https://news.yahoo.co.jp/articles/cddb55781156d63a8468a800efddd60a4119b25f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Lidoがアップグレード──イーサリアムのバリデーター数を約3分の1削減する可能性",
-        "url": "https://news.yahoo.co.jp/articles/f15bdf5223f375eb4f800c8225f34fc70aefa001",
         "source": "Yahoo",
         "date": ""
       }
@@ -9307,6 +9459,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "TISI、ファイアブロックスとリセラー契約。国内金融機関向けにウォレット基盤提供へ",
+        "url": "https://news.yahoo.co.jp/articles/ed3afd7777b156fef8831dbbd26bbc955a8c2242",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、資産運用業の育成へ新体制始動－2018年以来の大規模再編",
         "url": "https://news.yahoo.co.jp/articles/c4e8887250daf6105fbd9155652c6aff4baa3dea",
         "source": "Yahoo",
@@ -9333,18 +9491,18 @@
       {
         "title": "米コインベースは3期連続の最終赤字、暗号資産低迷長期化で取引減",
         "url": "https://news.yahoo.co.jp/articles/2d38dc698a2d6c61a1c4bb49b564b3ad63e38c33",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ベッセント米財務長官、クラリティ法案の採決を要求",
-        "url": "https://news.yahoo.co.jp/articles/1e4dbddf4df944b0bdfbca43005f52e98fb483b5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "TISI、ファイアブロックスとリセラー契約。国内金融機関向けにウォレット基盤提供へ",
+        "url": "https://news.yahoo.co.jp/articles/ed3afd7777b156fef8831dbbd26bbc955a8c2242",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、資産運用業の育成へ新体制始動－2018年以来の大規模再編",
         "url": "https://news.yahoo.co.jp/articles/c4e8887250daf6105fbd9155652c6aff4baa3dea",
         "source": "Yahoo",
@@ -9371,12 +9529,6 @@
       {
         "title": "米コインベースは3期連続の最終赤字、暗号資産低迷長期化で取引減",
         "url": "https://news.yahoo.co.jp/articles/2d38dc698a2d6c61a1c4bb49b564b3ad63e38c33",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ベッセント米財務長官、クラリティ法案の採決を要求",
-        "url": "https://news.yahoo.co.jp/articles/1e4dbddf4df944b0bdfbca43005f52e98fb483b5",
         "source": "Yahoo",
         "date": ""
       }
@@ -9535,82 +9687,88 @@
     ],
     "505M60000002048": [
       {
+        "title": "オリコポイントがBTC・ETH・XRPへの交換に対応、SBI VCトレードと連携",
+        "url": "https://news.yahoo.co.jp/articles/73d9c46e67c6d60bae9992de0e0fb0b911b7d607",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オリコポイントが暗号資産と交換可能に──BTC・ETH・XRPが対象",
+        "url": "https://news.yahoo.co.jp/articles/7504089d9fd3a86a2d16b80458ede098d474824b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イーサリアム・インスティテューショナル、初回資金調達完了。100超の支援者が参画 また、イーサリアムとそのレイヤー2（L2）を対象に、トークン化、ステーブルコイン、担保、市場インフラ、オンチェーン清算を巡る具体的な取り組みを進める",
+        "url": "https://news.yahoo.co.jp/articles/37e83e93b8f2f31892c5d923655a865fa50b9505",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TISI、ファイアブロックスとリセラー契約。国内金融機関向けにウォレット基盤提供へ",
+        "url": "https://news.yahoo.co.jp/articles/ed3afd7777b156fef8831dbbd26bbc955a8c2242",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サムスンSDS、アップビット運営元ドゥナムとデジタル資産協業を検討。ステーブルコイン基盤など",
+        "url": "https://news.yahoo.co.jp/articles/553e10ed492f545decbf828bb9ff7643e3c50f3c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、資産運用業の育成へ新体制始動－2018年以来の大規模再編",
         "url": "https://news.yahoo.co.jp/articles/c4e8887250daf6105fbd9155652c6aff4baa3dea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
-        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米コインベース、3四半期連続の最終赤字。取引収益22％減",
-        "url": "https://news.yahoo.co.jp/articles/ece15235fbf65842bff37e3c511652c599dbaf2a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーン、トークン化預金によるプログラマブル決済へ。「統合クロスチェーンAPI基盤」の実証開始",
-        "url": "https://news.yahoo.co.jp/articles/946c07625776b98c2e7989822abd8464c09373cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "TISI、デジタル決済「ペイシェルジュ」の次世代プラットフォーム戦略始動。AIと人材を融合へ",
-        "url": "https://news.yahoo.co.jp/articles/2064c842cf957ca374b143f3fb34bd03c4312454",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BNY、デジタルネイティブ型ファンド向け「Digital TA」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/7eef5071dc2957693fad07bb70a2c4ee7c0ace35",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "オリコポイントがBTC・ETH・XRPへの交換に対応、SBI VCトレードと連携",
+        "url": "https://news.yahoo.co.jp/articles/73d9c46e67c6d60bae9992de0e0fb0b911b7d607",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オリコポイントが暗号資産と交換可能に──BTC・ETH・XRPが対象",
+        "url": "https://news.yahoo.co.jp/articles/7504089d9fd3a86a2d16b80458ede098d474824b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イーサリアム・インスティテューショナル、初回資金調達完了。100超の支援者が参画 また、イーサリアムとそのレイヤー2（L2）を対象に、トークン化、ステーブルコイン、担保、市場インフラ、オンチェーン清算を巡る具体的な取り組みを進める",
+        "url": "https://news.yahoo.co.jp/articles/37e83e93b8f2f31892c5d923655a865fa50b9505",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TISI、ファイアブロックスとリセラー契約。国内金融機関向けにウォレット基盤提供へ",
+        "url": "https://news.yahoo.co.jp/articles/ed3afd7777b156fef8831dbbd26bbc955a8c2242",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サムスンSDS、アップビット運営元ドゥナムとデジタル資産協業を検討。ステーブルコイン基盤など",
+        "url": "https://news.yahoo.co.jp/articles/553e10ed492f545decbf828bb9ff7643e3c50f3c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、資産運用業の育成へ新体制始動－2018年以来の大規模再編",
         "url": "https://news.yahoo.co.jp/articles/c4e8887250daf6105fbd9155652c6aff4baa3dea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
-        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米コインベース、3四半期連続の最終赤字。取引収益22％減",
-        "url": "https://news.yahoo.co.jp/articles/ece15235fbf65842bff37e3c511652c599dbaf2a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーン、トークン化預金によるプログラマブル決済へ。「統合クロスチェーンAPI基盤」の実証開始",
-        "url": "https://news.yahoo.co.jp/articles/946c07625776b98c2e7989822abd8464c09373cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "TISI、デジタル決済「ペイシェルジュ」の次世代プラットフォーム戦略始動。AIと人材を融合へ",
-        "url": "https://news.yahoo.co.jp/articles/2064c842cf957ca374b143f3fb34bd03c4312454",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BNY、デジタルネイティブ型ファンド向け「Digital TA」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/7eef5071dc2957693fad07bb70a2c4ee7c0ace35",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419AC0000000022": [
       {
+        "title": "銀行・証券監督局長に石田氏 資産運用・保険監督局長は堀本氏 金融庁 金融庁は31日、新設する銀行・証券監督局長に石田晋也監督局長、資産運用・保険監督局長に堀本善雄総合政策局長を起用する人事を発表した。 同じく新設",
+        "url": "https://news.yahoo.co.jp/articles/df50a5477dd44d61b6b13242320172c35ca80b3f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:09偽警察詐欺で２８００万円だまし取られる 警察が偽の逮捕状や警察手帳を公開",
         "url": "https://news.yahoo.co.jp/articles/16f02829a2f85b67a6eb81fd3d9eccfd5a26a8b3",
         "source": "Yahoo",
@@ -9637,18 +9795,18 @@
       {
         "title": "【詳報】片山さつき金融相インタビュー 最先端AIは「直面する危機」、G7で連携を",
         "url": "https://news.yahoo.co.jp/articles/62984d477e86ab8fb59b77c5a62f948214aa6e95",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、暗号資産事業者のサイバーセキュリティ調査報告書を公表",
-        "url": "https://news.yahoo.co.jp/articles/a51a0ec1ae72cd9b3416d151bbf51ea762698340",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "銀行・証券監督局長に石田氏 資産運用・保険監督局長は堀本氏 金融庁 金融庁は31日、新設する銀行・証券監督局長に石田晋也監督局長、資産運用・保険監督局長に堀本善雄総合政策局長を起用する人事を発表した。 同じく新設",
+        "url": "https://news.yahoo.co.jp/articles/df50a5477dd44d61b6b13242320172c35ca80b3f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:09偽警察詐欺で２８００万円だまし取られる 警察が偽の逮捕状や警察手帳を公開",
         "url": "https://news.yahoo.co.jp/articles/16f02829a2f85b67a6eb81fd3d9eccfd5a26a8b3",
         "source": "Yahoo",
@@ -9675,18 +9833,18 @@
       {
         "title": "【詳報】片山さつき金融相インタビュー 最先端AIは「直面する危機」、G7で連携を",
         "url": "https://news.yahoo.co.jp/articles/62984d477e86ab8fb59b77c5a62f948214aa6e95",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、暗号資産事業者のサイバーセキュリティ調査報告書を公表",
-        "url": "https://news.yahoo.co.jp/articles/a51a0ec1ae72cd9b3416d151bbf51ea762698340",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "銀行・証券監督局長に石田氏 資産運用・保険監督局長は堀本氏 金融庁 金融庁は31日、新設する銀行・証券監督局長に石田晋也監督局長、資産運用・保険監督局長に堀本善雄総合政策局長を起用する人事を発表した。 同じく新設",
+        "url": "https://news.yahoo.co.jp/articles/df50a5477dd44d61b6b13242320172c35ca80b3f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:09偽警察詐欺で２８００万円だまし取られる 警察が偽の逮捕状や警察手帳を公開",
         "url": "https://news.yahoo.co.jp/articles/16f02829a2f85b67a6eb81fd3d9eccfd5a26a8b3",
         "source": "Yahoo",
@@ -9713,12 +9871,6 @@
       {
         "title": "【詳報】片山さつき金融相インタビュー 最先端AIは「直面する危機」、G7で連携を",
         "url": "https://news.yahoo.co.jp/articles/62984d477e86ab8fb59b77c5a62f948214aa6e95",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、暗号資産事業者のサイバーセキュリティ調査報告書を公表",
-        "url": "https://news.yahoo.co.jp/articles/a51a0ec1ae72cd9b3416d151bbf51ea762698340",
         "source": "Yahoo",
         "date": ""
       }
@@ -10147,12 +10299,6 @@
         "date": ""
       },
       {
-        "title": "自民PT、臨時株総要件の厳格化を要請 「物言う株主」対策で",
-        "url": "https://news.yahoo.co.jp/articles/ac1b5d5e8035335127133b0fbefdaf9c8c38a98a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
@@ -10167,6 +10313,12 @@
       {
         "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
         "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
         "date": ""
       }
@@ -10185,12 +10337,6 @@
         "date": ""
       },
       {
-        "title": "自民PT、臨時株総要件の厳格化を要請 「物言う株主」対策で",
-        "url": "https://news.yahoo.co.jp/articles/ac1b5d5e8035335127133b0fbefdaf9c8c38a98a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
@@ -10205,6 +10351,12 @@
       {
         "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
         "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
         "date": ""
       }
@@ -10223,12 +10375,6 @@
         "date": ""
       },
       {
-        "title": "自民PT、臨時株総要件の厳格化を要請 「物言う株主」対策で",
-        "url": "https://news.yahoo.co.jp/articles/ac1b5d5e8035335127133b0fbefdaf9c8c38a98a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
@@ -10243,6 +10389,12 @@
       {
         "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
         "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
         "date": ""
       }
@@ -10261,12 +10413,6 @@
         "date": ""
       },
       {
-        "title": "自民PT、臨時株総要件の厳格化を要請 「物言う株主」対策で",
-        "url": "https://news.yahoo.co.jp/articles/ac1b5d5e8035335127133b0fbefdaf9c8c38a98a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
@@ -10281,6 +10427,12 @@
       {
         "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
         "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
         "date": ""
       }
@@ -10299,12 +10451,6 @@
         "date": ""
       },
       {
-        "title": "自民PT、臨時株総要件の厳格化を要請 「物言う株主」対策で",
-        "url": "https://news.yahoo.co.jp/articles/ac1b5d5e8035335127133b0fbefdaf9c8c38a98a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
         "source": "Yahoo",
@@ -10321,9 +10467,21 @@
         "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
         "source": "Yahoo",
         "date": ""
+      },
+      {
+        "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
+        "source": "Yahoo",
+        "date": ""
       }
     ],
     "415AC0000000057": [
+      {
+        "title": "個人情報流出の韓国通販クーパン 紛争調停委が1人1万円超の賠償決定",
+        "url": "https://news.yahoo.co.jp/articles/2488d6bf2bc8f232ca606f6ba27537ec5742d823",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「裁判所法で定められた義務」 40件の個別意見を書いた宇賀克也・元最高裁判事が語る公的記録の意義",
         "url": "https://news.yahoo.co.jp/articles/dba64dc96d65ba0c62fbaeb014ea5c6acda12c0e",
@@ -10351,18 +10509,18 @@
       {
         "title": "NewJeans ハニのビザ情報流出の疑い",
         "url": "https://news.yahoo.co.jp/articles/4e9b5cd182ff22e8a52f1056f9bf670c2eeed50e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
-        "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "個人情報流出の韓国通販クーパン 紛争調停委が1人1万円超の賠償決定",
+        "url": "https://news.yahoo.co.jp/articles/2488d6bf2bc8f232ca606f6ba27537ec5742d823",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「裁判所法で定められた義務」 40件の個別意見を書いた宇賀克也・元最高裁判事が語る公的記録の意義",
         "url": "https://news.yahoo.co.jp/articles/dba64dc96d65ba0c62fbaeb014ea5c6acda12c0e",
         "source": "Yahoo",
@@ -10389,18 +10547,18 @@
       {
         "title": "NewJeans ハニのビザ情報流出の疑い",
         "url": "https://news.yahoo.co.jp/articles/4e9b5cd182ff22e8a52f1056f9bf670c2eeed50e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
-        "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "個人情報流出の韓国通販クーパン 紛争調停委が1人1万円超の賠償決定",
+        "url": "https://news.yahoo.co.jp/articles/2488d6bf2bc8f232ca606f6ba27537ec5742d823",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「裁判所法で定められた義務」 40件の個別意見を書いた宇賀克也・元最高裁判事が語る公的記録の意義",
         "url": "https://news.yahoo.co.jp/articles/dba64dc96d65ba0c62fbaeb014ea5c6acda12c0e",
         "source": "Yahoo",
@@ -10427,12 +10585,6 @@
       {
         "title": "NewJeans ハニのビザ情報流出の疑い",
         "url": "https://news.yahoo.co.jp/articles/4e9b5cd182ff22e8a52f1056f9bf670c2eeed50e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【激動の158日間】高市カラー、与野党対決などの法案を一挙振り返り",
-        "url": "https://news.yahoo.co.jp/articles/5fd700a2ce2ff1969101bb08530a25f6d1898737",
         "source": "Yahoo",
         "date": ""
       }
