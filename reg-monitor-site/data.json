@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-08-03T04:19:17.858Z",
+  "generatedAt": "2026-08-03T08:01:47.230Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "金融市場調節取引の2026年度対象先公募等について",
+      "url": "https://www.boj.or.jp/mopo/measures/select/s_release/srel260803a.htm",
+      "date": "2026-08-03",
+      "detectedAt": "2026-08-03T08:01:47.230Z",
+      "enriched": "2026-08-03T08:01:52.556Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年度の金融市場調節取引対象先について、定例選定による公募を実施することを公表した。対象先選定の詳細はオペレーション等の対象先公募・選定に掲載される。",
+        "金融機関等は日本銀行の金融市場調節取引の対象先となることを希望する場合、2026年度の公募に応募して選定要件を満たす必要がある。",
+        "金融市場調節取引の対象先公募は2026年8月3日の日本銀行公表により開始され、詳細な応募要件・期限等は日本銀行金融市場局の関連資料で確認される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【記者会見】植田総裁（7月31日分）",
+      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260803a.pdf",
+      "date": "2026-08-03",
+      "detectedAt": "2026-08-03T08:01:47.230Z",
+      "enriched": "2026-08-03T08:01:52.556Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日銀は7月31日の金融政策決定会合で、無担保コールレート・オーバーナイト物を1.0％程度で推移するよう促す方針を賛成多数で維持し、高田委員が提出した1.25％程度への引き上げ議案は反対多数で否決された。",
+        "日銀は展望レポートで2026年度後半以降、生鮮食品を除く消費者物価が2％をはっきり上回る水準まで伸び率を高めると予想し、基調的物価上昇率が2％の物価安定目標を超えて上振れるリスクが大きいと判断している。",
+        "日銀は基調的物価上昇率が2％に近づく中、中東情勢やAI関連需要、為替相場の影響を注視しながら、経済・物価情勢に応じて政策金利の引き上げと金融緩和度合いの調整を進める方針で、次回以降の決定会合で議論する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "経済・物価情勢の展望（7月、全文）",
+      "url": "https://www.boj.or.jp/mopo/outlook/gor2607b.pdf",
+      "date": "2026-08-03",
+      "detectedAt": "2026-08-03T08:01:47.230Z",
+      "enriched": "2026-08-03T08:01:52.556Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年7月の経済・物価見通しで、2026年度後半以降の消費者物価（除く生鮮食品）が2％をはっきりと上回る水準まで伸び率を高め、2026年度後半から2027年度にかけて「物価安定の目標」と概ね整合的な水準となると予想している。",
+        "2026年度については中東情勢による原油価格上昇が下押し要因となるが、グローバルなAI関連需要の増加、政府のエネルギー負担緩和策（電気・ガス代）、緩和的な金融環境が下支えとなり、わが国経済は伸び率を縮小しつつも緩やかな成長を続けるとみられる。",
+        "基調的な物価上昇率が2％に近づいていることを踏まえ、日本銀行は今後「物価安定の目標」の持続的・安定的な実現という観点から、これが2％程度の水準で定着するかどうかを確認していくことが重要と判断している（2026年7月決定）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX,東証,OSE,TOCOM]2026年7月の売買状況について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/20260803-11.html",
+      "date": "2026-08-03",
+      "detectedAt": "2026-08-03T08:01:47.230Z",
+      "enriched": "2026-08-03T08:01:52.556Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証プライム市場の1日平均売買代金が11兆6,019億円、前年同月比+119.6％に達した。デリバティブ合計取引高は4,853万6,440単位で7月として過去最高、取引代金は401兆円で過去最高を記録。",
+        "投資家・トレーダーは、特に有価証券オプション（過去最高84万7,586単位）、日経225マイクロ先物（過去2番目2,327万3,259単位）、ナイト・セッション（シェア41.8％）など各市場セグメントの活発な取引動向を認識した上で投資判断を行う必要がある。",
+        "本統計は2026年7月の日本取引所グループ（大阪取引所・東京商品取引所含む）の売買状況を示すもので、月次公表資料として取引参加者等が市場動向把握に活用する基礎情報として位置付けられる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]JPXマンスリー・ヘッドライン（7月分）について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260803-02.html",
+      "date": "2026-08-03",
+      "detectedAt": "2026-08-03T08:01:47.230Z",
+      "enriched": "2026-08-03T08:01:52.556Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "コーポレートガバナンス・コード2026年7月版が公表され、投資単位引下げ要請及び少額投資実現に向けた制度・実務ワーキンググループが7月28日に設置された。",
+        "上場企業及びJPX利用者は、更新されたガバナンス・コードの内容確認と少額投資制度対応について、JPXが示す方向性に従う必要がある。",
+        "コーポレートガバナンス・コード2026年7月版は7月21日公表、制度・実務WG設置は7月28日であり、今後の具体的な要請内容はJPXからの別途通知に基づく。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]「IPO経営人材育成プログラムNIIGATA（第4期）～新潟県から新たな上場企業を～」の開講について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1071/20260803-01.html",
+      "date": "2026-08-03",
+      "detectedAt": "2026-08-03T08:01:47.230Z",
+      "enriched": "2026-08-03T08:01:52.556Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証と新潟県等の共催者が、IPOを目指す新潟県内企業の経営者層を対象とした「IPO経営人材育成プログラムNIIGATA（第4期）」を2026年10月～12月に全4回開催し、過去3期で3社がTOKYO PRO Market上場を実現。",
+        "新潟県所在でIPO検討企業のCEO又はCFOクラスは、9月15日までに申し込み、会場での全4日8講義参加（参加費1社10,000円）が必須。",
+        "プログラムは上場体験談、内部管理体制構築、コーポレートガバナンス体制構築、人材採用と人事制度構築をテーマとする野村證券・EY新日本監査法人等の講師による実務的講義で構成。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "協会ウェブサイト及び会員マイページ等のメンテナンスについて",
+      "url": "https://jicpa.or.jp/news/information/2026/20260803feg.html",
+      "date": "2026-08-03",
+      "detectedAt": "2026-08-03T08:01:47.230Z",
+      "enriched": "2026-08-03T08:01:52.556Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年8月3日18時00分からウェブサイトのメンテナンスを実施し、公認会計士開業登録申請画面・準会員入会申請画面・会員マイページ・電子提出システム・有報サーチがアクセス不可になる。",
+        "協会ウェブサイトの利用者及び会員は、メンテナンス中（所要時間30分～1時間程度）これらの画面・システムにアクセスできないため、事前に必要な手続を完了するか作業完了後に利用する必要がある。",
+        "本メンテナンスは2026年8月3日18時00分から実施され、作業状況により停止時間が前後する可能性がある旨、日本公認会計士協会が通知している。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "協会員の異動状況等を更新しました。",
@@ -9754,6 +9859,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "BTCBOX、約半年ぶりに一部サービス再開へ。ログイン・暗号資産入庫から",
+        "url": "https://news.yahoo.co.jp/articles/029684d7fc99d26a70522df9e5f063bf92e050f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【墨汁うまい氏寄稿】暗号資産分離課税へ王手、投資家が見落とす「対象外」の盲点とは？",
         "url": "https://news.yahoo.co.jp/articles/fed2b715b6821468ec8a04c447894e001489976c",
         "source": "Yahoo",
@@ -9780,18 +9891,18 @@
       {
         "title": "トークン化資産の時価総額が66億ドルに急成長＝CoinGecko",
         "url": "https://news.yahoo.co.jp/articles/19664d22c931ba78449a9c0a80f9429c5c28cf91",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
-        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "BTCBOX、約半年ぶりに一部サービス再開へ。ログイン・暗号資産入庫から",
+        "url": "https://news.yahoo.co.jp/articles/029684d7fc99d26a70522df9e5f063bf92e050f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【墨汁うまい氏寄稿】暗号資産分離課税へ王手、投資家が見落とす「対象外」の盲点とは？",
         "url": "https://news.yahoo.co.jp/articles/fed2b715b6821468ec8a04c447894e001489976c",
         "source": "Yahoo",
@@ -9820,15 +9931,15 @@
         "url": "https://news.yahoo.co.jp/articles/19664d22c931ba78449a9c0a80f9429c5c28cf91",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
-        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
+        "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ビットゲット、日本居住者向けサービス終了へ。年末に未決済ポジション強制決済",
         "url": "https://news.yahoo.co.jp/articles/6811542efe3b0a6156ac06dee42c6e147cdfda39",
@@ -9856,18 +9967,18 @@
       {
         "title": "中間選挙が左右するCLARITY Actの行方──暗号資産規制の本当の焦点【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/f4e6560794eeb9999c4f8c991bbeb3da0e1fa411",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.6】",
-        "url": "https://news.yahoo.co.jp/articles/1934bba4bb5c8754d58ba7703bef38fd388a1e6f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
+        "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットゲット、日本居住者向けサービス終了へ。年末に未決済ポジション強制決済",
         "url": "https://news.yahoo.co.jp/articles/6811542efe3b0a6156ac06dee42c6e147cdfda39",
         "source": "Yahoo",
@@ -9894,12 +10005,6 @@
       {
         "title": "中間選挙が左右するCLARITY Actの行方──暗号資産規制の本当の焦点【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/f4e6560794eeb9999c4f8c991bbeb3da0e1fa411",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.6】",
-        "url": "https://news.yahoo.co.jp/articles/1934bba4bb5c8754d58ba7703bef38fd388a1e6f",
         "source": "Yahoo",
         "date": ""
       }
@@ -10058,6 +10163,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "リップルの米ドルステーブルコイン「RLUSD」、韓国4取引所で取引可能に。アップビット・ビッサムなど",
+        "url": "https://news.yahoo.co.jp/articles/65cf192ae937d2b2814eea76758c4f9ed0ca253f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ローソン、POSレジでステーブルコイン決済 2店舗で実証",
+        "url": "https://news.yahoo.co.jp/articles/e3c54c4c85956ae47e2cbda38daa3d4e5d5027b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
+        "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "WebX「3つの観察」から読み解くオンチェーン金融、日本企業を縛る“同調圧力”の正体 さらに、ステーブルコインとトークン化預金の整理についても、話題に依らず、常に両者を明確に区別して議論していた。特に、ステーブルコインを広く決済で使",
         "url": "https://news.yahoo.co.jp/articles/72d8f3ddfed6e066854d130cf80e2352fc07b3c6",
         "source": "Yahoo",
@@ -10072,30 +10195,30 @@
       {
         "title": "ステーブルコイン送金に一貫したコスト優位性なし＝イタリア中銀",
         "url": "https://news.yahoo.co.jp/articles/5854cf1c22a670f662c4555e38eb647fb26a90be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "8月の暗号資産市場、ポートフォリオをどう設計するか──上昇を追わず、次の機会に備える【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/8107163b97038f099321ef3dc32f663ea4047e38",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY Actはなぜ止まったのか。中間選挙が暗号資産市場を左右する理由【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/cfbccdccda26f601c1997c66ca00675020abfb39",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC岡部氏、熊本地震支援でステーブルコイン寄付を金融庁に照会／【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？ 【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/6633a8583b8654ec87566da806fb71e174887785",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "リップルの米ドルステーブルコイン「RLUSD」、韓国4取引所で取引可能に。アップビット・ビッサムなど",
+        "url": "https://news.yahoo.co.jp/articles/65cf192ae937d2b2814eea76758c4f9ed0ca253f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ローソン、POSレジでステーブルコイン決済 2店舗で実証",
+        "url": "https://news.yahoo.co.jp/articles/e3c54c4c85956ae47e2cbda38daa3d4e5d5027b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
+        "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "WebX「3つの観察」から読み解くオンチェーン金融、日本企業を縛る“同調圧力”の正体 さらに、ステーブルコインとトークン化預金の整理についても、話題に依らず、常に両者を明確に区別して議論していた。特に、ステーブルコインを広く決済で使",
         "url": "https://news.yahoo.co.jp/articles/72d8f3ddfed6e066854d130cf80e2352fc07b3c6",
         "source": "Yahoo",
@@ -10110,24 +10233,6 @@
       {
         "title": "ステーブルコイン送金に一貫したコスト優位性なし＝イタリア中銀",
         "url": "https://news.yahoo.co.jp/articles/5854cf1c22a670f662c4555e38eb647fb26a90be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "8月の暗号資産市場、ポートフォリオをどう設計するか──上昇を追わず、次の機会に備える【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/8107163b97038f099321ef3dc32f663ea4047e38",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY Actはなぜ止まったのか。中間選挙が暗号資産市場を左右する理由【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/cfbccdccda26f601c1997c66ca00675020abfb39",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC岡部氏、熊本地震支援でステーブルコイン寄付を金融庁に照会／【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？ 【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/6633a8583b8654ec87566da806fb71e174887785",
         "source": "Yahoo",
         "date": ""
       }
@@ -10848,6 +10953,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "講談社、最大3812件の個人情報流出 社員がフィッシングメールに騙される",
+        "url": "https://news.yahoo.co.jp/articles/00f616abf46f9addd6defc7740f3a8b9b68e9383",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "講談社、不正アクセスによる個人情報流出で謝罪「電子メールから個人情報の漏えいが発生」",
         "url": "https://news.yahoo.co.jp/articles/ccffeee50189ddceafba9d9f31ab90092f76181b",
         "source": "Yahoo",
@@ -10874,18 +10985,18 @@
       {
         "title": "個人情報取り扱いに新指針 政府、改正法施行へ来秋公表 政府の個人情報保護委員会は31日、記者会見を開き、改正個人情報保護法の2年後の施行に向けた工程表を発表した。 個人情報の取り扱いに関する実務上の",
         "url": "https://news.yahoo.co.jp/articles/a3c02ab0a41f671b6653ce168ea7add4d6573de7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報流出の韓国通販クーパン 紛争調停委が1人1万円超の賠償決定",
-        "url": "https://news.yahoo.co.jp/articles/2488d6bf2bc8f232ca606f6ba27537ec5742d823",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "講談社、最大3812件の個人情報流出 社員がフィッシングメールに騙される",
+        "url": "https://news.yahoo.co.jp/articles/00f616abf46f9addd6defc7740f3a8b9b68e9383",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "講談社、不正アクセスによる個人情報流出で謝罪「電子メールから個人情報の漏えいが発生」",
         "url": "https://news.yahoo.co.jp/articles/ccffeee50189ddceafba9d9f31ab90092f76181b",
         "source": "Yahoo",
@@ -10912,18 +11023,18 @@
       {
         "title": "個人情報取り扱いに新指針 政府、改正法施行へ来秋公表 政府の個人情報保護委員会は31日、記者会見を開き、改正個人情報保護法の2年後の施行に向けた工程表を発表した。 個人情報の取り扱いに関する実務上の",
         "url": "https://news.yahoo.co.jp/articles/a3c02ab0a41f671b6653ce168ea7add4d6573de7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報流出の韓国通販クーパン 紛争調停委が1人1万円超の賠償決定",
-        "url": "https://news.yahoo.co.jp/articles/2488d6bf2bc8f232ca606f6ba27537ec5742d823",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "講談社、最大3812件の個人情報流出 社員がフィッシングメールに騙される",
+        "url": "https://news.yahoo.co.jp/articles/00f616abf46f9addd6defc7740f3a8b9b68e9383",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "講談社、不正アクセスによる個人情報流出で謝罪「電子メールから個人情報の漏えいが発生」",
         "url": "https://news.yahoo.co.jp/articles/ccffeee50189ddceafba9d9f31ab90092f76181b",
         "source": "Yahoo",
@@ -10950,12 +11061,6 @@
       {
         "title": "個人情報取り扱いに新指針 政府、改正法施行へ来秋公表 政府の個人情報保護委員会は31日、記者会見を開き、改正個人情報保護法の2年後の施行に向けた工程表を発表した。 個人情報の取り扱いに関する実務上の",
         "url": "https://news.yahoo.co.jp/articles/a3c02ab0a41f671b6653ce168ea7add4d6573de7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報流出の韓国通販クーパン 紛争調停委が1人1万円超の賠償決定",
-        "url": "https://news.yahoo.co.jp/articles/2488d6bf2bc8f232ca606f6ba27537ec5742d823",
         "source": "Yahoo",
         "date": ""
       }
