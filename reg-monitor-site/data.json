@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-03T08:01:47.230Z",
+  "generatedAt": "2026-08-03T12:00:04.178Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）ＪＰＭＣ",
+      "url": "https://www.jpx.co.jp/news/1023/20260803-11.html",
+      "date": "2026-08-03",
+      "detectedAt": "2026-08-03T12:00:04.178Z",
+      "enriched": "2026-08-03T12:00:08.875Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）JPMCは、Amsterdam1及びAmsterdam2による公開買付けに対して賛同を表明し、公開買付け成立後の上場廃止に向けて株式併合議案が株主総会で承認される見込みのため監理銘柄（確認中）に指定される",
+        "同社株主は当該株式併合により、特定の者以外の株主の保有する株式が1株に満たない端数となる比率での整理が行われることについて、株主総会の承認に向けて対応することが想定される",
+        "指定は2026年8月3日から東京証券取引所が上場廃止基準への該当を認定する日までの期間、有価証券上場規程施行規則第604条第1項第24号に基づく"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「会長声明「令和８年熊本地震について」の発出について」",
+      "url": "https://jicpa.or.jp/news/information/2026/20260803sij.html",
+      "date": "2026-08-03",
+      "detectedAt": "2026-08-03T12:00:04.178Z",
+      "enriched": "2026-08-03T12:00:08.875Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本公認会計士協会が2026年8月3日付けで会長声明「令和８年熊本地震について」を発出した",
+        "本文に会長声明の具体的内容が記載されておらず、詳細はURLリンク先で参照する必要がある",
+        "本プレスリリースは会長声明の発出を報告するもので、具体的な規制変更や実務対応を示すものではない"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "金融市場調節取引の2026年度対象先公募等について",
@@ -9935,6 +9965,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "イタリア中銀、ステーブルコイン「USDC」の送金効率を実取引で検証＝レポート",
+        "url": "https://news.yahoo.co.jp/articles/3e26d95043ed6e2f9315e452dcce50071a8fde34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Robinhood、予測市場による収益が暗号資産と株式を上回る──取引所の取得と、連邦・州で割れる規制【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/3924b189b79d4871dd05934063ff106f811239e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
         "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
         "source": "Yahoo",
@@ -9955,24 +9997,24 @@
       {
         "title": "8月の暗号資産市場、ポートフォリオをどう設計するか──上昇を追わず、次の機会に備える【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/8107163b97038f099321ef3dc32f663ea4047e38",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC岡部氏、熊本地震支援でステーブルコイン寄付を金融庁に照会／【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？ 【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/6633a8583b8654ec87566da806fb71e174887785",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中間選挙が左右するCLARITY Actの行方──暗号資産規制の本当の焦点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/f4e6560794eeb9999c4f8c991bbeb3da0e1fa411",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "イタリア中銀、ステーブルコイン「USDC」の送金効率を実取引で検証＝レポート",
+        "url": "https://news.yahoo.co.jp/articles/3e26d95043ed6e2f9315e452dcce50071a8fde34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Robinhood、予測市場による収益が暗号資産と株式を上回る──取引所の取得と、連邦・州で割れる規制【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/3924b189b79d4871dd05934063ff106f811239e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
         "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
         "source": "Yahoo",
@@ -9993,18 +10035,6 @@
       {
         "title": "8月の暗号資産市場、ポートフォリオをどう設計するか──上昇を追わず、次の機会に備える【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/8107163b97038f099321ef3dc32f663ea4047e38",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC岡部氏、熊本地震支援でステーブルコイン寄付を金融庁に照会／【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？ 【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/6633a8583b8654ec87566da806fb71e174887785",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中間選挙が左右するCLARITY Actの行方──暗号資産規制の本当の焦点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/f4e6560794eeb9999c4f8c991bbeb3da0e1fa411",
         "source": "Yahoo",
         "date": ""
       }
@@ -10163,6 +10193,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ローソン、MetaMask決済を実証──米ドル建てステーブルコインも対象に",
+        "url": "https://news.yahoo.co.jp/articles/9a77aa540ae3c14e10d1a3293608024749a59b0a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イタリア中銀、ステーブルコイン「USDC」の送金効率を実取引で検証＝レポート",
+        "url": "https://news.yahoo.co.jp/articles/3e26d95043ed6e2f9315e452dcce50071a8fde34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップルの米ドルステーブルコイン「RLUSD」、韓国4取引所で取引可能に。アップビット・ビッサムなど",
         "url": "https://news.yahoo.co.jp/articles/65cf192ae937d2b2814eea76758c4f9ed0ca253f",
         "source": "Yahoo",
@@ -10183,24 +10225,24 @@
       {
         "title": "WebX「3つの観察」から読み解くオンチェーン金融、日本企業を縛る“同調圧力”の正体 さらに、ステーブルコインとトークン化預金の整理についても、話題に依らず、常に両者を明確に区別して議論していた。特に、ステーブルコインを広く決済で使",
         "url": "https://news.yahoo.co.jp/articles/72d8f3ddfed6e066854d130cf80e2352fc07b3c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Tether、第2四半期に15億ドルの純営業利益──超過準備金は半減",
-        "url": "https://news.yahoo.co.jp/articles/31b936fa9c8ce1ab3af238097d715dedc91605c4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン送金に一貫したコスト優位性なし＝イタリア中銀",
-        "url": "https://news.yahoo.co.jp/articles/5854cf1c22a670f662c4555e38eb647fb26a90be",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ローソン、MetaMask決済を実証──米ドル建てステーブルコインも対象に",
+        "url": "https://news.yahoo.co.jp/articles/9a77aa540ae3c14e10d1a3293608024749a59b0a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イタリア中銀、ステーブルコイン「USDC」の送金効率を実取引で検証＝レポート",
+        "url": "https://news.yahoo.co.jp/articles/3e26d95043ed6e2f9315e452dcce50071a8fde34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップルの米ドルステーブルコイン「RLUSD」、韓国4取引所で取引可能に。アップビット・ビッサムなど",
         "url": "https://news.yahoo.co.jp/articles/65cf192ae937d2b2814eea76758c4f9ed0ca253f",
         "source": "Yahoo",
@@ -10221,18 +10263,6 @@
       {
         "title": "WebX「3つの観察」から読み解くオンチェーン金融、日本企業を縛る“同調圧力”の正体 さらに、ステーブルコインとトークン化預金の整理についても、話題に依らず、常に両者を明確に区別して議論していた。特に、ステーブルコインを広く決済で使",
         "url": "https://news.yahoo.co.jp/articles/72d8f3ddfed6e066854d130cf80e2352fc07b3c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Tether、第2四半期に15億ドルの純営業利益──超過準備金は半減",
-        "url": "https://news.yahoo.co.jp/articles/31b936fa9c8ce1ab3af238097d715dedc91605c4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン送金に一貫したコスト優位性なし＝イタリア中銀",
-        "url": "https://news.yahoo.co.jp/articles/5854cf1c22a670f662c4555e38eb647fb26a90be",
         "source": "Yahoo",
         "date": ""
       }
@@ -10953,6 +10983,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "講談社、フィッシング被害でメールアカウントの連絡先情報最大3812件が漏えい",
+        "url": "https://news.yahoo.co.jp/articles/6259b86bdd4508ff96fc27a26860e3cfd66073ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "講談社に不正アクセス 最大3812件の個人情報流出",
+        "url": "https://news.yahoo.co.jp/articles/e1d055dc6042491bb52752a36ecfef64fed7c2b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "講談社、最大3812件の個人情報流出 社員がフィッシングメールに騙される",
         "url": "https://news.yahoo.co.jp/articles/00f616abf46f9addd6defc7740f3a8b9b68e9383",
         "source": "Yahoo",
@@ -10973,24 +11015,24 @@
       {
         "title": "会見する個情委事務局長",
         "url": "https://news.yahoo.co.jp/articles/3f03322ba4964ce60d2f2218ce67076a3c9e7f34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護法、8月に不正防止策の全体像 AI開発で同意不要に 7月に成立した改正個人情報保護法をめぐり、個人情報保護委員会は31日、不正利用などを防ぐための規則やガイドラインについて、8月中に論点などの全体像",
-        "url": "https://news.yahoo.co.jp/articles/74c697e64fd9fbcb30faf855262eb5214e603dc6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報取り扱いに新指針 政府、改正法施行へ来秋公表 政府の個人情報保護委員会は31日、記者会見を開き、改正個人情報保護法の2年後の施行に向けた工程表を発表した。 個人情報の取り扱いに関する実務上の",
-        "url": "https://news.yahoo.co.jp/articles/a3c02ab0a41f671b6653ce168ea7add4d6573de7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "講談社、フィッシング被害でメールアカウントの連絡先情報最大3812件が漏えい",
+        "url": "https://news.yahoo.co.jp/articles/6259b86bdd4508ff96fc27a26860e3cfd66073ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "講談社に不正アクセス 最大3812件の個人情報流出",
+        "url": "https://news.yahoo.co.jp/articles/e1d055dc6042491bb52752a36ecfef64fed7c2b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "講談社、最大3812件の個人情報流出 社員がフィッシングメールに騙される",
         "url": "https://news.yahoo.co.jp/articles/00f616abf46f9addd6defc7740f3a8b9b68e9383",
         "source": "Yahoo",
@@ -11011,24 +11053,24 @@
       {
         "title": "会見する個情委事務局長",
         "url": "https://news.yahoo.co.jp/articles/3f03322ba4964ce60d2f2218ce67076a3c9e7f34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護法、8月に不正防止策の全体像 AI開発で同意不要に 7月に成立した改正個人情報保護法をめぐり、個人情報保護委員会は31日、不正利用などを防ぐための規則やガイドラインについて、8月中に論点などの全体像",
-        "url": "https://news.yahoo.co.jp/articles/74c697e64fd9fbcb30faf855262eb5214e603dc6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報取り扱いに新指針 政府、改正法施行へ来秋公表 政府の個人情報保護委員会は31日、記者会見を開き、改正個人情報保護法の2年後の施行に向けた工程表を発表した。 個人情報の取り扱いに関する実務上の",
-        "url": "https://news.yahoo.co.jp/articles/a3c02ab0a41f671b6653ce168ea7add4d6573de7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "講談社、フィッシング被害でメールアカウントの連絡先情報最大3812件が漏えい",
+        "url": "https://news.yahoo.co.jp/articles/6259b86bdd4508ff96fc27a26860e3cfd66073ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "講談社に不正アクセス 最大3812件の個人情報流出",
+        "url": "https://news.yahoo.co.jp/articles/e1d055dc6042491bb52752a36ecfef64fed7c2b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "講談社、最大3812件の個人情報流出 社員がフィッシングメールに騙される",
         "url": "https://news.yahoo.co.jp/articles/00f616abf46f9addd6defc7740f3a8b9b68e9383",
         "source": "Yahoo",
@@ -11049,18 +11091,6 @@
       {
         "title": "会見する個情委事務局長",
         "url": "https://news.yahoo.co.jp/articles/3f03322ba4964ce60d2f2218ce67076a3c9e7f34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護法、8月に不正防止策の全体像 AI開発で同意不要に 7月に成立した改正個人情報保護法をめぐり、個人情報保護委員会は31日、不正利用などを防ぐための規則やガイドラインについて、8月中に論点などの全体像",
-        "url": "https://news.yahoo.co.jp/articles/74c697e64fd9fbcb30faf855262eb5214e603dc6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報取り扱いに新指針 政府、改正法施行へ来秋公表 政府の個人情報保護委員会は31日、記者会見を開き、改正個人情報保護法の2年後の施行に向けた工程表を発表した。 個人情報の取り扱いに関する実務上の",
-        "url": "https://news.yahoo.co.jp/articles/a3c02ab0a41f671b6653ce168ea7add4d6573de7",
         "source": "Yahoo",
         "date": ""
       }
