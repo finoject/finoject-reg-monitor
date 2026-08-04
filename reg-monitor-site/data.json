@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-08-04T03:52:46.522Z",
+  "generatedAt": "2026-08-04T07:20:31.367Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）レイシャス",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-08-04",
+      "detectedAt": "2026-08-04T07:20:31.367Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-04T07:20:36.785Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "PSJ予測統計値",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
+      "date": "2026-08-04",
+      "detectedAt": "2026-08-04T07:20:31.367Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
+        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
+        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-04T07:20:36.786Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（日銀レビュー）日本銀行による国債買入れ減額の国債市場への影響",
+      "url": "https://www.boj.or.jp/research/wps_rev/rev_2026/rev26j11.htm",
+      "date": "2026-08-04",
+      "detectedAt": "2026-08-04T07:20:31.367Z",
+      "enriched": "2026-08-04T07:20:36.786Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2024年7月の減額計画決定以降、長期国債の月間買入れ額を段階的に減額し、2027年3月時点で月間2兆円程度（減額開始前の約3分の1）とする予定である。",
+        "銀行や個人投資家は国債保有を増やしており、これらポートフォリオ調整の進捗状況と国債市場の機能度改善を日本銀行が継続的に点検・監視することが示された。",
+        "長期金利は市場で自由に形成されることを基本としつつ、例外的に急激な上昇等が生じた場合は国債買入れ増額等の機動的措置を実施する柔軟性を確保している。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "（論文）金融研究所DPS：銀行企業間の地理的距離と貸出金利の再検討：構造推定アプローチ",
@@ -968,22 +1015,6 @@
         "速やかに上場廃止すべき事情が発生した場合は整理銘柄指定期間と上場廃止日が変更されることがある。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（TOKYO PRO Market）：山八商事（株）",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-07-30",
-      "detectedAt": "2026-07-30T07:18:17.612Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-30T07:18:27.461Z"
     },
     {
       "agency": "日本証券業協会",
@@ -2661,22 +2692,6 @@
         "調整は2026年7月30日から適用開始、2026年8月1日の株式分割効力発生日を基準として実施される（大阪取引所が実施主体）。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "PSJ予測統計値",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
-      "date": "2026-07-16",
-      "detectedAt": "2026-07-16T07:07:00.128Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
-        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
-        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-16T07:07:05.871Z"
     },
     {
       "agency": "日本証券業協会",
@@ -10045,6 +10060,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
+        "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "南アフリカ、暗号資産の越境移転に規制案。認可業者経由・中銀報告を義務化へ",
+        "url": "https://news.yahoo.co.jp/articles/8092a3d0d71b0db95534a30952b0ad531e963bc5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ブーストリーとデジタルアセットが協業、カントン対応マルチチェーンウォレット年内提供へ",
+        "url": "https://news.yahoo.co.jp/articles/e0be75170d7114fadf054e94f3de06e04fd7f2cf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Bitgetの日本撤退に対し、Bitget Walletが継続提供を強調──「日本ローカライズに努める」",
         "url": "https://news.yahoo.co.jp/articles/c11d490b8dba709b2c2995ac2c314fd7b0462378",
         "source": "Yahoo",
@@ -10059,30 +10092,30 @@
       {
         "title": "Bernstein、クラリティ法案の遅れは市場に逆風も「規制整備は前進」＝The Block",
         "url": "https://news.yahoo.co.jp/articles/c85ce01bdf59c2ba8c497e3b562345a629c5f0c7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イタリア中銀、ステーブルコイン「USDC」の送金効率を実取引で検証＝レポート",
-        "url": "https://news.yahoo.co.jp/articles/3e26d95043ed6e2f9315e452dcce50071a8fde34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Robinhood、予測市場による収益が暗号資産と株式を上回る──取引所の取得と、連邦・州で割れる規制【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/3924b189b79d4871dd05934063ff106f811239e6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
-        "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
+        "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "南アフリカ、暗号資産の越境移転に規制案。認可業者経由・中銀報告を義務化へ",
+        "url": "https://news.yahoo.co.jp/articles/8092a3d0d71b0db95534a30952b0ad531e963bc5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ブーストリーとデジタルアセットが協業、カントン対応マルチチェーンウォレット年内提供へ",
+        "url": "https://news.yahoo.co.jp/articles/e0be75170d7114fadf054e94f3de06e04fd7f2cf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Bitgetの日本撤退に対し、Bitget Walletが継続提供を強調──「日本ローカライズに努める」",
         "url": "https://news.yahoo.co.jp/articles/c11d490b8dba709b2c2995ac2c314fd7b0462378",
         "source": "Yahoo",
@@ -10097,24 +10130,6 @@
       {
         "title": "Bernstein、クラリティ法案の遅れは市場に逆風も「規制整備は前進」＝The Block",
         "url": "https://news.yahoo.co.jp/articles/c85ce01bdf59c2ba8c497e3b562345a629c5f0c7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イタリア中銀、ステーブルコイン「USDC」の送金効率を実取引で検証＝レポート",
-        "url": "https://news.yahoo.co.jp/articles/3e26d95043ed6e2f9315e452dcce50071a8fde34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Robinhood、予測市場による収益が暗号資産と株式を上回る──取引所の取得と、連邦・州で割れる規制【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/3924b189b79d4871dd05934063ff106f811239e6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
-        "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
         "source": "Yahoo",
         "date": ""
       }
@@ -10209,12 +10224,6 @@
         "date": ""
       },
       {
-        "title": "PS5版『GTA6』日本向けパッケージ版のコードは発売170日後に失効するので注意―期限付きになっている理由とは",
-        "url": "https://news.yahoo.co.jp/articles/9ec180b5540bf16360e18247737099740642002a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
         "source": "Yahoo",
@@ -10229,6 +10238,12 @@
       {
         "title": "日本初！OCS商品券の自販機設置 琉球銀行本店 沖縄",
         "url": "https://news.yahoo.co.jp/articles/1a910975e08baf1a2bdc714ca114a19b7e98bd6c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「MIXI M」残高の払い戻し期限は3月6日15時まで #エキスパートトピ",
+        "url": "https://news.yahoo.co.jp/expert/articles/ba8ce2d2e21fccc68e99f7677395e45960d54a42",
         "source": "Yahoo",
         "date": ""
       }
@@ -10247,12 +10262,6 @@
         "date": ""
       },
       {
-        "title": "PS5版『GTA6』日本向けパッケージ版のコードは発売170日後に失効するので注意―期限付きになっている理由とは",
-        "url": "https://news.yahoo.co.jp/articles/9ec180b5540bf16360e18247737099740642002a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
         "source": "Yahoo",
@@ -10269,9 +10278,39 @@
         "url": "https://news.yahoo.co.jp/articles/1a910975e08baf1a2bdc714ca114a19b7e98bd6c",
         "source": "Yahoo",
         "date": ""
+      },
+      {
+        "title": "「MIXI M」残高の払い戻し期限は3月6日15時まで #エキスパートトピ",
+        "url": "https://news.yahoo.co.jp/expert/articles/ba8ce2d2e21fccc68e99f7677395e45960d54a42",
+        "source": "Yahoo",
+        "date": ""
       }
     ],
     "505M60000002048": [
+      {
+        "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
+        "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ブーストリーとデジタルアセットが協業、カントン対応マルチチェーンウォレット年内提供へ",
+        "url": "https://news.yahoo.co.jp/articles/e0be75170d7114fadf054e94f3de06e04fd7f2cf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ネットスターズ、ローソン店舗でステーブルコイン決済実証へ、USDC・USDT・JPYC対象に既存POSと連携",
+        "url": "https://news.yahoo.co.jp/articles/0f841cd80f37d9179e2dc51107615a7c533d23c2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ローソン、ステーブルコインで「PayPay感覚」の支払い 一部店舗で実証実験",
+        "url": "https://news.yahoo.co.jp/articles/b9e7d1d3129a06ff524d6a0ce2b42be6471e2570",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "野村BOOSTRY、Canton基盤のマルチチェーンウォレットを年内提供へ──米Digital Assetと協業",
         "url": "https://news.yahoo.co.jp/articles/5ba54ef33f47a700290d3311471e7f9d0e773444",
@@ -10281,36 +10320,36 @@
       {
         "title": "BlackRock、トークン化MMF2商品を提供開始",
         "url": "https://news.yahoo.co.jp/articles/3b0b1c5ecaafdc3571034865f9e2f22384f5d13e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソン、MetaMask決済を実証──米ドル建てステーブルコインも対象に",
-        "url": "https://news.yahoo.co.jp/articles/9a77aa540ae3c14e10d1a3293608024749a59b0a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イタリア中銀、ステーブルコイン「USDC」の送金効率を実取引で検証＝レポート",
-        "url": "https://news.yahoo.co.jp/articles/3e26d95043ed6e2f9315e452dcce50071a8fde34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップルの米ドルステーブルコイン「RLUSD」、韓国4取引所で取引可能に。アップビット・ビッサムなど",
-        "url": "https://news.yahoo.co.jp/articles/65cf192ae937d2b2814eea76758c4f9ed0ca253f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソン、POSレジでステーブルコイン決済 2店舗で実証",
-        "url": "https://news.yahoo.co.jp/articles/e3c54c4c85956ae47e2cbda38daa3d4e5d5027b9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
+        "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ブーストリーとデジタルアセットが協業、カントン対応マルチチェーンウォレット年内提供へ",
+        "url": "https://news.yahoo.co.jp/articles/e0be75170d7114fadf054e94f3de06e04fd7f2cf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ネットスターズ、ローソン店舗でステーブルコイン決済実証へ、USDC・USDT・JPYC対象に既存POSと連携",
+        "url": "https://news.yahoo.co.jp/articles/0f841cd80f37d9179e2dc51107615a7c533d23c2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ローソン、ステーブルコインで「PayPay感覚」の支払い 一部店舗で実証実験",
+        "url": "https://news.yahoo.co.jp/articles/b9e7d1d3129a06ff524d6a0ce2b42be6471e2570",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "野村BOOSTRY、Canton基盤のマルチチェーンウォレットを年内提供へ──米Digital Assetと協業",
         "url": "https://news.yahoo.co.jp/articles/5ba54ef33f47a700290d3311471e7f9d0e773444",
         "source": "Yahoo",
@@ -10319,30 +10358,6 @@
       {
         "title": "BlackRock、トークン化MMF2商品を提供開始",
         "url": "https://news.yahoo.co.jp/articles/3b0b1c5ecaafdc3571034865f9e2f22384f5d13e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソン、MetaMask決済を実証──米ドル建てステーブルコインも対象に",
-        "url": "https://news.yahoo.co.jp/articles/9a77aa540ae3c14e10d1a3293608024749a59b0a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イタリア中銀、ステーブルコイン「USDC」の送金効率を実取引で検証＝レポート",
-        "url": "https://news.yahoo.co.jp/articles/3e26d95043ed6e2f9315e452dcce50071a8fde34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップルの米ドルステーブルコイン「RLUSD」、韓国4取引所で取引可能に。アップビット・ビッサムなど",
-        "url": "https://news.yahoo.co.jp/articles/65cf192ae937d2b2814eea76758c4f9ed0ca253f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソン、POSレジでステーブルコイン決済 2店舗で実証",
-        "url": "https://news.yahoo.co.jp/articles/e3c54c4c85956ae47e2cbda38daa3d4e5d5027b9",
         "source": "Yahoo",
         "date": ""
       }
@@ -10891,12 +10906,6 @@
         "date": ""
       },
       {
-        "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
-        "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -10905,6 +10914,12 @@
       {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
         "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
+        "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
         "source": "Yahoo",
         "date": ""
       }
@@ -10929,12 +10944,6 @@
         "date": ""
       },
       {
-        "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
-        "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -10943,6 +10952,12 @@
       {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
         "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
+        "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
         "source": "Yahoo",
         "date": ""
       }
@@ -10967,12 +10982,6 @@
         "date": ""
       },
       {
-        "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
-        "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -10981,6 +10990,12 @@
       {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
         "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
+        "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
         "source": "Yahoo",
         "date": ""
       }
@@ -11005,12 +11020,6 @@
         "date": ""
       },
       {
-        "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
-        "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -11019,6 +11028,12 @@
       {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
         "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
+        "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
         "source": "Yahoo",
         "date": ""
       }
@@ -11043,12 +11058,6 @@
         "date": ""
       },
       {
-        "title": "ナイル高橋飛翔はフィランソロピーで政治、非営利の「構造を変える」",
-        "url": "https://news.yahoo.co.jp/articles/36a266cc308c7da9a8a47a48b8a1c10a3fcec712",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -11057,6 +11066,12 @@
       {
         "title": "日本市場のアクティビスト活動を透明化へ、7月にも対応策-自民PT",
         "url": "https://news.yahoo.co.jp/articles/a60dc99f506533cc32b2f274586ed332fdf6bc7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
+        "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
         "source": "Yahoo",
         "date": ""
       }
