@@ -1,6 +1,67 @@
 {
-  "generatedAt": "2026-08-03T23:48:01.190Z",
+  "generatedAt": "2026-08-04T03:52:46.522Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "（論文）金融研究所DPS：銀行企業間の地理的距離と貸出金利の再検討：構造推定アプローチ",
+      "url": "https://www.boj.or.jp/research/imes/dps/dps260804b.htm",
+      "date": "2026-08-04",
+      "detectedAt": "2026-08-04T03:52:46.522Z",
+      "enriched": "2026-08-04T03:52:52.629Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本論文は銀行と企業間の地理的距離が貸出金利に与える影響を構造推定手法で分析した研究成果である",
+        "金融研究所がディスカッション・ペーパー・シリーズ（E-Series英語版）として公表した学術論文であり、研究関心者の参照を想定している",
+        "日本銀行金融研究所による2026年8月4日公表の研究論文で、特定の法令適用や規制改正には該当しない"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（論文）金融研究所DPS：光量子コンピューティングの現状と展望",
+      "url": "https://www.boj.or.jp/research/imes/dps/dps260804a.htm",
+      "date": "2026-08-04",
+      "detectedAt": "2026-08-04T03:52:46.522Z",
+      "enriched": "2026-08-04T03:52:52.629Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本論文は光量子コンピューティング技術の現状及び将来可能性に関する研究成果であり、金融分野への応用について学術的考察を行っている。",
+        "金融機関の実務担当者は量子コンピューティングの発展動向を認識し、将来的な暗号資産やシステム対応への影響を視野に入れた準備検討が求められる。",
+        "本論文は日本銀行金融研究所のディスカッション・ペーパー・シリーズ（英語版）として公表されており、具体的な法令改正や強制的な対応義務は伴わない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（7月31日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260731.htm",
+      "date": "2026-08-04",
+      "detectedAt": "2026-08-04T03:52:46.522Z",
+      "enriched": "2026-08-04T03:52:52.629Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の2026年7月31日現在の資産合計は644兆2,957億6,548万4千円で、国債519兆3,818億7,564万円が最大構成要素、外国為替12兆43億2,173億9,800万円、貸付金71兆8,588億円を保有。",
+        "日本銀行は発行銀行券114兆9,807億4,448万3千円、当座預金438兆122億2,363万6千円を負債として計上し、金融機関の資金仲介機能を担当。",
+        "2026年7月末時点で気候変動対応支援資金供給オペレーション等による貸付金32兆7,529億円、貸出支援基金39兆1,059億円を含む政策的資金供給を実施中。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "マネタリーベース（7月）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+      "date": "2026-08-03",
+      "detectedAt": "2026-08-04T03:52:46.522Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年5月のマネタリーベースは前年同月比-12.2％で、日銀当座預金（現預金）は-14.7％と縮小が続いており、季節調整済前月比年率では-13.3％。",
+        "統計データは日本銀行調査統計局が公表しており、実務担当者は時系列データ等から金融政策動向及び通貨供給状況を定期的に確認することが必要。",
+        "本統計は毎月公表されるマネタリーベース統計であり、日本銀行の金融統計として金融・経済分析の基礎データとして活用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-04T03:52:52.629Z"
+    },
     {
       "agency": "金融庁",
       "title": "「金融商品取引業等に関する内閣府令の一部を改正する内閣府令」の公布及びパブリックコメントの結果等の公表",
@@ -4295,22 +4356,6 @@
         "変更適用日は令和8年7月1日から。詳細は財務省財務局ホームページhttps://lfb.mof.go.jp/gyomu/lfbrfb_20260701.htmlで確認すること。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "マネタリーベース（6月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
-      "date": "2026-07-01",
-      "detectedAt": "2026-07-02T01:35:33.565Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年5月のマネタリーベースは前年同月比-12.2％で、日銀当座預金（現預金）は-14.7％と縮小が続いており、季節調整済前月比年率では-13.3％。",
-        "統計データは日本銀行調査統計局が公表しており、実務担当者は時系列データ等から金融政策動向及び通貨供給状況を定期的に確認することが必要。",
-        "本統計は毎月公表されるマネタリーベース統計であり、日本銀行の金融統計として金融・経済分析の基礎データとして活用される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-02T01:35:37.918Z"
     },
     {
       "agency": "金融庁",
@@ -10000,6 +10045,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "Bitgetの日本撤退に対し、Bitget Walletが継続提供を強調──「日本ローカライズに努める」",
+        "url": "https://news.yahoo.co.jp/articles/c11d490b8dba709b2c2995ac2c314fd7b0462378",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ブロックチェーン協会、クラリティ法案で全米保安官協会の主張に反論",
         "url": "https://news.yahoo.co.jp/articles/f539c954630f1c1d4827b111f932864c96b4be67",
         "source": "Yahoo",
@@ -10026,18 +10077,18 @@
       {
         "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
         "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットゲット、日本居住者向けサービス終了へ。年末に未決済ポジション強制決済",
-        "url": "https://news.yahoo.co.jp/articles/6811542efe3b0a6156ac06dee42c6e147cdfda39",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Bitgetの日本撤退に対し、Bitget Walletが継続提供を強調──「日本ローカライズに努める」",
+        "url": "https://news.yahoo.co.jp/articles/c11d490b8dba709b2c2995ac2c314fd7b0462378",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ブロックチェーン協会、クラリティ法案で全米保安官協会の主張に反論",
         "url": "https://news.yahoo.co.jp/articles/f539c954630f1c1d4827b111f932864c96b4be67",
         "source": "Yahoo",
@@ -10064,12 +10115,6 @@
       {
         "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
         "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットゲット、日本居住者向けサービス終了へ。年末に未決済ポジション強制決済",
-        "url": "https://news.yahoo.co.jp/articles/6811542efe3b0a6156ac06dee42c6e147cdfda39",
         "source": "Yahoo",
         "date": ""
       }
@@ -10228,6 +10273,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "野村BOOSTRY、Canton基盤のマルチチェーンウォレットを年内提供へ──米Digital Assetと協業",
+        "url": "https://news.yahoo.co.jp/articles/5ba54ef33f47a700290d3311471e7f9d0e773444",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BlackRock、トークン化MMF2商品を提供開始",
         "url": "https://news.yahoo.co.jp/articles/3b0b1c5ecaafdc3571034865f9e2f22384f5d13e",
         "source": "Yahoo",
@@ -10254,18 +10305,18 @@
       {
         "title": "ローソン、POSレジでステーブルコイン決済 2店舗で実証",
         "url": "https://news.yahoo.co.jp/articles/e3c54c4c85956ae47e2cbda38daa3d4e5d5027b9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
-        "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "野村BOOSTRY、Canton基盤のマルチチェーンウォレットを年内提供へ──米Digital Assetと協業",
+        "url": "https://news.yahoo.co.jp/articles/5ba54ef33f47a700290d3311471e7f9d0e773444",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BlackRock、トークン化MMF2商品を提供開始",
         "url": "https://news.yahoo.co.jp/articles/3b0b1c5ecaafdc3571034865f9e2f22384f5d13e",
         "source": "Yahoo",
@@ -10292,12 +10343,6 @@
       {
         "title": "ローソン、POSレジでステーブルコイン決済 2店舗で実証",
         "url": "https://news.yahoo.co.jp/articles/e3c54c4c85956ae47e2cbda38daa3d4e5d5027b9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米サークル、NY州で限定目的信託会社の認可取得。「USDC」発行主体を移管へ",
-        "url": "https://news.yahoo.co.jp/articles/ec961b9283a971d21c620c1aec24cde9a0359d53",
         "source": "Yahoo",
         "date": ""
       }
