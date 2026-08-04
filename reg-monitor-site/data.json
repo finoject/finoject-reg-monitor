@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T10:17:08.890Z",
+  "generatedAt": "2026-08-04T12:28:09.005Z",
   "items": [
     {
       "agency": "金融庁",
@@ -10333,6 +10333,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ローソンのMetaMask決済導入実証、ネットスターズが支援",
+        "url": "https://news.yahoo.co.jp/articles/b10c68aa0a4300816c495bc8112b1b8d23ae7f6f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップル、ZILOとLicuidoに戦略投資──トークン化資本市場での事業基盤を拡大【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/c5438fc585aeb9d54f953de89f3939c587e944dc",
         "source": "Yahoo",
@@ -10359,18 +10365,18 @@
       {
         "title": "ネットスターズ、ローソン店舗でステーブルコイン決済実証へ、USDC・USDT・JPYC対象に既存POSと連携",
         "url": "https://news.yahoo.co.jp/articles/0f841cd80f37d9179e2dc51107615a7c533d23c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソン、ステーブルコインで「PayPay感覚」の支払い 一部店舗で実証実験",
-        "url": "https://news.yahoo.co.jp/articles/b9e7d1d3129a06ff524d6a0ce2b42be6471e2570",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ローソンのMetaMask決済導入実証、ネットスターズが支援",
+        "url": "https://news.yahoo.co.jp/articles/b10c68aa0a4300816c495bc8112b1b8d23ae7f6f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップル、ZILOとLicuidoに戦略投資──トークン化資本市場での事業基盤を拡大【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/c5438fc585aeb9d54f953de89f3939c587e944dc",
         "source": "Yahoo",
@@ -10397,12 +10403,6 @@
       {
         "title": "ネットスターズ、ローソン店舗でステーブルコイン決済実証へ、USDC・USDT・JPYC対象に既存POSと連携",
         "url": "https://news.yahoo.co.jp/articles/0f841cd80f37d9179e2dc51107615a7c533d23c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソン、ステーブルコインで「PayPay感覚」の支払い 一部店舗で実証実験",
-        "url": "https://news.yahoo.co.jp/articles/b9e7d1d3129a06ff524d6a0ce2b42be6471e2570",
         "source": "Yahoo",
         "date": ""
       }
