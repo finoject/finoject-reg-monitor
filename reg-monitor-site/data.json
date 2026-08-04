@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-08-04T07:20:31.367Z",
+  "generatedAt": "2026-08-04T10:17:08.890Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in大阪」の開催",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260804/20260804.html",
+      "date": "2026-08-04",
+      "detectedAt": "2026-08-04T10:17:08.890Z",
+      "enriched": "2026-08-04T10:17:13.653Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁が2026年9月12日午前10時からららぽーと門真で「ワニーサと学ぶ未来のためのお金の教室in大阪」を開催する無料イベント。",
+        "家族で参加できる金融経済教育プログラムとして、ステージショー・ミニ講義・体験ブース・お金の相談コーナー（無料）を提供。",
+        "ステージショーは13時00分・14時40分・16時00分の3回、マインクラフト講義やうんこお金ドリルなど多様な学習コンテンツを用意。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260731.xlsx",
+      "date": "2026-08-04",
+      "detectedAt": "2026-08-04T10:17:08.890Z",
+      "enriched": "2026-08-04T10:17:13.653Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行が保有する国債の銘柄別残高を2026年8月4日時点で公表した。本文はバイナリ形式で可読性がないため、具体的な残高数値・銘柄情報・変動内容の詳細を確認できない。",
+        "金融機関および市場参加者は日本銀行の公表データから国債保有構成を把握し、ポートフォリオ管理およびリスク評価に活用することが想定される。",
+        "2026年8月4日現在の国債保有状況に関わる公表であり、関連法令として日本銀行法および国庫債務負担行為に関する法律が背景にあるが、本文の非可読性により具体的な適用基準の確認が困難である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が受入れている担保の残高（7月末）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/col/col2607.xlsx",
+      "date": "2026-08-04",
+      "detectedAt": "2026-08-04T10:17:08.890Z",
+      "enriched": "2026-08-04T10:17:13.654Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行が2026年7月末現在で受入れている担保の残高データを報告。担保種類別・期間別の内訳を含む統計情報を公表。金融機関等の日銀との取引において担保差し入れ状況を把握する基礎資料。",
+        "金融機関及び市場参加者は、日本銀行の担保受入れ動向から流動性供給スタンス及び金融市場の資金繰り状況を確認。統計公表により市場の透明性向上と適切な資金運用判断を支援。",
+        "2026年7月末時点の統計報告。日本銀行の公開情報として定期的に更新される担保残高統計。金融政策の実施状況を示す重要指標として機能。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]TOKYO PRO Marketへの上場申請：（株）レイシャス",
@@ -10060,6 +10105,30 @@
     ],
     "429M60000002007": [
       {
+        "title": "「人を正直者にすることはできない」──Lituus財団責任者が語る、予測市場の紛争解決とゲーム理論",
+        "url": "https://news.yahoo.co.jp/articles/e2a4b77a4c2b80be48cd016e602e26d5b086bb84",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、ZILOとLicuidoに戦略投資──トークン化資本市場での事業基盤を拡大【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/c5438fc585aeb9d54f953de89f3939c587e944dc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国、海外の未申告暗号資産事業者サイト遮断の審議基準を協議＝報道",
+        "url": "https://news.yahoo.co.jp/articles/398cb1b83915e925fb4729d096fb7e482cc7702f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産ブローカーのファルコンX、人員1割削減－長期低迷に備え",
+        "url": "https://news.yahoo.co.jp/articles/fcb6708af11dba3e70eda20306b3bcebad142f99",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
         "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
         "source": "Yahoo",
@@ -10068,36 +10137,36 @@
       {
         "title": "南アフリカ、暗号資産の越境移転に規制案。認可業者経由・中銀報告を義務化へ",
         "url": "https://news.yahoo.co.jp/articles/8092a3d0d71b0db95534a30952b0ad531e963bc5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブーストリーとデジタルアセットが協業、カントン対応マルチチェーンウォレット年内提供へ",
-        "url": "https://news.yahoo.co.jp/articles/e0be75170d7114fadf054e94f3de06e04fd7f2cf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitgetの日本撤退に対し、Bitget Walletが継続提供を強調──「日本ローカライズに努める」",
-        "url": "https://news.yahoo.co.jp/articles/c11d490b8dba709b2c2995ac2c314fd7b0462378",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ブロックチェーン協会、クラリティ法案で全米保安官協会の主張に反論",
-        "url": "https://news.yahoo.co.jp/articles/f539c954630f1c1d4827b111f932864c96b4be67",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bernstein、クラリティ法案の遅れは市場に逆風も「規制整備は前進」＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/c85ce01bdf59c2ba8c497e3b562345a629c5f0c7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "「人を正直者にすることはできない」──Lituus財団責任者が語る、予測市場の紛争解決とゲーム理論",
+        "url": "https://news.yahoo.co.jp/articles/e2a4b77a4c2b80be48cd016e602e26d5b086bb84",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、ZILOとLicuidoに戦略投資──トークン化資本市場での事業基盤を拡大【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/c5438fc585aeb9d54f953de89f3939c587e944dc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国、海外の未申告暗号資産事業者サイト遮断の審議基準を協議＝報道",
+        "url": "https://news.yahoo.co.jp/articles/398cb1b83915e925fb4729d096fb7e482cc7702f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産ブローカーのファルコンX、人員1割削減－長期低迷に備え",
+        "url": "https://news.yahoo.co.jp/articles/fcb6708af11dba3e70eda20306b3bcebad142f99",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
         "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
         "source": "Yahoo",
@@ -10106,30 +10175,6 @@
       {
         "title": "南アフリカ、暗号資産の越境移転に規制案。認可業者経由・中銀報告を義務化へ",
         "url": "https://news.yahoo.co.jp/articles/8092a3d0d71b0db95534a30952b0ad531e963bc5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブーストリーとデジタルアセットが協業、カントン対応マルチチェーンウォレット年内提供へ",
-        "url": "https://news.yahoo.co.jp/articles/e0be75170d7114fadf054e94f3de06e04fd7f2cf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitgetの日本撤退に対し、Bitget Walletが継続提供を強調──「日本ローカライズに努める」",
-        "url": "https://news.yahoo.co.jp/articles/c11d490b8dba709b2c2995ac2c314fd7b0462378",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ブロックチェーン協会、クラリティ法案で全米保安官協会の主張に反論",
-        "url": "https://news.yahoo.co.jp/articles/f539c954630f1c1d4827b111f932864c96b4be67",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bernstein、クラリティ法案の遅れは市場に逆風も「規制整備は前進」＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/c85ce01bdf59c2ba8c497e3b562345a629c5f0c7",
         "source": "Yahoo",
         "date": ""
       }
@@ -10288,6 +10333,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "リップル、ZILOとLicuidoに戦略投資──トークン化資本市場での事業基盤を拡大【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/c5438fc585aeb9d54f953de89f3939c587e944dc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、Q2純営業利益約15億ドル。USDT準備の現物金保有量146トン超に",
+        "url": "https://news.yahoo.co.jp/articles/3ea73a91b1371da3805ae1fe1e1b6cb35e804693",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
         "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
         "source": "Yahoo",
@@ -10308,24 +10365,24 @@
       {
         "title": "ローソン、ステーブルコインで「PayPay感覚」の支払い 一部店舗で実証実験",
         "url": "https://news.yahoo.co.jp/articles/b9e7d1d3129a06ff524d6a0ce2b42be6471e2570",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "野村BOOSTRY、Canton基盤のマルチチェーンウォレットを年内提供へ──米Digital Assetと協業",
-        "url": "https://news.yahoo.co.jp/articles/5ba54ef33f47a700290d3311471e7f9d0e773444",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BlackRock、トークン化MMF2商品を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/3b0b1c5ecaafdc3571034865f9e2f22384f5d13e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "リップル、ZILOとLicuidoに戦略投資──トークン化資本市場での事業基盤を拡大【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/c5438fc585aeb9d54f953de89f3939c587e944dc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、Q2純営業利益約15億ドル。USDT準備の現物金保有量146トン超に",
+        "url": "https://news.yahoo.co.jp/articles/3ea73a91b1371da3805ae1fe1e1b6cb35e804693",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
         "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
         "source": "Yahoo",
@@ -10346,18 +10403,6 @@
       {
         "title": "ローソン、ステーブルコインで「PayPay感覚」の支払い 一部店舗で実証実験",
         "url": "https://news.yahoo.co.jp/articles/b9e7d1d3129a06ff524d6a0ce2b42be6471e2570",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "野村BOOSTRY、Canton基盤のマルチチェーンウォレットを年内提供へ──米Digital Assetと協業",
-        "url": "https://news.yahoo.co.jp/articles/5ba54ef33f47a700290d3311471e7f9d0e773444",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BlackRock、トークン化MMF2商品を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/3b0b1c5ecaafdc3571034865f9e2f22384f5d13e",
         "source": "Yahoo",
         "date": ""
       }
@@ -11078,6 +11123,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「警察です。押収物からあなたのキャッシュカードが」住所も生年月日も一致 心臓が止まりそうな恐怖 巧妙な詐欺電話 どう対処すれば",
+        "url": "https://news.yahoo.co.jp/articles/f2f036482e257de375b1714e562aa628523cb1b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "講談社、不正アクセスで個人情報が最大3812件流出 社員がフィッシングメールに引っかかる",
         "url": "https://news.yahoo.co.jp/articles/5fc421a09b03ed1a03d0e2450dbbe14efc2adf87",
         "source": "Yahoo",
@@ -11104,18 +11155,18 @@
       {
         "title": "講談社、不正アクセスによる個人情報流出で謝罪「電子メールから個人情報の漏えいが発生」",
         "url": "https://news.yahoo.co.jp/articles/ccffeee50189ddceafba9d9f31ab90092f76181b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市政権の国会運営はなぜ「史上最低」と酷評されたのか",
-        "url": "https://news.yahoo.co.jp/articles/62842d9258ef165824c6a05fdc6f747e0ae49994",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「警察です。押収物からあなたのキャッシュカードが」住所も生年月日も一致 心臓が止まりそうな恐怖 巧妙な詐欺電話 どう対処すれば",
+        "url": "https://news.yahoo.co.jp/articles/f2f036482e257de375b1714e562aa628523cb1b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "講談社、不正アクセスで個人情報が最大3812件流出 社員がフィッシングメールに引っかかる",
         "url": "https://news.yahoo.co.jp/articles/5fc421a09b03ed1a03d0e2450dbbe14efc2adf87",
         "source": "Yahoo",
@@ -11142,18 +11193,18 @@
       {
         "title": "講談社、不正アクセスによる個人情報流出で謝罪「電子メールから個人情報の漏えいが発生」",
         "url": "https://news.yahoo.co.jp/articles/ccffeee50189ddceafba9d9f31ab90092f76181b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市政権の国会運営はなぜ「史上最低」と酷評されたのか",
-        "url": "https://news.yahoo.co.jp/articles/62842d9258ef165824c6a05fdc6f747e0ae49994",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「警察です。押収物からあなたのキャッシュカードが」住所も生年月日も一致 心臓が止まりそうな恐怖 巧妙な詐欺電話 どう対処すれば",
+        "url": "https://news.yahoo.co.jp/articles/f2f036482e257de375b1714e562aa628523cb1b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "講談社、不正アクセスで個人情報が最大3812件流出 社員がフィッシングメールに引っかかる",
         "url": "https://news.yahoo.co.jp/articles/5fc421a09b03ed1a03d0e2450dbbe14efc2adf87",
         "source": "Yahoo",
@@ -11180,12 +11231,6 @@
       {
         "title": "講談社、不正アクセスによる個人情報流出で謝罪「電子メールから個人情報の漏えいが発生」",
         "url": "https://news.yahoo.co.jp/articles/ccffeee50189ddceafba9d9f31ab90092f76181b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市政権の国会運営はなぜ「史上最低」と酷評されたのか",
-        "url": "https://news.yahoo.co.jp/articles/62842d9258ef165824c6a05fdc6f747e0ae49994",
         "source": "Yahoo",
         "date": ""
       }
