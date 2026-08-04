@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T20:53:05.569Z",
+  "generatedAt": "2026-08-04T22:40:49.866Z",
   "items": [
     {
       "agency": "金融庁",
@@ -10105,6 +10105,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米英の金融規制当局、ステーブルコインとトークン化への支持を再確認",
+        "url": "https://news.yahoo.co.jp/articles/002091d5e998c19be6133b6a1db995e9694d85e9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「人を正直者にすることはできない」──Lituus財団責任者が語る、予測市場の紛争解決とゲーム理論",
         "url": "https://news.yahoo.co.jp/articles/e2a4b77a4c2b80be48cd016e602e26d5b086bb84",
         "source": "Yahoo",
@@ -10125,24 +10137,24 @@
       {
         "title": "暗号資産ブローカーのファルコンX、人員1割削減－長期低迷に備え",
         "url": "https://news.yahoo.co.jp/articles/fcb6708af11dba3e70eda20306b3bcebad142f99",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
-        "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "南アフリカ、暗号資産の越境移転に規制案。認可業者経由・中銀報告を義務化へ",
-        "url": "https://news.yahoo.co.jp/articles/8092a3d0d71b0db95534a30952b0ad531e963bc5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米英の金融規制当局、ステーブルコインとトークン化への支持を再確認",
+        "url": "https://news.yahoo.co.jp/articles/002091d5e998c19be6133b6a1db995e9694d85e9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「人を正直者にすることはできない」──Lituus財団責任者が語る、予測市場の紛争解決とゲーム理論",
         "url": "https://news.yahoo.co.jp/articles/e2a4b77a4c2b80be48cd016e602e26d5b086bb84",
         "source": "Yahoo",
@@ -10163,18 +10175,6 @@
       {
         "title": "暗号資産ブローカーのファルコンX、人員1割削減－長期低迷に備え",
         "url": "https://news.yahoo.co.jp/articles/fcb6708af11dba3e70eda20306b3bcebad142f99",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
-        "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "南アフリカ、暗号資産の越境移転に規制案。認可業者経由・中銀報告を義務化へ",
-        "url": "https://news.yahoo.co.jp/articles/8092a3d0d71b0db95534a30952b0ad531e963bc5",
         "source": "Yahoo",
         "date": ""
       }
@@ -10333,6 +10333,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米英の金融規制当局、ステーブルコインとトークン化への支持を再確認",
+        "url": "https://news.yahoo.co.jp/articles/002091d5e998c19be6133b6a1db995e9694d85e9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本がドル建てステーブルコイン「RLUSD」承認──重要なのは「生まれた場所」ではなく「取引される場所」【エバーノース寄稿】",
+        "url": "https://news.yahoo.co.jp/articles/6bdf622dd36f4aee043b3648893203ca4b77cf25",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Wells Fargo、法人向けトークン化預金を今秋開始",
+        "url": "https://news.yahoo.co.jp/articles/7a411bf98ce7716a584d8f524841ed5a03664ae2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ローソンのMetaMask決済導入実証、ネットスターズが支援",
         "url": "https://news.yahoo.co.jp/articles/b10c68aa0a4300816c495bc8112b1b8d23ae7f6f",
         "source": "Yahoo",
@@ -10341,36 +10365,36 @@
       {
         "title": "リップル、ZILOとLicuidoに戦略投資──トークン化資本市場での事業基盤を拡大【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/c5438fc585aeb9d54f953de89f3939c587e944dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、Q2純営業利益約15億ドル。USDT準備の現物金保有量146トン超に",
-        "url": "https://news.yahoo.co.jp/articles/3ea73a91b1371da3805ae1fe1e1b6cb35e804693",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
-        "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブーストリーとデジタルアセットが協業、カントン対応マルチチェーンウォレット年内提供へ",
-        "url": "https://news.yahoo.co.jp/articles/e0be75170d7114fadf054e94f3de06e04fd7f2cf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ネットスターズ、ローソン店舗でステーブルコイン決済実証へ、USDC・USDT・JPYC対象に既存POSと連携",
-        "url": "https://news.yahoo.co.jp/articles/0f841cd80f37d9179e2dc51107615a7c533d23c2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
+        "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米英の金融規制当局、ステーブルコインとトークン化への支持を再確認",
+        "url": "https://news.yahoo.co.jp/articles/002091d5e998c19be6133b6a1db995e9694d85e9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本がドル建てステーブルコイン「RLUSD」承認──重要なのは「生まれた場所」ではなく「取引される場所」【エバーノース寄稿】",
+        "url": "https://news.yahoo.co.jp/articles/6bdf622dd36f4aee043b3648893203ca4b77cf25",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Wells Fargo、法人向けトークン化預金を今秋開始",
+        "url": "https://news.yahoo.co.jp/articles/7a411bf98ce7716a584d8f524841ed5a03664ae2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ローソンのMetaMask決済導入実証、ネットスターズが支援",
         "url": "https://news.yahoo.co.jp/articles/b10c68aa0a4300816c495bc8112b1b8d23ae7f6f",
         "source": "Yahoo",
@@ -10379,30 +10403,6 @@
       {
         "title": "リップル、ZILOとLicuidoに戦略投資──トークン化資本市場での事業基盤を拡大【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/c5438fc585aeb9d54f953de89f3939c587e944dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、Q2純営業利益約15億ドル。USDT準備の現物金保有量146トン超に",
-        "url": "https://news.yahoo.co.jp/articles/3ea73a91b1371da3805ae1fe1e1b6cb35e804693",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッドUK、英FCAの暗号資産事業者登録を取得。取引サービス開始へ",
-        "url": "https://news.yahoo.co.jp/articles/d2e7380ce2284cd88c2deb7036f74dc466e3acaa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブーストリーとデジタルアセットが協業、カントン対応マルチチェーンウォレット年内提供へ",
-        "url": "https://news.yahoo.co.jp/articles/e0be75170d7114fadf054e94f3de06e04fd7f2cf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ネットスターズ、ローソン店舗でステーブルコイン決済実証へ、USDC・USDT・JPYC対象に既存POSと連携",
-        "url": "https://news.yahoo.co.jp/articles/0f841cd80f37d9179e2dc51107615a7c533d23c2",
         "source": "Yahoo",
         "date": ""
       }
