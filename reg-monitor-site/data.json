@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-04T22:40:49.866Z",
+  "generatedAt": "2026-08-05T01:01:01.901Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "日銀当座預金増減要因（8月見込み）",
+      "url": "https://www.boj.or.jp/statistics/boj/fm/juqp/juqp2608.xlsx",
+      "date": "2026-08-04",
+      "detectedAt": "2026-08-05T01:01:01.901Z",
+      "enriched": "2026-08-05T01:01:07.868Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がExcelファイルの圧縮形式で読み取り不可のため、タイトル「日銀当座預金増減要因（8月見込み）」から、日本銀行が2026年8月の当座預金の増減要因を見込み値として公表していることが示唆される。",
+        "金融機関や市場参加者は、日本銀行の公表する当座預金の増減要因を通じて、金融調節の動向を把握し、資金繰りや運用判断に反映させるべき。",
+        "本資料は2026年8月4日付けで日本銀行から公表されたもので、日本銀行法に基づく金融調節に関連する情報開示。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融政策決定会合議事要旨（6月15、16日開催分）",
+      "url": "https://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260616.pdf",
+      "date": "2026-08-04",
+      "detectedAt": "2026-08-05T01:01:01.901Z",
+      "enriched": "2026-08-05T01:01:07.868Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年4月27日の前回会合で決定した金融市場調節方針に従い、無担保コールレート（オーバーナイト物）は0.726～0.728％のレンジで推移し、長期国債買入れは月間2.7兆円程度を実施している。",
+        "日本銀行は2025年6月決定の減額計画に沿って長期国債買入れを継続しており、2026年6月の会合時点で金融緩和を維持している。",
+        "本議事要旨は日本銀行法第20条第1項に基づく文書で、2026年7月30、31日の政策委員会で承認された。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in大阪」の開催",
@@ -9877,6 +9907,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "GalaxyとBNY、機関投資家向け暗号資産ステーキングサービスを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/21782cdf519859c7a129cfe6c6b6c9cb396cb1ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "なぜライブドアだけが東証を止めた？ 粉飾“わずか”53億円が重く見られた本当の理由 事件と同じ2006年の6月、かねて検討が進んでいた証券取引法の改組が実現し、金融商品取引法が成立します。ライブドアを含む一連の不正事件への対応も重なり、有価証",
         "url": "https://news.yahoo.co.jp/articles/f660b9701cdd2cc9a18c004ac6fca837ba0dfb6f",
         "source": "Yahoo",
@@ -9903,18 +9939,18 @@
       {
         "title": "みずほ証、4ー6月純利益は前年比58%増697億円ー投資銀行業務がけん引",
         "url": "https://news.yahoo.co.jp/articles/45ff5bf7920f6eeb4dbf4bfc5444446e01956985",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
-        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "GalaxyとBNY、機関投資家向け暗号資産ステーキングサービスを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/21782cdf519859c7a129cfe6c6b6c9cb396cb1ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "なぜライブドアだけが東証を止めた？ 粉飾“わずか”53億円が重く見られた本当の理由 事件と同じ2006年の6月、かねて検討が進んでいた証券取引法の改組が実現し、金融商品取引法が成立します。ライブドアを含む一連の不正事件への対応も重なり、有価証",
         "url": "https://news.yahoo.co.jp/articles/f660b9701cdd2cc9a18c004ac6fca837ba0dfb6f",
         "source": "Yahoo",
@@ -9941,18 +9977,18 @@
       {
         "title": "みずほ証、4ー6月純利益は前年比58%増697億円ー投資銀行業務がけん引",
         "url": "https://news.yahoo.co.jp/articles/45ff5bf7920f6eeb4dbf4bfc5444446e01956985",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
-        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "GalaxyとBNY、機関投資家向け暗号資産ステーキングサービスを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/21782cdf519859c7a129cfe6c6b6c9cb396cb1ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "なぜライブドアだけが東証を止めた？ 粉飾“わずか”53億円が重く見られた本当の理由 事件と同じ2006年の6月、かねて検討が進んでいた証券取引法の改組が実現し、金融商品取引法が成立します。ライブドアを含む一連の不正事件への対応も重なり、有価証",
         "url": "https://news.yahoo.co.jp/articles/f660b9701cdd2cc9a18c004ac6fca837ba0dfb6f",
         "source": "Yahoo",
@@ -9979,18 +10015,18 @@
       {
         "title": "みずほ証、4ー6月純利益は前年比58%増697億円ー投資銀行業務がけん引",
         "url": "https://news.yahoo.co.jp/articles/45ff5bf7920f6eeb4dbf4bfc5444446e01956985",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
-        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "GalaxyとBNY、機関投資家向け暗号資産ステーキングサービスを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/21782cdf519859c7a129cfe6c6b6c9cb396cb1ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "なぜライブドアだけが東証を止めた？ 粉飾“わずか”53億円が重く見られた本当の理由 事件と同じ2006年の6月、かねて検討が進んでいた証券取引法の改組が実現し、金融商品取引法が成立します。ライブドアを含む一連の不正事件への対応も重なり、有価証",
         "url": "https://news.yahoo.co.jp/articles/f660b9701cdd2cc9a18c004ac6fca837ba0dfb6f",
         "source": "Yahoo",
@@ -10017,12 +10053,6 @@
       {
         "title": "みずほ証、4ー6月純利益は前年比58%増697億円ー投資銀行業務がけん引",
         "url": "https://news.yahoo.co.jp/articles/45ff5bf7920f6eeb4dbf4bfc5444446e01956985",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ケネディクスら4社、不動産STとステーブルコインのクロスチェーンDvPを実証",
-        "url": "https://news.yahoo.co.jp/articles/8d55b6a12a84624e440df6013778e2da9301eaf4",
         "source": "Yahoo",
         "date": ""
       }
@@ -10105,6 +10135,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "GalaxyとBNY、機関投資家向け暗号資産ステーキングサービスを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/21782cdf519859c7a129cfe6c6b6c9cb396cb1ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
         "source": "Yahoo",
@@ -10131,18 +10167,18 @@
       {
         "title": "韓国、海外の未申告暗号資産事業者サイト遮断の審議基準を協議＝報道",
         "url": "https://news.yahoo.co.jp/articles/398cb1b83915e925fb4729d096fb7e482cc7702f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産ブローカーのファルコンX、人員1割削減－長期低迷に備え",
-        "url": "https://news.yahoo.co.jp/articles/fcb6708af11dba3e70eda20306b3bcebad142f99",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "GalaxyとBNY、機関投資家向け暗号資産ステーキングサービスを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/21782cdf519859c7a129cfe6c6b6c9cb396cb1ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
         "source": "Yahoo",
@@ -10169,12 +10205,6 @@
       {
         "title": "韓国、海外の未申告暗号資産事業者サイト遮断の審議基準を協議＝報道",
         "url": "https://news.yahoo.co.jp/articles/398cb1b83915e925fb4729d096fb7e482cc7702f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産ブローカーのファルコンX、人員1割削減－長期低迷に備え",
-        "url": "https://news.yahoo.co.jp/articles/fcb6708af11dba3e70eda20306b3bcebad142f99",
         "source": "Yahoo",
         "date": ""
       }
