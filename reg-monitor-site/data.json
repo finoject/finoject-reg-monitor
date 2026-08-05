@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-08-05T04:47:21.540Z",
+  "generatedAt": "2026-08-05T08:06:08.684Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-08-05",
+      "detectedAt": "2026-08-05T08:06:08.684Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-05T08:06:13.082Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]TOPIXダブルインバース（－2倍）指数及びJPX日経400ダブルインバース・インデックスの水準調整について",
+      "url": "https://www.jpx.co.jp/news/6030/20260805-01.html",
+      "date": "2026-08-05",
+      "detectedAt": "2026-08-05T08:06:08.684Z",
+      "enriched": "2026-08-05T08:06:13.083Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "TOPIXダブルインバース（－2倍）指数及びJPX日経400ダブルインバース・インデックスについて、2026年9月14日の算出から前営業日の指数値を100倍にする水準調整を実施する。",
+        "指数の指標性維持のため、JPX総研が当該2つのインバース指数の水準調整を行い、過去の指数値に遡及調整は実施しない。",
+        "調整実施日は2026年9月14日の算出分からで、問い合わせはJPX総研インデックスビジネス部まで。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260805-01.html",
+      "date": "2026-08-05",
+      "detectedAt": "2026-08-05T08:06:08.684Z",
+      "enriched": "2026-08-05T08:06:13.083Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東計電算（コード4746）の株式について、2営業日連続でストップ高（安）となり売買が成立しなかったため、8月6日から制限値幅の上限を通常1,000円から4,000円に拡大する。",
+        "取引参加者および投資家は、制限値幅が拡大された当該銘柄での成行注文により想定外の値段で約定する可能性があることを認識し、取引時に注意すること。",
+        "制限値幅の拡大は東証において2026年8月6日から適用開始され、ストップ高（安）以外の値段で売買が成立した翌営業日に通常幅に戻る（東証自主規制に基づく措置）。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "日銀当座預金増減要因（8月見込み）",
@@ -1255,22 +1301,6 @@
         "指定期間は2026年7月29日から東京証券取引所が上場廃止基準該当の認定をした日までであり、有価証券上場規程施行規則第604条第1項第23号及び第24号に基づく指定。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-07-29",
-      "detectedAt": "2026-07-29T08:08:47.300Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-29T08:08:53.157Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -10135,6 +10165,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "4万3000BTC保有のメタプラネットCEO、Coldcard流出問題受け自社の保管体制明かす",
+        "url": "https://news.yahoo.co.jp/articles/721ce46b10a9216b3894bd6b792ba5af8bd8dc7b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイビット欧州決済法人、オーストリアで電子マネー機関ライセンス取得。Bybit euで決済サービス提供へ",
         "url": "https://news.yahoo.co.jp/articles/8d609cce2f2e9a101c8eb434d051e47e344deda0",
         "source": "Yahoo",
@@ -10161,18 +10197,18 @@
       {
         "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米英の金融規制当局、ステーブルコインとトークン化への支持を再確認",
-        "url": "https://news.yahoo.co.jp/articles/002091d5e998c19be6133b6a1db995e9694d85e9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "4万3000BTC保有のメタプラネットCEO、Coldcard流出問題受け自社の保管体制明かす",
+        "url": "https://news.yahoo.co.jp/articles/721ce46b10a9216b3894bd6b792ba5af8bd8dc7b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイビット欧州決済法人、オーストリアで電子マネー機関ライセンス取得。Bybit euで決済サービス提供へ",
         "url": "https://news.yahoo.co.jp/articles/8d609cce2f2e9a101c8eb434d051e47e344deda0",
         "source": "Yahoo",
@@ -10199,12 +10235,6 @@
       {
         "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米英の金融規制当局、ステーブルコインとトークン化への支持を再確認",
-        "url": "https://news.yahoo.co.jp/articles/002091d5e998c19be6133b6a1db995e9694d85e9",
         "source": "Yahoo",
         "date": ""
       }
@@ -10363,6 +10393,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ブラックロック、トークン化MMF2商品を提供開始",
+        "url": "https://news.yahoo.co.jp/articles/9e3874e126555eaccba24a049db44a92a617e481",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マスターカード、ステーブルコイン決済基盤BVNKの買収完了。法定通貨との接続強化へ",
         "url": "https://news.yahoo.co.jp/articles/096afc293858794ca762a4cba85d87fb4d8a46ce",
         "source": "Yahoo",
@@ -10389,18 +10425,18 @@
       {
         "title": "Cloudflare、ステーブルコイン対応ウォレット発表──AIエージェント決済にも対応へ",
         "url": "https://news.yahoo.co.jp/articles/1239aa2af04d5b3e165a9245bf6405a0e03b49f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ブラックロック、トークン化MMF2商品を提供開始",
+        "url": "https://news.yahoo.co.jp/articles/9e3874e126555eaccba24a049db44a92a617e481",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マスターカード、ステーブルコイン決済基盤BVNKの買収完了。法定通貨との接続強化へ",
         "url": "https://news.yahoo.co.jp/articles/096afc293858794ca762a4cba85d87fb4d8a46ce",
         "source": "Yahoo",
@@ -10427,12 +10463,6 @@
       {
         "title": "Cloudflare、ステーブルコイン対応ウォレット発表──AIエージェント決済にも対応へ",
         "url": "https://news.yahoo.co.jp/articles/1239aa2af04d5b3e165a9245bf6405a0e03b49f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
         "source": "Yahoo",
         "date": ""
       }
