@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-05T08:06:08.684Z",
+  "generatedAt": "2026-08-05T11:03:45.633Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "「サステナブルファイナンス有識者会議（第30回）意見要旨」の公表",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20260805.html",
+      "date": "2026-08-05",
+      "detectedAt": "2026-08-05T11:03:45.633Z",
+      "enriched": "2026-08-05T11:03:51.979Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "気候変動ファイナンスは既に確立したアセットクラスとして後退はなく、ネイチャー・格差縮小・防衛安全保障など投資テーマが多様化。官民共同でのサステナブルファイナンス拡充が短期収益志向でない継続的推進を要求。",
+        "機関投資家・アセットオーナー・銀行・地域金融機関は、インベストメントチェーン全体でのシステムレベル投資推進、顧客との継続対話、人材育成を通じてサステナビリティ経営と事業戦略の統合を進めるべき。",
+        "適応施策・AI導及びデジタルアセットとの重複領域、電源グリーン化と産業競争力のバランス、社債市場活性化がサステナブルファイナンス推進の重点課題として認識された。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "金融庁の組織再編の公表",
+      "url": "https://www.fsa.go.jp/news/r8/20260805.html",
+      "date": "2026-08-05",
+      "detectedAt": "2026-08-05T11:03:45.633Z",
+      "enriched": "2026-08-05T11:03:51.980Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "総合政策局・監督局を廃止し、新たに「銀行・証券監督局」「資産運用・保険監督局」を設置、並びに国際課・信用課・郵政金融課・資金決済課・暗号資産ステーブルコイン課を新設。金融庁組織令改正政令により8月7日に実施する。",
+        "金融機関及び関係者が8月7日以降に書類を提出する際、組織再編前の部局名等を記載していても有効であり、提出先は別紙2の新旧対照表に従い組織再編後の部署に提出する。",
+        "本組織再編は資産運用立国推進・デジタル技術対応・金融機関モニタリング高度化等の新課題に対応するため、8月7日の金融庁組織令改正政令施行に基づき実施される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
@@ -10165,6 +10195,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "マネックス、オンチェーン金融研究所を創設──RWA・ステーブルコインの事業化を支援",
+        "url": "https://news.yahoo.co.jp/articles/5ef2caae37a0425288bec0a226948f256e43133a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハッシュキーエクスチェンジ、顧客資金の分別管理口座をJPモルガンで開設へ",
+        "url": "https://news.yahoo.co.jp/articles/82c9387598939848f871d0db7e9bb49013b9a114",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「約100万ウォレットで損失」米上院議員、SECにトランプ氏のミームコイン調査要請【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/942f6f1717c7b62a38015ed9a7bf17d514f9be03",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "4万3000BTC保有のメタプラネットCEO、Coldcard流出問題受け自社の保管体制明かす",
         "url": "https://news.yahoo.co.jp/articles/721ce46b10a9216b3894bd6b792ba5af8bd8dc7b",
         "source": "Yahoo",
@@ -10179,30 +10227,30 @@
       {
         "title": "BNY、暗号資産カストディにステーキング機能追加へ。ギャラクシーと提携",
         "url": "https://news.yahoo.co.jp/articles/bf5142fa0d0f147be72ae1bc4037e55c50d4dc5d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "XRPレジャー、トークン化資産の実利用に向け5機能追加へ、次期「xrpld 3.3.0」でプライバシーやDvPなど強化",
-        "url": "https://news.yahoo.co.jp/articles/78369eb1c585ea6ea96235a29b40c64b1c632c41",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "GalaxyとBNY、機関投資家向け暗号資産ステーキングサービスを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/21782cdf519859c7a129cfe6c6b6c9cb396cb1ec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "マネックス、オンチェーン金融研究所を創設──RWA・ステーブルコインの事業化を支援",
+        "url": "https://news.yahoo.co.jp/articles/5ef2caae37a0425288bec0a226948f256e43133a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハッシュキーエクスチェンジ、顧客資金の分別管理口座をJPモルガンで開設へ",
+        "url": "https://news.yahoo.co.jp/articles/82c9387598939848f871d0db7e9bb49013b9a114",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「約100万ウォレットで損失」米上院議員、SECにトランプ氏のミームコイン調査要請【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/942f6f1717c7b62a38015ed9a7bf17d514f9be03",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "4万3000BTC保有のメタプラネットCEO、Coldcard流出問題受け自社の保管体制明かす",
         "url": "https://news.yahoo.co.jp/articles/721ce46b10a9216b3894bd6b792ba5af8bd8dc7b",
         "source": "Yahoo",
@@ -10217,24 +10265,6 @@
       {
         "title": "BNY、暗号資産カストディにステーキング機能追加へ。ギャラクシーと提携",
         "url": "https://news.yahoo.co.jp/articles/bf5142fa0d0f147be72ae1bc4037e55c50d4dc5d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "XRPレジャー、トークン化資産の実利用に向け5機能追加へ、次期「xrpld 3.3.0」でプライバシーやDvPなど強化",
-        "url": "https://news.yahoo.co.jp/articles/78369eb1c585ea6ea96235a29b40c64b1c632c41",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "GalaxyとBNY、機関投資家向け暗号資産ステーキングサービスを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/21782cdf519859c7a129cfe6c6b6c9cb396cb1ec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "自民党税調インナーが語る、日本のデジタル資産政策はどこへ向かうのか──20％分離課税、日本版ビットコインETF、Web3政策を読み解く【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/6ff486a2fdb81529773904b2c0fe1d8f4feea8b2",
         "source": "Yahoo",
         "date": ""
       }
@@ -10393,6 +10423,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "マネックス、オンチェーン金融研究所を創設──RWA・ステーブルコインの事業化を支援",
+        "url": "https://news.yahoo.co.jp/articles/5ef2caae37a0425288bec0a226948f256e43133a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブラックロック、トークン化MMF2商品を提供開始",
         "url": "https://news.yahoo.co.jp/articles/9e3874e126555eaccba24a049db44a92a617e481",
         "source": "Yahoo",
@@ -10419,18 +10455,18 @@
       {
         "title": "【速報】金融庁、暗号資産・ステーブルコイン課を新設",
         "url": "https://news.yahoo.co.jp/articles/87bd51fc0fbeb0a2a37c1c1584bb62a263ccd24a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Cloudflare、ステーブルコイン対応ウォレット発表──AIエージェント決済にも対応へ",
-        "url": "https://news.yahoo.co.jp/articles/1239aa2af04d5b3e165a9245bf6405a0e03b49f5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "マネックス、オンチェーン金融研究所を創設──RWA・ステーブルコインの事業化を支援",
+        "url": "https://news.yahoo.co.jp/articles/5ef2caae37a0425288bec0a226948f256e43133a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブラックロック、トークン化MMF2商品を提供開始",
         "url": "https://news.yahoo.co.jp/articles/9e3874e126555eaccba24a049db44a92a617e481",
         "source": "Yahoo",
@@ -10457,12 +10493,6 @@
       {
         "title": "【速報】金融庁、暗号資産・ステーブルコイン課を新設",
         "url": "https://news.yahoo.co.jp/articles/87bd51fc0fbeb0a2a37c1c1584bb62a263ccd24a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Cloudflare、ステーブルコイン対応ウォレット発表──AIエージェント決済にも対応へ",
-        "url": "https://news.yahoo.co.jp/articles/1239aa2af04d5b3e165a9245bf6405a0e03b49f5",
         "source": "Yahoo",
         "date": ""
       }
