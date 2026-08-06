@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-06T01:02:28.889Z",
+  "generatedAt": "2026-08-06T04:48:22.118Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "金融システムレポート別冊「金融機関における生成AIの利用状況とリスク管理」",
+      "url": "https://www.boj.or.jp/research/brp/fsr/fsrb260806.htm",
+      "date": "2026-08-06",
+      "detectedAt": "2026-08-06T04:48:22.118Z",
+      "enriched": "2026-08-06T04:48:26.594Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融機関150先のうち約8割が生成AIを利用中、試行中を含めると9割強。第二地銀での利用増加が特に顕著で、2024年度比の利用拡大が一層進展している。",
+        "金融機関は生成AIの情報漏洩リスクや出力の不確実性といった特有リスクを理解したうえで、リスクベース・アプローチに基づきリスク管理体制を整備することが求められる。",
+        "日本銀行は2026年8月の本レポートで、顧客への直接提示やAIエージェント・フロンティアAI導入時のリスク管理・ガバナンス強化と、経営層による新技術活用の便益とリスクの適切な把握が重要と指摘。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]第29回「市場区分の見直しに関するフォローアップ会議」の開催について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260806-01.html",
+      "date": "2026-08-06",
+      "detectedAt": "2026-08-06T04:48:22.118Z",
+      "enriched": "2026-08-06T04:48:26.594Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所が2026年8月6日に第29回「市場区分の見直しに関するフォローアップ会議」を開催し、会議資料を市場区分の見直しに関するフォローアップ会議ページで公表した。",
+        "市場参加者・上場企業等は公表されたフォローアップ会議資料により市場区分見直しの進捗状況及び実務上の課題を確認し、必要に応じて対応する。",
+        "本件は2026年8月6日付けの東京証券取引所からのお知らせであり、市場区分見直しに関する継続的な検討会議の一環である。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]監理銘柄（確認中）の指定：（株）ＣＥホールディングス",
@@ -10210,6 +10240,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "マネックスGが「マネックス・オンチェーン金融研究所」創設、オンチェーン金融の社会実装へ",
+        "url": "https://news.yahoo.co.jp/articles/82bde90ea5e093af48e753cc1aca6d6db8744467",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "予測市場は州・部族法の管轄に──米上院でクラリティ法案修正論",
         "url": "https://news.yahoo.co.jp/articles/322420ac7950b429f5569b08567dec886b8b817d",
         "source": "Yahoo",
@@ -10236,18 +10272,18 @@
       {
         "title": "4万3000BTC保有のメタプラネットCEO、Coldcard流出問題受け自社の保管体制明かす",
         "url": "https://news.yahoo.co.jp/articles/721ce46b10a9216b3894bd6b792ba5af8bd8dc7b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイビット欧州決済法人、オーストリアで電子マネー機関ライセンス取得。Bybit euで決済サービス提供へ",
-        "url": "https://news.yahoo.co.jp/articles/8d609cce2f2e9a101c8eb434d051e47e344deda0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "マネックスGが「マネックス・オンチェーン金融研究所」創設、オンチェーン金融の社会実装へ",
+        "url": "https://news.yahoo.co.jp/articles/82bde90ea5e093af48e753cc1aca6d6db8744467",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "予測市場は州・部族法の管轄に──米上院でクラリティ法案修正論",
         "url": "https://news.yahoo.co.jp/articles/322420ac7950b429f5569b08567dec886b8b817d",
         "source": "Yahoo",
@@ -10274,12 +10310,6 @@
       {
         "title": "4万3000BTC保有のメタプラネットCEO、Coldcard流出問題受け自社の保管体制明かす",
         "url": "https://news.yahoo.co.jp/articles/721ce46b10a9216b3894bd6b792ba5af8bd8dc7b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイビット欧州決済法人、オーストリアで電子マネー機関ライセンス取得。Bybit euで決済サービス提供へ",
-        "url": "https://news.yahoo.co.jp/articles/8d609cce2f2e9a101c8eb434d051e47e344deda0",
         "source": "Yahoo",
         "date": ""
       }
@@ -10438,76 +10468,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "Western Union、ステーブルコインをVisaネットワークにつなぐ「Stablecard」を開始",
-        "url": "https://news.yahoo.co.jp/articles/14993d1cfb3508ba8dda5db3edd29f326efd20a4",
+        "title": "マネックスGが「マネックス・オンチェーン金融研究所」創設、オンチェーン金融の社会実装へ",
+        "url": "https://news.yahoo.co.jp/articles/82bde90ea5e093af48e753cc1aca6d6db8744467",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Circle、Arc創設バリデーター発表──SBIグループと住友商事が参加",
-        "url": "https://news.yahoo.co.jp/articles/50478114d6343375743511a8e16fd9aafca560fd",
+        "title": "LINE NEXT、ステーブルコイン決済「Unifi Pay」をグローバルで正式提供。韓国観光商品をJPYCで購入可能に",
+        "url": "https://news.yahoo.co.jp/articles/f755dbc336d1785f3f9a9153f4ac414dbf3b6408",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "マネックス、オンチェーン金融研究所を創設──RWA・ステーブルコインの事業化を支援",
-        "url": "https://news.yahoo.co.jp/articles/5ef2caae37a0425288bec0a226948f256e43133a",
+        "title": "サークル、独自L1「Arc」の創設バリデーター公開、ブラックロックやVisaなど参加",
+        "url": "https://news.yahoo.co.jp/articles/53712719b77c8709831d1cbc1a7d1cf37e433dff",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ブラックロック、トークン化MMF2商品を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/9e3874e126555eaccba24a049db44a92a617e481",
+        "title": "クラウドフレア、AIエージェント向けIDとウォレット基盤提供へ",
+        "url": "https://news.yahoo.co.jp/articles/8738a47674497554bb7897d5c7e53ac44abfa172",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "マスターカード、ステーブルコイン決済基盤BVNKの買収完了。法定通貨との接続強化へ",
-        "url": "https://news.yahoo.co.jp/articles/096afc293858794ca762a4cba85d87fb4d8a46ce",
+        "title": "イーサリアム、ステーキング報酬の一部バーン提案「EIP8361」公開。50%超のステーク拡大抑制目指す",
+        "url": "https://news.yahoo.co.jp/articles/8ee715334a055722c1f8065c6354af7a098b7fdd",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "フランクリン・テンプルトン、カントンのスーパーバリデーターに。ナスダックやVisaに続き",
-        "url": "https://news.yahoo.co.jp/articles/e708aea18a86fde23d498369b5666c4a7b6ec14c",
+        "title": "金融庁、「暗号資産・ステーブルコイン課」を新設 「資金決済課」も 金融庁は8月5日、7日付で組織再編を行い、新たに「暗号資産・ステーブルコイン課」や「資金決済課」など5つの課を設けると発表した。金融庁組織令の一部",
+        "url": "https://news.yahoo.co.jp/articles/e741f971176bc36404eb322e91b088431726910b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "Western Union、ステーブルコインをVisaネットワークにつなぐ「Stablecard」を開始",
-        "url": "https://news.yahoo.co.jp/articles/14993d1cfb3508ba8dda5db3edd29f326efd20a4",
+        "title": "マネックスGが「マネックス・オンチェーン金融研究所」創設、オンチェーン金融の社会実装へ",
+        "url": "https://news.yahoo.co.jp/articles/82bde90ea5e093af48e753cc1aca6d6db8744467",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Circle、Arc創設バリデーター発表──SBIグループと住友商事が参加",
-        "url": "https://news.yahoo.co.jp/articles/50478114d6343375743511a8e16fd9aafca560fd",
+        "title": "LINE NEXT、ステーブルコイン決済「Unifi Pay」をグローバルで正式提供。韓国観光商品をJPYCで購入可能に",
+        "url": "https://news.yahoo.co.jp/articles/f755dbc336d1785f3f9a9153f4ac414dbf3b6408",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "マネックス、オンチェーン金融研究所を創設──RWA・ステーブルコインの事業化を支援",
-        "url": "https://news.yahoo.co.jp/articles/5ef2caae37a0425288bec0a226948f256e43133a",
+        "title": "サークル、独自L1「Arc」の創設バリデーター公開、ブラックロックやVisaなど参加",
+        "url": "https://news.yahoo.co.jp/articles/53712719b77c8709831d1cbc1a7d1cf37e433dff",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ブラックロック、トークン化MMF2商品を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/9e3874e126555eaccba24a049db44a92a617e481",
+        "title": "クラウドフレア、AIエージェント向けIDとウォレット基盤提供へ",
+        "url": "https://news.yahoo.co.jp/articles/8738a47674497554bb7897d5c7e53ac44abfa172",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "マスターカード、ステーブルコイン決済基盤BVNKの買収完了。法定通貨との接続強化へ",
-        "url": "https://news.yahoo.co.jp/articles/096afc293858794ca762a4cba85d87fb4d8a46ce",
+        "title": "イーサリアム、ステーキング報酬の一部バーン提案「EIP8361」公開。50%超のステーク拡大抑制目指す",
+        "url": "https://news.yahoo.co.jp/articles/8ee715334a055722c1f8065c6354af7a098b7fdd",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "フランクリン・テンプルトン、カントンのスーパーバリデーターに。ナスダックやVisaに続き",
-        "url": "https://news.yahoo.co.jp/articles/e708aea18a86fde23d498369b5666c4a7b6ec14c",
+        "title": "金融庁、「暗号資産・ステーブルコイン課」を新設 「資金決済課」も 金融庁は8月5日、7日付で組織再編を行い、新たに「暗号資産・ステーブルコイン課」や「資金決済課」など5つの課を設けると発表した。金融庁組織令の一部",
+        "url": "https://news.yahoo.co.jp/articles/e741f971176bc36404eb322e91b088431726910b",
         "source": "Yahoo",
         "date": ""
       }
