@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-08-06T04:48:22.118Z",
+  "generatedAt": "2026-08-06T08:04:28.384Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "デジタルハーツホールディングス（3676）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-08-06",
+      "detectedAt": "2026-08-06T08:04:28.384Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-06T08:04:34.193Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-08-06",
+      "detectedAt": "2026-08-06T08:04:28.384Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-06T08:04:34.193Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]かぶオプの月間取引高が過去最高を記録（2026年7月）",
+      "url": "https://www.jpx.co.jp/news/2041/20260806-01.html",
+      "date": "2026-08-06",
+      "detectedAt": "2026-08-06T08:04:28.384Z",
+      "enriched": "2026-08-06T08:04:34.194Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大阪取引所は2026年8月3日より、かぶオプのマーケットメイク対象銘柄を32銘柄から50銘柄に拡大し、18銘柄を新たに追加した。",
+        "投資家は拡大後の50銘柄について、常時気配提示により従来より取引しやすい環境で有価証券オプション取引が可能になる。",
+        "この拡大は2026年7月の月間取引高847,586単位（過去最高）等の市場拡大を受けたもので、2026年8月3日から適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）デジタルハーツホールディングス",
+      "url": "https://www.jpx.co.jp/news/1023/20260806-12.html",
+      "date": "2026-08-06",
+      "detectedAt": "2026-08-06T08:04:28.384Z",
+      "enriched": "2026-08-06T08:04:34.194Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "デジタルハーツホールディングス（コード3676、プライム市場）について、Sandbox社による公開買付け成立後、特定株主以外の株式を1株未満の端数となる割合で併合することで上場廃止となるおそれが生じた。",
+        "東証は同社株式を監理銘柄（確認中）に指定し、上場廃止基準該当性を認定するまで監視する。上場会社及び公開買付者は有価証券上場規程施行規則第604条第1項第24号に基づく株式併合議案の株主総会付議手続を進める。",
+        "指定は2026年8月6日から有価証券上場規程施行規則第604条第1項第24号の上場廃止基準該当性が認定されるまでの期間、東証が上場廃止となるかどうかを確認中とする。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]「売買制度ワーキング・グループ報告」の公表について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1030/20260422-01.html",
+      "date": "2026-08-06",
+      "detectedAt": "2026-08-06T08:04:28.384Z",
+      "enriched": "2026-08-06T08:04:34.194Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証は大引けのクロージング・オークションについて、15:29:30～15:30:00の30秒間にランダムクローズを導入し、毎営業日ランダムな時刻に板寄せを実施する。全銘柄同時で、注文種類による制限なく大引け直前まで新規注文・変更・取消が可能。",
+        "市場関係者は、ランダムクローズによる終値形成の早期化・ゲーミング行為抑制・情報配信拡充の効果に対応し、個人投資家を含む十分な周知と丁寧な情報発信が必要となる。",
+        "呼値の単位については銘柄ごとのSTR（スプレッド・ティック・レシオ）に基づいて適用する呼値テーブルを年1回決定する制度を導入し、価格変動による執行コスト急増を抑止する仕組みとする。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "金融システムレポート別冊「金融機関における生成AIの利用状況とリスク管理」",
@@ -761,22 +838,6 @@
     },
     {
       "agency": "日本取引所グループ",
-      "title": "Ａｂａｌａｎｃｅ（3856）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-07-31",
-      "detectedAt": "2026-07-31T08:19:10.867Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-31T08:19:16.564Z"
-    },
-    {
-      "agency": "日本取引所グループ",
       "title": "[東証]グロース市場からスタンダード市場への変更：（株）ＪＭＣ",
       "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
       "date": "2026-07-31",
@@ -1211,22 +1272,6 @@
         "速やかに上場廃止すべき事情が発生した場合は整理銘柄指定期間と上場廃止日が変更されることがある。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-07-30",
-      "detectedAt": "2026-07-30T07:18:17.612Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-30T07:18:27.461Z"
     },
     {
       "agency": "日本公認会計士協会",
@@ -10398,12 +10443,6 @@
         "date": ""
       },
       {
-        "title": "0:35【独自】JAL系の保険サイトが保険業法違反か「ポイント特典」でサービス停止",
-        "url": "https://news.yahoo.co.jp/articles/e22688dceb0ae4961dd168b12ef37eb7c5a87a93",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
         "source": "Yahoo",
@@ -10424,6 +10463,12 @@
       {
         "title": "「MIXI M」残高の払い戻し期限は3月6日15時まで #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/ba8ce2d2e21fccc68e99f7677395e45960d54a42",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "“勝手に広がる”エコシステムが醍醐味、AI時代のデジタル円へ──JPYC岡部氏が語るステーブルコイン最前線【GFTN 2026】",
+        "url": "https://news.yahoo.co.jp/articles/4b679ec723e7156e76a831c2f07c376355336560",
         "source": "Yahoo",
         "date": ""
       }
@@ -10436,12 +10481,6 @@
         "date": ""
       },
       {
-        "title": "0:35【独自】JAL系の保険サイトが保険業法違反か「ポイント特典」でサービス停止",
-        "url": "https://news.yahoo.co.jp/articles/e22688dceb0ae4961dd168b12ef37eb7c5a87a93",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
         "source": "Yahoo",
@@ -10464,9 +10503,39 @@
         "url": "https://news.yahoo.co.jp/expert/articles/ba8ce2d2e21fccc68e99f7677395e45960d54a42",
         "source": "Yahoo",
         "date": ""
+      },
+      {
+        "title": "“勝手に広がる”エコシステムが醍醐味、AI時代のデジタル円へ──JPYC岡部氏が語るステーブルコイン最前線【GFTN 2026】",
+        "url": "https://news.yahoo.co.jp/articles/4b679ec723e7156e76a831c2f07c376355336560",
+        "source": "Yahoo",
+        "date": ""
       }
     ],
     "505M60000002048": [
+      {
+        "title": "ローソン、POSレジでステーブルコインによる店頭決済の実証実験",
+        "url": "https://news.yahoo.co.jp/articles/dc381d79f89cd1105900fecd95c18cdad5162755",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Cloudflare、AIエージェントが自律的に使える“お財布”「Cloudflare Wallets」を発表",
+        "url": "https://news.yahoo.co.jp/articles/e1aed51ab3b567867cb0c602f1b25205042e562e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "野村のスイス子会社、暗号資産ZIGに投資──オンチェーン金融商品を共同展開へ",
+        "url": "https://news.yahoo.co.jp/articles/c49c513da1cc65db1760f8fd4cba4b2ea335022b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ローソン、ステーブルコインの店頭決済の実証実験 インバウンド利用見込む",
+        "url": "https://news.yahoo.co.jp/articles/9410fc5bf37a7a1bfb1f9ac0a9e18b54c259abe1",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "マネックスGが「マネックス・オンチェーン金融研究所」創設、オンチェーン金融の社会実装へ",
         "url": "https://news.yahoo.co.jp/articles/82bde90ea5e093af48e753cc1aca6d6db8744467",
@@ -10476,36 +10545,36 @@
       {
         "title": "LINE NEXT、ステーブルコイン決済「Unifi Pay」をグローバルで正式提供。韓国観光商品をJPYCで購入可能に",
         "url": "https://news.yahoo.co.jp/articles/f755dbc336d1785f3f9a9153f4ac414dbf3b6408",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、独自L1「Arc」の創設バリデーター公開、ブラックロックやVisaなど参加",
-        "url": "https://news.yahoo.co.jp/articles/53712719b77c8709831d1cbc1a7d1cf37e433dff",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラウドフレア、AIエージェント向けIDとウォレット基盤提供へ",
-        "url": "https://news.yahoo.co.jp/articles/8738a47674497554bb7897d5c7e53ac44abfa172",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアム、ステーキング報酬の一部バーン提案「EIP8361」公開。50%超のステーク拡大抑制目指す",
-        "url": "https://news.yahoo.co.jp/articles/8ee715334a055722c1f8065c6354af7a098b7fdd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、「暗号資産・ステーブルコイン課」を新設 「資金決済課」も 金融庁は8月5日、7日付で組織再編を行い、新たに「暗号資産・ステーブルコイン課」や「資金決済課」など5つの課を設けると発表した。金融庁組織令の一部",
-        "url": "https://news.yahoo.co.jp/articles/e741f971176bc36404eb322e91b088431726910b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ローソン、POSレジでステーブルコインによる店頭決済の実証実験",
+        "url": "https://news.yahoo.co.jp/articles/dc381d79f89cd1105900fecd95c18cdad5162755",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Cloudflare、AIエージェントが自律的に使える“お財布”「Cloudflare Wallets」を発表",
+        "url": "https://news.yahoo.co.jp/articles/e1aed51ab3b567867cb0c602f1b25205042e562e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "野村のスイス子会社、暗号資産ZIGに投資──オンチェーン金融商品を共同展開へ",
+        "url": "https://news.yahoo.co.jp/articles/c49c513da1cc65db1760f8fd4cba4b2ea335022b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ローソン、ステーブルコインの店頭決済の実証実験 インバウンド利用見込む",
+        "url": "https://news.yahoo.co.jp/articles/9410fc5bf37a7a1bfb1f9ac0a9e18b54c259abe1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マネックスGが「マネックス・オンチェーン金融研究所」創設、オンチェーン金融の社会実装へ",
         "url": "https://news.yahoo.co.jp/articles/82bde90ea5e093af48e753cc1aca6d6db8744467",
         "source": "Yahoo",
@@ -10514,30 +10583,6 @@
       {
         "title": "LINE NEXT、ステーブルコイン決済「Unifi Pay」をグローバルで正式提供。韓国観光商品をJPYCで購入可能に",
         "url": "https://news.yahoo.co.jp/articles/f755dbc336d1785f3f9a9153f4ac414dbf3b6408",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、独自L1「Arc」の創設バリデーター公開、ブラックロックやVisaなど参加",
-        "url": "https://news.yahoo.co.jp/articles/53712719b77c8709831d1cbc1a7d1cf37e433dff",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラウドフレア、AIエージェント向けIDとウォレット基盤提供へ",
-        "url": "https://news.yahoo.co.jp/articles/8738a47674497554bb7897d5c7e53ac44abfa172",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアム、ステーキング報酬の一部バーン提案「EIP8361」公開。50%超のステーク拡大抑制目指す",
-        "url": "https://news.yahoo.co.jp/articles/8ee715334a055722c1f8065c6354af7a098b7fdd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、「暗号資産・ステーブルコイン課」を新設 「資金決済課」も 金融庁は8月5日、7日付で組織再編を行い、新たに「暗号資産・ステーブルコイン課」や「資金決済課」など5つの課を設けると発表した。金融庁組織令の一部",
-        "url": "https://news.yahoo.co.jp/articles/e741f971176bc36404eb322e91b088431726910b",
         "source": "Yahoo",
         "date": ""
       }
