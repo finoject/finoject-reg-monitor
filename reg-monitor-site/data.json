@@ -1,6 +1,75 @@
 {
-  "generatedAt": "2026-08-07T06:51:19.775Z",
+  "generatedAt": "2026-08-07T08:37:38.400Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）数理技研",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-08-07",
+      "detectedAt": "2026-08-07T08:37:38.400Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-07T08:37:43.195Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO-BOND Market）：独立行政法人 国際協力機構 総額200億円の債券",
+      "url": "https://www.jpx.co.jp/news/1070/20260807-51.html",
+      "date": "2026-08-07",
+      "detectedAt": "2026-08-07T08:37:38.400Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": null,
+          "kind": "改正",
+          "label": "金融商品取引法"
+        }
+      ],
+      "enriched": "2026-08-07T08:37:43.549Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "国際協力機構による総額200億円の債券（3年債利率1.787%、5年債利率2.182%）がTOKYO PRO-BOND Marketに新規上場承認された。",
+        "発行体は2026年8月24日の払込完了後、2026年8月25日の上場予定に向けて手続を進める。",
+        "プログラム上場により事前登録した枠内で随時起債可能、格付け取得と主幹事証券会社確保で上場適格性要件を充足する仕組み（金融商品取引法改正・プロ向け市場制度）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE,JPX総研]JPX日経インデックス400及びJPX日経中小型株指数の構成銘柄の定期入替について",
+      "url": "https://www.jpx.co.jp/news/6030/20260807-01.html",
+      "date": "2026-08-07",
+      "detectedAt": "2026-08-07T08:37:38.400Z",
+      "enriched": "2026-08-07T08:37:43.549Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX日経インデックス400は45銘柄を追加・39銘柄を除外し、JPX日経中小型株指数は49銘柄を追加・43銘柄を除外する定期入替を実施する。",
+        "指数先物取引・指数オプション取引の取引参加者は、構成銘柄の定期入替により影響を受ける可能性があるため十分な留意が必要である。",
+        "これらの定期入替は2026年8月31日を適用予定日とし、JPX総研と日本経済新聞社が共同で算出する指数について実施される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]上海天然ゴム先物（2027年９月限）の取引最終日等の変更について",
+      "url": "https://www.jpx.co.jp/news/2040/20260807-56.html",
+      "date": "2026-08-07",
+      "detectedAt": "2026-08-07T08:37:38.400Z",
+      "enriched": "2026-08-07T08:37:43.549Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "上海天然ゴム先物2027年9月限の取引最終日を2027年9月15日から9月16日に変更し、最終決済日を9月17日から9月21日に変更。SHFE中秋節休場の可能性に対応。",
+        "大阪取引所の取引参加者は変更日程を確認し、ポジション管理及び決済準備を調整する必要がある。SHFEが15日を休場としない場合は16日終日取引停止、清算値は前日分継承。",
+        "2026年8月7日公表、2027年9月限から適用。大阪取引所上海天然ゴム先物の取引規則に基づく変更。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "スマサポ（9342）",
@@ -480,22 +549,6 @@
         "2026年7月末時点の統計報告。日本銀行の公開情報として定期的に更新される担保残高統計。金融政策の実施状況を示す重要指標として機能。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）レイシャス",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-08-04",
-      "detectedAt": "2026-08-04T07:20:31.367Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-04T07:20:36.785Z"
     },
     {
       "agency": "日本証券業協会",
@@ -10460,6 +10513,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米クラリティ法案、年内成立予想が14%に急落──上院採決延期が影響か",
+        "url": "https://news.yahoo.co.jp/articles/2da9e2521340c9b80f4ea9befd14081280c815e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
         "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
         "source": "Yahoo",
@@ -10486,18 +10545,18 @@
       {
         "title": "暗号資産「クラリティ法」の米上院採決、9月へ持ち越しと報道",
         "url": "https://news.yahoo.co.jp/articles/bc41fc1cca649e46f6041a0b5ee02dcf3db23ab4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権のＡＩ「暴走」対応不十分と野党・保守派双方が批判、業界との近さ問題視",
-        "url": "https://news.yahoo.co.jp/articles/356ff33c9e6b4aca7c0331642b5a0dfbe9500c09",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米クラリティ法案、年内成立予想が14%に急落──上院採決延期が影響か",
+        "url": "https://news.yahoo.co.jp/articles/2da9e2521340c9b80f4ea9befd14081280c815e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
         "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
         "source": "Yahoo",
@@ -10524,12 +10583,6 @@
       {
         "title": "暗号資産「クラリティ法」の米上院採決、9月へ持ち越しと報道",
         "url": "https://news.yahoo.co.jp/articles/bc41fc1cca649e46f6041a0b5ee02dcf3db23ab4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権のＡＩ「暴走」対応不十分と野党・保守派双方が批判、業界との近さ問題視",
-        "url": "https://news.yahoo.co.jp/articles/356ff33c9e6b4aca7c0331642b5a0dfbe9500c09",
         "source": "Yahoo",
         "date": ""
       }
@@ -10688,6 +10741,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "金融庁、暗号資産新課のトップに安富氏",
+        "url": "https://news.yahoo.co.jp/articles/7659c7843ff9f65e2bcef9819f8915f70a0a0595",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マスターカードとボーダーレス、国際ステーブルコイン決済の信頼性向上へ共同実証",
         "url": "https://news.yahoo.co.jp/articles/045b68a356f8e7443e801a5c5a7c81269bae8d60",
         "source": "Yahoo",
@@ -10714,18 +10773,18 @@
       {
         "title": "LN Trends 2026年7月",
         "url": "https://news.yahoo.co.jp/articles/b3615d7bf9a8508f77434433b7f0aa759689c23b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソンPOSレジでステーブルコイン「JPYC」決済──関係者が明かす「変わらなかった」舞台裏",
-        "url": "https://news.yahoo.co.jp/articles/ba96a5b06b8cce1be1dceb3d0359d9340c12de9b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "金融庁、暗号資産新課のトップに安富氏",
+        "url": "https://news.yahoo.co.jp/articles/7659c7843ff9f65e2bcef9819f8915f70a0a0595",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マスターカードとボーダーレス、国際ステーブルコイン決済の信頼性向上へ共同実証",
         "url": "https://news.yahoo.co.jp/articles/045b68a356f8e7443e801a5c5a7c81269bae8d60",
         "source": "Yahoo",
@@ -10752,12 +10811,6 @@
       {
         "title": "LN Trends 2026年7月",
         "url": "https://news.yahoo.co.jp/articles/b3615d7bf9a8508f77434433b7f0aa759689c23b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソンPOSレジでステーブルコイン「JPYC」決済──関係者が明かす「変わらなかった」舞台裏",
-        "url": "https://news.yahoo.co.jp/articles/ba96a5b06b8cce1be1dceb3d0359d9340c12de9b",
         "source": "Yahoo",
         "date": ""
       }
