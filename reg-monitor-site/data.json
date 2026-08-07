@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-07T03:35:47.900Z",
+  "generatedAt": "2026-08-07T05:23:05.286Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "消費活動指数",
+      "url": "https://www.boj.or.jp/research/research_data/cai/index.htm",
+      "date": "2026-08-07",
+      "detectedAt": "2026-08-07T05:23:05.286Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は消費活動指数を毎月第5営業日14:00に公表し、2026年4月に2020年基準への改定に伴う見直しを実施、名目値・実質値、旅行収支調整の有無など複数系列を提供している。",
+        "個人消費動向の把握が必要な政策当局・分析担当者は、財・サービス販売統計を基礎とした月次・四半期の消費活動指数（耐久財8.6%、非耐久財44.3%、サービス47.1%）を活用し景気判断に活かすべき。",
+        "季節調整はX-12-ARIMA使用で毎年4月頃全期間データで替え実施、ARIMA次数は原則automdlで選択、曜日・祝日・異常値調整はAICベースで判定（2026年5月時点スペック適用）。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-07T05:23:10.638Z"
+    },
     {
       "agency": "日本公認会計士協会",
       "title": "公益社団法人 日本監査役協会「監査役等による会計不正への対応－予兆の早期把握と予防の徹底－」の公表について",
@@ -4291,22 +4307,6 @@
         "本取得決議の上限は40,000,000株（発行済株式総数対比3.9%）で200億円、取得期間は2026年6月1日～10月26日（決算期末の5営業日前～末日を除く）に設定されていた。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "消費活動指数",
-      "url": "https://www.boj.or.jp/research/research_data/cai/index.htm",
-      "date": "2026-07-07",
-      "detectedAt": "2026-07-07T05:50:01.509Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行は消費活動指数を毎月第5営業日14:00に公表し、2026年4月に2020年基準への改定に伴う見直しを実施、名目値・実質値、旅行収支調整の有無など複数系列を提供している。",
-        "個人消費動向の把握が必要な政策当局・分析担当者は、財・サービス販売統計を基礎とした月次・四半期の消費活動指数（耐久財8.6%、非耐久財44.3%、サービス47.1%）を活用し景気判断に活かすべき。",
-        "季節調整はX-12-ARIMA使用で毎年4月頃全期間データで替え実施、ARIMA次数は原則automdlで選択、曜日・祝日・異常値調整はAICベースで判定（2026年5月時点スペック適用）。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-07T05:50:06.719Z"
     },
     {
       "agency": "日本銀行",
@@ -10232,6 +10232,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
+        "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「法令違反を平然と継続」斎藤知事をバッサリ 「兵庫県告発文書問題」著者・奥山俊宏教授に聞く",
         "url": "https://news.yahoo.co.jp/articles/77540fd2d92e81e56563067abc8ef1d5809c0f7f",
         "source": "Yahoo",
@@ -10258,18 +10264,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.6】",
         "url": "https://news.yahoo.co.jp/articles/1934bba4bb5c8754d58ba7703bef38fd388a1e6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】暗号資産分離課税へ王手、投資家が見落とす「対象外」の盲点とは？",
-        "url": "https://news.yahoo.co.jp/articles/fed2b715b6821468ec8a04c447894e001489976c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
+        "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「法令違反を平然と継続」斎藤知事をバッサリ 「兵庫県告発文書問題」著者・奥山俊宏教授に聞く",
         "url": "https://news.yahoo.co.jp/articles/77540fd2d92e81e56563067abc8ef1d5809c0f7f",
         "source": "Yahoo",
@@ -10296,18 +10302,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.6】",
         "url": "https://news.yahoo.co.jp/articles/1934bba4bb5c8754d58ba7703bef38fd388a1e6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】暗号資産分離課税へ王手、投資家が見落とす「対象外」の盲点とは？",
-        "url": "https://news.yahoo.co.jp/articles/fed2b715b6821468ec8a04c447894e001489976c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
+        "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「法令違反を平然と継続」斎藤知事をバッサリ 「兵庫県告発文書問題」著者・奥山俊宏教授に聞く",
         "url": "https://news.yahoo.co.jp/articles/77540fd2d92e81e56563067abc8ef1d5809c0f7f",
         "source": "Yahoo",
@@ -10334,18 +10340,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.6】",
         "url": "https://news.yahoo.co.jp/articles/1934bba4bb5c8754d58ba7703bef38fd388a1e6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】暗号資産分離課税へ王手、投資家が見落とす「対象外」の盲点とは？",
-        "url": "https://news.yahoo.co.jp/articles/fed2b715b6821468ec8a04c447894e001489976c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
+        "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「法令違反を平然と継続」斎藤知事をバッサリ 「兵庫県告発文書問題」著者・奥山俊宏教授に聞く",
         "url": "https://news.yahoo.co.jp/articles/77540fd2d92e81e56563067abc8ef1d5809c0f7f",
         "source": "Yahoo",
@@ -10374,15 +10380,15 @@
         "url": "https://news.yahoo.co.jp/articles/1934bba4bb5c8754d58ba7703bef38fd388a1e6f",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】暗号資産分離課税へ王手、投資家が見落とす「対象外」の盲点とは？",
-        "url": "https://news.yahoo.co.jp/articles/fed2b715b6821468ec8a04c447894e001489976c",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
+        "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "BTCBOX、約半年ぶりに一部サービス再開へ。ログイン・暗号資産入庫から",
         "url": "https://news.yahoo.co.jp/articles/029684d7fc99d26a70522df9e5f063bf92e050f5",
@@ -10410,18 +10416,18 @@
       {
         "title": "日航系保険サイト法抵触か 契約者への特典で",
         "url": "https://news.yahoo.co.jp/articles/f394e2daa6abd7172c5b4ef0ea43ac4659f9e3ec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化資産の時価総額が66億ドルに急成長＝CoinGecko",
-        "url": "https://news.yahoo.co.jp/articles/19664d22c931ba78449a9c0a80f9429c5c28cf91",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
+        "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BTCBOX、約半年ぶりに一部サービス再開へ。ログイン・暗号資産入庫から",
         "url": "https://news.yahoo.co.jp/articles/029684d7fc99d26a70522df9e5f063bf92e050f5",
         "source": "Yahoo",
@@ -10450,15 +10456,27 @@
         "url": "https://news.yahoo.co.jp/articles/f394e2daa6abd7172c5b4ef0ea43ac4659f9e3ec",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "トークン化資産の時価総額が66億ドルに急成長＝CoinGecko",
-        "url": "https://news.yahoo.co.jp/articles/19664d22c931ba78449a9c0a80f9429c5c28cf91",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
+        "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "キリフダ、暗号資産188銘柄を11セクターに分類、独自指数公開",
+        "url": "https://news.yahoo.co.jp/articles/9db4424c7ef1efcca8380d2821041fd624bcff29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロシア、暗号資産包括規制法が成立、交換業者を登録制に。国内決済禁止は継続",
+        "url": "https://news.yahoo.co.jp/articles/fa6bb1a49d4aa3e79983ecf19ea3790b5be7e329",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ロシア、非適格投資家の暗号資産購入を年57万円に制限",
         "url": "https://news.yahoo.co.jp/articles/8ea3b8d120fc084700a6bdb561bce8b5aea0c318",
@@ -10474,30 +10492,30 @@
       {
         "title": "米政権のＡＩ「暴走」対応不十分と野党・保守派双方が批判、業界との近さ問題視",
         "url": "https://news.yahoo.co.jp/articles/356ff33c9e6b4aca7c0331642b5a0dfbe9500c09",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "プーチン大統領、ロシア初の暗号資産法に署名──基本ルールは2026年9月に発効",
-        "url": "https://news.yahoo.co.jp/articles/2cd112c6865f9bd6c0a173b237fad33fe2bce039",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン現物ETFに6.26億ドル流入──資金はどこから来たのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/3af0c98b2019b213a603399941e1ac08097c2970",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitget、ブータン特別行政区「GMC」と協力協定──現地法人設立とライセンス申請を検討",
-        "url": "https://news.yahoo.co.jp/articles/baf8cd5d5faefce3df8d702c906cae946f244843",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
+        "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "キリフダ、暗号資産188銘柄を11セクターに分類、独自指数公開",
+        "url": "https://news.yahoo.co.jp/articles/9db4424c7ef1efcca8380d2821041fd624bcff29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロシア、暗号資産包括規制法が成立、交換業者を登録制に。国内決済禁止は継続",
+        "url": "https://news.yahoo.co.jp/articles/fa6bb1a49d4aa3e79983ecf19ea3790b5be7e329",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロシア、非適格投資家の暗号資産購入を年57万円に制限",
         "url": "https://news.yahoo.co.jp/articles/8ea3b8d120fc084700a6bdb561bce8b5aea0c318",
         "source": "Yahoo",
@@ -10512,24 +10530,6 @@
       {
         "title": "米政権のＡＩ「暴走」対応不十分と野党・保守派双方が批判、業界との近さ問題視",
         "url": "https://news.yahoo.co.jp/articles/356ff33c9e6b4aca7c0331642b5a0dfbe9500c09",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "プーチン大統領、ロシア初の暗号資産法に署名──基本ルールは2026年9月に発効",
-        "url": "https://news.yahoo.co.jp/articles/2cd112c6865f9bd6c0a173b237fad33fe2bce039",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン現物ETFに6.26億ドル流入──資金はどこから来たのか【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/3af0c98b2019b213a603399941e1ac08097c2970",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitget、ブータン特別行政区「GMC」と協力協定──現地法人設立とライセンス申請を検討",
-        "url": "https://news.yahoo.co.jp/articles/baf8cd5d5faefce3df8d702c906cae946f244843",
         "source": "Yahoo",
         "date": ""
       }
@@ -10688,6 +10688,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "キリフダ、暗号資産188銘柄を11セクターに分類、独自指数公開",
+        "url": "https://news.yahoo.co.jp/articles/9db4424c7ef1efcca8380d2821041fd624bcff29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロシア、暗号資産包括規制法が成立、交換業者を登録制に。国内決済禁止は継続",
+        "url": "https://news.yahoo.co.jp/articles/fa6bb1a49d4aa3e79983ecf19ea3790b5be7e329",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットトレードとスタンデージ、貿易領域で暗号資産活用の共同実証へ",
+        "url": "https://news.yahoo.co.jp/articles/81c88ca53c00501a2d9417a4fdfebe6429755669",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "LN Trends 2026年7月",
         "url": "https://news.yahoo.co.jp/articles/b3615d7bf9a8508f77434433b7f0aa759689c23b",
         "source": "Yahoo",
@@ -10702,30 +10720,30 @@
       {
         "title": "ビザ、「Visa Direct」でステーブルコイン送金対応拡大。zerohashが基盤提供",
         "url": "https://news.yahoo.co.jp/articles/b2e6b2756f92e600409e1874a99bc5dc87336d84",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFi減速に逆行し、トークン化された現実資産が急成長＝CoinShares",
-        "url": "https://news.yahoo.co.jp/articles/7c7523c7da2ae2f2a22912e6b3654811f535153c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "技術職も聖域ではない 2600人削減のVisaに見る「AI組織転換」の現実",
-        "url": "https://news.yahoo.co.jp/articles/ce71f540b8b4504ed69daf982447a037f26e291c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:54ステーブルコイン決済 初の実証実験 コンビニ決済が進化",
-        "url": "https://news.yahoo.co.jp/articles/5828f8b401122dc16c464c3024ed97d43f5cb496",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "キリフダ、暗号資産188銘柄を11セクターに分類、独自指数公開",
+        "url": "https://news.yahoo.co.jp/articles/9db4424c7ef1efcca8380d2821041fd624bcff29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロシア、暗号資産包括規制法が成立、交換業者を登録制に。国内決済禁止は継続",
+        "url": "https://news.yahoo.co.jp/articles/fa6bb1a49d4aa3e79983ecf19ea3790b5be7e329",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットトレードとスタンデージ、貿易領域で暗号資産活用の共同実証へ",
+        "url": "https://news.yahoo.co.jp/articles/81c88ca53c00501a2d9417a4fdfebe6429755669",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "LN Trends 2026年7月",
         "url": "https://news.yahoo.co.jp/articles/b3615d7bf9a8508f77434433b7f0aa759689c23b",
         "source": "Yahoo",
@@ -10740,24 +10758,6 @@
       {
         "title": "ビザ、「Visa Direct」でステーブルコイン送金対応拡大。zerohashが基盤提供",
         "url": "https://news.yahoo.co.jp/articles/b2e6b2756f92e600409e1874a99bc5dc87336d84",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFi減速に逆行し、トークン化された現実資産が急成長＝CoinShares",
-        "url": "https://news.yahoo.co.jp/articles/7c7523c7da2ae2f2a22912e6b3654811f535153c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "技術職も聖域ではない 2600人削減のVisaに見る「AI組織転換」の現実",
-        "url": "https://news.yahoo.co.jp/articles/ce71f540b8b4504ed69daf982447a037f26e291c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:54ステーブルコイン決済 初の実証実験 コンビニ決済が進化",
-        "url": "https://news.yahoo.co.jp/articles/5828f8b401122dc16c464c3024ed97d43f5cb496",
         "source": "Yahoo",
         "date": ""
       }
@@ -11300,12 +11300,6 @@
         "date": ""
       },
       {
-        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
-        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -11320,6 +11314,12 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
+        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
         "source": "Yahoo",
         "date": ""
       }
@@ -11338,12 +11338,6 @@
         "date": ""
       },
       {
-        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
-        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -11358,6 +11352,12 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
+        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
         "source": "Yahoo",
         "date": ""
       }
@@ -11376,12 +11376,6 @@
         "date": ""
       },
       {
-        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
-        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -11396,6 +11390,12 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
+        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
         "source": "Yahoo",
         "date": ""
       }
@@ -11414,12 +11414,6 @@
         "date": ""
       },
       {
-        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
-        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -11434,6 +11428,12 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
+        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
         "source": "Yahoo",
         "date": ""
       }
@@ -11452,12 +11452,6 @@
         "date": ""
       },
       {
-        "title": "インタビュー：株主提案ルール見直し提言へ、アクティビスト報告徹底も＝小林自民ＰＴ座長",
-        "url": "https://news.yahoo.co.jp/articles/64e0e24e98492e2ebf3ab73e2fcb2b3434891a18",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
@@ -11472,6 +11466,12 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
+        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
         "source": "Yahoo",
         "date": ""
       }
