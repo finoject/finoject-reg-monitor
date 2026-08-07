@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-07T00:28:24.148Z",
+  "generatedAt": "2026-08-07T03:35:47.900Z",
   "items": [
+    {
+      "agency": "日本公認会計士協会",
+      "title": "公益社団法人 日本監査役協会「監査役等による会計不正への対応－予兆の早期把握と予防の徹底－」の公表について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260807aji.html",
+      "date": "2026-08-07",
+      "detectedAt": "2026-08-07T03:35:47.900Z",
+      "enriched": "2026-08-07T03:35:54.340Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本監査役協会が2026年7月28日、「監査役等による会計不正への対応－予兆の早期把握と予防の徹底－」を公表した。",
+        "監査役等は本資料に基づき、会計不正の予兆を早期に把握し、その予防と対応の徹底を求められる。",
+        "詳細は日本監査役協会ウェブサイトに掲載される資料で確認する必要がある。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "オペレーション（7月）",
@@ -10445,6 +10460,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "ロシア、非適格投資家の暗号資産購入を年57万円に制限",
+        "url": "https://news.yahoo.co.jp/articles/8ea3b8d120fc084700a6bdb561bce8b5aea0c318",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産「クラリティ法」の米上院採決、9月へ持ち越しと報道",
+        "url": "https://news.yahoo.co.jp/articles/bc41fc1cca649e46f6041a0b5ee02dcf3db23ab4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米政権のＡＩ「暴走」対応不十分と野党・保守派双方が批判、業界との近さ問題視",
         "url": "https://news.yahoo.co.jp/articles/356ff33c9e6b4aca7c0331642b5a0dfbe9500c09",
         "source": "Yahoo",
@@ -10465,24 +10492,24 @@
       {
         "title": "Bitget、ブータン特別行政区「GMC」と協力協定──現地法人設立とライセンス申請を検討",
         "url": "https://news.yahoo.co.jp/articles/baf8cd5d5faefce3df8d702c906cae946f244843",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マネックスGが「マネックス・オンチェーン金融研究所」創設、オンチェーン金融の社会実装へ",
-        "url": "https://news.yahoo.co.jp/articles/82bde90ea5e093af48e753cc1aca6d6db8744467",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "予測市場は州・部族法の管轄に──米上院でクラリティ法案修正論",
-        "url": "https://news.yahoo.co.jp/articles/322420ac7950b429f5569b08567dec886b8b817d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ロシア、非適格投資家の暗号資産購入を年57万円に制限",
+        "url": "https://news.yahoo.co.jp/articles/8ea3b8d120fc084700a6bdb561bce8b5aea0c318",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産「クラリティ法」の米上院採決、9月へ持ち越しと報道",
+        "url": "https://news.yahoo.co.jp/articles/bc41fc1cca649e46f6041a0b5ee02dcf3db23ab4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米政権のＡＩ「暴走」対応不十分と野党・保守派双方が批判、業界との近さ問題視",
         "url": "https://news.yahoo.co.jp/articles/356ff33c9e6b4aca7c0331642b5a0dfbe9500c09",
         "source": "Yahoo",
@@ -10503,18 +10530,6 @@
       {
         "title": "Bitget、ブータン特別行政区「GMC」と協力協定──現地法人設立とライセンス申請を検討",
         "url": "https://news.yahoo.co.jp/articles/baf8cd5d5faefce3df8d702c906cae946f244843",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マネックスGが「マネックス・オンチェーン金融研究所」創設、オンチェーン金融の社会実装へ",
-        "url": "https://news.yahoo.co.jp/articles/82bde90ea5e093af48e753cc1aca6d6db8744467",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "予測市場は州・部族法の管轄に──米上院でクラリティ法案修正論",
-        "url": "https://news.yahoo.co.jp/articles/322420ac7950b429f5569b08567dec886b8b817d",
         "source": "Yahoo",
         "date": ""
       }
@@ -10673,6 +10688,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "LN Trends 2026年7月",
+        "url": "https://news.yahoo.co.jp/articles/b3615d7bf9a8508f77434433b7f0aa759689c23b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ローソンPOSレジでステーブルコイン「JPYC」決済──関係者が明かす「変わらなかった」舞台裏",
+        "url": "https://news.yahoo.co.jp/articles/ba96a5b06b8cce1be1dceb3d0359d9340c12de9b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビザ、「Visa Direct」でステーブルコイン送金対応拡大。zerohashが基盤提供",
+        "url": "https://news.yahoo.co.jp/articles/b2e6b2756f92e600409e1874a99bc5dc87336d84",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DeFi減速に逆行し、トークン化された現実資産が急成長＝CoinShares",
         "url": "https://news.yahoo.co.jp/articles/7c7523c7da2ae2f2a22912e6b3654811f535153c",
         "source": "Yahoo",
@@ -10687,30 +10720,30 @@
       {
         "title": "0:54ステーブルコイン決済 初の実証実験 コンビニ決済が進化",
         "url": "https://news.yahoo.co.jp/articles/5828f8b401122dc16c464c3024ed97d43f5cb496",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材】ローソンでJPYC決済を体験、国内初のコンビニPOS連携実証",
-        "url": "https://news.yahoo.co.jp/articles/10faa4a30de10cf7fac373707fdd186936ad96f3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソンで円ステーブルコイン「JPYC」決済を体験──国内初のPOSレジ実証",
-        "url": "https://news.yahoo.co.jp/articles/6f2212aab9fd7b0504b9a767966a8fb6370383c4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "RedotPayがバイナンスの顧客47万人を自社カードへ不当誘導か──関連会社が約745億円請求=Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/503d35f903c91254731fa8337972b082d8e7f825",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "LN Trends 2026年7月",
+        "url": "https://news.yahoo.co.jp/articles/b3615d7bf9a8508f77434433b7f0aa759689c23b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ローソンPOSレジでステーブルコイン「JPYC」決済──関係者が明かす「変わらなかった」舞台裏",
+        "url": "https://news.yahoo.co.jp/articles/ba96a5b06b8cce1be1dceb3d0359d9340c12de9b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビザ、「Visa Direct」でステーブルコイン送金対応拡大。zerohashが基盤提供",
+        "url": "https://news.yahoo.co.jp/articles/b2e6b2756f92e600409e1874a99bc5dc87336d84",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DeFi減速に逆行し、トークン化された現実資産が急成長＝CoinShares",
         "url": "https://news.yahoo.co.jp/articles/7c7523c7da2ae2f2a22912e6b3654811f535153c",
         "source": "Yahoo",
@@ -10725,24 +10758,6 @@
       {
         "title": "0:54ステーブルコイン決済 初の実証実験 コンビニ決済が進化",
         "url": "https://news.yahoo.co.jp/articles/5828f8b401122dc16c464c3024ed97d43f5cb496",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材】ローソンでJPYC決済を体験、国内初のコンビニPOS連携実証",
-        "url": "https://news.yahoo.co.jp/articles/10faa4a30de10cf7fac373707fdd186936ad96f3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソンで円ステーブルコイン「JPYC」決済を体験──国内初のPOSレジ実証",
-        "url": "https://news.yahoo.co.jp/articles/6f2212aab9fd7b0504b9a767966a8fb6370383c4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "RedotPayがバイナンスの顧客47万人を自社カードへ不当誘導か──関連会社が約745億円請求=Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/503d35f903c91254731fa8337972b082d8e7f825",
         "source": "Yahoo",
         "date": ""
       }
