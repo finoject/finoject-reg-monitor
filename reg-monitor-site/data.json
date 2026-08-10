@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-10T02:56:05.477Z",
+  "generatedAt": "2026-08-10T05:08:36.528Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "新規公開に際して行う株券の個人顧客への配分状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/shinkikoukai/index.html",
+      "date": "2026-08-10",
+      "detectedAt": "2026-08-10T05:08:36.528Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は新規公開株の配分を行った協会員について、銘柄別に個人投資家への配分状況を統計・調査として定期的に公表している。",
+        "協会員（引受業者）は新規公開に際して個人顧客への株券配分結果を協会に報告し、当該配分状況がデータとして月別（1月～12月、ただし欠月あり）に掲載・管理される。",
+        "配分状況統計は2006年度以降毎年公表されており、2026年6月10日時点で2026年3月分までのデータが最新として掲載されている。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-10T05:08:41.955Z"
+    },
     {
       "agency": "JVCEA",
       "title": "取扱廃止銘柄のお知らせ",
@@ -4039,22 +4055,6 @@
         "東京証券取引所の制限値幅拡大措置は、2営業日連続該当時の翌営業日から適用され、通常値段での売買成立で復帰する東証自主規制に基づく取扱い。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "新規公開に際して行う株券の個人顧客への配分状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/shinkikoukai/index.html",
-      "date": "2026-07-10",
-      "detectedAt": "2026-07-10T05:45:10.099Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は新規公開株の配分を行った協会員について、銘柄別に個人投資家への配分状況を統計・調査として定期的に公表している。",
-        "協会員（引受業者）は新規公開に際して個人顧客への株券配分結果を協会に報告し、当該配分状況がデータとして月別（1月～12月、ただし欠月あり）に掲載・管理される。",
-        "配分状況統計は2006年度以降毎年公表されており、2026年6月10日時点で2026年3月分までのデータが最新として掲載されている。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-10T05:45:15.823Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -10647,6 +10647,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "暗号資産を規制する米「クラリティ法案」、トランプ事業の利益相反が成立の壁に",
+        "url": "https://news.yahoo.co.jp/articles/e9c1b8dc2a02a2653b8014800dd43901d959c322",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ・メディアら、1兆円規模の暗号資産トレジャリー計画を中止",
         "url": "https://news.yahoo.co.jp/articles/6a82e6b88371f1624d061a39cb7f21652d9379f6",
         "source": "Yahoo",
@@ -10673,18 +10679,18 @@
       {
         "title": "「規制を守る者ほど不利」に危機感──金商法移行を前にビットコイナーが激論 金商法移行の背景と、暗号資産規制見直しの四本柱 続いて森下氏は、国内で暗号資産が投資対象として広がった実態を示しながら、規制を金商法へ移す背景を説明した。NADA NEWSIT総合8/10(月) 7:00",
         "url": "https://news.yahoo.co.jp/articles/e77098c83f952327f3568e1155fc1f7332960101",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案、9月15日に審議入り手続き採決可能に──米政府が日程公表",
-        "url": "https://news.yahoo.co.jp/articles/3c391538a432c2449ca18167c6f17f873e00abcd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "暗号資産を規制する米「クラリティ法案」、トランプ事業の利益相反が成立の壁に",
+        "url": "https://news.yahoo.co.jp/articles/e9c1b8dc2a02a2653b8014800dd43901d959c322",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ・メディアら、1兆円規模の暗号資産トレジャリー計画を中止",
         "url": "https://news.yahoo.co.jp/articles/6a82e6b88371f1624d061a39cb7f21652d9379f6",
         "source": "Yahoo",
@@ -10711,12 +10717,6 @@
       {
         "title": "「規制を守る者ほど不利」に危機感──金商法移行を前にビットコイナーが激論 金商法移行の背景と、暗号資産規制見直しの四本柱 続いて森下氏は、国内で暗号資産が投資対象として広がった実態を示しながら、規制を金商法へ移す背景を説明した。NADA NEWSIT総合8/10(月) 7:00",
         "url": "https://news.yahoo.co.jp/articles/e77098c83f952327f3568e1155fc1f7332960101",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案、9月15日に審議入り手続き採決可能に──米政府が日程公表",
-        "url": "https://news.yahoo.co.jp/articles/3c391538a432c2449ca18167c6f17f873e00abcd",
         "source": "Yahoo",
         "date": ""
       }
@@ -10875,6 +10875,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "暗号資産を規制する米「クラリティ法案」、トランプ事業の利益相反が成立の壁に",
+        "url": "https://news.yahoo.co.jp/articles/e9c1b8dc2a02a2653b8014800dd43901d959c322",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "熊本地震で暗号資産募金、FINX JCrypto──業界の支援広がる",
         "url": "https://news.yahoo.co.jp/articles/7489ea69dcedd83940cbf653471d3461d8ba7fbc",
         "source": "Yahoo",
@@ -10901,18 +10907,18 @@
       {
         "title": "デジタル資産を「投資」から「経営」へ～いま企業に求められる「デジタル資本経営」とは【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/740f7e157c208daf8889d02292fd13cbdce266d5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "レシートの印字に見た、ステーブルコイン「隔世の感」【記者コラム】",
-        "url": "https://news.yahoo.co.jp/articles/9af4987e65fb30235127139646220313b6e8e3ec",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "暗号資産を規制する米「クラリティ法案」、トランプ事業の利益相反が成立の壁に",
+        "url": "https://news.yahoo.co.jp/articles/e9c1b8dc2a02a2653b8014800dd43901d959c322",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "熊本地震で暗号資産募金、FINX JCrypto──業界の支援広がる",
         "url": "https://news.yahoo.co.jp/articles/7489ea69dcedd83940cbf653471d3461d8ba7fbc",
         "source": "Yahoo",
@@ -10939,12 +10945,6 @@
       {
         "title": "デジタル資産を「投資」から「経営」へ～いま企業に求められる「デジタル資本経営」とは【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/740f7e157c208daf8889d02292fd13cbdce266d5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "レシートの印字に見た、ステーブルコイン「隔世の感」【記者コラム】",
-        "url": "https://news.yahoo.co.jp/articles/9af4987e65fb30235127139646220313b6e8e3ec",
         "source": "Yahoo",
         "date": ""
       }
