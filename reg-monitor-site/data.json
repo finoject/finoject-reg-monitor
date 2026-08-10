@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-10T06:53:31.498Z",
+  "generatedAt": "2026-08-10T09:00:28.877Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE,TOCOM]デリバティブの祝日取引の実施について（2026年8月11日）",
+      "url": "https://www.jpx.co.jp/news/2040/20260810-01.html",
+      "date": "2026-08-10",
+      "detectedAt": "2026-08-10T09:00:28.877Z",
+      "enriched": "2026-08-10T09:00:34.236Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大阪取引所及び東京商品取引所のデリバティブ取引について、2026年8月11日（火・山の日）に祝日取引を実施する。",
+        "取引参加者及び投資家は、当日のデリバティブ市場が稼働することを認識した上で、取引参加者は市場対応体制を確保すべき。",
+        "2026年8月11日から適用されるもので、祝日取引の詳細は大阪取引所の関連ページ及び公表資料を参照。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "公社債発行額・償還額等",
@@ -10905,6 +10920,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "デジタルガレージ、ステーブルコイン決済基盤を商用展開──JCBなどへ先行提供予定",
+        "url": "https://news.yahoo.co.jp/articles/1d37b8bb0619686829e2372d6b4c23be023c87dc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産を規制する米「クラリティ法案」、トランプ事業の利益相反が成立の壁に",
         "url": "https://news.yahoo.co.jp/articles/e9c1b8dc2a02a2653b8014800dd43901d959c322",
         "source": "Yahoo",
@@ -10931,18 +10952,18 @@
       {
         "title": "各国通貨ステーブルコインはドル建てトークンの需要を高める可能性がある＝IMF",
         "url": "https://news.yahoo.co.jp/articles/f619f8d6c99774e871c56e02c4fe8cb9c38d3a7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル資産を「投資」から「経営」へ～いま企業に求められる「デジタル資本経営」とは【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/740f7e157c208daf8889d02292fd13cbdce266d5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "デジタルガレージ、ステーブルコイン決済基盤を商用展開──JCBなどへ先行提供予定",
+        "url": "https://news.yahoo.co.jp/articles/1d37b8bb0619686829e2372d6b4c23be023c87dc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産を規制する米「クラリティ法案」、トランプ事業の利益相反が成立の壁に",
         "url": "https://news.yahoo.co.jp/articles/e9c1b8dc2a02a2653b8014800dd43901d959c322",
         "source": "Yahoo",
@@ -10969,12 +10990,6 @@
       {
         "title": "各国通貨ステーブルコインはドル建てトークンの需要を高める可能性がある＝IMF",
         "url": "https://news.yahoo.co.jp/articles/f619f8d6c99774e871c56e02c4fe8cb9c38d3a7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル資産を「投資」から「経営」へ～いま企業に求められる「デジタル資本経営」とは【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/740f7e157c208daf8889d02292fd13cbdce266d5",
         "source": "Yahoo",
         "date": ""
       }
