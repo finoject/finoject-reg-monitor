@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-10T00:02:43.857Z",
+  "generatedAt": "2026-08-10T02:56:05.477Z",
   "items": [
+    {
+      "agency": "JVCEA",
+      "title": "取扱廃止銘柄のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260810-001/",
+      "date": "2026-08-10",
+      "detectedAt": "2026-08-10T02:56:05.477Z",
+      "enriched": "2026-08-10T02:56:10.844Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA会員であるFINX JCrypto株式会社が取扱う暗号資産Dai（ティッカーコード：DAI）の取扱いが廃止される。",
+        "FINX JCrypto株式会社は2026年9月15日11:59までに当該銘柄の取扱を停止し、利用者への周知・対応が必要。",
+        "取扱廃止日は2026年9月15日11:59であり、JVCEA統計情報・取扱銘柄関連の規則に基づく手続。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "金融政策決定会合における主な意見（7月30、31日開催分）",
