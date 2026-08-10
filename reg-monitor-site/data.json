@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-08-09T23:03:24.864Z",
+  "generatedAt": "2026-08-10T00:02:43.857Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "金融政策決定会合における主な意見（7月30、31日開催分）",
+      "url": "https://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260731.pdf",
+      "date": "2026-08-09",
+      "detectedAt": "2026-08-10T00:02:43.857Z",
+      "enriched": "2026-08-10T00:02:50.625Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年7月30、31日の金融政策決定会合で、基調的物価上昇率が2％に近づく中、物価の上振れリスクに配慮し政策金利を段階的に引き上げる方針を示した。利上げのタイミングやペースは中東情勢やAI関連需要、為替変動を踏まえ検討するが、市場想定より早まる可能性がある。",
+        "金融機関は現在の緩和的金融環境の中で、規律ある投資計画に基づく資金調達を進める必要がある。短期実質金利がマイナスで金融緩和が継続されているが、今後の利上げペース加速に備えた経営対応が求められる。",
+        "政府は「骨太方針2026」に基づき責任ある積極財政を推進するとともに、日本銀行に対し2％物価安定目標の持続的・安定的実現に向けた適切な金融政策運営を期待している。金融政策の焦点は物価引き上げから上振れ回避へ局面転換した。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "貸出・預金動向（7月）",
+      "url": "https://www.boj.or.jp/statistics/dl/depo/kashi/kasi2607.pdf",
+      "date": "2026-08-09",
+      "detectedAt": "2026-08-10T00:02:43.857Z",
+      "enriched": "2026-08-10T00:02:50.625Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月の銀行・信金計の総貸出平残は前年比5.4%増（6,791,985億円）で、6月の5.7%から低下。都銀等は8.0%増、地銀は4.2%増、信金は1.9%増。",
+        "預金動向（実質預金+CD）では、3業態・信金計の7月平残は前年比1.6%増（10,744,400億円）で、都銀2.2%増、地銀1.3%増、地銀Ⅱは▲0.5%の減少。",
+        "日本銀行金融機構局が2026年8月10日8時50分に公表した7月の貸出・預金動向速報で、主要金融機関の月中平均残高の前年同月比と平残額を統計値として示した。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "「貸出先別貸出金」（2026年6月）等の公表について",
+      "url": "https://www.boj.or.jp/statistics/outline/notice_2026/not260810a.htm",
+      "date": "2026-08-09",
+      "detectedAt": "2026-08-10T00:02:43.857Z",
+      "enriched": "2026-08-10T00:02:50.625Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行が2026年6月の「貸出先別貸出金」と「個人向け貸出金」の最新データを時系列統計データ検索サイトに掲載し、2023年6月から2026年3月の一部計数を遡及訂正した。",
+        "金融機関は国内銀行（3勘定合算・信託勘定・銀行勘定）と信用金庫の貸出残高・設備資金残高・新規貸出額・貸出件数等について訂正されたデータを統計資料として参照・報告に使用すること。",
+        "訂正対象データは2026年8月10日公表で、貸出先別貸出金（残高・設備資金残高・新規貸出額・貸出件数）及び個人向け貸出金（住宅資金・消費財等）に関わる統計情報である。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "ＳＮＳ等におけるなりすまし詐欺広告に関する対策の強化の公表",
@@ -10587,6 +10632,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "トランプ・メディアら、1兆円規模の暗号資産トレジャリー計画を中止",
+        "url": "https://news.yahoo.co.jp/articles/6a82e6b88371f1624d061a39cb7f21652d9379f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米民主党、下院多数派奪還ならトランプ氏周辺企業を徹底調査へ 弾劾は証拠次第",
+        "url": "https://news.yahoo.co.jp/articles/4d515ce6f55106f35860a16cac15094674cf6f04",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブラジル、1万ドル超の暗号資産送金に24時間保留義務──詐欺対策を強化",
         "url": "https://news.yahoo.co.jp/articles/20b8f1f1473601805693e3041c0aeb8ce882a832",
         "source": "Yahoo",
@@ -10607,24 +10664,24 @@
       {
         "title": "クラリティ法案、9月15日に審議入り手続き採決可能に──米政府が日程公表",
         "url": "https://news.yahoo.co.jp/articles/3c391538a432c2449ca18167c6f17f873e00abcd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY Actは9月へ先送り、成立目前から「最後の超党派交渉」へ【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/c42d9f9b46d9b5e4c8d852ea224adde0ec154fb3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "認知症の高齢者の資産260兆円が狙われている！ 「被害者の8割がだまされた認識なし」 悪徳業者の手口と防ぎ方は？",
-        "url": "https://news.yahoo.co.jp/articles/f30154f56b2062bb5ccd04698b30912376925249",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプ・メディアら、1兆円規模の暗号資産トレジャリー計画を中止",
+        "url": "https://news.yahoo.co.jp/articles/6a82e6b88371f1624d061a39cb7f21652d9379f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米民主党、下院多数派奪還ならトランプ氏周辺企業を徹底調査へ 弾劾は証拠次第",
+        "url": "https://news.yahoo.co.jp/articles/4d515ce6f55106f35860a16cac15094674cf6f04",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブラジル、1万ドル超の暗号資産送金に24時間保留義務──詐欺対策を強化",
         "url": "https://news.yahoo.co.jp/articles/20b8f1f1473601805693e3041c0aeb8ce882a832",
         "source": "Yahoo",
@@ -10645,18 +10702,6 @@
       {
         "title": "クラリティ法案、9月15日に審議入り手続き採決可能に──米政府が日程公表",
         "url": "https://news.yahoo.co.jp/articles/3c391538a432c2449ca18167c6f17f873e00abcd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CLARITY Actは9月へ先送り、成立目前から「最後の超党派交渉」へ【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/c42d9f9b46d9b5e4c8d852ea224adde0ec154fb3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "認知症の高齢者の資産260兆円が狙われている！ 「被害者の8割がだまされた認識なし」 悪徳業者の手口と防ぎ方は？",
-        "url": "https://news.yahoo.co.jp/articles/f30154f56b2062bb5ccd04698b30912376925249",
         "source": "Yahoo",
         "date": ""
       }
@@ -10815,6 +10860,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "熊本地震で暗号資産募金、FINX JCrypto──業界の支援広がる",
+        "url": "https://news.yahoo.co.jp/articles/7489ea69dcedd83940cbf653471d3461d8ba7fbc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、Canton Networkで日韓決済網を構築へ──韓Nodeinfra社と提携",
         "url": "https://news.yahoo.co.jp/articles/964f6b749ccf8d8e7bf1a2cba38a48139e02c9d8",
         "source": "Yahoo",
@@ -10841,18 +10892,18 @@
       {
         "title": "レシートの印字に見た、ステーブルコイン「隔世の感」【記者コラム】",
         "url": "https://news.yahoo.co.jp/articles/9af4987e65fb30235127139646220313b6e8e3ec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【速報】金融庁、暗号資産・ステーブルコイン課を新設／警察庁、すべての暗号資産交換業者に出庫制限強化を要請【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/29e40a00a7b9d9e2808c70b59837ff85d2a3941b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "熊本地震で暗号資産募金、FINX JCrypto──業界の支援広がる",
+        "url": "https://news.yahoo.co.jp/articles/7489ea69dcedd83940cbf653471d3461d8ba7fbc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、Canton Networkで日韓決済網を構築へ──韓Nodeinfra社と提携",
         "url": "https://news.yahoo.co.jp/articles/964f6b749ccf8d8e7bf1a2cba38a48139e02c9d8",
         "source": "Yahoo",
@@ -10879,12 +10930,6 @@
       {
         "title": "レシートの印字に見た、ステーブルコイン「隔世の感」【記者コラム】",
         "url": "https://news.yahoo.co.jp/articles/9af4987e65fb30235127139646220313b6e8e3ec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【速報】金融庁、暗号資産・ステーブルコイン課を新設／警察庁、すべての暗号資産交換業者に出庫制限強化を要請【日曜日に読みたい厳選10本】",
-        "url": "https://news.yahoo.co.jp/articles/29e40a00a7b9d9e2808c70b59837ff85d2a3941b",
         "source": "Yahoo",
         "date": ""
       }
@@ -11081,12 +11126,6 @@
     ],
     "358AC1000000032": [
       {
-        "title": "今すぐお金が必要",
-        "url": "https://news.yahoo.co.jp/articles/0c28a0774a0f7f167a0605e16306ec1d36723051",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -11113,18 +11152,18 @@
       {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
+        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
-        "title": "今すぐお金が必要",
-        "url": "https://news.yahoo.co.jp/articles/0c28a0774a0f7f167a0605e16306ec1d36723051",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -11151,18 +11190,18 @@
       {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
+        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
-        "title": "今すぐお金が必要",
-        "url": "https://news.yahoo.co.jp/articles/0c28a0774a0f7f167a0605e16306ec1d36723051",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -11189,6 +11228,12 @@
       {
         "title": "「もうあかん、このまま家族で",
         "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "少子化なのに「小中高生の自殺」過去最多、親の虐待や教員の不適切な指導による死",
+        "url": "https://news.yahoo.co.jp/articles/6a3bc9a833d6434762aaa59bfec19009e20b0098",
         "source": "Yahoo",
         "date": ""
       }
