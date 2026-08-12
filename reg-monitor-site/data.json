@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-12T00:40:23.278Z",
+  "generatedAt": "2026-08-12T03:50:17.663Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "会長記者会見の要旨を公開しました。",
+      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
+      "date": "2026-08-12",
+      "detectedAt": "2026-08-12T03:50:17.663Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
+        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
+        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-12T03:50:23.321Z"
+    },
     {
       "agency": "日本銀行",
       "title": "マネーストック（7月）",
@@ -1983,22 +1999,6 @@
         "有価証券上場規程施行規則第604条第3項本文及び同条第1項第24号に基づき、監理銘柄（確認中）指定解除の手続が実行される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "会長記者会見の資料を公開しました",
-      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
-      "date": "2026-07-29",
-      "detectedAt": "2026-07-29T04:52:12.363Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
-        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
-        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-29T04:52:17.609Z"
     },
     {
       "agency": "日本銀行",
@@ -10707,6 +10707,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米SEC、クラリティ法案待たず14日に暗号資産ルール審議へ",
+        "url": "https://news.yahoo.co.jp/articles/2a028b3ff5fbfba8b1a0181b2618c66a69dfc743",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アマゾン・アップル歴任のプロ経営者が語る、国際送金に勝つ“4条件”と“4トレンド”",
         "url": "https://news.yahoo.co.jp/articles/588ed09fcd735287578585f491513756dc8976b8",
         "source": "Yahoo",
@@ -10733,18 +10739,18 @@
       {
         "title": "トランプ・メディアら、1兆円規模の暗号資産トレジャリー計画を中止",
         "url": "https://news.yahoo.co.jp/articles/6a82e6b88371f1624d061a39cb7f21652d9379f6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米民主党、下院多数派奪還ならトランプ氏周辺企業を徹底調査へ 弾劾は証拠次第",
-        "url": "https://news.yahoo.co.jp/articles/4d515ce6f55106f35860a16cac15094674cf6f04",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米SEC、クラリティ法案待たず14日に暗号資産ルール審議へ",
+        "url": "https://news.yahoo.co.jp/articles/2a028b3ff5fbfba8b1a0181b2618c66a69dfc743",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アマゾン・アップル歴任のプロ経営者が語る、国際送金に勝つ“4条件”と“4トレンド”",
         "url": "https://news.yahoo.co.jp/articles/588ed09fcd735287578585f491513756dc8976b8",
         "source": "Yahoo",
@@ -10771,12 +10777,6 @@
       {
         "title": "トランプ・メディアら、1兆円規模の暗号資産トレジャリー計画を中止",
         "url": "https://news.yahoo.co.jp/articles/6a82e6b88371f1624d061a39cb7f21652d9379f6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米民主党、下院多数派奪還ならトランプ氏周辺企業を徹底調査へ 弾劾は証拠次第",
-        "url": "https://news.yahoo.co.jp/articles/4d515ce6f55106f35860a16cac15094674cf6f04",
         "source": "Yahoo",
         "date": ""
       }
