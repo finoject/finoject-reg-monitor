@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-12T03:50:17.663Z",
+  "generatedAt": "2026-08-12T06:03:00.936Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "（論文）サプライチェーンを介した企業の支出行動の連関",
+      "url": "https://www.boj.or.jp/research/wps_rev/wps_2026/wp26j10.htm",
+      "date": "2026-08-12",
+      "detectedAt": "2026-08-12T06:03:00.936Z",
+      "enriched": "2026-08-12T06:03:05.796Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サプライチェーン内で、海外需要ショック（特に賞与）、下流企業の設備投資、頂点企業の賃金動向が、それぞれ連動して企業行動に影響を与える実証的な連関メカニズムを確認した論文である。",
+        "製造業企業の景気分析を行う実務担当者は、個別企業のマクロショックだけでなく、サプライチェーン構造における上下流企業の投資・賃金動向の相互影響を考慮して、企業の設備投資決定や賃金設定動向を分析する必要がある。",
+        "本論文は2026年8月の日本銀行ワーキングペーパーであり、製造業大企業を起点とした重層的なサプライチェーン構造の影響分析に関する知見を提供するが、規制基準や法的強制力を持つ公表物ではない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（論文）企業間取引データを用いたわが国製造業サプライチェーンの可視化",
+      "url": "https://www.boj.or.jp/research/wps_rev/wps_2026/wp26j09.htm",
+      "date": "2026-08-12",
+      "detectedAt": "2026-08-12T06:03:00.936Z",
+      "enriched": "2026-08-12T06:03:05.796Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "企業間取引データを用いた分析により、自動車メーカーを中心とするサプライチェーンの階層構造を特定し、その長さ・裾野の広さ、供給制約時の影響度が他産業比で大きいことが定量的に実証された。",
+        "製造業事業者はサプライチェーン上のボトルネック品目（代替調達困難で下流影響大）に関して供給制約リスクを認識し、在庫保有等の緩和策を検討すべき。",
+        "本論文は日本銀行ワーキングペーパー（No.26-J-9、2026年8月）として公表され、経済構造実態調査・工業統計調査・企業活動基本調査等の公的統計調査票情報に基づく。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "会長記者会見の要旨を公開しました。",
@@ -10707,6 +10737,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "韓国、暗号資産トラベルルールを全送金に拡大──マネロン対策を強化",
+        "url": "https://news.yahoo.co.jp/articles/5918dee596b7bdd3d07a2863529790127349b7cc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "中国・上海市、政府主導のブロックチェーン基盤を強化──海運・貿易・金融で活用拡大",
+        "url": "https://news.yahoo.co.jp/articles/ee91ffb35dc4da734669e7b682b8e96c2f62a0a3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米SEC、クラリティ法案待たず14日に暗号資産ルール審議へ",
         "url": "https://news.yahoo.co.jp/articles/2a028b3ff5fbfba8b1a0181b2618c66a69dfc743",
         "source": "Yahoo",
@@ -10727,24 +10769,24 @@
       {
         "title": "トランプ・メディアら3社、約1兆円規模の暗号資産トレジャリー企業設立計画中止",
         "url": "https://news.yahoo.co.jp/articles/83962badce747b7a37ac36d1c0de64c97279997c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産を規制する米「クラリティ法案」、トランプ事業の利益相反が成立の壁に",
-        "url": "https://news.yahoo.co.jp/articles/e9c1b8dc2a02a2653b8014800dd43901d959c322",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ・メディアら、1兆円規模の暗号資産トレジャリー計画を中止",
-        "url": "https://news.yahoo.co.jp/articles/6a82e6b88371f1624d061a39cb7f21652d9379f6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "韓国、暗号資産トラベルルールを全送金に拡大──マネロン対策を強化",
+        "url": "https://news.yahoo.co.jp/articles/5918dee596b7bdd3d07a2863529790127349b7cc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "中国・上海市、政府主導のブロックチェーン基盤を強化──海運・貿易・金融で活用拡大",
+        "url": "https://news.yahoo.co.jp/articles/ee91ffb35dc4da734669e7b682b8e96c2f62a0a3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米SEC、クラリティ法案待たず14日に暗号資産ルール審議へ",
         "url": "https://news.yahoo.co.jp/articles/2a028b3ff5fbfba8b1a0181b2618c66a69dfc743",
         "source": "Yahoo",
@@ -10765,18 +10807,6 @@
       {
         "title": "トランプ・メディアら3社、約1兆円規模の暗号資産トレジャリー企業設立計画中止",
         "url": "https://news.yahoo.co.jp/articles/83962badce747b7a37ac36d1c0de64c97279997c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産を規制する米「クラリティ法案」、トランプ事業の利益相反が成立の壁に",
-        "url": "https://news.yahoo.co.jp/articles/e9c1b8dc2a02a2653b8014800dd43901d959c322",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ・メディアら、1兆円規模の暗号資産トレジャリー計画を中止",
-        "url": "https://news.yahoo.co.jp/articles/6a82e6b88371f1624d061a39cb7f21652d9379f6",
         "source": "Yahoo",
         "date": ""
       }
