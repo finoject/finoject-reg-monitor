@@ -1,0 +1,97 @@
+name: weekly-brief-prep
+
+# メルマガ「finoject Financial Weekly Regulatory Brief」（毎週金曜17:00配信）の材料を用意する。
+# 図表・一次資料の突合・本文はモデルの判断が要るためセッション側で仕上げる＝ここは引き渡しまで。
+#
+# ローカルのスケジュールタスクはPCでClaude Codeが動いている時しか発火せず、
+# 現に7/31・8/7の金曜17:00は動かなかった。だから常時稼働するGitHub Actionsに載せる。
+
+on:
+  schedule:
+    # 金曜 09:17 JST = 金曜 00:17 UTC。:00 は GitHub の schedule が最も混雑してドロップ/遅延しやすいので避ける。
+    # 朝に材料を出しておき、17:00配信に向けて日中に仕上げる。金曜夕方の追加公表は最終稿直前に取り込む。
+    - cron: '17 0 * * 5'
+  workflow_dispatch:
+    inputs:
+      week_end:
+        description: '対象週の終端（金曜・YYYY-MM-DD）。空なら直近の金曜'
+        required: false
+        type: string
+      notify:
+        description: 'Slackへ着手通知を送る（動作確認だけしたいときはfalse）'
+        required: false
+        default: true
+        type: boolean
+
+permissions:
+  contents: write   # weekly/*.md をコミットするため
+
+# 巡回(crawl.yml)は group:pages を握る。こちらはPagesに触らないので別グループにして相互に詰まらせない。
+concurrency:
+  group: weekly-brief
+  cancel-in-progress: false
+
+jobs:
+  prep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # crawl.yml が data.json を毎時コミットしている。checkout時点の最新を使う。
+      # 通知はこの後のコミット/push成功後に出す。先に通知すると、リンク先が未作成でも
+      # 「材料を用意しました」とだけ流れてしまう。
+      - name: 対象週（土〜金）の材料を生成
+        working-directory: reg-monitor
+        env:
+          # 入力はシェルに直接展開せず環境変数経由で渡す（スクリプトインジェクション回避）
+          WEEK_END: ${{ inputs.week_end }}
+        run: |
+          # `[ ... ] && ...` は条件が偽だと非ゼロを返し、bash -e でステップごと落ちる。ifで書く。
+          # 引数は配列で組み立てて "${ARGS[@]}" で渡す（未引用展開だと値の空白で引数が割れる）。
+          ARGS=(--no-slack --summary-out "${RUNNER_TEMP}/weekly-summary.json")
+          if [ -n "$WEEK_END" ]; then ARGS+=(--week-end "$WEEK_END"); fi
+          node weekly-brief.js "${ARGS[@]}"
+
+      - name: 材料をコミット（毎週の蓄積を残す）
+        run: |
+          git config user.name "reg-monitor-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add weekly/
+          # 「差分なし」だけを正常系として通し、それ以外の失敗は握り潰さない。
+          # `... || echo` で全部を成功扱いにすると、pushできていないのに通知だけ出る事故になる。
+          if git diff --cached --quiet; then
+            echo "材料に差分なし（コミット対象なし）"
+            exit 0
+          fi
+          git commit -m "chore: weekly brief materials ($(date -u +%FT%TZ))"
+          # crawl.yml が毎時:37に同じmainへpushする。rebaseしてから押すが、pullとpushの間に
+          # 先を越されると non-fast-forward になる。数回まで取り直して押し直す。
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            if git push; then
+              echo "push成功（${i}回目）"
+              exit 0
+            fi
+            echo "pushに失敗（${i}回目）。取り直して再試行します"
+            if [ "$i" -lt 3 ]; then sleep $((i * 10)); fi   # 最後の失敗の後は待たない
+          done
+          echo "::error::3回試行してもpushできませんでした"
+          exit 1
+
+      - name: Slackへ着手通知（コミット成功後）
+        # notify=false の手動実行（動作確認）のときだけ飛ばす。
+        # `inputs.notify != false` と書くと、scheduleでは inputs.notify が空文字→数値0に強制変換され
+        # false と等しくなってスキップされてしまう。イベント種別で明示的に分ける。
+        if: ${{ github.event_name != 'workflow_dispatch' || inputs.notify }}
+        working-directory: reg-monitor
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        # 対象週も件数も生成時に確定した集計をそのまま流す。ここで data.json を読み直すと、
+        # 直前の `git pull --rebase` が crawl.yml の更新を取り込んだ場合に、
+        # コミット済みMarkdownとSlackの件数がずれる。
+        run: node weekly-brief.js --notify-from "${RUNNER_TEMP}/weekly-summary.json"
