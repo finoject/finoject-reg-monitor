@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-08-13T00:41:46.556Z",
+  "generatedAt": "2026-08-13T03:53:13.179Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（8月10日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260810.htm",
+      "date": "2026-08-13",
+      "detectedAt": "2026-08-13T03:53:13.179Z",
+      "enriched": "2026-08-13T03:53:18.925Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の2026年8月10日現在の資産合計は642兆9,714億7,764万円で、国債518兆1,300億1,296万円、貸付金71兆8,593億円が主要構成要素。",
+        "長期国債のみ保有（518兆1,300億1,296万円）で国庫短期証券は保有なし。貸付金のうち共通担保資金供給オペレーション等による貸付が32兆7,534億円。",
+        "負債側は銀行券115兆1,038億2,731万円、当座預金419兆9,029億3,110万円が主要で、2026年8月13日公表の旬次決算報告。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "CGI Global関係者の来会について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260813jfu.html",
+      "date": "2026-08-13",
+      "detectedAt": "2026-08-13T03:53:13.179Z",
+      "enriched": "2026-08-13T03:53:18.925Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "CGI Global（国際ガバナンス協会）の事務局長と日本アドバイザーが2026年8月5日に日本公認会計士協会を訪問し、コーポレート・ガバナンスと企業開示について意見交換を実施した。",
+        "具体的な協議内容や合意事項、組織的な対応は本文に記載されていない。",
+        "本公告は情報提供・報告であり、実務担当者への具体的な規制対応や実行期限を含まない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "監査・保証基準委員会有識者懇談会（2026年７月１日）の議事要旨等の公表について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260813ice.html",
+      "date": "2026-08-13",
+      "detectedAt": "2026-08-13T03:53:13.179Z",
+      "enriched": "2026-08-13T03:53:18.925Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "監査基準報告書240「財務諸表監査における不正」が改正され、2027年4月1日以降開始する事業年度から適用開始となり、不正リスク識別・評価時の通報制度の理解及び経営陣とのコミュニケーション要求事項が明確化されるため、監査人は実施内容を監査調書に文書化する必要がある。",
+        "上場会社以外の非上場会社に対しても改正監基報240が適用されることとなり、不正による重要な虚偽表示リスク識別では企業の通報窓口が機能しているか確認するほか、不正の芽段階で企業（監査役等含む）と密にコミュニケーションを取ることが求められる。",
+        "改正監基報240により監基報315と合わせて通報制度を通じた不正申立て把握方法が変わり、財務諸表に影響するか否かにかかわらず広く不正又は不正の疑いを把握することで、監査人による不正対応の実務ばらつきが解消される見込み。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "企業物価指数（7月）",
@@ -10782,6 +10827,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "香港、初認可ステーブルコイン「HKDAP」の提供を開始",
+        "url": "https://news.yahoo.co.jp/articles/44aef7d55d6b867a323a59f26600784bd35e6bc9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米国、暗号資産企業の銀行参入を後押し──規制当局が方針表明",
+        "url": "https://news.yahoo.co.jp/articles/d6274b80d98fefc4d9e75e29be26ad792147cfad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman Sachs、NEOS買収──ビットコイン・イーサリアムETFを傘下に",
         "url": "https://news.yahoo.co.jp/articles/8039dd7993228925e2d9f783bd6914edd6ec76fb",
         "source": "Yahoo",
@@ -10802,24 +10859,24 @@
       {
         "title": "中国・上海市、政府主導のブロックチェーン基盤を強化──海運・貿易・金融で活用拡大",
         "url": "https://news.yahoo.co.jp/articles/ee91ffb35dc4da734669e7b682b8e96c2f62a0a3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米SEC、クラリティ法案待たず14日に暗号資産ルール審議へ",
-        "url": "https://news.yahoo.co.jp/articles/2a028b3ff5fbfba8b1a0181b2618c66a69dfc743",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アマゾン・アップル歴任のプロ経営者が語る、国際送金に勝つ“4条件”と“4トレンド”",
-        "url": "https://news.yahoo.co.jp/articles/588ed09fcd735287578585f491513756dc8976b8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "香港、初認可ステーブルコイン「HKDAP」の提供を開始",
+        "url": "https://news.yahoo.co.jp/articles/44aef7d55d6b867a323a59f26600784bd35e6bc9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米国、暗号資産企業の銀行参入を後押し──規制当局が方針表明",
+        "url": "https://news.yahoo.co.jp/articles/d6274b80d98fefc4d9e75e29be26ad792147cfad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman Sachs、NEOS買収──ビットコイン・イーサリアムETFを傘下に",
         "url": "https://news.yahoo.co.jp/articles/8039dd7993228925e2d9f783bd6914edd6ec76fb",
         "source": "Yahoo",
@@ -10840,18 +10897,6 @@
       {
         "title": "中国・上海市、政府主導のブロックチェーン基盤を強化──海運・貿易・金融で活用拡大",
         "url": "https://news.yahoo.co.jp/articles/ee91ffb35dc4da734669e7b682b8e96c2f62a0a3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米SEC、クラリティ法案待たず14日に暗号資産ルール審議へ",
-        "url": "https://news.yahoo.co.jp/articles/2a028b3ff5fbfba8b1a0181b2618c66a69dfc743",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アマゾン・アップル歴任のプロ経営者が語る、国際送金に勝つ“4条件”と“4トレンド”",
-        "url": "https://news.yahoo.co.jp/articles/588ed09fcd735287578585f491513756dc8976b8",
         "source": "Yahoo",
         "date": ""
       }
@@ -11010,6 +11055,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "香港、初認可ステーブルコイン「HKDAP」の提供を開始",
+        "url": "https://news.yahoo.co.jp/articles/44aef7d55d6b867a323a59f26600784bd35e6bc9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三菱UFJ、日本国債の即時決済を27年度にも開始へ──ブロックチェーン活用＝日経",
+        "url": "https://news.yahoo.co.jp/articles/d8d0849d43725515e6189e6a5263a4152362fda9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BRICS、中央銀行デジタル通貨や即時決済網の連携を協議──国際送金の低コスト化へ＝ロイター",
         "url": "https://news.yahoo.co.jp/articles/9ce549fccc3d13f0a86a3bbb636883b25dcf7761",
         "source": "Yahoo",
@@ -11030,24 +11087,24 @@
       {
         "title": "韓国SNS「サイワールド」再始動へ",
         "url": "https://news.yahoo.co.jp/articles/fa12af5afc50dc63ddaf5326034ee48b69ee14d5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MoneyGram、Solanaで暗号資産と現金の交換サービス開始",
-        "url": "https://news.yahoo.co.jp/articles/c2f3cd4567f0a7eccabdf06e43746d65ce752379",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アマゾン・アップル歴任のプロ経営者が語る、国際送金に勝つ“4条件”と“4トレンド”",
-        "url": "https://news.yahoo.co.jp/articles/588ed09fcd735287578585f491513756dc8976b8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "香港、初認可ステーブルコイン「HKDAP」の提供を開始",
+        "url": "https://news.yahoo.co.jp/articles/44aef7d55d6b867a323a59f26600784bd35e6bc9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三菱UFJ、日本国債の即時決済を27年度にも開始へ──ブロックチェーン活用＝日経",
+        "url": "https://news.yahoo.co.jp/articles/d8d0849d43725515e6189e6a5263a4152362fda9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BRICS、中央銀行デジタル通貨や即時決済網の連携を協議──国際送金の低コスト化へ＝ロイター",
         "url": "https://news.yahoo.co.jp/articles/9ce549fccc3d13f0a86a3bbb636883b25dcf7761",
         "source": "Yahoo",
@@ -11068,18 +11125,6 @@
       {
         "title": "韓国SNS「サイワールド」再始動へ",
         "url": "https://news.yahoo.co.jp/articles/fa12af5afc50dc63ddaf5326034ee48b69ee14d5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MoneyGram、Solanaで暗号資産と現金の交換サービス開始",
-        "url": "https://news.yahoo.co.jp/articles/c2f3cd4567f0a7eccabdf06e43746d65ce752379",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アマゾン・アップル歴任のプロ経営者が語る、国際送金に勝つ“4条件”と“4トレンド”",
-        "url": "https://news.yahoo.co.jp/articles/588ed09fcd735287578585f491513756dc8976b8",
         "source": "Yahoo",
         "date": ""
       }
@@ -11800,6 +11845,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "独人権擁護団体、スマートグラス巡りメタなどを刑事告発",
+        "url": "https://news.yahoo.co.jp/articles/8ccbf5ec56232df4363bce64f484aef481474227",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国警察、NewJeansハニのビザ情報漏えい疑惑を捜査",
         "url": "https://news.yahoo.co.jp/articles/97d0dbbff7d9f41350455eb2509efdee9778cf3b",
         "source": "Yahoo",
@@ -11826,18 +11877,18 @@
       {
         "title": "中道・小川氏、汗だく演説「自虐、嫌いじゃない」前途多難の党運営に「小さくても好機」",
         "url": "https://news.yahoo.co.jp/articles/9cf89ab242e0e6c9cfe4491fc454af462677d92b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "《高市政権の数のおごり》「個人情報保護法改正」も「皇位継承問題での失言」も",
-        "url": "https://news.yahoo.co.jp/articles/c30d49b6b78e86d5013bbd5208482cf3c7839844",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "独人権擁護団体、スマートグラス巡りメタなどを刑事告発",
+        "url": "https://news.yahoo.co.jp/articles/8ccbf5ec56232df4363bce64f484aef481474227",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国警察、NewJeansハニのビザ情報漏えい疑惑を捜査",
         "url": "https://news.yahoo.co.jp/articles/97d0dbbff7d9f41350455eb2509efdee9778cf3b",
         "source": "Yahoo",
@@ -11864,18 +11915,18 @@
       {
         "title": "中道・小川氏、汗だく演説「自虐、嫌いじゃない」前途多難の党運営に「小さくても好機」",
         "url": "https://news.yahoo.co.jp/articles/9cf89ab242e0e6c9cfe4491fc454af462677d92b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "《高市政権の数のおごり》「個人情報保護法改正」も「皇位継承問題での失言」も",
-        "url": "https://news.yahoo.co.jp/articles/c30d49b6b78e86d5013bbd5208482cf3c7839844",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "独人権擁護団体、スマートグラス巡りメタなどを刑事告発",
+        "url": "https://news.yahoo.co.jp/articles/8ccbf5ec56232df4363bce64f484aef481474227",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国警察、NewJeansハニのビザ情報漏えい疑惑を捜査",
         "url": "https://news.yahoo.co.jp/articles/97d0dbbff7d9f41350455eb2509efdee9778cf3b",
         "source": "Yahoo",
@@ -11902,12 +11953,6 @@
       {
         "title": "中道・小川氏、汗だく演説「自虐、嫌いじゃない」前途多難の党運営に「小さくても好機」",
         "url": "https://news.yahoo.co.jp/articles/9cf89ab242e0e6c9cfe4491fc454af462677d92b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "《高市政権の数のおごり》「個人情報保護法改正」も「皇位継承問題での失言」も",
-        "url": "https://news.yahoo.co.jp/articles/c30d49b6b78e86d5013bbd5208482cf3c7839844",
         "source": "Yahoo",
         "date": ""
       }
