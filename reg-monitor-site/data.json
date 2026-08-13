@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T22:23:02.619Z",
+  "generatedAt": "2026-08-13T23:22:12.973Z",
   "items": [
     {
       "agency": "日本取引所グループ",
@@ -11100,6 +11100,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "Tether、初の完全監査を完了──KPMGが「無限定適正意見」付与",
+        "url": "https://news.yahoo.co.jp/articles/6b8255917eb05ed3841b9ae88b1a426d0ca756bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「手数料0.99％」登録者20万人超 石川発の地域決済サービス「トチツーカ」が示す地域金融の新しい形",
         "url": "https://news.yahoo.co.jp/articles/1d3ff7786e3c0d25996c466974d038f43f5d5475",
         "source": "Yahoo",
@@ -11126,18 +11132,18 @@
       {
         "title": "MUFGとProgmatら、日本国債レポ取引のオンチェーン化に向け実証開始と発表",
         "url": "https://news.yahoo.co.jp/articles/a679c73efbf53bdfb01d6c431d085927810bda1e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港、初認可ステーブルコイン「HKDAP」の提供を開始",
-        "url": "https://news.yahoo.co.jp/articles/44aef7d55d6b867a323a59f26600784bd35e6bc9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Tether、初の完全監査を完了──KPMGが「無限定適正意見」付与",
+        "url": "https://news.yahoo.co.jp/articles/6b8255917eb05ed3841b9ae88b1a426d0ca756bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「手数料0.99％」登録者20万人超 石川発の地域決済サービス「トチツーカ」が示す地域金融の新しい形",
         "url": "https://news.yahoo.co.jp/articles/1d3ff7786e3c0d25996c466974d038f43f5d5475",
         "source": "Yahoo",
@@ -11164,12 +11170,6 @@
       {
         "title": "MUFGとProgmatら、日本国債レポ取引のオンチェーン化に向け実証開始と発表",
         "url": "https://news.yahoo.co.jp/articles/a679c73efbf53bdfb01d6c431d085927810bda1e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港、初認可ステーブルコイン「HKDAP」の提供を開始",
-        "url": "https://news.yahoo.co.jp/articles/44aef7d55d6b867a323a59f26600784bd35e6bc9",
         "source": "Yahoo",
         "date": ""
       }
