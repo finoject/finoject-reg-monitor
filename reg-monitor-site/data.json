@@ -1,6 +1,99 @@
 {
-  "generatedAt": "2026-08-13T06:04:27.496Z",
+  "generatedAt": "2026-08-13T08:03:37.353Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（スタンダード市場）：（株）オリバー",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-08-13",
+      "detectedAt": "2026-08-13T08:03:37.353Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-13T08:03:41.619Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-08-13",
+      "detectedAt": "2026-08-13T08:03:37.353Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-13T08:03:41.619Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-08-13",
+      "detectedAt": "2026-08-13T08:03:37.353Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-13T08:03:41.619Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260810.xlsx",
+      "date": "2026-08-13",
+      "detectedAt": "2026-08-13T08:03:37.353Z",
+      "enriched": "2026-08-13T08:03:41.619Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が破損したExcelファイル形式のため、日本銀行が保有する国債の銘柄別残高の具体的な数値、構成、変動内容を確認できない状況である。",
+        "ファイルの復旧またはテキスト形式の本文提供が必要であり、現状では対象者の具体的な対応内容を特定できない。",
+        "公表日は2026年8月13日であるが、本文欠落のため適用範囲、対象期間、参照すべき法令条項の特定ができない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "フェイルの発生状況（7月）",
+      "url": "https://www.boj.or.jp/statistics/set/bffail/sjgb2607.pdf",
+      "date": "2026-08-13",
+      "detectedAt": "2026-08-13T08:03:37.353Z",
+      "enriched": "2026-08-13T08:03:41.619Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月の国債フェイル発生件数は428件で額面総額13,134億円、平均フェイル期間1.16営業日、最長12営業日であり、バイ・イン件数は0件。",
+        "日銀ネット国債DVPシステム利用の直接参加金融機関244先がアンケート調査に応じ、自己口・預り口・信託口の決済に関するフェイル情報を報告。",
+        "フェイルは国債DVP取引で受け方が予定決済日経過後も対象債券を受け渡されていない状態であり、解消にはJSDA規則またはJSCC規定に従う買い入れが該当。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260813-01.html",
+      "date": "2026-08-13",
+      "detectedAt": "2026-08-13T08:03:37.353Z",
+      "enriched": "2026-08-13T08:03:41.619Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ミナトホールディングス（株）（コード6862）の株式について、2営業日連続してストップ高かつ売買ゼロまたは午後立会終了時にストップ高で値段がつき買呼値残数ありの条件に該当したため、8月14日より制限値幅上限を2,800円に拡大（基準値段3,450円、通常ストップ高6,250円から変更）。",
+        "取引参加者および投資家は、ミナトホールディングス株式の8月14日以降の取引で拡大制限値幅（上限2,800円、下限通常700円）を適用することに注意し、成行注文による予期しない値段での約定リスクを認識する必要がある。",
+        "東証の制限値幅拡大措置は2026年8月14日から適用され、その後ストップ高（安）以外の値段での売買成立時に翌営業日から通常値幅に戻る仕組み（注1参照）。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "営業毎旬報告（8月10日現在）",
@@ -60,22 +153,6 @@
         "本公表は2026年8月13日8時50分に日本銀行調査統計局から発表され、2020年平均を100とする基準で各指数が算出されている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（グロース市場）：（株）KOMPEITO",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-08-12",
-      "detectedAt": "2026-08-12T08:02:10.662Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-12T08:02:14.960Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -688,22 +765,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-08-06",
-      "detectedAt": "2026-08-06T08:04:28.384Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-06T08:04:34.193Z"
-    },
-    {
       "agency": "日本取引所グループ",
       "title": "[OSE]かぶオプの月間取引高が過去最高を記録（2026年7月）",
       "url": "https://www.jpx.co.jp/news/2041/20260806-01.html",
@@ -822,22 +883,6 @@
         "本組織再編は資産運用立国推進・デジタル技術対応・金融機関モニタリング高度化等の新課題に対応するため、8月7日の金融庁組織令改正政令施行に基づき実施される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-08-05",
-      "detectedAt": "2026-08-05T08:06:08.684Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-05T08:06:13.082Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -10903,6 +10948,12 @@
     ],
     "422M60000002004": [
       {
+        "title": "「給与明細」ちゃんと見てる？ 見落としがちな4つのチェックポイントとは 口座を使った振り込みや引き落としは、以前は銀行だけができるサービスでした。現在は資金移動業者として登録することで、銀行以外もできるようになりました。これに伴い可",
+        "url": "https://news.yahoo.co.jp/articles/cc467b42f7db9c7a471e2c9ce094ec93f6d71150",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アマゾン・アップル歴任のプロ経営者が語る、国際送金に勝つ“4条件”と“4トレンド”",
         "url": "https://news.yahoo.co.jp/articles/588ed09fcd735287578585f491513756dc8976b8",
         "source": "Yahoo",
@@ -10929,18 +10980,18 @@
       {
         "title": "決済代行業、業績は過去6年で最高 キャッシュレス決済市場の拡大が背景",
         "url": "https://news.yahoo.co.jp/articles/f49c12a0c07c953c3cd88cebea5f3bf031ec1ed7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
-        "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "「給与明細」ちゃんと見てる？ 見落としがちな4つのチェックポイントとは 口座を使った振り込みや引き落としは、以前は銀行だけができるサービスでした。現在は資金移動業者として登録することで、銀行以外もできるようになりました。これに伴い可",
+        "url": "https://news.yahoo.co.jp/articles/cc467b42f7db9c7a471e2c9ce094ec93f6d71150",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アマゾン・アップル歴任のプロ経営者が語る、国際送金に勝つ“4条件”と“4トレンド”",
         "url": "https://news.yahoo.co.jp/articles/588ed09fcd735287578585f491513756dc8976b8",
         "source": "Yahoo",
@@ -10967,12 +11018,6 @@
       {
         "title": "決済代行業、業績は過去6年で最高 キャッシュレス決済市場の拡大が背景",
         "url": "https://news.yahoo.co.jp/articles/f49c12a0c07c953c3cd88cebea5f3bf031ec1ed7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
-        "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
         "source": "Yahoo",
         "date": ""
       }
@@ -11055,6 +11100,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "MUFGとProgmatら、日本国債レポ取引のオンチェーン化に向け実証開始と発表",
+        "url": "https://news.yahoo.co.jp/articles/a679c73efbf53bdfb01d6c431d085927810bda1e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "香港、初認可ステーブルコイン「HKDAP」の提供を開始",
         "url": "https://news.yahoo.co.jp/articles/44aef7d55d6b867a323a59f26600784bd35e6bc9",
         "source": "Yahoo",
@@ -11081,18 +11132,18 @@
       {
         "title": "ETH、米CPI控え上昇失速──BitMine・SharpLinkの買いが下支え【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/0b73a71f6d446994f392e9453e4c4e462fc9bf36",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国SNS「サイワールド」再始動へ",
-        "url": "https://news.yahoo.co.jp/articles/fa12af5afc50dc63ddaf5326034ee48b69ee14d5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "MUFGとProgmatら、日本国債レポ取引のオンチェーン化に向け実証開始と発表",
+        "url": "https://news.yahoo.co.jp/articles/a679c73efbf53bdfb01d6c431d085927810bda1e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "香港、初認可ステーブルコイン「HKDAP」の提供を開始",
         "url": "https://news.yahoo.co.jp/articles/44aef7d55d6b867a323a59f26600784bd35e6bc9",
         "source": "Yahoo",
@@ -11119,12 +11170,6 @@
       {
         "title": "ETH、米CPI控え上昇失速──BitMine・SharpLinkの買いが下支え【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/0b73a71f6d446994f392e9453e4c4e462fc9bf36",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国SNS「サイワールド」再始動へ",
-        "url": "https://news.yahoo.co.jp/articles/fa12af5afc50dc63ddaf5326034ee48b69ee14d5",
         "source": "Yahoo",
         "date": ""
       }
@@ -11655,6 +11700,12 @@
     ],
     "417AC0000000086": [
       {
+        "title": "在留資格厳格化「資本金3000万円」の根拠は――店舗契約、労働力に影響も #日本社会と外国人",
+        "url": "https://news.yahoo.co.jp/articles/c86dfd9102523fca6e313b9f37c5670a02bad37a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "退職金がない会社はどのくらい？正社員・派遣社員・役員で異なる支給ルールと、iDeCoや新NISAを活用した老後資金の作り方",
         "url": "https://news.yahoo.co.jp/articles/d7cc2fd0f6c84d298e26497e8037744ce8b4832d",
         "source": "Yahoo",
@@ -11681,18 +11732,18 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
-        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "在留資格厳格化「資本金3000万円」の根拠は――店舗契約、労働力に影響も #日本社会と外国人",
+        "url": "https://news.yahoo.co.jp/articles/c86dfd9102523fca6e313b9f37c5670a02bad37a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "退職金がない会社はどのくらい？正社員・派遣社員・役員で異なる支給ルールと、iDeCoや新NISAを活用した老後資金の作り方",
         "url": "https://news.yahoo.co.jp/articles/d7cc2fd0f6c84d298e26497e8037744ce8b4832d",
         "source": "Yahoo",
@@ -11719,18 +11770,18 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
-        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "在留資格厳格化「資本金3000万円」の根拠は――店舗契約、労働力に影響も #日本社会と外国人",
+        "url": "https://news.yahoo.co.jp/articles/c86dfd9102523fca6e313b9f37c5670a02bad37a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "退職金がない会社はどのくらい？正社員・派遣社員・役員で異なる支給ルールと、iDeCoや新NISAを活用した老後資金の作り方",
         "url": "https://news.yahoo.co.jp/articles/d7cc2fd0f6c84d298e26497e8037744ce8b4832d",
         "source": "Yahoo",
@@ -11757,18 +11808,18 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
-        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "在留資格厳格化「資本金3000万円」の根拠は――店舗契約、労働力に影響も #日本社会と外国人",
+        "url": "https://news.yahoo.co.jp/articles/c86dfd9102523fca6e313b9f37c5670a02bad37a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "退職金がない会社はどのくらい？正社員・派遣社員・役員で異なる支給ルールと、iDeCoや新NISAを活用した老後資金の作り方",
         "url": "https://news.yahoo.co.jp/articles/d7cc2fd0f6c84d298e26497e8037744ce8b4832d",
         "source": "Yahoo",
@@ -11795,18 +11846,18 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
-        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "在留資格厳格化「資本金3000万円」の根拠は――店舗契約、労働力に影響も #日本社会と外国人",
+        "url": "https://news.yahoo.co.jp/articles/c86dfd9102523fca6e313b9f37c5670a02bad37a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "退職金がない会社はどのくらい？正社員・派遣社員・役員で異なる支給ルールと、iDeCoや新NISAを活用した老後資金の作り方",
         "url": "https://news.yahoo.co.jp/articles/d7cc2fd0f6c84d298e26497e8037744ce8b4832d",
         "source": "Yahoo",
@@ -11833,12 +11884,6 @@
       {
         "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
         "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "再審制度見直し論における違和感―本則の刑事裁判手続における弁護側の証拠収集手段の必要性―",
-        "url": "https://news.yahoo.co.jp/articles/3774c9560b08a401b4e235aef72d536dd7984905",
         "source": "Yahoo",
         "date": ""
       }
