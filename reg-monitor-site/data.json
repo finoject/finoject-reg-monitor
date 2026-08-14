@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-14T08:00:07.333Z",
+  "generatedAt": "2026-08-14T09:39:29.145Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "アドバンスクリエイト（8798）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-08-14",
+      "detectedAt": "2026-08-14T09:39:29.145Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-14T09:39:39.207Z"
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場の承認（スタンダード市場）：（株）ベルテックス",
@@ -600,22 +616,6 @@
         "2026年8月7日公表、2027年9月限から適用。大阪取引所上海天然ゴム先物の取引規則に基づく変更。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "スマサポ（9342）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-08-07",
-      "detectedAt": "2026-08-07T06:51:19.775Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-07T06:51:25.642Z"
     },
     {
       "agency": "日本銀行",
@@ -10932,6 +10932,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "トランプ政権、暗号資産・予測市場幹部との会合を来週主催へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/3f174e44b554fad60443ecf2ac1895a47e0f0a6b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アリゾナ州、暗号資産ATM詐欺で17万ドル超の返金支援──ハワイは全米4州目の禁止へ",
         "url": "https://news.yahoo.co.jp/articles/161b8a1fcbf6db8ad6300ba2f9af854682f3cee2",
         "source": "Yahoo",
@@ -10958,18 +10964,18 @@
       {
         "title": "低い税率で、ロシア資本の「欧州への窓」だったキプロス――EUの制裁下でも残る金融・投資の接点",
         "url": "https://news.yahoo.co.jp/articles/7d111638686d176c83ce9aa15218949365f20d24",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CFTCもクラリティ法案なしでの規制を検討──20日に諮問委が初会合",
-        "url": "https://news.yahoo.co.jp/articles/3376c77861907b012354355eb4ccd5e8c478d8dd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプ政権、暗号資産・予測市場幹部との会合を来週主催へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/3f174e44b554fad60443ecf2ac1895a47e0f0a6b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アリゾナ州、暗号資産ATM詐欺で17万ドル超の返金支援──ハワイは全米4州目の禁止へ",
         "url": "https://news.yahoo.co.jp/articles/161b8a1fcbf6db8ad6300ba2f9af854682f3cee2",
         "source": "Yahoo",
@@ -10996,12 +11002,6 @@
       {
         "title": "低い税率で、ロシア資本の「欧州への窓」だったキプロス――EUの制裁下でも残る金融・投資の接点",
         "url": "https://news.yahoo.co.jp/articles/7d111638686d176c83ce9aa15218949365f20d24",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CFTCもクラリティ法案なしでの規制を検討──20日に諮問委が初会合",
-        "url": "https://news.yahoo.co.jp/articles/3376c77861907b012354355eb4ccd5e8c478d8dd",
         "source": "Yahoo",
         "date": ""
       }
@@ -11950,6 +11950,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "大雨の死者名公表「必要性低い」 千葉県、遺族の同意は確認せず",
+        "url": "https://news.yahoo.co.jp/articles/291e153a7ebe1d5f0a4807021c1b5f4c4339a8ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "患者のX線画像、9病院から流出疑い 医療機器社員が撮影か",
         "url": "https://news.yahoo.co.jp/articles/a548d2421d81d22446cf713bcc0e8ec2b4f19b2b",
         "source": "Yahoo",
@@ -11976,18 +11982,18 @@
       {
         "title": "韓国警察、NewJeansハニのビザ情報漏えい疑惑を捜査",
         "url": "https://news.yahoo.co.jp/articles/97d0dbbff7d9f41350455eb2509efdee9778cf3b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NewJeans ハニのビザ情報流出の疑い",
-        "url": "https://news.yahoo.co.jp/articles/14122761ca7c1ab39a446fddb851d64f035c9b76",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "大雨の死者名公表「必要性低い」 千葉県、遺族の同意は確認せず",
+        "url": "https://news.yahoo.co.jp/articles/291e153a7ebe1d5f0a4807021c1b5f4c4339a8ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "患者のX線画像、9病院から流出疑い 医療機器社員が撮影か",
         "url": "https://news.yahoo.co.jp/articles/a548d2421d81d22446cf713bcc0e8ec2b4f19b2b",
         "source": "Yahoo",
@@ -12014,18 +12020,18 @@
       {
         "title": "韓国警察、NewJeansハニのビザ情報漏えい疑惑を捜査",
         "url": "https://news.yahoo.co.jp/articles/97d0dbbff7d9f41350455eb2509efdee9778cf3b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NewJeans ハニのビザ情報流出の疑い",
-        "url": "https://news.yahoo.co.jp/articles/14122761ca7c1ab39a446fddb851d64f035c9b76",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "大雨の死者名公表「必要性低い」 千葉県、遺族の同意は確認せず",
+        "url": "https://news.yahoo.co.jp/articles/291e153a7ebe1d5f0a4807021c1b5f4c4339a8ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "患者のX線画像、9病院から流出疑い 医療機器社員が撮影か",
         "url": "https://news.yahoo.co.jp/articles/a548d2421d81d22446cf713bcc0e8ec2b4f19b2b",
         "source": "Yahoo",
@@ -12052,12 +12058,6 @@
       {
         "title": "韓国警察、NewJeansハニのビザ情報漏えい疑惑を捜査",
         "url": "https://news.yahoo.co.jp/articles/97d0dbbff7d9f41350455eb2509efdee9778cf3b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NewJeans ハニのビザ情報流出の疑い",
-        "url": "https://news.yahoo.co.jp/articles/14122761ca7c1ab39a446fddb851d64f035c9b76",
         "source": "Yahoo",
         "date": ""
       }
