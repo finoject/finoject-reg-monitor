@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-14T00:41:49.465Z",
+  "generatedAt": "2026-08-14T03:50:22.503Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]自己株券買付状況報告書",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000001u6tl-att/20260814.pdf",
+      "date": "2026-08-14",
+      "detectedAt": "2026-08-14T03:50:22.503Z",
+      "enriched": "2026-08-14T03:50:30.042Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPXは2026年4月28日の取締役会決議に基づき、2026年6月1日～10月26日の取得期間で最大40,000,000株・20,000,000,000円の自己株式を東京証券取引所での市場買付けにより取得することを決定。",
+        "2026年7月1日～31日の報告月間にJPXは1,794,100株を3,841,183,900円で買い付け、累計9,486,700株（進捗率23.7％）を取得。金融商品取引法24条の６第１項に基づき関東財務局長に報告。",
+        "JPXは決算期末日の５営業日前から末日までの期間は自己株式の買付けを停止すること、及び市場買付けの方法を遵守して取得を進める必要がある。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場の承認（スタンダード市場）：（株）オリバー",
@@ -10872,6 +10887,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "低い税率で、ロシア資本の「欧州への窓」だったキプロス――EUの制裁下でも残る金融・投資の接点",
+        "url": "https://news.yahoo.co.jp/articles/7d111638686d176c83ce9aa15218949365f20d24",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CFTCもクラリティ法案なしでの規制を検討──20日に諮問委が初会合",
         "url": "https://news.yahoo.co.jp/articles/3376c77861907b012354355eb4ccd5e8c478d8dd",
         "source": "Yahoo",
@@ -10898,18 +10919,18 @@
       {
         "title": "米国、暗号資産企業の銀行参入を後押し──規制当局が方針表明",
         "url": "https://news.yahoo.co.jp/articles/d6274b80d98fefc4d9e75e29be26ad792147cfad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Goldman Sachs、NEOS買収──ビットコイン・イーサリアムETFを傘下に",
-        "url": "https://news.yahoo.co.jp/articles/8039dd7993228925e2d9f783bd6914edd6ec76fb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "低い税率で、ロシア資本の「欧州への窓」だったキプロス――EUの制裁下でも残る金融・投資の接点",
+        "url": "https://news.yahoo.co.jp/articles/7d111638686d176c83ce9aa15218949365f20d24",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CFTCもクラリティ法案なしでの規制を検討──20日に諮問委が初会合",
         "url": "https://news.yahoo.co.jp/articles/3376c77861907b012354355eb4ccd5e8c478d8dd",
         "source": "Yahoo",
@@ -10936,12 +10957,6 @@
       {
         "title": "米国、暗号資産企業の銀行参入を後押し──規制当局が方針表明",
         "url": "https://news.yahoo.co.jp/articles/d6274b80d98fefc4d9e75e29be26ad792147cfad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Goldman Sachs、NEOS買収──ビットコイン・イーサリアムETFを傘下に",
-        "url": "https://news.yahoo.co.jp/articles/8039dd7993228925e2d9f783bd6914edd6ec76fb",
         "source": "Yahoo",
         "date": ""
       }
@@ -11100,6 +11115,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ステーブルコイン最大手テザー、初監査-KPMGが財務諸表を適正と判断",
+        "url": "https://news.yahoo.co.jp/articles/21bbd7589c9394b76ea1e8d8da657137e0f7b353",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "プライム上場セレス、ステーブルコイン事業参入へ──「業界2社目の電取業者目指す」",
         "url": "https://news.yahoo.co.jp/articles/f7e9d78c50ff56d671540f6c82318a0ce011ee38",
         "source": "Yahoo",
@@ -11126,18 +11147,18 @@
       {
         "title": "ネットスターズ、「StarPay」対応の新決済端末「SUNMI P3H」を9月発売 ステーブルコイン決済にも対応予定",
         "url": "https://news.yahoo.co.jp/articles/ad9b253a674b60f27652bf3523e7ca620beb8712",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本国債レポのオンチェーン化、何が変わる？──約定から担保管理、決済まで自動化へ",
-        "url": "https://news.yahoo.co.jp/articles/7c5f4ba1b1e7969abfbdf0caca9cb08a9a349b7a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ステーブルコイン最大手テザー、初監査-KPMGが財務諸表を適正と判断",
+        "url": "https://news.yahoo.co.jp/articles/21bbd7589c9394b76ea1e8d8da657137e0f7b353",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "プライム上場セレス、ステーブルコイン事業参入へ──「業界2社目の電取業者目指す」",
         "url": "https://news.yahoo.co.jp/articles/f7e9d78c50ff56d671540f6c82318a0ce011ee38",
         "source": "Yahoo",
@@ -11164,12 +11185,6 @@
       {
         "title": "ネットスターズ、「StarPay」対応の新決済端末「SUNMI P3H」を9月発売 ステーブルコイン決済にも対応予定",
         "url": "https://news.yahoo.co.jp/articles/ad9b253a674b60f27652bf3523e7ca620beb8712",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本国債レポのオンチェーン化、何が変わる？──約定から担保管理、決済まで自動化へ",
-        "url": "https://news.yahoo.co.jp/articles/7c5f4ba1b1e7969abfbdf0caca9cb08a9a349b7a",
         "source": "Yahoo",
         "date": ""
       }
