@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T03:30:14.890Z",
+  "generatedAt": "2026-08-16T04:18:32.771Z",
   "items": [
     {
       "agency": "日本取引所グループ",
@@ -11190,6 +11190,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "量子コンピューター実機をJPYCで利用可能に──1ジョブ約10円から",
+        "url": "https://news.yahoo.co.jp/articles/e44c3778d4ba2bf246f6b534ebd80008b1f02344",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Robinhoodは、なぜブロックチェーンまで作るのか 【サンフランシスコ レポート】",
         "url": "https://news.yahoo.co.jp/articles/335f7b0e05435abf73fcd590f83741c7172391cf",
         "source": "Yahoo",
@@ -11216,18 +11222,18 @@
       {
         "title": "好材料でも上がれないビットコイン── 問われる「現物需要」の持続力【BitTrade Market Weekly】",
         "url": "https://news.yahoo.co.jp/articles/edd47a6f00ba4ebcd417977b4c9edb29696f30fa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.8】",
-        "url": "https://news.yahoo.co.jp/articles/14c252a6e6b2a3584aff9d29cad55352dd5d1acf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "量子コンピューター実機をJPYCで利用可能に──1ジョブ約10円から",
+        "url": "https://news.yahoo.co.jp/articles/e44c3778d4ba2bf246f6b534ebd80008b1f02344",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Robinhoodは、なぜブロックチェーンまで作るのか 【サンフランシスコ レポート】",
         "url": "https://news.yahoo.co.jp/articles/335f7b0e05435abf73fcd590f83741c7172391cf",
         "source": "Yahoo",
@@ -11254,12 +11260,6 @@
       {
         "title": "好材料でも上がれないビットコイン── 問われる「現物需要」の持続力【BitTrade Market Weekly】",
         "url": "https://news.yahoo.co.jp/articles/edd47a6f00ba4ebcd417977b4c9edb29696f30fa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.8】",
-        "url": "https://news.yahoo.co.jp/articles/14c252a6e6b2a3584aff9d29cad55352dd5d1acf",
         "source": "Yahoo",
         "date": ""
       }
