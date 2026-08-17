@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T20:59:29.482Z",
+  "generatedAt": "2026-08-17T21:56:18.419Z",
   "items": [
     {
       "agency": "金融庁",
@@ -11343,6 +11343,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "日本に残された時間は短い",
+        "url": "https://news.yahoo.co.jp/articles/24316a98220198ecc11c4a59f54352fa79ceabb4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米財務省、ジーニアス法の規則案公表──ステーブルコイン規制で意見募集",
+        "url": "https://news.yahoo.co.jp/articles/b1b20137fe536965da0cb7ba70cd5432748a929d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【取材】ローソンでステーブルコイン決済実証第2弾、USDC・USDT・JPYCでネットスターズ「Stablecoin Pay」活用",
         "url": "https://news.yahoo.co.jp/articles/7f26b998a6d3533486388e2f9cb45563a409bcbc",
         "source": "Yahoo",
@@ -11363,24 +11375,24 @@
       {
         "title": "ブリッシュ、ソラナ上のトークン化自社株「BLSH」を自社取引所で取引開始",
         "url": "https://news.yahoo.co.jp/articles/002eaf7f5bc0c01f42e824c902dbfae2b9759643",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MUFGグループ4社、日本国債レポ取引のオンチェーン化で実証開始",
-        "url": "https://news.yahoo.co.jp/articles/782ab864833c79d5e15c18d4800d912fdd8f24aa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブラジル中銀、一部の暗号資産送金を最大24時間保留へ",
-        "url": "https://news.yahoo.co.jp/articles/bd793ce52d6ad4d1fb5091808e14bf089500fcfd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "日本に残された時間は短い",
+        "url": "https://news.yahoo.co.jp/articles/24316a98220198ecc11c4a59f54352fa79ceabb4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米財務省、ジーニアス法の規則案公表──ステーブルコイン規制で意見募集",
+        "url": "https://news.yahoo.co.jp/articles/b1b20137fe536965da0cb7ba70cd5432748a929d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【取材】ローソンでステーブルコイン決済実証第2弾、USDC・USDT・JPYCでネットスターズ「Stablecoin Pay」活用",
         "url": "https://news.yahoo.co.jp/articles/7f26b998a6d3533486388e2f9cb45563a409bcbc",
         "source": "Yahoo",
@@ -11401,18 +11413,6 @@
       {
         "title": "ブリッシュ、ソラナ上のトークン化自社株「BLSH」を自社取引所で取引開始",
         "url": "https://news.yahoo.co.jp/articles/002eaf7f5bc0c01f42e824c902dbfae2b9759643",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MUFGグループ4社、日本国債レポ取引のオンチェーン化で実証開始",
-        "url": "https://news.yahoo.co.jp/articles/782ab864833c79d5e15c18d4800d912fdd8f24aa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブラジル中銀、一部の暗号資産送金を最大24時間保留へ",
-        "url": "https://news.yahoo.co.jp/articles/bd793ce52d6ad4d1fb5091808e14bf089500fcfd",
         "source": "Yahoo",
         "date": ""
       }
