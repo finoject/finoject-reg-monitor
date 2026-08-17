@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T11:55:58.103Z",
+  "generatedAt": "2026-08-17T13:24:11.872Z",
   "items": [
     {
       "agency": "金融庁",
@@ -11343,6 +11343,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ローソンでステーブルコイン決済実証第2弾、USDC・USDT・JPYCでネットスターズ「Stablecoin Pay」活用",
+        "url": "https://news.yahoo.co.jp/articles/7f26b998a6d3533486388e2f9cb45563a409bcbc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は",
         "url": "https://news.yahoo.co.jp/articles/a3c9e8fe4127a6f31798de2c58aa13883bbb52cc",
         "source": "Yahoo",
@@ -11369,18 +11375,18 @@
       {
         "title": "ブラジル中銀、一部の暗号資産送金を最大24時間保留へ",
         "url": "https://news.yahoo.co.jp/articles/bd793ce52d6ad4d1fb5091808e14bf089500fcfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、「暗号資産・ステーブルコイン課」を新設。参事官室を前身に設置",
-        "url": "https://news.yahoo.co.jp/articles/ef28bbb672897f5f644b62a6478553c14110a0a9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ローソンでステーブルコイン決済実証第2弾、USDC・USDT・JPYCでネットスターズ「Stablecoin Pay」活用",
+        "url": "https://news.yahoo.co.jp/articles/7f26b998a6d3533486388e2f9cb45563a409bcbc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は",
         "url": "https://news.yahoo.co.jp/articles/a3c9e8fe4127a6f31798de2c58aa13883bbb52cc",
         "source": "Yahoo",
@@ -11407,12 +11413,6 @@
       {
         "title": "ブラジル中銀、一部の暗号資産送金を最大24時間保留へ",
         "url": "https://news.yahoo.co.jp/articles/bd793ce52d6ad4d1fb5091808e14bf089500fcfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、「暗号資産・ステーブルコイン課」を新設。参事官室を前身に設置",
-        "url": "https://news.yahoo.co.jp/articles/ef28bbb672897f5f644b62a6478553c14110a0a9",
         "source": "Yahoo",
         "date": ""
       }
