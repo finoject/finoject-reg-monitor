@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-08-16T23:52:50.945Z",
+  "generatedAt": "2026-08-17T02:07:20.655Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]株式会社ヘッドウォータースの半期報告書の提出状況に関するご注意",
+      "url": "https://www.jpx.co.jp/news/1023/20260814-11.html",
+      "date": "2026-08-17",
+      "detectedAt": "2026-08-17T02:07:20.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社ヘッドウォータース（グロース市場）の2026年12月期半期報告書が金融商品取引法の提出期限である2026年8月14日までに提出されず、8月17日提出予定である。",
+        "同社は報告書内容は確定していたがEDINETシステムへの受付時間内の提出ができなかったため、東証は監理銘柄指定を行わないことを決定した。",
+        "上場企業による半期報告書の提出期限（金融商品取引法）は、当期終了後45日以内であり、同社は法定期限内の提出義務に対し遅延が生じたが監理銘柄指定除外の対象とされた。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-17T02:07:24.734Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "外国株式信用取引の取扱状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign-shinyo/index.html",
+      "date": "2026-08-17",
+      "detectedAt": "2026-08-17T02:07:20.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は外国株式信用取引について、会員から報告を受けた月間委託売買代金と月末残高を統計として毎月公表し、2026年4月分データを2026年6月15日に公開した。",
+        "会員である証券会社は外国株式信用取引の実績（委託売買代金・月末残高）を協会に報告し、協会はこれを集計して統計情報として提供する。",
+        "統計公表は原則として毎月15日（休業日の場合は翌営業日）に実施され、外国株式信用取引制度は2022年7月から開始されており、本統計はその後の継続的な取扱状況を示すもの。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-17T02:07:24.734Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "個人情報等の苦情処理に関する実績報告",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojn_kujyou.html",
+      "date": "2026-08-17",
+      "detectedAt": "2026-08-17T02:07:20.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会の個人情報相談室が扱った個人情報等の苦情処理件数を毎月集計し、協会員における個人情報・仮名加工情報・匿名加工情報の適正な取扱いを確保するための参考資料として公表している。",
+        "協会員は個人情報保護法17条～46条に基づく利用目的の特定、利用制限、安全管理措置、第三者提供の制限等について、苦情申出がある場合は協会に通知され、その内容は月次で統計集計される。",
+        "苦情処理実績は自主規制規則「個人情報の取扱いに関する苦情処理業務規則」第10条第1項に基づき集計され、毎月中旬を目途にホームページで公表される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-17T02:07:24.734Z"
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "イベント 教育イベント「あそび まなび かがく ラボ2026」でのワークショップ開催報告",
+      "url": "https://jicpa.or.jp/news/information/2026/20260817jfa.html",
+      "date": "2026-08-17",
+      "detectedAt": "2026-08-17T02:07:20.655Z",
+      "enriched": "2026-08-17T02:07:24.735Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JICPAは2026年7月19日に東京理科大学葛飾キャンパスで開催された「あそび まなび かがく ラボ2026」に参加し、ハンバーガーショップの店長体験を通じた会計学習ワークショップを実施した。",
+        "公認会計士が講師となり、小中学生向けに身近な題材で会計の仕組みを教える4コマのワークショップ（各回10組）を開催し、親子計139人が参加して参加者の約9割から「楽しかった」との評価を得た。",
+        "この取組は会計リテラシー普及活動の一環であり、JICPAが2026年7月に公表した「会計」をテーマにした小中学生向け夏休み自由研究コンテンツ3点の実体験の場として企画されたもので、今後も同様の活動を継続する予定である。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "協会員の従業員数等を更新しました。（2026年6月分）",
@@ -13,21 +76,6 @@
         "日本証券業協会は2026年6月末時点の協会員の従業員数、登録外務員数、役員数等の統計データをExcel形式で公表し、2026年8月17日に更新した。",
         "協会員は自主規制規則第16条に基づき毎年6月末及び12月末時点の従業員等に関する報告を協会に提出し、本店等の地区協会別に計上される。",
         "統計の対象は金融商品取引法第21条に規定する役員及び外務員資格保有者であり、複数資格保有者は会員一種→信用取引→会員二種の順で上位資格のみ計上する。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]株式会社ヘッドウォータースの半期報告書の提出状況に関するご注意",
-      "url": "https://www.jpx.co.jp/news/1023/20260814-11.html",
-      "date": "2026-08-14",
-      "detectedAt": "2026-08-14T15:26:47.906Z",
-      "enriched": "2026-08-14T15:26:53.653Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "株式会社ヘッドウォータース（グロース市場）の2026年12月期半期報告書が金融商品取引法の提出期限である2026年8月14日までに提出されず、8月17日提出予定である。",
-        "同社は報告書内容は確定していたがEDINETシステムへの受付時間内の提出ができなかったため、東証は監理銘柄指定を行わないことを決定した。",
-        "上場企業による半期報告書の提出期限（金融商品取引法）は、当期終了後45日以内であり、同社は法定期限内の提出義務に対し遅延が生じたが監理銘柄指定除外の対象とされた。"
       ],
       "aiSumV": 3
     },
@@ -3769,22 +3817,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "外国株式信用取引の取扱状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign-shinyo/index.html",
-      "date": "2026-07-15",
-      "detectedAt": "2026-07-16T03:50:54.345Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は外国株式信用取引について、会員から報告を受けた月間委託売買代金と月末残高を統計として毎月公表し、2026年4月分データを2026年6月15日に公開した。",
-        "会員である証券会社は外国株式信用取引の実績（委託売買代金・月末残高）を協会に報告し、協会はこれを集計して統計情報として提供する。",
-        "統計公表は原則として毎月15日（休業日の場合は翌営業日）に実施され、外国株式信用取引制度は2022年7月から開始されており、本統計はその後の継続的な取扱状況を示すもの。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-16T03:50:58.520Z"
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "「株式投資型クラウドファンディングの統計情報・取扱状況」を更新しました。",
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucrowdfunding/index.html",
       "date": "2026-07-15",
@@ -3904,22 +3936,6 @@
       "aiSumV": 3,
       "updated": true,
       "enriched": "2026-07-15T00:57:48.478Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "個人情報等の苦情処理に関する実績報告",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojn_kujyou.html",
-      "date": "2026-07-15",
-      "detectedAt": "2026-07-15T00:57:42.721Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会の個人情報相談室が扱った個人情報等の苦情処理件数を毎月集計し、協会員における個人情報・仮名加工情報・匿名加工情報の適正な取扱いを確保するための参考資料として公表している。",
-        "協会員は個人情報保護法17条～46条に基づく利用目的の特定、利用制限、安全管理措置、第三者提供の制限等について、苦情申出がある場合は協会に通知され、その内容は月次で統計集計される。",
-        "苦情処理実績は自主規制規則「個人情報の取扱いに関する苦情処理業務規則」第10条第1項に基づき集計され、毎月中旬を目途にホームページで公表される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-15T00:57:48.479Z"
     },
     {
       "agency": "日本銀行",
@@ -10749,6 +10765,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」無料参加申し込み受付を開始",
+        "url": "https://news.yahoo.co.jp/articles/55ed0fe0de370a26012292ec7834b0cc4224331b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トークン化株式の保有者数が1カ月で2倍に",
         "url": "https://news.yahoo.co.jp/articles/4473678e085b04bcc7f30ad14c3edd9bd37924da",
         "source": "Yahoo",
@@ -10775,18 +10797,18 @@
       {
         "title": "CFTCもクラリティ法案なしでの規制を検討──20日に諮問委が初会合",
         "url": "https://news.yahoo.co.jp/articles/3376c77861907b012354355eb4ccd5e8c478d8dd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴーン逮捕は「内部通報」から始まった",
-        "url": "https://news.yahoo.co.jp/articles/95830ca4c827f37a7df77ffb509aacccac5ac623",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」無料参加申し込み受付を開始",
+        "url": "https://news.yahoo.co.jp/articles/55ed0fe0de370a26012292ec7834b0cc4224331b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トークン化株式の保有者数が1カ月で2倍に",
         "url": "https://news.yahoo.co.jp/articles/4473678e085b04bcc7f30ad14c3edd9bd37924da",
         "source": "Yahoo",
@@ -10813,18 +10835,18 @@
       {
         "title": "CFTCもクラリティ法案なしでの規制を検討──20日に諮問委が初会合",
         "url": "https://news.yahoo.co.jp/articles/3376c77861907b012354355eb4ccd5e8c478d8dd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴーン逮捕は「内部通報」から始まった",
-        "url": "https://news.yahoo.co.jp/articles/95830ca4c827f37a7df77ffb509aacccac5ac623",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」無料参加申し込み受付を開始",
+        "url": "https://news.yahoo.co.jp/articles/55ed0fe0de370a26012292ec7834b0cc4224331b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トークン化株式の保有者数が1カ月で2倍に",
         "url": "https://news.yahoo.co.jp/articles/4473678e085b04bcc7f30ad14c3edd9bd37924da",
         "source": "Yahoo",
@@ -10851,18 +10873,18 @@
       {
         "title": "CFTCもクラリティ法案なしでの規制を検討──20日に諮問委が初会合",
         "url": "https://news.yahoo.co.jp/articles/3376c77861907b012354355eb4ccd5e8c478d8dd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴーン逮捕は「内部通報」から始まった",
-        "url": "https://news.yahoo.co.jp/articles/95830ca4c827f37a7df77ffb509aacccac5ac623",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」無料参加申し込み受付を開始",
+        "url": "https://news.yahoo.co.jp/articles/55ed0fe0de370a26012292ec7834b0cc4224331b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トークン化株式の保有者数が1カ月で2倍に",
         "url": "https://news.yahoo.co.jp/articles/4473678e085b04bcc7f30ad14c3edd9bd37924da",
         "source": "Yahoo",
@@ -10889,12 +10911,6 @@
       {
         "title": "CFTCもクラリティ法案なしでの規制を検討──20日に諮問委が初会合",
         "url": "https://news.yahoo.co.jp/articles/3376c77861907b012354355eb4ccd5e8c478d8dd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴーン逮捕は「内部通報」から始まった",
-        "url": "https://news.yahoo.co.jp/articles/95830ca4c827f37a7df77ffb509aacccac5ac623",
         "source": "Yahoo",
         "date": ""
       }
@@ -10977,6 +10993,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "スタンダードチャータード・アニモカ・HKTの合弁会社、香港ドルステーブルコイン「HKDAP」の展開開始",
+        "url": "https://news.yahoo.co.jp/articles/8bd227549e31efd3732ea23bcd87ba7d92507688",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米SEC、暗号資産企業の資金調達規制緩和巡る会合を急きょ延期",
+        "url": "https://news.yahoo.co.jp/articles/09c8a86bcfe2f77f92011317cf8cf05e781ac9a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」無料参加申し込み受付を開始",
+        "url": "https://news.yahoo.co.jp/articles/55ed0fe0de370a26012292ec7834b0cc4224331b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Galaxy、米クラリティ法案の成立確率を10％に引き下げ",
         "url": "https://news.yahoo.co.jp/articles/d7d21210aa5f3301947f05a2b82b0154e98f8914",
         "source": "Yahoo",
@@ -10991,30 +11025,30 @@
       {
         "title": "874.5兆円の賭け──「トークン化」は暗号資産のスローガンから米金融の本業へ",
         "url": "https://news.yahoo.co.jp/articles/c2686fcecbcbdf3bc208b6afe52c21cff62e5ec5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガン、BTC・ETH ETFの保有拡大──XRP関連商品への投資も再開",
-        "url": "https://news.yahoo.co.jp/articles/7606bae202bbdd0bc020a666a475e45cc695a028",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ家の暗号資産会社、米国の銀行免許取得を規制当局が承認",
-        "url": "https://news.yahoo.co.jp/articles/da49568f138bcc6a8a5ff60f3f327410a4dcaddf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.8】",
-        "url": "https://news.yahoo.co.jp/articles/14c252a6e6b2a3584aff9d29cad55352dd5d1acf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "スタンダードチャータード・アニモカ・HKTの合弁会社、香港ドルステーブルコイン「HKDAP」の展開開始",
+        "url": "https://news.yahoo.co.jp/articles/8bd227549e31efd3732ea23bcd87ba7d92507688",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米SEC、暗号資産企業の資金調達規制緩和巡る会合を急きょ延期",
+        "url": "https://news.yahoo.co.jp/articles/09c8a86bcfe2f77f92011317cf8cf05e781ac9a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」無料参加申し込み受付を開始",
+        "url": "https://news.yahoo.co.jp/articles/55ed0fe0de370a26012292ec7834b0cc4224331b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Galaxy、米クラリティ法案の成立確率を10％に引き下げ",
         "url": "https://news.yahoo.co.jp/articles/d7d21210aa5f3301947f05a2b82b0154e98f8914",
         "source": "Yahoo",
@@ -11029,24 +11063,6 @@
       {
         "title": "874.5兆円の賭け──「トークン化」は暗号資産のスローガンから米金融の本業へ",
         "url": "https://news.yahoo.co.jp/articles/c2686fcecbcbdf3bc208b6afe52c21cff62e5ec5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガン、BTC・ETH ETFの保有拡大──XRP関連商品への投資も再開",
-        "url": "https://news.yahoo.co.jp/articles/7606bae202bbdd0bc020a666a475e45cc695a028",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ家の暗号資産会社、米国の銀行免許取得を規制当局が承認",
-        "url": "https://news.yahoo.co.jp/articles/da49568f138bcc6a8a5ff60f3f327410a4dcaddf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.8】",
-        "url": "https://news.yahoo.co.jp/articles/14c252a6e6b2a3584aff9d29cad55352dd5d1acf",
         "source": "Yahoo",
         "date": ""
       }
@@ -11205,76 +11221,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "プーチンのせいで不景気なのに",
-        "url": "https://news.yahoo.co.jp/articles/98825974a4d50ee1715860ff2c283cbab25af9f0",
+        "title": "コインベース、英国で米国株取引サービス開始",
+        "url": "https://news.yahoo.co.jp/articles/d85f2b20ec465bf6583a77dcd7f360dbd6e371ef",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「ドコモの銀行」誕生でポイント最大4.5％還元へ、廣井社長が語る1億人基盤を活かした「金融事業再編」の真価",
-        "url": "https://news.yahoo.co.jp/articles/fcabe357926ab40616bf498673012831cc40f874",
+        "title": "スタンダードチャータード・アニモカ・HKTの合弁会社、香港ドルステーブルコイン「HKDAP」の展開開始",
+        "url": "https://news.yahoo.co.jp/articles/8bd227549e31efd3732ea23bcd87ba7d92507688",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ブラックロック参戦、日本のRWAはなぜ「買って償還待ち」？SBI・大和も挑む一手",
-        "url": "https://news.yahoo.co.jp/articles/5c4c7a6f5d0bc0983dc0747034d314a2f2939247",
+        "title": "テザー、初の財務諸表監査。KPMG米国法人が無限定適正意見",
+        "url": "https://news.yahoo.co.jp/articles/b203a8c5ec3434d98151d77d498a594db3120e61",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "量子コンピューター実機をJPYCで利用可能に──1ジョブ約10円から",
-        "url": "https://news.yahoo.co.jp/articles/e44c3778d4ba2bf246f6b534ebd80008b1f02344",
+        "title": "米OCC、トランプ一族WLFI関連会社の信託銀行設立を条件付き予備承認",
+        "url": "https://news.yahoo.co.jp/articles/e4c70ce5e278aa82cd6262cdc98ffed7be879eb2",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Robinhoodは、なぜブロックチェーンまで作るのか 【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/335f7b0e05435abf73fcd590f83741c7172391cf",
+        "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」無料参加申し込み受付を開始",
+        "url": "https://news.yahoo.co.jp/articles/55ed0fe0de370a26012292ec7834b0cc4224331b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "874.5兆円の賭け──「トークン化」は暗号資産のスローガンから米金融の本業へ",
-        "url": "https://news.yahoo.co.jp/articles/c2686fcecbcbdf3bc208b6afe52c21cff62e5ec5",
+        "title": "トランプ氏一族の仮想通貨企業に銀行免許、米規制当局が暫定承認",
+        "url": "https://news.yahoo.co.jp/articles/fbb54b9858325a69665bd0b699aa086af102d9b9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "プーチンのせいで不景気なのに",
-        "url": "https://news.yahoo.co.jp/articles/98825974a4d50ee1715860ff2c283cbab25af9f0",
+        "title": "コインベース、英国で米国株取引サービス開始",
+        "url": "https://news.yahoo.co.jp/articles/d85f2b20ec465bf6583a77dcd7f360dbd6e371ef",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「ドコモの銀行」誕生でポイント最大4.5％還元へ、廣井社長が語る1億人基盤を活かした「金融事業再編」の真価",
-        "url": "https://news.yahoo.co.jp/articles/fcabe357926ab40616bf498673012831cc40f874",
+        "title": "スタンダードチャータード・アニモカ・HKTの合弁会社、香港ドルステーブルコイン「HKDAP」の展開開始",
+        "url": "https://news.yahoo.co.jp/articles/8bd227549e31efd3732ea23bcd87ba7d92507688",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ブラックロック参戦、日本のRWAはなぜ「買って償還待ち」？SBI・大和も挑む一手",
-        "url": "https://news.yahoo.co.jp/articles/5c4c7a6f5d0bc0983dc0747034d314a2f2939247",
+        "title": "テザー、初の財務諸表監査。KPMG米国法人が無限定適正意見",
+        "url": "https://news.yahoo.co.jp/articles/b203a8c5ec3434d98151d77d498a594db3120e61",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "量子コンピューター実機をJPYCで利用可能に──1ジョブ約10円から",
-        "url": "https://news.yahoo.co.jp/articles/e44c3778d4ba2bf246f6b534ebd80008b1f02344",
+        "title": "米OCC、トランプ一族WLFI関連会社の信託銀行設立を条件付き予備承認",
+        "url": "https://news.yahoo.co.jp/articles/e4c70ce5e278aa82cd6262cdc98ffed7be879eb2",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Robinhoodは、なぜブロックチェーンまで作るのか 【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/335f7b0e05435abf73fcd590f83741c7172391cf",
+        "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」無料参加申し込み受付を開始",
+        "url": "https://news.yahoo.co.jp/articles/55ed0fe0de370a26012292ec7834b0cc4224331b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "874.5兆円の賭け──「トークン化」は暗号資産のスローガンから米金融の本業へ",
-        "url": "https://news.yahoo.co.jp/articles/c2686fcecbcbdf3bc208b6afe52c21cff62e5ec5",
+        "title": "トランプ氏一族の仮想通貨企業に銀行免許、米規制当局が暫定承認",
+        "url": "https://news.yahoo.co.jp/articles/fbb54b9858325a69665bd0b699aa086af102d9b9",
         "source": "Yahoo",
         "date": ""
       }
