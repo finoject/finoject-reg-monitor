@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-08-18T05:59:04.438Z",
+  "generatedAt": "2026-08-18T07:23:14.234Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（スタンダード市場）：akippa（株）",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-08-18",
+      "detectedAt": "2026-08-18T07:23:14.234Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-18T07:23:18.551Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "PSJ予測統計値",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
+      "date": "2026-08-18",
+      "detectedAt": "2026-08-18T07:23:14.234Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
+        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
+        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-18T07:23:18.551Z"
+    },
     {
       "agency": "日本証券業協会",
       "title": "STOCK VOICE「東京マーケットワイド」8月17日放送分を掲載しました",
@@ -155,22 +187,6 @@
         "日本銀行は2％の物価安定の目標実現に向け、経済・物価・金融情勢に応じて政策金利の引き上げと金融緩和度合いの調整を継続する方針（2026年7月31日決定）。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（グロース市場）：（株）Skyfall",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-08-17",
-      "detectedAt": "2026-08-17T07:37:08.984Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-17T07:37:14.635Z"
     },
     {
       "agency": "日本証券業協会",
@@ -1326,22 +1342,6 @@
         "2026年7月末時点の統計報告。日本銀行の公開情報として定期的に更新される担保残高統計。金融政策の実施状況を示す重要指標として機能。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "PSJ予測統計値",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
-      "date": "2026-08-04",
-      "detectedAt": "2026-08-04T07:20:31.367Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
-        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
-        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-04T07:20:36.786Z"
     },
     {
       "agency": "日本銀行",
@@ -11131,6 +11131,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "Binanceのコンプライアンス体制に再び焦点──ロシア撤退後も顧客データ提供か",
+        "url": "https://news.yahoo.co.jp/articles/ca3bda4140b564818d81ee68cf477af11cdbc9a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、ロシア当局に顧客情報提供 ウクライナへの寄付巡り",
+        "url": "https://news.yahoo.co.jp/articles/cef89a112beaa0d6ac65ceaf8cb7c118c14559b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Binance、ロシア当局に顧客データ提供か──人権団体が批判＝ロイター",
         "url": "https://news.yahoo.co.jp/articles/a9aa625269a909d6db08875012c14e962a11d099",
         "source": "Yahoo",
@@ -11151,24 +11163,24 @@
       {
         "title": "BitMart内紛か、創業者に「返済計画示せ」",
         "url": "https://news.yahoo.co.jp/articles/e2a8290c0bcdaa42ec29d9882a494f8fdf6082c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、GENIUS法に基づくステーブルコイン規則案で意見募集",
-        "url": "https://news.yahoo.co.jp/articles/4cf57115631b2dcfe7adcbfc949d5ae47c2fae7d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、ロシア当局に顧客情報提供。ウクライナ軍への寄付巡る訴追の証拠に",
-        "url": "https://news.yahoo.co.jp/articles/f0efaf899d6815b11e052873a764d5821e2df1f6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Binanceのコンプライアンス体制に再び焦点──ロシア撤退後も顧客データ提供か",
+        "url": "https://news.yahoo.co.jp/articles/ca3bda4140b564818d81ee68cf477af11cdbc9a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、ロシア当局に顧客情報提供 ウクライナへの寄付巡り",
+        "url": "https://news.yahoo.co.jp/articles/cef89a112beaa0d6ac65ceaf8cb7c118c14559b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Binance、ロシア当局に顧客データ提供か──人権団体が批判＝ロイター",
         "url": "https://news.yahoo.co.jp/articles/a9aa625269a909d6db08875012c14e962a11d099",
         "source": "Yahoo",
@@ -11189,18 +11201,6 @@
       {
         "title": "BitMart内紛か、創業者に「返済計画示せ」",
         "url": "https://news.yahoo.co.jp/articles/e2a8290c0bcdaa42ec29d9882a494f8fdf6082c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、GENIUS法に基づくステーブルコイン規則案で意見募集",
-        "url": "https://news.yahoo.co.jp/articles/4cf57115631b2dcfe7adcbfc949d5ae47c2fae7d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、ロシア当局に顧客情報提供。ウクライナ軍への寄付巡る訴追の証拠に",
-        "url": "https://news.yahoo.co.jp/articles/f0efaf899d6815b11e052873a764d5821e2df1f6",
         "source": "Yahoo",
         "date": ""
       }
@@ -11625,6 +11625,12 @@
     ],
     "358AC1000000032": [
       {
+        "title": "東京都が「ＬＩＮＥクレジット」に業務改善命令",
+        "url": "https://news.yahoo.co.jp/articles/3e8695de54f6d56f892daa9bec717cc3e4efa923",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "多重債務ってなに？ 抜け出す方法を弁護士が解説",
         "url": "https://news.yahoo.co.jp/articles/4c6643b9c86253e256465c77395727ac18b075c2",
         "source": "Yahoo",
@@ -11651,18 +11657,18 @@
       {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「もうあかん、このまま家族で",
-        "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
+        "title": "東京都が「ＬＩＮＥクレジット」に業務改善命令",
+        "url": "https://news.yahoo.co.jp/articles/3e8695de54f6d56f892daa9bec717cc3e4efa923",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "多重債務ってなに？ 抜け出す方法を弁護士が解説",
         "url": "https://news.yahoo.co.jp/articles/4c6643b9c86253e256465c77395727ac18b075c2",
         "source": "Yahoo",
@@ -11689,18 +11695,18 @@
       {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「もうあかん、このまま家族で",
-        "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
+        "title": "東京都が「ＬＩＮＥクレジット」に業務改善命令",
+        "url": "https://news.yahoo.co.jp/articles/3e8695de54f6d56f892daa9bec717cc3e4efa923",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "多重債務ってなに？ 抜け出す方法を弁護士が解説",
         "url": "https://news.yahoo.co.jp/articles/4c6643b9c86253e256465c77395727ac18b075c2",
         "source": "Yahoo",
@@ -11727,12 +11733,6 @@
       {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「もうあかん、このまま家族で",
-        "url": "https://news.yahoo.co.jp/articles/ac63cceb315538b32215e50cd6f61f5307d53860",
         "source": "Yahoo",
         "date": ""
       }
