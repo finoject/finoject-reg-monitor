@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-18T22:56:36.439Z",
+  "generatedAt": "2026-08-18T23:55:29.764Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）ボードルア",
+      "url": "https://www.jpx.co.jp/news/1023/20260819-11.html",
+      "date": "2026-08-18",
+      "detectedAt": "2026-08-18T23:55:29.764Z",
+      "enriched": "2026-08-18T23:55:35.428Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社ボードルア（コード4413、プライム市場）が監理銘柄（確認中）に指定されたのは、公開買付者による買付成立後に株式等売渡請求または株式併合による上場廃止の可能性があるため。",
+        "投資家は同社株式について上場廃止のおそれがあることを認識し、2026年8月19日から当取引所が上場廃止基準該当を認定するまで、当該銘柄の取引継続性に関する情報を注視すること。",
+        "有価証券上場規程施行規則第604条第1項第23号及び第24号に基づき、特別支配株主による売渡請求発表または全株主対象の株式併合決議があった場合に該当し監理銘柄指定となる。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "サポート（217A）",
@@ -11131,6 +11146,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "Kraken、欧州で米国上場株式の取引を提供開始",
+        "url": "https://news.yahoo.co.jp/articles/d365e096202bb75d6a692e85e4bafda62bd9a312",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ＳＥＣが暗号資産の新たな規制枠組み提案、業界待望の独自ルール整備へ前進",
         "url": "https://news.yahoo.co.jp/articles/fb9e232fc27e43fa295e9293ce4b65c071d0ca8f",
         "source": "Yahoo",
@@ -11157,18 +11178,18 @@
       {
         "title": "Binanceのコンプライアンス体制に再び焦点──ロシア撤退後も顧客データ提供か",
         "url": "https://news.yahoo.co.jp/articles/ca3bda4140b564818d81ee68cf477af11cdbc9a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、ロシア当局に顧客情報提供 ウクライナへの寄付巡り",
-        "url": "https://news.yahoo.co.jp/articles/cef89a112beaa0d6ac65ceaf8cb7c118c14559b9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Kraken、欧州で米国上場株式の取引を提供開始",
+        "url": "https://news.yahoo.co.jp/articles/d365e096202bb75d6a692e85e4bafda62bd9a312",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ＳＥＣが暗号資産の新たな規制枠組み提案、業界待望の独自ルール整備へ前進",
         "url": "https://news.yahoo.co.jp/articles/fb9e232fc27e43fa295e9293ce4b65c071d0ca8f",
         "source": "Yahoo",
@@ -11195,12 +11216,6 @@
       {
         "title": "Binanceのコンプライアンス体制に再び焦点──ロシア撤退後も顧客データ提供か",
         "url": "https://news.yahoo.co.jp/articles/ca3bda4140b564818d81ee68cf477af11cdbc9a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、ロシア当局に顧客情報提供 ウクライナへの寄付巡り",
-        "url": "https://news.yahoo.co.jp/articles/cef89a112beaa0d6ac65ceaf8cb7c118c14559b9",
         "source": "Yahoo",
         "date": ""
       }
