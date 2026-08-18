@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-18T08:05:58.715Z",
+  "generatedAt": "2026-08-18T09:06:49.772Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "サポート（217A）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-08-18",
+      "detectedAt": "2026-08-18T09:06:49.772Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-18T09:06:54.794Z"
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場の承認（スタンダード市場）：akippa（株）",
@@ -140,22 +156,6 @@
         "財務局から金融庁への行政報告に関する規定を見直し、「監督局長に報告」等の部署名称を組織再編後の体制に対応させた改正が行われた。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "シンバイオ製薬（4582）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-08-17",
-      "detectedAt": "2026-08-17T08:24:26.744Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-17T08:24:32.702Z"
     },
     {
       "agency": "日本銀行",
@@ -11359,6 +11359,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "世界のEC売上の約25％がAIエージェントによって直接処理される――。エージェンティックコマース最適化を実現する統合プラットフォーム「DG Agentic One」とは",
+        "url": "https://news.yahoo.co.jp/articles/1ccd6b216cfed8e2414cf8560eda0a162073e833",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米財務省、GENIUS法に基づくステーブルコイン規則案で意見募集",
         "url": "https://news.yahoo.co.jp/articles/4cf57115631b2dcfe7adcbfc949d5ae47c2fae7d",
         "source": "Yahoo",
@@ -11385,18 +11391,18 @@
       {
         "title": "【取材】ローソンでステーブルコイン決済実証第2弾、USDC・USDT・JPYCでネットスターズ「Stablecoin Pay」活用",
         "url": "https://news.yahoo.co.jp/articles/7f26b998a6d3533486388e2f9cb45563a409bcbc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は",
-        "url": "https://news.yahoo.co.jp/articles/a3c9e8fe4127a6f31798de2c58aa13883bbb52cc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "世界のEC売上の約25％がAIエージェントによって直接処理される――。エージェンティックコマース最適化を実現する統合プラットフォーム「DG Agentic One」とは",
+        "url": "https://news.yahoo.co.jp/articles/1ccd6b216cfed8e2414cf8560eda0a162073e833",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米財務省、GENIUS法に基づくステーブルコイン規則案で意見募集",
         "url": "https://news.yahoo.co.jp/articles/4cf57115631b2dcfe7adcbfc949d5ae47c2fae7d",
         "source": "Yahoo",
@@ -11423,12 +11429,6 @@
       {
         "title": "【取材】ローソンでステーブルコイン決済実証第2弾、USDC・USDT・JPYCでネットスターズ「Stablecoin Pay」活用",
         "url": "https://news.yahoo.co.jp/articles/7f26b998a6d3533486388e2f9cb45563a409bcbc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は",
-        "url": "https://news.yahoo.co.jp/articles/a3c9e8fe4127a6f31798de2c58aa13883bbb52cc",
         "source": "Yahoo",
         "date": ""
       }
