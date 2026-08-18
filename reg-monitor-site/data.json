@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-08-18T03:25:30.357Z",
+  "generatedAt": "2026-08-18T04:18:54.935Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "STOCK VOICE「東京マーケットワイド」8月17日放送分を掲載しました",
+      "url": "https://www.jsda.or.jp/start/gaiyou/movie/index.html",
+      "date": "2026-08-18",
+      "detectedAt": "2026-08-18T04:18:54.935Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が「STOCK VOICE『東京マーケットワイド』」6月8日放送分を公表し、新NISA開始後の利用動向に関する調査内容を動画で紹介している。",
+        "投資初心者向けの広報活動として、YouTubeにて放映動画を視聴可能にしており、金融機関・証券会社の担当者は新NISAの利用実態把握のため参考資料として活用できる。",
+        "本公表は協会の広報活動に該当し、特定の法令改正や規制要件の変更ではなく、新NISA制度に関する情報提供資料の掲載である。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-18T04:19:00.838Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：山八商事（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20260818_01.html",
+      "date": "2026-08-18",
+      "detectedAt": "2026-08-18T04:18:54.935Z",
+      "enriched": "2026-08-18T04:19:00.838Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "山八商事（株）（コード614A）は8月19日に東証に新規上場予定。初値決定前は板中心値段1,468円を基準に気配運用（上限3,380円・更新幅74円10分、下限1,101円・通常幅3分）を実施。",
+        "取引参加者は初値決定まで成行呼値を禁止され、注文受付価格を367円以上5,880円以下の範囲に限定して発注する必要がある。",
+        "東証は8月19日の新規上場日に限定した特別な気配運用ルール（制限値幅を初値決定まで適用しない等）を新規上場企業に適用。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "「主要行等向けの総合的な監督指針」等の一部改正について公表しました。",
@@ -8416,21 +8447,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本証券業協会",
-      "title": "STOCK VOICE「東京マーケットワイド」6月8日放送分を掲載しました",
-      "url": "https://www.jsda.or.jp/start/gaiyou/movie/index.html",
-      "date": "2026-06-09",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:02:00.275Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が「STOCK VOICE『東京マーケットワイド』」6月8日放送分を公表し、新NISA開始後の利用動向に関する調査内容を動画で紹介している。",
-        "投資初心者向けの広報活動として、YouTubeにて放映動画を視聴可能にしており、金融機関・証券会社の担当者は新NISAの利用実態把握のため参考資料として活用できる。",
-        "本公表は協会の広報活動に該当し、特定の法令改正や規制要件の変更ではなく、新NISA制度に関する情報提供資料の掲載である。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "金融庁",
       "title": "（株）出前館との契約締結交渉者の従業員から伝達を受けた海外居住者による内部者取引審判事件の第１回審判手続期日開催",
       "url": "https://www.fsa.go.jp/news/r7/shouken/20260608.html",
@@ -11115,6 +11131,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "アルパカ子会社、CFTCに先物取引業者登録。予測市場へのアクセス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/ec632e5d05c446f6380a70220ff5c69210f85657",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BitMart内紛か、創業者に「返済計画示せ」",
+        "url": "https://news.yahoo.co.jp/articles/e2a8290c0bcdaa42ec29d9882a494f8fdf6082c6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米財務省、GENIUS法に基づくステーブルコイン規則案で意見募集",
         "url": "https://news.yahoo.co.jp/articles/4cf57115631b2dcfe7adcbfc949d5ae47c2fae7d",
         "source": "Yahoo",
@@ -11135,24 +11163,24 @@
       {
         "title": "米財務省、初のステーブルコインの規則案を公表",
         "url": "https://news.yahoo.co.jp/articles/b398823cce29ef7e25f6b8e14cbb0770d855c1f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オーストリア当局、BitpandaにMiCA違反で7万ユーロの罰金",
-        "url": "https://news.yahoo.co.jp/articles/5181804cae1df88104990eb36a7807324e915178",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案の交渉難航、SECの暗号資産規制にも影響か＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/359a34a9362ecd72916b7c84877d3a436e88ac50",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "アルパカ子会社、CFTCに先物取引業者登録。予測市場へのアクセス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/ec632e5d05c446f6380a70220ff5c69210f85657",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BitMart内紛か、創業者に「返済計画示せ」",
+        "url": "https://news.yahoo.co.jp/articles/e2a8290c0bcdaa42ec29d9882a494f8fdf6082c6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米財務省、GENIUS法に基づくステーブルコイン規則案で意見募集",
         "url": "https://news.yahoo.co.jp/articles/4cf57115631b2dcfe7adcbfc949d5ae47c2fae7d",
         "source": "Yahoo",
@@ -11173,18 +11201,6 @@
       {
         "title": "米財務省、初のステーブルコインの規則案を公表",
         "url": "https://news.yahoo.co.jp/articles/b398823cce29ef7e25f6b8e14cbb0770d855c1f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オーストリア当局、BitpandaにMiCA違反で7万ユーロの罰金",
-        "url": "https://news.yahoo.co.jp/articles/5181804cae1df88104990eb36a7807324e915178",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案の交渉難航、SECの暗号資産規制にも影響か＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/359a34a9362ecd72916b7c84877d3a436e88ac50",
         "source": "Yahoo",
         "date": ""
       }
