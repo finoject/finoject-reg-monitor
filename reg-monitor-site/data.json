@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-18T23:55:29.764Z",
+  "generatedAt": "2026-08-19T02:07:41.144Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]国債先物における受渡適格銘柄及び交換比率一覧表の更新",
+      "url": "https://www.jpx.co.jp/derivatives/products/jgb/jgb-futures/02.html",
+      "date": "2026-08-19",
+      "detectedAt": "2026-08-19T02:07:41.144Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "国債先物（長期国債先物（現金決済型ミニ）を除く）の受渡適格銘柄及び交換比率（コンバージョン・ファクター）を2026年7月3日付で更新した。物価連動国債及びクライメート・トランジション利付国債は受渡適格銘柄に含まれない。",
+        "国債先物の取引参加者及び関連機関は、更新された受渡適格銘柄一覧表及び交換比率を取引・決済業務に適用し、受渡決済時に対応銘柄を確認・使用する必要がある。",
+        "本更新は2026年7月3日付で有効。受渡適格銘柄が未定の限月については対象銘柄発行時に資料を更新する。交換比率の計算式は2015年7月6日以降のデータに基づく。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-19T02:07:46.932Z"
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]監理銘柄（確認中）の指定：（株）ボードルア",
@@ -4088,22 +4104,6 @@
         "掲載記事は2026年発行の冊子に日本全国の小中学校に寄贈されるほか、ウェブサイト「おしごとはくぶつかん」からも閲覧可能である。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[OSE]国債先物における受渡適格銘柄及び交換比率一覧表の更新",
-      "url": "https://www.jpx.co.jp/derivatives/products/jgb/jgb-futures/02.html",
-      "date": "2026-07-15",
-      "detectedAt": "2026-07-15T00:57:42.721Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "国債先物（長期国債先物（現金決済型ミニ）を除く）の受渡適格銘柄及び交換比率（コンバージョン・ファクター）を2026年7月3日付で更新した。物価連動国債及びクライメート・トランジション利付国債は受渡適格銘柄に含まれない。",
-        "国債先物の取引参加者及び関連機関は、更新された受渡適格銘柄一覧表及び交換比率を取引・決済業務に適用し、受渡決済時に対応銘柄を確認・使用する必要がある。",
-        "本更新は2026年7月3日付で有効。受渡適格銘柄が未定の限月については対象銘柄発行時に資料を更新する。交換比率の計算式は2015年7月6日以降のデータに基づく。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-15T00:57:48.478Z"
     },
     {
       "agency": "日本銀行",
@@ -11374,6 +11374,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ハイパーリキッド・ポリシー・センターとtrade[XYZ]、SECへプレIPO無期限先物の制度整備を提言",
+        "url": "https://news.yahoo.co.jp/articles/ccebeb15ef66bd6d845259e9968e83d5fb440ad2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米SEC、新たな暗号資産規則案を提示",
         "url": "https://news.yahoo.co.jp/articles/2f8e4fc19a71c61d75fe47328fd463162cb016e5",
         "source": "Yahoo",
@@ -11400,18 +11406,18 @@
       {
         "title": "JPYC、資金移動業登録から丸1年──総流通量28億円の歩み",
         "url": "https://news.yahoo.co.jp/articles/54629512ed03349aeec6c2659ac1ff17c3950eb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界のEC売上の約25％がAIエージェントによって直接処理される――。エージェンティックコマース最適化を実現する統合プラットフォーム「DG Agentic One」とは",
-        "url": "https://news.yahoo.co.jp/articles/1ccd6b216cfed8e2414cf8560eda0a162073e833",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ハイパーリキッド・ポリシー・センターとtrade[XYZ]、SECへプレIPO無期限先物の制度整備を提言",
+        "url": "https://news.yahoo.co.jp/articles/ccebeb15ef66bd6d845259e9968e83d5fb440ad2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米SEC、新たな暗号資産規則案を提示",
         "url": "https://news.yahoo.co.jp/articles/2f8e4fc19a71c61d75fe47328fd463162cb016e5",
         "source": "Yahoo",
@@ -11438,12 +11444,6 @@
       {
         "title": "JPYC、資金移動業登録から丸1年──総流通量28億円の歩み",
         "url": "https://news.yahoo.co.jp/articles/54629512ed03349aeec6c2659ac1ff17c3950eb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界のEC売上の約25％がAIエージェントによって直接処理される――。エージェンティックコマース最適化を実現する統合プラットフォーム「DG Agentic One」とは",
-        "url": "https://news.yahoo.co.jp/articles/1ccd6b216cfed8e2414cf8560eda0a162073e833",
         "source": "Yahoo",
         "date": ""
       }
@@ -12164,6 +12164,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "【独自第6弾】陸自思想調査は「事業化された任務の範囲」 陸幕が公益通報者に文書で回答",
+        "url": "https://news.yahoo.co.jp/articles/d977032e0e3b09117ef8cb22889c06c790e2fafd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "東京書籍のアカウント管理システム「total ID」が内田洋行のL-Gateと連携",
         "url": "https://news.yahoo.co.jp/articles/bf2eb5a65154c056908dddac08656ececf6f6bb0",
         "source": "Yahoo",
@@ -12190,18 +12196,18 @@
       {
         "title": "韓国・配達員が「要注意マンション」地図を共有",
         "url": "https://news.yahoo.co.jp/articles/037c937654acff91448fc85199521bd6ee8ff975",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "災害犠牲者の氏名、強まる「非公表」の流れ 統一基準なく自治体が判断 遺族同意難しく",
-        "url": "https://news.yahoo.co.jp/articles/9a31b5ab93e208d77517cc6db3c2b68a65da869c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "【独自第6弾】陸自思想調査は「事業化された任務の範囲」 陸幕が公益通報者に文書で回答",
+        "url": "https://news.yahoo.co.jp/articles/d977032e0e3b09117ef8cb22889c06c790e2fafd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "東京書籍のアカウント管理システム「total ID」が内田洋行のL-Gateと連携",
         "url": "https://news.yahoo.co.jp/articles/bf2eb5a65154c056908dddac08656ececf6f6bb0",
         "source": "Yahoo",
@@ -12228,18 +12234,18 @@
       {
         "title": "韓国・配達員が「要注意マンション」地図を共有",
         "url": "https://news.yahoo.co.jp/articles/037c937654acff91448fc85199521bd6ee8ff975",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "災害犠牲者の氏名、強まる「非公表」の流れ 統一基準なく自治体が判断 遺族同意難しく",
-        "url": "https://news.yahoo.co.jp/articles/9a31b5ab93e208d77517cc6db3c2b68a65da869c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "【独自第6弾】陸自思想調査は「事業化された任務の範囲」 陸幕が公益通報者に文書で回答",
+        "url": "https://news.yahoo.co.jp/articles/d977032e0e3b09117ef8cb22889c06c790e2fafd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "東京書籍のアカウント管理システム「total ID」が内田洋行のL-Gateと連携",
         "url": "https://news.yahoo.co.jp/articles/bf2eb5a65154c056908dddac08656ececf6f6bb0",
         "source": "Yahoo",
@@ -12266,12 +12272,6 @@
       {
         "title": "韓国・配達員が「要注意マンション」地図を共有",
         "url": "https://news.yahoo.co.jp/articles/037c937654acff91448fc85199521bd6ee8ff975",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "災害犠牲者の氏名、強まる「非公表」の流れ 統一基準なく自治体が判断 遺族同意難しく",
-        "url": "https://news.yahoo.co.jp/articles/9a31b5ab93e208d77517cc6db3c2b68a65da869c",
         "source": "Yahoo",
         "date": ""
       }
