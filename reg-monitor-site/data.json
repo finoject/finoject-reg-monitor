@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T02:05:12.283Z",
+  "generatedAt": "2026-08-20T03:27:19.976Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -11161,6 +11161,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
+        "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "一般社団法人ブロックチェーン推進協会、会費決済に「JPYC」を導入──業界団体初の採用",
         "url": "https://news.yahoo.co.jp/articles/8ee08fb57d0d9b773832ac82d3f2250940c5e46b",
         "source": "Yahoo",
@@ -11187,18 +11193,18 @@
       {
         "title": "「規制を守る者ほど不利」に危機感──金商法移行を前にビットコイナーが激論",
         "url": "https://news.yahoo.co.jp/articles/e77098c83f952327f3568e1155fc1f7332960101",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
-        "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
+        "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "一般社団法人ブロックチェーン推進協会、会費決済に「JPYC」を導入──業界団体初の採用",
         "url": "https://news.yahoo.co.jp/articles/8ee08fb57d0d9b773832ac82d3f2250940c5e46b",
         "source": "Yahoo",
@@ -11227,15 +11233,21 @@
         "url": "https://news.yahoo.co.jp/articles/e77098c83f952327f3568e1155fc1f7332960101",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "【入門解説】ビットコインの法律が変わる、税金も変わる",
-        "url": "https://news.yahoo.co.jp/articles/4ad18623d2072770e2a66ace3b8f7bf8a28e1b1d",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "トランプ大統領、ハイパーリキッドの米国展開に言及。「法令順守の形で米国導入に取り組む」",
+        "url": "https://news.yahoo.co.jp/articles/b3275ce9049e6243f58a690f3611627bb08814b0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国で冷めないレバレッジブーム",
+        "url": "https://news.yahoo.co.jp/articles/39aa3d565095cb8c9dc15e2b7759f55cab238bbc",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "トランプ氏、暗号資産法案の早期可決を議会に要請-業界幹部らと会合",
         "url": "https://news.yahoo.co.jp/articles/8def20649d1211e14bc49bff235a4c2e8fbf3f98",
@@ -11257,24 +11269,24 @@
       {
         "title": "ビットコイン、7万ドルに迫る──米財務省の国債買い戻し倍増を受けて",
         "url": "https://news.yahoo.co.jp/articles/5cc8a6ea59b2f7981130168c85ecdd87ed205ad1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏「次の一歩を」クラリティ法案成立へ議会に行動促す＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/b29acbccca65acbd22356ad944ddc8a426c3c493",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Solana Policy Institute CEO、クラリティ法案の中間選挙前成立「10％」と予測＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/a68924ec2094f4ba6d0f5d0592f3345200157650",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプ大統領、ハイパーリキッドの米国展開に言及。「法令順守の形で米国導入に取り組む」",
+        "url": "https://news.yahoo.co.jp/articles/b3275ce9049e6243f58a690f3611627bb08814b0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国で冷めないレバレッジブーム",
+        "url": "https://news.yahoo.co.jp/articles/39aa3d565095cb8c9dc15e2b7759f55cab238bbc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ氏、暗号資産法案の早期可決を議会に要請-業界幹部らと会合",
         "url": "https://news.yahoo.co.jp/articles/8def20649d1211e14bc49bff235a4c2e8fbf3f98",
         "source": "Yahoo",
@@ -11297,21 +11309,15 @@
         "url": "https://news.yahoo.co.jp/articles/5cc8a6ea59b2f7981130168c85ecdd87ed205ad1",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "トランプ氏「次の一歩を」クラリティ法案成立へ議会に行動促す＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/b29acbccca65acbd22356ad944ddc8a426c3c493",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Solana Policy Institute CEO、クラリティ法案の中間選挙前成立「10％」と予測＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/a68924ec2094f4ba6d0f5d0592f3345200157650",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
+        "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "アパホテル宿泊者向け、JPYC決済の観光実証開始",
         "url": "https://news.yahoo.co.jp/articles/38b043abe636a67e050ca5c390c62183f5cabd34",
@@ -11339,18 +11345,18 @@
       {
         "title": "米上院共和党、クラリティ法案の最新草案を公表──倫理規定は2029年に失効",
         "url": "https://news.yahoo.co.jp/articles/e29654c9ea2d074d32ea5a27465ef0570f7577bb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
-        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
+        "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アパホテル宿泊者向け、JPYC決済の観光実証開始",
         "url": "https://news.yahoo.co.jp/articles/38b043abe636a67e050ca5c390c62183f5cabd34",
         "source": "Yahoo",
@@ -11377,12 +11383,6 @@
       {
         "title": "米上院共和党、クラリティ法案の最新草案を公表──倫理規定は2029年に失効",
         "url": "https://news.yahoo.co.jp/articles/e29654c9ea2d074d32ea5a27465ef0570f7577bb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【正式発表】物流大手AZ-COM丸和HD、JPYCに約10億円出資へ。円ステーブルコインで物流決済基盤構築",
-        "url": "https://news.yahoo.co.jp/articles/d47f8a6c171f49f5170361f7863e6e47e66766ce",
         "source": "Yahoo",
         "date": ""
       }
@@ -11465,6 +11465,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "トランプ大統領、ハイパーリキッドの米国展開に言及。「法令順守の形で米国導入に取り組む」",
+        "url": "https://news.yahoo.co.jp/articles/b3275ce9049e6243f58a690f3611627bb08814b0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
+        "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIとトークン化で、ブロックチェーン上の取引が100倍になる可能性＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/1b02b40d81c77a3431b48a55e697714f83493f64",
         "source": "Yahoo",
@@ -11485,24 +11497,24 @@
       {
         "title": "【速報】国内初、スラッシュの「Slash Vision Labs（SVL）」がコイントレードに上場",
         "url": "https://news.yahoo.co.jp/articles/636b4a12ff316812e541ab69cbe8e9baf156e403",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ユニスワップ、サークル開発L1「Arc」でv4展開へ。9/16のメインネット公開時から",
-        "url": "https://news.yahoo.co.jp/articles/ab566dbddceb2d8ad0b66f6ac27115bed93cfaa5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国地銀の全北銀行、リップルの企業向け越境決済ソリューション「Ripple Payments」導入へ",
-        "url": "https://news.yahoo.co.jp/articles/e23d23866d6fa5a48a665b7d67a71ce94df54eae",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "トランプ大統領、ハイパーリキッドの米国展開に言及。「法令順守の形で米国導入に取り組む」",
+        "url": "https://news.yahoo.co.jp/articles/b3275ce9049e6243f58a690f3611627bb08814b0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
+        "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIとトークン化で、ブロックチェーン上の取引が100倍になる可能性＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/1b02b40d81c77a3431b48a55e697714f83493f64",
         "source": "Yahoo",
@@ -11523,18 +11535,6 @@
       {
         "title": "【速報】国内初、スラッシュの「Slash Vision Labs（SVL）」がコイントレードに上場",
         "url": "https://news.yahoo.co.jp/articles/636b4a12ff316812e541ab69cbe8e9baf156e403",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ユニスワップ、サークル開発L1「Arc」でv4展開へ。9/16のメインネット公開時から",
-        "url": "https://news.yahoo.co.jp/articles/ab566dbddceb2d8ad0b66f6ac27115bed93cfaa5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国地銀の全北銀行、リップルの企業向け越境決済ソリューション「Ripple Payments」導入へ",
-        "url": "https://news.yahoo.co.jp/articles/e23d23866d6fa5a48a665b7d67a71ce94df54eae",
         "source": "Yahoo",
         "date": ""
       }
