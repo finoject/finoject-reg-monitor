@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-20T08:16:52.698Z",
+  "generatedAt": "2026-08-20T09:09:52.964Z",
   "items": [
+    {
+      "agency": "JVCEA",
+      "title": "新規取扱銘柄のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260820-001/",
+      "date": "2026-08-20",
+      "detectedAt": "2026-08-20T09:09:52.964Z",
+      "enriched": "2026-08-20T09:09:58.598Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA会員がSlash Vision Lab Token（SVL）の取り扱いを新たに開始し、2026年8月19日から取扱開始となった。",
+        "会員は同銘柄の暗号資産概要説明書を確認し、顧客への説明体制を整備する必要がある。",
+        "当該銘柄の取扱開始日は2026年8月19日であり、詳細は暗号資産概要説明書に記載されている。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "ブランディングテクノロジー（7067）",
@@ -11483,6 +11498,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "Ripple Prime、米プライムブローカレッジ事業で2億7500万ドルの資金調達を完了──XRPは24時間で3本の移動平均線を上抜け【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/c8c5a6cb1f1dfc03bb6dc62e90f8c52c415ec48e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サークルのラップドビットコイン「cirBTC」、Circle Mint全顧客が利用可能に",
         "url": "https://news.yahoo.co.jp/articles/580ed6a7a7f03a4bf39f14a8a0bbb523603adce6",
         "source": "Yahoo",
@@ -11509,18 +11530,18 @@
       {
         "title": "AIとトークン化で、ブロックチェーン上の取引が100倍になる可能性＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/1b02b40d81c77a3431b48a55e697714f83493f64",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BlackRock、欧州でトークン化MMFの提供を開始──対象となる資産は約50兆円",
-        "url": "https://news.yahoo.co.jp/articles/d13b308b26cecbe6cb19edd70f4c0f23ec2e679b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Ripple Prime、米プライムブローカレッジ事業で2億7500万ドルの資金調達を完了──XRPは24時間で3本の移動平均線を上抜け【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/c8c5a6cb1f1dfc03bb6dc62e90f8c52c415ec48e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サークルのラップドビットコイン「cirBTC」、Circle Mint全顧客が利用可能に",
         "url": "https://news.yahoo.co.jp/articles/580ed6a7a7f03a4bf39f14a8a0bbb523603adce6",
         "source": "Yahoo",
@@ -11547,12 +11568,6 @@
       {
         "title": "AIとトークン化で、ブロックチェーン上の取引が100倍になる可能性＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/1b02b40d81c77a3431b48a55e697714f83493f64",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BlackRock、欧州でトークン化MMFの提供を開始──対象となる資産は約50兆円",
-        "url": "https://news.yahoo.co.jp/articles/d13b308b26cecbe6cb19edd70f4c0f23ec2e679b",
         "source": "Yahoo",
         "date": ""
       }
