@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-20T04:19:09.618Z",
+  "generatedAt": "2026-08-20T05:07:41.275Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "全国証券会社主要勘定及び顧客口座数等",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kanjyo/index.html",
+      "date": "2026-08-20",
+      "detectedAt": "2026-08-20T05:07:41.275Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が会員の主要勘定及び顧客口座数等を2025年度分として2026年5月25日に公表した。データはExcel形式（21KB）で提供されている。",
+        "証券会社は協会への報告義務として毎月の主要勘定データを6月・9月・12月・3月の四半期単位で提出する必要がある。2012年度から公表頻度が毎月から四半期毎に変更されている。",
+        "本統計は1977年度まで遡るデータが保有されており、協会ウェブサイトで過去分を含めて継続的に公表される。解説資料は2022年2月7日版が最新となっている。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-20T05:07:45.734Z"
+    },
     {
       "agency": "日本証券業協会",
       "title": "公社債投資家別条件付売買(現先)月末残高 （旧公社債投資家別現先売買月末残高）",
@@ -9598,21 +9614,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "全国証券会社主要勘定及び顧客口座数等",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kanjyo/index.html",
-      "date": "2026-05-25",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:02:57.716Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が会員の主要勘定及び顧客口座数等を2025年度分として2026年5月25日に公表した。データはExcel形式（21KB）で提供されている。",
-        "証券会社は協会への報告義務として毎月の主要勘定データを6月・9月・12月・3月の四半期単位で提出する必要がある。2012年度から公表頻度が毎月から四半期毎に変更されている。",
-        "本統計は1977年度まで遡るデータが保有されており、協会ウェブサイトで過去分を含めて継続的に公表される。解説資料は2022年2月7日版が最新となっている。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "証券業報 2026年5月",
       "url": "https://www.jsda.or.jp/about/gaiyou/gyouhou/2026/2605gyouhou.html",
       "date": "2026-05-25",
@@ -11237,6 +11238,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "トランプ大統領がHyperliquidの米国導入を表明──HYPE20%高騰",
+        "url": "https://news.yahoo.co.jp/articles/020dcee1005ecbf86595dd3b5976f8af005b85ef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ大統領、暗号資産規制明確化へ「CLARITY法案」成立求める",
         "url": "https://news.yahoo.co.jp/articles/e357b39654c67783a52deac2b91815a40b6cb045",
         "source": "Yahoo",
@@ -11263,18 +11270,18 @@
       {
         "title": "米中首脳会談でAIを協議へ トランプ大統領が意向 世界でのリード「維持したい」",
         "url": "https://news.yahoo.co.jp/articles/0fd1b0d99f7d90d496d0926c51d63803c262b220",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏、暗号資産法案可決を議会に要請 業界幹部と会合",
-        "url": "https://news.yahoo.co.jp/articles/e7d32415fd5961f129e13d4d5517b2fcbc163574",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプ大統領がHyperliquidの米国導入を表明──HYPE20%高騰",
+        "url": "https://news.yahoo.co.jp/articles/020dcee1005ecbf86595dd3b5976f8af005b85ef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ大統領、暗号資産規制明確化へ「CLARITY法案」成立求める",
         "url": "https://news.yahoo.co.jp/articles/e357b39654c67783a52deac2b91815a40b6cb045",
         "source": "Yahoo",
@@ -11301,12 +11308,6 @@
       {
         "title": "米中首脳会談でAIを協議へ トランプ大統領が意向 世界でのリード「維持したい」",
         "url": "https://news.yahoo.co.jp/articles/0fd1b0d99f7d90d496d0926c51d63803c262b220",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏、暗号資産法案可決を議会に要請 業界幹部と会合",
-        "url": "https://news.yahoo.co.jp/articles/e7d32415fd5961f129e13d4d5517b2fcbc163574",
         "source": "Yahoo",
         "date": ""
       }
