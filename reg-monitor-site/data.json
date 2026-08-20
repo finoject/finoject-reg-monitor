@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-08-20T06:00:31.283Z",
+  "generatedAt": "2026-08-20T07:25:48.370Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "ブランディングテクノロジー（7067）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-08-20",
+      "detectedAt": "2026-08-20T07:25:48.370Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-20T07:25:54.108Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-08-20",
+      "detectedAt": "2026-08-20T07:25:48.370Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-20T07:25:54.108Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：グローバルＸ 日経225 ETF他1銘柄（Global X Japan）",
+      "url": "https://www.jpx.co.jp/news/1070/20260820.html",
+      "date": "2026-08-20",
+      "detectedAt": "2026-08-20T07:25:48.370Z",
+      "enriched": "2026-08-20T07:25:54.109Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所はGlobal X Japan株式会社が運用する「グローバルＸ 日経225 ETF」（コード632A）と「グローバルＸ 韓国半導体・トップ10 ETF」（コード633A）の新規上場を2026年9月9日付で承認した。",
+        "証券会社は両ETFを通常の株式と同様に全国で取扱い、特定口座での取扱いを実施すること。信託報酬は日経225 ETFが0.04%以内（税込0.044%以内）で段階料率が適用される。",
+        "上場日は2026年9月9日（水）、第1計算期間は同年9月7日から2027年4月10日、分配金支払基準日は毎年4月10日と10月10日。売買単位は1口、売却時より成行売呼値・成行買呼値が可能。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "投資部門別売買状況における個人の状況",
@@ -188,22 +235,6 @@
       "aiSumV": 3,
       "updated": true,
       "enriched": "2026-08-20T02:05:17.314Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ヘルスケア＆メディカル投資法人（3455）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-08-19",
-      "detectedAt": "2026-08-19T07:24:08.475Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-19T07:24:14.515Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -683,22 +714,6 @@
         "JPXは決算期末日の５営業日前から末日までの期間は自己株式の買付けを停止すること、及び市場買付けの方法を遵守して取得を進める必要がある。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-08-13",
-      "detectedAt": "2026-08-13T08:03:37.353Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-13T08:03:41.619Z"
     },
     {
       "agency": "日本銀行",
@@ -11240,6 +11255,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "トランプ氏、ハイパーリキッドの米国利用に道-分散型金融取り込みへ",
+        "url": "https://news.yahoo.co.jp/articles/ebc56d58e20299ae27e8160b2e87dcc060c75458",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ大統領がHyperliquidの米国導入を表明──HYPE20%高騰",
         "url": "https://news.yahoo.co.jp/articles/020dcee1005ecbf86595dd3b5976f8af005b85ef",
         "source": "Yahoo",
@@ -11266,18 +11287,18 @@
       {
         "title": "トランプ氏、暗号資産法案の早期可決を議会に要請-業界幹部らと会合",
         "url": "https://news.yahoo.co.jp/articles/8def20649d1211e14bc49bff235a4c2e8fbf3f98",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中首脳会談でAIを協議へ トランプ大統領が意向 世界でのリード「維持したい」",
-        "url": "https://news.yahoo.co.jp/articles/0fd1b0d99f7d90d496d0926c51d63803c262b220",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプ氏、ハイパーリキッドの米国利用に道-分散型金融取り込みへ",
+        "url": "https://news.yahoo.co.jp/articles/ebc56d58e20299ae27e8160b2e87dcc060c75458",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ大統領がHyperliquidの米国導入を表明──HYPE20%高騰",
         "url": "https://news.yahoo.co.jp/articles/020dcee1005ecbf86595dd3b5976f8af005b85ef",
         "source": "Yahoo",
@@ -11304,12 +11325,6 @@
       {
         "title": "トランプ氏、暗号資産法案の早期可決を議会に要請-業界幹部らと会合",
         "url": "https://news.yahoo.co.jp/articles/8def20649d1211e14bc49bff235a4c2e8fbf3f98",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中首脳会談でAIを協議へ トランプ大統領が意向 世界でのリード「維持したい」",
-        "url": "https://news.yahoo.co.jp/articles/0fd1b0d99f7d90d496d0926c51d63803c262b220",
         "source": "Yahoo",
         "date": ""
       }
@@ -11468,6 +11483,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "サークルのラップドビットコイン「cirBTC」、Circle Mint全顧客が利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/580ed6a7a7f03a4bf39f14a8a0bbb523603adce6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CoinTrade、SVL（Slash Vision Labs）の取り扱いを開始",
         "url": "https://news.yahoo.co.jp/articles/3abe4ead09d75f1bff43e67b7543c42758941247",
         "source": "Yahoo",
@@ -11494,18 +11515,18 @@
       {
         "title": "BlackRock、欧州でトークン化MMFの提供を開始──対象となる資産は約50兆円",
         "url": "https://news.yahoo.co.jp/articles/d13b308b26cecbe6cb19edd70f4c0f23ec2e679b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Solana Policy Institute CEO、クラリティ法案の中間選挙前成立「10％」と予測＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/a68924ec2094f4ba6d0f5d0592f3345200157650",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "サークルのラップドビットコイン「cirBTC」、Circle Mint全顧客が利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/580ed6a7a7f03a4bf39f14a8a0bbb523603adce6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "CoinTrade、SVL（Slash Vision Labs）の取り扱いを開始",
         "url": "https://news.yahoo.co.jp/articles/3abe4ead09d75f1bff43e67b7543c42758941247",
         "source": "Yahoo",
@@ -11532,12 +11553,6 @@
       {
         "title": "BlackRock、欧州でトークン化MMFの提供を開始──対象となる資産は約50兆円",
         "url": "https://news.yahoo.co.jp/articles/d13b308b26cecbe6cb19edd70f4c0f23ec2e679b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Solana Policy Institute CEO、クラリティ法案の中間選挙前成立「10％」と予測＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/a68924ec2094f4ba6d0f5d0592f3345200157650",
         "source": "Yahoo",
         "date": ""
       }
@@ -12258,6 +12273,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「災害用井戸」の位置情報、熊本地震で初めて開示",
+        "url": "https://news.yahoo.co.jp/articles/7bc3b7915383cb707f02560f996f4aaf5dd95acf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "0:54個人情報保護委員会、KDDIに行政指導 利用者の個人情報1200万人超分漏えいで 10月19日までの報告求める",
         "url": "https://news.yahoo.co.jp/articles/30f205e20f547a86fd851373f12aa7313edca8d1",
         "source": "Yahoo",
@@ -12284,18 +12305,18 @@
       {
         "title": "拒否権ゼロ！病歴からSNSまで同意不要で企業へ",
         "url": "https://news.yahoo.co.jp/articles/6f7c81b79c3fb98c0632d7d228de9aebe03cf00b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "大雨の死者名公表「必要性低い」 千葉県、遺族の同意は確認せず",
-        "url": "https://news.yahoo.co.jp/articles/291e153a7ebe1d5f0a4807021c1b5f4c4339a8ac",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「災害用井戸」の位置情報、熊本地震で初めて開示",
+        "url": "https://news.yahoo.co.jp/articles/7bc3b7915383cb707f02560f996f4aaf5dd95acf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "0:54個人情報保護委員会、KDDIに行政指導 利用者の個人情報1200万人超分漏えいで 10月19日までの報告求める",
         "url": "https://news.yahoo.co.jp/articles/30f205e20f547a86fd851373f12aa7313edca8d1",
         "source": "Yahoo",
@@ -12322,18 +12343,18 @@
       {
         "title": "拒否権ゼロ！病歴からSNSまで同意不要で企業へ",
         "url": "https://news.yahoo.co.jp/articles/6f7c81b79c3fb98c0632d7d228de9aebe03cf00b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "大雨の死者名公表「必要性低い」 千葉県、遺族の同意は確認せず",
-        "url": "https://news.yahoo.co.jp/articles/291e153a7ebe1d5f0a4807021c1b5f4c4339a8ac",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「災害用井戸」の位置情報、熊本地震で初めて開示",
+        "url": "https://news.yahoo.co.jp/articles/7bc3b7915383cb707f02560f996f4aaf5dd95acf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "0:54個人情報保護委員会、KDDIに行政指導 利用者の個人情報1200万人超分漏えいで 10月19日までの報告求める",
         "url": "https://news.yahoo.co.jp/articles/30f205e20f547a86fd851373f12aa7313edca8d1",
         "source": "Yahoo",
@@ -12360,12 +12381,6 @@
       {
         "title": "拒否権ゼロ！病歴からSNSまで同意不要で企業へ",
         "url": "https://news.yahoo.co.jp/articles/6f7c81b79c3fb98c0632d7d228de9aebe03cf00b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "大雨の死者名公表「必要性低い」 千葉県、遺族の同意は確認せず",
-        "url": "https://news.yahoo.co.jp/articles/291e153a7ebe1d5f0a4807021c1b5f4c4339a8ac",
         "source": "Yahoo",
         "date": ""
       }
