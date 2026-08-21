@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-08-21T06:02:15.768Z",
+  "generatedAt": "2026-08-21T07:26:40.329Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "実質輸出入の動向",
+      "url": "https://www.boj.or.jp/research/research_data/reri/index.htm",
+      "date": "2026-08-21",
+      "detectedAt": "2026-08-21T07:26:40.329Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行調査統計局は実質輸出入データを2026年4月分計数以降、財務省「貿易統計（速報）」公表の翌営業日16:00に定期公表する。地域別・財別の実質輸出も併せて作成し、多面的な分析を可能にする。",
+        "データ利用者は、統計改定・基準変更・年間補正により事後改定されること、経済分析の必要に応じて作成方法が変更される可能性があることに注意し、最新の見直しお知らせ（2026年5月20日等）を確認すべき。",
+        "2026年2Q時点で実質輸出計は前月比4.0％増（4～5月）、自動車関連・資本財・その他財がプラス寄与する一方、情報関連は減速傾向にある。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-21T07:26:45.839Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]「IPO経営人材育成プログラムHIROSHIMA（第3期）〜中国地域から新たな上場企業を〜」の開講について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1071/20260821-01.html",
+      "date": "2026-08-21",
+      "detectedAt": "2026-08-21T07:26:40.329Z",
+      "enriched": "2026-08-21T07:26:45.839Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "中国経済産業局・広島銀行・東証が共催するIPO経営人材育成プログラムHIROSHIMA第3期を2026年11月～2027年2月に毎月1回開催し、中国地域でIPO検討企業の経営層向けに上場に必要な知識を提供する。",
+        "IPO経営戦略として検討・関心を有し、全4回に経営層（CEOまたはCFO）が出席可能な企業が対象で、定員5～10社程度（応募多数時は抽選）、参加費無料、2026年10月30日までに申込が必要。",
+        "講義は上場体験談・新規上場概要・ガバナンス体制・内部管理制度・資金調達と事業計画等をカバーし、広島市中区のHiromolabにて会場開催（オンライン形式なし）される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "令和8年7月17日から18日にかけての大雨に伴う災害等に対する金融上の措置について（栃木県）",
@@ -3557,22 +3588,6 @@
         "改正監督指針は2026年8月3日から適用。対象は中小・地域金融機関、主要行、系統金融機関、漁協系統信用事業。パブリックコメント結果を踏まえ最終化。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "実質輸出入の動向",
-      "url": "https://www.boj.or.jp/research/research_data/reri/index.htm",
-      "date": "2026-07-23",
-      "detectedAt": "2026-07-23T07:59:39.838Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行調査統計局は実質輸出入データを2026年4月分計数以降、財務省「貿易統計（速報）」公表の翌営業日16:00に定期公表する。地域別・財別の実質輸出も併せて作成し、多面的な分析を可能にする。",
-        "データ利用者は、統計改定・基準変更・年間補正により事後改定されること、経済分析の必要に応じて作成方法が変更される可能性があることに注意し、最新の見直しお知らせ（2026年5月20日等）を確認すべき。",
-        "2026年2Q時点で実質輸出計は前月比4.0％増（4～5月）、自動車関連・資本財・その他財がプラス寄与する一方、情報関連は減速傾向にある。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-23T07:59:45.527Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -11339,6 +11354,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米商品先物取引委、暗号資産の市場構造ルール導入へ-法案不成立でも",
+        "url": "https://news.yahoo.co.jp/articles/fe5d1f3b685f9a79ed59a532cbd307ff9f13d116",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットゴー・コリア、韓国FIUがVASP届出を受理",
         "url": "https://news.yahoo.co.jp/articles/f5cc62074c990b7572757e0b4973ede53e7be1b9",
         "source": "Yahoo",
@@ -11365,18 +11386,18 @@
       {
         "title": "CFTC委員長、クラリティ法案停滞なら独自の暗号資産市場規則を策定へ",
         "url": "https://news.yahoo.co.jp/articles/452cb07289c4d5e0319757c7658a46bf4352bd58",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SECが暗号資産規制を大転換へ──「Regulation Crypto Assets」が米国のトークン市場を変える理由【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/ea63413ee43e45bd55e76d363d55ebf42a7d6736",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米商品先物取引委、暗号資産の市場構造ルール導入へ-法案不成立でも",
+        "url": "https://news.yahoo.co.jp/articles/fe5d1f3b685f9a79ed59a532cbd307ff9f13d116",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットゴー・コリア、韓国FIUがVASP届出を受理",
         "url": "https://news.yahoo.co.jp/articles/f5cc62074c990b7572757e0b4973ede53e7be1b9",
         "source": "Yahoo",
@@ -11403,12 +11424,6 @@
       {
         "title": "CFTC委員長、クラリティ法案停滞なら独自の暗号資産市場規則を策定へ",
         "url": "https://news.yahoo.co.jp/articles/452cb07289c4d5e0319757c7658a46bf4352bd58",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SECが暗号資産規制を大転換へ──「Regulation Crypto Assets」が米国のトークン市場を変える理由【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/ea63413ee43e45bd55e76d363d55ebf42a7d6736",
         "source": "Yahoo",
         "date": ""
       }
@@ -11567,6 +11582,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "オンド・ファイナンス、複数のトークン化株式を1トークンに。新ポートフォリオ商品を準備＝報道",
+        "url": "https://news.yahoo.co.jp/articles/7031ec250e53a4221e875a4d7300709d92b50444",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マスク氏率いるX、クリエイター報酬へのステーブルコイン導入を検討＝CoinDesk",
         "url": "https://news.yahoo.co.jp/articles/0670b3f017632cf3666bb335048fa0f6bc9a28f9",
         "source": "Yahoo",
@@ -11593,18 +11614,18 @@
       {
         "title": "サークルのラップドビットコイン「cirBTC」、Circle Mint全顧客が利用可能に",
         "url": "https://news.yahoo.co.jp/articles/580ed6a7a7f03a4bf39f14a8a0bbb523603adce6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CoinTrade、SVL（Slash Vision Labs）の取り扱いを開始",
-        "url": "https://news.yahoo.co.jp/articles/3abe4ead09d75f1bff43e67b7543c42758941247",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "オンド・ファイナンス、複数のトークン化株式を1トークンに。新ポートフォリオ商品を準備＝報道",
+        "url": "https://news.yahoo.co.jp/articles/7031ec250e53a4221e875a4d7300709d92b50444",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マスク氏率いるX、クリエイター報酬へのステーブルコイン導入を検討＝CoinDesk",
         "url": "https://news.yahoo.co.jp/articles/0670b3f017632cf3666bb335048fa0f6bc9a28f9",
         "source": "Yahoo",
@@ -11631,12 +11652,6 @@
       {
         "title": "サークルのラップドビットコイン「cirBTC」、Circle Mint全顧客が利用可能に",
         "url": "https://news.yahoo.co.jp/articles/580ed6a7a7f03a4bf39f14a8a0bbb523603adce6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CoinTrade、SVL（Slash Vision Labs）の取り扱いを開始",
-        "url": "https://news.yahoo.co.jp/articles/3abe4ead09d75f1bff43e67b7543c42758941247",
         "source": "Yahoo",
         "date": ""
       }
