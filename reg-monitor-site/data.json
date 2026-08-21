@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-08-21T03:33:09.323Z",
+  "generatedAt": "2026-08-21T04:20:53.382Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
+      "date": "2026-08-21",
+      "detectedAt": "2026-08-21T04:20:53.382Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "PTS Information Networkの終了に伴い、金融商品取引所上場銘柄のPTSにおける売買状況等の統計を日本証券業協会ホームページで公表する体制に移行した（2025年7月1日終了）。",
+        "一般投資家および市場関係者は、協会ホームページから月次（毎月21日原則公表）および年次の現金信用別売買状況、売買株数・売買代金データを参照可能になった。",
+        "PTS運営業務を行う会員および取引所外取引を行う会員からの報告に基づき、売買株数・売買代金を集計し、取引所取引との比較分析が可能な統計情報として継続提供される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-21T04:20:59.660Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）数理技研",
+      "url": "https://www.jpx.co.jp/news/1031/20260821_01.html",
+      "date": "2026-08-21",
+      "detectedAt": "2026-08-21T04:20:53.382Z",
+      "enriched": "2026-08-21T04:20:59.660Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)数理技研(コード616A)は8月24日に東証に上場予定であり、新規上場日の初値決定前は板中心値段568円から開始し、上限1,307円(更新値幅29円・10分間隔)、下限426円(通常更新値幅・3分間隔)で気配運用される。",
+        "取引参加者は新規上場日の注文受付を142円以上2,272円以下の価格範囲で行い、成行売呼値および成行買呼値を禁止する必要があり、初値決定日までこの規制が継続される。",
+        "初値決定後は当該初値を基準値段として通常の制限値幅が適用され、注文受付価格の範囲も初値ベースの制限値幅に変更される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本公認会計士協会",
       "title": "募集 第55回日本公認会計士協会学術賞募集について",
@@ -3669,22 +3700,6 @@
         "適用開始日を含む具体的な改訂内容は金融庁及び東京証券取引所の公表資料で確認すること。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
-      "date": "2026-07-21",
-      "detectedAt": "2026-07-21T04:51:26.819Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "PTS Information Networkの終了に伴い、金融商品取引所上場銘柄のPTSにおける売買状況等の統計を日本証券業協会ホームページで公表する体制に移行した（2025年7月1日終了）。",
-        "一般投資家および市場関係者は、協会ホームページから月次（毎月21日原則公表）および年次の現金信用別売買状況、売買株数・売買代金データを参照可能になった。",
-        "PTS運営業務を行う会員および取引所外取引を行う会員からの報告に基づき、売買株数・売買代金を集計し、取引所取引との比較分析が可能な統計情報として継続提供される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-21T04:51:35.633Z"
     },
     {
       "agency": "日本銀行",
@@ -11285,6 +11300,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "ビットゴー・コリア、韓国FIUがVASP届出を受理",
+        "url": "https://news.yahoo.co.jp/articles/f5cc62074c990b7572757e0b4973ede53e7be1b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン「年内8万ドル到達」の予測確率、予測市場で一夜で倍増へ",
+        "url": "https://news.yahoo.co.jp/articles/ac6413e42d591b51c1add00eef0f4fbb8fd8ed38",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米CFTCセリグ委員長、暗号資産・AI計算資源・予測市場の規制ロードマップ示す",
         "url": "https://news.yahoo.co.jp/articles/54169cd873ca8b01a561200e40878cbe79e2fcbc",
         "source": "Yahoo",
@@ -11305,24 +11332,24 @@
       {
         "title": "SECが暗号資産規制を大転換へ──「Regulation Crypto Assets」が米国のトークン市場を変える理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/ea63413ee43e45bd55e76d363d55ebf42a7d6736",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏、ハイパーリキッドの米国利用に道-分散型金融取り込みへ",
-        "url": "https://news.yahoo.co.jp/articles/ebc56d58e20299ae27e8160b2e87dcc060c75458",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領がHyperliquidの米国導入を表明──HYPE20%高騰",
-        "url": "https://news.yahoo.co.jp/articles/020dcee1005ecbf86595dd3b5976f8af005b85ef",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ビットゴー・コリア、韓国FIUがVASP届出を受理",
+        "url": "https://news.yahoo.co.jp/articles/f5cc62074c990b7572757e0b4973ede53e7be1b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン「年内8万ドル到達」の予測確率、予測市場で一夜で倍増へ",
+        "url": "https://news.yahoo.co.jp/articles/ac6413e42d591b51c1add00eef0f4fbb8fd8ed38",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米CFTCセリグ委員長、暗号資産・AI計算資源・予測市場の規制ロードマップ示す",
         "url": "https://news.yahoo.co.jp/articles/54169cd873ca8b01a561200e40878cbe79e2fcbc",
         "source": "Yahoo",
@@ -11343,18 +11370,6 @@
       {
         "title": "SECが暗号資産規制を大転換へ──「Regulation Crypto Assets」が米国のトークン市場を変える理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/ea63413ee43e45bd55e76d363d55ebf42a7d6736",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏、ハイパーリキッドの米国利用に道-分散型金融取り込みへ",
-        "url": "https://news.yahoo.co.jp/articles/ebc56d58e20299ae27e8160b2e87dcc060c75458",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領がHyperliquidの米国導入を表明──HYPE20%高騰",
-        "url": "https://news.yahoo.co.jp/articles/020dcee1005ecbf86595dd3b5976f8af005b85ef",
         "source": "Yahoo",
         "date": ""
       }
