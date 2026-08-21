@@ -1,6 +1,119 @@
 {
-  "generatedAt": "2026-08-21T09:17:55.005Z",
+  "generatedAt": "2026-08-21T10:04:32.895Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "令和８年７月17日から18日にかけての大雨に伴う災害等に対する金融上の措置について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260821.html",
+      "date": "2026-08-21",
+      "detectedAt": "2026-08-21T10:04:32.895Z",
+      "enriched": "2026-08-21T10:04:38.404Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は令和8年7月17日から18日の大雨災害に対する金融上の措置について、関東財務局が8月21日に栃木県向けの要請を公表した。",
+        "金融機関は関東財務局のウェブサイト掲載の措置内容を確認し、被災者支援に関連する預金・融資等の取扱いについて対応すべき。",
+        "措置の具体内容は関東財務局URL（https://lfb.mof.go.jp/kantou/kinyuu/pagekthp0002608121.html）に掲載され、本公表は8月21日付の災害対応通達。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260821/20260821.html",
+      "date": "2026-08-21",
+      "detectedAt": "2026-08-21T10:04:32.895Z",
+      "lawrefs": [
+        {
+          "id": "420M60000F5A001",
+          "art": "第5条",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律施行規則 第5条"
+        },
+        {
+          "id": "420M60000F5A001",
+          "art": "第15条",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律施行規則 第15条"
+        },
+        {
+          "id": "420CO0000000020",
+          "art": "第12条",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律施行令 第12条"
+        },
+        {
+          "id": "340CO0000000321",
+          "art": "第15条の1",
+          "kind": "パブコメ",
+          "label": "金融商品取引法施行令 第15条の1"
+        },
+        {
+          "id": "340CO0000000321",
+          "art": "第15条の16",
+          "kind": "パブコメ",
+          "label": "金融商品取引法施行令 第15条の16"
+        },
+        {
+          "id": "412AC0000000101",
+          "art": "第2条",
+          "kind": "パブコメ",
+          "label": "金融サービスの提供及び利用環境の整備等に関する法律 第2条"
+        },
+        {
+          "id": "323AC0000000025",
+          "art": "第31条の4",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第31条の4"
+        },
+        {
+          "id": "323AC0000000025",
+          "art": "第29条の4",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第29条の4"
+        },
+        {
+          "id": "323AC0000000025",
+          "art": "第40条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第40条"
+        },
+        {
+          "id": "419AC0000000022",
+          "art": "第11条",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律 第11条"
+        },
+        {
+          "id": "419AC0000000022",
+          "art": "第4条",
+          "kind": "パブコメ",
+          "label": "犯罪による収益の移転防止に関する法律 第4条"
+        }
+      ],
+      "enriched": "2026-08-21T10:04:38.925Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "事務ガイドライン（第三分冊：金融会社関係）７ 不動産特定共同事業関係及び不動産特定共同事業法の電子取引業務ガイドラインが改正され、利害関係人の定義に金融商品取引法施行令第15条の16第4項に規定する他の会社等の関連会社等が明確に追加された。",
+        "不動産特定共同事業者は改正ガイドラインに従い、許認可申請時に利害関係人の範囲を拡大して捉え、金融商品取引法施行令第15条の16に基づく関連会社等との関係を適切に申告・報告する必要がある。",
+        "改正は令和8年8月21日に金融庁より公表され、国土交通省の監督留意事項改正に伴うもので、行政手続法第39条に基づき軽微な変更として扱われパブリックコメント手続を経ていない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]第1回「グロース市場の発展に向けた検討会」の開催について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260821-01.html",
+      "date": "2026-08-21",
+      "detectedAt": "2026-08-21T10:04:32.895Z",
+      "enriched": "2026-08-21T10:04:38.925Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所が2026年8月21日にグロース市場の発展に向けた検討会を第1回として開催し、当日資料を公表した。",
+        "グロース市場に関係する上場企業・事業者は、当該検討会資料を参照してグロース市場の今後の方向性を確認する必要がある。",
+        "詳細な検討会資料は東証の専用ページで公開されており、問合せは上場部企画グループが対応する。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "実質輸出入の動向",
@@ -11354,6 +11467,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "「企業を屈服させた」──リップルCEO、CFTC会合で旧SECの規制手法を糾弾",
+        "url": "https://news.yahoo.co.jp/articles/6b5f9fc73f7543fc640736c49da9319dd4eae592",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米商品先物取引委、暗号資産の市場構造ルール導入へ-法案不成立でも",
         "url": "https://news.yahoo.co.jp/articles/fe5d1f3b685f9a79ed59a532cbd307ff9f13d116",
         "source": "Yahoo",
@@ -11380,18 +11499,18 @@
       {
         "title": "米CFTCセリグ委員長、暗号資産・AI計算資源・予測市場の規制ロードマップ示す",
         "url": "https://news.yahoo.co.jp/articles/54169cd873ca8b01a561200e40878cbe79e2fcbc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン価格、7万ドルを突破──トランプが「クラリティ法案」の可決を要請",
-        "url": "https://news.yahoo.co.jp/articles/0791bd45c08ebbb7a4989da735da3de9774dc7e2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "「企業を屈服させた」──リップルCEO、CFTC会合で旧SECの規制手法を糾弾",
+        "url": "https://news.yahoo.co.jp/articles/6b5f9fc73f7543fc640736c49da9319dd4eae592",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米商品先物取引委、暗号資産の市場構造ルール導入へ-法案不成立でも",
         "url": "https://news.yahoo.co.jp/articles/fe5d1f3b685f9a79ed59a532cbd307ff9f13d116",
         "source": "Yahoo",
@@ -11418,12 +11537,6 @@
       {
         "title": "米CFTCセリグ委員長、暗号資産・AI計算資源・予測市場の規制ロードマップ示す",
         "url": "https://news.yahoo.co.jp/articles/54169cd873ca8b01a561200e40878cbe79e2fcbc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン価格、7万ドルを突破──トランプが「クラリティ法案」の可決を要請",
-        "url": "https://news.yahoo.co.jp/articles/0791bd45c08ebbb7a4989da735da3de9774dc7e2",
         "source": "Yahoo",
         "date": ""
       }
@@ -11582,6 +11695,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "「企業を屈服させた」──リップルCEO、CFTC会合で旧SECの規制手法を糾弾",
+        "url": "https://news.yahoo.co.jp/articles/6b5f9fc73f7543fc640736c49da9319dd4eae592",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップル、企業融資をブロックチェーン上で実行へ──RLUSD活用",
         "url": "https://news.yahoo.co.jp/articles/40c3901d56180fb66a3e0606fba863fb629b3936",
         "source": "Yahoo",
@@ -11608,18 +11727,18 @@
       {
         "title": "ガレゴ議員、クラリティ法案成立は「まだ可能」＝The Block",
         "url": "https://news.yahoo.co.jp/articles/2d592dbe316c6b0a736ddff6068abd5ec9b1f773",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米規制当局、ステーブルコイン「ジーニアス法」の最終規則を11月までに公表へ",
-        "url": "https://news.yahoo.co.jp/articles/8e95b7c73b496a1d519c8424bad35e0171e1e8bd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "「企業を屈服させた」──リップルCEO、CFTC会合で旧SECの規制手法を糾弾",
+        "url": "https://news.yahoo.co.jp/articles/6b5f9fc73f7543fc640736c49da9319dd4eae592",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップル、企業融資をブロックチェーン上で実行へ──RLUSD活用",
         "url": "https://news.yahoo.co.jp/articles/40c3901d56180fb66a3e0606fba863fb629b3936",
         "source": "Yahoo",
@@ -11646,12 +11765,6 @@
       {
         "title": "ガレゴ議員、クラリティ法案成立は「まだ可能」＝The Block",
         "url": "https://news.yahoo.co.jp/articles/2d592dbe316c6b0a736ddff6068abd5ec9b1f773",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米規制当局、ステーブルコイン「ジーニアス法」の最終規則を11月までに公表へ",
-        "url": "https://news.yahoo.co.jp/articles/8e95b7c73b496a1d519c8424bad35e0171e1e8bd",
         "source": "Yahoo",
         "date": ""
       }
