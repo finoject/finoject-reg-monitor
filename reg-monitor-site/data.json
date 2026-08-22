@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T05:59:08.930Z",
+  "generatedAt": "2026-08-22T07:16:58.094Z",
   "items": [
     {
       "agency": "金融庁",
@@ -11695,6 +11695,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "米国の州発行ステーブルコインもChainlinkへ──LayerZeroから移行相次ぐ",
+        "url": "https://news.yahoo.co.jp/articles/7b7930a0a5a5602bb30baea1376e0e36be45c23d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC",
         "url": "https://news.yahoo.co.jp/articles/0a9e57187fc6786b50c81f7922fe0db28389b41d",
         "source": "Yahoo",
@@ -11721,18 +11727,18 @@
       {
         "title": "「企業を屈服させた」──リップルCEO、CFTC会合で旧SECの規制手法を糾弾",
         "url": "https://news.yahoo.co.jp/articles/6b5f9fc73f7543fc640736c49da9319dd4eae592",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、企業融資をブロックチェーン上で実行へ──RLUSD活用",
-        "url": "https://news.yahoo.co.jp/articles/40c3901d56180fb66a3e0606fba863fb629b3936",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米国の州発行ステーブルコインもChainlinkへ──LayerZeroから移行相次ぐ",
+        "url": "https://news.yahoo.co.jp/articles/7b7930a0a5a5602bb30baea1376e0e36be45c23d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC",
         "url": "https://news.yahoo.co.jp/articles/0a9e57187fc6786b50c81f7922fe0db28389b41d",
         "source": "Yahoo",
@@ -11759,12 +11765,6 @@
       {
         "title": "「企業を屈服させた」──リップルCEO、CFTC会合で旧SECの規制手法を糾弾",
         "url": "https://news.yahoo.co.jp/articles/6b5f9fc73f7543fc640736c49da9319dd4eae592",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、企業融資をブロックチェーン上で実行へ──RLUSD活用",
-        "url": "https://news.yahoo.co.jp/articles/40c3901d56180fb66a3e0606fba863fb629b3936",
         "source": "Yahoo",
         "date": ""
       }
