@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-23T22:55:26.005Z",
+  "generatedAt": "2026-08-23T23:53:54.580Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "FSBレポ統計の日本分集計結果",
+      "url": "https://www.boj.or.jp/statistics/bis/repo/index.htm",
+      "date": "2026-08-23",
+      "detectedAt": "2026-08-23T23:53:54.580Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行がFSBレポ統計の日本分集計結果（2026年5月分）を2026年6月19日に公表し、日本円現先取引等のフロー・ストックデータ及びレポレートを提供開始した。",
+        "市場参加者はFSBレポ統計の公表データ（XLSX・PDF形式）から日本円・外貨取引、取引相手別の現先・証券貸借取引額及び取引レートを参照可能である。",
+        "本統計は2020年1月から定期公表されており、2026年1月26日及び2025年8月22日の過去訂正が記録されているため、最新データと訂正履歴の確認が必要である。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-23T23:54:00.166Z"
+    },
     {
       "agency": "金融庁",
       "title": "令和８年７月17日から18日にかけての大雨に伴う災害等に対する金融上の措置について公表しました。",
@@ -3806,22 +3822,6 @@
         "トランジション・ファイナンスとSSBJ基準に基づく開示義務化の動向をBOXで整理し、市場参加者の見方と課題を把握することで金融市場機能の向上に資することを目的とする。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "FSBレポ統計の日本分集計結果",
-      "url": "https://www.boj.or.jp/statistics/bis/repo/index.htm",
-      "date": "2026-07-21",
-      "detectedAt": "2026-07-22T01:06:42.163Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行がFSBレポ統計の日本分集計結果（2026年5月分）を2026年6月19日に公表し、日本円現先取引等のフロー・ストックデータ及びレポレートを提供開始した。",
-        "市場参加者はFSBレポ統計の公表データ（XLSX・PDF形式）から日本円・外貨取引、取引相手別の現先・証券貸借取引額及び取引レートを参照可能である。",
-        "本統計は2020年1月から定期公表されており、2026年1月26日及び2025年8月22日の過去訂正が記録されているため、最新データと訂正履歴の確認が必要である。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-22T01:06:47.998Z"
     },
     {
       "agency": "金融庁",
@@ -11239,6 +11239,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
+        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
         "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
         "source": "Yahoo",
@@ -11265,18 +11271,18 @@
       {
         "title": "トークン化株式の保有者数が1カ月で2倍に",
         "url": "https://news.yahoo.co.jp/articles/4473678e085b04bcc7f30ad14c3edd9bd37924da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.8】",
-        "url": "https://news.yahoo.co.jp/articles/14c252a6e6b2a3584aff9d29cad55352dd5d1acf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
+        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
         "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
         "source": "Yahoo",
@@ -11303,18 +11309,18 @@
       {
         "title": "トークン化株式の保有者数が1カ月で2倍に",
         "url": "https://news.yahoo.co.jp/articles/4473678e085b04bcc7f30ad14c3edd9bd37924da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.8】",
-        "url": "https://news.yahoo.co.jp/articles/14c252a6e6b2a3584aff9d29cad55352dd5d1acf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
+        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
         "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
         "source": "Yahoo",
@@ -11341,18 +11347,18 @@
       {
         "title": "トークン化株式の保有者数が1カ月で2倍に",
         "url": "https://news.yahoo.co.jp/articles/4473678e085b04bcc7f30ad14c3edd9bd37924da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.8】",
-        "url": "https://news.yahoo.co.jp/articles/14c252a6e6b2a3584aff9d29cad55352dd5d1acf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
+        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
         "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
         "source": "Yahoo",
@@ -11381,15 +11387,15 @@
         "url": "https://news.yahoo.co.jp/articles/4473678e085b04bcc7f30ad14c3edd9bd37924da",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.8】",
-        "url": "https://news.yahoo.co.jp/articles/14c252a6e6b2a3584aff9d29cad55352dd5d1acf",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
+        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "高市首相はなぜ国会でなくXで疑惑に反論するのか SNS偏重の背景と今後の影響 #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/c99c79d69e170e1107f57680b0758eb46e6efd6f",
@@ -11417,18 +11423,18 @@
       {
         "title": "JPYC、資金移動業登録から丸1年──総流通量28億円の歩み",
         "url": "https://news.yahoo.co.jp/articles/54629512ed03349aeec6c2659ac1ff17c3950eb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、「暗号資産・ステーブルコイン課」を新設。参事官室を前身に設置",
-        "url": "https://news.yahoo.co.jp/articles/ef28bbb672897f5f644b62a6478553c14110a0a9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
+        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "高市首相はなぜ国会でなくXで疑惑に反論するのか SNS偏重の背景と今後の影響 #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/c99c79d69e170e1107f57680b0758eb46e6efd6f",
         "source": "Yahoo",
@@ -11457,15 +11463,15 @@
         "url": "https://news.yahoo.co.jp/articles/54629512ed03349aeec6c2659ac1ff17c3950eb1",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "金融庁、「暗号資産・ステーブルコイン課」を新設。参事官室を前身に設置",
-        "url": "https://news.yahoo.co.jp/articles/ef28bbb672897f5f644b62a6478553c14110a0a9",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
+        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "オンチェーン金融、日本の次の課題は「使われる金融」をつくることだ【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/855a837ba5ddfc163268aae4872f716c2c39e467",
@@ -11493,18 +11499,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
         "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜBitcoinは上がり、米国株は下がったのか──市場で起きた「異例のダイバージェンス」を読み解く【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/d909952642336f57e0eada41af1c6a21e8944254",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
+        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オンチェーン金融、日本の次の課題は「使われる金融」をつくることだ【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/855a837ba5ddfc163268aae4872f716c2c39e467",
         "source": "Yahoo",
@@ -11531,12 +11537,6 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
         "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜBitcoinは上がり、米国株は下がったのか──市場で起きた「異例のダイバージェンス」を読み解く【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/d909952642336f57e0eada41af1c6a21e8944254",
         "source": "Yahoo",
         "date": ""
       }
@@ -11695,6 +11695,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "デジタル証券の税制改正、投資家と発行体への影響は──会計・税務の専門家が解説【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/73265099e88ba674d4623c3284378e723709e3ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オンチェーン金融、日本の次の課題は「使われる金融」をつくることだ【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/855a837ba5ddfc163268aae4872f716c2c39e467",
         "source": "Yahoo",
@@ -11721,18 +11727,18 @@
       {
         "title": "米国の州発行ステーブルコインもChainlinkへ──LayerZeroから移行相次ぐ",
         "url": "https://news.yahoo.co.jp/articles/7b7930a0a5a5602bb30baea1376e0e36be45c23d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC",
-        "url": "https://news.yahoo.co.jp/articles/0a9e57187fc6786b50c81f7922fe0db28389b41d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "デジタル証券の税制改正、投資家と発行体への影響は──会計・税務の専門家が解説【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/73265099e88ba674d4623c3284378e723709e3ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オンチェーン金融、日本の次の課題は「使われる金融」をつくることだ【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/855a837ba5ddfc163268aae4872f716c2c39e467",
         "source": "Yahoo",
@@ -11759,12 +11765,6 @@
       {
         "title": "米国の州発行ステーブルコインもChainlinkへ──LayerZeroから移行相次ぐ",
         "url": "https://news.yahoo.co.jp/articles/7b7930a0a5a5602bb30baea1376e0e36be45c23d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC",
-        "url": "https://news.yahoo.co.jp/articles/0a9e57187fc6786b50c81f7922fe0db28389b41d",
         "source": "Yahoo",
         "date": ""
       }
