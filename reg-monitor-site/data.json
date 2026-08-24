@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:20:40.262Z",
+  "generatedAt": "2026-08-24T11:05:13.153Z",
   "items": [
     {
       "agency": "金融庁",
@@ -11679,6 +11679,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "SEC暗号資産タスクフォースのスタッフ、オフチェーンラボらとL2技術と証券法について会合",
+        "url": "https://news.yahoo.co.jp/articles/e621465270b9468eeb4508f043879114c607547d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」公開",
         "url": "https://news.yahoo.co.jp/articles/6ccd0d085843c858c02bf43935f084042fb1f321",
         "source": "Yahoo",
@@ -11705,18 +11711,18 @@
       {
         "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
         "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンチェーン金融、日本の次の課題は「使われる金融」をつくることだ【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/855a837ba5ddfc163268aae4872f716c2c39e467",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "SEC暗号資産タスクフォースのスタッフ、オフチェーンラボらとL2技術と証券法について会合",
+        "url": "https://news.yahoo.co.jp/articles/e621465270b9468eeb4508f043879114c607547d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」公開",
         "url": "https://news.yahoo.co.jp/articles/6ccd0d085843c858c02bf43935f084042fb1f321",
         "source": "Yahoo",
@@ -11743,12 +11749,6 @@
       {
         "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
         "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンチェーン金融、日本の次の課題は「使われる金融」をつくることだ【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/855a837ba5ddfc163268aae4872f716c2c39e467",
         "source": "Yahoo",
         "date": ""
       }
@@ -11907,6 +11907,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI、ファセットに追加出資 SBIホールディングス は24日、ステーブルコイン決済や暗号資産取引基盤を展開するFasset（ファセット、アラブ首長国連邦）に追加",
+        "url": "https://news.yahoo.co.jp/articles/1e92bd826cd6eabfe4f7b1aed2eca59c15597fa4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Tether、1億2000万ドル規模のBTCマイニング事業が頓挫──ウルグアイで電力対立",
+        "url": "https://news.yahoo.co.jp/articles/22e6b05b7c5d61d869c098792703f30e2222a319",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クリアプール、XRPレジャー上に機関向け融資基盤を構築へ",
         "url": "https://news.yahoo.co.jp/articles/383bd24a455299b933f2bce743cb200780be7e2a",
         "source": "Yahoo",
@@ -11927,24 +11939,24 @@
       {
         "title": "新韓資産運用社、ソラナ財団らとMOU。韓国ウォン建てトークン化ファンドを技術検証",
         "url": "https://news.yahoo.co.jp/articles/679fa546ff7d3a8f96485751a1df15c38c47fda6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハッシュポート、NFTマーケット「PLT Place」を刷新、JPYC決済対応の「HashPort Market | αU」に",
-        "url": "https://news.yahoo.co.jp/articles/e709c80aacdee49b72ee156878d82078779ca557",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」公開",
-        "url": "https://news.yahoo.co.jp/articles/6ccd0d085843c858c02bf43935f084042fb1f321",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI、ファセットに追加出資 SBIホールディングス は24日、ステーブルコイン決済や暗号資産取引基盤を展開するFasset（ファセット、アラブ首長国連邦）に追加",
+        "url": "https://news.yahoo.co.jp/articles/1e92bd826cd6eabfe4f7b1aed2eca59c15597fa4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Tether、1億2000万ドル規模のBTCマイニング事業が頓挫──ウルグアイで電力対立",
+        "url": "https://news.yahoo.co.jp/articles/22e6b05b7c5d61d869c098792703f30e2222a319",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クリアプール、XRPレジャー上に機関向け融資基盤を構築へ",
         "url": "https://news.yahoo.co.jp/articles/383bd24a455299b933f2bce743cb200780be7e2a",
         "source": "Yahoo",
@@ -11965,18 +11977,6 @@
       {
         "title": "新韓資産運用社、ソラナ財団らとMOU。韓国ウォン建てトークン化ファンドを技術検証",
         "url": "https://news.yahoo.co.jp/articles/679fa546ff7d3a8f96485751a1df15c38c47fda6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハッシュポート、NFTマーケット「PLT Place」を刷新、JPYC決済対応の「HashPort Market | αU」に",
-        "url": "https://news.yahoo.co.jp/articles/e709c80aacdee49b72ee156878d82078779ca557",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」公開",
-        "url": "https://news.yahoo.co.jp/articles/6ccd0d085843c858c02bf43935f084042fb1f321",
         "source": "Yahoo",
         "date": ""
       }
