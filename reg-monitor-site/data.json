@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-24T02:10:28.885Z",
+  "generatedAt": "2026-08-24T03:35:16.264Z",
   "items": [
+    {
+      "agency": "JVCEA",
+      "title": "当協会会員における事業会員への会員種別変更について",
+      "url": "https://jvcea.or.jp/information/main-info/20260824-002/",
+      "date": "2026-08-24",
+      "detectedAt": "2026-08-24T03:35:16.264Z",
+      "enriched": "2026-08-24T03:35:22.645Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁から登録を受けたLaser Digital Japan株式会社について、2026年8月21日付で金融庁より登録されたことが確認された。",
+        "JVCEA会員のうち同社の会員種別を事業準備会員から事業会員に変更する対応を実施する。",
+        "本発表は2026年8月24日付で協会より通知されたもので、金融庁登録完了に伴う会員区分変更である。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "ＡＮＡＰホールディングス（3189）",
@@ -11497,6 +11512,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米「ワイオミング・ブロックチェーン・シンポジウム2026」が開催、金融オンチェーン化やAIエージェントを議論",
+        "url": "https://news.yahoo.co.jp/articles/92a15620a43b2a90c8a84e01966541c78d819d00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「全くのデタラメだ」トランプ次男、新コイン発行説を否定──クラリティ法案めぐり利益相反が争点に",
         "url": "https://news.yahoo.co.jp/articles/211f2290546c95353b0889bd325b0005dd23146b",
         "source": "Yahoo",
@@ -11523,18 +11544,18 @@
       {
         "title": "なぜアメリカは暗号資産を「禁止」ではなく「挑戦できるルール」へ変えようとしているのか【サンフランシスコ レポート】",
         "url": "https://news.yahoo.co.jp/articles/1da864ac78b20e37cf55e8873e8a06af203a6414",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は／「今はサトシよりイーロンに賭けたい」──ビットコイン保有量ゼロのBitcoin Japan、CEOが明かす狙い【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/156c847e4a16b499ee132d5b70f3a61efd334fee",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米「ワイオミング・ブロックチェーン・シンポジウム2026」が開催、金融オンチェーン化やAIエージェントを議論",
+        "url": "https://news.yahoo.co.jp/articles/92a15620a43b2a90c8a84e01966541c78d819d00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「全くのデタラメだ」トランプ次男、新コイン発行説を否定──クラリティ法案めぐり利益相反が争点に",
         "url": "https://news.yahoo.co.jp/articles/211f2290546c95353b0889bd325b0005dd23146b",
         "source": "Yahoo",
@@ -11561,12 +11582,6 @@
       {
         "title": "なぜアメリカは暗号資産を「禁止」ではなく「挑戦できるルール」へ変えようとしているのか【サンフランシスコ レポート】",
         "url": "https://news.yahoo.co.jp/articles/1da864ac78b20e37cf55e8873e8a06af203a6414",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は／「今はサトシよりイーロンに賭けたい」──ビットコイン保有量ゼロのBitcoin Japan、CEOが明かす狙い【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/156c847e4a16b499ee132d5b70f3a61efd334fee",
         "source": "Yahoo",
         "date": ""
       }
@@ -11725,6 +11740,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "米「ワイオミング・ブロックチェーン・シンポジウム2026」が開催、金融オンチェーン化やAIエージェントを議論",
+        "url": "https://news.yahoo.co.jp/articles/92a15620a43b2a90c8a84e01966541c78d819d00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラーケン、米ドル連動ステーブルコイン「USDGO」取引開始",
         "url": "https://news.yahoo.co.jp/articles/74bf1c3ed2dedb0caf307ec6802ee5235a9a9e0a",
         "source": "Yahoo",
@@ -11751,18 +11772,18 @@
       {
         "title": "「金融って、結局は台帳なの？」──東大「金融×ブロックチェーン」講座を受けてみた【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/3d67fdc37916d8a370d42ef4f57c9c6c3e1eae43",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は／「今はサトシよりイーロンに賭けたい」──ビットコイン保有量ゼロのBitcoin Japan、CEOが明かす狙い【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/156c847e4a16b499ee132d5b70f3a61efd334fee",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米「ワイオミング・ブロックチェーン・シンポジウム2026」が開催、金融オンチェーン化やAIエージェントを議論",
+        "url": "https://news.yahoo.co.jp/articles/92a15620a43b2a90c8a84e01966541c78d819d00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラーケン、米ドル連動ステーブルコイン「USDGO」取引開始",
         "url": "https://news.yahoo.co.jp/articles/74bf1c3ed2dedb0caf307ec6802ee5235a9a9e0a",
         "source": "Yahoo",
@@ -11789,12 +11810,6 @@
       {
         "title": "「金融って、結局は台帳なの？」──東大「金融×ブロックチェーン」講座を受けてみた【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/3d67fdc37916d8a370d42ef4f57c9c6c3e1eae43",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は／「今はサトシよりイーロンに賭けたい」──ビットコイン保有量ゼロのBitcoin Japan、CEOが明かす狙い【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/156c847e4a16b499ee132d5b70f3a61efd334fee",
         "source": "Yahoo",
         "date": ""
       }
@@ -12103,8 +12118,22 @@
         "date": ""
       }
     ],
-    "416AC0000000154": [],
-    "416CO0000000427": [],
+    "416AC0000000154": [
+      {
+        "title": "家族信託という条文はない。信託と後見の線引きは、お金の外側で決まる",
+        "url": "https://news.yahoo.co.jp/articles/50b0114091042e51e652271075d10e15c604fd0d",
+        "source": "Yahoo",
+        "date": ""
+      }
+    ],
+    "416CO0000000427": [
+      {
+        "title": "家族信託という条文はない。信託と後見の線引きは、お金の外側で決まる",
+        "url": "https://news.yahoo.co.jp/articles/50b0114091042e51e652271075d10e15c604fd0d",
+        "source": "Yahoo",
+        "date": ""
+      }
+    ],
     "412AC0000000101": [
       {
         "title": "外国株を売りつけろ、過剰ノルマが招いた某証券の末路",
