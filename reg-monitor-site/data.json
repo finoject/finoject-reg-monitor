@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-08-23T23:53:54.580Z",
+  "generatedAt": "2026-08-24T02:10:28.885Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "ＡＮＡＰホールディングス（3189）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-08-24",
+      "detectedAt": "2026-08-24T02:10:28.885Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-24T02:10:35.009Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "協会員の異動状況等を更新しました。",
+      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
+      "date": "2026-08-24",
+      "detectedAt": "2026-08-24T02:10:28.885Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
+        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
+        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-24T02:10:35.009Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（8月20日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260820.htm",
+      "date": "2026-08-24",
+      "detectedAt": "2026-08-24T02:10:28.885Z",
+      "enriched": "2026-08-24T02:10:35.009Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の2026年8月20日現在の資産合計は644兆3,332億円で、うち国債519兆5,238億円、貸付金71兆8,577億円等を保有している。",
+        "金融機関等は日本銀行との当座預金424兆6,898億円、発行銀行券115兆101億円等の負債・純資産項目を通じて日銀と取引している。",
+        "気候変動対応や被災地支援など政策目的の貸付金が32兆7,518億円含まれ、指数連動型上場投資信託等の信託買入れは36兆9,930億円である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "今年度の公認会計士試験合格者の採用活動の開始時期について（お願い）",
+      "url": "https://jicpa.or.jp/news/information/2026/20260824ijg.html",
+      "date": "2026-08-24",
+      "detectedAt": "2026-08-24T02:10:28.885Z",
+      "enriched": "2026-08-24T02:10:35.009Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "公認会計士試験合格者への採用活動は、合格発表日である2026年11月20日（金）以降から開始することとする。",
+        "公認会計士事務所会員は、同日以降に採用活動を開始するよう協会から要請されている。",
+        "日本公認会計士協会が例年の慣例として合格発表日を採用活動開始時期として設定し、各会員事務所に協力を求めている。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "FSBレポ統計の日本分集計結果",
@@ -260,22 +322,6 @@
         "当該銘柄の取扱開始日は2026年8月19日であり、詳細は暗号資産概要説明書に記載されている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ブランディングテクノロジー（7067）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-08-20",
-      "detectedAt": "2026-08-20T07:25:48.370Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-20T07:25:54.108Z"
     },
     {
       "agency": "日本証券業協会",
@@ -2128,22 +2174,6 @@
         "本メンテナンスは2026年8月3日18時00分から実施され、作業状況により停止時間が前後する可能性がある旨、日本公認会計士協会が通知している。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "協会員の異動状況等を更新しました。",
-      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
-      "date": "2026-08-03",
-      "detectedAt": "2026-08-03T04:19:17.858Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
-        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
-        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-03T04:19:23.961Z"
     },
     {
       "agency": "日本銀行",
@@ -11467,6 +11497,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "「全くのデタラメだ」トランプ次男、新コイン発行説を否定──クラリティ法案めぐり利益相反が争点に",
+        "url": "https://news.yahoo.co.jp/articles/211f2290546c95353b0889bd325b0005dd23146b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "グレースケールの「ジーキャッシュ（ZEC）」現物ETF、8/25頃NYSEアーカで取引開始予定",
+        "url": "https://news.yahoo.co.jp/articles/c3f0c6d581215e473c60cde1162989306a08748a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
         "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
         "source": "Yahoo",
@@ -11487,24 +11529,24 @@
       {
         "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は／「今はサトシよりイーロンに賭けたい」──ビットコイン保有量ゼロのBitcoin Japan、CEOが明かす狙い【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/156c847e4a16b499ee132d5b70f3a61efd334fee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "安愚楽牧場破綻１５年、続く苦しみに被害者「無念」",
-        "url": "https://news.yahoo.co.jp/articles/dbe50970a8534e1b9a0e7cc9bc74619507ef6c54",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
-        "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "「全くのデタラメだ」トランプ次男、新コイン発行説を否定──クラリティ法案めぐり利益相反が争点に",
+        "url": "https://news.yahoo.co.jp/articles/211f2290546c95353b0889bd325b0005dd23146b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "グレースケールの「ジーキャッシュ（ZEC）」現物ETF、8/25頃NYSEアーカで取引開始予定",
+        "url": "https://news.yahoo.co.jp/articles/c3f0c6d581215e473c60cde1162989306a08748a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
         "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
         "source": "Yahoo",
@@ -11525,18 +11567,6 @@
       {
         "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は／「今はサトシよりイーロンに賭けたい」──ビットコイン保有量ゼロのBitcoin Japan、CEOが明かす狙い【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/156c847e4a16b499ee132d5b70f3a61efd334fee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "安愚楽牧場破綻１５年、続く苦しみに被害者「無念」",
-        "url": "https://news.yahoo.co.jp/articles/dbe50970a8534e1b9a0e7cc9bc74619507ef6c54",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
-        "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
         "source": "Yahoo",
         "date": ""
       }
@@ -11695,6 +11725,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "クラーケン、米ドル連動ステーブルコイン「USDGO」取引開始",
+        "url": "https://news.yahoo.co.jp/articles/74bf1c3ed2dedb0caf307ec6802ee5235a9a9e0a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタル証券の税制改正、投資家と発行体への影響は──会計・税務の専門家が解説【イベントレポート】",
         "url": "https://news.yahoo.co.jp/articles/73265099e88ba674d4623c3284378e723709e3ad",
         "source": "Yahoo",
@@ -11721,18 +11757,18 @@
       {
         "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は／「今はサトシよりイーロンに賭けたい」──ビットコイン保有量ゼロのBitcoin Japan、CEOが明かす狙い【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/156c847e4a16b499ee132d5b70f3a61efd334fee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米国の州発行ステーブルコインもChainlinkへ──LayerZeroから移行相次ぐ",
-        "url": "https://news.yahoo.co.jp/articles/7b7930a0a5a5602bb30baea1376e0e36be45c23d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "クラーケン、米ドル連動ステーブルコイン「USDGO」取引開始",
+        "url": "https://news.yahoo.co.jp/articles/74bf1c3ed2dedb0caf307ec6802ee5235a9a9e0a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタル証券の税制改正、投資家と発行体への影響は──会計・税務の専門家が解説【イベントレポート】",
         "url": "https://news.yahoo.co.jp/articles/73265099e88ba674d4623c3284378e723709e3ad",
         "source": "Yahoo",
@@ -11759,12 +11795,6 @@
       {
         "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は／「今はサトシよりイーロンに賭けたい」──ビットコイン保有量ゼロのBitcoin Japan、CEOが明かす狙い【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/156c847e4a16b499ee132d5b70f3a61efd334fee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米国の州発行ステーブルコインもChainlinkへ──LayerZeroから移行相次ぐ",
-        "url": "https://news.yahoo.co.jp/articles/7b7930a0a5a5602bb30baea1376e0e36be45c23d",
         "source": "Yahoo",
         "date": ""
       }
