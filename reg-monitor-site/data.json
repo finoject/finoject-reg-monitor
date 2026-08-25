@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T23:54:28.780Z",
+  "generatedAt": "2026-08-25T02:06:38.830Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,53 @@
         "第57回金融審議会総会・第45回金融分科会合同会合が令和8年8月31日13時～15時に中央合同庁舎第7号館13階及びオンライン形式で開催される。",
         "傍聴希望者は金融庁公式YouTubeチャンネルから視聴でき、会議後に議事録が金融庁ウェブサイトにて公表される予定。",
         "問合せは企画市場局総務課（電話0570-016811またはウェブサイト受付）で受け付ける。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "債券貸借取引残高等状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/taishaku/index.html",
+      "date": "2026-08-25",
+      "detectedAt": "2026-08-25T02:06:38.830Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "債券貸借取引残高等状況の公表統計について、2009年1月取引分より集計方法を改め、公表名称を「債券貸借取引状況」から「債券貸借取引残高等状況」に変更した。",
+        "報告対象をディーリング勘定のみに限定し、外貨建債券・短期社債・手形CPを除外し、投資家別内訳を「公社債投資家別現先売買月末残高」と整合させた。",
+        "毎月25日に更新される本統計は、債券貸借取引残高を金融機関・事業法人・外国人・個人等の投資家別に月末残高でまとめており、2009年1月以降のデータが対象。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-25T02:06:44.630Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "上場有価証券の発行会社が発行した店頭取扱有価証券の売買状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/toriatsukai/index.html",
+      "date": "2026-08-25",
+      "detectedAt": "2026-08-25T02:06:38.830Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "日本証券業協会の会員が売買した上場会社発行の店頭取扱有価証券（非上場株式・転換社債等）について、売買状況の統計を定期的に公表する。",
+        "協会会員は、継続開示会社又は一定開示能力を持つ上場会社が発行する店頭取扱有価証券の売買を行った場合、売買状況を報告する必要がある。",
+        "本統計は月次で集計・公表されるもので、2026年1月～5月分は現在報告がない状況。過去データは2006年以降分が保存されている。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-25T02:06:44.630Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "証券業報 2026年8月",
+      "url": "https://www.jsda.or.jp/about/gaiyou/gyouhou/2026/2608gyouhou.html",
+      "date": "2026-08-25",
+      "detectedAt": "2026-08-25T02:06:38.830Z",
+      "enriched": "2026-08-25T02:06:44.631Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が2026年8月の証券業報を公表し、会員の2025年度決算確報値、会員（金融商品取引業者）、特定業務会員、特別会員（登録金融機関）の現況を記載した。",
+        "協会員および関係機関は、公表された決算概況と現況データを確認し、自機関の業務状況を把握・報告等に活用する必要がある。",
+        "証券業報は日本証券業協会から定期公表される公式統計であり、規則改正の詳細は協会の「規則改正の概要及び新旧対照表」ページで確認する。"
       ],
       "aiSumV": 3
     },
@@ -3639,38 +3686,6 @@
         "7月15日に金融商品取引法改正法案（サステナビリティ開示及び保証制度導入）が成立し、公認会計士及び監査法人がサステナビリティ情報に対する保証の提供を行う。協会はJICPAサステナビリティ専門プログラムにより三段階の研修プログラムを提供し、人材育成・基準開発を進める。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "債券貸借取引残高等状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/taishaku/index.html",
-      "date": "2026-07-27",
-      "detectedAt": "2026-07-27T05:29:46.664Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "債券貸借取引残高等状況の公表統計について、2009年1月取引分より集計方法を改め、公表名称を「債券貸借取引状況」から「債券貸借取引残高等状況」に変更した。",
-        "報告対象をディーリング勘定のみに限定し、外貨建債券・短期社債・手形CPを除外し、投資家別内訳を「公社債投資家別現先売買月末残高」と整合させた。",
-        "毎月25日に更新される本統計は、債券貸借取引残高を金融機関・事業法人・外国人・個人等の投資家別に月末残高でまとめており、2009年1月以降のデータが対象。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-27T05:29:52.113Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "上場有価証券の発行会社が発行した店頭取扱有価証券の売買状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/toriatsukai/index.html",
-      "date": "2026-07-27",
-      "detectedAt": "2026-07-27T01:14:56.393Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "日本証券業協会の会員が売買した上場会社発行の店頭取扱有価証券（非上場株式・転換社債等）について、売買状況の統計を定期的に公表する。",
-        "協会会員は、継続開示会社又は一定開示能力を持つ上場会社が発行する店頭取扱有価証券の売買を行った場合、売買状況を報告する必要がある。",
-        "本統計は月次で集計・公表されるもので、2026年1月～5月分は現在報告がない状況。過去データは2006年以降分が保存されている。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-07-27T01:15:00.949Z"
     },
     {
       "agency": "日本証券業協会",
@@ -11603,6 +11618,18 @@
     ],
     "421AC0000000059": [
       {
+        "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
+        "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "なぜイーサリアムではないのか──CAC、ステーブルコインとRWAのマルチチェーン決済基盤",
+        "url": "https://news.yahoo.co.jp/articles/c8f8e49485a8e89ebb497831f4ae8d4cc6caf05f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインを「実証実験」で終わらせないために──企業に問われる「デジタル資本経営」と人材育成【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/71205edf3aa3ec1bc8582a302c6a9091b32d73a6",
         "source": "Yahoo",
@@ -11623,24 +11650,24 @@
       {
         "title": "高市首相はなぜ国会でなくXで疑惑に反論するのか SNS偏重の背景と今後の影響 #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/c99c79d69e170e1107f57680b0758eb46e6efd6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "野村傘下レーザー・デジタル、暗号資産交換業者に登録 約4年ぶり新規参入",
-        "url": "https://news.yahoo.co.jp/articles/f135370334216f4fa3fe3d405263d9c3863a268d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
-        "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
+        "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "なぜイーサリアムではないのか──CAC、ステーブルコインとRWAのマルチチェーン決済基盤",
+        "url": "https://news.yahoo.co.jp/articles/c8f8e49485a8e89ebb497831f4ae8d4cc6caf05f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインを「実証実験」で終わらせないために──企業に問われる「デジタル資本経営」と人材育成【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/71205edf3aa3ec1bc8582a302c6a9091b32d73a6",
         "source": "Yahoo",
@@ -11663,21 +11690,15 @@
         "url": "https://news.yahoo.co.jp/expert/articles/c99c79d69e170e1107f57680b0758eb46e6efd6f",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "野村傘下レーザー・デジタル、暗号資産交換業者に登録 約4年ぶり新規参入",
-        "url": "https://news.yahoo.co.jp/articles/f135370334216f4fa3fe3d405263d9c3863a268d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
-        "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "パキスタン、暗号資産事業者向けライセンス申請開始",
+        "url": "https://news.yahoo.co.jp/articles/b7f2855239eadcc26562ea7ff8422a18e74261e4",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "Hyperliquid系の政策団体、SEC・CFTCに永久契約ルールの統一を要求",
         "url": "https://news.yahoo.co.jp/articles/7caeaf334a3690e0589d433a6ae874c73fc8f800",
@@ -11705,18 +11726,18 @@
       {
         "title": "SEC暗号資産タスクフォースのスタッフ、オフチェーンラボらとL2技術と証券法について会合",
         "url": "https://news.yahoo.co.jp/articles/e621465270b9468eeb4508f043879114c607547d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」公開",
-        "url": "https://news.yahoo.co.jp/articles/6ccd0d085843c858c02bf43935f084042fb1f321",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "パキスタン、暗号資産事業者向けライセンス申請開始",
+        "url": "https://news.yahoo.co.jp/articles/b7f2855239eadcc26562ea7ff8422a18e74261e4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Hyperliquid系の政策団体、SEC・CFTCに永久契約ルールの統一を要求",
         "url": "https://news.yahoo.co.jp/articles/7caeaf334a3690e0589d433a6ae874c73fc8f800",
         "source": "Yahoo",
@@ -11743,12 +11764,6 @@
       {
         "title": "SEC暗号資産タスクフォースのスタッフ、オフチェーンラボらとL2技術と証券法について会合",
         "url": "https://news.yahoo.co.jp/articles/e621465270b9468eeb4508f043879114c607547d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」公開",
-        "url": "https://news.yahoo.co.jp/articles/6ccd0d085843c858c02bf43935f084042fb1f321",
         "source": "Yahoo",
         "date": ""
       }
@@ -11907,6 +11922,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
+        "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "なぜイーサリアムではないのか──CAC、ステーブルコインとRWAのマルチチェーン決済基盤",
+        "url": "https://news.yahoo.co.jp/articles/c8f8e49485a8e89ebb497831f4ae8d4cc6caf05f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインを「実証実験」で終わらせないために──企業に問われる「デジタル資本経営」と人材育成【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/71205edf3aa3ec1bc8582a302c6a9091b32d73a6",
         "source": "Yahoo",
@@ -11927,24 +11954,24 @@
       {
         "title": "クリアプール、XRPレジャー上に機関向け融資基盤を構築へ",
         "url": "https://news.yahoo.co.jp/articles/383bd24a455299b933f2bce743cb200780be7e2a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マントラチェーン、脆弱性悪用受け約30時間停止。修正版適用で復旧",
-        "url": "https://news.yahoo.co.jp/articles/f996f7ca072284b320fd834b4fcd11cc09bb9823",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソン店頭で「USDC」決済、JCB・デジタルガレージが実証、訪日客向け決済を検証",
-        "url": "https://news.yahoo.co.jp/articles/cc2c42639a132629f1371d8e358b082f95b535f4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
+        "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "なぜイーサリアムではないのか──CAC、ステーブルコインとRWAのマルチチェーン決済基盤",
+        "url": "https://news.yahoo.co.jp/articles/c8f8e49485a8e89ebb497831f4ae8d4cc6caf05f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインを「実証実験」で終わらせないために──企業に問われる「デジタル資本経営」と人材育成【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/71205edf3aa3ec1bc8582a302c6a9091b32d73a6",
         "source": "Yahoo",
@@ -11965,18 +11992,6 @@
       {
         "title": "クリアプール、XRPレジャー上に機関向け融資基盤を構築へ",
         "url": "https://news.yahoo.co.jp/articles/383bd24a455299b933f2bce743cb200780be7e2a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マントラチェーン、脆弱性悪用受け約30時間停止。修正版適用で復旧",
-        "url": "https://news.yahoo.co.jp/articles/f996f7ca072284b320fd834b4fcd11cc09bb9823",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ローソン店頭で「USDC」決済、JCB・デジタルガレージが実証、訪日客向け決済を検証",
-        "url": "https://news.yahoo.co.jp/articles/cc2c42639a132629f1371d8e358b082f95b535f4",
         "source": "Yahoo",
         "date": ""
       }
@@ -12711,6 +12726,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "ジオテクノロジーズと日本IBM、AIを活用した地理空間基盤構築などの共同開発に向けDX/AIパートナーシップを締結",
+        "url": "https://news.yahoo.co.jp/articles/5cf5a2a4f7eece36978a935cac15b1bb22e53621",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
         "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
         "source": "Yahoo",
@@ -12737,18 +12758,18 @@
       {
         "title": "【独自第6弾】陸自思想調査は「事業化された任務の範囲」 陸幕が公益通報者に文書で回答",
         "url": "https://news.yahoo.co.jp/articles/d977032e0e3b09117ef8cb22889c06c790e2fafd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "東京書籍のアカウント管理システム「total ID」が内田洋行のL-Gateと連携",
-        "url": "https://news.yahoo.co.jp/articles/bf2eb5a65154c056908dddac08656ececf6f6bb0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "ジオテクノロジーズと日本IBM、AIを活用した地理空間基盤構築などの共同開発に向けDX/AIパートナーシップを締結",
+        "url": "https://news.yahoo.co.jp/articles/5cf5a2a4f7eece36978a935cac15b1bb22e53621",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
         "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
         "source": "Yahoo",
@@ -12775,18 +12796,18 @@
       {
         "title": "【独自第6弾】陸自思想調査は「事業化された任務の範囲」 陸幕が公益通報者に文書で回答",
         "url": "https://news.yahoo.co.jp/articles/d977032e0e3b09117ef8cb22889c06c790e2fafd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "東京書籍のアカウント管理システム「total ID」が内田洋行のL-Gateと連携",
-        "url": "https://news.yahoo.co.jp/articles/bf2eb5a65154c056908dddac08656ececf6f6bb0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "ジオテクノロジーズと日本IBM、AIを活用した地理空間基盤構築などの共同開発に向けDX/AIパートナーシップを締結",
+        "url": "https://news.yahoo.co.jp/articles/5cf5a2a4f7eece36978a935cac15b1bb22e53621",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
         "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
         "source": "Yahoo",
@@ -12813,12 +12834,6 @@
       {
         "title": "【独自第6弾】陸自思想調査は「事業化された任務の範囲」 陸幕が公益通報者に文書で回答",
         "url": "https://news.yahoo.co.jp/articles/d977032e0e3b09117ef8cb22889c06c790e2fafd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "東京書籍のアカウント管理システム「total ID」が内田洋行のL-Gateと連携",
-        "url": "https://news.yahoo.co.jp/articles/bf2eb5a65154c056908dddac08656ececf6f6bb0",
         "source": "Yahoo",
         "date": ""
       }
