@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T07:28:25.023Z",
+  "generatedAt": "2026-08-25T08:21:22.668Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,37 @@
         "第57回金融審議会総会・第45回金融分科会合同会合が令和8年8月31日13時～15時に中央合同庁舎第7号館13階及びオンライン形式で開催される。",
         "傍聴希望者は金融庁公式YouTubeチャンネルから視聴でき、会議後に議事録が金融庁ウェブサイトにて公表される予定。",
         "問合せは企画市場局総務課（電話0570-016811またはウェブサイト受付）で受け付ける。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "Ｓｈａｒｉｎｇ Ｉｎｎｏｖａｔｉｏｎｓ（4178）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-08-25",
+      "detectedAt": "2026-08-25T08:21:22.668Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-25T08:21:26.957Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：Ａｂａｌａｎｃｅ（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260825-12.html",
+      "date": "2026-08-25",
+      "detectedAt": "2026-08-25T08:21:22.668Z",
+      "enriched": "2026-08-25T08:21:26.957Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "Abalance（株）（コード3856、スタンダード市場）について、内部管理体制確認書提出前に内部管理体制等が適切に整備・運用される見込みがなくなったとして、有価証券上場規程第601条第1項第9号ｂに基づき上場廃止を決定した。",
+        "同社は元代表取締役会長兼CEOへの権限集中体制からの脱却及び国内外部門の分離を実施困難と判断したため、東証は改善計画が改善水準に達しないと認定し、同社株式を2026年8月26日以降、信用取引保証金等の代用有価証券から除外する。",
+        "整理銘柄指定期間は2026年8月25日から9月25日まで、上場廃止日は2026年9月26日、ただし速やかな上場廃止事由発生時は当該期間及び廃止日を変更することがあると定めた。"
       ],
       "aiSumV": 3
     },
@@ -385,22 +416,6 @@
         "本発表は2026年8月24日付で協会より通知されたもので、金融庁登録完了に伴う会員区分変更である。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ＡＮＡＰホールディングス（3189）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-08-24",
-      "detectedAt": "2026-08-24T02:10:28.885Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-24T02:10:35.009Z"
     },
     {
       "agency": "日本証券業協会",
@@ -11693,6 +11708,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "金融庁、信託型ステーブルコインの税務手続見直しを要望へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
         "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
         "source": "Yahoo",
@@ -11719,18 +11740,18 @@
       {
         "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
         "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市首相はなぜ国会でなくXで疑惑に反論するのか SNS偏重の背景と今後の影響 #エキスパートトピ",
-        "url": "https://news.yahoo.co.jp/expert/articles/c99c79d69e170e1107f57680b0758eb46e6efd6f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "金融庁、信託型ステーブルコインの税務手続見直しを要望へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
         "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
         "source": "Yahoo",
@@ -11757,12 +11778,6 @@
       {
         "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
         "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "高市首相はなぜ国会でなくXで疑惑に反論するのか SNS偏重の背景と今後の影響 #エキスパートトピ",
-        "url": "https://news.yahoo.co.jp/expert/articles/c99c79d69e170e1107f57680b0758eb46e6efd6f",
         "source": "Yahoo",
         "date": ""
       }
@@ -11845,6 +11860,12 @@
     ],
     "422M60000002004": [
       {
+        "title": "金融庁、信託型ステーブルコインの税務手続見直しを要望へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "海外送金が数秒、売掛金の未回収リスクもゼロに 片山金融相とメガバンクが改革する企業決済",
         "url": "https://news.yahoo.co.jp/articles/390527431043ae435350e28cf4eb02904b5ab437",
         "source": "Yahoo",
@@ -11871,18 +11892,18 @@
       {
         "title": "「給与明細」ちゃんと見てる？ 見落としがちな4つのチェックポイントとは 口座を使った振り込みや引き落としは、以前は銀行だけができるサービスでした。現在は資金移動業者として登録することで、銀行以外もできるようになりました。これに伴い可",
         "url": "https://news.yahoo.co.jp/articles/cc467b42f7db9c7a471e2c9ce094ec93f6d71150",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
-        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "金融庁、信託型ステーブルコインの税務手続見直しを要望へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "海外送金が数秒、売掛金の未回収リスクもゼロに 片山金融相とメガバンクが改革する企業決済",
         "url": "https://news.yahoo.co.jp/articles/390527431043ae435350e28cf4eb02904b5ab437",
         "source": "Yahoo",
@@ -11909,12 +11930,6 @@
       {
         "title": "「給与明細」ちゃんと見てる？ 見落としがちな4つのチェックポイントとは 口座を使った振り込みや引き落としは、以前は銀行だけができるサービスでした。現在は資金移動業者として登録することで、銀行以外もできるようになりました。これに伴い可",
         "url": "https://news.yahoo.co.jp/articles/cc467b42f7db9c7a471e2c9ce094ec93f6d71150",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "IMF、ブラジルでのステーブルコイン取引の急拡大に警告",
-        "url": "https://news.yahoo.co.jp/articles/8af6b5e7cdcb6284df820caa0707cff84d8879fb",
         "source": "Yahoo",
         "date": ""
       }
@@ -11997,6 +12012,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "金融庁、信託型ステーブルコインの税務手続見直しを要望へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "テザー、ウルグアイのビットコインマイニング事業が頓挫か。電力供給巡る対立などで＝報道",
         "url": "https://news.yahoo.co.jp/articles/c80337f068d2d1b0e77b1c120d5d3e198faeca91",
         "source": "Yahoo",
@@ -12023,18 +12044,18 @@
       {
         "title": "ファセット、SBI主導のシリーズCで68Mドル調達。ユニコーンに",
         "url": "https://news.yahoo.co.jp/articles/ad635d56109375a3ea7e468cdebab2608dfb5853",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
-        "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "金融庁、信託型ステーブルコインの税務手続見直しを要望へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "テザー、ウルグアイのビットコインマイニング事業が頓挫か。電力供給巡る対立などで＝報道",
         "url": "https://news.yahoo.co.jp/articles/c80337f068d2d1b0e77b1c120d5d3e198faeca91",
         "source": "Yahoo",
@@ -12061,12 +12082,6 @@
       {
         "title": "ファセット、SBI主導のシリーズCで68Mドル調達。ユニコーンに",
         "url": "https://news.yahoo.co.jp/articles/ad635d56109375a3ea7e468cdebab2608dfb5853",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
-        "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
         "source": "Yahoo",
         "date": ""
       }
