@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:15:20.775Z",
+  "generatedAt": "2026-08-25T06:01:42.602Z",
   "items": [
     {
       "agency": "金融庁",
@@ -830,6 +830,21 @@
         "自然災害による被災者が、2015年9月2日以降の災害救助法適用災害の影響で債務負担を抱えた場合、特定調停を活用した債務整理をガイドラインに基づき実施できる準則が定められている。",
         "被災者・事業主は借入先の同意を得た後、日本公認会計士協会を通じて全国銀行協会に委嘱依頼書（ガイドライン所定の同意書面添付）を郵送またはFAXで提出し、登録支援専門家による手続支援を請求する。",
         "委嘱依頼書の提出先は日本公認会計士協会業務本部租税・経営グループ（FAX03-5226-3356、郵送先：東京都千代田区九段南4-4-1公認会計士会館）で、2026年8月時点で情報が更新されている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "特定口座の普及状況調査結果について",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/tokuteikouzafukyu/index.html",
+      "date": "2026-08-19",
+      "detectedAt": "2026-08-25T06:01:42.602Z",
+      "enriched": "2026-08-25T06:01:49.940Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "特定口座の普及状況について証券会社を対象とした調査を定期的に実施し、2026年8月19日時点での結果データを公表した。",
+        "本調査データを利用する場合、出典として日本証券業協会を明記することが必要である。",
+        "特定口座に関する普及動向を把握するため、証券会社における特定口座の保有状況等の統計情報が時系列で提供される。"
       ],
       "aiSumV": 3
     },
@@ -11724,6 +11739,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "トランプ、AIデータセンター建設推進の構え──71％の米国人は地元建設に反対",
+        "url": "https://news.yahoo.co.jp/articles/bd311379a13ba8bd4cacea52424e69908111798b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ジェミナイ、暗号資産予測市場をエイペックスの証券会社顧客に提供へ",
         "url": "https://news.yahoo.co.jp/articles/b5752bdb654e53a4dc40c9fefbeefdad7e1fab39",
         "source": "Yahoo",
@@ -11750,18 +11771,18 @@
       {
         "title": "GeminiとApex、暗号資産予測市場で提携へ",
         "url": "https://news.yahoo.co.jp/articles/874b4f07d2191ec3b6defcdb2d5822f70843a3d6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは復活したのか？ なぜ暗号資産の王が、この1週間で20%以上も急騰したのか（海外）",
-        "url": "https://news.yahoo.co.jp/articles/2389fb74c9d46f3188649b0ec4c3282ec7dc5d7c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプ、AIデータセンター建設推進の構え──71％の米国人は地元建設に反対",
+        "url": "https://news.yahoo.co.jp/articles/bd311379a13ba8bd4cacea52424e69908111798b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ジェミナイ、暗号資産予測市場をエイペックスの証券会社顧客に提供へ",
         "url": "https://news.yahoo.co.jp/articles/b5752bdb654e53a4dc40c9fefbeefdad7e1fab39",
         "source": "Yahoo",
@@ -11788,12 +11809,6 @@
       {
         "title": "GeminiとApex、暗号資産予測市場で提携へ",
         "url": "https://news.yahoo.co.jp/articles/874b4f07d2191ec3b6defcdb2d5822f70843a3d6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは復活したのか？ なぜ暗号資産の王が、この1週間で20%以上も急騰したのか（海外）",
-        "url": "https://news.yahoo.co.jp/articles/2389fb74c9d46f3188649b0ec4c3282ec7dc5d7c",
         "source": "Yahoo",
         "date": ""
       }
