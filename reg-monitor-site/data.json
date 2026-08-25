@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:59:29.425Z",
+  "generatedAt": "2026-08-25T23:56:07.288Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "第57回金融審議会総会・第45回金融分科会合同会合が令和8年8月31日13時～15時に中央合同庁舎第7号館13階及びオンライン形式で開催される。",
         "傍聴希望者は金融庁公式YouTubeチャンネルから視聴でき、会議後に議事録が金融庁ウェブサイトにて公表される予定。",
         "問合せは企画市場局総務課（電話0570-016811またはウェブサイト受付）で受け付ける。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "企業向けサービス価格指数（7月）",
+      "url": "https://www.boj.or.jp/statistics/pi/cspi_release/sppi2607.pdf",
+      "date": "2026-08-25",
+      "detectedAt": "2026-08-25T23:56:07.288Z",
+      "enriched": "2026-08-25T23:56:11.941Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月の企業向けサービス価格指数（総平均）は115.1（2020年平均=100）で、前年比+3.6％。国際運輸を除いた総平均は114.2で前年比+3.1％。前月比ではそれぞれ+0.4％、+0.3％。",
+        "統計データの時系列情報は日本銀行の「時系列統計データ検索サイト」（https://www.stat-search.boj.or.jp/index.html）からダウンロード可能。利用者はこのサイトにアクセスして詳細データを入手する。",
+        "前年比上昇寄与度では運輸・郵便（+1.05ポイント）と諸サービス（+1.06ポイント）が主導。外航貨物輸送（+67.4％）、宿泊サービス（+6.3％）、労働者派遣サービスが主な押上要因。"
       ],
       "aiSumV": 3
     },
@@ -11556,6 +11571,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
         "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
         "source": "Yahoo",
@@ -11582,18 +11603,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
         "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1日4.4億円の被害！ 「自分は騙されない」30〜40代が陥るSNS投資詐欺",
-        "url": "https://news.yahoo.co.jp/articles/1457d1743e5658b4250b8a6d4a11a8835243da31",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
         "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
         "source": "Yahoo",
@@ -11620,18 +11641,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
         "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1日4.4億円の被害！ 「自分は騙されない」30〜40代が陥るSNS投資詐欺",
-        "url": "https://news.yahoo.co.jp/articles/1457d1743e5658b4250b8a6d4a11a8835243da31",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
         "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
         "source": "Yahoo",
@@ -11658,18 +11679,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
         "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1日4.4億円の被害！ 「自分は騙されない」30〜40代が陥るSNS投資詐欺",
-        "url": "https://news.yahoo.co.jp/articles/1457d1743e5658b4250b8a6d4a11a8835243da31",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
         "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
         "source": "Yahoo",
@@ -11696,12 +11717,6 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.9】",
         "url": "https://news.yahoo.co.jp/articles/386b5f553844aa4d7acf71caf3b93f2492eed0d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1日4.4億円の被害！ 「自分は騙されない」30〜40代が陥るSNS投資詐欺",
-        "url": "https://news.yahoo.co.jp/articles/1457d1743e5658b4250b8a6d4a11a8835243da31",
         "source": "Yahoo",
         "date": ""
       }
@@ -11784,6 +11799,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ブロックチェーン協会、ジーニアス法のステーブルコイン規則案を支持",
+        "url": "https://news.yahoo.co.jp/articles/46e44ada06dbb136ea3c184f9c77610b3a932a81",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産ファンド創業者に有罪評決──投資家被害は約100万ドル、最高20年の禁錮刑も",
         "url": "https://news.yahoo.co.jp/articles/571df7da855c3c1dd0d6a66e5520afc1f00d2723",
         "source": "Yahoo",
@@ -11810,18 +11831,18 @@
       {
         "title": "ジェミナイ、暗号資産予測市場をエイペックスの証券会社顧客に提供へ",
         "url": "https://news.yahoo.co.jp/articles/b5752bdb654e53a4dc40c9fefbeefdad7e1fab39",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース発行のトークン化株式、イーサL2のベースで稼働開始",
-        "url": "https://news.yahoo.co.jp/articles/80e9366689a1aa1bb97b311a40495aa8db16f978",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ブロックチェーン協会、ジーニアス法のステーブルコイン規則案を支持",
+        "url": "https://news.yahoo.co.jp/articles/46e44ada06dbb136ea3c184f9c77610b3a932a81",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産ファンド創業者に有罪評決──投資家被害は約100万ドル、最高20年の禁錮刑も",
         "url": "https://news.yahoo.co.jp/articles/571df7da855c3c1dd0d6a66e5520afc1f00d2723",
         "source": "Yahoo",
@@ -11848,12 +11869,6 @@
       {
         "title": "ジェミナイ、暗号資産予測市場をエイペックスの証券会社顧客に提供へ",
         "url": "https://news.yahoo.co.jp/articles/b5752bdb654e53a4dc40c9fefbeefdad7e1fab39",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース発行のトークン化株式、イーサL2のベースで稼働開始",
-        "url": "https://news.yahoo.co.jp/articles/80e9366689a1aa1bb97b311a40495aa8db16f978",
         "source": "Yahoo",
         "date": ""
       }
@@ -12012,6 +12027,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ブロックチェーン協会、ジーニアス法のステーブルコイン規則案を支持",
+        "url": "https://news.yahoo.co.jp/articles/46e44ada06dbb136ea3c184f9c77610b3a932a81",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ネット・地銀など全国40行、８月中にもトークン化預金の送金実証へ＝日経",
         "url": "https://news.yahoo.co.jp/articles/81dae4d32572f7bdbc277bfcbe2a6a7c3b573e8a",
         "source": "Yahoo",
@@ -12032,24 +12059,24 @@
       {
         "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
         "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、ウルグアイのビットコインマイニング事業が頓挫か。電力供給巡る対立などで＝報道",
-        "url": "https://news.yahoo.co.jp/articles/c80337f068d2d1b0e77b1c120d5d3e198faeca91",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スタンダードチャータードの香港法人、HKDAP初の取扱銀行に",
-        "url": "https://news.yahoo.co.jp/articles/1102be230e86c38ec91f46b6fbf7225d240c0373",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ブロックチェーン協会、ジーニアス法のステーブルコイン規則案を支持",
+        "url": "https://news.yahoo.co.jp/articles/46e44ada06dbb136ea3c184f9c77610b3a932a81",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ネット・地銀など全国40行、８月中にもトークン化預金の送金実証へ＝日経",
         "url": "https://news.yahoo.co.jp/articles/81dae4d32572f7bdbc277bfcbe2a6a7c3b573e8a",
         "source": "Yahoo",
@@ -12070,18 +12097,6 @@
       {
         "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
         "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、ウルグアイのビットコインマイニング事業が頓挫か。電力供給巡る対立などで＝報道",
-        "url": "https://news.yahoo.co.jp/articles/c80337f068d2d1b0e77b1c120d5d3e198faeca91",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スタンダードチャータードの香港法人、HKDAP初の取扱銀行に",
-        "url": "https://news.yahoo.co.jp/articles/1102be230e86c38ec91f46b6fbf7225d240c0373",
         "source": "Yahoo",
         "date": ""
       }
