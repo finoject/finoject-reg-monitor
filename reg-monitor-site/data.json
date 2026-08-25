@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T02:06:38.830Z",
+  "generatedAt": "2026-08-25T03:29:14.526Z",
   "items": [
     {
       "agency": "金融庁",
@@ -11694,6 +11694,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "ジェミナイ、暗号資産予測市場をエイペックスの証券会社顧客に提供へ",
+        "url": "https://news.yahoo.co.jp/articles/b5752bdb654e53a4dc40c9fefbeefdad7e1fab39",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベース発行のトークン化株式、イーサL2のベースで稼働開始",
+        "url": "https://news.yahoo.co.jp/articles/80e9366689a1aa1bb97b311a40495aa8db16f978",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "パキスタン、暗号資産事業者向けライセンス申請開始",
         "url": "https://news.yahoo.co.jp/articles/b7f2855239eadcc26562ea7ff8422a18e74261e4",
         "source": "Yahoo",
@@ -11714,24 +11726,24 @@
       {
         "title": "ビットコインは復活したのか？ なぜ暗号資産の王が、この1週間で20%以上も急騰したのか（海外）",
         "url": "https://news.yahoo.co.jp/articles/2389fb74c9d46f3188649b0ec4c3282ec7dc5d7c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、Baseでトークン化米国株をローンチ──AppleやNvidiaなど4銘柄",
-        "url": "https://news.yahoo.co.jp/articles/e573073b43d70387d3d44f4c738ace8762331460",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC暗号資産タスクフォースのスタッフ、オフチェーンラボらとL2技術と証券法について会合",
-        "url": "https://news.yahoo.co.jp/articles/e621465270b9468eeb4508f043879114c607547d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ジェミナイ、暗号資産予測市場をエイペックスの証券会社顧客に提供へ",
+        "url": "https://news.yahoo.co.jp/articles/b5752bdb654e53a4dc40c9fefbeefdad7e1fab39",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベース発行のトークン化株式、イーサL2のベースで稼働開始",
+        "url": "https://news.yahoo.co.jp/articles/80e9366689a1aa1bb97b311a40495aa8db16f978",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "パキスタン、暗号資産事業者向けライセンス申請開始",
         "url": "https://news.yahoo.co.jp/articles/b7f2855239eadcc26562ea7ff8422a18e74261e4",
         "source": "Yahoo",
@@ -11752,18 +11764,6 @@
       {
         "title": "ビットコインは復活したのか？ なぜ暗号資産の王が、この1週間で20%以上も急騰したのか（海外）",
         "url": "https://news.yahoo.co.jp/articles/2389fb74c9d46f3188649b0ec4c3282ec7dc5d7c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、Baseでトークン化米国株をローンチ──AppleやNvidiaなど4銘柄",
-        "url": "https://news.yahoo.co.jp/articles/e573073b43d70387d3d44f4c738ace8762331460",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC暗号資産タスクフォースのスタッフ、オフチェーンラボらとL2技術と証券法について会合",
-        "url": "https://news.yahoo.co.jp/articles/e621465270b9468eeb4508f043879114c607547d",
         "source": "Yahoo",
         "date": ""
       }
@@ -11922,6 +11922,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "スタンダードチャータードの香港法人、HKDAP初の取扱銀行に",
+        "url": "https://news.yahoo.co.jp/articles/1102be230e86c38ec91f46b6fbf7225d240c0373",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英スタンダードチャータード、香港ドルステーブルコイン「HKDAP」銀行初の提供へ",
+        "url": "https://news.yahoo.co.jp/articles/4b6050fcb2c36ae888ff4f21163152ff9f42a875",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "LINE NEXTのウォレット「Unifi」、JPYCの直接発行・償還に対応",
+        "url": "https://news.yahoo.co.jp/articles/bf7373ba7e2b5567c4633db224d70bd2cfec85f1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ファセット、SBI主導のシリーズCで68Mドル調達。ユニコーンに",
+        "url": "https://news.yahoo.co.jp/articles/ad635d56109375a3ea7e468cdebab2608dfb5853",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
         "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
         "source": "Yahoo",
@@ -11930,36 +11954,36 @@
       {
         "title": "なぜイーサリアムではないのか──CAC、ステーブルコインとRWAのマルチチェーン決済基盤",
         "url": "https://news.yahoo.co.jp/articles/c8f8e49485a8e89ebb497831f4ae8d4cc6caf05f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインを「実証実験」で終わらせないために──企業に問われる「デジタル資本経営」と人材育成【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/71205edf3aa3ec1bc8582a302c6a9091b32d73a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、ファセットに追加出資 SBIホールディングス は24日、ステーブルコイン決済や暗号資産取引基盤を展開するFasset（ファセット、アラブ首長国連邦）に追加",
-        "url": "https://news.yahoo.co.jp/articles/1e92bd826cd6eabfe4f7b1aed2eca59c15597fa4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Tether、1億2000万ドル規模のBTCマイニング事業が頓挫──ウルグアイで電力対立",
-        "url": "https://news.yahoo.co.jp/articles/22e6b05b7c5d61d869c098792703f30e2222a319",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クリアプール、XRPレジャー上に機関向け融資基盤を構築へ",
-        "url": "https://news.yahoo.co.jp/articles/383bd24a455299b933f2bce743cb200780be7e2a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "スタンダードチャータードの香港法人、HKDAP初の取扱銀行に",
+        "url": "https://news.yahoo.co.jp/articles/1102be230e86c38ec91f46b6fbf7225d240c0373",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英スタンダードチャータード、香港ドルステーブルコイン「HKDAP」銀行初の提供へ",
+        "url": "https://news.yahoo.co.jp/articles/4b6050fcb2c36ae888ff4f21163152ff9f42a875",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "LINE NEXTのウォレット「Unifi」、JPYCの直接発行・償還に対応",
+        "url": "https://news.yahoo.co.jp/articles/bf7373ba7e2b5567c4633db224d70bd2cfec85f1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ファセット、SBI主導のシリーズCで68Mドル調達。ユニコーンに",
+        "url": "https://news.yahoo.co.jp/articles/ad635d56109375a3ea7e468cdebab2608dfb5853",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
         "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
         "source": "Yahoo",
@@ -11968,30 +11992,6 @@
       {
         "title": "なぜイーサリアムではないのか──CAC、ステーブルコインとRWAのマルチチェーン決済基盤",
         "url": "https://news.yahoo.co.jp/articles/c8f8e49485a8e89ebb497831f4ae8d4cc6caf05f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインを「実証実験」で終わらせないために──企業に問われる「デジタル資本経営」と人材育成【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/71205edf3aa3ec1bc8582a302c6a9091b32d73a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、ファセットに追加出資 SBIホールディングス は24日、ステーブルコイン決済や暗号資産取引基盤を展開するFasset（ファセット、アラブ首長国連邦）に追加",
-        "url": "https://news.yahoo.co.jp/articles/1e92bd826cd6eabfe4f7b1aed2eca59c15597fa4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Tether、1億2000万ドル規模のBTCマイニング事業が頓挫──ウルグアイで電力対立",
-        "url": "https://news.yahoo.co.jp/articles/22e6b05b7c5d61d869c098792703f30e2222a319",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クリアプール、XRPレジャー上に機関向け融資基盤を構築へ",
-        "url": "https://news.yahoo.co.jp/articles/383bd24a455299b933f2bce743cb200780be7e2a",
         "source": "Yahoo",
         "date": ""
       }
@@ -12726,6 +12726,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "個人情報ダダ漏れだけど",
+        "url": "https://news.yahoo.co.jp/articles/e2f423b84010e44a2a82ac8ba4c936101eb15f80",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ジオテクノロジーズと日本IBM、AIを活用した地理空間基盤構築などの共同開発に向けDX/AIパートナーシップを締結",
         "url": "https://news.yahoo.co.jp/articles/5cf5a2a4f7eece36978a935cac15b1bb22e53621",
         "source": "Yahoo",
@@ -12752,18 +12758,18 @@
       {
         "title": "個情委、メール漏えいでKDDI行政指導",
         "url": "https://news.yahoo.co.jp/articles/1d32533a7fa5b05e83c578385bcf42f9736d9838",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第6弾】陸自思想調査は「事業化された任務の範囲」 陸幕が公益通報者に文書で回答",
-        "url": "https://news.yahoo.co.jp/articles/d977032e0e3b09117ef8cb22889c06c790e2fafd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "個人情報ダダ漏れだけど",
+        "url": "https://news.yahoo.co.jp/articles/e2f423b84010e44a2a82ac8ba4c936101eb15f80",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ジオテクノロジーズと日本IBM、AIを活用した地理空間基盤構築などの共同開発に向けDX/AIパートナーシップを締結",
         "url": "https://news.yahoo.co.jp/articles/5cf5a2a4f7eece36978a935cac15b1bb22e53621",
         "source": "Yahoo",
@@ -12790,18 +12796,18 @@
       {
         "title": "個情委、メール漏えいでKDDI行政指導",
         "url": "https://news.yahoo.co.jp/articles/1d32533a7fa5b05e83c578385bcf42f9736d9838",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第6弾】陸自思想調査は「事業化された任務の範囲」 陸幕が公益通報者に文書で回答",
-        "url": "https://news.yahoo.co.jp/articles/d977032e0e3b09117ef8cb22889c06c790e2fafd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "個人情報ダダ漏れだけど",
+        "url": "https://news.yahoo.co.jp/articles/e2f423b84010e44a2a82ac8ba4c936101eb15f80",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ジオテクノロジーズと日本IBM、AIを活用した地理空間基盤構築などの共同開発に向けDX/AIパートナーシップを締結",
         "url": "https://news.yahoo.co.jp/articles/5cf5a2a4f7eece36978a935cac15b1bb22e53621",
         "source": "Yahoo",
@@ -12828,12 +12834,6 @@
       {
         "title": "個情委、メール漏えいでKDDI行政指導",
         "url": "https://news.yahoo.co.jp/articles/1d32533a7fa5b05e83c578385bcf42f9736d9838",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第6弾】陸自思想調査は「事業化された任務の範囲」 陸幕が公益通報者に文書で回答",
-        "url": "https://news.yahoo.co.jp/articles/d977032e0e3b09117ef8cb22889c06c790e2fafd",
         "source": "Yahoo",
         "date": ""
       }
