@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T09:23:09.589Z",
+  "generatedAt": "2026-08-26T10:16:20.286Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "第57回金融審議会総会・第45回金融分科会合同会合が令和8年8月31日13時～15時に中央合同庁舎第7号館13階及びオンライン形式で開催される。",
         "傍聴希望者は金融庁公式YouTubeチャンネルから視聴でき、会議後に議事録が金融庁ウェブサイトにて公表される予定。",
         "問合せは企画市場局総務課（電話0570-016811またはウェブサイト受付）で受け付ける。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）シード",
+      "url": "https://www.jpx.co.jp/news/1023/20260826-11.html",
+      "date": "2026-08-26",
+      "detectedAt": "2026-08-26T10:16:20.286Z",
+      "enriched": "2026-08-26T10:16:26.459Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社シード（コード7743、スタンダード市場）が監理銘柄（確認中）に指定された。公開買付者による買収後、特定の者以外の株主の株式が1株未満の端数となる割合での株式併合が実行される場合に上場廃止となる可能性がある。",
+        "東証は同社株式について上場廃止となるおそれがあると認定し、2026年8月26日から上場廃止基準該当性の認定日まで監理銘柄（確認中）に指定した。株主は株式併合の議案が承認されると上場廃止となることに注意する必要がある。",
+        "有価証券上場規程施行規則第604条第1項第24号に基づき、特定の者以外の株主のすべての株式が端数となる割合での株式併合を行う取締役会決議があった場合に該当するため指定された。"
       ],
       "aiSumV": 3
     },
@@ -11814,6 +11829,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ステーブルコインカード決済、2028年までに8兆円規模へ＝RedotPay",
+        "url": "https://news.yahoo.co.jp/articles/f536b66ed7b7eaa5bd08e5dfb9116d99f5d7c895",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
         "url": "https://news.yahoo.co.jp/articles/c87bb9c05674d896bf498cd9e72f93b27737c961",
         "source": "Yahoo",
@@ -11840,18 +11861,18 @@
       {
         "title": "暗号資産ファンド創業者に有罪評決──投資家被害は約100万ドル、最高20年の禁錮刑も",
         "url": "https://news.yahoo.co.jp/articles/571df7da855c3c1dd0d6a66e5520afc1f00d2723",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
-        "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ステーブルコインカード決済、2028年までに8兆円規模へ＝RedotPay",
+        "url": "https://news.yahoo.co.jp/articles/f536b66ed7b7eaa5bd08e5dfb9116d99f5d7c895",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
         "url": "https://news.yahoo.co.jp/articles/c87bb9c05674d896bf498cd9e72f93b27737c961",
         "source": "Yahoo",
@@ -11878,12 +11899,6 @@
       {
         "title": "暗号資産ファンド創業者に有罪評決──投資家被害は約100万ドル、最高20年の禁錮刑も",
         "url": "https://news.yahoo.co.jp/articles/571df7da855c3c1dd0d6a66e5520afc1f00d2723",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
-        "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
         "source": "Yahoo",
         "date": ""
       }
@@ -12042,6 +12057,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ステーブルコインカード決済、2028年までに8兆円規模へ＝RedotPay",
+        "url": "https://news.yahoo.co.jp/articles/f536b66ed7b7eaa5bd08e5dfb9116d99f5d7c895",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「出金できない」IZAKA-YA騒動、JPYC岡部氏が金融庁に情報提供",
+        "url": "https://news.yahoo.co.jp/articles/7355697aa20e44f8611a0c195f31693f05cd43db",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
         "url": "https://news.yahoo.co.jp/articles/c87bb9c05674d896bf498cd9e72f93b27737c961",
         "source": "Yahoo",
@@ -12062,24 +12089,24 @@
       {
         "title": "ステーブルコイン決済支えるTRON、利用者4億人到達がBTC上回る速さ",
         "url": "https://news.yahoo.co.jp/articles/49d39a57fcc978c255233d42c638507460680453",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン対応カード決済、28年までに年500億ドルに＝決済企業",
-        "url": "https://news.yahoo.co.jp/articles/e91c250b744755bf5c4bec4e9e14d40409a767e0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米39州銀行協会、独自ブロックチェーン「BankChain Alliance」設立へ",
-        "url": "https://news.yahoo.co.jp/articles/0bcdaaa940d2045f890fa47c511493f025d862c2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ステーブルコインカード決済、2028年までに8兆円規模へ＝RedotPay",
+        "url": "https://news.yahoo.co.jp/articles/f536b66ed7b7eaa5bd08e5dfb9116d99f5d7c895",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「出金できない」IZAKA-YA騒動、JPYC岡部氏が金融庁に情報提供",
+        "url": "https://news.yahoo.co.jp/articles/7355697aa20e44f8611a0c195f31693f05cd43db",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
         "url": "https://news.yahoo.co.jp/articles/c87bb9c05674d896bf498cd9e72f93b27737c961",
         "source": "Yahoo",
@@ -12100,18 +12127,6 @@
       {
         "title": "ステーブルコイン決済支えるTRON、利用者4億人到達がBTC上回る速さ",
         "url": "https://news.yahoo.co.jp/articles/49d39a57fcc978c255233d42c638507460680453",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン対応カード決済、28年までに年500億ドルに＝決済企業",
-        "url": "https://news.yahoo.co.jp/articles/e91c250b744755bf5c4bec4e9e14d40409a767e0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米39州銀行協会、独自ブロックチェーン「BankChain Alliance」設立へ",
-        "url": "https://news.yahoo.co.jp/articles/0bcdaaa940d2045f890fa47c511493f025d862c2",
         "source": "Yahoo",
         "date": ""
       }
