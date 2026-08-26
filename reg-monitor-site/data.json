@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T06:03:43.112Z",
+  "generatedAt": "2026-08-26T07:29:27.435Z",
   "items": [
     {
       "agency": "金融庁",
@@ -17,6 +17,53 @@
       "aiSumV": 3
     },
     {
+      "agency": "日本取引所グループ",
+      "title": "トライアイズ （4840）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-08-26",
+      "detectedAt": "2026-08-26T07:29:27.435Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-26T07:29:34.006Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-08-26",
+      "detectedAt": "2026-08-26T07:29:27.435Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-26T07:29:34.006Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証,OSE]moomoo証券株式会社に対する処分等について",
+      "url": "https://www.jpx.co.jp/news/1060/20260826.html",
+      "date": "2026-08-26",
+      "detectedAt": "2026-08-26T07:29:27.435Z",
+      "enriched": "2026-08-26T07:29:34.007Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "moomoo証券は2025年2月21日から5月27日まで、NISAの対象外である米国ETF・米国ETN計77銘柄を対象商品と虚偽表示して販売し、59顧客がNISA口座で売買。その後も2025年11月19日から2026年1月14日まで同様の違反を繰り返した。金融商品取引法第38条第1号（虚偽告知）に違反。",
+        "同社は対象顧客59名に対し課税口座振替か約定取消かいずれか一方のみの選択肢を提示し、銘柄ごとの個別処理要望に応じず著しく杜撰な対応を実施。年間投資枠の是正も1名のみ行い、他58名については2025年12月時点で未是正のまま異なる対応を継続。",
+        "2024年4月以降、顧客からの国内上場株式出庫申請を一律拒否し、2024年9月以降は公募投資信託の入出庫申請も一律拒否。金融商品取引法第43条の善管注意義務違反。2023年9月から2025年7月まで口座謝絶顧客1,531名について疑わしい取引の該当性検討を実施せず、犯罪収益移転防止法違反の可能性。"
+      ],
+      "aiSumV": 3
+    },
+    {
       "agency": "日本銀行",
       "title": "企業向けサービス価格指数（7月）",
       "url": "https://www.boj.or.jp/statistics/pi/cspi_release/sppi2607.pdf",
@@ -30,22 +77,6 @@
         "前年比上昇寄与度では運輸・郵便（+1.05ポイント）と諸サービス（+1.06ポイント）が主導。外航貨物輸送（+67.4％）、宿泊サービス（+6.3％）、労働者派遣サービスが主な押上要因。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "Ｓｈａｒｉｎｇ Ｉｎｎｏｖａｔｉｏｎｓ（4178）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-08-25",
-      "detectedAt": "2026-08-25T08:21:22.668Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-25T08:21:26.957Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -955,22 +986,6 @@
         "特定口座に関する普及動向を把握するため、証券会社における特定口座の保有状況等の統計情報が時系列で提供される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-08-19",
-      "detectedAt": "2026-08-19T07:24:08.475Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-19T07:24:14.516Z"
     },
     {
       "agency": "日本証券業協会",
@@ -11799,6 +11814,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
+        "url": "https://news.yahoo.co.jp/articles/c87bb9c05674d896bf498cd9e72f93b27737c961",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "タイSEC、暗号資産ETFの規制案公表。当初はBTC・ETHを対象に",
+        "url": "https://news.yahoo.co.jp/articles/1ad9a7aede454c9d621a200ee2b1cd2494c57a2b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコイン対応カード決済、28年までに年500億ドルに＝決済企業",
         "url": "https://news.yahoo.co.jp/articles/e91c250b744755bf5c4bec4e9e14d40409a767e0",
         "source": "Yahoo",
@@ -11819,24 +11846,24 @@
       {
         "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
         "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパーリキッド政策団体、SECとCFTCにパーペチュアルの統一分類を提言",
-        "url": "https://news.yahoo.co.jp/articles/f0aaae4c6444beba1f31bc1f36ac7c27d20d9280",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ、AIデータセンター建設推進の構え──71％の米国人は地元建設に反対",
-        "url": "https://news.yahoo.co.jp/articles/bd311379a13ba8bd4cacea52424e69908111798b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
+        "url": "https://news.yahoo.co.jp/articles/c87bb9c05674d896bf498cd9e72f93b27737c961",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "タイSEC、暗号資産ETFの規制案公表。当初はBTC・ETHを対象に",
+        "url": "https://news.yahoo.co.jp/articles/1ad9a7aede454c9d621a200ee2b1cd2494c57a2b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコイン対応カード決済、28年までに年500億ドルに＝決済企業",
         "url": "https://news.yahoo.co.jp/articles/e91c250b744755bf5c4bec4e9e14d40409a767e0",
         "source": "Yahoo",
@@ -11857,18 +11884,6 @@
       {
         "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
         "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパーリキッド政策団体、SECとCFTCにパーペチュアルの統一分類を提言",
-        "url": "https://news.yahoo.co.jp/articles/f0aaae4c6444beba1f31bc1f36ac7c27d20d9280",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ、AIデータセンター建設推進の構え──71％の米国人は地元建設に反対",
-        "url": "https://news.yahoo.co.jp/articles/bd311379a13ba8bd4cacea52424e69908111798b",
         "source": "Yahoo",
         "date": ""
       }
@@ -12027,6 +12042,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
+        "url": "https://news.yahoo.co.jp/articles/c87bb9c05674d896bf498cd9e72f93b27737c961",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ワールドリバティの米ドルステーブルコイン「USD1」、カントンでネイティブ発行開始",
+        "url": "https://news.yahoo.co.jp/articles/5bd2f80a84e2491efb49fe09f67c7d71b6bba306",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "GMOあおぞらネット銀行ら、トークン化預金の銀行間決済を実証へ。全国約40行が参加=報道",
+        "url": "https://news.yahoo.co.jp/articles/225dd25a485ea5ee81a36ed6450880fbe0934b4f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコイン決済支えるTRON、利用者4億人到達がBTC上回る速さ",
         "url": "https://news.yahoo.co.jp/articles/49d39a57fcc978c255233d42c638507460680453",
         "source": "Yahoo",
@@ -12041,30 +12074,30 @@
       {
         "title": "米39州銀行協会、独自ブロックチェーン「BankChain Alliance」設立へ",
         "url": "https://news.yahoo.co.jp/articles/0bcdaaa940d2045f890fa47c511493f025d862c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロックチェーン協会、ジーニアス法のステーブルコイン規則案を支持",
-        "url": "https://news.yahoo.co.jp/articles/46e44ada06dbb136ea3c184f9c77610b3a932a81",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
-        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ネット・地銀など全国40行、８月中にもトークン化預金の送金実証へ＝日経",
-        "url": "https://news.yahoo.co.jp/articles/81dae4d32572f7bdbc277bfcbe2a6a7c3b573e8a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
+        "url": "https://news.yahoo.co.jp/articles/c87bb9c05674d896bf498cd9e72f93b27737c961",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ワールドリバティの米ドルステーブルコイン「USD1」、カントンでネイティブ発行開始",
+        "url": "https://news.yahoo.co.jp/articles/5bd2f80a84e2491efb49fe09f67c7d71b6bba306",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "GMOあおぞらネット銀行ら、トークン化預金の銀行間決済を実証へ。全国約40行が参加=報道",
+        "url": "https://news.yahoo.co.jp/articles/225dd25a485ea5ee81a36ed6450880fbe0934b4f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコイン決済支えるTRON、利用者4億人到達がBTC上回る速さ",
         "url": "https://news.yahoo.co.jp/articles/49d39a57fcc978c255233d42c638507460680453",
         "source": "Yahoo",
@@ -12081,27 +12114,15 @@
         "url": "https://news.yahoo.co.jp/articles/0bcdaaa940d2045f890fa47c511493f025d862c2",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "ブロックチェーン協会、ジーニアス法のステーブルコイン規則案を支持",
-        "url": "https://news.yahoo.co.jp/articles/46e44ada06dbb136ea3c184f9c77610b3a932a81",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
-        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ネット・地銀など全国40行、８月中にもトークン化預金の送金実証へ＝日経",
-        "url": "https://news.yahoo.co.jp/articles/81dae4d32572f7bdbc277bfcbe2a6a7c3b573e8a",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "GMOあおぞらネット銀行ら、トークン化預金の銀行間決済を実証へ。全国約40行が参加=報道",
+        "url": "https://news.yahoo.co.jp/articles/225dd25a485ea5ee81a36ed6450880fbe0934b4f",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "６６歳女性が詐欺被害 郵便局員をかたる女、警察官や検事をかたる男らに約１０００万円だまし取られる",
         "url": "https://news.yahoo.co.jp/articles/e9fd4cb007da61d3773757354fa659e25c18d4be",
@@ -12129,18 +12150,18 @@
       {
         "title": "「だまされて加担」でも送検、有罪の見込みがなくても逮捕!? 警察が乱発する\"無理筋逮捕\"に正義はあるのか？",
         "url": "https://news.yahoo.co.jp/articles/b6bc9207871fea079865dc66bfd1fa635aee3401",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
-        "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "GMOあおぞらネット銀行ら、トークン化預金の銀行間決済を実証へ。全国約40行が参加=報道",
+        "url": "https://news.yahoo.co.jp/articles/225dd25a485ea5ee81a36ed6450880fbe0934b4f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "６６歳女性が詐欺被害 郵便局員をかたる女、警察官や検事をかたる男らに約１０００万円だまし取られる",
         "url": "https://news.yahoo.co.jp/articles/e9fd4cb007da61d3773757354fa659e25c18d4be",
         "source": "Yahoo",
@@ -12167,18 +12188,18 @@
       {
         "title": "「だまされて加担」でも送検、有罪の見込みがなくても逮捕!? 警察が乱発する\"無理筋逮捕\"に正義はあるのか？",
         "url": "https://news.yahoo.co.jp/articles/b6bc9207871fea079865dc66bfd1fa635aee3401",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
-        "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "GMOあおぞらネット銀行ら、トークン化預金の銀行間決済を実証へ。全国約40行が参加=報道",
+        "url": "https://news.yahoo.co.jp/articles/225dd25a485ea5ee81a36ed6450880fbe0934b4f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "６６歳女性が詐欺被害 郵便局員をかたる女、警察官や検事をかたる男らに約１０００万円だまし取られる",
         "url": "https://news.yahoo.co.jp/articles/e9fd4cb007da61d3773757354fa659e25c18d4be",
         "source": "Yahoo",
@@ -12205,12 +12226,6 @@
       {
         "title": "「だまされて加担」でも送検、有罪の見込みがなくても逮捕!? 警察が乱発する\"無理筋逮捕\"に正義はあるのか？",
         "url": "https://news.yahoo.co.jp/articles/b6bc9207871fea079865dc66bfd1fa635aee3401",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案が州の暗号資産規制を弱体化させる可能性──米NY州司法長官が警告",
-        "url": "https://news.yahoo.co.jp/articles/fe7b112d740ae2d9b6d507ac703abe86cff5f765",
         "source": "Yahoo",
         "date": ""
       }
@@ -12831,6 +12846,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「AI時代」に評価されるEC事業は？ 買い手に評価される＝価値の高い企業の顧客データ・運用ノウハウ・デジタル資産の整え方",
+        "url": "https://news.yahoo.co.jp/articles/8a7fbd0c8f392751a2bd59328f54a909d728d7af",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報ダダ漏れだけど",
         "url": "https://news.yahoo.co.jp/articles/e2f423b84010e44a2a82ac8ba4c936101eb15f80",
         "source": "Yahoo",
@@ -12857,18 +12878,18 @@
       {
         "title": "0:54個人情報保護委員会、KDDIに行政指導 利用者の個人情報1200万人超分漏えいで 10月19日までの報告求める",
         "url": "https://news.yahoo.co.jp/articles/30f205e20f547a86fd851373f12aa7313edca8d1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個情委、メール漏えいでKDDI行政指導",
-        "url": "https://news.yahoo.co.jp/articles/1d32533a7fa5b05e83c578385bcf42f9736d9838",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「AI時代」に評価されるEC事業は？ 買い手に評価される＝価値の高い企業の顧客データ・運用ノウハウ・デジタル資産の整え方",
+        "url": "https://news.yahoo.co.jp/articles/8a7fbd0c8f392751a2bd59328f54a909d728d7af",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報ダダ漏れだけど",
         "url": "https://news.yahoo.co.jp/articles/e2f423b84010e44a2a82ac8ba4c936101eb15f80",
         "source": "Yahoo",
@@ -12895,18 +12916,18 @@
       {
         "title": "0:54個人情報保護委員会、KDDIに行政指導 利用者の個人情報1200万人超分漏えいで 10月19日までの報告求める",
         "url": "https://news.yahoo.co.jp/articles/30f205e20f547a86fd851373f12aa7313edca8d1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個情委、メール漏えいでKDDI行政指導",
-        "url": "https://news.yahoo.co.jp/articles/1d32533a7fa5b05e83c578385bcf42f9736d9838",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「AI時代」に評価されるEC事業は？ 買い手に評価される＝価値の高い企業の顧客データ・運用ノウハウ・デジタル資産の整え方",
+        "url": "https://news.yahoo.co.jp/articles/8a7fbd0c8f392751a2bd59328f54a909d728d7af",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報ダダ漏れだけど",
         "url": "https://news.yahoo.co.jp/articles/e2f423b84010e44a2a82ac8ba4c936101eb15f80",
         "source": "Yahoo",
@@ -12933,12 +12954,6 @@
       {
         "title": "0:54個人情報保護委員会、KDDIに行政指導 利用者の個人情報1200万人超分漏えいで 10月19日までの報告求める",
         "url": "https://news.yahoo.co.jp/articles/30f205e20f547a86fd851373f12aa7313edca8d1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個情委、メール漏えいでKDDI行政指導",
-        "url": "https://news.yahoo.co.jp/articles/1d32533a7fa5b05e83c578385bcf42f9736d9838",
         "source": "Yahoo",
         "date": ""
       }
