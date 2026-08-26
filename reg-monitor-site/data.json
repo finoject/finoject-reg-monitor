@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T23:56:07.288Z",
+  "generatedAt": "2026-08-26T02:12:05.935Z",
   "items": [
     {
       "agency": "金融庁",
@@ -12027,6 +12027,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "米39州銀行協会、独自ブロックチェーン「BankChain Alliance」設立へ",
+        "url": "https://news.yahoo.co.jp/articles/0bcdaaa940d2045f890fa47c511493f025d862c2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブロックチェーン協会、ジーニアス法のステーブルコイン規則案を支持",
         "url": "https://news.yahoo.co.jp/articles/46e44ada06dbb136ea3c184f9c77610b3a932a81",
         "source": "Yahoo",
@@ -12053,18 +12059,18 @@
       {
         "title": "ステーブルコイン支払いでコスト負担を低減へ。3PLの丸和が日本円ステーブルコイン「JPYC」提供企業と資本業務提携",
         "url": "https://news.yahoo.co.jp/articles/277f22093dcbe8a7f4405ce850941f2cce504269",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米39州銀行協会、独自ブロックチェーン「BankChain Alliance」設立へ",
+        "url": "https://news.yahoo.co.jp/articles/0bcdaaa940d2045f890fa47c511493f025d862c2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブロックチェーン協会、ジーニアス法のステーブルコイン規則案を支持",
         "url": "https://news.yahoo.co.jp/articles/46e44ada06dbb136ea3c184f9c77610b3a932a81",
         "source": "Yahoo",
@@ -12091,12 +12097,6 @@
       {
         "title": "ステーブルコイン支払いでコスト負担を低減へ。3PLの丸和が日本円ステーブルコイン「JPYC」提供企業と資本業務提携",
         "url": "https://news.yahoo.co.jp/articles/277f22093dcbe8a7f4405ce850941f2cce504269",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
         "source": "Yahoo",
         "date": ""
       }
