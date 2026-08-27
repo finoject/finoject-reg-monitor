@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T01:02:33.146Z",
+  "generatedAt": "2026-08-27T12:00:15.495Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,142 @@
         "第57回金融審議会総会・第45回金融分科会合同会合が令和8年8月31日13時～15時に中央合同庁舎第7号館13階及びオンライン形式で開催される。",
         "傍聴希望者は金融庁公式YouTubeチャンネルから視聴でき、会議後に議事録が金融庁ウェブサイトにて公表される予定。",
         "問合せは企画市場局総務課（電話0570-016811またはウェブサイト受付）で受け付ける。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-08-27",
+      "detectedAt": "2026-08-27T12:00:15.495Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-27T12:00:20.276Z"
+    },
+    {
+      "agency": "金融庁",
+      "title": "令和８年８月27日からの大雨に伴う災害等に対する金融上の措置の公表",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260827.html",
+      "date": "2026-08-27",
+      "detectedAt": "2026-08-27T12:00:15.495Z",
+      "enriched": "2026-08-27T12:00:20.277Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "北陸財務局は2026年8月27日からの大雨に伴う災害救助法適用地域（富山県・石川県）の被災者に対し、預貯金取扱金融機関・証券会社・保険会社・電子債権記録機関に対して金融上の措置を要請した。",
+        "金融機関は被災者からの通帳・印鑑紛失時の払戻し、定期預金の期限前払戻し、融資相談所の開設・手続簡便化・返済猶予、罹災証明書に代わる代替手段の受付等を行うべき。",
+        "金融機関は営業店舗の営業停止状況とATM稼動状況を店頭掲示・新聞・ホームページで周知し、休日・時間外営業の配慮、保険金の迅速支払い、保険料納付猶予等を実施する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「金融商品取引業等に関するQ&A」の改訂の公表",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20260827/20260827.html",
+      "date": "2026-08-27",
+      "detectedAt": "2026-08-27T12:00:15.495Z",
+      "enriched": "2026-08-27T12:00:20.277Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は、海外で組成された日本株を対象とする個別株レバレッジ型ETFの販売について、国内市場の株式相場変動を増幅させ価格形成に著しい影響を及ぼし得るため公益上適当でないと判断。",
+        "金融商品取引業者等は、海外で組成された日本株を対象とする個別株レバレッジ型ETFの取扱いを行わないこと。金融庁Q&Aで取扱い非推奨を明示。",
+        "令和8年8月27日、金融商品取引業等に関するQ&A問7を追加し金融庁の考え方を公表。国内取引所では日本株対象の個別株レバレッジ型ETF売買が認められない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（富山県）",
+      "url": "https://www.boj.or.jp/about/bcp/fso/fso260827b.pdf",
+      "date": "2026-08-27",
+      "detectedAt": "2026-08-27T12:00:15.495Z",
+      "enriched": "2026-08-27T12:00:20.277Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和8年8月27日からの大雨により災害救助法が適用された富山県内の被災者を対象に、預貯金取扱金融機関・証券会社・保険会社・電子債権記録機関に対し、通帳紛失時の確認簡便化、定期預金期限前払戻し、手形不渡り配慮、融資相談所開設、債務整理ガイドライン相談対応等の措置を要請した。",
+        "預貯金取扱金融機関は、罹災証明書提出を猶予し現況写真等で代替する取扱い、応急資金融資の迅速化と返済条件変更、営業停止店舗と稼動ATM情報の新聞・ホームページ掲載により顧客に周知し、証券会社は有価証券売却代金即日払いに応じ、保険会社は保険金迅速支払いと保険料納付猶予を講ずること。",
+        "本要請は令和8年8月27日の大雨災害に適用され、今後災害救助法適用地域が追加された場合も同様の措置を講ずるよう要請している。被災者等の被災状況に応じた弾力的・迅速な対応が求められる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（石川県）",
+      "url": "https://www.boj.or.jp/about/bcp/fso/fso260827a.pdf",
+      "date": "2026-08-27",
+      "detectedAt": "2026-08-27T12:00:15.495Z",
+      "enriched": "2026-08-27T12:00:20.277Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和8年8月27日からの大雨で災害救助法が適用された石川県内の被災者に対し、預貯金取扱金融機関・証券会社・生保損保会社・電子債権記録機関に金融上の措置を要請した。",
+        "被災者は紛失した通帳・印鑑等がなくても被災状況の確認で払戻を受け、定期預金の期限前払戻・融資を利用でき、罹災証明書の代わりに写真等で対応される。",
+        "各金融機関は措置内容を店頭掲示・新聞・ホームページで周知し、営業停止店舗や稼動店舗の情報を速やかに告示する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【挨拶】氷見野副総裁「最近の金融経済情勢と金融政策運営」（埼玉）",
+      "url": "https://www.boj.or.jp/about/press/koen_2026/ko260827a.htm",
+      "date": "2026-08-27",
+      "detectedAt": "2026-08-27T12:00:15.495Z",
+      "enriched": "2026-08-27T12:00:20.277Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年4月の展望レポートで中東情勢に関する4つのシナリオ（急速回復・中心的見通し・高止まり・サプライチェーン混乱）を提示し、原油先物市場の織り込みに基づき中心的見通しを設定、現状は中心的見通しと高止まりシナリオの間で推移する可能性が高いと判断している。",
+        "金融機関は2026年7月時点での金融環境評価として、政策金利1％（6月決定、31年ぶりの水準）、実質金利がマイナスで銀行貸出残高の伸び率が高まっており、緩和的な金融環境が経済活動をサポートしている状況を認識すべき。",
+        "副総裁は為替相場の影響について、円安がグローバル企業収益とインバウンド需要にはプラスの一方、輸入物価上昇で家計実質所得が下押しされ、中小企業収益にはマイナスに作用する複合的な側面があり、予想物価上昇率変化を通じた基調的物価上昇率への影響も注視が必要と述べている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260827-01.html",
+      "date": "2026-08-27",
+      "detectedAt": "2026-08-27T12:00:15.495Z",
+      "enriched": "2026-08-27T12:00:20.277Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "Abalance（株）（コード3856）について、8月28日の売買から制限値幅下限を320円（上限は80円）に拡大。2営業日連続してストップ高安となり売買高0株等の要件を満たしたため。",
+        "取引参加者及び投資家は、同銘柄の成行注文により思わぬ値段での約定リスクに注意し、指値注文の活用等の対応が必要。",
+        "ストップ高安以外の値段で売買成立した翌営業日から通常の制限値幅に戻る仕組みで、東証の自主規制ルールに基づく措置（適用開始：2026年8月28日）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]株式会社山大株式の上場廃止理由及び上場廃止日の変更可能性について",
+      "url": "https://www.jpx.co.jp/news/1023/20260827-11.html",
+      "date": "2026-08-27",
+      "detectedAt": "2026-08-27T12:00:15.495Z",
+      "enriched": "2026-08-27T12:00:20.277Z",
+      "enrichV": 2,
+      "aiSummary": [
+        " 山大株式会社（コード7426、スタンダード市場）は2026年9月30日効力発生の株式併合を2026年9月24日の臨時株主総会に付議し、既存の2026年10月1日予定の上場廃止日が2026年9月28日に前倒しとなる可能性がある。",
+        " 同社は上場廃止理由が「上場維持基準に適合しない」（有価証券上場規程601条第1項第1号）から「特定者以外の株主所有株式が1株未満の端数となる株式併合」（同601条第1項第18号）に変更され、投資家および関係者は公示内容の変更を確認すること。",
+        " 上場廃止日は2026年9月28日（月）に変更される可能性があり、同日の取引で同社株式の売却機会が失われるため、株主および取引参加者は株式併合実施前の対応を急ぐ必要がある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）インターパーク",
+      "url": "https://www.jpx.co.jp/news/1031/20260827_01.html",
+      "date": "2026-08-27",
+      "detectedAt": "2026-08-27T12:00:15.495Z",
+      "enriched": "2026-08-27T12:00:20.277Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）インターパーク（コード615A）の2026年8月28日新規上場時、初値決定前の気配は板中心値段305円を起点に上限702円・下限229円の範囲で段階的に更新される。",
+        "取引参加者は当該新規上場日に成行呼値を禁止され、77円以上1,220円以下の値段指値のみで注文を発注する必要がある。",
+        "初値決定後は気配制限値幅が廃止され、初値を基準値段とする通常の制限値幅が適用される（東京証券取引所の新規上場運営ルール）。"
       ],
       "aiSumV": 3
     },
@@ -783,22 +919,6 @@
         "当該銘柄の取扱開始日は2026年8月19日であり、詳細は暗号資産概要説明書に記載されている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-08-20",
-      "detectedAt": "2026-08-20T07:25:48.370Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-20T07:25:54.108Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -11601,6 +11721,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "証券口座の乗っ取り被害 4社に「全額補償」求め、集団調停申し立て",
+        "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
         "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
         "source": "Yahoo",
@@ -11627,18 +11753,18 @@
       {
         "title": "「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」公開",
         "url": "https://news.yahoo.co.jp/articles/6ccd0d085843c858c02bf43935f084042fb1f321",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
-        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "証券口座の乗っ取り被害 4社に「全額補償」求め、集団調停申し立て",
+        "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
         "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
         "source": "Yahoo",
@@ -11665,18 +11791,18 @@
       {
         "title": "「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」公開",
         "url": "https://news.yahoo.co.jp/articles/6ccd0d085843c858c02bf43935f084042fb1f321",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
-        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "証券口座の乗っ取り被害 4社に「全額補償」求め、集団調停申し立て",
+        "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
         "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
         "source": "Yahoo",
@@ -11703,18 +11829,18 @@
       {
         "title": "「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」公開",
         "url": "https://news.yahoo.co.jp/articles/6ccd0d085843c858c02bf43935f084042fb1f321",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
-        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "証券口座の乗っ取り被害 4社に「全額補償」求め、集団調停申し立て",
+        "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
         "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
         "source": "Yahoo",
@@ -11743,15 +11869,27 @@
         "url": "https://news.yahoo.co.jp/articles/6ccd0d085843c858c02bf43935f084042fb1f321",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "未来創出都市構想：ネガティブリスト型規制緩和・City-DAO・Cyber-VFTの段階的社会実験",
-        "url": "https://news.yahoo.co.jp/expert/articles/8ab8cd212bb4c76ec319bd50d93d7a1a895cf46e",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "コインチェック、電子決済手段等取引業登録を完了──1年5カ月ぶり、国内2社目",
+        "url": "https://news.yahoo.co.jp/articles/4742f14dc154276def718b3cef7bb1609ebe730c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】国内2社目、コインチェックが「電子決済手段等取引業」登録完了。ステーブルコイン事業に本格参入へ",
+        "url": "https://news.yahoo.co.jp/articles/8ecc30e50a55fa0c9174067c9bd1649ee7de9daf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
+        "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "Revolut、欧州3市場でユーロ建てステーブルコインを導入",
         "url": "https://news.yahoo.co.jp/articles/40e8cf762cbaa4afc2c0b624c388944b0432edbf",
@@ -11767,30 +11905,30 @@
       {
         "title": "ステーブルコイン支払いでコスト負担を低減へ。3PLの丸和が日本円ステーブルコイン「JPYC」提供企業と資本業務提携",
         "url": "https://news.yahoo.co.jp/articles/277f22093dcbe8a7f4405ce850941f2cce504269",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
-        "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜイーサリアムではないのか──CAC、ステーブルコインとRWAのマルチチェーン決済基盤",
-        "url": "https://news.yahoo.co.jp/articles/c8f8e49485a8e89ebb497831f4ae8d4cc6caf05f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "コインチェック、電子決済手段等取引業登録を完了──1年5カ月ぶり、国内2社目",
+        "url": "https://news.yahoo.co.jp/articles/4742f14dc154276def718b3cef7bb1609ebe730c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】国内2社目、コインチェックが「電子決済手段等取引業」登録完了。ステーブルコイン事業に本格参入へ",
+        "url": "https://news.yahoo.co.jp/articles/8ecc30e50a55fa0c9174067c9bd1649ee7de9daf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
+        "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Revolut、欧州3市場でユーロ建てステーブルコインを導入",
         "url": "https://news.yahoo.co.jp/articles/40e8cf762cbaa4afc2c0b624c388944b0432edbf",
         "source": "Yahoo",
@@ -11807,104 +11945,92 @@
         "url": "https://news.yahoo.co.jp/articles/277f22093dcbe8a7f4405ce850941f2cce504269",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "信託型ステーブルコインの手続き簡略、金融庁要望＝日経",
-        "url": "https://news.yahoo.co.jp/articles/96a5a18b065dcc2e87fc65671ddb823f3e77e157",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜイーサリアムではないのか──CAC、ステーブルコインとRWAのマルチチェーン決済基盤",
-        "url": "https://news.yahoo.co.jp/articles/c8f8e49485a8e89ebb497831f4ae8d4cc6caf05f",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
       {
-        "title": "Galaxy、暗号資産を担保とした個人向け融資枠を開設",
-        "url": "https://news.yahoo.co.jp/articles/d222600fedc9773fe505d52edd6d2a4ec2f4f8b0",
+        "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
+        "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "英政府、中銀に決済革新支援の新目標 ステーブルコイン普及にらむ",
-        "url": "https://news.yahoo.co.jp/articles/447176a908731688bfae38cb17999aed1d9cf1a5",
+        "title": "リップルのステーブルコイン「RLUSD」、時価総額2Bドル突破。XRPL上の発行額は約1Bドル",
+        "url": "https://news.yahoo.co.jp/articles/c1ceedf3bdc3a6de6c764b9f0cfda5d1a851b035",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
-        "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
+        "title": "英政府、英中銀にステーブルコインなどの革新支援目標を付与へ",
+        "url": "https://news.yahoo.co.jp/articles/d070635bda4fb92cf6b5f8ea25baf850c203a0a7",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米SEC、暗号資産保管規則の見直し案をホワイトハウスに送付",
-        "url": "https://news.yahoo.co.jp/articles/3c8e0db25437bd08084a1c952b1e4760d4533b7f",
+        "title": "ユーロ建てステーブルコインは世界シェアわずか0.22％──レボリュートが市場参入",
+        "url": "https://news.yahoo.co.jp/articles/2ab5c05a1a6115e2faeb39d9c01ce2921dd29998",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Revolut、欧州3市場でユーロ建てステーブルコインを導入",
-        "url": "https://news.yahoo.co.jp/articles/40e8cf762cbaa4afc2c0b624c388944b0432edbf",
+        "title": "米ブロックチェーン協会、ステーブルコイン発行者の「顧客識別規則案」支持。二次市場への拡大に反対",
+        "url": "https://news.yahoo.co.jp/articles/d63d8e53d2520592a5ed60ea24aad4d2007aa662",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "トランプ氏「カナダ関税戦争」で米経済失速は目前 それでも“中間選挙勝利”の可能性を上げる「仮想通貨・AI・オンライン賭博」の面々",
-        "url": "https://news.yahoo.co.jp/articles/be4217888f5be308b70c2caeb24a03484c7abc91",
+        "title": "自民議員ら、米元CFTC委員長とDeFi規制で対話",
+        "url": "https://news.yahoo.co.jp/articles/a6cc1ca80f40808d83b14bde87ab36990a1800a7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
-        "title": "Galaxy、暗号資産を担保とした個人向け融資枠を開設",
-        "url": "https://news.yahoo.co.jp/articles/d222600fedc9773fe505d52edd6d2a4ec2f4f8b0",
+        "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
+        "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "英政府、中銀に決済革新支援の新目標 ステーブルコイン普及にらむ",
-        "url": "https://news.yahoo.co.jp/articles/447176a908731688bfae38cb17999aed1d9cf1a5",
+        "title": "リップルのステーブルコイン「RLUSD」、時価総額2Bドル突破。XRPL上の発行額は約1Bドル",
+        "url": "https://news.yahoo.co.jp/articles/c1ceedf3bdc3a6de6c764b9f0cfda5d1a851b035",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
-        "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
+        "title": "英政府、英中銀にステーブルコインなどの革新支援目標を付与へ",
+        "url": "https://news.yahoo.co.jp/articles/d070635bda4fb92cf6b5f8ea25baf850c203a0a7",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米SEC、暗号資産保管規則の見直し案をホワイトハウスに送付",
-        "url": "https://news.yahoo.co.jp/articles/3c8e0db25437bd08084a1c952b1e4760d4533b7f",
+        "title": "ユーロ建てステーブルコインは世界シェアわずか0.22％──レボリュートが市場参入",
+        "url": "https://news.yahoo.co.jp/articles/2ab5c05a1a6115e2faeb39d9c01ce2921dd29998",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Revolut、欧州3市場でユーロ建てステーブルコインを導入",
-        "url": "https://news.yahoo.co.jp/articles/40e8cf762cbaa4afc2c0b624c388944b0432edbf",
+        "title": "米ブロックチェーン協会、ステーブルコイン発行者の「顧客識別規則案」支持。二次市場への拡大に反対",
+        "url": "https://news.yahoo.co.jp/articles/d63d8e53d2520592a5ed60ea24aad4d2007aa662",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "トランプ氏「カナダ関税戦争」で米経済失速は目前 それでも“中間選挙勝利”の可能性を上げる「仮想通貨・AI・オンライン賭博」の面々",
-        "url": "https://news.yahoo.co.jp/articles/be4217888f5be308b70c2caeb24a03484c7abc91",
+        "title": "自民議員ら、米元CFTC委員長とDeFi規制で対話",
+        "url": "https://news.yahoo.co.jp/articles/a6cc1ca80f40808d83b14bde87ab36990a1800a7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422M60000002004": [
       {
+        "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
+        "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
         "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
         "source": "Yahoo",
@@ -11931,18 +12057,18 @@
       {
         "title": "JPYC、資金移動業登録から丸1年──総流通量28億円の歩み",
         "url": "https://news.yahoo.co.jp/articles/54629512ed03349aeec6c2659ac1ff17c3950eb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「給与明細」ちゃんと見てる？ 見落としがちな4つのチェックポイントとは 口座を使った振り込みや引き落としは、以前は銀行だけができるサービスでした。現在は資金移動業者として登録することで、銀行以外もできるようになりました。これに伴い可",
-        "url": "https://news.yahoo.co.jp/articles/cc467b42f7db9c7a471e2c9ce094ec93f6d71150",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
+        "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
         "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
         "source": "Yahoo",
@@ -11969,12 +12095,6 @@
       {
         "title": "JPYC、資金移動業登録から丸1年──総流通量28億円の歩み",
         "url": "https://news.yahoo.co.jp/articles/54629512ed03349aeec6c2659ac1ff17c3950eb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「給与明細」ちゃんと見てる？ 見落としがちな4つのチェックポイントとは 口座を使った振り込みや引き落としは、以前は銀行だけができるサービスでした。現在は資金移動業者として登録することで、銀行以外もできるようになりました。これに伴い可",
-        "url": "https://news.yahoo.co.jp/articles/cc467b42f7db9c7a471e2c9ce094ec93f6d71150",
         "source": "Yahoo",
         "date": ""
       }
@@ -12057,76 +12177,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "Liskチェーン、10月末に閉鎖へ",
-        "url": "https://news.yahoo.co.jp/articles/de7d00374082b91b5884d08e4108b26f906c21dc",
+        "title": "コインチェック、電子決済手段等取引業登録を完了──1年5カ月ぶり、国内2社目",
+        "url": "https://news.yahoo.co.jp/articles/4742f14dc154276def718b3cef7bb1609ebe730c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "英政府、中銀に決済革新支援の新目標 ステーブルコイン普及にらむ",
-        "url": "https://news.yahoo.co.jp/articles/447176a908731688bfae38cb17999aed1d9cf1a5",
+        "title": "ハイパーリキッド、USDC準備資産収益の蓄積開始。HYPE買い戻し原資に＝報道",
+        "url": "https://news.yahoo.co.jp/articles/e6052db95a12ef8b0b5cf2d58c0e8ba6190bc138",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Revolut、欧州3市場でユーロ建てステーブルコインを導入",
-        "url": "https://news.yahoo.co.jp/articles/40e8cf762cbaa4afc2c0b624c388944b0432edbf",
+        "title": "【速報】国内2社目、コインチェックが「電子決済手段等取引業」登録完了。ステーブルコイン事業に本格参入へ",
+        "url": "https://news.yahoo.co.jp/articles/8ecc30e50a55fa0c9174067c9bd1649ee7de9daf",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ステーブルコインカード決済、2028年までに8兆円規模へ＝RedotPay",
-        "url": "https://news.yahoo.co.jp/articles/f536b66ed7b7eaa5bd08e5dfb9116d99f5d7c895",
+        "title": "リップルのステーブルコイン「RLUSD」、時価総額2Bドル突破。XRPL上の発行額は約1Bドル",
+        "url": "https://news.yahoo.co.jp/articles/c1ceedf3bdc3a6de6c764b9f0cfda5d1a851b035",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「出金できない」IZAKA-YA騒動、JPYC岡部氏が金融庁に情報提供",
-        "url": "https://news.yahoo.co.jp/articles/7355697aa20e44f8611a0c195f31693f05cd43db",
+        "title": "クリプトカード決済、「USDC」とBaseがそれぞれ首位。累計チャージ額138億ドル",
+        "url": "https://news.yahoo.co.jp/articles/4c62a8aaf431a68dd8acda1a2fd8fefa24fe1bbe",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
-        "url": "https://news.yahoo.co.jp/articles/c87bb9c05674d896bf498cd9e72f93b27737c961",
+        "title": "米39州の銀行協会、業界所有のブロックチェーン網構築へ。「BankChain Alliance」設立",
+        "url": "https://news.yahoo.co.jp/articles/362b54f5f6390f0b32e1405300168b493476da29",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "Liskチェーン、10月末に閉鎖へ",
-        "url": "https://news.yahoo.co.jp/articles/de7d00374082b91b5884d08e4108b26f906c21dc",
+        "title": "コインチェック、電子決済手段等取引業登録を完了──1年5カ月ぶり、国内2社目",
+        "url": "https://news.yahoo.co.jp/articles/4742f14dc154276def718b3cef7bb1609ebe730c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "英政府、中銀に決済革新支援の新目標 ステーブルコイン普及にらむ",
-        "url": "https://news.yahoo.co.jp/articles/447176a908731688bfae38cb17999aed1d9cf1a5",
+        "title": "ハイパーリキッド、USDC準備資産収益の蓄積開始。HYPE買い戻し原資に＝報道",
+        "url": "https://news.yahoo.co.jp/articles/e6052db95a12ef8b0b5cf2d58c0e8ba6190bc138",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Revolut、欧州3市場でユーロ建てステーブルコインを導入",
-        "url": "https://news.yahoo.co.jp/articles/40e8cf762cbaa4afc2c0b624c388944b0432edbf",
+        "title": "【速報】国内2社目、コインチェックが「電子決済手段等取引業」登録完了。ステーブルコイン事業に本格参入へ",
+        "url": "https://news.yahoo.co.jp/articles/8ecc30e50a55fa0c9174067c9bd1649ee7de9daf",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ステーブルコインカード決済、2028年までに8兆円規模へ＝RedotPay",
-        "url": "https://news.yahoo.co.jp/articles/f536b66ed7b7eaa5bd08e5dfb9116d99f5d7c895",
+        "title": "リップルのステーブルコイン「RLUSD」、時価総額2Bドル突破。XRPL上の発行額は約1Bドル",
+        "url": "https://news.yahoo.co.jp/articles/c1ceedf3bdc3a6de6c764b9f0cfda5d1a851b035",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「出金できない」IZAKA-YA騒動、JPYC岡部氏が金融庁に情報提供",
-        "url": "https://news.yahoo.co.jp/articles/7355697aa20e44f8611a0c195f31693f05cd43db",
+        "title": "クリプトカード決済、「USDC」とBaseがそれぞれ首位。累計チャージ額138億ドル",
+        "url": "https://news.yahoo.co.jp/articles/4c62a8aaf431a68dd8acda1a2fd8fefa24fe1bbe",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
-        "url": "https://news.yahoo.co.jp/articles/c87bb9c05674d896bf498cd9e72f93b27737c961",
+        "title": "米39州の銀行協会、業界所有のブロックチェーン網構築へ。「BankChain Alliance」設立",
+        "url": "https://news.yahoo.co.jp/articles/362b54f5f6390f0b32e1405300168b493476da29",
         "source": "Yahoo",
         "date": ""
       }
@@ -12481,6 +12601,12 @@
     ],
     "356AC0000000059": [
       {
+        "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
+        "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.3】",
         "url": "https://news.yahoo.co.jp/articles/a21cc789383f039cc484ba46ae08268599ed5928",
         "source": "Yahoo",
@@ -12507,18 +12633,18 @@
       {
         "title": "【独自】資産運用会社の買収、規制緩和へ 金融庁、貯蓄から投資の流れ加速",
         "url": "https://news.yahoo.co.jp/articles/defe067bdbdacb168db8ff4ab0d6db802ea1ee6c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "要件満たす外国信託型ステーブルコイン、「電子決済手段」として規定",
-        "url": "https://news.yahoo.co.jp/articles/a50147e6175f9f9f5d874e76028f0a0a31ff91fb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "357CO0000000040": [
       {
+        "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
+        "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.3】",
         "url": "https://news.yahoo.co.jp/articles/a21cc789383f039cc484ba46ae08268599ed5928",
         "source": "Yahoo",
@@ -12545,18 +12671,18 @@
       {
         "title": "【独自】資産運用会社の買収、規制緩和へ 金融庁、貯蓄から投資の流れ加速",
         "url": "https://news.yahoo.co.jp/articles/defe067bdbdacb168db8ff4ab0d6db802ea1ee6c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "要件満たす外国信託型ステーブルコイン、「電子決済手段」として規定",
-        "url": "https://news.yahoo.co.jp/articles/a50147e6175f9f9f5d874e76028f0a0a31ff91fb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "357M50000040010": [
       {
+        "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
+        "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.3】",
         "url": "https://news.yahoo.co.jp/articles/a21cc789383f039cc484ba46ae08268599ed5928",
         "source": "Yahoo",
@@ -12583,18 +12709,18 @@
       {
         "title": "【独自】資産運用会社の買収、規制緩和へ 金融庁、貯蓄から投資の流れ加速",
         "url": "https://news.yahoo.co.jp/articles/defe067bdbdacb168db8ff4ab0d6db802ea1ee6c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "要件満たす外国信託型ステーブルコイン、「電子決済手段」として規定",
-        "url": "https://news.yahoo.co.jp/articles/a50147e6175f9f9f5d874e76028f0a0a31ff91fb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-city": [
       {
+        "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
+        "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.3】",
         "url": "https://news.yahoo.co.jp/articles/a21cc789383f039cc484ba46ae08268599ed5928",
         "source": "Yahoo",
@@ -12621,18 +12747,18 @@
       {
         "title": "【独自】資産運用会社の買収、規制緩和へ 金融庁、貯蓄から投資の流れ加速",
         "url": "https://news.yahoo.co.jp/articles/defe067bdbdacb168db8ff4ab0d6db802ea1ee6c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "要件満たす外国信託型ステーブルコイン、「電子決済手段」として規定",
-        "url": "https://news.yahoo.co.jp/articles/a50147e6175f9f9f5d874e76028f0a0a31ff91fb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-chusho": [
       {
+        "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
+        "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.3】",
         "url": "https://news.yahoo.co.jp/articles/a21cc789383f039cc484ba46ae08268599ed5928",
         "source": "Yahoo",
@@ -12661,15 +12787,15 @@
         "url": "https://news.yahoo.co.jp/articles/defe067bdbdacb168db8ff4ab0d6db802ea1ee6c",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "要件満たす外国信託型ステーブルコイン、「電子決済手段」として規定",
-        "url": "https://news.yahoo.co.jp/articles/a50147e6175f9f9f5d874e76028f0a0a31ff91fb",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "417AC0000000086": [
+      {
+        "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
+        "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "米SEC、暗号資産保管規則の見直し案をホワイトハウスに送付",
         "url": "https://news.yahoo.co.jp/articles/3c8e0db25437bd08084a1c952b1e4760d4533b7f",
@@ -12697,18 +12823,18 @@
       {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
-        "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
+        "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米SEC、暗号資産保管規則の見直し案をホワイトハウスに送付",
         "url": "https://news.yahoo.co.jp/articles/3c8e0db25437bd08084a1c952b1e4760d4533b7f",
         "source": "Yahoo",
@@ -12735,18 +12861,18 @@
       {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
-        "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
+        "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米SEC、暗号資産保管規則の見直し案をホワイトハウスに送付",
         "url": "https://news.yahoo.co.jp/articles/3c8e0db25437bd08084a1c952b1e4760d4533b7f",
         "source": "Yahoo",
@@ -12773,18 +12899,18 @@
       {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
-        "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
+        "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米SEC、暗号資産保管規則の見直し案をホワイトハウスに送付",
         "url": "https://news.yahoo.co.jp/articles/3c8e0db25437bd08084a1c952b1e4760d4533b7f",
         "source": "Yahoo",
@@ -12811,18 +12937,18 @@
       {
         "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
-        "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
+        "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米SEC、暗号資産保管規則の見直し案をホワイトハウスに送付",
         "url": "https://news.yahoo.co.jp/articles/3c8e0db25437bd08084a1c952b1e4760d4533b7f",
         "source": "Yahoo",
@@ -12851,15 +12977,15 @@
         "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "【連載】人と組織の治療家養成講座 その29 役員制度",
-        "url": "https://news.yahoo.co.jp/expert/articles/0dee6684db319f434787c15f306051d8041461b8",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "415AC0000000057": [
+      {
+        "title": "KDDI地図サイトで個人宅の住所・電話番号が「丸見え」",
+        "url": "https://news.yahoo.co.jp/articles/ecbd60ef6739bf646f648e1a244114646d320453",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「AI時代」に評価されるEC事業は？ 買い手に評価される＝価値の高い企業の顧客データ・運用ノウハウ・デジタル資産の整え方",
         "url": "https://news.yahoo.co.jp/articles/8a7fbd0c8f392751a2bd59328f54a909d728d7af",
@@ -12881,12 +13007,6 @@
       {
         "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
         "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「災害用井戸」の位置情報、熊本地震で初めて開示",
-        "url": "https://news.yahoo.co.jp/articles/7bc3b7915383cb707f02560f996f4aaf5dd95acf",
         "source": "Yahoo",
         "date": ""
       },
@@ -12899,6 +13019,12 @@
     ],
     "415CO0000000507": [
       {
+        "title": "KDDI地図サイトで個人宅の住所・電話番号が「丸見え」",
+        "url": "https://news.yahoo.co.jp/articles/ecbd60ef6739bf646f648e1a244114646d320453",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「AI時代」に評価されるEC事業は？ 買い手に評価される＝価値の高い企業の顧客データ・運用ノウハウ・デジタル資産の整え方",
         "url": "https://news.yahoo.co.jp/articles/8a7fbd0c8f392751a2bd59328f54a909d728d7af",
         "source": "Yahoo",
@@ -12919,12 +13045,6 @@
       {
         "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
         "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「災害用井戸」の位置情報、熊本地震で初めて開示",
-        "url": "https://news.yahoo.co.jp/articles/7bc3b7915383cb707f02560f996f4aaf5dd95acf",
         "source": "Yahoo",
         "date": ""
       },
@@ -12937,6 +13057,12 @@
     ],
     "428M60020000003": [
       {
+        "title": "KDDI地図サイトで個人宅の住所・電話番号が「丸見え」",
+        "url": "https://news.yahoo.co.jp/articles/ecbd60ef6739bf646f648e1a244114646d320453",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「AI時代」に評価されるEC事業は？ 買い手に評価される＝価値の高い企業の顧客データ・運用ノウハウ・デジタル資産の整え方",
         "url": "https://news.yahoo.co.jp/articles/8a7fbd0c8f392751a2bd59328f54a909d728d7af",
         "source": "Yahoo",
@@ -12957,12 +13083,6 @@
       {
         "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
         "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「災害用井戸」の位置情報、熊本地震で初めて開示",
-        "url": "https://news.yahoo.co.jp/articles/7bc3b7915383cb707f02560f996f4aaf5dd95acf",
         "source": "Yahoo",
         "date": ""
       },
