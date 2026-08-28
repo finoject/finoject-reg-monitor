@@ -27,6 +27,10 @@ log() { echo "[$(date '+%F %T')] $*" >> "$LOG_FILE"; }
 # shellcheck source=/dev/null
 [ -f "$CONFIG_FILE" ] && . "$CONFIG_FILE"
 
+# `.` で読んだだけではシェル変数止まりで claude に渡らないため、認証系は明示的に export する
+[ -n "${CLAUDE_CODE_OAUTH_TOKEN:-}" ] && export CLAUDE_CODE_OAUTH_TOKEN
+[ -n "${ANTHROPIC_API_KEY:-}" ] && export ANTHROPIC_API_KEY
+
 SLACK_CHANNEL="${SLACK_CHANNEL:-#ops}"
 REG_MONITOR_DATA_URL="${REG_MONITOR_DATA_URL:-https://finoject.github.io/finoject-reg-monitor/data.json}"
 STALE_HOURS="${STALE_HOURS:-3}"     # 巡回は毎時:37。数回の遅延/ドロップは許して3時間で異常とする

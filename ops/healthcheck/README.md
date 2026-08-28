@@ -111,5 +111,9 @@ bash ops/healthcheck/install.sh --uninstall
    `mcp__freee__freee_auth_status` は母艦の `claude mcp list` の登録名に合わせる（サーバー名の大文字小文字まで一致が必要）。
    初回の手動テストで「ツールが呼べなかった」と報告されたら、まずここを疑う。
 5. **CLIのフラグ名**: `--allowedTools` / `--disallowedTools` を使っている。
-   claudeのバージョンによって `--allowed-tools` / `--disallowed-tools` 表記のみを受ける場合があるため、
-   初回テストで引数エラーが出たらハイフン表記に変える。
+   Claude Code 2.1.251 では `--allowedTools, --allowed-tools` / `--disallowedTools, --disallowed-tools` の
+   両表記が受理されることを確認済み。将来片方だけになった場合は初回テストで引数エラーになるので、
+   そのときハイフン表記に変える。
+6. **認証情報の受け渡し**: `config.env` を `.` で読み込んでもシェル変数になるだけで claude には渡らない。
+   `CLAUDE_CODE_OAUTH_TOKEN` / `ANTHROPIC_API_KEY` はスクリプト側で明示的に `export` している
+   （launchd配下でKeychainが読めない場合、ここが唯一の認証経路になる）。
