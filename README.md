@@ -45,6 +45,12 @@
 - **表示**: reg-monitor-site は `lawrefs` から「📖 法令名（N条）」チップ（法令単位に集約・種別バッジ色分け）。法令ビューアは `lawrefs` を逆引きして「📡 この法令の最近の規制動向」パネルと条文バッジを表示。
 - 限界: 複数法令が混在する新旧対照表PDFでは条の帰属がまれに不正確になりうる（その場合は紐付け窓80字を狭める）。
 
+## 母艦ヘルスチェック（ops/healthcheck）
+毎朝7:00にMac mini母艦上のClaude Codeがヘッドレスで自己点検し、異常時のみSlackへ報告する仕組み。
+巡回自体はGitHub Actionsで動くが、母艦側のMCP認証（freee/Gmail）と公開出力の鮮度は誰も見ていないため、そこを埋める検知層。
+点検の1項目として、公開中の `data.json` の `generatedAt` が3時間以上前なら異常とする（巡回は毎時:37なので、
+それ以上開いていれば巡回かPages公開が止まっている）。導入手順と設計は `ops/healthcheck/README.md`。
+
 ## 手動実行
 GitHubの「Actions」タブ →「crawl-and-publish」→「Run workflow」で即時実行可能。
 ローカルでは `cd reg-monitor && npm install && node crawler.js`。
