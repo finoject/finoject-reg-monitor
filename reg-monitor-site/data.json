@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T22:33:39.771Z",
+  "generatedAt": "2026-08-28T06:19:45.448Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,37 @@
         "第57回金融審議会総会・第45回金融分科会合同会合が令和8年8月31日13時～15時に中央合同庁舎第7号館13階及びオンライン形式で開催される。",
         "傍聴希望者は金融庁公式YouTubeチャンネルから視聴でき、会議後に議事録が金融庁ウェブサイトにて公表される予定。",
         "問合せは企画市場局総務課（電話0570-016811またはウェブサイト受付）で受け付ける。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "イーソル （4420）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T06:19:45.448Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-28T06:19:51.078Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【記者会見】氷見野副総裁（埼玉、8月27日分）",
+      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260828a.pdf",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T06:19:45.448Z",
+      "enriched": "2026-08-28T06:19:51.078Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の副総裁は、基調物価が2％に近づいている現状において、これまで以上に物価の上振れリスクを意識する必要があると述べ、毎回の金融政策決定会合で経済・物価情勢を点検しながら利上げのタイミングとペースを検討する方針を示した。",
+        "利上げの具体的なタイミングやペースについて、副総裁は特定の条件を満たせば実行するといった明示的な基準は示さず、中東情勢やAI関連需要、為替変動等を含む経済・物価の中心見通しの確度やリスクを毎回点検することが判断基準であると述べた。",
+        "金融環境について副総裁は、金融市場にショックを与えることを意図するのではなく、金利が経済主体の判断を通じて経済に波及していく経路を主に考えて政策を進めるべきと述べた。"
       ],
       "aiSumV": 3
     },
@@ -166,22 +197,6 @@
         "有価証券上場規程施行規則第604条第1項第24号に基づき、特定の者以外の株主のすべての株式が端数となる割合での株式併合を行う取締役会決議があった場合に該当するため指定された。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "トライアイズ （4840）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-08-26",
-      "detectedAt": "2026-08-26T07:29:27.435Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-26T07:29:34.006Z"
     },
     {
       "agency": "日本証券業協会",
@@ -11949,6 +11964,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "レボリュート、ユーロ連動ステーブルコイン「EURR」展開。ストライプ傘下ブリッジが発行",
+        "url": "https://news.yahoo.co.jp/articles/7e5c82c6b11e424414931d90185442588a2e4a80",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハイパーリキッド・ポリシー・センターとtrade[XYZ]、原油などのパーペチュアルをCFTCに提言",
+        "url": "https://news.yahoo.co.jp/articles/bd8012fe4b8b7fd3a6c6cfdddc8b3c508cad2227",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Bitfinex Securities、ニッケル関連トークン化証券「ALKN」を発表",
+        "url": "https://news.yahoo.co.jp/articles/b637639ae1d10fc5eba35e271d31dabcad1a0bbe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "“画期的”な「暗号資産」政策法案は2026年、議会を通過するとは期待しないほうがいい。そう予測トレーダーらは語る（海外）",
         "url": "https://news.yahoo.co.jp/articles/1f5aeb221cc6448fca46455de2b30b4d5f9112c3",
         "source": "Yahoo",
@@ -11963,30 +11996,30 @@
       {
         "title": "9月はなぜ株もビットコインも弱いのか──中間選挙年に警戒したい「September Effect」【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/4a1ff88fa8e0ee18f2ea2044526b98d07c1f79c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "enishがSOLを最大1億円購入へ、アクティブ・トレジャリー事業の第1弾",
-        "url": "https://news.yahoo.co.jp/articles/d566ba316774b332a6988a069eec7608dead77c4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
-        "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップルのステーブルコイン「RLUSD」、時価総額2Bドル突破。XRPL上の発行額は約1Bドル",
-        "url": "https://news.yahoo.co.jp/articles/c1ceedf3bdc3a6de6c764b9f0cfda5d1a851b035",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "レボリュート、ユーロ連動ステーブルコイン「EURR」展開。ストライプ傘下ブリッジが発行",
+        "url": "https://news.yahoo.co.jp/articles/7e5c82c6b11e424414931d90185442588a2e4a80",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハイパーリキッド・ポリシー・センターとtrade[XYZ]、原油などのパーペチュアルをCFTCに提言",
+        "url": "https://news.yahoo.co.jp/articles/bd8012fe4b8b7fd3a6c6cfdddc8b3c508cad2227",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Bitfinex Securities、ニッケル関連トークン化証券「ALKN」を発表",
+        "url": "https://news.yahoo.co.jp/articles/b637639ae1d10fc5eba35e271d31dabcad1a0bbe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "“画期的”な「暗号資産」政策法案は2026年、議会を通過するとは期待しないほうがいい。そう予測トレーダーらは語る（海外）",
         "url": "https://news.yahoo.co.jp/articles/1f5aeb221cc6448fca46455de2b30b4d5f9112c3",
         "source": "Yahoo",
@@ -12001,24 +12034,6 @@
       {
         "title": "9月はなぜ株もビットコインも弱いのか──中間選挙年に警戒したい「September Effect」【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/4a1ff88fa8e0ee18f2ea2044526b98d07c1f79c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "enishがSOLを最大1億円購入へ、アクティブ・トレジャリー事業の第1弾",
-        "url": "https://news.yahoo.co.jp/articles/d566ba316774b332a6988a069eec7608dead77c4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
-        "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップルのステーブルコイン「RLUSD」、時価総額2Bドル突破。XRPL上の発行額は約1Bドル",
-        "url": "https://news.yahoo.co.jp/articles/c1ceedf3bdc3a6de6c764b9f0cfda5d1a851b035",
         "source": "Yahoo",
         "date": ""
       }
@@ -12177,76 +12192,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "コインチェック、電子決済手段等取引業登録を完了──1年5カ月ぶり、国内2社目",
-        "url": "https://news.yahoo.co.jp/articles/4742f14dc154276def718b3cef7bb1609ebe730c",
+        "title": "ビットコイン戻り高値、いよいよジャクソンホール本番へ【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/3f68a7bb718dcdd776a2377533cbc05845c940dc",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ハイパーリキッド、USDC準備資産収益の蓄積開始。HYPE買い戻し原資に＝報道",
-        "url": "https://news.yahoo.co.jp/articles/e6052db95a12ef8b0b5cf2d58c0e8ba6190bc138",
+        "title": "バイナンス創業者CZ、「ビットコイン（BTC）時価総額が次の強気相場で金を上回る可能性」に言及",
+        "url": "https://news.yahoo.co.jp/articles/cd629c4723a6c42c06832375df94467b2422c2ca",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "【速報】国内2社目、コインチェックが「電子決済手段等取引業」登録完了。ステーブルコイン事業に本格参入へ",
-        "url": "https://news.yahoo.co.jp/articles/8ecc30e50a55fa0c9174067c9bd1649ee7de9daf",
+        "title": "大阪府、ステーブルコイン決済など4事業に補助金。ハッシュポートやマイナウォレットら採択",
+        "url": "https://news.yahoo.co.jp/articles/fac3c708809db56d70f8e5e3a675f8014e178bf1",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "リップルのステーブルコイン「RLUSD」、時価総額2Bドル突破。XRPL上の発行額は約1Bドル",
-        "url": "https://news.yahoo.co.jp/articles/c1ceedf3bdc3a6de6c764b9f0cfda5d1a851b035",
+        "title": "ビザ、MAS主導の業界共同イニシアチブ「ブルーム」参加。ニウムとステーブルコイン清算実証へ",
+        "url": "https://news.yahoo.co.jp/articles/26a35029340e7514f1ab61ac865b1fe0f11b1b07",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "クリプトカード決済、「USDC」とBaseがそれぞれ首位。累計チャージ額138億ドル",
-        "url": "https://news.yahoo.co.jp/articles/4c62a8aaf431a68dd8acda1a2fd8fefa24fe1bbe",
+        "title": "レボリュート、ユーロ連動ステーブルコイン「EURR」展開。ストライプ傘下ブリッジが発行",
+        "url": "https://news.yahoo.co.jp/articles/7e5c82c6b11e424414931d90185442588a2e4a80",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米39州の銀行協会、業界所有のブロックチェーン網構築へ。「BankChain Alliance」設立",
-        "url": "https://news.yahoo.co.jp/articles/362b54f5f6390f0b32e1405300168b493476da29",
+        "title": "ハイパーリキッド・ポリシー・センターとtrade[XYZ]、原油などのパーペチュアルをCFTCに提言",
+        "url": "https://news.yahoo.co.jp/articles/bd8012fe4b8b7fd3a6c6cfdddc8b3c508cad2227",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "コインチェック、電子決済手段等取引業登録を完了──1年5カ月ぶり、国内2社目",
-        "url": "https://news.yahoo.co.jp/articles/4742f14dc154276def718b3cef7bb1609ebe730c",
+        "title": "ビットコイン戻り高値、いよいよジャクソンホール本番へ【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/3f68a7bb718dcdd776a2377533cbc05845c940dc",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ハイパーリキッド、USDC準備資産収益の蓄積開始。HYPE買い戻し原資に＝報道",
-        "url": "https://news.yahoo.co.jp/articles/e6052db95a12ef8b0b5cf2d58c0e8ba6190bc138",
+        "title": "バイナンス創業者CZ、「ビットコイン（BTC）時価総額が次の強気相場で金を上回る可能性」に言及",
+        "url": "https://news.yahoo.co.jp/articles/cd629c4723a6c42c06832375df94467b2422c2ca",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "【速報】国内2社目、コインチェックが「電子決済手段等取引業」登録完了。ステーブルコイン事業に本格参入へ",
-        "url": "https://news.yahoo.co.jp/articles/8ecc30e50a55fa0c9174067c9bd1649ee7de9daf",
+        "title": "大阪府、ステーブルコイン決済など4事業に補助金。ハッシュポートやマイナウォレットら採択",
+        "url": "https://news.yahoo.co.jp/articles/fac3c708809db56d70f8e5e3a675f8014e178bf1",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "リップルのステーブルコイン「RLUSD」、時価総額2Bドル突破。XRPL上の発行額は約1Bドル",
-        "url": "https://news.yahoo.co.jp/articles/c1ceedf3bdc3a6de6c764b9f0cfda5d1a851b035",
+        "title": "ビザ、MAS主導の業界共同イニシアチブ「ブルーム」参加。ニウムとステーブルコイン清算実証へ",
+        "url": "https://news.yahoo.co.jp/articles/26a35029340e7514f1ab61ac865b1fe0f11b1b07",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "クリプトカード決済、「USDC」とBaseがそれぞれ首位。累計チャージ額138億ドル",
-        "url": "https://news.yahoo.co.jp/articles/4c62a8aaf431a68dd8acda1a2fd8fefa24fe1bbe",
+        "title": "レボリュート、ユーロ連動ステーブルコイン「EURR」展開。ストライプ傘下ブリッジが発行",
+        "url": "https://news.yahoo.co.jp/articles/7e5c82c6b11e424414931d90185442588a2e4a80",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米39州の銀行協会、業界所有のブロックチェーン網構築へ。「BankChain Alliance」設立",
-        "url": "https://news.yahoo.co.jp/articles/362b54f5f6390f0b32e1405300168b493476da29",
+        "title": "ハイパーリキッド・ポリシー・センターとtrade[XYZ]、原油などのパーペチュアルをCFTCに提言",
+        "url": "https://news.yahoo.co.jp/articles/bd8012fe4b8b7fd3a6c6cfdddc8b3c508cad2227",
         "source": "Yahoo",
         "date": ""
       }
@@ -12981,6 +12996,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "韓国の走行データを海外活用へ",
+        "url": "https://news.yahoo.co.jp/articles/e7cf5dc86df0443d3f7dddb11a39b52d4aaf25a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "KDDI地図サイトで個人宅の住所・電話番号が「丸見え」",
         "url": "https://news.yahoo.co.jp/articles/ecbd60ef6739bf646f648e1a244114646d320453",
         "source": "Yahoo",
@@ -13007,18 +13028,18 @@
       {
         "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
         "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個情委、メール漏えいでKDDI行政指導",
-        "url": "https://news.yahoo.co.jp/articles/1d32533a7fa5b05e83c578385bcf42f9736d9838",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "韓国の走行データを海外活用へ",
+        "url": "https://news.yahoo.co.jp/articles/e7cf5dc86df0443d3f7dddb11a39b52d4aaf25a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "KDDI地図サイトで個人宅の住所・電話番号が「丸見え」",
         "url": "https://news.yahoo.co.jp/articles/ecbd60ef6739bf646f648e1a244114646d320453",
         "source": "Yahoo",
@@ -13045,18 +13066,18 @@
       {
         "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
         "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個情委、メール漏えいでKDDI行政指導",
-        "url": "https://news.yahoo.co.jp/articles/1d32533a7fa5b05e83c578385bcf42f9736d9838",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "韓国の走行データを海外活用へ",
+        "url": "https://news.yahoo.co.jp/articles/e7cf5dc86df0443d3f7dddb11a39b52d4aaf25a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "KDDI地図サイトで個人宅の住所・電話番号が「丸見え」",
         "url": "https://news.yahoo.co.jp/articles/ecbd60ef6739bf646f648e1a244114646d320453",
         "source": "Yahoo",
@@ -13083,12 +13104,6 @@
       {
         "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
         "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個情委、メール漏えいでKDDI行政指導",
-        "url": "https://news.yahoo.co.jp/articles/1d32533a7fa5b05e83c578385bcf42f9736d9838",
         "source": "Yahoo",
         "date": ""
       }
