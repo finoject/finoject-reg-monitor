@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T06:19:45.448Z",
+  "generatedAt": "2026-08-28T16:45:54.449Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,187 @@
         "第57回金融審議会総会・第45回金融分科会合同会合が令和8年8月31日13時～15時に中央合同庁舎第7号館13階及びオンライン形式で開催される。",
         "傍聴希望者は金融庁公式YouTubeチャンネルから視聴でき、会議後に議事録が金融庁ウェブサイトにて公表される予定。",
         "問合せは企画市場局総務課（電話0570-016811またはウェブサイト受付）で受け付ける。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]TOKYO PRO Marketへの上場申請：ハイネスコーポレーション（株）",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T16:45:54.449Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-08-28T16:45:59.689Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]グロース市場からスタンダード市場への変更：ＺＥＴＡ（株）",
+      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T16:45:54.449Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
+        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
+        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-08-28T16:45:59.690Z"
+    },
+    {
+      "agency": "金融庁",
+      "title": "令和７年保険業法改正に係る内閣府令及び「保険会社向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等の公表",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20260828/20260828.html",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T16:45:54.449Z",
+      "lawrefs": [
+        {
+          "id": "412AC0000000101",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "金融サービスの提供及び利用環境の整備等に関する法律"
+        },
+        {
+          "id": "415AC0000000057",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "個人情報の保護に関する法律"
+        }
+      ],
+      "enriched": "2026-08-28T16:46:01.909Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和10年3月1日から、乗合代理店による比較説明・推奨販売に係る保険業法施行規則及び監督指針が改正・適用される。顧客の最善の利益を勘案した適切な比較推奨販売の確保を目的とした内容。",
+        "乗合代理店は保険業法第294条の3に基づく体制整備義務を履行し、改正内容を踏まえて可能な限り速やかに業務見直しを行う必要がある。金融庁の考え方は別紙に具体的に示される予定。",
+        "本改正は有識者会議及び金融審議会の報告書を踏まえた、損害保険業における乗合代理店の比較推奨販売適正化を目的とする改正であり、令和7年12月〜令和8年1月のパブリックコメントで759件の意見を得た。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）サニーサイドアップグループ",
+      "url": "https://www.jpx.co.jp/news/1023/20260828-11.html",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T16:45:54.449Z",
+      "enriched": "2026-08-28T16:46:01.909Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）サニーサイドアップグループ（コード2180、スタンダード市場）の株式は、特定の者以外の株主の所有するすべての株式が1株に満たない端数となる割合で株式併合を行うため、有価証券上場規程第601条第1項第18号に該当し上場廃止となる。",
+        "投資家および取引参加者は、同社株式について2026年8月28日から9月15日までの整理銘柄指定期間中に保有株式の処分検討が必要で、2026年8月31日以降は代用有価証券から除外される。",
+        "上場廃止日は2026年9月16日（水）。ただし速やかに上場廃止すべき事情が発生した場合は整理銘柄指定期間および上場廃止日が変更されることがある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）電通総研",
+      "url": "https://www.jpx.co.jp/news/1023/20260828-13.html",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T16:45:54.449Z",
+      "enriched": "2026-08-28T16:46:01.909Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）電通総研の株式が監理銘柄（確認中）に指定される。理由は公開買付者による合同会社VICが、特定の者以外の株主の全株式を1株未満の端数となる割合で株式併合を行うこと（有価証券上場規程施行規則第604条第1項第24号）に該当するため。",
+        "（株）電通総研は公開買付けに賛同を表明し、株主総会で当該株式併合議案が承認された場合、同社株式は上場廃止となる。投資家は監理銘柄（確認中）の指定期間中の取引リスクに留意する必要がある。",
+        "監理銘柄（確認中）指定は2026年8月28日（金）から東京証券取引所が上場廃止基準該当性を認定する日まで続く。東証プライム市場コード4812の同社株式が対象（有価証券上場規程施行規則第604条第1項第24号）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：iFreeETF ゴールドプラスインカム（コード626A）",
+      "url": "https://www.jpx.co.jp/news/1030/20260828-01.html",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T16:45:54.449Z",
+      "enriched": "2026-08-28T16:46:01.909Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "iFreeETF ゴールドプラスインカム（コード626A）は2026年9月4日に東証で新規上場し、呼値の単位は「ETF等（1口）呼値テーブル」が適用される。",
+        "取引参加者および市場参加者は同銘柄の売買注文時に、ETF等1口単位の呼値テーブルに基づいた呼値設定で対応する必要がある。",
+        "適用開始は2026年9月4日の新規上場日からで、東京証券取引所規則による呼値の単位に関する規定に従う。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：ＮＥＸＴ ＦＵＮＤＳ Ｓｏｌａｃｔｉｖｅグローバル・メモリ指数連動型上場投信（野村アセットマネジメント）",
+      "url": "https://www.jpx.co.jp/news/1070/20260828.html",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T16:45:54.449Z",
+      "enriched": "2026-08-28T16:46:01.909Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "野村アセットマネジメント運用のNEXT FUNDS Solactiveグローバル・メモリ指数連動型上場投信（コード639A）が東証に新規上場承認され、上場予定日は2026年9月30日。信託報酬は0.55%（税込0.605%）以内、売買単位は10口。",
+        "投資家は全国の証券会社で本ETFを購入・売買でき、特定口座での取扱いが可能。韓国・台湾を含む先進国のメモリ産業関連企業上位20銘柄（時価総額加重、個別銘柄最大25%）に投資。",
+        "証券会社は2026年9月30日の上場日から成行売呼値および成行買呼値での売買を取り扱い可能。日本取引所自主規制法人の審査結果に基づき承認された内国ETF。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：2銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260828-02.html",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T16:45:54.449Z",
+      "enriched": "2026-08-28T16:46:01.909Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証は2銘柄（トライアイズ4840・シード7743）について、8月31日より制限値幅上限を600円に拡大する。これは2営業日連続してストップ高（安）で売買がない、または午後終場でのみストップ値で成立した場合の対応。",
+        "取引参加者・投資家は両銘柄の注文発注時に新たな制限値幅を認識し、成行注文での想定外の約定や値幅拡大の仕組みに留意する必要がある。",
+        "制限値幅拡大は8月31日から適用され、ストップ高（安）以外で売買成立した翌営業日に通常に戻るなど、取引所の自主規制に基づく措置である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）ジモティー",
+      "url": "https://www.jpx.co.jp/news/1023/20260828-12.html",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T16:45:54.449Z",
+      "enriched": "2026-08-28T16:46:01.909Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ジモティー（コード7082、グロース市場上場）は、特定の者以外の株主の所有株式を1株未満の端数とする株式併合を実施するため、有価証券上場規程第601条第1項第18号に該当し上場廃止される。",
+        "投資家は2026年8月28日から9月28日の整理銘柄指定期間に売却を完了する必要があり、同年8月31日以降、同社株式は信用取引委託保証金・取引参加者保証金等の代用有価証券から除外される。",
+        "上場廃止日は2026年9月29日（火）だが、速やかに上場廃止すべき事情発生時は整理銘柄指定期間及び廃止日が変更される可能性がある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]「JPXレポート2026」を公表しました",
+      "url": "https://www.jpx.co.jp/corporate/investor-relations/ir-library/integrated-report/index.html",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T16:45:54.449Z",
+      "enriched": "2026-08-28T16:46:01.910Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPXレポート2026を統合報告書として公表し、企業理念・長期ビジョン・中期経営計画を含む価値創造戦略を開示。東証現物株式市場シェア約80%、デリバティブ78商品、清算実績約90%を記載。",
+        "投資者・株主をはじめステークホルダーは本報告書を通じてJPXグループの戦略方針・ビジョンTarget2030（グローバル総合金融・情報プラットフォーム化）の進捗を把握し投資判断の参考とすることが可能。",
+        "2026年8月28日付で公表された統合報告書であり、過去のJPXレポート（2015～2025年版）、有価証券報告書、コーポレート・ガバナンス報告書、サステナビリティ情報とともに参照対象となる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "取扱い再開のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20280828-001/",
+      "date": "2026-08-28",
+      "detectedAt": "2026-08-28T16:45:54.449Z",
+      "enriched": "2026-08-28T16:46:01.910Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "グラム(トンコイン)(ティッカーコード:GRAM/TON)の取扱いを再開し、ビットトレード株式会社が同銘柄を取り扱い可能になる。",
+        "JVCEA加盟の暗号資産取扱事業者は、2026年8月28日15時からGRAM(TON)の取扱再開に対応する必要がある。",
+        "本通知は統計情報・取扱銘柄関連カテゴリーでJVCEAが公表した取扱い銘柄の変更である。"
       ],
       "aiSumV": 3
     },
@@ -258,22 +439,6 @@
         "整理銘柄指定期間は2026年8月25日から9月25日まで、上場廃止日は2026年9月26日、ただし速やかな上場廃止事由発生時は当該期間及び廃止日を変更することがあると定めた。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）オーリーズ",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-08-25",
-      "detectedAt": "2026-08-25T07:28:25.023Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-25T07:28:30.764Z"
     },
     {
       "agency": "日本証券業協会",
@@ -2973,22 +3138,6 @@
         "本注意喚起は2026年7月31日付でJVCEA会員に周知され、義援金募集を装った振込詐欺等全般への警戒を求めている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]グロース市場からスタンダード市場への変更：（株）ＪＭＣ",
-      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
-      "date": "2026-07-31",
-      "detectedAt": "2026-07-31T08:19:10.867Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
-        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
-        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-31T08:19:16.564Z"
     },
     {
       "agency": "日本銀行",
@@ -11964,82 +12113,88 @@
     ],
     "429M60000002007": [
       {
+        "title": "アップビット運営元ドゥナムとVisaが提携、ステーブルコイン決済・送金で協業",
+        "url": "https://news.yahoo.co.jp/articles/0557e80f7ba1e82dd30826feb73bedfea2351076",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "メタプラネットCEO「ビットコインは底を打った」──Bitcoin Asia基調講演",
+        "url": "https://news.yahoo.co.jp/articles/9548a161bffb359e29d213f60a936277e629cceb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Sui共同創業者発案の「Havenex」公表、金融機関向けの規制対応取引インフラ構築へ",
+        "url": "https://news.yahoo.co.jp/articles/9e60221d7d4e5a26be5d0afe593be47854a3402f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BTC（ビットコイン）は米雇用統計をにらみ方向感を探る展開か、米イラン情勢には警戒【マネックス証券】",
+        "url": "https://news.yahoo.co.jp/articles/6bb576d35bf3182f4b44b7a660528cf9c4cad8c0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットゴー、NYDIGの機関投資家向け取引事業を買収。デリバティブ・ファイナンス機能強化",
+        "url": "https://news.yahoo.co.jp/articles/34d4764c5f55759846d733a25a10671ee476afc3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "レボリュート、ユーロ連動ステーブルコイン「EURR」展開。ストライプ傘下ブリッジが発行",
         "url": "https://news.yahoo.co.jp/articles/7e5c82c6b11e424414931d90185442588a2e4a80",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパーリキッド・ポリシー・センターとtrade[XYZ]、原油などのパーペチュアルをCFTCに提言",
-        "url": "https://news.yahoo.co.jp/articles/bd8012fe4b8b7fd3a6c6cfdddc8b3c508cad2227",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitfinex Securities、ニッケル関連トークン化証券「ALKN」を発表",
-        "url": "https://news.yahoo.co.jp/articles/b637639ae1d10fc5eba35e271d31dabcad1a0bbe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "“画期的”な「暗号資産」政策法案は2026年、議会を通過するとは期待しないほうがいい。そう予測トレーダーらは語る（海外）",
-        "url": "https://news.yahoo.co.jp/articles/1f5aeb221cc6448fca46455de2b30b4d5f9112c3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
-        "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "9月はなぜ株もビットコインも弱いのか──中間選挙年に警戒したい「September Effect」【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/4a1ff88fa8e0ee18f2ea2044526b98d07c1f79c2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "アップビット運営元ドゥナムとVisaが提携、ステーブルコイン決済・送金で協業",
+        "url": "https://news.yahoo.co.jp/articles/0557e80f7ba1e82dd30826feb73bedfea2351076",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "メタプラネットCEO「ビットコインは底を打った」──Bitcoin Asia基調講演",
+        "url": "https://news.yahoo.co.jp/articles/9548a161bffb359e29d213f60a936277e629cceb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Sui共同創業者発案の「Havenex」公表、金融機関向けの規制対応取引インフラ構築へ",
+        "url": "https://news.yahoo.co.jp/articles/9e60221d7d4e5a26be5d0afe593be47854a3402f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BTC（ビットコイン）は米雇用統計をにらみ方向感を探る展開か、米イラン情勢には警戒【マネックス証券】",
+        "url": "https://news.yahoo.co.jp/articles/6bb576d35bf3182f4b44b7a660528cf9c4cad8c0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットゴー、NYDIGの機関投資家向け取引事業を買収。デリバティブ・ファイナンス機能強化",
+        "url": "https://news.yahoo.co.jp/articles/34d4764c5f55759846d733a25a10671ee476afc3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "レボリュート、ユーロ連動ステーブルコイン「EURR」展開。ストライプ傘下ブリッジが発行",
         "url": "https://news.yahoo.co.jp/articles/7e5c82c6b11e424414931d90185442588a2e4a80",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパーリキッド・ポリシー・センターとtrade[XYZ]、原油などのパーペチュアルをCFTCに提言",
-        "url": "https://news.yahoo.co.jp/articles/bd8012fe4b8b7fd3a6c6cfdddc8b3c508cad2227",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitfinex Securities、ニッケル関連トークン化証券「ALKN」を発表",
-        "url": "https://news.yahoo.co.jp/articles/b637639ae1d10fc5eba35e271d31dabcad1a0bbe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "“画期的”な「暗号資産」政策法案は2026年、議会を通過するとは期待しないほうがいい。そう予測トレーダーらは語る（海外）",
-        "url": "https://news.yahoo.co.jp/articles/1f5aeb221cc6448fca46455de2b30b4d5f9112c3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
-        "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "9月はなぜ株もビットコインも弱いのか──中間選挙年に警戒したい「September Effect」【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/4a1ff88fa8e0ee18f2ea2044526b98d07c1f79c2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422M60000002004": [
       {
+        "title": "トルネード・キャッシュ開発者ローマン・ストーム、2罪状の再審が2027年4月に延期",
+        "url": "https://news.yahoo.co.jp/articles/0454998123759f3edeb9bc759efa213e14ec7395",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
         "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
         "source": "Yahoo",
@@ -12066,18 +12221,18 @@
       {
         "title": "アパホテル宿泊者向け、JPYC決済の観光実証開始",
         "url": "https://news.yahoo.co.jp/articles/38b043abe636a67e050ca5c390c62183f5cabd34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC、資金移動業登録から丸1年──総流通量28億円の歩み",
-        "url": "https://news.yahoo.co.jp/articles/54629512ed03349aeec6c2659ac1ff17c3950eb1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "トルネード・キャッシュ開発者ローマン・ストーム、2罪状の再審が2027年4月に延期",
+        "url": "https://news.yahoo.co.jp/articles/0454998123759f3edeb9bc759efa213e14ec7395",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
         "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
         "source": "Yahoo",
@@ -12104,12 +12259,6 @@
       {
         "title": "アパホテル宿泊者向け、JPYC決済の観光実証開始",
         "url": "https://news.yahoo.co.jp/articles/38b043abe636a67e050ca5c390c62183f5cabd34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC、資金移動業登録から丸1年──総流通量28億円の歩み",
-        "url": "https://news.yahoo.co.jp/articles/54629512ed03349aeec6c2659ac1ff17c3950eb1",
         "source": "Yahoo",
         "date": ""
       }
@@ -12192,76 +12341,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "ビットコイン戻り高値、いよいよジャクソンホール本番へ【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/3f68a7bb718dcdd776a2377533cbc05845c940dc",
+        "title": "ウィメイド、「突撃！悪魔団」にブロックチェーン導入、WEMIX PLAYで事前登録開始",
+        "url": "https://news.yahoo.co.jp/articles/4d1952ab5d31e46a0f9448dbca15ff94a3e8a430",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "バイナンス創業者CZ、「ビットコイン（BTC）時価総額が次の強気相場で金を上回る可能性」に言及",
-        "url": "https://news.yahoo.co.jp/articles/cd629c4723a6c42c06832375df94467b2422c2ca",
+        "title": "アップビット運営元ドゥナムとVisaが提携、ステーブルコイン決済・送金で協業",
+        "url": "https://news.yahoo.co.jp/articles/0557e80f7ba1e82dd30826feb73bedfea2351076",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "大阪府、ステーブルコイン決済など4事業に補助金。ハッシュポートやマイナウォレットら採択",
-        "url": "https://news.yahoo.co.jp/articles/fac3c708809db56d70f8e5e3a675f8014e178bf1",
+        "title": "YZiラボ、固定金利DeFi「タームマックス」に戦略投資",
+        "url": "https://news.yahoo.co.jp/articles/aced062a91f4d6025e0c3869cf279aa632b63f03",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビザ、MAS主導の業界共同イニシアチブ「ブルーム」参加。ニウムとステーブルコイン清算実証へ",
-        "url": "https://news.yahoo.co.jp/articles/26a35029340e7514f1ab61ac865b1fe0f11b1b07",
+        "title": "Pump[.]funがHyperEVM対応、アプリからUSDCでトークン取引可能に",
+        "url": "https://news.yahoo.co.jp/articles/0f19acfcb2460936367ab998414642f91ccd433b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "レボリュート、ユーロ連動ステーブルコイン「EURR」展開。ストライプ傘下ブリッジが発行",
-        "url": "https://news.yahoo.co.jp/articles/7e5c82c6b11e424414931d90185442588a2e4a80",
+        "title": "SBI、インドネシア投資大手アジャイブの株20％取得、デジタル資産で連携",
+        "url": "https://news.yahoo.co.jp/articles/b3350db5f1cd81e90f381adb2958d725f55632e6",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ハイパーリキッド・ポリシー・センターとtrade[XYZ]、原油などのパーペチュアルをCFTCに提言",
-        "url": "https://news.yahoo.co.jp/articles/bd8012fe4b8b7fd3a6c6cfdddc8b3c508cad2227",
+        "title": "SBI、インドネシア証券大手に約430億円出資──東南アジアの暗号資産市場開拓へ",
+        "url": "https://news.yahoo.co.jp/articles/fe817f99d61f05fb2784efa3cafd1976b7ea25ba",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "ビットコイン戻り高値、いよいよジャクソンホール本番へ【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/3f68a7bb718dcdd776a2377533cbc05845c940dc",
+        "title": "ウィメイド、「突撃！悪魔団」にブロックチェーン導入、WEMIX PLAYで事前登録開始",
+        "url": "https://news.yahoo.co.jp/articles/4d1952ab5d31e46a0f9448dbca15ff94a3e8a430",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "バイナンス創業者CZ、「ビットコイン（BTC）時価総額が次の強気相場で金を上回る可能性」に言及",
-        "url": "https://news.yahoo.co.jp/articles/cd629c4723a6c42c06832375df94467b2422c2ca",
+        "title": "アップビット運営元ドゥナムとVisaが提携、ステーブルコイン決済・送金で協業",
+        "url": "https://news.yahoo.co.jp/articles/0557e80f7ba1e82dd30826feb73bedfea2351076",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "大阪府、ステーブルコイン決済など4事業に補助金。ハッシュポートやマイナウォレットら採択",
-        "url": "https://news.yahoo.co.jp/articles/fac3c708809db56d70f8e5e3a675f8014e178bf1",
+        "title": "YZiラボ、固定金利DeFi「タームマックス」に戦略投資",
+        "url": "https://news.yahoo.co.jp/articles/aced062a91f4d6025e0c3869cf279aa632b63f03",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビザ、MAS主導の業界共同イニシアチブ「ブルーム」参加。ニウムとステーブルコイン清算実証へ",
-        "url": "https://news.yahoo.co.jp/articles/26a35029340e7514f1ab61ac865b1fe0f11b1b07",
+        "title": "Pump[.]funがHyperEVM対応、アプリからUSDCでトークン取引可能に",
+        "url": "https://news.yahoo.co.jp/articles/0f19acfcb2460936367ab998414642f91ccd433b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "レボリュート、ユーロ連動ステーブルコイン「EURR」展開。ストライプ傘下ブリッジが発行",
-        "url": "https://news.yahoo.co.jp/articles/7e5c82c6b11e424414931d90185442588a2e4a80",
+        "title": "SBI、インドネシア投資大手アジャイブの株20％取得、デジタル資産で連携",
+        "url": "https://news.yahoo.co.jp/articles/b3350db5f1cd81e90f381adb2958d725f55632e6",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ハイパーリキッド・ポリシー・センターとtrade[XYZ]、原油などのパーペチュアルをCFTCに提言",
-        "url": "https://news.yahoo.co.jp/articles/bd8012fe4b8b7fd3a6c6cfdddc8b3c508cad2227",
+        "title": "SBI、インドネシア証券大手に約430億円出資──東南アジアの暗号資産市場開拓へ",
+        "url": "https://news.yahoo.co.jp/articles/fe817f99d61f05fb2784efa3cafd1976b7ea25ba",
         "source": "Yahoo",
         "date": ""
       }
@@ -12996,6 +13145,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "再審法をめぐる山は動いた 今後も動かし続けねばならない 鴨志田祐美［弁護士］／周防正行［映画監督］／永田浩三［ジャーナリスト］",
+        "url": "https://news.yahoo.co.jp/articles/6b56ff5aef66809358ec224615793e25e9b98032",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国の走行データを海外活用へ",
         "url": "https://news.yahoo.co.jp/articles/e7cf5dc86df0443d3f7dddb11a39b52d4aaf25a6",
         "source": "Yahoo",
@@ -13022,18 +13177,18 @@
       {
         "title": "ジオテクノロジーズと日本IBM、AIを活用した地理空間基盤構築などの共同開発に向けDX/AIパートナーシップを締結",
         "url": "https://news.yahoo.co.jp/articles/5cf5a2a4f7eece36978a935cac15b1bb22e53621",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
-        "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "再審法をめぐる山は動いた 今後も動かし続けねばならない 鴨志田祐美［弁護士］／周防正行［映画監督］／永田浩三［ジャーナリスト］",
+        "url": "https://news.yahoo.co.jp/articles/6b56ff5aef66809358ec224615793e25e9b98032",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国の走行データを海外活用へ",
         "url": "https://news.yahoo.co.jp/articles/e7cf5dc86df0443d3f7dddb11a39b52d4aaf25a6",
         "source": "Yahoo",
@@ -13060,18 +13215,18 @@
       {
         "title": "ジオテクノロジーズと日本IBM、AIを活用した地理空間基盤構築などの共同開発に向けDX/AIパートナーシップを締結",
         "url": "https://news.yahoo.co.jp/articles/5cf5a2a4f7eece36978a935cac15b1bb22e53621",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
-        "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "再審法をめぐる山は動いた 今後も動かし続けねばならない 鴨志田祐美［弁護士］／周防正行［映画監督］／永田浩三［ジャーナリスト］",
+        "url": "https://news.yahoo.co.jp/articles/6b56ff5aef66809358ec224615793e25e9b98032",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国の走行データを海外活用へ",
         "url": "https://news.yahoo.co.jp/articles/e7cf5dc86df0443d3f7dddb11a39b52d4aaf25a6",
         "source": "Yahoo",
@@ -13098,12 +13253,6 @@
       {
         "title": "ジオテクノロジーズと日本IBM、AIを活用した地理空間基盤構築などの共同開発に向けDX/AIパートナーシップを締結",
         "url": "https://news.yahoo.co.jp/articles/5cf5a2a4f7eece36978a935cac15b1bb22e53621",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「とんでもない抜け穴がある！」改正個人情報保護法に「吉本の美容将軍」が懸念",
-        "url": "https://news.yahoo.co.jp/articles/c8d9c03e78e06403fe07a7e07e479a17cac63272",
         "source": "Yahoo",
         "date": ""
       }
