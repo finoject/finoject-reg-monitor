@@ -99,9 +99,27 @@ fi
 mkdir -p "$HOME/Library/LaunchAgents"
 sed "s|__HOME__|$HOME|g" "$SRC_DIR/$LABEL.plist" > "$PLIST_DEST"
 
-# 既に登録済みなら一度外してから入れ直す（plist更新が反映されないのを防ぐ）
+# 既に登録済みなら一度外してから入れ直す（plist更新が反映されないのを防ぐ）。
+# bootout は非同期で、完了前に bootstrap すると
+# 「Bootstrap failed: 5: Input/output error」で失敗する。消えるまで待つ。
 launchctl bootout "gui/$(id -u)/$LABEL" 2>/dev/null || true
-launchctl bootstrap "gui/$(id -u)" "$PLIST_DEST"
+for _ in $(seq 1 30); do
+  launchctl print "gui/$(id -u)/$LABEL" >/dev/null 2>&1 || break
+  sleep 0.5
+done
+
+if ! launchctl bootstrap "gui/$(id -u)" "$PLIST_DEST" 2>&1; then
+  echo >&2
+  echo "ERROR: launchd への登録に失敗しました。" >&2
+  echo "       ほぼ確実に「既に登録されている」ことが原因です。手動で外してから、もう一度このスクリプトを実行してください:" >&2
+  echo >&2
+  echo "         launchctl bootout gui/$(id -u)/$LABEL" >&2
+  echo "         bash $SRC_DIR/install.sh" >&2
+  echo >&2
+  echo "       現在の登録状態:" >&2
+  launchctl list 2>/dev/null | grep -F "$LABEL" >&2 || echo "         （launchctl list には出ていません）" >&2
+  exit 1
+fi
 launchctl enable "gui/$(id -u)/$LABEL" 2>/dev/null || true
 
 echo "登録しました: ${LABEL}（ログイン時に自動起動・落ちたら自動再起動）"
