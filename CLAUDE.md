@@ -27,19 +27,36 @@
 
 ### セッションを母艦で動かす方法（2026-08-29 実証）
 
-**アプリの「新規セッション」ボタンからは母艦を選べない。**
-iPhone / ThinkPad / claude.ai/code のどこから押しても、立つのは Anthropic のクラウド上の
-Linux コンテナ（Ubuntu、ホスト名 `vm`）。設定漏れではなく、ボタン側に環境の選択肢が無い。
-2026-08-26〜08-29 に iPhone から作られたセッションは、**5本とも例外なくクラウド**だった。
+**根本原因は「環境セレクタが Default のままだったこと」。** 選択肢は存在する。
+2026-08-26〜08-29 に iPhone から作られたセッションが5本とも例外なくクラウドだったのは、
+このセレクタを一度も切り替えていなかったため。
 
-母艦でセッションを動かす手段は次の2つ。**「母艦では作れない」は誤り。**
+公式ドキュメント（Cloud environments）の記述:
 
-1. **既にあるセッションを開く。** 母艦の `claude remote-control` が公開したもの。
-   アプリのセッション一覧に出るので、そこから選ぶ。
-2. **どのセッションからでも新規に作れる。** Claude Code Remote の `create_session` に
-   `environment_id: env_01Cgj7qVTfvNvpA1kNhxRvCG` を渡す。
-   **クラウド側のセッションからでも母艦上にセッションが立ち**、そのままアプリの一覧に出る。
-   `prompt` を付ければ最初の指示も同時に渡せる。不要になったら `archive_session` で畳める。
+> When you have more than one environment, sessions choose one per surface:
+> On the web, the Desktop app, and the mobile app, sessions use the environment
+> shown in the selector.
+
+**恒久的な直し方（これが本丸）**
+
+1. iPhone の Claude アプリ、または ThinkPad で claude.ai/code を開く
+2. **メッセージ入力欄のすぐ上の行**にある**雲のアイコン**（現在の環境名が出ている）を選ぶ
+   — 設定ページからは行けない。**この雲アイコンだけが入口**（ドキュメント明記）
+3. 開いたメニューの **Remote Control** セクションから **mac-mini:ClaudeCode:df6a** を選ぶ
+
+以後、そのサーフェスで作る新規セッションは母艦に立つ。
+
+**その場しのぎの手段（セレクタが使えないときだけ）**
+
+- 既にあるセッションを開く。母艦の `claude remote-control` が公開したもの。
+- `create_session` に `environment_id: env_01Cgj7qVTfvNvpA1kNhxRvCG` を渡す。
+  クラウド側のセッションからでも母艦上にセッションが立つ（2026-08-29 実証）。
+  ただし**これは対症療法**。毎回「母艦でやって」と言わせる時点で解決していない。
+  まずセレクタを直すこと。
+
+**CLI は事情が違う。** `claude --cloud` 等の CLI 経路は、明示指定が無いと
+**bridge 環境を除外して**フォールバックする（ドキュメント明記）。CLI から母艦を
+既定にしたい場合は `/remote-env` で選ぶ（`remote.defaultEnvironmentId` に保存される）。
 
 環境IDの対応（`list_environments` で確認できる）:
 
