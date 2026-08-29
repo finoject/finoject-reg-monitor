@@ -40,7 +40,7 @@ launchd（LaunchAgent・ログイン時に起動、落ちたら KeepAlive で再
 
 | ファイル | 役割 |
 |---|---|
-| `mothership.sh` | 実行本体。多重起動防止／ネットワーク待ち／pty割り当て／生存見張り／異常通知 |
+| `mothership.sh` | 実行本体。既存セッションの引き継ぎ／多重起動防止／ネットワーク待ち／pty割り当て／生存見張り／異常通知 |
 | `com.finoject.mothership.plist` | launchd定義テンプレート（`__HOME__` を置換して使う） |
 | `config.env.example` | 設定テンプレート。`~/mothership/config.env` にコピーして使う（**コミットしない**） |
 | `install.sh` | 配置・`__HOME__`置換・launchd登録 |
@@ -80,6 +80,7 @@ bash ops/mothership/install.sh --uninstall
 |---|---|---|
 | `MOTHERSHIP_SESSION_NAME` | `母艦` | Remote Control セッションの表示名 |
 | `MOTHERSHIP_PTY` | `auto` | `tmux` / `script` / `auto`（tmuxがあればtmux） |
+| `MOTHERSHIP_TMUX_SESSION` | `bokan` | 手動運用と同じ名前。**既に在れば新規に立てず引き継ぐ**（母艦の二重起動を防ぐ） |
 | `MOTHERSHIP_WORKDIR` | `$HOME` | claude を起動する作業ディレクトリ |
 | `MOTHERSHIP_NET_WAIT_SEC` | `180` | 再起動直後にネットワーク復帰を待つ上限 |
 | `MOTHERSHIP_SLACK_WEBHOOK_URL` | 未設定 | 母艦が落ちた時の通知先。**母艦経由でない経路**なのが要点 |
@@ -108,6 +109,12 @@ bash ops/mothership/install.sh --uninstall
 
 ## これで直らないもの
 
+- **母艦の画面でメニューやダイアログが開いたまま詰まっている（2026-08-29 の実際の障害）**:
+  `/remote-control` を実行するとメニューが開く。それを閉じないでいると、
+  **メッセージは届いているのに処理されず溜まる**。プロセスは生きているので、
+  このスクリプトも launchd も何も検知できない。Jump で母艦の画面を見て
+  `Escape` を1回送るのが唯一の対処。**外から見える記録では通常の不達と区別がつかない**ので、
+  母艦が応答しないときは電源より先にこれを疑うこと。
 - **母艦の電源が物理的に切れている**: `power-settings.sh` の `autorestart 1` で停電復帰はするが、
   手で電源を落とされたら戻らない。
 - **自動ログインが無効／FileVault有効**: LaunchAgent は GUI ログイン中しか動かない。
