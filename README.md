@@ -58,7 +58,8 @@
 
 | ディレクトリ | 役割 |
 |---|---|
-| [`ops/healthcheck/`](ops/healthcheck/) | 毎朝7:00の自己点検（MCP接続・freee/Gmail認証・巡回の生存・ディスク）。異常時のみSlack通知 |
+| [`ops/healthcheck/`](ops/healthcheck/) | 母艦上で毎朝7:00の自己点検（MCP接続・freee/Gmail認証・巡回の生存・ディスク）。異常時のみSlack DM |
+| [`ops/watchdog/`](ops/watchdog/) | クラウド上で2時間おきの監視（巡回の鮮度・母艦の生死・母艦の「詰まり」）。母艦の電源に依存しない |
 
 導入手順は [ops/healthcheck/README.md](ops/healthcheck/README.md) を参照。
 
