@@ -1,6 +1,6 @@
 # finoject-reg-monitor
 
-プロジェクトの中身は [README.md](README.md)、母艦の運用は [ops/mothership/README.md](ops/mothership/README.md) を参照。
+プロジェクトの中身は [README.md](README.md)、母艦の運用は [ops/healthcheck/README.md](ops/healthcheck/README.md) を参照。
 
 ---
 
@@ -18,6 +18,24 @@
 - **Jump で接続できること自体が診断になる**: 接続できた＝Mac は起動していてネットにもいる。
 - 電源は切っていない。ノースリープ設定も適用済み（ユーザー申告）。
   したがって「電源を入れてください」「スリープから起こしてください」は的外れ。
+
+### 母艦について、作る前に知っておくこと
+
+- **Remote Control の常駐化は既に済んでいる。作り直さないこと。**
+  `~/Library/LaunchAgents/com.finoject.bokan-remote-control.plist` が
+  RunAtLoad ＋ StartInterval 60秒で `~/Vault/ClaudeCode/bokan/bokan-watchdog.sh` を回している。
+  tmux セッション名は `bokan`、起動形式は `claude remote-control --name '母艦'`、
+  ログは `~/Library/Logs/bokan-remote-control.log`。
+  （2026-08-29、これを確認せずに launchd 常駐化を一式作ってしまい、全部捨てた）
+- **リポジトリはホーム直下ではなく `~/Vault/ClaudeCode/` の下**。
+  例: `~/Vault/ClaudeCode/finoject-reg-monitor`
+- **シェルスクリプトで `$VAR` の直後に全角文字を置かない。** 母艦の bash は 3.2 で
+  変数名の切り出しがマルチバイト非対応のため、`"$LABEL（…）"` は
+  `LABEL?: unbound variable` で落ちる。必ず `"${LABEL}（…）"` と波括弧で閉じる。
+  Linux の bash 5 では正しく動くのでテストをすり抜ける。
+- **Windows 側で触ったファイルが CRLF になって入ってくる。**
+  `git status` で全ファイルが変更に見えたら、まず
+  `git diff -w --ignore-cr-at-eol` で差分が消えるか確認する。
 
 ## `computer_unreachable` の読み方（2026-08-29 の実例つき）
 

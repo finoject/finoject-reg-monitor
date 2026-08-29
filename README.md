@@ -53,16 +53,19 @@
 
 ## 母艦・運用（`ops/`）
 
-巡回そのものは GitHub Actions で動くので母艦に依存しないが、Remote Control セッション（`bridge`）と
-MCP認証は母艦（Mac mini）に依存する。その2点を支えるのが `ops/`。
+巡回そのものは GitHub Actions で動くので母艦に依存しない。一方 **MCP認証（freee / Gmail）と
+母艦のディスクは誰も見ていない**。そこを埋めるのが `ops/`。
 
 | ディレクトリ | 役割 |
 |---|---|
-| [`ops/mothership/`](ops/mothership/) | `claude --remote-control` を launchd で常駐化。セッションが `computer_unreachable` で切れる問題の対策 |
 | [`ops/healthcheck/`](ops/healthcheck/) | 毎朝7:00の自己点検（MCP接続・freee/Gmail認証・巡回の生存・ディスク）。異常時のみSlack通知 |
 
-母艦のターミナルで `bash ops/install.sh` を実行すれば両方入る（電源設定と自動ログインは別途。
-[ops/mothership/README.md](ops/mothership/README.md) 参照）。
+導入手順は [ops/healthcheck/README.md](ops/healthcheck/README.md) を参照。
+
+**Remote Control の常駐化は `ops/` の仕事ではない。** 母艦側に
+`~/Library/LaunchAgents/com.finoject.bokan-remote-control.plist` が既にあり
+（RunAtLoad + StartInterval 60秒で `~/Vault/ClaudeCode/bokan/bokan-watchdog.sh` を回す）、
+そちらが担当している。作り直さないこと。
 
 ## 手動実行
 GitHubの「Actions」タブ →「crawl-and-publish」→「Run workflow」で即時実行可能。
