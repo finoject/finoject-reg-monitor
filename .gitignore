@@ -5,3 +5,4 @@ reg-monitor/recon.js
 *.log
 CODEX_REVIEW.md
 REVIEW_CONTEXT.md
+ops/healthcheck/config.env

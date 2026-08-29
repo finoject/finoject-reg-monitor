@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  テンプレート。__HOME__ を実際のホームディレクトリ（/Users/ユーザー名）に置換して
+  ~/Library/LaunchAgents/ に置く。launchd は plist 内の `~` を展開しないため絶対パスが必須。
+  install.sh を使えば置換・配置・登録をまとめて行う。
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.finoject.mcp-healthcheck</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>__HOME__/healthcheck/healthcheck.sh</string>
+    </array>
+
+    <!-- 毎朝7:00に発火（母艦のローカル時刻＝JST）。reg-monitorの巡回は毎時:37なので、
+         7:00時点では直近6:37の更新が見えているのが正常な状態。 -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>7</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>__HOME__/healthcheck/logs/launchd-out.log</string>
+    <key>StandardErrorPath</key>
+    <string>__HOME__/healthcheck/logs/launchd-err.log</string>
+</dict>
+</plist>
