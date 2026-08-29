@@ -104,6 +104,12 @@ bash ops/mothership/install.sh --uninstall
 - **ProcessType = Interactive**: Background にすると長時間アイドル時に App Nap 相当の抑制を受け、接続が切れやすい。
 - **`ThrottleInterval` と自前のバックオフ**: 認証切れ等で即死する場合、KeepAlive が秒間隔で再起動を連打する。
   設定不備は通知してから長めに待って抜ける。
+- **`$VAR` の直後に全角文字を置かない**: 母艦の macOS が積んでいる bash は 3.2 で、
+  変数名の切り出しがマルチバイト非対応。`"$LABEL（…）"` と書くと全角括弧のバイトまで
+  変数名に含めてしまい、`set -u` のもとで `LABEL?: unbound variable` で落ちる
+  （2026-08-29 に実際に踏んだ。Linux の bash 5 では正しく動くためテストをすり抜ける）。
+  日本語が続く箇所は必ず `"${LABEL}（…）"` と波括弧で閉じる。検出は次で行える:
+  `grep -nP '\$[A-Za-z_][A-Za-z0-9_]*[^\x00-\x7F]' ops/*.sh ops/*/*.sh`
 - **母艦経由でない通知経路**: 母艦が落ちている時は Remote Control もSlack MCPも使えない。
   Incoming Webhook と macOS 通知で必ず痕跡を残す（healthcheck と同じ考え方）。
 

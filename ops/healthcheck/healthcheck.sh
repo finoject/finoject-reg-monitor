@@ -98,11 +98,11 @@ trap 'rm -rf "$LOCK_DIR"' EXIT
 
 # --- 前提の確認 -------------------------------------------
 if [ ! -x "$CLAUDE_BIN" ] && ! command -v "$CLAUDE_BIN" >/dev/null 2>&1; then
-  notify_fallback "claudeコマンドが見つからない（$CLAUDE_BIN）。ログ: $LOG_FILE"
+  notify_fallback "claudeコマンドが見つからない（${CLAUDE_BIN}）。ログ: $LOG_FILE"
   exit 1
 fi
 if [ ! -f "$PROMPT_FILE" ]; then
-  notify_fallback "点検プロンプトが無い（$PROMPT_FILE）。ログ: $LOG_FILE"
+  notify_fallback "点検プロンプトが無い（${PROMPT_FILE}）。ログ: $LOG_FILE"
   exit 1
 fi
 

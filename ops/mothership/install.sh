@@ -104,7 +104,7 @@ launchctl bootout "gui/$(id -u)/$LABEL" 2>/dev/null || true
 launchctl bootstrap "gui/$(id -u)" "$PLIST_DEST"
 launchctl enable "gui/$(id -u)/$LABEL" 2>/dev/null || true
 
-echo "登録しました: $LABEL（ログイン時に自動起動・落ちたら自動再起動）"
+echo "登録しました: ${LABEL}（ログイン時に自動起動・落ちたら自動再起動）"
 launchctl list | grep -F "$LABEL" || true
 
 cat <<MSG

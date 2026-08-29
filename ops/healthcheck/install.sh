@@ -76,7 +76,7 @@ sed "s|__HOME__|$HOME|g" "$SRC_DIR/$LABEL.plist" > "$PLIST_DEST"
 launchctl bootout "gui/$(id -u)/$LABEL" 2>/dev/null || true
 launchctl bootstrap "gui/$(id -u)" "$PLIST_DEST"
 
-echo "登録しました: $LABEL（毎朝7:00・ローカル時刻）"
+echo "登録しました: ${LABEL}（毎朝7:00・ローカル時刻）"
 launchctl list | grep -F "$LABEL" || true
 
 cat <<MSG

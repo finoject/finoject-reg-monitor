@@ -118,9 +118,9 @@ trap release EXIT
 
 # --- 前提の確認 -------------------------------------------
 command -v "$CLAUDE_BIN" >/dev/null 2>&1 || [ -x "$CLAUDE_BIN" ] \
-  || die_slowly "claude コマンドが見つからない（$CLAUDE_BIN）。config.env の CLAUDE_BIN で絶対パスを指定してください。"
+  || die_slowly "claude コマンドが見つからない（${CLAUDE_BIN}）。config.env の CLAUDE_BIN で絶対パスを指定してください。"
 
-cd "$WORKDIR" 2>/dev/null || die_slowly "作業ディレクトリに移動できない（$WORKDIR）"
+cd "$WORKDIR" 2>/dev/null || die_slowly "作業ディレクトリに移動できない（${WORKDIR}）"
 
 # --- pty の割り当て方式を決める ---------------------------
 # tmux: 後から attach して画面を覗ける（推奨。手動運用と同じ形）
@@ -145,10 +145,10 @@ if [ "$ADOPTED" -eq 0 ]; then
   waited=0
   until curl -sS -o /dev/null -m 10 "$NET_PROBE_URL" 2>/dev/null; do
     if [ "$waited" -ge "$NET_WAIT_SEC" ]; then
-      log "WARN: ${NET_WAIT_SEC}秒待ってもネットワークに到達しない（$NET_PROBE_URL）。それでも起動を試みる。"
+      log "WARN: ${NET_WAIT_SEC}秒待ってもネットワークに到達しない（${NET_PROBE_URL}）。それでも起動を試みる。"
       break
     fi
-    [ "$waited" -eq 0 ] && log "ネットワーク復帰を待機中（$NET_PROBE_URL）"
+    [ "$waited" -eq 0 ] && log "ネットワーク復帰を待機中（${NET_PROBE_URL}）"
     sleep 5
     waited=$(( waited + 5 ))
   done
