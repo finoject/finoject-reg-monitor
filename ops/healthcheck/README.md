@@ -66,7 +66,7 @@ bash ops/healthcheck/install.sh --uninstall
 | 変数 | 既定 | 意味 |
 |---|---|---|
 | `HEALTHCHECK_SLACK_WEBHOOK_URL` | 未設定 | claudeが死んでいる時のフォールバック通知先。未設定ならmacOS通知のみ |
-| `SLACK_CHANNEL` | `#ops` | 異常時に点検エージェントがSlack MCPで投稿するチャンネル |
+| `SLACK_CHANNEL` | 空 | 空なら三根さんへDM（他の定期タスクと同じ経路）。値を入れるとそのチャンネルへ投稿 |
 | `REG_MONITOR_DATA_URL` | Pages上のdata.json | 巡回の生存判定に使う公開出力 |
 | `STALE_HOURS` | `3` | generatedAtがこれ以上前なら異常 |
 | `TIMEOUT_SEC` | `600` | claude -p の打ち切り秒数 |

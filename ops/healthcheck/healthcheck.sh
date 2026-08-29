@@ -31,7 +31,7 @@ log() { echo "[$(date '+%F %T')] $*" >> "$LOG_FILE"; }
 [ -n "${CLAUDE_CODE_OAUTH_TOKEN:-}" ] && export CLAUDE_CODE_OAUTH_TOKEN
 [ -n "${ANTHROPIC_API_KEY:-}" ] && export ANTHROPIC_API_KEY
 
-SLACK_CHANNEL="${SLACK_CHANNEL:-#ops}"
+SLACK_CHANNEL="${SLACK_CHANNEL:-}"   # 空なら三根さんへDM。値を入れるとそのチャンネルへ投稿
 REG_MONITOR_DATA_URL="${REG_MONITOR_DATA_URL:-https://finoject.github.io/finoject-reg-monitor/data.json}"
 STALE_HOURS="${STALE_HOURS:-3}"     # 巡回は毎時:37。数回の遅延/ドロップは許して3時間で異常とする
 TIMEOUT_SEC="${TIMEOUT_SEC:-600}"   # 10分で打ち切り
@@ -122,7 +122,7 @@ trap 'rm -rf "$LOCK_DIR"; rm -f "$OUT_FILE"' EXIT
 # 権限の最小化: 読み取り系Bashと点検に要るMCPだけ許可し、書き込み系は明示的に禁止する。
 # Bashのパターンは Claude Code の書式に合わせて `Bash(cmd:*)`（前方一致）を使う。
 # `Bash(df *)` のような空白+* は一致しないので通らない。
-ALLOWED_TOOLS="Bash(claude mcp list),Bash(df:*),Bash(uptime),Bash(curl:*),Bash(jq:*),Bash(head:*),Bash(date:*),mcp__freee__freee_auth_status,mcp__Gmail__search_threads,mcp__Slack__slack_send_message"
+ALLOWED_TOOLS="Bash(claude mcp list),Bash(df:*),Bash(uptime),Bash(curl:*),Bash(jq:*),Bash(head:*),Bash(date:*),mcp__freee__freee_auth_status,mcp__Gmail__search_threads,mcp__Slack__slack_search_users,mcp__Slack__slack_send_message"
 DISALLOWED_TOOLS="Write,Edit,MultiEdit,NotebookEdit,WebFetch,WebSearch,Task"
 
 # claudeに渡す引数は1か所で組み立て、タイムアウト手段の有無で使い回す
