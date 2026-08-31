@@ -1,6 +1,147 @@
 {
-  "generatedAt": "2026-08-31T06:05:07.876Z",
+  "generatedAt": "2026-08-31T14:23:36.917Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "「貸金業法施行規則の一部を改正する内閣府令」の公布及びパブリックコメントの結果の公表",
+      "url": "https://www.fsa.go.jp/news/r8/kashikin/20260831/20260831.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T14:23:36.917Z",
+      "lawrefs": [
+        {
+          "id": "358M50000040040",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "貸金業法施行規則"
+        },
+        {
+          "id": "358AC1000000032",
+          "art": "第24条の25",
+          "kind": "パブコメ",
+          "label": "貸金業法 第24条の25"
+        },
+        {
+          "id": "358AC1000000032",
+          "art": "第41条の57",
+          "kind": "パブコメ",
+          "label": "貸金業法 第41条の57"
+        }
+      ],
+      "enriched": "2026-08-31T14:23:45.011Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "戸籍法施行規則改正（令和7年5月26日施行）に対応し、日本国籍を有しない貸金業務取扱主任者について、特定地域（台湾・パレスチナ等）を含めた国籍等を登録簿に記載できるよう貸金業法施行規則を改正した。",
+        "貸金業者及び登録申請予定者は、複数国籍保有者の場合は本人確認書類記載の国籍を、特定地域に本国法がある者は当該地域を含めた国籍等を登録申請書に記載し、登録簿への反映を確認する必要がある。",
+        "本改正内閣府令は令和8年8月31日に公布・施行され、貸金業法施行規則第26条の51第1項第1号の規定に基づく様式変更が適用される。記載方法の詳細はガイドライン等で確認を要する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "令和７年保険業法改正に係る「少額短期保険業者向けの監督指針」の一部改正（案）に係るパブリックコメント結果等の公表",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20260831-2/20260831-2.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T14:23:36.917Z",
+      "lawrefs": [
+        {
+          "id": "412AC0000000101",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "金融サービスの提供及び利用環境の整備等に関する法律"
+        }
+      ],
+      "enriched": "2026-08-31T14:23:47.203Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "少額短期保険業者の監督指針は令和７年保険業法改正に対応し、乗合代理店における適切な比較推奨販売の確保に向けた内容に改正される。改正後の監督指針は令和10年３月１日から適用される。",
+        "少額短期保険業者から委託を受けた乗合代理店は、保険業法施行規則第227条の2に基づき、比較推奨販売を行う場合の規定に従う必要があり、紹介・送客のみの募集関連行為従事者であっても実質的な説明・推奨は比較推奨販売の対象に含まれる。",
+        "令和７年12月17日公表の保険会社向け総合的監督指針の改正等を踏まえ、少額短期保険業者の独自性を考慮した修正部分と総合指針に準じて適用する部分が区別され、监督上の着眼点と実務上の留意点が規定された。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "金融庁の令和９年度税制改正要望に関する公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260831.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T14:23:36.917Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": null,
+          "kind": "改正",
+          "label": "金融商品取引法"
+        }
+      ],
+      "enriched": "2026-08-31T14:23:47.407Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は令和9年度税制改正要望として、NISA非課税保有限度額（1,800万円）の当年中復活、つみたて投資枠要件の整備、銀行等の投資専門子会社による中小企業出資特例、金融所得課税の一体化、信託型ステーブルコイン措置等を要望。",
+        "金融機関及び関連業界は、NISAの利便性向上（年間投資枠の当年中復活、指数連動要件の整備）に対応し、つみたて投資枠対象商品の要件（純資産50億円以上、信託5年経過、2/3で資金流入超等）を満たすよう商品設計・販売態勢を整備する必要がある。",
+        "令和9年度（2027年度）税制改正要望は2026年8月31日に公表され、資産運用立国推進、子育て世帯支援、金融イノベーション推進の3分野で、NISA、生命保険料控除、信託型ステーブルコイン等が対象。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年7～9月）［日程更新］",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T14:23:36.917Z",
+      "enriched": "2026-08-31T14:23:47.407Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年7～9月の長期国債買入れ（利回り・価格入札方式）について、残存期間別・月間オファー金額・具体的なオファー日程を公表した。月間総額は25,000億円。",
+        "市場参加者は各期間別のオファー日程（1年以下は7/6・8/5・9/2等）と月間買入金額（1年超3年以下は7,100億円等）を確認し、オファー通知で実際の買入金額を確認する必要がある。",
+        "日本銀行は市場動向に応じてオファー回数を変更でき、財務省の国債入札日には原則としてオファーしないと定めており、10～12月分の予定は2026年9月30日17時に公表予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの取扱い：日本板硝子（株）",
+      "url": "https://www.jpx.co.jp/news/2020/20260831-01.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T14:23:36.917Z",
+      "enriched": "2026-08-31T14:23:47.407Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本板硝子（株）の上場廃止決定に伴い、同社株式に係る有価証券オプションについて2026年9月2日以降、権利行使価格の追加設定及びフレックス限月取引の新規設定は停止される。",
+        "大阪取引所は2026年10月限月、12月限月、2027年3月限月取引の取引最終日・権利行使日を2026年9月24日に繰り上げ、11月限月の新規設定も同日以降行わない。",
+        "上記措置は日本板硝子株式の2026年9月28日の上場廃止に対応するもので、大阪取引所が実施する有価証券オプション取扱規程に基づく対応である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）鉄人化ホールディングスほか2銘柄",
+      "url": "https://www.jpx.co.jp/news/1021/20260831-21.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T14:23:36.917Z",
+      "enriched": "2026-08-31T14:23:47.407Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "鉄人化ホールディングス、アルファ、さいか屋の3銘柄がスタンダード市場で監理銘柄（確認中）に指定され、前回基準日で上場維持基準に不適合だったため、改善期間内に適合しないと上場廃止となる。",
+        "対象3社は株券等の分布状況表を提出し上場維持基準への適合を確認される必要があり、投資家は上場廃止のおそれを認識したうえで取引判断すべき。",
+        "指定期間は2026年9月1日から上場廃止基準該当の認定日まで、有価証券上場規程施行規則第604条第1項第1号に基づく（東京証券取引所）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：日本板硝子（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260831-11.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T14:23:36.917Z",
+      "enriched": "2026-08-31T14:23:47.407Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本板硝子株式会社（コード5202、プライム市場）について、特定の者以外の株主の所有するすべての株式を1株に満たない端数とする株式併合により、有価証券上場規程第601条第1項第18号に該当するため上場廃止を決定した。",
+        "同社株式は2026年8月31日から9月27日まで整理銘柄に指定され、9月28日に上場廃止となる。同時に9月1日以降、信用取引委託保証金・売買証拠金・取引参加者保証金・信認金の代用有価証券から除外される。",
+        "株式併合の効力発生日は2026年9月30日で、6月26日の株主総会で承認された第三者割当新株式発行（割当先：Lumina Japan Acquisition株式会社）が条件となっている。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（福井県）",
@@ -12035,6 +12176,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英国政府、暗号資産で240人の億万長者が誕生と発表",
         "url": "https://news.yahoo.co.jp/articles/bd5928c9c0b44186c00ed4c9133a0424324a5b1c",
         "source": "Yahoo",
@@ -12061,18 +12208,18 @@
       {
         "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
         "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
-        "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英国政府、暗号資産で240人の億万長者が誕生と発表",
         "url": "https://news.yahoo.co.jp/articles/bd5928c9c0b44186c00ed4c9133a0424324a5b1c",
         "source": "Yahoo",
@@ -12099,18 +12246,18 @@
       {
         "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
         "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
-        "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英国政府、暗号資産で240人の億万長者が誕生と発表",
         "url": "https://news.yahoo.co.jp/articles/bd5928c9c0b44186c00ed4c9133a0424324a5b1c",
         "source": "Yahoo",
@@ -12137,18 +12284,18 @@
       {
         "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
         "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
-        "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英国政府、暗号資産で240人の億万長者が誕生と発表",
         "url": "https://news.yahoo.co.jp/articles/bd5928c9c0b44186c00ed4c9133a0424324a5b1c",
         "source": "Yahoo",
@@ -12177,15 +12324,21 @@
         "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】",
-        "url": "https://news.yahoo.co.jp/articles/80acbfd61b121a23d55069c6d8acf74a7bc5c9cf",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融庁、信託型ステーブルコインの法定調書「提出不要」要望。2027年度税制改正で",
+        "url": "https://news.yahoo.co.jp/articles/241198fa15baecb8f7450dfc35a57f734f060754",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
         "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
@@ -12207,24 +12360,24 @@
       {
         "title": "【速報】国内2社目、コインチェックが「電子決済手段等取引業」登録完了。ステーブルコイン事業に本格参入へ",
         "url": "https://news.yahoo.co.jp/articles/8ecc30e50a55fa0c9174067c9bd1649ee7de9daf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
-        "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Revolut、欧州3市場でユーロ建てステーブルコインを導入",
-        "url": "https://news.yahoo.co.jp/articles/40e8cf762cbaa4afc2c0b624c388944b0432edbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融庁、信託型ステーブルコインの法定調書「提出不要」要望。2027年度税制改正で",
+        "url": "https://news.yahoo.co.jp/articles/241198fa15baecb8f7450dfc35a57f734f060754",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
         "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
         "source": "Yahoo",
@@ -12247,21 +12400,21 @@
         "url": "https://news.yahoo.co.jp/articles/8ecc30e50a55fa0c9174067c9bd1649ee7de9daf",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
-        "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Revolut、欧州3市場でユーロ建てステーブルコインを導入",
-        "url": "https://news.yahoo.co.jp/articles/40e8cf762cbaa4afc2c0b624c388944b0432edbf",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "露スベルバンク、BTC・ETH・USDTを融資担保に受け入れへ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/04dd91c7a1cef1d508479cf98c373466efd84e97",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "カリフォルニア州、公職者による「ミームコイン」発行禁止法案が議会通過",
         "url": "https://news.yahoo.co.jp/articles/8946466e6037014ffea7de7b71e32bb473a3ece5",
@@ -12283,24 +12436,24 @@
       {
         "title": "【独占】予測市場に大規模ファンドが参入開始──ParlayX CEO「市場はこの6カ月で劇的に成熟した」",
         "url": "https://news.yahoo.co.jp/articles/fd1fe4ba7994dc0d55776378fc0344dc68a001cb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "チェルシーFC、ユニフォームにUSDCロゴを掲出へ──Circleと提携",
-        "url": "https://news.yahoo.co.jp/articles/aca931e65ffcee15680b285d000a1876b1828a6e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アップビット運営元ドゥナムとVisaが提携、ステーブルコイン決済・送金で協業",
-        "url": "https://news.yahoo.co.jp/articles/0557e80f7ba1e82dd30826feb73bedfea2351076",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "露スベルバンク、BTC・ETH・USDTを融資担保に受け入れへ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/04dd91c7a1cef1d508479cf98c373466efd84e97",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カリフォルニア州、公職者による「ミームコイン」発行禁止法案が議会通過",
         "url": "https://news.yahoo.co.jp/articles/8946466e6037014ffea7de7b71e32bb473a3ece5",
         "source": "Yahoo",
@@ -12323,21 +12476,15 @@
         "url": "https://news.yahoo.co.jp/articles/fd1fe4ba7994dc0d55776378fc0344dc68a001cb",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "チェルシーFC、ユニフォームにUSDCロゴを掲出へ──Circleと提携",
-        "url": "https://news.yahoo.co.jp/articles/aca931e65ffcee15680b285d000a1876b1828a6e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アップビット運営元ドゥナムとVisaが提携、ステーブルコイン決済・送金で協業",
-        "url": "https://news.yahoo.co.jp/articles/0557e80f7ba1e82dd30826feb73bedfea2351076",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "金融庁、信託型ステーブルコインの法定調書「提出不要」要望。2027年度税制改正で",
+        "url": "https://news.yahoo.co.jp/articles/241198fa15baecb8f7450dfc35a57f734f060754",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.10】",
         "url": "https://news.yahoo.co.jp/articles/82c289390dfca5a2ec7524d31e08a3211d91c33a",
@@ -12365,18 +12512,18 @@
       {
         "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
         "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アパホテル宿泊者向け、JPYC決済の観光実証開始",
-        "url": "https://news.yahoo.co.jp/articles/38b043abe636a67e050ca5c390c62183f5cabd34",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "金融庁、信託型ステーブルコインの法定調書「提出不要」要望。2027年度税制改正で",
+        "url": "https://news.yahoo.co.jp/articles/241198fa15baecb8f7450dfc35a57f734f060754",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.10】",
         "url": "https://news.yahoo.co.jp/articles/82c289390dfca5a2ec7524d31e08a3211d91c33a",
         "source": "Yahoo",
@@ -12403,12 +12550,6 @@
       {
         "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
         "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アパホテル宿泊者向け、JPYC決済の観光実証開始",
-        "url": "https://news.yahoo.co.jp/articles/38b043abe636a67e050ca5c390c62183f5cabd34",
         "source": "Yahoo",
         "date": ""
       }
@@ -12491,76 +12632,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "中央銀行も「オンチェーン化」必要、流動性供給を迅速化＝ECB専務理事",
-        "url": "https://news.yahoo.co.jp/articles/886104d85d49178565589ccac9e272d6253231b5",
+        "title": "企業の成長投資を促進 子育て、賃上げ支援も 来年度税制改正要望",
+        "url": "https://news.yahoo.co.jp/articles/b4d5d6a640603b5ede8c287115d74caf20585e97",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "金融庁、過去最大403億円要求──暗号資産監視とオンチェーン推進へ",
-        "url": "https://news.yahoo.co.jp/articles/43e6e251036bca73dd669276c477a869def8bbcb",
+        "title": "中古車輸出から始める「オンチェーン貿易金融」──SBI XDC・TOPPAN・Gincoが大阪で実証",
+        "url": "https://news.yahoo.co.jp/articles/2b6c09930682272b5ae0a3b8c15a1ef9e30495f5",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "USD[.]AI、ブリッシュから1億ドルのステーブルコイン建て融資枠を確保",
-        "url": "https://news.yahoo.co.jp/articles/82951b898569222612b2d399a464a58ca5a56e86",
+        "title": "JPモルガン、個人向け銀行部門で暗号資産チームを拡充",
+        "url": "https://news.yahoo.co.jp/articles/f109df72e398d9491b32b02ace768eb534793adf",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "レインのソラナカード基盤に脆弱性、アヴィシとトリアで不正出金。全額補償が完了",
-        "url": "https://news.yahoo.co.jp/articles/434dbfb12b2b2fdab2e6a59420688d52dca87da8",
+        "title": "JPYC流通量が約3カ月半ぶり減少──過去最大の1.6億円減",
+        "url": "https://news.yahoo.co.jp/articles/595f3bb10b3d0b7ea8f6125b5cd8a5376ac202a9",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "バイビット、株式パーペチュアルを原資産とするオプション契約を導入へ",
-        "url": "https://news.yahoo.co.jp/articles/59d869180bbb879efeba3b40e0ce62efcc940af9",
+        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米サークル、チェルシーFCの公式ユニフォーム前面スポンサーに",
-        "url": "https://news.yahoo.co.jp/articles/da82b3251c206539d3d650053b14494ffde9082a",
+        "title": "金融庁、信託型ステーブルコインの税務書類提出免除を要望",
+        "url": "https://news.yahoo.co.jp/articles/0469d3f7729690f07d4c4ddafa9db98b3a4da1c4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "中央銀行も「オンチェーン化」必要、流動性供給を迅速化＝ECB専務理事",
-        "url": "https://news.yahoo.co.jp/articles/886104d85d49178565589ccac9e272d6253231b5",
+        "title": "企業の成長投資を促進 子育て、賃上げ支援も 来年度税制改正要望",
+        "url": "https://news.yahoo.co.jp/articles/b4d5d6a640603b5ede8c287115d74caf20585e97",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "金融庁、過去最大403億円要求──暗号資産監視とオンチェーン推進へ",
-        "url": "https://news.yahoo.co.jp/articles/43e6e251036bca73dd669276c477a869def8bbcb",
+        "title": "中古車輸出から始める「オンチェーン貿易金融」──SBI XDC・TOPPAN・Gincoが大阪で実証",
+        "url": "https://news.yahoo.co.jp/articles/2b6c09930682272b5ae0a3b8c15a1ef9e30495f5",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "USD[.]AI、ブリッシュから1億ドルのステーブルコイン建て融資枠を確保",
-        "url": "https://news.yahoo.co.jp/articles/82951b898569222612b2d399a464a58ca5a56e86",
+        "title": "JPモルガン、個人向け銀行部門で暗号資産チームを拡充",
+        "url": "https://news.yahoo.co.jp/articles/f109df72e398d9491b32b02ace768eb534793adf",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "レインのソラナカード基盤に脆弱性、アヴィシとトリアで不正出金。全額補償が完了",
-        "url": "https://news.yahoo.co.jp/articles/434dbfb12b2b2fdab2e6a59420688d52dca87da8",
+        "title": "JPYC流通量が約3カ月半ぶり減少──過去最大の1.6億円減",
+        "url": "https://news.yahoo.co.jp/articles/595f3bb10b3d0b7ea8f6125b5cd8a5376ac202a9",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "バイビット、株式パーペチュアルを原資産とするオプション契約を導入へ",
-        "url": "https://news.yahoo.co.jp/articles/59d869180bbb879efeba3b40e0ce62efcc940af9",
+        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米サークル、チェルシーFCの公式ユニフォーム前面スポンサーに",
-        "url": "https://news.yahoo.co.jp/articles/da82b3251c206539d3d650053b14494ffde9082a",
+        "title": "金融庁、信託型ステーブルコインの税務書類提出免除を要望",
+        "url": "https://news.yahoo.co.jp/articles/0469d3f7729690f07d4c4ddafa9db98b3a4da1c4",
         "source": "Yahoo",
         "date": ""
       }
@@ -12757,6 +12898,12 @@
     ],
     "358AC1000000032": [
       {
+        "title": "M＆A促進、規制見直し 貸金業法改正へ、20年ぶり 金融庁",
+        "url": "https://news.yahoo.co.jp/articles/edfa6e02c90857d109ab6ad2382347824ddae2da",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "《LINEヤフー＆みずほ銀行の合弁会社》「LINEクレジット」東京都から2度目の業務改善命令「銀行系列とは思えないずさんな実態」",
         "url": "https://news.yahoo.co.jp/articles/c696ee346f74a443d316b1a838d38207c1110dd6",
         "source": "Yahoo",
@@ -12783,18 +12930,18 @@
       {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "指名手配のベトナム人、無断横断で御用",
-        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
+        "title": "M＆A促進、規制見直し 貸金業法改正へ、20年ぶり 金融庁",
+        "url": "https://news.yahoo.co.jp/articles/edfa6e02c90857d109ab6ad2382347824ddae2da",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "《LINEヤフー＆みずほ銀行の合弁会社》「LINEクレジット」東京都から2度目の業務改善命令「銀行系列とは思えないずさんな実態」",
         "url": "https://news.yahoo.co.jp/articles/c696ee346f74a443d316b1a838d38207c1110dd6",
         "source": "Yahoo",
@@ -12821,18 +12968,18 @@
       {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "指名手配のベトナム人、無断横断で御用",
-        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
+        "title": "M＆A促進、規制見直し 貸金業法改正へ、20年ぶり 金融庁",
+        "url": "https://news.yahoo.co.jp/articles/edfa6e02c90857d109ab6ad2382347824ddae2da",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "《LINEヤフー＆みずほ銀行の合弁会社》「LINEクレジット」東京都から2度目の業務改善命令「銀行系列とは思えないずさんな実態」",
         "url": "https://news.yahoo.co.jp/articles/c696ee346f74a443d316b1a838d38207c1110dd6",
         "source": "Yahoo",
@@ -12859,12 +13006,6 @@
       {
         "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
         "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "指名手配のベトナム人、無断横断で御用",
-        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
