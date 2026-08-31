@@ -1,6 +1,141 @@
 {
-  "generatedAt": "2026-08-30T23:49:14.904Z",
+  "generatedAt": "2026-08-31T06:05:07.876Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（福井県）",
+      "url": "https://www.boj.or.jp/about/bcp/fso/fso260831a.pdf",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T06:05:07.876Z",
+      "enriched": "2026-08-31T06:05:13.789Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和8年8月27日からの大雨で災害救助法が適用された福井県内の被災者に対し、預金証書等を紛失した場合の払戻し、定期預金の期限前払戻し、手形・小切手の不渡報告配慮、返済猶予等の措置を実施。",
+        "預貯金取扱金融機関・証券会社・保険会社・電子債権記録機関は、被災状況に応じた確認方法での本人確認、融資審査の簡便化、保険金の迅速支払い、営業停止情報の店頭掲示・新聞掲載等を実施し広く周知すること。",
+        "令和8年8月27日以降の災害対応として、災害救助法適用地域追加時も同様の金融上の措置を適切に講ずるよう要請し、営業店への周知徹底と被災者の被災状況に応じた迅速・弾力的対応を要求。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "決済動向（7月）",
+      "url": "https://www.boj.or.jp/statistics/set/kess/release/2026/kess2607.pdf",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T06:05:07.876Z",
+      "enriched": "2026-08-31T06:05:13.789Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年7月の決済動向統計を公表し、日銀当座預金決済、全銀システム、電子マネー、デビットカード等の主要指標を集計・掲載している。",
+        "金融機関等の決済システム利用者は、日銀ネット、全銀システム、外為円決済交換等を通じた自行の決済取引データを本統計から確認し、決済動向把握に活用すべき。",
+        "本統計は2026年8月31日11時に対外公表され、日本銀行決済機構局が編集・公表する定期統計であり、各種決済関連計数は同局に問い合わせることが可能である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "資金循環（日米欧比較）（2026年第1四半期）",
+      "url": "https://www.boj.or.jp/statistics/sj/sjhiq.pdf",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T06:05:07.876Z",
+      "enriched": "2026-08-31T06:05:13.789Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年3月末時点で、日本の金融機関の金融資産は4,618兆円、米国は151.5兆ドル、ユーロエリアは98.7兆ユーロ。日本の預金取扱機関は資産の23%を貸出に配分、米国は12%、ユーロエリアは17%。",
+        "日本銀行調査統計局が発表した資金循環統計により、3地域の金融機関部門別（預金取扱機関・保険年金基金・その他金融機関）の金融資産構成を比較。各機関の現金預金・貸出・債務証券・株式等の構成比を把握する必要あり。",
+        "日本銀行の2026年第1四半期資金循環調査（2026年8月31日公表）。日米欧の金融機関の資産構成分析で、各国の金融仲介機能の特性と相違を示すデータベースとして機関投資家や規制当局が参照。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]令和８年度「なでしこ銘柄」「Nextなでしこ 共働き・共育て支援企業」の募集開始について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1120/20260831-01.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T06:05:07.876Z",
+      "enriched": "2026-08-31T06:05:13.789Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "経済産業省と東証が共同で令和8年度「なでしこ銘柄」と「Nextなでしこ共働き・共育て支援企業」を選定・公表する。募集資料を経済産業省Webサイトで公開し、オンライン説明会を開催。",
+        "女性活躍推進に関連する企業は、募集資料を確認しオンライン説明会に参加した上で応募手続を進める必要がある。",
+        "募集開始は2026年8月31日付で、経済産業省ニュースリリースに詳細情報があり、問合せは東京証券取引所金融リテラシーサポート部まで。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX,TOCOM]電力市場で「JJ-Link」フェーズ2（先物市場活用型先渡サービス）の提供を開始",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260831-01.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T06:05:07.876Z",
+      "enriched": "2026-08-31T06:05:13.789Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京商品取引所と日本卸電力取引所が共同提供する電力現物・先物連携サービス「JJ-Link」が2026年8月31日付でフェーズ2に移行し、先物市場活用型先渡サービスとして提供開始。",
+        "電力取引参加者は現物・先物取引の連携によるリスクヘッジ機能を活用できるよう、JJ-Linkフェーズ2の仕様・運用方法を確認し対応準備が必要。",
+        "本サービスは電力市場価格のリスクヘッジを可能にする電力先物を活用する制度で、2026年8月31日より正式運用開始。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "（株）壱番屋（7630）",
+      "url": "https://www.jpx.co.jp/markets/equities/alerts/index.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T06:05:07.876Z",
+      "enriched": "2026-08-31T06:05:13.789Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証は株式会社壱番屋（7630）につき、非公開化に関する不明確な情報が生じているため、2026年8月31日に注意喚起を実施。投資者の投資判断に重要な影響を与えるおそれがある不明確情報について、東証業務規程第30条に基づき機動的に周知。",
+        "ハウス食品グループが壱番屋の非公開化を含むあらゆる選択肢を検討中だが、現時点で具体的決定事実がなく、報道は当社発表ではない。上場会社は適切な情報開示がなされるまで注意喚起が継続される可能性あり。",
+        "東証は信用取引残高の日々公表を必要と認めた場合に実施。注意喚起は解除を伴わず複数回実施される場合がある。適切な開示が行われた場合、翌営業日から日々公表を取り止める可能性あり。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「証券投資の日」イベントの開催について",
+      "url": "https://www.jsda.or.jp/start/pr/20260930toushinohi.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T06:05:07.876Z",
+      "enriched": "2026-08-31T06:05:13.789Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会、日本取引所グループ、資産運用業協会が9月30日13時および10月4日13時・14時30分の2イベントを開催。大学生プレゼンテーション、トークショー、体験ワークショップで証券投資の普及啓発を実施する。",
+        "報道機関向けは事前応募が必要（9月30日および10月4日第一部）。一般向け体験ワークショップは10月4日14時30分開始で応募受付している可能性があり、詳細は協会へ問い合わせが必要。",
+        "金融庁およびJ-FLECが後援する「証券投資の日」（毎年10月4日）関連イベント。2026年は9月30日と10月4日にKABUTO ONE・日本橋ホールで実施し、証券業界の社会的役割の発信と投資初心者向けの啓発を行う。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "10月４日開催「『証券投資の日』未来を考えるCAMP～みんなで自分の未来を考える～」特設ページがオープン！",
+      "url": "https://www.jsda.or.jp/start/pr/20261004toushinohi.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T06:05:07.876Z",
+      "enriched": "2026-08-31T06:05:13.789Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会等が2026年10月4日の「証券投資の日」に、未来年表作成・必要資金見える化・資産形成選択肢検討を含む参加型ワークショップを日本橋ホール（東京）で開催し、一般参加者50名程度を募集する。",
+        "将来のお金・ライフプランに関心のある個人、証券投資未経験者含む全員が対象で、小学4年生以上中学生までの子どもは保護者同伴で参加可能。参加費無料、2026年8月31日～9月17日に応募フォーム経由で応募、9月24日迄にメール通知。",
+        "本ワークショップは個別金融商品推奨・勧誘ではなく、撮影・SNS使用の可能性あり。証券投資リスク（元本割れ等）は参加者自身で確認が必要。会場内のゲスト撮影・イベント進行中の撮影・録音・録画は禁止。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "【全国で活躍する公認会計士×SDGs】第五弾の公開",
+      "url": "https://jicpa.or.jp/news/information/2026/20260831idc.html",
+      "date": "2026-08-31",
+      "detectedAt": "2026-08-31T06:05:07.876Z",
+      "enriched": "2026-08-31T06:05:13.789Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本公認会計士協会のSDGs推進委員会が「全国で活躍する公認会計士×SDGs」第五弾を2026年8月31日に公開し、アフォーダブル住宅のパイオニアである岡本拓也氏へのインタビューを掲載した。",
+        "公認会計士および関心のある者は、協会のサステナビリティサイト（https://sustainability.jicpa.or.jp/accountant）で第一弾から第五弾までのインタビュー動画および経歴等の詳細情報を閲覧できる。",
+        "本公開は持続可能な未来実現に向けた協会の推進活動の一環であり、全国で活動する公認会計士のSDGs関連事例紹介を継続実施する方針を示している。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "第57回金融審議会総会・第45回金融分科会合同会合の開催に関する公表",
@@ -13,6 +148,21 @@
         "第57回金融審議会総会・第45回金融分科会合同会合が令和8年8月31日13時～15時に中央合同庁舎第7号館13階及びオンライン形式で開催される。",
         "傍聴希望者は金融庁公式YouTubeチャンネルから視聴でき、会議後に議事録が金融庁ウェブサイトにて公表される予定。",
         "問合せは企画市場局総務課（電話0570-016811またはウェブサイト受付）で受け付ける。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "貸出約定平均金利（7月）",
+      "url": "https://www.boj.or.jp/statistics/dl/loan/yaku/yaku2607.pdf",
+      "date": "2026-08-30",
+      "detectedAt": "2026-08-31T06:05:07.876Z",
+      "enriched": "2026-08-31T06:05:13.789Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年7月の貸出約定平均金利データが日本銀行により集計・公表され、翌営業日以降にBOJ Time-Series Data Searchにアップロードされる。",
+        "金融機関及び利用者は同検索システムから貸出約定平均金利の時系列データにアクセスして、融資判断や金利設定の参考情報として活用できる。",
+        "本データは2026年8月31日午前8時50分（日本時間）の解禁を経て、9月1日以降の営業日にシステム上で利用可能となる予定。"
       ],
       "aiSumV": 3
     },
@@ -12113,6 +12263,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "カリフォルニア州、公職者による「ミームコイン」発行禁止法案が議会通過",
+        "url": "https://news.yahoo.co.jp/articles/8946466e6037014ffea7de7b71e32bb473a3ece5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米サークル、チェルシーFCの公式ユニフォーム前面スポンサーに",
+        "url": "https://news.yahoo.co.jp/articles/da82b3251c206539d3d650053b14494ffde9082a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BISトップ、ステーブルコインの広範な決済利用に疑義。トークン化預金を評価",
+        "url": "https://news.yahoo.co.jp/articles/15be9efe3dc15bf5d7115b4202ef0eb676cdab72",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独占】予測市場に大規模ファンドが参入開始──ParlayX CEO「市場はこの6カ月で劇的に成熟した」",
         "url": "https://news.yahoo.co.jp/articles/fd1fe4ba7994dc0d55776378fc0344dc68a001cb",
         "source": "Yahoo",
@@ -12127,30 +12295,30 @@
       {
         "title": "アップビット運営元ドゥナムとVisaが提携、ステーブルコイン決済・送金で協業",
         "url": "https://news.yahoo.co.jp/articles/0557e80f7ba1e82dd30826feb73bedfea2351076",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メタプラネットCEO「ビットコインは底を打った」──Bitcoin Asia基調講演",
-        "url": "https://news.yahoo.co.jp/articles/9548a161bffb359e29d213f60a936277e629cceb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Sui共同創業者発案の「Havenex」公表、金融機関向けの規制対応取引インフラ構築へ",
-        "url": "https://news.yahoo.co.jp/articles/9e60221d7d4e5a26be5d0afe593be47854a3402f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BTC（ビットコイン）は米雇用統計をにらみ方向感を探る展開か、米イラン情勢には警戒【マネックス証券】",
-        "url": "https://news.yahoo.co.jp/articles/6bb576d35bf3182f4b44b7a660528cf9c4cad8c0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "カリフォルニア州、公職者による「ミームコイン」発行禁止法案が議会通過",
+        "url": "https://news.yahoo.co.jp/articles/8946466e6037014ffea7de7b71e32bb473a3ece5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米サークル、チェルシーFCの公式ユニフォーム前面スポンサーに",
+        "url": "https://news.yahoo.co.jp/articles/da82b3251c206539d3d650053b14494ffde9082a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BISトップ、ステーブルコインの広範な決済利用に疑義。トークン化預金を評価",
+        "url": "https://news.yahoo.co.jp/articles/15be9efe3dc15bf5d7115b4202ef0eb676cdab72",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独占】予測市場に大規模ファンドが参入開始──ParlayX CEO「市場はこの6カ月で劇的に成熟した」",
         "url": "https://news.yahoo.co.jp/articles/fd1fe4ba7994dc0d55776378fc0344dc68a001cb",
         "source": "Yahoo",
@@ -12165,24 +12333,6 @@
       {
         "title": "アップビット運営元ドゥナムとVisaが提携、ステーブルコイン決済・送金で協業",
         "url": "https://news.yahoo.co.jp/articles/0557e80f7ba1e82dd30826feb73bedfea2351076",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メタプラネットCEO「ビットコインは底を打った」──Bitcoin Asia基調講演",
-        "url": "https://news.yahoo.co.jp/articles/9548a161bffb359e29d213f60a936277e629cceb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Sui共同創業者発案の「Havenex」公表、金融機関向けの規制対応取引インフラ構築へ",
-        "url": "https://news.yahoo.co.jp/articles/9e60221d7d4e5a26be5d0afe593be47854a3402f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BTC（ビットコイン）は米雇用統計をにらみ方向感を探る展開か、米イラン情勢には警戒【マネックス証券】",
-        "url": "https://news.yahoo.co.jp/articles/6bb576d35bf3182f4b44b7a660528cf9c4cad8c0",
         "source": "Yahoo",
         "date": ""
       }
@@ -12341,76 +12491,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "BIS総支配人、ステーブルコインは決済に不向きと発言＝報道",
-        "url": "https://news.yahoo.co.jp/articles/9b1f8fd0fd85885f518a5ace4c250aec9efa045d",
+        "title": "中央銀行も「オンチェーン化」必要、流動性供給を迅速化＝ECB専務理事",
+        "url": "https://news.yahoo.co.jp/articles/886104d85d49178565589ccac9e272d6253231b5",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "BCCCが「税制部会」を新設、9月15日に都内でキックオフイベント開催！",
-        "url": "https://news.yahoo.co.jp/articles/77a0ad281bfea14a08e59161d38df6ab992ceb68",
+        "title": "金融庁、過去最大403億円要求──暗号資産監視とオンチェーン推進へ",
+        "url": "https://news.yahoo.co.jp/articles/43e6e251036bca73dd669276c477a869def8bbcb",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "株を買ったのに、なぜ受け取るのは2日後なのか──「T+2」で考えたオンチェーン金融【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/6264a5a414afea5820a0f5015048a5a4e9975fbd",
+        "title": "USD[.]AI、ブリッシュから1億ドルのステーブルコイン建て融資枠を確保",
+        "url": "https://news.yahoo.co.jp/articles/82951b898569222612b2d399a464a58ca5a56e86",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBIホールディングスが約431億円出資、インドネシアの株式取引ユニコーンAjaib",
-        "url": "https://news.yahoo.co.jp/articles/841a2bf2fada20f34a364591dfb77b66cc641a5c",
+        "title": "レインのソラナカード基盤に脆弱性、アヴィシとトリアで不正出金。全額補償が完了",
+        "url": "https://news.yahoo.co.jp/articles/434dbfb12b2b2fdab2e6a59420688d52dca87da8",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ウォーシュ議長は利下げを約束しなかった。アメリカ人の私が感じた「3.7％インフレ」の重さ【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/39cb7b1943de87c8dcf502aa23bc9735663a1da8",
+        "title": "バイビット、株式パーペチュアルを原資産とするオプション契約を導入へ",
+        "url": "https://news.yahoo.co.jp/articles/59d869180bbb879efeba3b40e0ce62efcc940af9",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "チェルシーFC、ユニフォームにUSDCロゴを掲出へ──Circleと提携",
-        "url": "https://news.yahoo.co.jp/articles/aca931e65ffcee15680b285d000a1876b1828a6e",
+        "title": "米サークル、チェルシーFCの公式ユニフォーム前面スポンサーに",
+        "url": "https://news.yahoo.co.jp/articles/da82b3251c206539d3d650053b14494ffde9082a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "BIS総支配人、ステーブルコインは決済に不向きと発言＝報道",
-        "url": "https://news.yahoo.co.jp/articles/9b1f8fd0fd85885f518a5ace4c250aec9efa045d",
+        "title": "中央銀行も「オンチェーン化」必要、流動性供給を迅速化＝ECB専務理事",
+        "url": "https://news.yahoo.co.jp/articles/886104d85d49178565589ccac9e272d6253231b5",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "BCCCが「税制部会」を新設、9月15日に都内でキックオフイベント開催！",
-        "url": "https://news.yahoo.co.jp/articles/77a0ad281bfea14a08e59161d38df6ab992ceb68",
+        "title": "金融庁、過去最大403億円要求──暗号資産監視とオンチェーン推進へ",
+        "url": "https://news.yahoo.co.jp/articles/43e6e251036bca73dd669276c477a869def8bbcb",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "株を買ったのに、なぜ受け取るのは2日後なのか──「T+2」で考えたオンチェーン金融【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/6264a5a414afea5820a0f5015048a5a4e9975fbd",
+        "title": "USD[.]AI、ブリッシュから1億ドルのステーブルコイン建て融資枠を確保",
+        "url": "https://news.yahoo.co.jp/articles/82951b898569222612b2d399a464a58ca5a56e86",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBIホールディングスが約431億円出資、インドネシアの株式取引ユニコーンAjaib",
-        "url": "https://news.yahoo.co.jp/articles/841a2bf2fada20f34a364591dfb77b66cc641a5c",
+        "title": "レインのソラナカード基盤に脆弱性、アヴィシとトリアで不正出金。全額補償が完了",
+        "url": "https://news.yahoo.co.jp/articles/434dbfb12b2b2fdab2e6a59420688d52dca87da8",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ウォーシュ議長は利下げを約束しなかった。アメリカ人の私が感じた「3.7％インフレ」の重さ【サンフランシスコ レポート】",
-        "url": "https://news.yahoo.co.jp/articles/39cb7b1943de87c8dcf502aa23bc9735663a1da8",
+        "title": "バイビット、株式パーペチュアルを原資産とするオプション契約を導入へ",
+        "url": "https://news.yahoo.co.jp/articles/59d869180bbb879efeba3b40e0ce62efcc940af9",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "チェルシーFC、ユニフォームにUSDCロゴを掲出へ──Circleと提携",
-        "url": "https://news.yahoo.co.jp/articles/aca931e65ffcee15680b285d000a1876b1828a6e",
+        "title": "米サークル、チェルシーFCの公式ユニフォーム前面スポンサーに",
+        "url": "https://news.yahoo.co.jp/articles/da82b3251c206539d3d650053b14494ffde9082a",
         "source": "Yahoo",
         "date": ""
       }
@@ -12719,22 +12869,8 @@
         "date": ""
       }
     ],
-    "416AC0000000154": [
-      {
-        "title": "家族信託という条文はない。信託と後見の線引きは、お金の外側で決まる",
-        "url": "https://news.yahoo.co.jp/articles/50b0114091042e51e652271075d10e15c604fd0d",
-        "source": "Yahoo",
-        "date": ""
-      }
-    ],
-    "416CO0000000427": [
-      {
-        "title": "家族信託という条文はない。信託と後見の線引きは、お金の外側で決まる",
-        "url": "https://news.yahoo.co.jp/articles/50b0114091042e51e652271075d10e15c604fd0d",
-        "source": "Yahoo",
-        "date": ""
-      }
-    ],
+    "416AC0000000154": [],
+    "416CO0000000427": [],
     "412AC0000000101": [
       {
         "title": "外国株を売りつけろ、過剰ノルマが招いた某証券の末路",
@@ -13145,6 +13281,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "日本の大企業が息を吹き返したのとは対照的",
+        "url": "https://news.yahoo.co.jp/articles/16a42d41454822f73520c261d81d95cbc12706a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "グーグルのスピリット航空データ取得の狙いと、争奪戦に出遅れる日本への警鐘 #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/c76bb9b01a9567276fa101f9b2d59d4d01138154",
         "source": "Yahoo",
@@ -13171,18 +13313,18 @@
       {
         "title": "韓国の走行データを海外活用へ",
         "url": "https://news.yahoo.co.jp/articles/e7cf5dc86df0443d3f7dddb11a39b52d4aaf25a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "KDDI地図サイトで個人宅の住所・電話番号が「丸見え」",
-        "url": "https://news.yahoo.co.jp/articles/ecbd60ef6739bf646f648e1a244114646d320453",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "日本の大企業が息を吹き返したのとは対照的",
+        "url": "https://news.yahoo.co.jp/articles/16a42d41454822f73520c261d81d95cbc12706a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "グーグルのスピリット航空データ取得の狙いと、争奪戦に出遅れる日本への警鐘 #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/c76bb9b01a9567276fa101f9b2d59d4d01138154",
         "source": "Yahoo",
@@ -13209,18 +13351,18 @@
       {
         "title": "韓国の走行データを海外活用へ",
         "url": "https://news.yahoo.co.jp/articles/e7cf5dc86df0443d3f7dddb11a39b52d4aaf25a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "KDDI地図サイトで個人宅の住所・電話番号が「丸見え」",
-        "url": "https://news.yahoo.co.jp/articles/ecbd60ef6739bf646f648e1a244114646d320453",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "日本の大企業が息を吹き返したのとは対照的",
+        "url": "https://news.yahoo.co.jp/articles/16a42d41454822f73520c261d81d95cbc12706a6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "グーグルのスピリット航空データ取得の狙いと、争奪戦に出遅れる日本への警鐘 #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/c76bb9b01a9567276fa101f9b2d59d4d01138154",
         "source": "Yahoo",
@@ -13247,12 +13389,6 @@
       {
         "title": "韓国の走行データを海外活用へ",
         "url": "https://news.yahoo.co.jp/articles/e7cf5dc86df0443d3f7dddb11a39b52d4aaf25a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "KDDI地図サイトで個人宅の住所・電話番号が「丸見え」",
-        "url": "https://news.yahoo.co.jp/articles/ecbd60ef6739bf646f648e1a244114646d320453",
         "source": "Yahoo",
         "date": ""
       }
