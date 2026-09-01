@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-01T05:09:17.765Z",
+  "generatedAt": "2026-09-01T05:37:20.215Z",
   "items": [
+    {
+      "agency": "日本公認会計士協会",
+      "title": "【サステナビリティ開示インタビュー企画】株式会社みずほフィナンシャルグループ",
+      "url": "https://jicpa.or.jp/news/information/2026/20260901cja.html",
+      "date": "2026-09-01",
+      "detectedAt": "2026-09-01T05:37:20.215Z",
+      "enriched": "2026-09-01T05:37:24.930Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2027年3月期から金融商品取引法下でサステナビリティ情報開示が義務付けられる一定規模以上のプライム市場上場企業に対し、みずほFGは2026年3月期有価証券報告書でSSSBJ基準に準拠したサステナビリティ開示を先駆的に実施した。",
+        "みずほFGは気候変動・人的資本・自然資本・サイバーセキュリティ等複数トピックについて、定性的スコアリング方法で重要性判定し、執行役社長委員長の推進委員会で合意形成した上で、2月の取締役会で指標・目標をセットで報告・議論している。",
+        "開示実務では2023年度後半からギャップ分析を開始、2024年度から本格検討を進め、指標の新規構築や連結ベース統一、ファイナンスド・エミッション算定調整、3月決算確定後の6月有価証券報告書公表という制度上の制約に対応している。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "JVCEA",
       "title": "移転制限が付された暗号資産の情報提供及び公表に関する規則第5条第3項に基づく公表について更新しました。",
@@ -12119,6 +12134,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
+        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
         "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
         "source": "Yahoo",
@@ -12145,18 +12166,18 @@
       {
         "title": "証券口座の乗っ取り被害 4社に「全額補償」求め、集団調停申し立て",
         "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
-        "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
+        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
         "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
         "source": "Yahoo",
@@ -12183,18 +12204,18 @@
       {
         "title": "証券口座の乗っ取り被害 4社に「全額補償」求め、集団調停申し立て",
         "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
-        "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
+        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
         "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
         "source": "Yahoo",
@@ -12221,18 +12242,18 @@
       {
         "title": "証券口座の乗っ取り被害 4社に「全額補償」求め、集団調停申し立て",
         "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
-        "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
+        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
         "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
         "source": "Yahoo",
@@ -12261,15 +12282,15 @@
         "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
-        "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
+        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "金融庁、27年度の予算および機構・定員要求の概要公表。暗号資産など新金融サービスへの体制強化へ",
         "url": "https://news.yahoo.co.jp/articles/b3c47022ad74f83b821b6fe4a2160b9b6eec0cbd",
@@ -12297,18 +12318,18 @@
       {
         "title": "「ゴキブリが出た」から「成果自慢」まで高市首相の「X連投」にとびかう批判 官邸発「一方通行メッセージ」の空回り",
         "url": "https://news.yahoo.co.jp/articles/de03ccbe585e510accdec1200d766b5607645cda",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインチェック、電子決済手段等取引業登録を完了──1年5カ月ぶり、国内2社目",
-        "url": "https://news.yahoo.co.jp/articles/4742f14dc154276def718b3cef7bb1609ebe730c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
+        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、27年度の予算および機構・定員要求の概要公表。暗号資産など新金融サービスへの体制強化へ",
         "url": "https://news.yahoo.co.jp/articles/b3c47022ad74f83b821b6fe4a2160b9b6eec0cbd",
         "source": "Yahoo",
@@ -12337,15 +12358,21 @@
         "url": "https://news.yahoo.co.jp/articles/de03ccbe585e510accdec1200d766b5607645cda",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "コインチェック、電子決済手段等取引業登録を完了──1年5カ月ぶり、国内2社目",
-        "url": "https://news.yahoo.co.jp/articles/4742f14dc154276def718b3cef7bb1609ebe730c",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "コインチェック、仏DFNSと提携──国内金融機関のカストディ支援へ",
+        "url": "https://news.yahoo.co.jp/articles/4bfa0615c71e23e1ec6cd8b17e78db45903a8819",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
+        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ハイパーリキッド、米国で無期限先物提供へクラーケン親会社と協議＝Bloomberg",
         "url": "https://news.yahoo.co.jp/articles/87f32173a5e3c9db3b48f2cd0151f2f41a2e27ab",
@@ -12367,24 +12394,24 @@
       {
         "title": "コインチェックG、DFNSと提携。国内金融機関向けデジタル資産カストディ提供目指す",
         "url": "https://news.yahoo.co.jp/articles/316439f79dfbb6091c2128c8fd6fa41add9c9d1a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンチェーン金融はどこまで現実になったのか──ステーブルコイン・トークン化資産・金融インフラの現在地【N.Avenue club 4期2回ラウンドテーブル・レポート】",
-        "url": "https://news.yahoo.co.jp/articles/e27996f9f875b83b5d6189c740ae912dc4fdf827",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロシア最大手銀行ズベルバンク、BTC・ETH・USDTを融資の担保として受け入れへ",
-        "url": "https://news.yahoo.co.jp/articles/a1fe90f570379c4d364cb0faab3ea5d11555bfb1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "コインチェック、仏DFNSと提携──国内金融機関のカストディ支援へ",
+        "url": "https://news.yahoo.co.jp/articles/4bfa0615c71e23e1ec6cd8b17e78db45903a8819",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
+        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ハイパーリキッド、米国で無期限先物提供へクラーケン親会社と協議＝Bloomberg",
         "url": "https://news.yahoo.co.jp/articles/87f32173a5e3c9db3b48f2cd0151f2f41a2e27ab",
         "source": "Yahoo",
@@ -12405,18 +12432,6 @@
       {
         "title": "コインチェックG、DFNSと提携。国内金融機関向けデジタル資産カストディ提供目指す",
         "url": "https://news.yahoo.co.jp/articles/316439f79dfbb6091c2128c8fd6fa41add9c9d1a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンチェーン金融はどこまで現実になったのか──ステーブルコイン・トークン化資産・金融インフラの現在地【N.Avenue club 4期2回ラウンドテーブル・レポート】",
-        "url": "https://news.yahoo.co.jp/articles/e27996f9f875b83b5d6189c740ae912dc4fdf827",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロシア最大手銀行ズベルバンク、BTC・ETH・USDTを融資の担保として受け入れへ",
-        "url": "https://news.yahoo.co.jp/articles/a1fe90f570379c4d364cb0faab3ea5d11555bfb1",
         "source": "Yahoo",
         "date": ""
       }
@@ -12575,6 +12590,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "コインチェック、仏DFNSと提携──国内金融機関のカストディ支援へ",
+        "url": "https://news.yahoo.co.jp/articles/4bfa0615c71e23e1ec6cd8b17e78db45903a8819",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
+        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "チェイナリシス、ICEのTRMラボ向け約9500万ドル随意契約を巡り米政府提訴",
         "url": "https://news.yahoo.co.jp/articles/0e288827cd11479cac54d649414a4798fb754eb8",
         "source": "Yahoo",
@@ -12595,24 +12622,24 @@
       {
         "title": "ロシア最大手銀行ズベルバンク、BTC・ETH・USDTを融資の担保として受け入れへ",
         "url": "https://news.yahoo.co.jp/articles/a1fe90f570379c4d364cb0faab3ea5d11555bfb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "企業の成長投資を促進 子育て、賃上げ支援も 来年度税制改正要望",
-        "url": "https://news.yahoo.co.jp/articles/b4d5d6a640603b5ede8c287115d74caf20585e97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中古車輸出から始める「オンチェーン貿易金融」──SBI XDC・TOPPAN・Gincoが大阪で実証",
-        "url": "https://news.yahoo.co.jp/articles/2b6c09930682272b5ae0a3b8c15a1ef9e30495f5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "コインチェック、仏DFNSと提携──国内金融機関のカストディ支援へ",
+        "url": "https://news.yahoo.co.jp/articles/4bfa0615c71e23e1ec6cd8b17e78db45903a8819",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
+        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "チェイナリシス、ICEのTRMラボ向け約9500万ドル随意契約を巡り米政府提訴",
         "url": "https://news.yahoo.co.jp/articles/0e288827cd11479cac54d649414a4798fb754eb8",
         "source": "Yahoo",
@@ -12633,18 +12660,6 @@
       {
         "title": "ロシア最大手銀行ズベルバンク、BTC・ETH・USDTを融資の担保として受け入れへ",
         "url": "https://news.yahoo.co.jp/articles/a1fe90f570379c4d364cb0faab3ea5d11555bfb1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "企業の成長投資を促進 子育て、賃上げ支援も 来年度税制改正要望",
-        "url": "https://news.yahoo.co.jp/articles/b4d5d6a640603b5ede8c287115d74caf20585e97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中古車輸出から始める「オンチェーン貿易金融」──SBI XDC・TOPPAN・Gincoが大阪で実証",
-        "url": "https://news.yahoo.co.jp/articles/2b6c09930682272b5ae0a3b8c15a1ef9e30495f5",
         "source": "Yahoo",
         "date": ""
       }
