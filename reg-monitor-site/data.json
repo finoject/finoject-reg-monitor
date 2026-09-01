@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-01T09:06:49.635Z",
+  "generatedAt": "2026-09-01T10:27:57.389Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "「0歳からNISA口座が開設できるようになります！」（リーフレット）を公開しました。",
+      "url": "https://www.jsda.or.jp/shijyo/seido/tax/nisa_under18.html",
+      "date": "2026-09-01",
+      "detectedAt": "2026-09-01T10:27:57.389Z",
+      "enriched": "2026-09-01T10:28:03.409Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2027年1月から、0歳～17歳の未成年者を対象にNISAの「つみたて投資枠」が年齢要件撤廃され開設可能となり、年間投資枠60万円・非課税保有限度額600万円の制限が設定される。",
+        "証券会社等の金融機関は、未成年者のNISA口座について成長投資枠の設定を行わず、つみたて投資枠のみの対応とし、金融機関変更不可の扱いをする必要がある。",
+        "0歳～17歳の未成年者は原則として18歳になるまでNISA口座からの払出しが制限されるが、12歳以降は本人用途かつ本人同意の書類提出により教育費等での例外的払出しが可能（2027年1月1日以降適用）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「所在地の定期的な確認についてのお知らせ」（リーフレット）を公開しました。",
+      "url": "https://www.jsda.or.jp/shijyo/seido/tax/nisa_shozaichi.html",
+      "date": "2026-09-01",
+      "detectedAt": "2026-09-01T10:27:57.389Z",
+      "enriched": "2026-09-01T10:28:03.409Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2024年以降のNISA口座（成長投資枠・つみたて投資枠）利用者向けに「所在地の定期的な確認についてのお知らせ」リーフレットを作成・公開した。",
+        "NISA口座利用者は所在地の定期的確認に対応する必要があり、質問・相談はNISA相談コールセンター（0570-023-104）に連絡可能。",
+        "本リーフレットは2026年9月1日に初版掲載され、NISA制度運用に関連する顧客対応を求めるもの。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターの公表について",
@@ -12299,6 +12329,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "1:3152歳占い師の女がだまし取った金品の総額は約27億円か 投資話持ちかけ現金だまし取った詐欺･金商法違反疑いなどで追送致",
+        "url": "https://news.yahoo.co.jp/articles/f1fbb908f327f142f7bda9c406113a3c92b058f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
         "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
         "source": "Yahoo",
@@ -12325,18 +12361,18 @@
       {
         "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
         "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "証券口座の乗っ取り被害 4社に「全額補償」求め、集団調停申し立て",
-        "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "1:3152歳占い師の女がだまし取った金品の総額は約27億円か 投資話持ちかけ現金だまし取った詐欺･金商法違反疑いなどで追送致",
+        "url": "https://news.yahoo.co.jp/articles/f1fbb908f327f142f7bda9c406113a3c92b058f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
         "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
         "source": "Yahoo",
@@ -12363,18 +12399,18 @@
       {
         "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
         "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "証券口座の乗っ取り被害 4社に「全額補償」求め、集団調停申し立て",
-        "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "1:3152歳占い師の女がだまし取った金品の総額は約27億円か 投資話持ちかけ現金だまし取った詐欺･金商法違反疑いなどで追送致",
+        "url": "https://news.yahoo.co.jp/articles/f1fbb908f327f142f7bda9c406113a3c92b058f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
         "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
         "source": "Yahoo",
@@ -12401,18 +12437,18 @@
       {
         "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
         "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "証券口座の乗っ取り被害 4社に「全額補償」求め、集団調停申し立て",
-        "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "1:3152歳占い師の女がだまし取った金品の総額は約27億円か 投資話持ちかけ現金だまし取った詐欺･金商法違反疑いなどで追送致",
+        "url": "https://news.yahoo.co.jp/articles/f1fbb908f327f142f7bda9c406113a3c92b058f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
         "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
         "source": "Yahoo",
@@ -12439,12 +12475,6 @@
       {
         "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
         "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "証券口座の乗っ取り被害 4社に「全額補償」求め、集団調停申し立て",
-        "url": "https://news.yahoo.co.jp/articles/464d4e8369c068c26f5d8f456409bf3bfe25bccc",
         "source": "Yahoo",
         "date": ""
       }
@@ -12527,6 +12557,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "米国、Ｇ２０諸国に新たなＡＩ監督機関設立しないよう説得へ＝高官",
+        "url": "https://news.yahoo.co.jp/articles/586f6b3ed0fb83722581eaba0899aed42ef26c21",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オンライン投資プラットフォーム「ウィブル」がカナダで暗号資産取引開始、コインベース基盤活用",
+        "url": "https://news.yahoo.co.jp/articles/27bb6555ca6478b1916f37e1c9f9d40dad7faf33",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アルパカ、カルシと提携。CFTC規制の予測市場を金融取引APIに統合へ",
         "url": "https://news.yahoo.co.jp/articles/c67e17be15d6cceeb1eec1838e986a5bd8eb1c7a",
         "source": "Yahoo",
@@ -12547,24 +12589,24 @@
       {
         "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
         "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパーリキッド、米国で無期限先物提供へクラーケン親会社と協議＝Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/87f32173a5e3c9db3b48f2cd0151f2f41a2e27ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アイルランド、新投資口座から暗号資産を除外へ",
-        "url": "https://news.yahoo.co.jp/articles/b7287a1b0edf265ad99b7f95f5582280c77ee021",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米国、Ｇ２０諸国に新たなＡＩ監督機関設立しないよう説得へ＝高官",
+        "url": "https://news.yahoo.co.jp/articles/586f6b3ed0fb83722581eaba0899aed42ef26c21",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オンライン投資プラットフォーム「ウィブル」がカナダで暗号資産取引開始、コインベース基盤活用",
+        "url": "https://news.yahoo.co.jp/articles/27bb6555ca6478b1916f37e1c9f9d40dad7faf33",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アルパカ、カルシと提携。CFTC規制の予測市場を金融取引APIに統合へ",
         "url": "https://news.yahoo.co.jp/articles/c67e17be15d6cceeb1eec1838e986a5bd8eb1c7a",
         "source": "Yahoo",
@@ -12585,18 +12627,6 @@
       {
         "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
         "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパーリキッド、米国で無期限先物提供へクラーケン親会社と協議＝Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/87f32173a5e3c9db3b48f2cd0151f2f41a2e27ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アイルランド、新投資口座から暗号資産を除外へ",
-        "url": "https://news.yahoo.co.jp/articles/b7287a1b0edf265ad99b7f95f5582280c77ee021",
         "source": "Yahoo",
         "date": ""
       }
@@ -12755,6 +12785,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
+        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインチェック、仏DFNSと提携──国内金融機関のカストディ支援へ",
         "url": "https://news.yahoo.co.jp/articles/4bfa0615c71e23e1ec6cd8b17e78db45903a8819",
         "source": "Yahoo",
@@ -12781,18 +12817,18 @@
       {
         "title": "金融庁、27年度の予算および機構・定員要求の概要公表。暗号資産など新金融サービスへの体制強化へ",
         "url": "https://news.yahoo.co.jp/articles/b3c47022ad74f83b821b6fe4a2160b9b6eec0cbd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロシア最大手銀行ズベルバンク、BTC・ETH・USDTを融資の担保として受け入れへ",
-        "url": "https://news.yahoo.co.jp/articles/a1fe90f570379c4d364cb0faab3ea5d11555bfb1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
+        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインチェック、仏DFNSと提携──国内金融機関のカストディ支援へ",
         "url": "https://news.yahoo.co.jp/articles/4bfa0615c71e23e1ec6cd8b17e78db45903a8819",
         "source": "Yahoo",
@@ -12819,12 +12855,6 @@
       {
         "title": "金融庁、27年度の予算および機構・定員要求の概要公表。暗号資産など新金融サービスへの体制強化へ",
         "url": "https://news.yahoo.co.jp/articles/b3c47022ad74f83b821b6fe4a2160b9b6eec0cbd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロシア最大手銀行ズベルバンク、BTC・ETH・USDTを融資の担保として受け入れへ",
-        "url": "https://news.yahoo.co.jp/articles/a1fe90f570379c4d364cb0faab3ea5d11555bfb1",
         "source": "Yahoo",
         "date": ""
       }
