@@ -62,7 +62,11 @@ function findDate(text){
   if ((m = text.match(/(20\d{2})\s*[年.\-\/]\s*(\d{1,2})\s*[月.\-\/]\s*(\d{1,2})/))) return `${m[1]}-${pad(+m[2])}-${pad(+m[3])}`;
   return null;
 }
-function isoFromRSSDate(s){ if(!s) return null; const d=new Date(s); return !isNaN(d)?`${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`:findDate(s); }
+// RSSの日付は必ずJSTの暦日に落とす。getFullYear/getMonth/getDate は実行環境のローカル時刻を返すため、
+// GitHub Actions（UTC）で走らせると JST 00:00〜08:59 の公表が前日付になる（実測で確認済み）。
+const JST_OFFSET_MS = 9 * 60 * 60 * 1000;
+const ymdJst = d => new Date(d.getTime() + JST_OFFSET_MS).toISOString().slice(0, 10);
+function isoFromRSSDate(s){ if(!s) return null; const d=new Date(s); return !isNaN(d)?ymdJst(d):findDate(s); }
 function clean(s){
   return (s||'').replace(/<!\[CDATA\[|\]\]>/g,'').replace(/<[^>]+>/g,'')
     .replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#8217;/g,"'")
@@ -85,7 +89,35 @@ const NOISE_TITLE = [
   // 鉤括弧「」付きの実質的更新（JSDA「○○統計情報・取扱状況」を更新しました 等）は対象外＝残す。
   /(?:一覧|状況|数値|価格|ご紹介|対応)を更新しました/,
 ];
-function isNoise(title){ return NOISE_TITLE.some(re => re.test(title || '')); }
+// 「〜を更新しました」系は、法令・規制の実質的な公表にも当たる
+// （例:「資金決済法に関するQ&Aの対応を更新しました」）。ただし例外を広く取ると
+// 明確なノイズまで通す。一度「法」1文字を含めば救う実装にしたところ、
+// 「[マーケット情報] 法定開示情報を更新しました」まで残す状態になった。
+//
+// そこで2段にする。
+//   強いノイズ標識（カテゴリ見出し等）＝ 常にノイズ。例外を認めない
+//   弱いノイズ標識（〜を更新しました）＝ 規制文脈のときだけ残す
+// 規制文脈の判定は推測の正規表現ではなく、**既知の法令辞書 matchLaws（30文書）** と
+// 具体的な行政文書の語だけで行う。辞書に無い「利用法」「法定開示」に誤反応しない。
+//
+// isNoise は蓄積済みの項目も毎回削除する（下の store.items.filter）ため、
+// 広すぎる判定は過去分まで遡って消す。迷ったら残す側に倒す。
+const NOISE_STRONG = [
+  /^\[マーケット情報\]/,          // JPXサイト更新情報カテゴリ（データページの定期更新通知）
+  /適時開示/,                     // 上場会社の開示。法令名を含んでも規制の公表ではない
+  /自己株式|株主優待|決算短信|業績予想/,   // 同上（「会社法に基づく自己株式の取得状況を更新しました」等）
+];
+const REGULATORY_DOC = /府令|政令|省令|告示|ガイドライン|監督指針|事務ガイドライン|パブリックコメント|意見募集|報告徴求|行政処分|業務改善命令|自主規制規則/;
+function isRegulatoryContext(t){
+  if (REGULATORY_DOC.test(t)) return true;
+  return matchLaws(t).length > 0;             // 既知の法令名を含むか（辞書照合＝誤反応しない）
+}
+function isNoise(title){
+  const t = title || '';
+  if (NOISE_STRONG.some(re => re.test(t))) return true;      // 例外を認めない
+  if (!NOISE_TITLE.some(re => re.test(t))) return false;
+  return !isRegulatoryContext(t);
+}
 
 // ---- パーサ ----
 function parseRSS(xml, agency, base){
@@ -399,14 +431,26 @@ async function aiSummarize(items){
 
 async function main(){
   let store = { generatedAt:null, items:[] };
-  if (fs.existsSync(OUT)) { try { store = JSON.parse(fs.readFileSync(OUT,'utf8')); } catch{} }
+  if (fs.existsSync(OUT)) {
+    // 解析できないときに黙って空から始めると、この回の数件だけで data.json を上書きし
+    // 蓄積を全て失う。読めない＝異常なので落とす。前回のファイルはそのまま残る。
+    let raw;
+    try { raw = fs.readFileSync(OUT,'utf8'); }
+    catch(e){ throw new Error(`${OUT} を読めません（蓄積を失わないため中止）: ${e.message}`); }
+    try { store = JSON.parse(raw); }
+    catch(e){ throw new Error(`${OUT} がJSONとして壊れています（蓄積を失わないため中止・ファイルは変更しません）: ${e.message}`); }
+    if (!store || typeof store !== 'object' || !Array.isArray(store.items)) {
+      throw new Error(`${OUT} の items が配列ではありません（蓄積を失わないため中止・ファイルは変更しません）`);
+    }
+  }
   const firstRun = !store.items.length;            // 初回はbaseline取得のみ（大量投稿を防ぐ）
   store.items = store.items.filter(it => !isNoise(it.title));  // 既に蓄積済みのノイズ項目も毎回除去（恒久クリーンアップ）
   const byUrl = new Map(store.items.map(it=>[it.url, it]));   // URL→既存レコード
   const nowIso = new Date().toISOString();
-  const report=[]; const addedItems=[];
+  const report=[]; const addedItems=[]; let okSites=0;
   for (const s of SITES){
     const res = await crawlSite(s);
+    if (res.ok) okSites++;
     report.push(`${s.name}: ${res.ok?res.items.length+'件':'失敗('+res.error+')'}`);
     for (const it of res.items){
       if (isNoise(it.title)) continue;             // 無価値なノイズ（ページ更新通知等）は追加しない
@@ -421,6 +465,16 @@ async function main(){
       }
     }
   }
+  // 全機関の取得に失敗した回は、ここで打ち切る。
+  // 判定を書き出しの後に置くと、items は残っても generatedAt が失敗回の時刻へ進み、
+  // lawnews は全法令が空配列、dietbills は空オブジェクトで上書きされる（補助取得も
+  // 同じ障害で空を返すため）。利用側からは「最新の巡回で何も無かった」と誤読される。
+  if (okSites === 0) {
+    console.log('=== 巡回結果 ==='); report.forEach(r=>console.log(' - '+r));
+    console.error(`巡回失敗: ${SITES.length}機関すべての取得に失敗しました。${OUT} は一切変更していません`);
+    process.exitCode = 1;
+    return;
+  }
   await enrichItems(store.items);                    // 法令ビューア連携用に lawrefs を付与（本文/PDFも解析）
   store.lawnews = await fetchLawNews();               // 各法令の関連ニュース（指定ソースの見出し＋リンク）
   store.dietbills = await fetchDietBills();            // 各法令に関する国会の法律案の審議状況（衆議院議案一覧）
@@ -428,12 +482,36 @@ async function main(){
   await aiSummarize(store.items);                     // AI要点を事前生成（新しい更新から。lawrefs有のみ・上限あり・既生成はスキップ）
   store.generatedAt = nowIso;
   store.sources = SITES.map(s=>({name:s.name, url:s.url}));
-  fs.writeFileSync(OUT, JSON.stringify(store, null, 2), 'utf8');
-  buildFeed(store);                                   // RSS（誰でも各自のSlack/Teams/Feedlyで購読可能に）
+  // 一時ファイルへ書いてから差し替える。writeFileSync は原子的でないため、
+  // 20分のタイムアウト等で書き込み中に打ち切られると data.json が壊れて残る。
+  // 一時名にPIDを入れる：同名だと、手動起動が定期実行と重なったとき片方が他方の
+  // 一時ファイルを rename してしまう。失敗したら必ず消す（.tmp を残さない）。
+  const tmp = `${OUT}.${process.pid}.tmp`;
+  try {
+    fs.writeFileSync(tmp, JSON.stringify(store, null, 2), 'utf8');
+    fs.renameSync(tmp, OUT);
+  } catch(e) {
+    try { fs.unlinkSync(tmp); } catch {}
+    throw e;
+  }
+  // RSSの書き出し失敗でSlack通知まで落とさない。落とすと、次回は同じURLが既存扱いになって
+  // addedItems が0件になり、その回の新着通知が永久に失われる（feed失敗は一過性でも通知は戻らない）。
+  try {
+    buildFeed(store);                                 // RSS（誰でも各自のSlack/Teams/Feedlyで購読可能に）
+  } catch(e) {
+    console.error('RSS生成に失敗（data.json は更新済み・Slack通知は続行）: ' + (e && e.message || e));
+    process.exitCode = 1;
+  }
   console.log('=== 巡回結果 ==='); report.forEach(r=>console.log(' - '+r));
   console.log(`新規追加: ${addedItems.length}件 / 総蓄積: ${store.items.length}件 -> ${OUT}`);
   // 新規分をSlackへ（初回baselineは投稿しない）
   if (!firstRun) await postSlack(addedItems);
   else console.log('初回baselineのためSlack投稿はスキップ');
 }
-main();
+
+// require されたときは main() を走らせない。回帰テストが本物の関数を叩けるようにするため。
+// これが無いと、テスト側が同じ処理を書き写して検証することになり、
+// 本番を壊してもテストが通る（実際に RSS日付の3件がその状態だった）。
+if (require.main === module) main();
+
+module.exports = { ymdJst, isoFromRSSDate, isNoise, isRegulatoryContext, titleClean, findDate };

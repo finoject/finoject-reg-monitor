@@ -72,6 +72,11 @@ const KN = {〇:0,零:0,一:1,二:2,三:3,四:4,五:5,六:6,七:7,八:8,九:9};
 const KSk = {十:10,百:100,千:1000};
 function kanToNum(s){
   if (/^[0-9０-９]+$/.test(s)) return s.replace(/[０-９]/g, d => String.fromCharCode(d.charCodeAt(0)-0xFEE0));
+  // 位取り（十／百／千）を含まない漢数字の連記は「桁の並び」。下のループは1文字ずつ cur を
+  // 上書きするため、最後の1桁しか残らない（「二〇五」→5、「一〇〇」→0）。先に桁として読む。
+  if (/^[〇零一二三四五六七八九]+$/.test(s)) {
+    return String(Number([...s].map(ch => KN[ch]).join('')));
+  }
   let tot=0, cur=0;
   for (const ch of s){ if (ch in KN) cur=KN[ch]; else if (ch in KSk){ tot += (cur||1)*KSk[ch]; cur=0; } }
   return String(tot+cur);
@@ -186,9 +191,27 @@ function matchSource(name, url){
 }
 // 見出しの正規化＝重複判定キー。末尾の「 - 媒体名」「（媒体名）」（閉じカッコ欠落の切れも含む）「…」を除去し、
 // 同一記事が媒体表記ゆれで重複するのを防ぐ（特にYahoo再配信の被り対策）。表示用タイトルではなくキー専用。
+// 末尾カッコを無条件に落とすと、別文書が同一キーに潰れて片方が捨てられる
+// （例:「金融商品取引法改正案（概要）」と「同（新旧対照表）」）。
+// 「文書の種類らしくないものを落とす」という否定形だと、種類の語を数え上げきれず取りこぼす。
+// **既知の媒体名に一致するときだけ落とす**（NEWS_SOURCES＝この後の重複判定でも使う一覧）。
+// 一覧に無い媒体はキーに残るが、その場合の害は「同一記事が2件並ぶ」だけで、
+// 別文書を消してしまう害より小さい。新しい媒体が出たら NEWS_SOURCES に足す。
+// 文書の種類を表す語。これが入っていたら媒体名ではないので落とさない。
+const DOC_QUALIFIER = /概要|案|新旧対照表|対照表|要綱|Q&A|Ｑ＆Ａ|ガイドライン|府令|政令|省令|告示|改正|別紙|別添|参考|資料|抜粋|全文|骨子|報告書|指針|版|平成|令和|20\d{2}/;
+function isKnownMedia(s){
+  const x = (s || '').replace(/[）)\s　]+$/,'').trim();
+  if (!x) return false;
+  if (NEWS_SOURCES.some(e => e.re.test(x))) return true;
+  // 一覧に無い媒体（ロイター等）も落とす。ただし文書の種類らしい語を含むものは残す。
+  // 既知の一覧だけに限ると、未登録の媒体で同一記事が2件並ぶ（「…（ロイター）」と「…（Yahoo）」）。
+  // 長さで切るのは、媒体名は短く、文書名は長くなりやすいため。
+  return x.length <= 8 && !DOC_QUALIFIER.test(x);
+}
 function normNewsTitle(t){
   let s = (t||'').replace(/[\s　]+/g,' ').trim();
-  s = s.replace(/[（(][^（(]*$/,'');               // 末尾の最後の開きカッコ以降（＝媒体名。閉じ有無問わず）
+  const paren = s.match(/[（(]([^（(]*)$/);        // 末尾の最後の開きカッコ以降
+  if (paren && isKnownMedia(paren[1])) s = s.slice(0, paren.index);
   s = s.replace(/\s*[-–—｜|]\s*[^-–—｜|]*$/,'');    // 末尾「 - 媒体名」
   s = s.replace(/[…\.\s　]+$/,'');                 // 末尾の省略記号
   return s.replace(/[\s　]/g,'').toLowerCase();
@@ -227,8 +250,16 @@ const NEWS_QUERY = {
   'fsa-guide-14':Q.資金移動,'fsa-guide-16':Q.暗号資産,'fsa-guide-17':Q.ステーブル,'fsa-guide-05':Q.前払式,
 };
 // 関連ニュースとして無価値な見出し（適時開示・自己株式・決算等の市場/開示データ系）を除外
-const NEWS_NOISE = /適時開示|自己株式|株主優待|決算(発表|短信)?|配当予想|月次|業績予想|株価|\[\d{3,4}\]/;
-function isNewsNoise(title){ return NEWS_NOISE.test(title||''); }
+// 「決算」「月次」を単独で弾くと当局の公表まで落ちる
+// （「主要行等の令和8年3月期決算の概要」「暗号資産交換業者の月次報告について」）。
+// 上場会社の開示物を指す語に限定する＝除外の例外規定を持たずに済ませる。
+//
+// 一度「規制文脈の語を含むなら捨てない」という例外を入れたが、これは誤りだった。
+// 例外語に単独の「法」や「登録」が入るため、「[7203] 会社法に基づく自己株式の取得状況」
+// 「A社 月次売上高・会員登録者数のお知らせ」のような明確なノイズまで通してしまう。
+// 判定語そのものを狭めるほうが、例外で打ち消すより副作用が無い。
+const NEWS_NOISE = /適時開示|自己株式|株主優待|決算(発表|短信|説明会?)|配当予想|月次(売上|業績|データ|開示|情報|レポート)|業績予想|株価|\[\d{3,4}\]/;
+function isNewsNoise(title){ return NEWS_NOISE.test(title || ''); }
 
 module.exports = { LAW_DICT, LABEL, NAME_ENTRIES, matchLaws, buildLawrefs, detectKind, worthFetching, kanToNum,
   NEWS_SOURCES, matchSource, normNewsTitle, dedupeNews, NEWS_QUERY, isNewsNoise };

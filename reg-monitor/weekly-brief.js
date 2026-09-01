@@ -1,6 +1,6 @@
 // finoject Financial Weekly Regulatory Brief ─ 週次「材料」生成
 //
-// 毎週金曜の朝にGitHub Actionsから実行し、data.json から対象週（土〜金）の全件を切り出して
+// 毎週金曜の朝にGitHub Actionsから実行し、data.json から対象週（金〜木）の全件を切り出して
 // weekly/weekly-YYYY-MM-DD.md に書き出し、Slackへ着手通知を投げる。
 //
 // このスクリプトがやるのは「材料の用意」まで。図表の作成・一次資料の突合・本文の執筆は
@@ -15,40 +15,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const JST_OFFSET_MS = 9 * 60 * 60 * 1000;
-const DOW_JA = ['日', '月', '火', '水', '木', '金', '土'];
-const MIN_YEAR = 2000, MAX_YEAR = 2100;
-
-// JSTの暦日をUTCフィールドとして持つDateを返す（以降 getUTC*/toISOString はJSTの値として読める）
-const nowJst = () => new Date(Date.now() + JST_OFFSET_MS);
-const ymd = d => d.toISOString().slice(0, 10);
-const addDays = (d, n) => { const x = new Date(d.getTime()); x.setUTCDate(x.getUTCDate() + n); return x; };
-const label = d => `${ymd(d)}（${DOW_JA[d.getUTCDay()]}）`;
-
-// 形式と実在日の両方を検証する。`new Date('2026-04-31')` は例外を投げず 2026-05-01 に
-// 正規化されるため、往復で元の文字列に戻るかまで見ないと「存在しない日付を渡したのに
-// 別の週が黙って生成される」事故になる。
-function parseYmdStrict(s) {
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(s)) {
-    throw new Error(`--week-end は YYYY-MM-DD 形式で指定してください: ${JSON.stringify(s)}`);
-  }
-  const d = new Date(s + 'T00:00:00Z');
-  if (Number.isNaN(d.getTime()) || ymd(d) !== s) {
-    throw new Error(`--week-end に存在しない日付が指定されました: ${s}`);
-  }
-  // 形式も実在日も通るが業務上ありえない年（`0000-01-07` 等）を弾く
-  const y = d.getUTCFullYear();
-  if (y < MIN_YEAR || y > MAX_YEAR) {
-    throw new Error(`--week-end の年が範囲外です（${MIN_YEAR}〜${MAX_YEAR}）: ${s}`);
-  }
-  return d;
-}
-
-// 対象週の終端＝配信日の金曜。金曜に走れば当日、それ以外に走れば直前の金曜（＝直近の「完結した週」）。
-function weekEnd(today) {
-  const back = (today.getUTCDay() - 5 + 7) % 7;   // 金=5
-  return addDays(today, -back);
-}
+// 週の計算は jstweek.js に一本化する。ここに自前の実装を持つと、片方だけ直したときに
+// chaindetective-weekly.js と別の週を指す（実際にそうなりかけた）。
+const { nowJst, ymd, addDays, label, resolveWeek } = require('./jstweek');
 
 function parseArgs(argv) {
   const a = { weekEnd: null, slack: true, outDir: null, summaryOut: null, notifyFrom: null };
@@ -80,18 +49,16 @@ async function main() {
     return;
   }
 
-  const TO = args.weekEnd ? parseYmdStrict(args.weekEnd) : weekEnd(nowJst());
-  const FROM = addDays(TO, -6);
-
-  // 曜日は必ず暦で検算する（初回に「7/25（金）」と誤記した事故の再発防止）
-  if (TO.getUTCDay() !== 5 || FROM.getUTCDay() !== 6) {
-    throw new Error(`対象期間の曜日が不正です: ${label(FROM)}〜${label(TO)}（土〜金である必要があります）`);
-  }
+  // --week-end は従来どおり「配信日の金曜」を指す（既存の呼び出しをそのまま使える）。
+  // 曜日の検算・存在しない日付の排除は resolveWeek 側で行う（chaindetective と同じ経路）。
+  const wk = resolveWeek(args.weekEnd, '--week-end');
+  const DELIVERY = wk.BASE, TO = wk.TO, FROM = wk.FROM;
 
   const dataPath = path.join(__dirname, '..', 'reg-monitor-site', 'data.json');
   const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
 
-  const from = ymd(FROM), to = ymd(TO);
+  const from = wk.from, to = wk.to;
+  const issue = wk.base;   // 号数・ファイル名は配信日（金曜）で付ける
   // 機関名・表題が欠けていても落とさず、欠けていること自体が見えるようにする。
   // String() を通すのは、truthyな非文字列（数値等）が来ても localeCompare で落ちないようにするため。
   const text = (v, fallback) => (v === undefined || v === null || v === '' ? fallback : String(v));
@@ -107,19 +74,19 @@ async function main() {
 
   const outDir = args.outDir || path.join(__dirname, '..', 'weekly');
   fs.mkdirSync(outDir, { recursive: true });
-  const outPath = path.join(outDir, `weekly-${to}.md`);
-  fs.writeFileSync(outPath, render({ from, to, FROM, TO, week, byAgency, data }), 'utf8');
+  const outPath = path.join(outDir, `weekly-${issue}.md`);
+  fs.writeFileSync(outPath, render({ from, to, issue, FROM, TO, week, byAgency, data }), 'utf8');
   console.log(`出力 ${outPath}`);
 
   // 通知に必要な値はここで確定させる。後段で作り直さない＝ずれようがない。
   const summary = {
-    weekEnd: to,
+    weekEnd: issue,
     fromLabel: label(FROM),
     toLabel: label(TO),
     count: week.length,
     breakdown: Object.entries(byAgency).map(([k, v]) => [k, v.length]),
     generatedAt: data.generatedAt,
-    isDeliveryDay: ymd(nowJst()) === to,   // 定刻（金曜）の実行か、後追いのバックフィルか
+    isDeliveryDay: ymd(nowJst()) === issue,   // 定刻（配信日の金曜）の実行か、後追いのバックフィルか
     repo: process.env.GITHUB_REPOSITORY || 'finoject/finoject-reg-monitor',
   };
 
@@ -130,17 +97,17 @@ async function main() {
   if (args.slack) await notifySlack(summary);
 }
 
-function render({ from, to, FROM, TO, week, byAgency, data }) {
+function render({ from, to, issue, FROM, TO, week, byAgency, data }) {
   const L = [];
-  L.push(`# finoject Financial Weekly Regulatory Brief ─ ${to}号 材料`);
+  L.push(`# finoject Financial Weekly Regulatory Brief ─ ${issue}号 材料`);
   L.push('');
-  L.push(`- 対象期間: **${label(FROM)} 〜 ${label(TO)}**（土〜金の7日間）`);
+  L.push(`- 対象期間: **${label(FROM)} 〜 ${label(TO)}**（金〜木の7日間）`);
   L.push(`- data.json 生成時刻: ${data.generatedAt}`);
   L.push(`- 材料件数: ${week.length}件（国内の自動巡回分のみ。**これは母集団を網羅した数字ではないので本文には出さない**）`);
   L.push('');
   L.push('## 執筆前に必ず片付けること');
   L.push('');
-  L.push('1. **金曜夕方の追加公表を取り込む。** 金融庁は17時以降も公表を足す。最終稿の直前に data.json を引き直し、この材料に無い件が出ていないか確かめる。');
+  L.push('1. **配信日（金曜）の公表は、この材料には入っていない。** 対象期間は先週金曜〜今週木曜。金曜の公表は翌号の先頭に入るので、**本文に取り込んだ場合は翌号で重複しないよう申し送ること。**');
   L.push('2. **海外パートを足す。** この材料は国内の自動巡回分だけ。米国（SEC・CFTC・FinCEN・OCC・FDIC・GENIUS Act）／EU（MiCA＝ESMA・EBA・EIOPA）／FATF は、`#金融規制情報` のChaindetective週次投稿を入力にしつつ、**日付・数値は必ず一次資料で取り直す**（同投稿は継続論点も含むため、対象週に日付が入るものだけ採る）。');
   L.push('3. **法令改正は施行スケジュールの構造まで書く。** 「政令公布・◯/◯施行」だけでは本体が施行されると誤読される。附則第1条の区分（原則／罰則／例外）を、金融庁「国会提出法案」ページの**法律案要綱PDF末尾「第３ 施行期日等」**（横書きで読める。条文PDFは縦書きでpdftotext不可）で確認する。');
   L.push('4. **「なし」は書かない。** 該当のない機関は何も書かない。件数の集計も出さない。');
