@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-01T03:05:38.093Z",
+  "generatedAt": "2026-09-01T04:50:46.335Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "日銀当座預金増減要因と金融調節（8月実績）",
+      "url": "https://www.boj.or.jp/statistics/boj/fm/juqf/juqf08.xlsx",
+      "date": "2026-09-01",
+      "detectedAt": "2026-09-01T04:50:46.335Z",
+      "enriched": "2026-09-01T04:50:52.066Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "申し訳ございません。提供いただいた本文がバイナリ形式（Excel圧縮ファイル）であり、具体的な数値・改正内容・対象等の実務情報を抽出できません。",
+        "本文のテキスト形式での提供をお願いいたします。当座預金の増減要因と金融調節の具体的な実績値、対象取引、実行時期等を確認いただきたくお願いいたします。",
+        "日本銀行公表物のコンプライアンス実務抽出には、解析可能な形式（PDF、テキスト等）での本文提供が必須です。ご対応をお願いいたします。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "JVCEA",
       "title": "移転制限が付された暗号資産の情報提供及び公表に関する規則第5条第3項に基づく公表について更新しました。",
@@ -12191,6 +12206,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
+        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
@@ -12217,18 +12238,18 @@
       {
         "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
         "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
-        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
+        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
@@ -12255,18 +12276,18 @@
       {
         "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
         "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
-        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
+        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
@@ -12293,18 +12314,18 @@
       {
         "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
         "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
-        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
+        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
@@ -12331,12 +12352,6 @@
       {
         "title": "退職年金プランでの暗号資産投資はハイリスク＝米意識調査",
         "url": "https://news.yahoo.co.jp/articles/714497b96b297ed5c0246cd44d67af3ab0f00406",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界へ羽ばたくデジタル証券、パブリックチェーンがつなぐ国境──5社共同の国内ST実証に見るクロスボーダー流通の可能性【イベントレポート】",
-        "url": "https://news.yahoo.co.jp/articles/d470d78593590354ad03b441359d09aefc8dffca",
         "source": "Yahoo",
         "date": ""
       }
@@ -12419,6 +12434,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "アイルランド、新投資口座から暗号資産を除外へ",
+        "url": "https://news.yahoo.co.jp/articles/b7287a1b0edf265ad99b7f95f5582280c77ee021",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【墨汁うまい氏寄稿】ビットコイン8万ドル回復の理由、米財務省とCME機関投資家が示した強気サイン",
         "url": "https://news.yahoo.co.jp/articles/f8a9e89f820ea3ca6b68207e770485a7c88f1138",
         "source": "Yahoo",
@@ -12445,18 +12466,18 @@
       {
         "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "露スベルバンク、BTC・ETH・USDTを融資担保に受け入れへ＝報道",
-        "url": "https://news.yahoo.co.jp/articles/04dd91c7a1cef1d508479cf98c373466efd84e97",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "アイルランド、新投資口座から暗号資産を除外へ",
+        "url": "https://news.yahoo.co.jp/articles/b7287a1b0edf265ad99b7f95f5582280c77ee021",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【墨汁うまい氏寄稿】ビットコイン8万ドル回復の理由、米財務省とCME機関投資家が示した強気サイン",
         "url": "https://news.yahoo.co.jp/articles/f8a9e89f820ea3ca6b68207e770485a7c88f1138",
         "source": "Yahoo",
@@ -12483,12 +12504,6 @@
       {
         "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "露スベルバンク、BTC・ETH・USDTを融資担保に受け入れへ＝報道",
-        "url": "https://news.yahoo.co.jp/articles/04dd91c7a1cef1d508479cf98c373466efd84e97",
         "source": "Yahoo",
         "date": ""
       }
@@ -12647,6 +12662,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "チェイナリシス、ICEのTRMラボ向け約9500万ドル随意契約を巡り米政府提訴",
+        "url": "https://news.yahoo.co.jp/articles/0e288827cd11479cac54d649414a4798fb754eb8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オンチェーン金融はどこまで現実になったのか──ステーブルコイン・トークン化資産・金融インフラの現在地【N.Avenue club 4期2回ラウンドテーブル・レポート】",
         "url": "https://news.yahoo.co.jp/articles/e27996f9f875b83b5d6189c740ae912dc4fdf827",
         "source": "Yahoo",
@@ -12673,18 +12694,18 @@
       {
         "title": "中古車輸出から始める「オンチェーン貿易金融」──SBI XDC・TOPPAN・Gincoが大阪で実証",
         "url": "https://news.yahoo.co.jp/articles/2b6c09930682272b5ae0a3b8c15a1ef9e30495f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガン、個人向け銀行部門で暗号資産チームを拡充",
-        "url": "https://news.yahoo.co.jp/articles/f109df72e398d9491b32b02ace768eb534793adf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "チェイナリシス、ICEのTRMラボ向け約9500万ドル随意契約を巡り米政府提訴",
+        "url": "https://news.yahoo.co.jp/articles/0e288827cd11479cac54d649414a4798fb754eb8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オンチェーン金融はどこまで現実になったのか──ステーブルコイン・トークン化資産・金融インフラの現在地【N.Avenue club 4期2回ラウンドテーブル・レポート】",
         "url": "https://news.yahoo.co.jp/articles/e27996f9f875b83b5d6189c740ae912dc4fdf827",
         "source": "Yahoo",
@@ -12711,12 +12732,6 @@
       {
         "title": "中古車輸出から始める「オンチェーン貿易金融」──SBI XDC・TOPPAN・Gincoが大阪で実証",
         "url": "https://news.yahoo.co.jp/articles/2b6c09930682272b5ae0a3b8c15a1ef9e30495f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガン、個人向け銀行部門で暗号資産チームを拡充",
-        "url": "https://news.yahoo.co.jp/articles/f109df72e398d9491b32b02ace768eb534793adf",
         "source": "Yahoo",
         "date": ""
       }
@@ -13247,6 +13262,12 @@
     ],
     "417AC0000000086": [
       {
+        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
+        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
         "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
         "source": "Yahoo",
@@ -13273,18 +13294,18 @@
       {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
-        "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
+        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
         "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
         "source": "Yahoo",
@@ -13311,18 +13332,18 @@
       {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
-        "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
+        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
         "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
         "source": "Yahoo",
@@ -13349,18 +13370,18 @@
       {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
-        "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
+        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
         "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
         "source": "Yahoo",
@@ -13387,18 +13408,18 @@
       {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
-        "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
+        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SEC、暗号資産カストディ規則の見直し案をOMBに送付",
         "url": "https://news.yahoo.co.jp/articles/ea1f7236692765a4cdb6813cf059fdea3ea3a1bb",
         "source": "Yahoo",
@@ -13425,12 +13446,6 @@
       {
         "title": "アクティビスト活動に一定の制限、株主権限の要件を厳格化－自民PT",
         "url": "https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オーナー経営者は要注意――非上場株の相続税評価見直しで事業承継はどう変わるのか",
-        "url": "https://news.yahoo.co.jp/articles/18d63490447c383373006fdf3ad49cfb01184b48",
         "source": "Yahoo",
         "date": ""
       }
