@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-01T10:27:57.389Z",
+  "generatedAt": "2026-09-01T12:06:51.088Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：イーソル（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260901-11.html",
+      "date": "2026-09-01",
+      "detectedAt": "2026-09-01T12:06:51.088Z",
+      "enriched": "2026-09-01T12:06:57.515Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "イーソル株式会社（コード4420、スタンダード市場）が2026年9月1日付で監理銘柄(確認中)に指定された。公開買付者による買収に伴い特定者以外の株主の全株式が1株未満の端数となる株式併合予定が指定理由。",
+        "イーソル株式会社は公開買付者(BCD-110)からの買収提案に賛同を表明した。株主総会で株式併合議案が承認された場合、上場廃止になることから監理銘柄(確認中)の指定対象となった。",
+        "監理銘柄(確認中)の指定期間は2026年9月1日から東証が上場廃止基準該当性を認定する日までであり、有価証券上場規程施行規則第604条第1項第24号に基づく措置である。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "「0歳からNISA口座が開設できるようになります！」（リーフレット）を公開しました。",
@@ -12329,6 +12344,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "架空投資で27億円詐取か 占い師だった女を追送検 県警は今月1日、田斉容疑者と共謀し、女性3人に無登録で会社への出資を勧誘したとして、金融商品取引法違反の疑いで、福岡市城南区の50代の夫婦も書類送検した。共同通信社会9/1(火) 20:38",
+        "url": "https://news.yahoo.co.jp/articles/c3899c51f2674e27625f3429518ad53f39f8c860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
+        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:3152歳占い師の女がだまし取った金品の総額は約27億円か 投資話持ちかけ現金だまし取った詐欺･金商法違反疑いなどで追送致",
         "url": "https://news.yahoo.co.jp/articles/f1fbb908f327f142f7bda9c406113a3c92b058f5",
         "source": "Yahoo",
@@ -12349,24 +12376,24 @@
       {
         "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英国政府、暗号資産で240人の億万長者が誕生と発表",
-        "url": "https://news.yahoo.co.jp/articles/bd5928c9c0b44186c00ed4c9133a0424324a5b1c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
-        "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "架空投資で27億円詐取か 占い師だった女を追送検 県警は今月1日、田斉容疑者と共謀し、女性3人に無登録で会社への出資を勧誘したとして、金融商品取引法違反の疑いで、福岡市城南区の50代の夫婦も書類送検した。共同通信社会9/1(火) 20:38",
+        "url": "https://news.yahoo.co.jp/articles/c3899c51f2674e27625f3429518ad53f39f8c860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
+        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:3152歳占い師の女がだまし取った金品の総額は約27億円か 投資話持ちかけ現金だまし取った詐欺･金商法違反疑いなどで追送致",
         "url": "https://news.yahoo.co.jp/articles/f1fbb908f327f142f7bda9c406113a3c92b058f5",
         "source": "Yahoo",
@@ -12387,24 +12414,24 @@
       {
         "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英国政府、暗号資産で240人の億万長者が誕生と発表",
-        "url": "https://news.yahoo.co.jp/articles/bd5928c9c0b44186c00ed4c9133a0424324a5b1c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
-        "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "架空投資で27億円詐取か 占い師だった女を追送検 県警は今月1日、田斉容疑者と共謀し、女性3人に無登録で会社への出資を勧誘したとして、金融商品取引法違反の疑いで、福岡市城南区の50代の夫婦も書類送検した。共同通信社会9/1(火) 20:38",
+        "url": "https://news.yahoo.co.jp/articles/c3899c51f2674e27625f3429518ad53f39f8c860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
+        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:3152歳占い師の女がだまし取った金品の総額は約27億円か 投資話持ちかけ現金だまし取った詐欺･金商法違反疑いなどで追送致",
         "url": "https://news.yahoo.co.jp/articles/f1fbb908f327f142f7bda9c406113a3c92b058f5",
         "source": "Yahoo",
@@ -12425,24 +12452,24 @@
       {
         "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英国政府、暗号資産で240人の億万長者が誕生と発表",
-        "url": "https://news.yahoo.co.jp/articles/bd5928c9c0b44186c00ed4c9133a0424324a5b1c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
-        "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "架空投資で27億円詐取か 占い師だった女を追送検 県警は今月1日、田斉容疑者と共謀し、女性3人に無登録で会社への出資を勧誘したとして、金融商品取引法違反の疑いで、福岡市城南区の50代の夫婦も書類送検した。共同通信社会9/1(火) 20:38",
+        "url": "https://news.yahoo.co.jp/articles/c3899c51f2674e27625f3429518ad53f39f8c860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
+        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:3152歳占い師の女がだまし取った金品の総額は約27億円か 投資話持ちかけ現金だまし取った詐欺･金商法違反疑いなどで追送致",
         "url": "https://news.yahoo.co.jp/articles/f1fbb908f327f142f7bda9c406113a3c92b058f5",
         "source": "Yahoo",
@@ -12465,21 +12492,21 @@
         "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "英国政府、暗号資産で240人の億万長者が誕生と発表",
-        "url": "https://news.yahoo.co.jp/articles/bd5928c9c0b44186c00ed4c9133a0424324a5b1c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
-        "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ",
+        "url": "https://news.yahoo.co.jp/articles/d372b2af2cfbd715a768f6bd92a4a0e20629c68c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
+        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
         "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
@@ -12501,24 +12528,24 @@
       {
         "title": "金融庁、信託型ステーブルコインの法定調書「提出不要」要望。2027年度税制改正で",
         "url": "https://news.yahoo.co.jp/articles/241198fa15baecb8f7450dfc35a57f734f060754",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
-        "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「ゴキブリが出た」から「成果自慢」まで高市首相の「X連投」にとびかう批判 官邸発「一方通行メッセージ」の空回り",
-        "url": "https://news.yahoo.co.jp/articles/de03ccbe585e510accdec1200d766b5607645cda",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ",
+        "url": "https://news.yahoo.co.jp/articles/d372b2af2cfbd715a768f6bd92a4a0e20629c68c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
+        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
         "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
         "source": "Yahoo",
@@ -12541,21 +12568,21 @@
         "url": "https://news.yahoo.co.jp/articles/241198fa15baecb8f7450dfc35a57f734f060754",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "「触れないもの」には投資しない──30年ガチホの金投資家、ビットコインを語る【独自インタビュー】",
-        "url": "https://news.yahoo.co.jp/articles/48a5fc01158a18e689a3ea15b172cf906f530af5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「ゴキブリが出た」から「成果自慢」まで高市首相の「X連投」にとびかう批判 官邸発「一方通行メッセージ」の空回り",
-        "url": "https://news.yahoo.co.jp/articles/de03ccbe585e510accdec1200d766b5607645cda",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "イオレ、HYPE取得1億円到達──暗号資産業界団体にも加入",
+        "url": "https://news.yahoo.co.jp/articles/a6f7efd273e073af98962c8571e0ce840da8dd12",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
+        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "米国、Ｇ２０諸国に新たなＡＩ監督機関設立しないよう説得へ＝高官",
         "url": "https://news.yahoo.co.jp/articles/586f6b3ed0fb83722581eaba0899aed42ef26c21",
@@ -12577,24 +12604,24 @@
       {
         "title": "米アルパカ、予測市場に参入へ──Kalshiと提携",
         "url": "https://news.yahoo.co.jp/articles/fe3061dcefcb127ca86170b7a600e5882bddfdef",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインチェック、仏DFNSと提携──国内金融機関のカストディ支援へ",
-        "url": "https://news.yahoo.co.jp/articles/4bfa0615c71e23e1ec6cd8b17e78db45903a8819",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
-        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "イオレ、HYPE取得1億円到達──暗号資産業界団体にも加入",
+        "url": "https://news.yahoo.co.jp/articles/a6f7efd273e073af98962c8571e0ce840da8dd12",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
+        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米国、Ｇ２０諸国に新たなＡＩ監督機関設立しないよう説得へ＝高官",
         "url": "https://news.yahoo.co.jp/articles/586f6b3ed0fb83722581eaba0899aed42ef26c21",
         "source": "Yahoo",
@@ -12615,18 +12642,6 @@
       {
         "title": "米アルパカ、予測市場に参入へ──Kalshiと提携",
         "url": "https://news.yahoo.co.jp/articles/fe3061dcefcb127ca86170b7a600e5882bddfdef",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインチェック、仏DFNSと提携──国内金融機関のカストディ支援へ",
-        "url": "https://news.yahoo.co.jp/articles/4bfa0615c71e23e1ec6cd8b17e78db45903a8819",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パシフィックメタ、ファイアブロックスの国内導入支援へ。リファラルパートナー就任",
-        "url": "https://news.yahoo.co.jp/articles/9b2cdd08b4e2f72317eb68a37eb20a03fcb912e3",
         "source": "Yahoo",
         "date": ""
       }
@@ -12785,6 +12800,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "NYSE親会社ICE、tZEROとトークン化証券市場のインフラ開発で提携",
+        "url": "https://news.yahoo.co.jp/articles/1aa3b1e309dde2bfea721695540789f35769affb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ",
+        "url": "https://news.yahoo.co.jp/articles/d372b2af2cfbd715a768f6bd92a4a0e20629c68c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
         "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
         "source": "Yahoo",
@@ -12805,24 +12832,24 @@
       {
         "title": "チェイナリシス、ICEのTRMラボ向け約9500万ドル随意契約を巡り米政府提訴",
         "url": "https://news.yahoo.co.jp/articles/0e288827cd11479cac54d649414a4798fb754eb8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンチェーン金融はどこまで現実になったのか──ステーブルコイン・トークン化資産・金融インフラの現在地【N.Avenue club 4期2回ラウンドテーブル・レポート】",
-        "url": "https://news.yahoo.co.jp/articles/e27996f9f875b83b5d6189c740ae912dc4fdf827",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、27年度の予算および機構・定員要求の概要公表。暗号資産など新金融サービスへの体制強化へ",
-        "url": "https://news.yahoo.co.jp/articles/b3c47022ad74f83b821b6fe4a2160b9b6eec0cbd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "NYSE親会社ICE、tZEROとトークン化証券市場のインフラ開発で提携",
+        "url": "https://news.yahoo.co.jp/articles/1aa3b1e309dde2bfea721695540789f35769affb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ",
+        "url": "https://news.yahoo.co.jp/articles/d372b2af2cfbd715a768f6bd92a4a0e20629c68c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
         "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
         "source": "Yahoo",
@@ -12843,18 +12870,6 @@
       {
         "title": "チェイナリシス、ICEのTRMラボ向け約9500万ドル随意契約を巡り米政府提訴",
         "url": "https://news.yahoo.co.jp/articles/0e288827cd11479cac54d649414a4798fb754eb8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンチェーン金融はどこまで現実になったのか──ステーブルコイン・トークン化資産・金融インフラの現在地【N.Avenue club 4期2回ラウンドテーブル・レポート】",
-        "url": "https://news.yahoo.co.jp/articles/e27996f9f875b83b5d6189c740ae912dc4fdf827",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、27年度の予算および機構・定員要求の概要公表。暗号資産など新金融サービスへの体制強化へ",
-        "url": "https://news.yahoo.co.jp/articles/b3c47022ad74f83b821b6fe4a2160b9b6eec0cbd",
         "source": "Yahoo",
         "date": ""
       }
