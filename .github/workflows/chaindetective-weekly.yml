@@ -1,0 +1,61 @@
+name: chaindetective-weekly
+
+# Chaindetective 週次グローバル規制・AML動向ブリーフィングを Slack #金融規制情報 へ投稿する。
+#
+# もともとローカルのスケジュールタスク（~/.claude/scheduled-tasks/chaindetective-weekly-briefing）
+# に置いていたが、ローカルタスクはPCでClaude Codeが動いている時しか発火せず、
+# 2026年7月28日の初回手動実行以降ひとつも投稿されていなかった。常時稼働するActionsへ移設。
+#
+# レポート本文の生成は Cloudflare Worker の /ai（task=briefing）に投げる。
+# ANTHROPIC_API_KEY は Worker のsecretにあり、このリポジトリには置かない。
+
+on:
+  schedule:
+    # 金曜 17:07 JST = 金曜 08:07 UTC。:00 は GitHub の schedule が混雑してドロップ/遅延しやすいので避ける。
+    - cron: '7 8 * * 5'
+  workflow_dispatch:
+    inputs:
+      week_end:
+        description: '対象週の終端（金曜・YYYY-MM-DD）。空なら直近の金曜'
+        required: false
+        type: string
+      dry_run:
+        description: '収集だけ行い、レポート生成もSlack投稿もしない（動作確認用）'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: read   # 何もコミットしない。読むだけ。
+
+concurrency:
+  group: chaindetective-weekly
+  cancel-in-progress: false
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 収集 → レポート生成 → Slack投稿
+        working-directory: reg-monitor
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          # Worker側に BRIEFING_TOKEN を設定して /ai を保護する場合のみ、同名secretをここにも登録する。
+          # 両方未設定でも動く（Worker側が未設定なら検査しない）。
+          BRIEFING_TOKEN: ${{ secrets.BRIEFING_TOKEN }}
+          # 入力はシェルに直接展開せず環境変数経由で渡す（スクリプトインジェクション回避）
+          WEEK_END: ${{ inputs.week_end }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          ARGS=()
+          if [ -n "$WEEK_END" ]; then ARGS+=(--week-end "$WEEK_END"); fi
+          # scheduleからの起動では DRY_RUN は空。明示的に true のときだけ収集で止める。
+          if [ "$DRY_RUN" = "true" ]; then ARGS+=(--dry-run); fi
+          node chaindetective-weekly.js "${ARGS[@]}"
