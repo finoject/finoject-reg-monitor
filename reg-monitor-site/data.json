@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-02T00:30:28.709Z",
+  "generatedAt": "2026-09-02T02:09:40.202Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "【挨拶】高田審議委員「わが国の経済・物価情勢と金融政策」（札幌）",
+      "url": "https://www.boj.or.jp/about/press/koen_2026/ko260902a.htm",
+      "date": "2026-09-02",
+      "detectedAt": "2026-09-02T02:09:40.202Z",
+      "enriched": "2026-09-02T02:09:45.982Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "米国の関税政策（2025年4月）と中東情勢の石油価格上昇が当初、日本経済の下押し要因と懸念されたが、実際の影響は限定的で、企業収益や実質賃金がプラスに転じた現状を評価。",
+        "日本銀行政策委員会審議委員として、設備投資・企業収益・賃金上昇・価格転嫁・エネルギー政策の5つの下振れリスク要因について、いずれも悲観的シナリオが回避されつつあると判断。",
+        "1970年代の石油危機時との対比で、金融・財政政策・賃上げ抑制・価格転嫁抑制・省エネ対策の4要素が二次的波及を抑制し、日本経済は顕著な減速に至っていない状況を指摘。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（8月31日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260831.htm",
+      "date": "2026-09-02",
+      "detectedAt": "2026-09-02T02:09:40.202Z",
+      "enriched": "2026-09-02T02:09:45.982Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の令和8年8月31日現在の総資産は644,662,019,610千円で、国債519,927,691,026千円、貸付金71,857,700,000千円、金銭の信託36,983,507,993千円等から構成される。",
+        "発行銀行券114,867,267,138千円、当座預金424,321,985,703千円が負債の主要項目であり、日本銀行の資産・負債は毎旬報告により公表される。",
+        "貸付金のうち共通担保資金供給オペレーション等による貸付金32,751,800,000千円、貸出支援基金39,105,900,000千円が計上され、別表で内訳が示される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "マネタリーベース（8月）",
@@ -12344,6 +12374,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "米SEC、1970年代の証券代行規則を刷新へ──ブロックチェーン対応を提案",
+        "url": "https://news.yahoo.co.jp/articles/1b09815010f708d7504268902ed8d4b4ef9821fd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "架空投資で27億円詐取か 占い師だった女を追送検 県警は今月1日、田斉容疑者と共謀し、女性3人に無登録で会社への出資を勧誘したとして、金融商品取引法違反の疑いで、福岡市城南区の50代の夫婦も書類送検した。共同通信社会9/1(火) 20:38",
         "url": "https://news.yahoo.co.jp/articles/c3899c51f2674e27625f3429518ad53f39f8c860",
         "source": "Yahoo",
@@ -12370,18 +12406,18 @@
       {
         "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
         "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "米SEC、1970年代の証券代行規則を刷新へ──ブロックチェーン対応を提案",
+        "url": "https://news.yahoo.co.jp/articles/1b09815010f708d7504268902ed8d4b4ef9821fd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "架空投資で27億円詐取か 占い師だった女を追送検 県警は今月1日、田斉容疑者と共謀し、女性3人に無登録で会社への出資を勧誘したとして、金融商品取引法違反の疑いで、福岡市城南区の50代の夫婦も書類送検した。共同通信社会9/1(火) 20:38",
         "url": "https://news.yahoo.co.jp/articles/c3899c51f2674e27625f3429518ad53f39f8c860",
         "source": "Yahoo",
@@ -12408,18 +12444,18 @@
       {
         "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
         "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "米SEC、1970年代の証券代行規則を刷新へ──ブロックチェーン対応を提案",
+        "url": "https://news.yahoo.co.jp/articles/1b09815010f708d7504268902ed8d4b4ef9821fd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "架空投資で27億円詐取か 占い師だった女を追送検 県警は今月1日、田斉容疑者と共謀し、女性3人に無登録で会社への出資を勧誘したとして、金融商品取引法違反の疑いで、福岡市城南区の50代の夫婦も書類送検した。共同通信社会9/1(火) 20:38",
         "url": "https://news.yahoo.co.jp/articles/c3899c51f2674e27625f3429518ad53f39f8c860",
         "source": "Yahoo",
@@ -12446,18 +12482,18 @@
       {
         "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
         "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "米SEC、1970年代の証券代行規則を刷新へ──ブロックチェーン対応を提案",
+        "url": "https://news.yahoo.co.jp/articles/1b09815010f708d7504268902ed8d4b4ef9821fd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "架空投資で27億円詐取か 占い師だった女を追送検 県警は今月1日、田斉容疑者と共謀し、女性3人に無登録で会社への出資を勧誘したとして、金融商品取引法違反の疑いで、福岡市城南区の50代の夫婦も書類送検した。共同通信社会9/1(火) 20:38",
         "url": "https://news.yahoo.co.jp/articles/c3899c51f2674e27625f3429518ad53f39f8c860",
         "source": "Yahoo",
@@ -12484,12 +12520,6 @@
       {
         "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
         "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
         "date": ""
       }
@@ -12572,6 +12602,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "警察白書掲載の匿名通貨モネロが44％急騰",
+        "url": "https://news.yahoo.co.jp/articles/f459bcc5b3902362a4c253d7ea3afd0d7a3839f7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman Sachs、三菱UFJら世界21銀行、ステーブルコイン事業で新会社を設立へ",
         "url": "https://news.yahoo.co.jp/articles/ef4e494909e99984d9c1746a70530e04064d2517",
         "source": "Yahoo",
@@ -12598,18 +12634,18 @@
       {
         "title": "米国、Ｇ２０諸国に新たなＡＩ監督機関設立しないよう説得へ＝高官",
         "url": "https://news.yahoo.co.jp/articles/586f6b3ed0fb83722581eaba0899aed42ef26c21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンライン投資プラットフォーム「ウィブル」がカナダで暗号資産取引開始、コインベース基盤活用",
-        "url": "https://news.yahoo.co.jp/articles/27bb6555ca6478b1916f37e1c9f9d40dad7faf33",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "警察白書掲載の匿名通貨モネロが44％急騰",
+        "url": "https://news.yahoo.co.jp/articles/f459bcc5b3902362a4c253d7ea3afd0d7a3839f7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman Sachs、三菱UFJら世界21銀行、ステーブルコイン事業で新会社を設立へ",
         "url": "https://news.yahoo.co.jp/articles/ef4e494909e99984d9c1746a70530e04064d2517",
         "source": "Yahoo",
@@ -12636,12 +12672,6 @@
       {
         "title": "米国、Ｇ２０諸国に新たなＡＩ監督機関設立しないよう説得へ＝高官",
         "url": "https://news.yahoo.co.jp/articles/586f6b3ed0fb83722581eaba0899aed42ef26c21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンライン投資プラットフォーム「ウィブル」がカナダで暗号資産取引開始、コインベース基盤活用",
-        "url": "https://news.yahoo.co.jp/articles/27bb6555ca6478b1916f37e1c9f9d40dad7faf33",
         "source": "Yahoo",
         "date": ""
       }
@@ -12800,6 +12830,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "【墨汁うまい氏寄稿】イーサリアム11周年で見えた明暗、DeFi危機と既存金融参入、量子耐性時代へ",
+        "url": "https://news.yahoo.co.jp/articles/fca30a03a68c85c6ba87f7272c1cdd6c8cf81c64",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman Sachs、三菱UFJら世界21銀行、ステーブルコイン事業で新会社を設立へ",
         "url": "https://news.yahoo.co.jp/articles/ef4e494909e99984d9c1746a70530e04064d2517",
         "source": "Yahoo",
@@ -12826,18 +12862,18 @@
       {
         "title": "Ethena、USDe決済アプリをリリース──年利6%を提供",
         "url": "https://news.yahoo.co.jp/articles/9a32472f03a7cebb859a74e804cbc7f5dabad896",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NYSE親会社ICE、tZEROとトークン化証券市場のインフラ開発で提携",
-        "url": "https://news.yahoo.co.jp/articles/1aa3b1e309dde2bfea721695540789f35769affb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "【墨汁うまい氏寄稿】イーサリアム11周年で見えた明暗、DeFi危機と既存金融参入、量子耐性時代へ",
+        "url": "https://news.yahoo.co.jp/articles/fca30a03a68c85c6ba87f7272c1cdd6c8cf81c64",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Goldman Sachs、三菱UFJら世界21銀行、ステーブルコイン事業で新会社を設立へ",
         "url": "https://news.yahoo.co.jp/articles/ef4e494909e99984d9c1746a70530e04064d2517",
         "source": "Yahoo",
@@ -12864,12 +12900,6 @@
       {
         "title": "Ethena、USDe決済アプリをリリース──年利6%を提供",
         "url": "https://news.yahoo.co.jp/articles/9a32472f03a7cebb859a74e804cbc7f5dabad896",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NYSE親会社ICE、tZEROとトークン化証券市場のインフラ開発で提携",
-        "url": "https://news.yahoo.co.jp/articles/1aa3b1e309dde2bfea721695540789f35769affb",
         "source": "Yahoo",
         "date": ""
       }
@@ -13078,12 +13108,6 @@
         "date": ""
       },
       {
-        "title": "LINEクレジットに東京都が業務改善命令 過剰な貸し付けなど",
-        "url": "https://news.yahoo.co.jp/articles/531e01ae1a2cc1a3cb4a15876d3aa577fd2c4a67",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -13098,6 +13122,12 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国で年2400％の違法貸金組織摘発",
+        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
@@ -13116,12 +13146,6 @@
         "date": ""
       },
       {
-        "title": "LINEクレジットに東京都が業務改善命令 過剰な貸し付けなど",
-        "url": "https://news.yahoo.co.jp/articles/531e01ae1a2cc1a3cb4a15876d3aa577fd2c4a67",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -13136,6 +13160,12 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国で年2400％の違法貸金組織摘発",
+        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
@@ -13154,12 +13184,6 @@
         "date": ""
       },
       {
-        "title": "LINEクレジットに東京都が業務改善命令 過剰な貸し付けなど",
-        "url": "https://news.yahoo.co.jp/articles/531e01ae1a2cc1a3cb4a15876d3aa577fd2c4a67",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「クレカが作れない",
         "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
@@ -13174,6 +13198,12 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国で年2400％の違法貸金組織摘発",
+        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
