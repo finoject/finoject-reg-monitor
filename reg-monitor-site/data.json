@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T09:53:09.816Z",
+  "generatedAt": "2026-09-02T11:26:54.174Z",
   "items": [
     {
       "agency": "日本取引所グループ",
@@ -12950,6 +12950,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ステーブルコインで年内新会社",
+        "url": "https://news.yahoo.co.jp/articles/51ac5ea54340501264f57a98a1d88f58ab1b745f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス、米国株・ETFオプション取引を追加。1000超の銘柄に対応",
         "url": "https://news.yahoo.co.jp/articles/89c7039239efa6587f65aeb44f3e7a1cb7d678cd",
         "source": "Yahoo",
@@ -12976,18 +12982,18 @@
       {
         "title": "三菱UFJ銀行やゴールドマンら21金融機関、ステーブルコイン事業の新会社設立へ",
         "url": "https://news.yahoo.co.jp/articles/27fd7670b8a93f431bf15ab698844fb9727fd701",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】イーサリアム11周年で見えた明暗、DeFi危機と既存金融参入、量子耐性時代へ",
-        "url": "https://news.yahoo.co.jp/articles/fca30a03a68c85c6ba87f7272c1cdd6c8cf81c64",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ステーブルコインで年内新会社",
+        "url": "https://news.yahoo.co.jp/articles/51ac5ea54340501264f57a98a1d88f58ab1b745f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス、米国株・ETFオプション取引を追加。1000超の銘柄に対応",
         "url": "https://news.yahoo.co.jp/articles/89c7039239efa6587f65aeb44f3e7a1cb7d678cd",
         "source": "Yahoo",
@@ -13014,12 +13020,6 @@
       {
         "title": "三菱UFJ銀行やゴールドマンら21金融機関、ステーブルコイン事業の新会社設立へ",
         "url": "https://news.yahoo.co.jp/articles/27fd7670b8a93f431bf15ab698844fb9727fd701",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】イーサリアム11周年で見えた明暗、DeFi危機と既存金融参入、量子耐性時代へ",
-        "url": "https://news.yahoo.co.jp/articles/fca30a03a68c85c6ba87f7272c1cdd6c8cf81c64",
         "source": "Yahoo",
         "date": ""
       }
