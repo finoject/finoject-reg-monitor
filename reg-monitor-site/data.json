@@ -1,6 +1,98 @@
 {
-  "generatedAt": "2026-09-02T06:41:15.626Z",
+  "generatedAt": "2026-09-02T08:27:02.873Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）カドー",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-09-02",
+      "detectedAt": "2026-09-02T08:27:02.873Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-02T08:27:09.951Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "PSJ予測統計値",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
+      "date": "2026-09-02",
+      "detectedAt": "2026-09-02T08:27:02.873Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
+        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
+        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-02T08:27:09.951Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260831.xlsx",
+      "date": "2026-09-02",
+      "detectedAt": "2026-09-02T08:27:02.873Z",
+      "enriched": "2026-09-02T08:27:09.951Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がバイナリ形式(Excelファイル)のため、具体的な国債銘柄別残高の数値・内訳を確認できない。データの詳細は当行が公表するExcelファイルの開封により確認が必要。",
+        "日本銀行の国債保有状況を把握する必要のある市場参加者・研究機関等は、公表されたファイルを適切なツールで開いて残高情報を参照すること。",
+        "本資料は2026年9月2日付の日本銀行公表物であり、保有国債の銘柄別残高に関わる日本銀行の統計・情報開示の一部を構成するもの。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が受入れている担保の残高（8月末）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/col/col2608.xlsx",
+      "date": "2026-09-02",
+      "detectedAt": "2026-09-02T08:27:02.873Z",
+      "enriched": "2026-09-02T08:27:09.951Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がExcelファイル形式で実質的な情報が読み取れず、8月末時点の担保残高の具体的な金額・構成内訳・前月比変動等の詳細が確認できない。",
+        "日本銀行がマネタリーベースの管理・金融調節に関連して受け入れている担保について月次で状況を公表しており、実務担当者は同行との担保提供等に関連する個別対応が必要な場合は最新統計を確認すること。",
+        "本公表は日本銀行法に基づく中央銀行機能に関連するもので、月次統計として毎月公表されるとみられ、金融機関・市場参加者は定期的に確認する必要がある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：グローバルＸ 日経225 ETF（コード632A）等2銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260902-01.html",
+      "date": "2026-09-02",
+      "detectedAt": "2026-09-02T08:27:02.873Z",
+      "enriched": "2026-09-02T08:27:09.951Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "グローバルX 日経225 ETF（コード632A）とグローバルX 韓国半導体・トップ10 ETF（コード633A）が2026年9月9日に東証に新規上場予定であり、両銘柄の呼値の単位は「ETF等（1口）呼値テーブル」に統一される。",
+        "東証の取引参加者および投資家は、上記2銘柄の売買時に1口単位で適用される呼値テーブルを確認し、呼値の最小単位に基づいて注文を執行する必要がある。",
+        "新規上場日は2026年9月9日であり、その日の取引から呼値の単位が適用される（東京証券取引所の呼値単位規則に基づく）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETN）：データセンターインフラ 日本株（ネットリターン）ETN他1銘柄（三菱ＵＦＪ証券ホールディングス）",
+      "url": "https://www.jpx.co.jp/news/1070/20260901.html",
+      "date": "2026-09-02",
+      "detectedAt": "2026-09-02T08:27:02.873Z",
+      "enriched": "2026-09-02T08:27:09.952Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "三菱ＵＦＪ証券ホールディングスが発行する2銘柄のETN（データセンターインフラ日本株・防衛フォーカス日本株）がJDR形式で上場承認され、2026年9月28日に上場予定。コード643A・644A。",
+        "投資家は内国株式と同様に取引可能、特定口座での取扱いが可能。売買単位は1口、管理費用は年率0.85%。",
+        "データセンターETNの償還日は2046年9月10日、信託元本30億円、上場時発行済受益権口数300,000口（変更可能性あり）。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
@@ -717,22 +809,6 @@
         "問合せは企画市場局総務課（電話0570-016811またはウェブサイト受付）で受け付ける。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：ハイネスコーポレーション（株）",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-08-28",
-      "detectedAt": "2026-08-28T16:45:54.449Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-28T16:45:59.689Z"
     },
     {
       "agency": "金融庁",
@@ -2033,22 +2109,6 @@
         "有価証券上場規程施行規則第604条第1項第23号及び第24号に基づき、特別支配株主による売渡請求発表または全株主対象の株式併合決議があった場合に該当し監理銘柄指定となる。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "PSJ予測統計値",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
-      "date": "2026-08-18",
-      "detectedAt": "2026-08-18T07:23:14.234Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
-        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
-        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-18T07:23:18.551Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -12662,6 +12722,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "タイSEC、海外デジタル資産デリバティブへの投資仲介規制の改正案で意見募集",
+        "url": "https://news.yahoo.co.jp/articles/fbd093f4acf95bc192de3a9610a8ca08da82cb5e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハイパーリキッド、クラーケン親会社と米国展開に向け協議＝報道",
+        "url": "https://news.yahoo.co.jp/articles/a5db0edd3cda9efe0b6df4923719c00abf5d562a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラーケン親会社ペイワード、英上場大手100社を「xStocks」でトークン化へ。ロンドン証券取引所と提携で",
         "url": "https://news.yahoo.co.jp/articles/6c90e0ae5cfe750e17e82f49f0e9f433d1489254",
         "source": "Yahoo",
@@ -12682,24 +12754,24 @@
       {
         "title": "ロンドン証券取引所、英上場大手100社をトークン化へ",
         "url": "https://news.yahoo.co.jp/articles/8e0e85b0701c2b1d2b7497ccf12ec9d5164cbcd3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインETFに資金回帰、流入額は1年超ぶり高水準-8万ドル焦点",
-        "url": "https://news.yahoo.co.jp/articles/0b23da258d28383c496b7fdd45baa9554d0b2315",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "警察白書掲載の匿名通貨モネロが44％急騰",
-        "url": "https://news.yahoo.co.jp/articles/f459bcc5b3902362a4c253d7ea3afd0d7a3839f7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "タイSEC、海外デジタル資産デリバティブへの投資仲介規制の改正案で意見募集",
+        "url": "https://news.yahoo.co.jp/articles/fbd093f4acf95bc192de3a9610a8ca08da82cb5e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハイパーリキッド、クラーケン親会社と米国展開に向け協議＝報道",
+        "url": "https://news.yahoo.co.jp/articles/a5db0edd3cda9efe0b6df4923719c00abf5d562a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラーケン親会社ペイワード、英上場大手100社を「xStocks」でトークン化へ。ロンドン証券取引所と提携で",
         "url": "https://news.yahoo.co.jp/articles/6c90e0ae5cfe750e17e82f49f0e9f433d1489254",
         "source": "Yahoo",
@@ -12720,18 +12792,6 @@
       {
         "title": "ロンドン証券取引所、英上場大手100社をトークン化へ",
         "url": "https://news.yahoo.co.jp/articles/8e0e85b0701c2b1d2b7497ccf12ec9d5164cbcd3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインETFに資金回帰、流入額は1年超ぶり高水準-8万ドル焦点",
-        "url": "https://news.yahoo.co.jp/articles/0b23da258d28383c496b7fdd45baa9554d0b2315",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "警察白書掲載の匿名通貨モネロが44％急騰",
-        "url": "https://news.yahoo.co.jp/articles/f459bcc5b3902362a4c253d7ea3afd0d7a3839f7",
         "source": "Yahoo",
         "date": ""
       }
@@ -12890,6 +12950,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI VCトレード、ステーキング報酬を円ステーブルコイン「JPYSC」で受取可能に",
+        "url": "https://news.yahoo.co.jp/articles/ff280c7778c1dea6d3358ad69f9580cdc12f670d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "エセナが金融アプリ「Ethena Pay」β版を提供開始、アバランチを独占精算基盤に採用",
+        "url": "https://news.yahoo.co.jp/articles/668dd696fbedd4396dc8d836032cc43d2bebdc7f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "シンガポール金融管理局、ステーブルコイン規制法制化へPS法改正案を公表",
+        "url": "https://news.yahoo.co.jp/articles/1f310eaab6c64146ca3791863593d1ab561f0e88",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "三菱UFJ銀行やゴールドマンら21金融機関、ステーブルコイン事業の新会社設立へ",
         "url": "https://news.yahoo.co.jp/articles/27fd7670b8a93f431bf15ab698844fb9727fd701",
         "source": "Yahoo",
@@ -12904,30 +12982,30 @@
       {
         "title": "Goldman Sachs、三菱UFJら世界21銀行、ステーブルコイン事業で新会社を設立へ",
         "url": "https://news.yahoo.co.jp/articles/ef4e494909e99984d9c1746a70530e04064d2517",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアム財務企業の時価総額94億ドル増──ETHがビットコインを2カ月連続で上回る、9月の注視点3つ",
-        "url": "https://news.yahoo.co.jp/articles/19f6cb6364f0243977e3fc92aeb456e4cb928359",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ",
-        "url": "https://news.yahoo.co.jp/articles/72cfbf3fd631ace248d8e6810d6bf8e9bcad6dc8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シンガポール、外国発行ステーブルコインの承認を検討",
-        "url": "https://news.yahoo.co.jp/articles/3a67dd0c8806b75f0db66e090c5dc723e1f451c7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI VCトレード、ステーキング報酬を円ステーブルコイン「JPYSC」で受取可能に",
+        "url": "https://news.yahoo.co.jp/articles/ff280c7778c1dea6d3358ad69f9580cdc12f670d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "エセナが金融アプリ「Ethena Pay」β版を提供開始、アバランチを独占精算基盤に採用",
+        "url": "https://news.yahoo.co.jp/articles/668dd696fbedd4396dc8d836032cc43d2bebdc7f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "シンガポール金融管理局、ステーブルコイン規制法制化へPS法改正案を公表",
+        "url": "https://news.yahoo.co.jp/articles/1f310eaab6c64146ca3791863593d1ab561f0e88",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "三菱UFJ銀行やゴールドマンら21金融機関、ステーブルコイン事業の新会社設立へ",
         "url": "https://news.yahoo.co.jp/articles/27fd7670b8a93f431bf15ab698844fb9727fd701",
         "source": "Yahoo",
@@ -12942,24 +13020,6 @@
       {
         "title": "Goldman Sachs、三菱UFJら世界21銀行、ステーブルコイン事業で新会社を設立へ",
         "url": "https://news.yahoo.co.jp/articles/ef4e494909e99984d9c1746a70530e04064d2517",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアム財務企業の時価総額94億ドル増──ETHがビットコインを2カ月連続で上回る、9月の注視点3つ",
-        "url": "https://news.yahoo.co.jp/articles/19f6cb6364f0243977e3fc92aeb456e4cb928359",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ",
-        "url": "https://news.yahoo.co.jp/articles/72cfbf3fd631ace248d8e6810d6bf8e9bcad6dc8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シンガポール、外国発行ステーブルコインの承認を検討",
-        "url": "https://news.yahoo.co.jp/articles/3a67dd0c8806b75f0db66e090c5dc723e1f451c7",
         "source": "Yahoo",
         "date": ""
       }
