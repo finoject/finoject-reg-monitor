@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-03T08:29:56.979Z",
+  "generatedAt": "2026-09-03T10:04:20.410Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の基準値段等：iFreeETF ゴールドプラスインカム",
+      "url": "https://www.jpx.co.jp/news/1030/20260903-01.html",
+      "date": "2026-09-03",
+      "detectedAt": "2026-09-03T10:04:20.410Z",
+      "enriched": "2026-09-03T10:04:24.969Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "iFreeETF ゴールドプラスインカム（コード626A）が2026年9月4日に東証に新規上場される。売買単位は1口、基準値段は1,979円。",
+        "取引参加者および市場参加者は、当該ETFについて基準値段1,979円、値段上限値2,379円、値段下限値1,579円の制限値幅で売買を開始する必要がある。",
+        "東証「株式部株式総務グループ」による公表に基づき、2026年9月4日（新規上場日）から当該ETFの取引が開始される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]グロース市場からスタンダード市場への変更：（株）メディカルネット",
@@ -12842,6 +12857,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "米コインベース、カナダで暗号資産の無期限先物など提供開始",
+        "url": "https://news.yahoo.co.jp/articles/c5fa5a66c99bac752a5ceda4906e75310bb809b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "COLDCARD流出犯、盗難ビットコインを初移動──DEX経由で資金洗浄か",
+        "url": "https://news.yahoo.co.jp/articles/8623533d1d5ecf1823f39a0ee762b8a77a861363",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SECアトキンス委員長、CLARITY法案成立に期待。9/15の上院手続きを前に発言",
         "url": "https://news.yahoo.co.jp/articles/6b47255def361a2df550bb7fd93c3502acc14088",
         "source": "Yahoo",
@@ -12862,24 +12889,24 @@
       {
         "title": "バックパックUS、マルチコイン共同創業者カイル・サマニを取締役に",
         "url": "https://news.yahoo.co.jp/articles/fe9d3fa212a77f088da46fbc361e577f6599ff28",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラーケン親会社ペイワード、IPOを2027年Q2に延期か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/ef14aeb53d60a68eda340f4cc8dcc212ae69fa63",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニュージャージー州、予測市場について米最高裁に判断を求める",
-        "url": "https://news.yahoo.co.jp/articles/6e0320d38cb3e02249abdd5e3dd77f89d30b3b55",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米コインベース、カナダで暗号資産の無期限先物など提供開始",
+        "url": "https://news.yahoo.co.jp/articles/c5fa5a66c99bac752a5ceda4906e75310bb809b8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "COLDCARD流出犯、盗難ビットコインを初移動──DEX経由で資金洗浄か",
+        "url": "https://news.yahoo.co.jp/articles/8623533d1d5ecf1823f39a0ee762b8a77a861363",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SECアトキンス委員長、CLARITY法案成立に期待。9/15の上院手続きを前に発言",
         "url": "https://news.yahoo.co.jp/articles/6b47255def361a2df550bb7fd93c3502acc14088",
         "source": "Yahoo",
@@ -12900,18 +12927,6 @@
       {
         "title": "バックパックUS、マルチコイン共同創業者カイル・サマニを取締役に",
         "url": "https://news.yahoo.co.jp/articles/fe9d3fa212a77f088da46fbc361e577f6599ff28",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラーケン親会社ペイワード、IPOを2027年Q2に延期か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/ef14aeb53d60a68eda340f4cc8dcc212ae69fa63",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニュージャージー州、予測市場について米最高裁に判断を求める",
-        "url": "https://news.yahoo.co.jp/articles/6e0320d38cb3e02249abdd5e3dd77f89d30b3b55",
         "source": "Yahoo",
         "date": ""
       }
