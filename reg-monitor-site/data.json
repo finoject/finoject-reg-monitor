@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-04T08:38:26.992Z",
+  "generatedAt": "2026-09-04T10:02:02.464Z",
   "items": [
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「第47回日本公認会計士協会研究大会開催について」",
+      "url": "https://jicpa.or.jp/news/information/2026/20260904khr.html",
+      "date": "2026-09-04",
+      "detectedAt": "2026-09-04T10:02:02.464Z",
+      "enriched": "2026-09-04T10:02:08.806Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "第47回日本公認会計士協会研究大会は2026年9月4日にホテルニューオータニ東京で開催され、「未来を切り拓く信頼と変革の力～持続可能な社会を実現するための公認会計士の使命～」をメインテーマに15テーマの研究発表が行われ約800名が参加した。",
+        "協会の公表物（実務指針等）を営利目的または参加費徴収研修資料として転載する場合、会員2,500円（税込）×本数の基本利用料に加え転載・配付料を支払い、転載依頼書をメール提出して承認を得る必要がある。",
+        "協会公表物の無断複製・転載・頒布は禁止であり、転載許諾を得ずに利用した場合は法的対応を取られる可能性があるため、転載担当事務局（tensai@sec.jicpa.or.jp）への事前申請が必須である。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]TOKYO PRO Marketへの上場申請：（株）デジタルベリー",
@@ -12947,6 +12962,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "LN Trends 2026年8月",
+        "url": "https://news.yahoo.co.jp/articles/eb30b121975bf8dd565ba36b46fbfcef9a34ffd0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
         "url": "https://news.yahoo.co.jp/articles/b588c6c0ce69a417a43d13b5a557436c8d9c4572",
         "source": "Yahoo",
@@ -12973,18 +12994,18 @@
       {
         "title": "ビットフライヤー、2026年上期の国内ビットコイン取引量で首位＝同社調べ",
         "url": "https://news.yahoo.co.jp/articles/66492eaeb95ec6ac1cc438dca7d42f5c86e52c4c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパーリキッド、許可型市場対応の「HIP-3*」導入へ、アクセス制御や取引管理機能を追加",
-        "url": "https://news.yahoo.co.jp/articles/57c8d0610d4d5f017a5e3550b29970b1765b1f20",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "LN Trends 2026年8月",
+        "url": "https://news.yahoo.co.jp/articles/eb30b121975bf8dd565ba36b46fbfcef9a34ffd0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
         "url": "https://news.yahoo.co.jp/articles/b588c6c0ce69a417a43d13b5a557436c8d9c4572",
         "source": "Yahoo",
@@ -13011,12 +13032,6 @@
       {
         "title": "ビットフライヤー、2026年上期の国内ビットコイン取引量で首位＝同社調べ",
         "url": "https://news.yahoo.co.jp/articles/66492eaeb95ec6ac1cc438dca7d42f5c86e52c4c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパーリキッド、許可型市場対応の「HIP-3*」導入へ、アクセス制御や取引管理機能を追加",
-        "url": "https://news.yahoo.co.jp/articles/57c8d0610d4d5f017a5e3550b29970b1765b1f20",
         "source": "Yahoo",
         "date": ""
       }
@@ -13175,13 +13190,19 @@
     ],
     "505M60000002048": [
       {
+        "title": "LN Trends 2026年8月",
+        "url": "https://news.yahoo.co.jp/articles/eb30b121975bf8dd565ba36b46fbfcef9a34ffd0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
         "url": "https://news.yahoo.co.jp/articles/3bc2e06523a591ba769f5da1f4460809695dd8ab",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」発表。ブリッジやスワップを自動化",
+        "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
         "url": "https://news.yahoo.co.jp/articles/99595f9c16cc5e6324b2da759ab339acfa1e15d2",
         "source": "Yahoo",
         "date": ""
@@ -13201,25 +13222,25 @@
       {
         "title": "サークル「EURC」、イーサリアムとベース間でネイティブ転送開始。CCTP対応で",
         "url": "https://news.yahoo.co.jp/articles/4bcfcf5060d1744ae86e1caec3aedbeb58c1c1d6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソーファイとクラーケン親会社が提携、銀行と暗号資産市場を接続へ",
-        "url": "https://news.yahoo.co.jp/articles/7dfc54700c19fb2c3c8564ef4edb594760df335a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "LN Trends 2026年8月",
+        "url": "https://news.yahoo.co.jp/articles/eb30b121975bf8dd565ba36b46fbfcef9a34ffd0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
         "url": "https://news.yahoo.co.jp/articles/3bc2e06523a591ba769f5da1f4460809695dd8ab",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」発表。ブリッジやスワップを自動化",
+        "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
         "url": "https://news.yahoo.co.jp/articles/99595f9c16cc5e6324b2da759ab339acfa1e15d2",
         "source": "Yahoo",
         "date": ""
@@ -13239,12 +13260,6 @@
       {
         "title": "サークル「EURC」、イーサリアムとベース間でネイティブ転送開始。CCTP対応で",
         "url": "https://news.yahoo.co.jp/articles/4bcfcf5060d1744ae86e1caec3aedbeb58c1c1d6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソーファイとクラーケン親会社が提携、銀行と暗号資産市場を接続へ",
-        "url": "https://news.yahoo.co.jp/articles/7dfc54700c19fb2c3c8564ef4edb594760df335a",
         "source": "Yahoo",
         "date": ""
       }
