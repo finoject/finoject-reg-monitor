@@ -1,6 +1,67 @@
 {
-  "generatedAt": "2026-09-04T06:50:18.046Z",
+  "generatedAt": "2026-09-04T08:38:26.992Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）デジタルベリー",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-09-04",
+      "detectedAt": "2026-09-04T08:38:26.992Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-04T08:38:31.644Z"
+    },
+    {
+      "agency": "金融庁",
+      "title": "「令和7年度政策評価実績評価書」等の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260904/01.html",
+      "date": "2026-09-04",
+      "detectedAt": "2026-09-04T08:38:26.992Z",
+      "enriched": "2026-09-04T08:38:31.645Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は令和7年度（令和7年7月～令和8年6月）の実績評価書を公表し、金融システム安定・利用者保護・市場公正性確保の3基本政策に関わる各施策の評価結果をまとめた。",
+        "各省庁は行政機関が行う政策評価に関する法律に基づき、政策評価基本計画・実施計画を定めた上で実績評価を実施することが義務付けられており、金融庁も同法に従い実績評価を遂行した。",
+        "政策評価に関する有識者会議（令和8年6月23日開催）の議事要旨及び実績評価書に係る意見要旨も併せて公表され、金融庁総合政策課が所管する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【記者会見】植田総裁（G20、9月1日分）",
+      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260904a.pdf",
+      "date": "2026-09-04",
+      "detectedAt": "2026-09-04T08:38:26.992Z",
+      "enriched": "2026-09-04T08:38:31.645Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "G20での議論を踏まえ、世界経済の変化に対応した物価安定確保に向けたコミュニケーション重要性が各国で確認され、基調物価が2%に近づく中で上振れリスク抑制の観点からその後の政策運営が検討されている。",
+        "日本銀行は次回決定会合で経済・物価データの確度、物価上振れリスクの度合い、政策金利調整と上振れリスク対応のバランスについてボードメンバーとの議論を経て金融緩和度合い調整の判断を進める。",
+        "金融政策運営にあたり中東情勢・AI関連動き・為替相場変動の3点を重視しながら、既に5回の利上げ実施後の累積効果を慎重に監視しつつ政策金利の継続的な引き上げを検討する予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：SMBC Prime 日本短期債券ETF（毎月決算型）（コード635A）等2銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260904-01.html",
+      "date": "2026-09-04",
+      "detectedAt": "2026-09-04T08:38:26.992Z",
+      "enriched": "2026-09-04T08:38:31.645Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年9月11日に新規上場するSMBC Prime日本短期債券ETF（毎月決算型・コード635A）及び同年１回決算型（コード636A）の呼値の単位は、TOPIX500呼値テーブルが適用される。",
+        "取引参加者及び市場参加者は、両銘柄の取引開始時より上記呼値の単位に従って売買注文を発注・執行すること。",
+        "東京証券取引所が2026年9月4日に公表した、上場予定日の9月11日から適用される呼値設定に関する案内。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "JVCEA",
       "title": "取扱廃止銘柄のお知らせ",
@@ -197,22 +258,6 @@
         "詳細な内容確認には、日銀ウェブサイトの当該公表物または金融機関向けの正規通知資料の確認をお勧めします。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）カドー",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-09-02",
-      "detectedAt": "2026-09-02T08:27:02.873Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-09-02T08:27:09.951Z"
     },
     {
       "agency": "日本証券業協会",
@@ -12826,6 +12871,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "BTCBOX、日本円入金と暗号資産4銘柄の出庫を9/7再開へ",
+        "url": "https://news.yahoo.co.jp/articles/8d683b7fa55f00d2a88b90ef27af5f2373d33242",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "著名人を装うアカウントや広告を通じた投資詐欺被害が相次ぐ、国民生活センターが注意喚起",
         "url": "https://news.yahoo.co.jp/articles/0aae6c810a3d6c861a23c0bf304dc93ce30d1bee",
         "source": "Yahoo",
@@ -12852,18 +12903,18 @@
       {
         "title": "金融庁、27年度の予算および機構・定員要求の概要公表。暗号資産など新金融サービスへの体制強化へ",
         "url": "https://news.yahoo.co.jp/articles/b3c47022ad74f83b821b6fe4a2160b9b6eec0cbd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "BTCBOX、日本円入金と暗号資産4銘柄の出庫を9/7再開へ",
+        "url": "https://news.yahoo.co.jp/articles/8d683b7fa55f00d2a88b90ef27af5f2373d33242",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "著名人を装うアカウントや広告を通じた投資詐欺被害が相次ぐ、国民生活センターが注意喚起",
         "url": "https://news.yahoo.co.jp/articles/0aae6c810a3d6c861a23c0bf304dc93ce30d1bee",
         "source": "Yahoo",
@@ -12892,15 +12943,33 @@
         "url": "https://news.yahoo.co.jp/articles/b3c47022ad74f83b821b6fe4a2160b9b6eec0cbd",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "SEC、暗号資産の新規則案「Regulation Crypto Assets」を公表──2つの登録免除と「投資契約」終了のセーフハーバー【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/7dc81a03a93bbf401f954721dec9831ee7f7c0fa",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
+        "url": "https://news.yahoo.co.jp/articles/b588c6c0ce69a417a43d13b5a557436c8d9c4572",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+        "url": "https://news.yahoo.co.jp/articles/3bc2e06523a591ba769f5da1f4460809695dd8ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "豪ASIC、デジタル資産事業者にライセンス申請を改めて呼びかけ なおASICが運営する投資家向けサイト「Moneysmart」では、暗号資産への投資に伴うリスクについて注意喚起している。あたらしい経済経済総合9/4(金) 16:52",
+        "url": "https://news.yahoo.co.jp/articles/1a8ce247080c0de6ed74c8c8f68eacaa546aca73",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+        "url": "https://news.yahoo.co.jp/articles/4948db5a99b541e1c402dc13faa3a909f948a254",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ビットフライヤー、2026年上期の国内ビットコイン取引量で首位＝同社調べ",
         "url": "https://news.yahoo.co.jp/articles/66492eaeb95ec6ac1cc438dca7d42f5c86e52c4c",
@@ -12910,36 +12979,36 @@
       {
         "title": "ハイパーリキッド、許可型市場対応の「HIP-3*」導入へ、アクセス制御や取引管理機能を追加",
         "url": "https://news.yahoo.co.jp/articles/57c8d0610d4d5f017a5e3550b29970b1765b1f20",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "レボリュート、米銀行免許申請が条件付き承認。ステーブルコイン提供も計画",
-        "url": "https://news.yahoo.co.jp/articles/fd125bc9c6ab4e5924dd57c5c7b8a9b7bf406a33",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン8月25%高も取引数は半年ぶり低水準──強気か弱気か【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/b9d8aeb7ddcf503e3fc22306f87ecbf0122b2394",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、米国で株式パーペチュアルの提供目指す",
-        "url": "https://news.yahoo.co.jp/articles/7efe864f3b8b7ecd224600c0c77835ab05d5f331",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC委員長、クラリティ法案「成立を期待」＝Fox Business",
-        "url": "https://news.yahoo.co.jp/articles/02d6eac1c86cfc2e4a969d448cce3a80cad8b3b0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
+        "url": "https://news.yahoo.co.jp/articles/b588c6c0ce69a417a43d13b5a557436c8d9c4572",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+        "url": "https://news.yahoo.co.jp/articles/3bc2e06523a591ba769f5da1f4460809695dd8ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "豪ASIC、デジタル資産事業者にライセンス申請を改めて呼びかけ なおASICが運営する投資家向けサイト「Moneysmart」では、暗号資産への投資に伴うリスクについて注意喚起している。あたらしい経済経済総合9/4(金) 16:52",
+        "url": "https://news.yahoo.co.jp/articles/1a8ce247080c0de6ed74c8c8f68eacaa546aca73",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+        "url": "https://news.yahoo.co.jp/articles/4948db5a99b541e1c402dc13faa3a909f948a254",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットフライヤー、2026年上期の国内ビットコイン取引量で首位＝同社調べ",
         "url": "https://news.yahoo.co.jp/articles/66492eaeb95ec6ac1cc438dca7d42f5c86e52c4c",
         "source": "Yahoo",
@@ -12948,30 +13017,6 @@
       {
         "title": "ハイパーリキッド、許可型市場対応の「HIP-3*」導入へ、アクセス制御や取引管理機能を追加",
         "url": "https://news.yahoo.co.jp/articles/57c8d0610d4d5f017a5e3550b29970b1765b1f20",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "レボリュート、米銀行免許申請が条件付き承認。ステーブルコイン提供も計画",
-        "url": "https://news.yahoo.co.jp/articles/fd125bc9c6ab4e5924dd57c5c7b8a9b7bf406a33",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン8月25%高も取引数は半年ぶり低水準──強気か弱気か【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/b9d8aeb7ddcf503e3fc22306f87ecbf0122b2394",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、米国で株式パーペチュアルの提供目指す",
-        "url": "https://news.yahoo.co.jp/articles/7efe864f3b8b7ecd224600c0c77835ab05d5f331",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC委員長、クラリティ法案「成立を期待」＝Fox Business",
-        "url": "https://news.yahoo.co.jp/articles/02d6eac1c86cfc2e4a969d448cce3a80cad8b3b0",
         "source": "Yahoo",
         "date": ""
       }
@@ -13130,6 +13175,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+        "url": "https://news.yahoo.co.jp/articles/3bc2e06523a591ba769f5da1f4460809695dd8ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」発表。ブリッジやスワップを自動化",
+        "url": "https://news.yahoo.co.jp/articles/99595f9c16cc5e6324b2da759ab339acfa1e15d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "モノの自動決済へステーブルコイン基盤活用──CAICA DIGITALが商用化",
         "url": "https://news.yahoo.co.jp/articles/c49133d4aca8fd28682d3f1553d1dbc61fe33525",
         "source": "Yahoo",
@@ -13150,24 +13207,24 @@
       {
         "title": "ソーファイとクラーケン親会社が提携、銀行と暗号資産市場を接続へ",
         "url": "https://news.yahoo.co.jp/articles/7dfc54700c19fb2c3c8564ef4edb594760df335a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "すでに電子化されているのに、なぜ国債をオンチェーン化するのか──Progmat齊藤達哉氏に聞く",
-        "url": "https://news.yahoo.co.jp/articles/e82e8fce7a4244f56f7af4bc5572997f6b4f08b9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "レボリュート、米銀行免許申請が条件付き承認。ステーブルコイン提供も計画",
-        "url": "https://news.yahoo.co.jp/articles/fd125bc9c6ab4e5924dd57c5c7b8a9b7bf406a33",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+        "url": "https://news.yahoo.co.jp/articles/3bc2e06523a591ba769f5da1f4460809695dd8ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」発表。ブリッジやスワップを自動化",
+        "url": "https://news.yahoo.co.jp/articles/99595f9c16cc5e6324b2da759ab339acfa1e15d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "モノの自動決済へステーブルコイン基盤活用──CAICA DIGITALが商用化",
         "url": "https://news.yahoo.co.jp/articles/c49133d4aca8fd28682d3f1553d1dbc61fe33525",
         "source": "Yahoo",
@@ -13188,18 +13245,6 @@
       {
         "title": "ソーファイとクラーケン親会社が提携、銀行と暗号資産市場を接続へ",
         "url": "https://news.yahoo.co.jp/articles/7dfc54700c19fb2c3c8564ef4edb594760df335a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "すでに電子化されているのに、なぜ国債をオンチェーン化するのか──Progmat齊藤達哉氏に聞く",
-        "url": "https://news.yahoo.co.jp/articles/e82e8fce7a4244f56f7af4bc5572997f6b4f08b9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "レボリュート、米銀行免許申請が条件付き承認。ステーブルコイン提供も計画",
-        "url": "https://news.yahoo.co.jp/articles/fd125bc9c6ab4e5924dd57c5c7b8a9b7bf406a33",
         "source": "Yahoo",
         "date": ""
       }
@@ -13920,6 +13965,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "IIJ、海外拠点のIT環境調査を行う「IIJグローバルオンサイトサーベイソリューション」に「中国法コンサルティングオプション」を追加",
+        "url": "https://news.yahoo.co.jp/articles/f1f1eb8308cd43ad57b128775c9d13cea6406b72",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "文書紛失、誤発送",
         "url": "https://news.yahoo.co.jp/articles/d0e20e572ae5bc6216b2518b6d487d2c851929de",
         "source": "Yahoo",
@@ -13946,18 +13997,18 @@
       {
         "title": "グーグルのスピリット航空データ取得の狙いと、争奪戦に出遅れる日本への警鐘 #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/c76bb9b01a9567276fa101f9b2d59d4d01138154",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国でAIデータ活用拡大へ",
-        "url": "https://news.yahoo.co.jp/articles/2cc861d9741029bdf80346f5c5cecb383916279b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "IIJ、海外拠点のIT環境調査を行う「IIJグローバルオンサイトサーベイソリューション」に「中国法コンサルティングオプション」を追加",
+        "url": "https://news.yahoo.co.jp/articles/f1f1eb8308cd43ad57b128775c9d13cea6406b72",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "文書紛失、誤発送",
         "url": "https://news.yahoo.co.jp/articles/d0e20e572ae5bc6216b2518b6d487d2c851929de",
         "source": "Yahoo",
@@ -13984,18 +14035,18 @@
       {
         "title": "グーグルのスピリット航空データ取得の狙いと、争奪戦に出遅れる日本への警鐘 #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/c76bb9b01a9567276fa101f9b2d59d4d01138154",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国でAIデータ活用拡大へ",
-        "url": "https://news.yahoo.co.jp/articles/2cc861d9741029bdf80346f5c5cecb383916279b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "IIJ、海外拠点のIT環境調査を行う「IIJグローバルオンサイトサーベイソリューション」に「中国法コンサルティングオプション」を追加",
+        "url": "https://news.yahoo.co.jp/articles/f1f1eb8308cd43ad57b128775c9d13cea6406b72",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "文書紛失、誤発送",
         "url": "https://news.yahoo.co.jp/articles/d0e20e572ae5bc6216b2518b6d487d2c851929de",
         "source": "Yahoo",
@@ -14022,12 +14073,6 @@
       {
         "title": "グーグルのスピリット航空データ取得の狙いと、争奪戦に出遅れる日本への警鐘 #エキスパートトピ",
         "url": "https://news.yahoo.co.jp/expert/articles/c76bb9b01a9567276fa101f9b2d59d4d01138154",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国でAIデータ活用拡大へ",
-        "url": "https://news.yahoo.co.jp/articles/2cc861d9741029bdf80346f5c5cecb383916279b",
         "source": "Yahoo",
         "date": ""
       }
