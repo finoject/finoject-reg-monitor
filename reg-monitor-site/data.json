@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-07T00:19:04.971Z",
+  "generatedAt": "2026-09-07T02:01:40.812Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（鹿児島県）",
+      "url": "https://www.boj.or.jp/about/bcp/fso/fso260907a.pdf",
+      "date": "2026-09-07",
+      "detectedAt": "2026-09-07T02:01:40.812Z",
+      "enriched": "2026-09-07T02:01:45.506Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和8年台風第24号及び前線による大雨で災害救助法適用の鹿児島県被災者に対し、預貯金取扱金融機関等に対して通帳・印鑑紛失時の本人確認簡素化、定期預金期限前払戻し、手形不渡報告配慮等の金融上の措置を要請した。",
+        "預貯金取扱金融機関は罹災証明書後日提出の認容、融資相談所開設、提出書類最小限化、返済猶予等の条件変更、債務整理ガイドライン利用相談対応、営業停止時のATM稼動継続等の便宜措置を講ずること。",
+        "証券会社は有価証券紛失時の再発行手続き協力、預かり証券売却代金即日払い対応をし、生保損保は保険金迅速支払い、保険料払込猶予延長を行い、全機関が営業停止情報を新聞・ホームページで周知すること。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "マネタリーベースと日本銀行の取引（8月）",
@@ -13023,6 +13038,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "TikTok、違法薬物広告が相次ぐ──密売業者の出稿から広告収入を獲得",
+        "url": "https://news.yahoo.co.jp/articles/69e34be3d79549dd44eb64ebe23563818686a171",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス、MiCA未認可でもEU事業を継続＝Bloomberg",
         "url": "https://news.yahoo.co.jp/articles/f8410c4f6587ca910904bf7612a8996ebf938486",
         "source": "Yahoo",
@@ -13049,18 +13070,18 @@
       {
         "title": "クラリティー法案は9月に成立するのか。アメリカ人の私が感じた「60票と時間切れ」の壁【サンフランシスコレポート】",
         "url": "https://news.yahoo.co.jp/articles/be88d78ffefa4933fbd0114b231264d3f785d33a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
-        "url": "https://news.yahoo.co.jp/articles/44f6415c076275ce20cd4003f164ebe468761763",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "TikTok、違法薬物広告が相次ぐ──密売業者の出稿から広告収入を獲得",
+        "url": "https://news.yahoo.co.jp/articles/69e34be3d79549dd44eb64ebe23563818686a171",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス、MiCA未認可でもEU事業を継続＝Bloomberg",
         "url": "https://news.yahoo.co.jp/articles/f8410c4f6587ca910904bf7612a8996ebf938486",
         "source": "Yahoo",
@@ -13087,12 +13108,6 @@
       {
         "title": "クラリティー法案は9月に成立するのか。アメリカ人の私が感じた「60票と時間切れ」の壁【サンフランシスコレポート】",
         "url": "https://news.yahoo.co.jp/articles/be88d78ffefa4933fbd0114b231264d3f785d33a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
-        "url": "https://news.yahoo.co.jp/articles/44f6415c076275ce20cd4003f164ebe468761763",
         "source": "Yahoo",
         "date": ""
       }
