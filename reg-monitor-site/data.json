@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-09-07T06:47:26.128Z",
+  "generatedAt": "2026-09-07T08:32:38.400Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（スタンダード市場）：クラサスケミカル（株）",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-09-07",
+      "detectedAt": "2026-09-07T08:32:38.400Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-07T08:32:44.327Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止の決定：（株）アイビスホールディングス",
+      "url": "https://www.jpx.co.jp/news/1021/202609070-19.html",
+      "date": "2026-09-07",
+      "detectedAt": "2026-09-07T08:32:38.400Z",
+      "enriched": "2026-09-07T08:32:44.327Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）アイビスホールディングスの株式（コード9334、TOKYO PRO Market）について、東証が上場廃止を決定し、上場廃止日は2026年10月12日（月）。",
+        "同社が上場廃止を申請し東証が決定したもので、特定上場有価証券に関する有価証券上場規程の特例第143条に基づく。",
+        "同社株式は国内他市場で上場継続予定のため、信用取引等の委託保証金や取引参加者保証金の代用有価証券から除外されない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "懲戒 会員の懲戒処分について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260907faj.html",
+      "date": "2026-09-07",
+      "detectedAt": "2026-09-07T08:32:38.400Z",
+      "enriched": "2026-09-07T08:32:44.327Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "太陽有限責任監査法人及び関係会員Y1～Y3に対し、会則第51条第2号（相当の注意を怠り重大な虚偽等のある財務書類を適正と表明）に該当する違反で、権利停止2～6か月の懲戒処分を2026年9月7日付で実施。",
+        "監査法人・監査人は、2018年12月期から2021年12月期の訂正前監査及び2016年12月期から2022年12月期第1四半期の訂正監査において、売上高・貸付金のリスク対応手続及び後発事象・四半期レビュー手続で監査基準委員会報告書の要求事項を遵守できず。",
+        "権利停止期間は太陽監査法人が2か月（2026年9月7日～11月6日）、Y1・Y2会員が5か月（同年9月7日～2027年2月6日）、Y3会員が6か月（同年9月7日～2027年3月6日）で、監査業務実施能力そのものは制限されず会則上の権利のみ制限。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "コール市場残高（8月）",
@@ -684,22 +730,6 @@
         "有価証券オプション1単位は100株、建玉制限数量47,400単位、大口建玉報告基準値9,400単位、フレックス限月取引の権利行使価格最大小数点桁数は2桁となり、2026年10月1日（木）から取引開始。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（グロース市場）：（株）ASNOVA Companies",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-09-01",
-      "detectedAt": "2026-09-01T07:21:07.087Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-01T07:21:12.389Z"
     },
     {
       "agency": "日本銀行",
@@ -12825,6 +12855,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
         "url": "https://news.yahoo.co.jp/articles/44f6415c076275ce20cd4003f164ebe468761763",
         "source": "Yahoo",
@@ -12851,18 +12887,18 @@
       {
         "title": "暗号資産業界、新種ETFへの一律な規制を避けるようSECに要請",
         "url": "https://news.yahoo.co.jp/articles/72a393f04d9e810b7f20e6b3f9a58a9e9aabc20d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「１か月で８％の利益」元占い師らを無登録で出資勧誘の疑いで書類送検",
-        "url": "https://news.yahoo.co.jp/articles/389651eed930f16d9f595a398a6c4c8928315e7b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
         "url": "https://news.yahoo.co.jp/articles/44f6415c076275ce20cd4003f164ebe468761763",
         "source": "Yahoo",
@@ -12889,18 +12925,18 @@
       {
         "title": "暗号資産業界、新種ETFへの一律な規制を避けるようSECに要請",
         "url": "https://news.yahoo.co.jp/articles/72a393f04d9e810b7f20e6b3f9a58a9e9aabc20d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「１か月で８％の利益」元占い師らを無登録で出資勧誘の疑いで書類送検",
-        "url": "https://news.yahoo.co.jp/articles/389651eed930f16d9f595a398a6c4c8928315e7b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
         "url": "https://news.yahoo.co.jp/articles/44f6415c076275ce20cd4003f164ebe468761763",
         "source": "Yahoo",
@@ -12927,18 +12963,18 @@
       {
         "title": "暗号資産業界、新種ETFへの一律な規制を避けるようSECに要請",
         "url": "https://news.yahoo.co.jp/articles/72a393f04d9e810b7f20e6b3f9a58a9e9aabc20d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「１か月で８％の利益」元占い師らを無登録で出資勧誘の疑いで書類送検",
-        "url": "https://news.yahoo.co.jp/articles/389651eed930f16d9f595a398a6c4c8928315e7b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
         "url": "https://news.yahoo.co.jp/articles/44f6415c076275ce20cd4003f164ebe468761763",
         "source": "Yahoo",
@@ -12965,12 +13001,6 @@
       {
         "title": "暗号資産業界、新種ETFへの一律な規制を避けるようSECに要請",
         "url": "https://news.yahoo.co.jp/articles/72a393f04d9e810b7f20e6b3f9a58a9e9aabc20d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「１か月で８％の利益」元占い師らを無登録で出資勧誘の疑いで書類送検",
-        "url": "https://news.yahoo.co.jp/articles/389651eed930f16d9f595a398a6c4c8928315e7b",
         "source": "Yahoo",
         "date": ""
       }
@@ -13053,6 +13083,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "全米保安官協会、暗号資産市場構造法案への反対姿勢撤回し中立に",
         "url": "https://news.yahoo.co.jp/articles/bc3691823126e50b0b539564aba11a7fd3e90fb1",
         "source": "Yahoo",
@@ -13079,18 +13115,18 @@
       {
         "title": "「シン・金融庁」の課題は？ ◆8年ぶりの大規模組織再編",
         "url": "https://news.yahoo.co.jp/articles/32f789b978447646f51c8016f413878f653ed091",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "詐欺師の楽園?被害額20億ドルが浮き彫りにしたドバイの闇",
-        "url": "https://news.yahoo.co.jp/articles/28cd565b80fcc737f000a75ee03e99aaa85737b3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "全米保安官協会、暗号資産市場構造法案への反対姿勢撤回し中立に",
         "url": "https://news.yahoo.co.jp/articles/bc3691823126e50b0b539564aba11a7fd3e90fb1",
         "source": "Yahoo",
@@ -13117,12 +13153,6 @@
       {
         "title": "「シン・金融庁」の課題は？ ◆8年ぶりの大規模組織再編",
         "url": "https://news.yahoo.co.jp/articles/32f789b978447646f51c8016f413878f653ed091",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "詐欺師の楽園?被害額20億ドルが浮き彫りにしたドバイの闇",
-        "url": "https://news.yahoo.co.jp/articles/28cd565b80fcc737f000a75ee03e99aaa85737b3",
         "source": "Yahoo",
         "date": ""
       }
@@ -13281,6 +13311,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー出資のOrionxが閉鎖へ、7Mドル超の保管資産が管理外に移動",
+        "url": "https://news.yahoo.co.jp/articles/ea14dd01d5cf97d8f05d7f7eb4031655b5626cbb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、株式・債券・ファンドのトークン化を段階導入へ、アバランチも接続対象に",
         "url": "https://news.yahoo.co.jp/articles/38ccf4a27e1badee1414d75eaf832c18ce563594",
         "source": "Yahoo",
@@ -13301,24 +13343,24 @@
       {
         "title": "「シン・金融庁」の課題は？ ◆8年ぶりの大規模組織再編",
         "url": "https://news.yahoo.co.jp/articles/32f789b978447646f51c8016f413878f653ed091",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインで始まる、オンチェーン金融の次の“陣取り合戦”──2年前は「どのチェーンが勝つか？」だった【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/c811027e86a35dc19daf247631b9f0c26e5d61d1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティー法案は9月に成立するのか。アメリカ人の私が感じた「60票と時間切れ」の壁【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/be88d78ffefa4933fbd0114b231264d3f785d33a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー出資のOrionxが閉鎖へ、7Mドル超の保管資産が管理外に移動",
+        "url": "https://news.yahoo.co.jp/articles/ea14dd01d5cf97d8f05d7f7eb4031655b5626cbb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、株式・債券・ファンドのトークン化を段階導入へ、アバランチも接続対象に",
         "url": "https://news.yahoo.co.jp/articles/38ccf4a27e1badee1414d75eaf832c18ce563594",
         "source": "Yahoo",
@@ -13339,18 +13381,6 @@
       {
         "title": "「シン・金融庁」の課題は？ ◆8年ぶりの大規模組織再編",
         "url": "https://news.yahoo.co.jp/articles/32f789b978447646f51c8016f413878f653ed091",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインで始まる、オンチェーン金融の次の“陣取り合戦”──2年前は「どのチェーンが勝つか？」だった【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/c811027e86a35dc19daf247631b9f0c26e5d61d1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティー法案は9月に成立するのか。アメリカ人の私が感じた「60票と時間切れ」の壁【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/be88d78ffefa4933fbd0114b231264d3f785d33a",
         "source": "Yahoo",
         "date": ""
       }
