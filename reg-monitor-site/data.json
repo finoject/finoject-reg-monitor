@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-07T08:32:38.400Z",
+  "generatedAt": "2026-09-07T10:17:57.259Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の基準値段等：ニッセイＥＴＦ ＴＯＰＩＸ（年４回決算型）",
+      "url": "https://www.jpx.co.jp/news/1030/20260907-01.html",
+      "date": "2026-09-07",
+      "detectedAt": "2026-09-07T10:17:57.259Z",
+      "enriched": "2026-09-07T10:18:01.533Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ニッセイETF TOPIX（年４回決算型）が2026年9月8日に東証に新規上場し、コード630A、売買単位1口で上場される。",
+        "取引参加者および投資家は基準値段1,507円、値段上限値1,907円、値段下限値1,107円での取引に対応する必要がある。",
+        "東京証券取引所は2026年9月8日の上場に向けて制限値幅を設定し、株式部株式総務グループで問い合わせ対応を行う。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場の承認（スタンダード市場）：クラサスケミカル（株）",
@@ -13311,6 +13326,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "100万ドルの学生ローンで初のオンチェーン融資・返済完了",
+        "url": "https://news.yahoo.co.jp/articles/248b4e91dce6d8cf5b09ff366373f896b4b15c6c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JPYCの流通量減少止まらず、一週間で約6億円減",
+        "url": "https://news.yahoo.co.jp/articles/b87670dedd3e360c17ee58060bea863e7cf5416a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
         "source": "Yahoo",
@@ -13331,24 +13358,24 @@
       {
         "title": "リキッドネットワーク、約4000BTC流出で事実上停止。実行者が「ホワイトハット」名乗る",
         "url": "https://news.yahoo.co.jp/articles/f40d5cc0aa56e7a7d8f28df8e7062213a12bcb43",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週の大きなイベントに注目──強い雇用の次は米CPI、オンチェーンとFOMCが示すビットコインの分岐点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/ff397b9fa2eb86b92e962db40898f0c4641cfd41",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「シン・金融庁」の課題は？ ◆8年ぶりの大規模組織再編",
-        "url": "https://news.yahoo.co.jp/articles/32f789b978447646f51c8016f413878f653ed091",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "100万ドルの学生ローンで初のオンチェーン融資・返済完了",
+        "url": "https://news.yahoo.co.jp/articles/248b4e91dce6d8cf5b09ff366373f896b4b15c6c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JPYCの流通量減少止まらず、一週間で約6億円減",
+        "url": "https://news.yahoo.co.jp/articles/b87670dedd3e360c17ee58060bea863e7cf5416a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
         "source": "Yahoo",
@@ -13369,18 +13396,6 @@
       {
         "title": "リキッドネットワーク、約4000BTC流出で事実上停止。実行者が「ホワイトハット」名乗る",
         "url": "https://news.yahoo.co.jp/articles/f40d5cc0aa56e7a7d8f28df8e7062213a12bcb43",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週の大きなイベントに注目──強い雇用の次は米CPI、オンチェーンとFOMCが示すビットコインの分岐点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/ff397b9fa2eb86b92e962db40898f0c4641cfd41",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「シン・金融庁」の課題は？ ◆8年ぶりの大規模組織再編",
-        "url": "https://news.yahoo.co.jp/articles/32f789b978447646f51c8016f413878f653ed091",
         "source": "Yahoo",
         "date": ""
       }
