@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-07T02:01:40.812Z",
+  "generatedAt": "2026-09-07T03:46:49.982Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：オリコン（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260907-11.html",
+      "date": "2026-09-07",
+      "detectedAt": "2026-09-07T03:46:49.982Z",
+      "enriched": "2026-09-07T03:46:54.556Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "オリコン株式会社（コード4800、スタンダード市場）は、特定の者以外の株主所有株式を1株未満の端数となる割合で併合するため、有価証券上場規程第601条第1項第18号に該当し上場廃止が決定された。",
+        "同社株式は2026年9月8日から信用取引保証金・売買証拠金・取引参加者保証金・信認金の代用有価証券から除外され、整理銘柄指定期間は2026年9月7日から9月27日、上場廃止日は2026年9月28日。",
+        "東証は2026年9月7日開催の株主総会で承認された株式併合議案に基づき、当該規程第601条第1項第18号により上場廃止を決定したもので、速やかに上場廃止すべき事情発生時は指定期間・廃止日を変更する可能性がある。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（鹿児島県）",
@@ -13038,6 +13053,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "全米保安官協会、暗号資産市場構造法案への反対姿勢撤回し中立に",
+        "url": "https://news.yahoo.co.jp/articles/bc3691823126e50b0b539564aba11a7fd3e90fb1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TikTok、違法薬物広告が相次ぐ──密売業者の出稿から広告収入を獲得",
         "url": "https://news.yahoo.co.jp/articles/69e34be3d79549dd44eb64ebe23563818686a171",
         "source": "Yahoo",
@@ -13064,18 +13085,18 @@
       {
         "title": "詐欺師の楽園?被害額20億ドルが浮き彫りにしたドバイの闇",
         "url": "https://news.yahoo.co.jp/articles/28cd565b80fcc737f000a75ee03e99aaa85737b3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティー法案は9月に成立するのか。アメリカ人の私が感じた「60票と時間切れ」の壁【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/be88d78ffefa4933fbd0114b231264d3f785d33a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "全米保安官協会、暗号資産市場構造法案への反対姿勢撤回し中立に",
+        "url": "https://news.yahoo.co.jp/articles/bc3691823126e50b0b539564aba11a7fd3e90fb1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TikTok、違法薬物広告が相次ぐ──密売業者の出稿から広告収入を獲得",
         "url": "https://news.yahoo.co.jp/articles/69e34be3d79549dd44eb64ebe23563818686a171",
         "source": "Yahoo",
@@ -13102,12 +13123,6 @@
       {
         "title": "詐欺師の楽園?被害額20億ドルが浮き彫りにしたドバイの闇",
         "url": "https://news.yahoo.co.jp/articles/28cd565b80fcc737f000a75ee03e99aaa85737b3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティー法案は9月に成立するのか。アメリカ人の私が感じた「60票と時間切れ」の壁【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/be88d78ffefa4933fbd0114b231264d3f785d33a",
         "source": "Yahoo",
         "date": ""
       }
@@ -13266,6 +13281,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "韓国、株式・債券・ファンドのトークン化を段階導入へ、アバランチも接続対象に",
+        "url": "https://news.yahoo.co.jp/articles/38ccf4a27e1badee1414d75eaf832c18ce563594",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リキッドネットワーク、約4000BTC流出で事実上停止。実行者が「ホワイトハット」名乗る",
+        "url": "https://news.yahoo.co.jp/articles/f40d5cc0aa56e7a7d8f28df8e7062213a12bcb43",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週の大きなイベントに注目──強い雇用の次は米CPI、オンチェーンとFOMCが示すビットコインの分岐点【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/ff397b9fa2eb86b92e962db40898f0c4641cfd41",
         "source": "Yahoo",
@@ -13286,24 +13313,24 @@
       {
         "title": "クラリティー法案は9月に成立するのか。アメリカ人の私が感じた「60票と時間切れ」の壁【サンフランシスコレポート】",
         "url": "https://news.yahoo.co.jp/articles/be88d78ffefa4933fbd0114b231264d3f785d33a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、「IZAKA-YA」に警告書／偽のトークン化株式に市場熱狂、本物の米国株も一時4倍に【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/27d8a0046a2866c96f00f1e4a3b8b29298503242",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "新興国の資金調達にトークン化国債が拡大か──香港に続きパキスタンが検討＝報道",
-        "url": "https://news.yahoo.co.jp/articles/a0fefb89e3738f6c24d5f1e4a351d23fda379bde",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "韓国、株式・債券・ファンドのトークン化を段階導入へ、アバランチも接続対象に",
+        "url": "https://news.yahoo.co.jp/articles/38ccf4a27e1badee1414d75eaf832c18ce563594",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リキッドネットワーク、約4000BTC流出で事実上停止。実行者が「ホワイトハット」名乗る",
+        "url": "https://news.yahoo.co.jp/articles/f40d5cc0aa56e7a7d8f28df8e7062213a12bcb43",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "今週の大きなイベントに注目──強い雇用の次は米CPI、オンチェーンとFOMCが示すビットコインの分岐点【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/ff397b9fa2eb86b92e962db40898f0c4641cfd41",
         "source": "Yahoo",
@@ -13324,18 +13351,6 @@
       {
         "title": "クラリティー法案は9月に成立するのか。アメリカ人の私が感じた「60票と時間切れ」の壁【サンフランシスコレポート】",
         "url": "https://news.yahoo.co.jp/articles/be88d78ffefa4933fbd0114b231264d3f785d33a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、「IZAKA-YA」に警告書／偽のトークン化株式に市場熱狂、本物の米国株も一時4倍に【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/27d8a0046a2866c96f00f1e4a3b8b29298503242",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "新興国の資金調達にトークン化国債が拡大か──香港に続きパキスタンが検討＝報道",
-        "url": "https://news.yahoo.co.jp/articles/a0fefb89e3738f6c24d5f1e4a351d23fda379bde",
         "source": "Yahoo",
         "date": ""
       }
