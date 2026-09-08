@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-08T01:22:58.876Z",
+  "generatedAt": "2026-09-08T03:08:05.433Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "第３回「2040年に向けた我が国金融資本市場のビジョンについての懇談会」の議事要旨を掲載いたしました",
+      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
+      "date": "2026-09-08",
+      "detectedAt": "2026-09-08T03:08:05.433Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
+        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
+        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-08T03:08:11.100Z"
+    },
     {
       "agency": "日本銀行",
       "title": "貸出・預金動向（8月）",
@@ -1795,22 +1811,6 @@
       "aiSumV": 3,
       "updated": true,
       "enriched": "2026-09-01T04:57:36.560Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "第３回「2040年に向けた我が国金融資本市場のビジョンについての懇談会」（2026年８月24日）を開催いたしました",
-      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
-      "date": "2026-08-24",
-      "detectedAt": "2026-08-24T09:28:05.759Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
-        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
-        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-24T09:28:12.549Z"
     },
     {
       "agency": "金融庁",
@@ -13052,6 +13052,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "SBIの円ステーブルコイン「JPYSC」、裏付け資産10億円を国債で運用開始",
+        "url": "https://news.yahoo.co.jp/articles/828c490fd46d9f165bef65a8346f19f654b485f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインJPYSC、短期国債で運用開始",
         "url": "https://news.yahoo.co.jp/articles/dc29a7c66e28f27f268376fe654141e7b4ad3c23",
         "source": "Yahoo",
@@ -13078,18 +13084,18 @@
       {
         "title": "著名人を装うアカウントや広告を通じた投資詐欺被害が相次ぐ、国民生活センターが注意喚起",
         "url": "https://news.yahoo.co.jp/articles/0aae6c810a3d6c861a23c0bf304dc93ce30d1bee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ",
-        "url": "https://news.yahoo.co.jp/articles/d372b2af2cfbd715a768f6bd92a4a0e20629c68c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "SBIの円ステーブルコイン「JPYSC」、裏付け資産10億円を国債で運用開始",
+        "url": "https://news.yahoo.co.jp/articles/828c490fd46d9f165bef65a8346f19f654b485f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインJPYSC、短期国債で運用開始",
         "url": "https://news.yahoo.co.jp/articles/dc29a7c66e28f27f268376fe654141e7b4ad3c23",
         "source": "Yahoo",
@@ -13116,12 +13122,6 @@
       {
         "title": "著名人を装うアカウントや広告を通じた投資詐欺被害が相次ぐ、国民生活センターが注意喚起",
         "url": "https://news.yahoo.co.jp/articles/0aae6c810a3d6c861a23c0bf304dc93ce30d1bee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ",
-        "url": "https://news.yahoo.co.jp/articles/d372b2af2cfbd715a768f6bd92a4a0e20629c68c",
         "source": "Yahoo",
         "date": ""
       }
@@ -13356,6 +13356,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "Secured Financeで不正流出、3チェーンのレンディング市場を停止",
+        "url": "https://news.yahoo.co.jp/articles/bd55c4cc5520fcd25ba7d9ea43c6a19288f8ce0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIの円ステーブルコイン「JPYSC」、裏付け資産10億円を国債で運用開始",
+        "url": "https://news.yahoo.co.jp/articles/828c490fd46d9f165bef65a8346f19f654b485f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインJPYSC、短期国債で運用開始",
         "url": "https://news.yahoo.co.jp/articles/dc29a7c66e28f27f268376fe654141e7b4ad3c23",
         "source": "Yahoo",
@@ -13376,24 +13388,24 @@
       {
         "title": "100万ドルの学生ローンで初のオンチェーン融資・返済完了",
         "url": "https://news.yahoo.co.jp/articles/248b4e91dce6d8cf5b09ff366373f896b4b15c6c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYCの流通量減少止まらず、一週間で約6億円減",
-        "url": "https://news.yahoo.co.jp/articles/b87670dedd3e360c17ee58060bea863e7cf5416a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Secured Financeで不正流出、3チェーンのレンディング市場を停止",
+        "url": "https://news.yahoo.co.jp/articles/bd55c4cc5520fcd25ba7d9ea43c6a19288f8ce0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIの円ステーブルコイン「JPYSC」、裏付け資産10億円を国債で運用開始",
+        "url": "https://news.yahoo.co.jp/articles/828c490fd46d9f165bef65a8346f19f654b485f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインJPYSC、短期国債で運用開始",
         "url": "https://news.yahoo.co.jp/articles/dc29a7c66e28f27f268376fe654141e7b4ad3c23",
         "source": "Yahoo",
@@ -13414,18 +13426,6 @@
       {
         "title": "100万ドルの学生ローンで初のオンチェーン融資・返済完了",
         "url": "https://news.yahoo.co.jp/articles/248b4e91dce6d8cf5b09ff366373f896b4b15c6c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYCの流通量減少止まらず、一週間で約6億円減",
-        "url": "https://news.yahoo.co.jp/articles/b87670dedd3e360c17ee58060bea863e7cf5416a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
         "source": "Yahoo",
         "date": ""
       }
