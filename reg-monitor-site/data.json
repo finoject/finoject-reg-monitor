@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-07T23:44:45.703Z",
+  "generatedAt": "2026-09-08T01:22:58.876Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "貸出・預金動向（8月）",
+      "url": "https://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
+      "date": "2026-09-08",
+      "detectedAt": "2026-09-08T01:22:58.876Z",
+      "enriched": "2026-09-08T01:23:04.574Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年8月末時点の貸出・預金の前年同月比変化率および平均残高を集計・公表し、大手銀行・地域銀行・信用金庫などの機関別データを区分して開示した。",
+        "金融機関の経営者および主管部門は、本統計で示された貸出残高・預金残高の前年比増減率を経営・運営の指標として参照し、市場トレンドを把握する必要がある。",
+        "本統計は日本銀行金融システム課が毎月作成・公表する速報値であり、統計の定義・対象範囲は定款基準に従い、銀行合併等による統計上の不連続は別途明記されている。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置の公表",
@@ -13037,6 +13052,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "ステーブルコインJPYSC、短期国債で運用開始",
+        "url": "https://news.yahoo.co.jp/articles/dc29a7c66e28f27f268376fe654141e7b4ad3c23",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIエージェントは「自分でお金を使う」時代へ──ステーブルコインが機械経済の決済インフラになる理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/97c6d57405bbf64d37da4341e43a881f50a0759b",
         "source": "Yahoo",
@@ -13063,18 +13084,18 @@
       {
         "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ",
         "url": "https://news.yahoo.co.jp/articles/d372b2af2cfbd715a768f6bd92a4a0e20629c68c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
-        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "ステーブルコインJPYSC、短期国債で運用開始",
+        "url": "https://news.yahoo.co.jp/articles/dc29a7c66e28f27f268376fe654141e7b4ad3c23",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIエージェントは「自分でお金を使う」時代へ──ステーブルコインが機械経済の決済インフラになる理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/97c6d57405bbf64d37da4341e43a881f50a0759b",
         "source": "Yahoo",
@@ -13103,15 +13124,15 @@
         "url": "https://news.yahoo.co.jp/articles/d372b2af2cfbd715a768f6bd92a4a0e20629c68c",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換",
-        "url": "https://news.yahoo.co.jp/articles/90560f979fd673fd3c7bdff8aee59f5ed5a1503c",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "シティとDBS、SWIFT台帳で週末の越境ドル決済を実行──数分で完了",
+        "url": "https://news.yahoo.co.jp/articles/fcea47ae8314dc99ad9a6ca462670ab8960f9d6f",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "クラリティ法案、成立遅れなら「次の機会は2030年」──ルミス議員が警告",
         "url": "https://news.yahoo.co.jp/articles/e4115add7272b0001615315fb6c8d908f405b9ea",
@@ -13139,18 +13160,18 @@
       {
         "title": "バイナンス、MiCA未認可でもEU事業を継続＝Bloomberg",
         "url": "https://news.yahoo.co.jp/articles/f8410c4f6587ca910904bf7612a8996ebf938486",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "XRP、ビットコインに対して30％上昇──ゴールドマン・サックスがETFの企業保有で首位【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/691ce4d3c2dc016aa541333ec90c652fbacc950e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "シティとDBS、SWIFT台帳で週末の越境ドル決済を実行──数分で完了",
+        "url": "https://news.yahoo.co.jp/articles/fcea47ae8314dc99ad9a6ca462670ab8960f9d6f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案、成立遅れなら「次の機会は2030年」──ルミス議員が警告",
         "url": "https://news.yahoo.co.jp/articles/e4115add7272b0001615315fb6c8d908f405b9ea",
         "source": "Yahoo",
@@ -13177,12 +13198,6 @@
       {
         "title": "バイナンス、MiCA未認可でもEU事業を継続＝Bloomberg",
         "url": "https://news.yahoo.co.jp/articles/f8410c4f6587ca910904bf7612a8996ebf938486",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "XRP、ビットコインに対して30％上昇──ゴールドマン・サックスがETFの企業保有で首位【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/691ce4d3c2dc016aa541333ec90c652fbacc950e",
         "source": "Yahoo",
         "date": ""
       }
@@ -13341,6 +13356,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ステーブルコインJPYSC、短期国債で運用開始",
+        "url": "https://news.yahoo.co.jp/articles/dc29a7c66e28f27f268376fe654141e7b4ad3c23",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "シティとDBS、SWIFT台帳で週末の越境ドル決済を実行──数分で完了",
+        "url": "https://news.yahoo.co.jp/articles/fcea47ae8314dc99ad9a6ca462670ab8960f9d6f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIエージェントは「自分でお金を使う」時代へ──ステーブルコインが機械経済の決済インフラになる理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/97c6d57405bbf64d37da4341e43a881f50a0759b",
         "source": "Yahoo",
@@ -13361,24 +13388,24 @@
       {
         "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー出資のOrionxが閉鎖へ、7Mドル超の保管資産が管理外に移動",
-        "url": "https://news.yahoo.co.jp/articles/ea14dd01d5cf97d8f05d7f7eb4031655b5626cbb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、株式・債券・ファンドのトークン化を段階導入へ、アバランチも接続対象に",
-        "url": "https://news.yahoo.co.jp/articles/38ccf4a27e1badee1414d75eaf832c18ce563594",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ステーブルコインJPYSC、短期国債で運用開始",
+        "url": "https://news.yahoo.co.jp/articles/dc29a7c66e28f27f268376fe654141e7b4ad3c23",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "シティとDBS、SWIFT台帳で週末の越境ドル決済を実行──数分で完了",
+        "url": "https://news.yahoo.co.jp/articles/fcea47ae8314dc99ad9a6ca462670ab8960f9d6f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIエージェントは「自分でお金を使う」時代へ──ステーブルコインが機械経済の決済インフラになる理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/97c6d57405bbf64d37da4341e43a881f50a0759b",
         "source": "Yahoo",
@@ -13399,18 +13426,6 @@
       {
         "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー出資のOrionxが閉鎖へ、7Mドル超の保管資産が管理外に移動",
-        "url": "https://news.yahoo.co.jp/articles/ea14dd01d5cf97d8f05d7f7eb4031655b5626cbb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、株式・債券・ファンドのトークン化を段階導入へ、アバランチも接続対象に",
-        "url": "https://news.yahoo.co.jp/articles/38ccf4a27e1badee1414d75eaf832c18ce563594",
         "source": "Yahoo",
         "date": ""
       }
