@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T03:08:05.433Z",
+  "generatedAt": "2026-09-08T04:53:14.469Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13356,6 +13356,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "米裁判所、偽装就職した北朝鮮IT労働者の暗号資産による賃金の一部没収を命令",
+        "url": "https://news.yahoo.co.jp/articles/1478fdf81aa14cefa3b9fb4697fd357aa761a3dc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イーサリアム、ステーブルコインでガス代支払いが可能に──2027年に導入予定",
+        "url": "https://news.yahoo.co.jp/articles/da2316b49cc9dbfad5dc6777456380d9f69c28ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Secured Financeで不正流出、3チェーンのレンディング市場を停止",
         "url": "https://news.yahoo.co.jp/articles/bd55c4cc5520fcd25ba7d9ea43c6a19288f8ce0e",
         "source": "Yahoo",
@@ -13376,24 +13388,24 @@
       {
         "title": "シティとDBS、SWIFT台帳で週末の越境ドル決済を実行──数分で完了",
         "url": "https://news.yahoo.co.jp/articles/fcea47ae8314dc99ad9a6ca462670ab8960f9d6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIエージェントは「自分でお金を使う」時代へ──ステーブルコインが機械経済の決済インフラになる理由【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/97c6d57405bbf64d37da4341e43a881f50a0759b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "100万ドルの学生ローンで初のオンチェーン融資・返済完了",
-        "url": "https://news.yahoo.co.jp/articles/248b4e91dce6d8cf5b09ff366373f896b4b15c6c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米裁判所、偽装就職した北朝鮮IT労働者の暗号資産による賃金の一部没収を命令",
+        "url": "https://news.yahoo.co.jp/articles/1478fdf81aa14cefa3b9fb4697fd357aa761a3dc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イーサリアム、ステーブルコインでガス代支払いが可能に──2027年に導入予定",
+        "url": "https://news.yahoo.co.jp/articles/da2316b49cc9dbfad5dc6777456380d9f69c28ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Secured Financeで不正流出、3チェーンのレンディング市場を停止",
         "url": "https://news.yahoo.co.jp/articles/bd55c4cc5520fcd25ba7d9ea43c6a19288f8ce0e",
         "source": "Yahoo",
@@ -13414,18 +13426,6 @@
       {
         "title": "シティとDBS、SWIFT台帳で週末の越境ドル決済を実行──数分で完了",
         "url": "https://news.yahoo.co.jp/articles/fcea47ae8314dc99ad9a6ca462670ab8960f9d6f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIエージェントは「自分でお金を使う」時代へ──ステーブルコインが機械経済の決済インフラになる理由【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/97c6d57405bbf64d37da4341e43a881f50a0759b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "100万ドルの学生ローンで初のオンチェーン融資・返済完了",
-        "url": "https://news.yahoo.co.jp/articles/248b4e91dce6d8cf5b09ff366373f896b4b15c6c",
         "source": "Yahoo",
         "date": ""
       }
