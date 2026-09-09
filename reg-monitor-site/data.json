@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-09T00:34:05.011Z",
+  "generatedAt": "2026-09-09T02:13:27.850Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行やその役職員の関与を装った不審な連絡・勧誘・ウェブサイト・SNSアカウントなどにご注意ください",
+      "url": "https://www.boj.or.jp/about/organization/notice/index.htm",
+      "date": "2026-09-09",
+      "detectedAt": "2026-09-09T02:13:27.850Z",
+      "enriched": "2026-09-09T02:13:32.485Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行や役職員になりすまし、現金・金品詐取、口座情報・パスワード聞き出し、投資勧誘、偽サイト構築、偽情報発信等の事案が発生。日本銀行は個人や法人に預金口座開設せず、これらの情報要求・カード・現金預受・投資勧誘は一切行わない。",
+        "個人・企業等は、電話・メール・訪問による日本銀行や役職員を装った不審な連絡・勧誘を受けた場合、直ちに最寄警察に相談し、本公表の公式URL（https://www.boj.or.jp/）・X・facebook・YouTubeと照合して確認する。",
+        "日本銀行は2026年9月9日付で公表。過去の同種事案（2014年5月～2025年8月）に続く注意喚起であり、詐欺・なりすまし行為は刑法235条詐欺罪等に該当する可能性がある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "システムメンテナンスのお知らせ",
+      "url": "https://jicpa.or.jp/news/information/2026/20260909iby.html",
+      "date": "2026-09-09",
+      "detectedAt": "2026-09-09T02:13:27.850Z",
+      "enriched": "2026-09-09T02:13:32.485Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本公認会計士協会は2026年9月12日15時から21時までシステムメンテナンスを実施し、会員マイページ・地域会サイト・電子提出システム・CPDオンラインへのログインが不可となる。",
+        "会員・準会員は該当期間中、協会ウェブサイト及び地域会サイト（神奈川県会・沖縄会を除く）並びに電子提出システム・CPDオンラインが利用できないため、事前の準備やメンテナンス完了後のアクセスが必要。",
+        "メンテナンス期間は2026年9月12日土曜15時から21時、問い合わせはヘルプデスク（websupport@jicpa.or.jp、0120-616-230）へ平日9時から12時・13時から17時に連絡。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "マネーストック（8月）",
@@ -13248,6 +13278,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
+        "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "フィリピン中銀、決済事業者の新規登録12カ月停止を提案。暗号資産事業者への決済管理強化も",
+        "url": "https://news.yahoo.co.jp/articles/d71c211e7b787c6f0945f0097974f10870eec1c4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Robinhood、予測市場の基盤にOG.comを選定──Crypto.comと合わせて株式取得",
         "url": "https://news.yahoo.co.jp/articles/7c7319a77cea06984ca2a687228af88d19405e1d",
         "source": "Yahoo",
@@ -13268,24 +13310,24 @@
       {
         "title": "マントル、パクソスの「USDG」導入。Global Dollar Networkにも参加",
         "url": "https://news.yahoo.co.jp/articles/91e4de9316380838abd30a43bc057188f0ca0b27",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米暗号資産市場構造法案「CLARITY」、可決逃せば「次の機会は2030年」＝ルミス上院議員",
-        "url": "https://news.yahoo.co.jp/articles/711f9193dc92912a53b7c56efe448b06b3124c0c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シティとDBS、SWIFT台帳で週末の越境ドル決済を実行──数分で完了",
-        "url": "https://news.yahoo.co.jp/articles/fcea47ae8314dc99ad9a6ca462670ab8960f9d6f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
+        "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "フィリピン中銀、決済事業者の新規登録12カ月停止を提案。暗号資産事業者への決済管理強化も",
+        "url": "https://news.yahoo.co.jp/articles/d71c211e7b787c6f0945f0097974f10870eec1c4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Robinhood、予測市場の基盤にOG.comを選定──Crypto.comと合わせて株式取得",
         "url": "https://news.yahoo.co.jp/articles/7c7319a77cea06984ca2a687228af88d19405e1d",
         "source": "Yahoo",
@@ -13306,18 +13348,6 @@
       {
         "title": "マントル、パクソスの「USDG」導入。Global Dollar Networkにも参加",
         "url": "https://news.yahoo.co.jp/articles/91e4de9316380838abd30a43bc057188f0ca0b27",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米暗号資産市場構造法案「CLARITY」、可決逃せば「次の機会は2030年」＝ルミス上院議員",
-        "url": "https://news.yahoo.co.jp/articles/711f9193dc92912a53b7c56efe448b06b3124c0c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シティとDBS、SWIFT台帳で週末の越境ドル決済を実行──数分で完了",
-        "url": "https://news.yahoo.co.jp/articles/fcea47ae8314dc99ad9a6ca462670ab8960f9d6f",
         "source": "Yahoo",
         "date": ""
       }
@@ -13476,6 +13506,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
+        "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Visa、決済データをオンチェーン融資に活用",
         "url": "https://news.yahoo.co.jp/articles/f6d686e5c3009837151b0644376cd907dbac5d4a",
         "source": "Yahoo",
@@ -13502,18 +13538,18 @@
       {
         "title": "スイスのステーブルコイン構想が実証実験入り、新パートナーも",
         "url": "https://news.yahoo.co.jp/articles/9c6cc7727bd3ec3e3461885d044880faae2720dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIで生産性は上がる、だが「やる気」は下がる？ 金融の現場から考える「生産性向上のわな」",
-        "url": "https://news.yahoo.co.jp/articles/5864f68713386e59979565667098544dc54aeba7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
+        "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Visa、決済データをオンチェーン融資に活用",
         "url": "https://news.yahoo.co.jp/articles/f6d686e5c3009837151b0644376cd907dbac5d4a",
         "source": "Yahoo",
@@ -13540,12 +13576,6 @@
       {
         "title": "スイスのステーブルコイン構想が実証実験入り、新パートナーも",
         "url": "https://news.yahoo.co.jp/articles/9c6cc7727bd3ec3e3461885d044880faae2720dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIで生産性は上がる、だが「やる気」は下がる？ 金融の現場から考える「生産性向上のわな」",
-        "url": "https://news.yahoo.co.jp/articles/5864f68713386e59979565667098544dc54aeba7",
         "source": "Yahoo",
         "date": ""
       }
@@ -14266,6 +14296,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "AIを活用したURL・広告タグセキュリティ診断「ndp one」ティザーサイト公開",
+        "url": "https://news.yahoo.co.jp/articles/464f4917915f593864ca96d4aef092ebfa16652d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コメンテーター陣は猛反対、問われる個人情報の重要性",
         "url": "https://news.yahoo.co.jp/articles/1caa13398520d4f2c1dab4ef1919ae80767ea67b",
         "source": "Yahoo",
@@ -14292,18 +14328,18 @@
       {
         "title": "文書紛失、誤発送",
         "url": "https://news.yahoo.co.jp/articles/d0e20e572ae5bc6216b2518b6d487d2c851929de",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "戸籍上まるで前妻が第一夫人かのように",
-        "url": "https://news.yahoo.co.jp/articles/50374933c0c04a592ce52344f8650167fb625f3b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "AIを活用したURL・広告タグセキュリティ診断「ndp one」ティザーサイト公開",
+        "url": "https://news.yahoo.co.jp/articles/464f4917915f593864ca96d4aef092ebfa16652d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コメンテーター陣は猛反対、問われる個人情報の重要性",
         "url": "https://news.yahoo.co.jp/articles/1caa13398520d4f2c1dab4ef1919ae80767ea67b",
         "source": "Yahoo",
@@ -14330,18 +14366,18 @@
       {
         "title": "文書紛失、誤発送",
         "url": "https://news.yahoo.co.jp/articles/d0e20e572ae5bc6216b2518b6d487d2c851929de",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "戸籍上まるで前妻が第一夫人かのように",
-        "url": "https://news.yahoo.co.jp/articles/50374933c0c04a592ce52344f8650167fb625f3b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "AIを活用したURL・広告タグセキュリティ診断「ndp one」ティザーサイト公開",
+        "url": "https://news.yahoo.co.jp/articles/464f4917915f593864ca96d4aef092ebfa16652d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コメンテーター陣は猛反対、問われる個人情報の重要性",
         "url": "https://news.yahoo.co.jp/articles/1caa13398520d4f2c1dab4ef1919ae80767ea67b",
         "source": "Yahoo",
@@ -14368,12 +14404,6 @@
       {
         "title": "文書紛失、誤発送",
         "url": "https://news.yahoo.co.jp/articles/d0e20e572ae5bc6216b2518b6d487d2c851929de",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "戸籍上まるで前妻が第一夫人かのように",
-        "url": "https://news.yahoo.co.jp/articles/50374933c0c04a592ce52344f8650167fb625f3b",
         "source": "Yahoo",
         "date": ""
       }
