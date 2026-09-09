@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-09-09T05:14:28.208Z",
+  "generatedAt": "2026-09-09T06:58:43.697Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "シェアリングテクノロジー（3989）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-09-09",
+      "detectedAt": "2026-09-09T06:58:43.697Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-09T06:58:48.268Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-09-09",
+      "detectedAt": "2026-09-09T06:58:43.697Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-09T06:58:48.269Z"
+    },
     {
       "agency": "日本銀行",
       "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（愛知県）",
@@ -121,22 +153,6 @@
         "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
       ],
       "aiSumV": 3,
-      "enriched": "2026-09-08T08:38:56.857Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "アルビス（7475）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-09-08",
-      "detectedAt": "2026-09-08T08:38:50.067Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
       "enriched": "2026-09-08T08:38:56.857Z"
     },
     {
@@ -760,22 +776,6 @@
         "データセンターETNの償還日は2046年9月10日、信託元本30億円、上場時発行済受益権口数300,000口（変更可能性あり）。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-09-02",
-      "detectedAt": "2026-09-02T06:41:15.626Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-09-02T06:41:20.851Z"
     },
     {
       "agency": "日本証券業協会",
@@ -13293,6 +13293,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "米Block、ビットコイン保管用の信託銀行設立を申請",
+        "url": "https://news.yahoo.co.jp/articles/080f010b371342d1b81436b25924a769bcb69d51",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、Xinbi Guarantee関連の約3927万USDT凍結",
+        "url": "https://news.yahoo.co.jp/articles/a7011963c24b1d1124d0639cc6dbd84ae1d49975",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロビンフッド、予測市場でOG[.]comと提携。クリプトドットコムの株式取得へ",
+        "url": "https://news.yahoo.co.jp/articles/0846d61b5ebd73c9b7c21dc544396a8bc4314fda",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
         "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
         "source": "Yahoo",
@@ -13307,30 +13325,30 @@
       {
         "title": "Robinhood、予測市場の基盤にOG.comを選定──Crypto.comと合わせて株式取得",
         "url": "https://news.yahoo.co.jp/articles/7c7319a77cea06984ca2a687228af88d19405e1d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIで生産性は上がる、だが「やる気」は下がる？ 金融の現場から考える「生産性向上のわな」",
-        "url": "https://news.yahoo.co.jp/articles/5864f68713386e59979565667098544dc54aeba7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIが経済主体になる日は近い？「エージェント経済圏」はどこまで来たのか【コインチェック×Komlock lab】",
-        "url": "https://news.yahoo.co.jp/articles/d079c32593d3f16d2f4e0f9e43c7638f1c510114",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マントル、パクソスの「USDG」導入。Global Dollar Networkにも参加",
-        "url": "https://news.yahoo.co.jp/articles/91e4de9316380838abd30a43bc057188f0ca0b27",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米Block、ビットコイン保管用の信託銀行設立を申請",
+        "url": "https://news.yahoo.co.jp/articles/080f010b371342d1b81436b25924a769bcb69d51",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、Xinbi Guarantee関連の約3927万USDT凍結",
+        "url": "https://news.yahoo.co.jp/articles/a7011963c24b1d1124d0639cc6dbd84ae1d49975",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロビンフッド、予測市場でOG[.]comと提携。クリプトドットコムの株式取得へ",
+        "url": "https://news.yahoo.co.jp/articles/0846d61b5ebd73c9b7c21dc544396a8bc4314fda",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
         "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
         "source": "Yahoo",
@@ -13345,24 +13363,6 @@
       {
         "title": "Robinhood、予測市場の基盤にOG.comを選定──Crypto.comと合わせて株式取得",
         "url": "https://news.yahoo.co.jp/articles/7c7319a77cea06984ca2a687228af88d19405e1d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIで生産性は上がる、だが「やる気」は下がる？ 金融の現場から考える「生産性向上のわな」",
-        "url": "https://news.yahoo.co.jp/articles/5864f68713386e59979565667098544dc54aeba7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIが経済主体になる日は近い？「エージェント経済圏」はどこまで来たのか【コインチェック×Komlock lab】",
-        "url": "https://news.yahoo.co.jp/articles/d079c32593d3f16d2f4e0f9e43c7638f1c510114",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マントル、パクソスの「USDG」導入。Global Dollar Networkにも参加",
-        "url": "https://news.yahoo.co.jp/articles/91e4de9316380838abd30a43bc057188f0ca0b27",
         "source": "Yahoo",
         "date": ""
       }
@@ -13521,6 +13521,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "米Block、ビットコイン保管用の信託銀行設立を申請",
+        "url": "https://news.yahoo.co.jp/articles/080f010b371342d1b81436b25924a769bcb69d51",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、Xinbi Guarantee関連の約3927万USDT凍結",
+        "url": "https://news.yahoo.co.jp/articles/a7011963c24b1d1124d0639cc6dbd84ae1d49975",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米サークル、Tazapayを約4億ドルで買収へ。USDCの国際決済基盤を拡充",
         "url": "https://news.yahoo.co.jp/articles/3f70c97d4b05d416988e03316502a193cac37daa",
         "source": "Yahoo",
@@ -13541,24 +13553,24 @@
       {
         "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
         "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、決済データをオンチェーン融資に活用",
-        "url": "https://news.yahoo.co.jp/articles/f6d686e5c3009837151b0644376cd907dbac5d4a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル決済71％を達成したウズベキスタン、楽天・PayPay型の経済圏が競う8分野",
-        "url": "https://news.yahoo.co.jp/articles/8e925b738728b4de85499a75eaa20e622f49d8b1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米Block、ビットコイン保管用の信託銀行設立を申請",
+        "url": "https://news.yahoo.co.jp/articles/080f010b371342d1b81436b25924a769bcb69d51",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、Xinbi Guarantee関連の約3927万USDT凍結",
+        "url": "https://news.yahoo.co.jp/articles/a7011963c24b1d1124d0639cc6dbd84ae1d49975",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米サークル、Tazapayを約4億ドルで買収へ。USDCの国際決済基盤を拡充",
         "url": "https://news.yahoo.co.jp/articles/3f70c97d4b05d416988e03316502a193cac37daa",
         "source": "Yahoo",
@@ -13579,18 +13591,6 @@
       {
         "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
         "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、決済データをオンチェーン融資に活用",
-        "url": "https://news.yahoo.co.jp/articles/f6d686e5c3009837151b0644376cd907dbac5d4a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル決済71％を達成したウズベキスタン、楽天・PayPay型の経済圏が競う8分野",
-        "url": "https://news.yahoo.co.jp/articles/8e925b738728b4de85499a75eaa20e622f49d8b1",
         "source": "Yahoo",
         "date": ""
       }
