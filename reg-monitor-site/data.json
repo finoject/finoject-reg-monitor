@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-08T23:41:23.820Z",
+  "generatedAt": "2026-09-09T00:34:05.011Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "マネーストック（8月）",
+      "url": "https://www.boj.or.jp/statistics/money/ms/ms2608.pdf",
+      "date": "2026-09-09",
+      "detectedAt": "2026-09-09T00:34:05.011Z",
+      "enriched": "2026-09-09T00:34:10.023Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "M2は2026年8月で前年比2.0%（季調済前月比1.3%）、M3は前年比1.2%（季調済前月比0.7%）。通貨供給量の指標として日本銀行が毎月公表する統計。2026年8月速報値で、M2・M3ともに前月から減速傾向。",
+        "金融機関・経済分析者等は本マネーストック統計から金融環境・流動性水準を把握し、金融政策の効果測定や経済見通しに活用。特にM3の前年比伸び率低下（4-6月8.7%から8月1.9%へ）は流動性調整の進行を示唆。",
+        "日本銀行調査統計局が毎月速報値を公表（本件2026年9月9日8時50分）。2026年8月のマネーストック統計は、金融市場調節と流動性供給の実績を示すデータとして、金融政策運営の参考指標。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "取扱廃止銘柄のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260909-001/",
+      "date": "2026-09-09",
+      "detectedAt": "2026-09-09T00:34:05.011Z",
+      "enriched": "2026-09-09T00:34:10.023Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "SAND（ティッカーコード：SAND）、CHZ（Chiliz）、FIL（Filecoin）の3銘柄の取扱が廃止される。",
+        "GMOコイン株式会社は2026年10月24日9:00をもって当該3銘柄の暗号資産取引の提供を終了する。",
+        "廃止対象銘柄はJVCEA会員によるSAND・CHZ・FILの取扱廃止に関わり、廃止日時は2026年10月24日9:00。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場日の基準値段等：グローバルＸ 日経225 ETF（コード632A）等2銘柄",
@@ -13446,6 +13476,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "Visa、決済データをオンチェーン融資に活用",
+        "url": "https://news.yahoo.co.jp/articles/f6d686e5c3009837151b0644376cd907dbac5d4a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタル決済71％を達成したウズベキスタン、楽天・PayPay型の経済圏が競う8分野",
         "url": "https://news.yahoo.co.jp/articles/8e925b738728b4de85499a75eaa20e622f49d8b1",
         "source": "Yahoo",
@@ -13472,18 +13508,18 @@
       {
         "title": "AIで生産性は上がる、だが「やる気」は下がる？ 金融の現場から考える「生産性向上のわな」",
         "url": "https://news.yahoo.co.jp/articles/5864f68713386e59979565667098544dc54aeba7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIが経済主体になる日は近い？「エージェント経済圏」はどこまで来たのか【コインチェック×Komlock lab】",
-        "url": "https://news.yahoo.co.jp/articles/d079c32593d3f16d2f4e0f9e43c7638f1c510114",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Visa、決済データをオンチェーン融資に活用",
+        "url": "https://news.yahoo.co.jp/articles/f6d686e5c3009837151b0644376cd907dbac5d4a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタル決済71％を達成したウズベキスタン、楽天・PayPay型の経済圏が競う8分野",
         "url": "https://news.yahoo.co.jp/articles/8e925b738728b4de85499a75eaa20e622f49d8b1",
         "source": "Yahoo",
@@ -13510,12 +13546,6 @@
       {
         "title": "AIで生産性は上がる、だが「やる気」は下がる？ 金融の現場から考える「生産性向上のわな」",
         "url": "https://news.yahoo.co.jp/articles/5864f68713386e59979565667098544dc54aeba7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIが経済主体になる日は近い？「エージェント経済圏」はどこまで来たのか【コインチェック×Komlock lab】",
-        "url": "https://news.yahoo.co.jp/articles/d079c32593d3f16d2f4e0f9e43c7638f1c510114",
         "source": "Yahoo",
         "date": ""
       }
