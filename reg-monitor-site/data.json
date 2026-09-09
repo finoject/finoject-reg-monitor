@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-09T06:58:43.697Z",
+  "generatedAt": "2026-09-09T08:44:09.948Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE,JPX総研]JPX日経インデックス400及びJPX日経インデックス人的資本100の構成銘柄の取り扱いについて",
+      "url": "https://www.jpx.co.jp/news/6030/20260909-01.html",
+      "date": "2026-09-09",
+      "detectedAt": "2026-09-09T08:44:09.948Z",
+      "enriched": "2026-09-09T08:44:16.940Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "レゾナック・ホールディングスのスピンオフにより上場するクラサスケミカル（証券コード646A）が、2026年9月29日の上場日からJPX日経インデックス400及びJPX日経インデックス人的資本100の構成銘柄に追加される。",
+        "指数先物取引及び指数オプション取引の取引参加者は、構成銘柄の入れ替えに伴う指数変動について十分に留意する必要がある。",
+        "本取扱いは2026年9月29日のクラサスケミカル上場日から適用され、両指数の基準時価総額の修正は行われない。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "シェアリングテクノロジー（3989）",
@@ -13521,6 +13536,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "韓国ハンファ投資証券、アバランチ対応のトークン証券プラットフォーム構築＝報道",
+        "url": "https://news.yahoo.co.jp/articles/990069ed39eebcc6fde16bf29358d77982c95d03",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クーコイン、ステーブルコイン活用の利回り商品「KCUSD」ローンチ",
+        "url": "https://news.yahoo.co.jp/articles/51b47a4c8ee19a659a4ee651adfff9f80603655a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ブロック、全米信託銀行「Builders Bank」設立をOCCに申請",
+        "url": "https://news.yahoo.co.jp/articles/01e584c6bdf0da0a96b2b342022b0ffb7a6c4c9a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米Block、ビットコイン保管用の信託銀行設立を申請",
         "url": "https://news.yahoo.co.jp/articles/080f010b371342d1b81436b25924a769bcb69d51",
         "source": "Yahoo",
@@ -13535,30 +13568,30 @@
       {
         "title": "米サークル、Tazapayを約4億ドルで買収へ。USDCの国際決済基盤を拡充",
         "url": "https://news.yahoo.co.jp/articles/3f70c97d4b05d416988e03316502a193cac37daa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、清算データとオンチェーンレンディング接続。ステーブルコイン連動カードの資金調達支援へ",
-        "url": "https://news.yahoo.co.jp/articles/c32832e1a238f0ae78baf2d7e684dd6d3a123067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン レーバーデー明けは利食い優勢 原油高継続・円高は一服【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/cc92295d0b3bf53516f24a3c1f68b4556810a365",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
-        "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "韓国ハンファ投資証券、アバランチ対応のトークン証券プラットフォーム構築＝報道",
+        "url": "https://news.yahoo.co.jp/articles/990069ed39eebcc6fde16bf29358d77982c95d03",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クーコイン、ステーブルコイン活用の利回り商品「KCUSD」ローンチ",
+        "url": "https://news.yahoo.co.jp/articles/51b47a4c8ee19a659a4ee651adfff9f80603655a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ブロック、全米信託銀行「Builders Bank」設立をOCCに申請",
+        "url": "https://news.yahoo.co.jp/articles/01e584c6bdf0da0a96b2b342022b0ffb7a6c4c9a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米Block、ビットコイン保管用の信託銀行設立を申請",
         "url": "https://news.yahoo.co.jp/articles/080f010b371342d1b81436b25924a769bcb69d51",
         "source": "Yahoo",
@@ -13573,24 +13606,6 @@
       {
         "title": "米サークル、Tazapayを約4億ドルで買収へ。USDCの国際決済基盤を拡充",
         "url": "https://news.yahoo.co.jp/articles/3f70c97d4b05d416988e03316502a193cac37daa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、清算データとオンチェーンレンディング接続。ステーブルコイン連動カードの資金調達支援へ",
-        "url": "https://news.yahoo.co.jp/articles/c32832e1a238f0ae78baf2d7e684dd6d3a123067",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン レーバーデー明けは利食い優勢 原油高継続・円高は一服【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/cc92295d0b3bf53516f24a3c1f68b4556810a365",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
-        "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
         "source": "Yahoo",
         "date": ""
       }
