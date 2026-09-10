@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T23:32:47.391Z",
+  "generatedAt": "2026-09-10T00:33:28.929Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "デリバティブ取引に関する定例市場報告",
+      "url": "https://www.boj.or.jp/statistics/bis/yoshi/index.htm",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T00:33:28.929Z",
+      "enriched": "2026-09-10T00:33:33.395Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は1998年6月末分より、デリバティブ取引に関する定例市場報告の日本分集計結果を公表しており、2026年6月末分を9月10日に公表。国際決済銀行がこれを含め主要先進国の結果をグローバル・ベースで集計・公開。",
+        "金融機関等のデリバティブ取引実務担当者は、日銀公表の半期計数および時系列データ（XLSXファイル）で取扱量・残高等を確認し、業務報告や市場分析に活用。",
+        "本報告は定例の市場統計公表であり、個別法令要件ではなく、日銀が1998年以来継続して集計・公表する統計情報であり、2026年9月10日付で計数訂正のお知らせも同時公表。"
       ],
       "aiSumV": 3
     },
@@ -13566,6 +13581,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ドイツ財務省、暗号資産に25％課税を提案──「1年保持で非課税」廃止へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/3983eb129f85ea4bde35d5ca9bbb54d0d80250b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
         "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
         "source": "Yahoo",
@@ -13592,18 +13613,18 @@
       {
         "title": "急速な円高はビットコインに何をもたらすのか──日銀利上げ観測と「円キャリー巻き戻し」を読む【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/06f079363639bb58fc2eeefa8bafbc97f9bccbc1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプが仕掛ける「FRB解体」",
-        "url": "https://news.yahoo.co.jp/articles/098ee8db4c35a0f4988f50245c84f2f7745fbd36",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ドイツ財務省、暗号資産に25％課税を提案──「1年保持で非課税」廃止へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/3983eb129f85ea4bde35d5ca9bbb54d0d80250b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
         "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
         "source": "Yahoo",
@@ -13630,12 +13651,6 @@
       {
         "title": "急速な円高はビットコインに何をもたらすのか──日銀利上げ観測と「円キャリー巻き戻し」を読む【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/06f079363639bb58fc2eeefa8bafbc97f9bccbc1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプが仕掛ける「FRB解体」",
-        "url": "https://news.yahoo.co.jp/articles/098ee8db4c35a0f4988f50245c84f2f7745fbd36",
         "source": "Yahoo",
         "date": ""
       }
