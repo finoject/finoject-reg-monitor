@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T05:14:13.099Z",
+  "generatedAt": "2026-09-10T06:49:55.761Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,130 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "三十三フィナンシャルグループ（7322）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T06:49:55.761Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-10T06:50:00.443Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T06:49:55.761Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-10T06:50:00.443Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "公社債発行額・償還額等",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/hakkou/index.html",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T06:49:55.761Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "クライメート・トランジション利付国庫債券（GX国債）は2024年2月から発行予定であり、公社債店頭売買参考統計値及び公社債店頭売買高等の統計情報における取扱いは既発の国債と同様に扱われることになった。",
+        "指定報告協会員は、GX国債に係る報告対象銘柄を「届出不要銘柄」として扱い、入札アナウンスメント日に報告を開始し、銘柄種別は「国債.02」又は「国債.03」で報告する必要がある。",
+        "GX国債の銘柄名は「GX」と「国債種別」の間に半角スペースを入れない形式（例：GX長期国債WI-00、GXコツコサイWI10ネン/00ガツ）で、既発の利付国債と同様に同年限の通常国債の次に掲載される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-10T06:50:00.443Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "公社債発行銘柄一覧",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/saiken_hakkou/youkou/ichiran.html",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T06:49:55.761Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は毎月10日（休業日の場合は翌営業日）に前月起債された公社債発行銘柄一覧を発表する。2019年7月分より公社債発行銘柄一覧と公社債便覧を統合して一本化した。",
+        "投資家・市場参加者は本資料の記載内容について売買判断時に募集要項等で詳細を確認し、情報提供の範囲内であることに留意して利用する必要がある。",
+        "公社債発行銘柄一覧は統計・調査・報告書として日本証券業協会が定期的に実施する統計調査等に含まれ、各年度分が毎月更新・公表される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-10T06:50:00.443Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "「日銀夏休み親子見学会2026」を開催しました（8月20日＜木＞～25日＜火＞）",
+      "url": "https://www.boj.or.jp/about/pr_events/hontenkoho/hon260910.htm",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T06:49:55.761Z",
+      "enriched": "2026-09-10T06:50:00.443Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行本店で小学4年生～中学生と保護者対象に8月20日～25日の6日間、夏休み親子見学会を開催し、本館見学、偽造防止技術説明、お札数え方体験、オンライン見学（ミステリーツアー・VRツアー）を実施した。",
+        "参加者は親子で本館（重要文化財）の歴史的史料展示室・旧営業場・地下金庫の見学と、お札の偽造防止技術観察およびお札の数え方実習を通じてお金についての学習機会を得た。",
+        "次回開催は春休み期間中を予定しており、常時本館見学も受け付けており、予約サイトから申込可能である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260910-01.html",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T06:49:55.761Z",
+      "enriched": "2026-09-10T06:50:00.443Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "アルビス（株）（コード7475）につき、2営業日連続でストップ高（安）かつ売買高0株等に該当したため、9月11日から制限値幅上限を2,800円に拡大（基準値段3,700円、通常ストップ高6,500円から引下げ）。",
+        "取引参加者および投資家は、同銘柄の9月11日以降の取引において、成行注文使用時に思わぬ値段での約定リスクに留意し、指値注文の活用等により対応する必要がある。",
+        "東証制限値幅拡大措置は、ストップ高（安）以外での売買成立によって翌営業日に通常幅へ戻る仕組みであり、同銘柄への特別な規制変更ではなく、既存ルールに基づく一時的な措置。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：あんしん保証（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20260910-12.html",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T06:49:55.761Z",
+      "enriched": "2026-09-10T06:50:00.443Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "あんしん保証株式会社の株式につき、特定の者以外の株主の所有株式が1株に満たない端数となる割合での株式併合が実行されるため、有価証券上場規程第601条第1項第18号に該当し上場廃止が決定された。",
+        "取引参加者は2026年9月11日以降、同社株式を信用取引・発行日決済取引の委託保証金、売買証拠金、取引参加者保証金、信認金の代用有価証券から除外する必要がある。",
+        "整理銘柄指定期間は2026年9月10日から10月8日まで、上場廃止日は2026年10月9日であり、速やかに廃止すべき事情が発生した場合は変更の可能性がある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]長期国債先物取引に係る中心限月取引の変更",
+      "url": "https://www.jpx.co.jp/news/2020/20260910-01.html",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T06:49:55.761Z",
+      "enriched": "2026-09-10T06:50:00.444Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年9月11日の取引から、長期国債先物の中心限月取引が2026年9月限月から2026年12月限月に変更される。12月限月の取引高が9月限月を上回ったため。",
+        "取引参加者は9月11日以降、サーキット・ブレーカー制度の対象を2026年12月限月（9桁コード161120001）に切り替えて対応する必要がある。",
+        "本変更は大阪取引所が期先限月と直近限月の取引高逆転時に都度通知する扱いとなり、長期国債先物取引の運用基準に従う。"
       ],
       "aiSumV": 3
     },
@@ -137,22 +261,6 @@
         "本取扱いは2026年9月29日のクラサスケミカル上場日から適用され、両指数の基準時価総額の修正は行われない。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "シェアリングテクノロジー（3989）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-09-09",
-      "detectedAt": "2026-09-09T06:58:43.697Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-09T06:58:48.268Z"
     },
     {
       "agency": "日本証券業協会",
@@ -745,22 +853,6 @@
         "本更新は定期的な統計情報の集計・公表業務の一環であり、特定の法令改正や新基準の導入ではなく、統計データの継続的な提供を目的としている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-09-03",
-      "detectedAt": "2026-09-03T06:44:52.878Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-09-03T06:44:58.649Z"
     },
     {
       "agency": "日本銀行",
@@ -3416,38 +3508,6 @@
         "2026年8月11日から適用されるもので、祝日取引の詳細は大阪取引所の関連ページ及び公表資料を参照。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "公社債発行額・償還額等",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/hakkou/index.html",
-      "date": "2026-08-10",
-      "detectedAt": "2026-08-10T06:53:31.498Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "クライメート・トランジション利付国庫債券（GX国債）は2024年2月から発行予定であり、公社債店頭売買参考統計値及び公社債店頭売買高等の統計情報における取扱いは既発の国債と同様に扱われることになった。",
-        "指定報告協会員は、GX国債に係る報告対象銘柄を「届出不要銘柄」として扱い、入札アナウンスメント日に報告を開始し、銘柄種別は「国債.02」又は「国債.03」で報告する必要がある。",
-        "GX国債の銘柄名は「GX」と「国債種別」の間に半角スペースを入れない形式（例：GX長期国債WI-00、GXコツコサイWI10ネン/00ガツ）で、既発の利付国債と同様に同年限の通常国債の次に掲載される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-10T06:53:36.842Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "公社債発行銘柄一覧",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/saiken_hakkou/youkou/ichiran.html",
-      "date": "2026-08-10",
-      "detectedAt": "2026-08-10T06:53:31.498Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は毎月10日（休業日の場合は翌営業日）に前月起債された公社債発行銘柄一覧を発表する。2019年7月分より公社債発行銘柄一覧と公社債便覧を統合して一本化した。",
-        "投資家・市場参加者は本資料の記載内容について売買判断時に募集要項等で詳細を確認し、情報提供の範囲内であることに留意して利用する必要がある。",
-        "公社債発行銘柄一覧は統計・調査・報告書として日本証券業協会が定期的に実施する統計調査等に含まれ、各年度分が毎月更新・公表される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-10T06:53:36.842Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -13398,6 +13458,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "インドFIU、暗号資産15事業者に法令不遵守の通知。アクセス停止も要請",
+        "url": "https://news.yahoo.co.jp/articles/78ccd76390b63eededf3a020ef271511152b7202",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イラン、制裁回避へ外貨規制の運用緩和。暗号資産で貿易決済＝報道 Times：FT）」が9月9日に報じた。 FTによると、業者は国内の暗号資産（仮想通貨）取引所を通じ、米ドル建てステーブルコイン「USDT」や「ビッ",
+        "url": "https://news.yahoo.co.jp/articles/e9f07d39598ea627e7de037bde8daca777aba4cd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
         "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
         "source": "Yahoo",
@@ -13418,24 +13490,24 @@
       {
         "title": "トレジャリー・ツイストとステーブルコイン：注目されるクラリティー法の行方",
         "url": "https://news.yahoo.co.jp/articles/91506d51ded4ffe31010af3414c455e162901d96",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプが仕掛ける「FRB解体」",
-        "url": "https://news.yahoo.co.jp/articles/098ee8db4c35a0f4988f50245c84f2f7745fbd36",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米Block、ビットコイン保管用の信託銀行設立を申請",
-        "url": "https://news.yahoo.co.jp/articles/080f010b371342d1b81436b25924a769bcb69d51",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "インドFIU、暗号資産15事業者に法令不遵守の通知。アクセス停止も要請",
+        "url": "https://news.yahoo.co.jp/articles/78ccd76390b63eededf3a020ef271511152b7202",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イラン、制裁回避へ外貨規制の運用緩和。暗号資産で貿易決済＝報道 Times：FT）」が9月9日に報じた。 FTによると、業者は国内の暗号資産（仮想通貨）取引所を通じ、米ドル建てステーブルコイン「USDT」や「ビッ",
+        "url": "https://news.yahoo.co.jp/articles/e9f07d39598ea627e7de037bde8daca777aba4cd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
         "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
         "source": "Yahoo",
@@ -13456,18 +13528,6 @@
       {
         "title": "トレジャリー・ツイストとステーブルコイン：注目されるクラリティー法の行方",
         "url": "https://news.yahoo.co.jp/articles/91506d51ded4ffe31010af3414c455e162901d96",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプが仕掛ける「FRB解体」",
-        "url": "https://news.yahoo.co.jp/articles/098ee8db4c35a0f4988f50245c84f2f7745fbd36",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米Block、ビットコイン保管用の信託銀行設立を申請",
-        "url": "https://news.yahoo.co.jp/articles/080f010b371342d1b81436b25924a769bcb69d51",
         "source": "Yahoo",
         "date": ""
       }
@@ -13626,76 +13686,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "米財務省、詐欺・資金洗浄支援の「Xinbi Guarantee」に制裁",
+        "url": "https://news.yahoo.co.jp/articles/c4e2de7ad0c1dcc9a562842ad006d226bf200d74",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa、ステーブルコイン精算額が年率200億ドル超に。前年の15倍超",
+        "url": "https://news.yahoo.co.jp/articles/48fd3d57a810a73af0696725ad1910236abc07e9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ドイツ、暗号資産利益への分離課税を検討。1年保有の非課税措置の撤廃案＝報道",
+        "url": "https://news.yahoo.co.jp/articles/0f95cc6cdd936f7c50d652f14107a163c5b92038",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イラン、制裁回避へ外貨規制の運用緩和。暗号資産で貿易決済＝報道",
+        "url": "https://news.yahoo.co.jp/articles/e9f07d39598ea627e7de037bde8daca777aba4cd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ペイパル・M0・ムーンペイ、独自ステーブルコイン開発基盤「PYUSDx」稼働開始",
+        "url": "https://news.yahoo.co.jp/articles/d2c280dcab699c5b02c103352f4513cdbc30e3f4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "USバンク、独自ステーブルコイン「USBDC」で越境決済実証。ステラ上で",
         "url": "https://news.yahoo.co.jp/articles/f525208d1ab8868c3e6e6e6ae91b32d40da061dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コンセンシス、メタマスクと機関向け事業の2社に分離へ",
-        "url": "https://news.yahoo.co.jp/articles/839b3bad323ad8b90a4dd63ff812d30b1ab23e11",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "みずほ系アセマネOne、暗号資産ETF見据えアナリスト西山祥史氏を採用",
-        "url": "https://news.yahoo.co.jp/articles/d4f8513f1d8a29b00d6231c1afb6034cd7977fea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドイツ財務省、暗号資産に25％課税を提案──「1年保持で非課税」廃止へ＝報道",
-        "url": "https://news.yahoo.co.jp/articles/3983eb129f85ea4bde35d5ca9bbb54d0d80250b9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
-        "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イタリア中銀、暗号資産送金の制裁審査を厳格化──少額免除も認めず",
-        "url": "https://news.yahoo.co.jp/articles/d59a2a18f13b1dc8c2bdfe576556eb08a2665594",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米財務省、詐欺・資金洗浄支援の「Xinbi Guarantee」に制裁",
+        "url": "https://news.yahoo.co.jp/articles/c4e2de7ad0c1dcc9a562842ad006d226bf200d74",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa、ステーブルコイン精算額が年率200億ドル超に。前年の15倍超",
+        "url": "https://news.yahoo.co.jp/articles/48fd3d57a810a73af0696725ad1910236abc07e9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ドイツ、暗号資産利益への分離課税を検討。1年保有の非課税措置の撤廃案＝報道",
+        "url": "https://news.yahoo.co.jp/articles/0f95cc6cdd936f7c50d652f14107a163c5b92038",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イラン、制裁回避へ外貨規制の運用緩和。暗号資産で貿易決済＝報道",
+        "url": "https://news.yahoo.co.jp/articles/e9f07d39598ea627e7de037bde8daca777aba4cd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ペイパル・M0・ムーンペイ、独自ステーブルコイン開発基盤「PYUSDx」稼働開始",
+        "url": "https://news.yahoo.co.jp/articles/d2c280dcab699c5b02c103352f4513cdbc30e3f4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "USバンク、独自ステーブルコイン「USBDC」で越境決済実証。ステラ上で",
         "url": "https://news.yahoo.co.jp/articles/f525208d1ab8868c3e6e6e6ae91b32d40da061dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コンセンシス、メタマスクと機関向け事業の2社に分離へ",
-        "url": "https://news.yahoo.co.jp/articles/839b3bad323ad8b90a4dd63ff812d30b1ab23e11",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "みずほ系アセマネOne、暗号資産ETF見据えアナリスト西山祥史氏を採用",
-        "url": "https://news.yahoo.co.jp/articles/d4f8513f1d8a29b00d6231c1afb6034cd7977fea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドイツ財務省、暗号資産に25％課税を提案──「1年保持で非課税」廃止へ＝報道",
-        "url": "https://news.yahoo.co.jp/articles/3983eb129f85ea4bde35d5ca9bbb54d0d80250b9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
-        "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イタリア中銀、暗号資産送金の制裁審査を厳格化──少額免除も認めず",
-        "url": "https://news.yahoo.co.jp/articles/d59a2a18f13b1dc8c2bdfe576556eb08a2665594",
         "source": "Yahoo",
         "date": ""
       }
