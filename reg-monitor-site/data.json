@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T00:33:28.929Z",
+  "generatedAt": "2026-09-10T02:19:06.040Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,37 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "第４回「2040年に向けた我が国金融資本市場のビジョンについての懇談会」を開催いたしました",
+      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T02:19:06.040Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
+        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
+        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-10T02:19:11.704Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【挨拶】増審議委員「わが国の経済・物価情勢と金融政策」（福井）",
+      "url": "https://www.boj.or.jp/about/press/koen_2026/ko260910a.htm",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T02:19:06.040Z",
+      "enriched": "2026-09-10T02:19:11.704Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "イラン情勢によるホルムズ海峡封鎖で原油供給が逼迫し価格上昇、LNG価格は原油連動契約により4ヶ月遅れで上昇見込み、化学品やプラスチック製品への供給懸念が生じている。",
+        "日本銀行は物価上昇率を適切に抑制するため、実質金利がマイナスの状況解消と基調的物価上昇（人件費・物流費転嫁）の監視が必要であり、事業者の賃上げ・価格転嫁の循環を支援する金融政策運営を進めている。",
+        "2026年9月時点で消費者物価は前月比で若干低下傾向だが政策要因によるもので、企業物価指数は前年比7％上昇、自動車貨物輸送は前年比6％近い上昇率にあり基調的インフレへの波及懸念が存在する。"
       ],
       "aiSumV": 3
     },
@@ -289,22 +320,6 @@
         "公認会計士協会は9月4日の記者会見で、2027年3月期からの東証プライム市場におけるサステナビリティ情報開示義務化等を背景に、第47回研究大会（テーマ：「未来を切り拓く信頼と変革の力～持続可能な社会を実現するための公認会計士の使命～」）を開催し、AI等デジタル技術と情報開示を通じた保証分野拡大について議論。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "第３回「2040年に向けた我が国金融資本市場のビジョンについての懇談会」の議事要旨を掲載いたしました",
-      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
-      "date": "2026-09-08",
-      "detectedAt": "2026-09-08T03:08:05.433Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
-        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
-        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-08T03:08:11.100Z"
     },
     {
       "agency": "日本銀行",
@@ -13125,6 +13140,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
+        "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
         "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
         "source": "Yahoo",
@@ -13151,18 +13172,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.11】",
         "url": "https://news.yahoo.co.jp/articles/06412668f8550f0051d792be2c18fd8da94e4943",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "著名人を装うアカウントや広告を通じた投資詐欺被害が相次ぐ、国民生活センターが注意喚起",
-        "url": "https://news.yahoo.co.jp/articles/0aae6c810a3d6c861a23c0bf304dc93ce30d1bee",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
+        "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
         "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
         "source": "Yahoo",
@@ -13189,18 +13210,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.11】",
         "url": "https://news.yahoo.co.jp/articles/06412668f8550f0051d792be2c18fd8da94e4943",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "著名人を装うアカウントや広告を通じた投資詐欺被害が相次ぐ、国民生活センターが注意喚起",
-        "url": "https://news.yahoo.co.jp/articles/0aae6c810a3d6c861a23c0bf304dc93ce30d1bee",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
+        "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
         "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
         "source": "Yahoo",
@@ -13227,18 +13248,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.11】",
         "url": "https://news.yahoo.co.jp/articles/06412668f8550f0051d792be2c18fd8da94e4943",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "著名人を装うアカウントや広告を通じた投資詐欺被害が相次ぐ、国民生活センターが注意喚起",
-        "url": "https://news.yahoo.co.jp/articles/0aae6c810a3d6c861a23c0bf304dc93ce30d1bee",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
+        "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
         "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
         "source": "Yahoo",
@@ -13265,12 +13286,6 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.11】",
         "url": "https://news.yahoo.co.jp/articles/06412668f8550f0051d792be2c18fd8da94e4943",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "著名人を装うアカウントや広告を通じた投資詐欺被害が相次ぐ、国民生活センターが注意喚起",
-        "url": "https://news.yahoo.co.jp/articles/0aae6c810a3d6c861a23c0bf304dc93ce30d1bee",
         "source": "Yahoo",
         "date": ""
       }
@@ -13353,6 +13368,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
+        "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国「半導体バブル」 日米相場揺るがした韓国ETF 「値動き2倍」に巨額資金流入 金賢",
+        "url": "https://news.yahoo.co.jp/articles/0555d832dee53dc164aa00bc59dec315f31e476b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イタリア中銀、暗号資産送金の制裁審査を厳格化──少額免除も認めず",
+        "url": "https://news.yahoo.co.jp/articles/d59a2a18f13b1dc8c2bdfe576556eb08a2665594",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トレジャリー・ツイストとステーブルコイン：注目されるクラリティー法の行方",
         "url": "https://news.yahoo.co.jp/articles/91506d51ded4ffe31010af3414c455e162901d96",
         "source": "Yahoo",
@@ -13367,30 +13400,30 @@
       {
         "title": "米Block、ビットコイン保管用の信託銀行設立を申請",
         "url": "https://news.yahoo.co.jp/articles/080f010b371342d1b81436b25924a769bcb69d51",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、Xinbi Guarantee関連の約3927万USDT凍結",
-        "url": "https://news.yahoo.co.jp/articles/a7011963c24b1d1124d0639cc6dbd84ae1d49975",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッド、予測市場でOG[.]comと提携。クリプトドットコムの株式取得へ",
-        "url": "https://news.yahoo.co.jp/articles/0846d61b5ebd73c9b7c21dc544396a8bc4314fda",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
-        "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
+        "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国「半導体バブル」 日米相場揺るがした韓国ETF 「値動き2倍」に巨額資金流入 金賢",
+        "url": "https://news.yahoo.co.jp/articles/0555d832dee53dc164aa00bc59dec315f31e476b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イタリア中銀、暗号資産送金の制裁審査を厳格化──少額免除も認めず",
+        "url": "https://news.yahoo.co.jp/articles/d59a2a18f13b1dc8c2bdfe576556eb08a2665594",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トレジャリー・ツイストとステーブルコイン：注目されるクラリティー法の行方",
         "url": "https://news.yahoo.co.jp/articles/91506d51ded4ffe31010af3414c455e162901d96",
         "source": "Yahoo",
@@ -13405,24 +13438,6 @@
       {
         "title": "米Block、ビットコイン保管用の信託銀行設立を申請",
         "url": "https://news.yahoo.co.jp/articles/080f010b371342d1b81436b25924a769bcb69d51",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、Xinbi Guarantee関連の約3927万USDT凍結",
-        "url": "https://news.yahoo.co.jp/articles/a7011963c24b1d1124d0639cc6dbd84ae1d49975",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッド、予測市場でOG[.]comと提携。クリプトドットコムの株式取得へ",
-        "url": "https://news.yahoo.co.jp/articles/0846d61b5ebd73c9b7c21dc544396a8bc4314fda",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スイスフラン建てステーブルコイン「CHFD」、実環境でのテスト開始。SIXとTWINTも参加",
-        "url": "https://news.yahoo.co.jp/articles/2da47643fe80667d2c9d961cc008aa351a621578",
         "source": "Yahoo",
         "date": ""
       }
@@ -13581,6 +13596,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "みずほ系アセマネOne、暗号資産ETF見据えアナリスト西山祥史氏を採用",
+        "url": "https://news.yahoo.co.jp/articles/d4f8513f1d8a29b00d6231c1afb6034cd7977fea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ドイツ財務省、暗号資産に25％課税を提案──「1年保持で非課税」廃止へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/3983eb129f85ea4bde35d5ca9bbb54d0d80250b9",
         "source": "Yahoo",
@@ -13593,6 +13614,12 @@
         "date": ""
       },
       {
+        "title": "イタリア中銀、暗号資産送金の制裁審査を厳格化──少額免除も認めず",
+        "url": "https://news.yahoo.co.jp/articles/d59a2a18f13b1dc8c2bdfe576556eb08a2665594",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トレジャリー・ツイストとステーブルコイン：注目されるクラリティー法の行方",
         "url": "https://news.yahoo.co.jp/articles/91506d51ded4ffe31010af3414c455e162901d96",
         "source": "Yahoo",
@@ -13601,24 +13628,18 @@
       {
         "title": "TetherとFasanara、USDT活用の融資ファンド設立",
         "url": "https://news.yahoo.co.jp/articles/59d3c8363d8f26e27cf45f96e410b918856135df",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Consensys、MetaMask事業を分離──機関向け事業と独立2社体制へ",
-        "url": "https://news.yahoo.co.jp/articles/a6878fbc06b2efa9a739f9ce82c65fcd0e402592",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "急速な円高はビットコインに何をもたらすのか──日銀利上げ観測と「円キャリー巻き戻し」を読む【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/06f079363639bb58fc2eeefa8bafbc97f9bccbc1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "みずほ系アセマネOne、暗号資産ETF見据えアナリスト西山祥史氏を採用",
+        "url": "https://news.yahoo.co.jp/articles/d4f8513f1d8a29b00d6231c1afb6034cd7977fea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ドイツ財務省、暗号資産に25％課税を提案──「1年保持で非課税」廃止へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/3983eb129f85ea4bde35d5ca9bbb54d0d80250b9",
         "source": "Yahoo",
@@ -13631,6 +13652,12 @@
         "date": ""
       },
       {
+        "title": "イタリア中銀、暗号資産送金の制裁審査を厳格化──少額免除も認めず",
+        "url": "https://news.yahoo.co.jp/articles/d59a2a18f13b1dc8c2bdfe576556eb08a2665594",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トレジャリー・ツイストとステーブルコイン：注目されるクラリティー法の行方",
         "url": "https://news.yahoo.co.jp/articles/91506d51ded4ffe31010af3414c455e162901d96",
         "source": "Yahoo",
@@ -13639,18 +13666,6 @@
       {
         "title": "TetherとFasanara、USDT活用の融資ファンド設立",
         "url": "https://news.yahoo.co.jp/articles/59d3c8363d8f26e27cf45f96e410b918856135df",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Consensys、MetaMask事業を分離──機関向け事業と独立2社体制へ",
-        "url": "https://news.yahoo.co.jp/articles/a6878fbc06b2efa9a739f9ce82c65fcd0e402592",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "急速な円高はビットコインに何をもたらすのか──日銀利上げ観測と「円キャリー巻き戻し」を読む【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/06f079363639bb58fc2eeefa8bafbc97f9bccbc1",
         "source": "Yahoo",
         "date": ""
       }
@@ -13771,6 +13786,12 @@
     ],
     "324AC0000000228": [
       {
+        "title": "イタリア中銀、暗号資産送金の制裁審査を厳格化──少額免除も認めず",
+        "url": "https://news.yahoo.co.jp/articles/d59a2a18f13b1dc8c2bdfe576556eb08a2665594",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "経済安全保障における取締役等の経営判断",
         "url": "https://news.yahoo.co.jp/articles/a8928b6f738fcaa7ba127edead4087f985b59e70",
         "source": "Yahoo",
@@ -13797,18 +13818,18 @@
       {
         "title": "日朝「失われた２０年」 実らなかった「拉致」公式・非公式接触の全記録辺真一韓国・北朝鮮2024/2/25(日) 22:42",
         "url": "https://news.yahoo.co.jp/expert/articles/9acaca70947075dacc20adf8f13c0a37f9001a13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "旧統一教会への過料に関する文化庁の見解 宗教２世「高額献金による家族被害は継続している」",
-        "url": "https://news.yahoo.co.jp/expert/articles/6cdfb464a076ff40dc2aa79171816f7f484eb9dc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "355CO0000000260": [
       {
+        "title": "イタリア中銀、暗号資産送金の制裁審査を厳格化──少額免除も認めず",
+        "url": "https://news.yahoo.co.jp/articles/d59a2a18f13b1dc8c2bdfe576556eb08a2665594",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "経済安全保障における取締役等の経営判断",
         "url": "https://news.yahoo.co.jp/articles/a8928b6f738fcaa7ba127edead4087f985b59e70",
         "source": "Yahoo",
@@ -13835,12 +13856,6 @@
       {
         "title": "日朝「失われた２０年」 実らなかった「拉致」公式・非公式接触の全記録辺真一韓国・北朝鮮2024/2/25(日) 22:42",
         "url": "https://news.yahoo.co.jp/expert/articles/9acaca70947075dacc20adf8f13c0a37f9001a13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "旧統一教会への過料に関する文化庁の見解 宗教２世「高額献金による家族被害は継続している」",
-        "url": "https://news.yahoo.co.jp/expert/articles/6cdfb464a076ff40dc2aa79171816f7f484eb9dc",
         "source": "Yahoo",
         "date": ""
       }
