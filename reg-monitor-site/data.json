@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T06:49:55.761Z",
+  "generatedAt": "2026-09-10T08:35:18.730Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "フェイルの発生状況（8月）",
+      "url": "https://www.boj.or.jp/statistics/set/bffail/sjgb2608.pdf",
+      "date": "2026-09-10",
+      "detectedAt": "2026-09-10T08:35:18.730Z",
+      "enriched": "2026-09-10T08:35:24.367Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年8月のフェイル発生件数は429件、額面総額は1,659億3,000万円で、平均フェイル期間は1.43営業日、最長期間は15営業日。",
+        "国債振替決済制度の直接参加者で日銀ネット国債DVPシステム利用金融機関等244先を対象に、自己口・預り口・信託口のフェイル発生状況をアンケート調査により月次集計している。",
+        "国債DVP取引において受け方が予定決済日経過後も債券を受け渡されない場合がフェイルで、解消方法として債券業協会規則に従い市場価格での買い入れまたは清機構による買い付けが定められている。"
       ],
       "aiSumV": 3
     },
@@ -13458,6 +13473,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "ジェミナイ、シンガポールで主要決済機関ライセンス取得",
+        "url": "https://news.yahoo.co.jp/articles/b6ae246477d45eaa1acf348c0057186157ff96f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Zaif、「データ・エコノミーコイン（DEC）」の新規取扱いへ準備開始。JOC上で発行予定",
+        "url": "https://news.yahoo.co.jp/articles/732bd5edbfddd8d9d3675d98947b4d8590ff8c8b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "インドFIU、暗号資産15事業者に法令不遵守の通知。アクセス停止も要請",
         "url": "https://news.yahoo.co.jp/articles/78ccd76390b63eededf3a020ef271511152b7202",
         "source": "Yahoo",
@@ -13478,24 +13505,24 @@
       {
         "title": "韓国「半導体バブル」 日米相場揺るがした韓国ETF 「値動き2倍」に巨額資金流入 金賢",
         "url": "https://news.yahoo.co.jp/articles/0555d832dee53dc164aa00bc59dec315f31e476b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イタリア中銀、暗号資産送金の制裁審査を厳格化──少額免除も認めず",
-        "url": "https://news.yahoo.co.jp/articles/d59a2a18f13b1dc8c2bdfe576556eb08a2665594",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トレジャリー・ツイストとステーブルコイン：注目されるクラリティー法の行方",
-        "url": "https://news.yahoo.co.jp/articles/91506d51ded4ffe31010af3414c455e162901d96",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ジェミナイ、シンガポールで主要決済機関ライセンス取得",
+        "url": "https://news.yahoo.co.jp/articles/b6ae246477d45eaa1acf348c0057186157ff96f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Zaif、「データ・エコノミーコイン（DEC）」の新規取扱いへ準備開始。JOC上で発行予定",
+        "url": "https://news.yahoo.co.jp/articles/732bd5edbfddd8d9d3675d98947b4d8590ff8c8b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "インドFIU、暗号資産15事業者に法令不遵守の通知。アクセス停止も要請",
         "url": "https://news.yahoo.co.jp/articles/78ccd76390b63eededf3a020ef271511152b7202",
         "source": "Yahoo",
@@ -13516,18 +13543,6 @@
       {
         "title": "韓国「半導体バブル」 日米相場揺るがした韓国ETF 「値動き2倍」に巨額資金流入 金賢",
         "url": "https://news.yahoo.co.jp/articles/0555d832dee53dc164aa00bc59dec315f31e476b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イタリア中銀、暗号資産送金の制裁審査を厳格化──少額免除も認めず",
-        "url": "https://news.yahoo.co.jp/articles/d59a2a18f13b1dc8c2bdfe576556eb08a2665594",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トレジャリー・ツイストとステーブルコイン：注目されるクラリティー法の行方",
-        "url": "https://news.yahoo.co.jp/articles/91506d51ded4ffe31010af3414c455e162901d96",
         "source": "Yahoo",
         "date": ""
       }
@@ -13686,6 +13701,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "JPYC流通量、20億円割れ──11日間で約7.1億円減少",
+        "url": "https://news.yahoo.co.jp/articles/281380c21688d1ebcefbd916ce0fd2b08cc50b5b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザーとファサナラ、4億ドルのプライベートクレジットファンド設立 またテザーは、法定通貨とステーブルコインを相互に交換するための仕組みや、資金管理・決済に用いる基盤などのステーブルコイン決済インフラを提供する。ステ",
+        "url": "https://news.yahoo.co.jp/articles/0f07007ce933ec370b9923a4470ecfe4a90cf9d6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米財務省、詐欺・資金洗浄支援の「Xinbi Guarantee」に制裁",
         "url": "https://news.yahoo.co.jp/articles/c4e2de7ad0c1dcc9a562842ad006d226bf200d74",
         "source": "Yahoo",
@@ -13706,24 +13733,24 @@
       {
         "title": "イラン、制裁回避へ外貨規制の運用緩和。暗号資産で貿易決済＝報道",
         "url": "https://news.yahoo.co.jp/articles/e9f07d39598ea627e7de037bde8daca777aba4cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ペイパル・M0・ムーンペイ、独自ステーブルコイン開発基盤「PYUSDx」稼働開始",
-        "url": "https://news.yahoo.co.jp/articles/d2c280dcab699c5b02c103352f4513cdbc30e3f4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "USバンク、独自ステーブルコイン「USBDC」で越境決済実証。ステラ上で",
-        "url": "https://news.yahoo.co.jp/articles/f525208d1ab8868c3e6e6e6ae91b32d40da061dc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JPYC流通量、20億円割れ──11日間で約7.1億円減少",
+        "url": "https://news.yahoo.co.jp/articles/281380c21688d1ebcefbd916ce0fd2b08cc50b5b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザーとファサナラ、4億ドルのプライベートクレジットファンド設立 またテザーは、法定通貨とステーブルコインを相互に交換するための仕組みや、資金管理・決済に用いる基盤などのステーブルコイン決済インフラを提供する。ステ",
+        "url": "https://news.yahoo.co.jp/articles/0f07007ce933ec370b9923a4470ecfe4a90cf9d6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米財務省、詐欺・資金洗浄支援の「Xinbi Guarantee」に制裁",
         "url": "https://news.yahoo.co.jp/articles/c4e2de7ad0c1dcc9a562842ad006d226bf200d74",
         "source": "Yahoo",
@@ -13744,18 +13771,6 @@
       {
         "title": "イラン、制裁回避へ外貨規制の運用緩和。暗号資産で貿易決済＝報道",
         "url": "https://news.yahoo.co.jp/articles/e9f07d39598ea627e7de037bde8daca777aba4cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ペイパル・M0・ムーンペイ、独自ステーブルコイン開発基盤「PYUSDx」稼働開始",
-        "url": "https://news.yahoo.co.jp/articles/d2c280dcab699c5b02c103352f4513cdbc30e3f4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "USバンク、独自ステーブルコイン「USBDC」で越境決済実証。ステラ上で",
-        "url": "https://news.yahoo.co.jp/articles/f525208d1ab8868c3e6e6e6ae91b32d40da061dc",
         "source": "Yahoo",
         "date": ""
       }
