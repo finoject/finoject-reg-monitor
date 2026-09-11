@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T06:56:01.413Z",
+  "generatedAt": "2026-09-11T08:26:32.634Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,67 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：ハイネスコーポレーション（株）",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-09-11",
+      "detectedAt": "2026-09-11T08:26:32.634Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-11T08:26:37.880Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行政策委員会月報（令和8年7月号）",
+      "url": "https://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2607.htm",
+      "date": "2026-09-11",
+      "detectedAt": "2026-09-11T08:26:32.634Z",
+      "enriched": "2026-09-11T08:26:37.880Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行政策委員会は2026年7月30・31日の金融政策決定会合において、無担保コールレート（オーバーナイト物）を1.0％程度で推移するよう促す金融市場調節方針を決定した。",
+        "日本銀行は同会合で「当面の金融政策運営について」および「経済・物価情勢の展望（2026年7月）」の基本的見解を決定し、これらを公表することを決定した。",
+        "2027年の金融政策決定会合開催予定日が決定され、金融機関のコンプライアンス・マネロン対策実施状況等が報告事項として取り上げられた。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]TONA3か月金利先物取引における手数料半額キャンペーンの延長について",
+      "url": "https://www.jpx.co.jp/news/2040/20260911-01.html",
+      "date": "2026-09-11",
+      "detectedAt": "2026-09-11T08:26:32.634Z",
+      "enriched": "2026-09-11T08:26:37.880Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大阪取引所はTONA3か月金利先物（全限月、ストラテジー取引・J-NET取引含む）の取引手数料を35円/枚に半額化し、日本証券クリアリング機構も清算手数料を同等に減額する。",
+        "取引参加者は2026年10月1日から2027年3月31日の取引日ベースでキャンペーン対象となり、清算手数料は債務引受1単位につき8円、最終決済1単位につき43円（いずれも1円未満切捨て）が適用される。",
+        "大阪取引所による市場振興施策であり、取引活性化を目的とした手数料半額キャンペーンの延長措置（対象期間2026年10月1日～2027年3月31日）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]かば子のかぶオプ1兆円チャレンジ実施中",
+      "url": "https://www.jpx.co.jp/news/2041/20260911-01.html",
+      "date": "2026-09-11",
+      "detectedAt": "2026-09-11T08:26:32.634Z",
+      "enriched": "2026-09-11T08:26:37.880Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大阪取引所のかぶオプ（有価証券オプション）の2026年度取引想定元本が史上初となる1兆円到達が視野に入り、市場が拡大している現状を大阪取引所が公表した。",
+        "投資家は大阪取引所WEBサイトのオプション価格情報で気配情報を確認でき、2025年9月からマーケットメイカーによる気配提示銘柄が12銘柄から32銘柄に拡大される。",
+        "かぶオプについて大阪取引所は初心者向け動画講座「超カンタン！かぶオプ入門講座」など複数のコンテンツを提供し、投資家の理解促進に取り組んでいる。"
       ],
       "aiSumV": 3
     },
@@ -487,22 +548,6 @@
       ],
       "aiSumV": 3,
       "updated": true,
-      "enriched": "2026-09-08T08:38:56.857Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）東京みらい不動産",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-09-08",
-      "detectedAt": "2026-09-08T08:38:50.067Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
       "enriched": "2026-09-08T08:38:56.857Z"
     },
     {
@@ -13335,8 +13380,14 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
-        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
+        "url": "https://news.yahoo.co.jp/articles/f5458f81ccec4d3a6cf80bd13473dea8238ea5db",
         "source": "Yahoo",
         "date": ""
       },
@@ -13361,20 +13412,20 @@
       {
         "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
         "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
-        "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
-        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
+        "url": "https://news.yahoo.co.jp/articles/f5458f81ccec4d3a6cf80bd13473dea8238ea5db",
         "source": "Yahoo",
         "date": ""
       },
@@ -13399,20 +13450,20 @@
       {
         "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
         "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
-        "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
-        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
+        "url": "https://news.yahoo.co.jp/articles/f5458f81ccec4d3a6cf80bd13473dea8238ea5db",
         "source": "Yahoo",
         "date": ""
       },
@@ -13437,20 +13488,20 @@
       {
         "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
         "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
-        "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
-        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
+        "url": "https://news.yahoo.co.jp/articles/f5458f81ccec4d3a6cf80bd13473dea8238ea5db",
         "source": "Yahoo",
         "date": ""
       },
@@ -13475,12 +13526,6 @@
       {
         "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
         "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
-        "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
         "source": "Yahoo",
         "date": ""
       }
@@ -14581,6 +14626,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "個人情報記入された「空き家バンク」書類を無断でコピー、第三者に渡したとして長野・麻績村職員2人を書類送検",
+        "url": "https://news.yahoo.co.jp/articles/1f255da3dc75f688a94981c434c537230dd66ebd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:10麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
         "url": "https://news.yahoo.co.jp/articles/108e006f843dd714ddb14ab1b1168db2ae789a19",
         "source": "Yahoo",
@@ -14607,18 +14658,18 @@
       {
         "title": "AI開発のためには本人の許可なく情報提供が可能に",
         "url": "https://news.yahoo.co.jp/articles/b8c74922512c45d74b2e513201461c923a3db60a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "患者情報、ネットに誤掲載 三重県、氏名や病名71人分",
-        "url": "https://news.yahoo.co.jp/articles/7feb27cc47ec6c07c85387883157a02e0dee4720",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "個人情報記入された「空き家バンク」書類を無断でコピー、第三者に渡したとして長野・麻績村職員2人を書類送検",
+        "url": "https://news.yahoo.co.jp/articles/1f255da3dc75f688a94981c434c537230dd66ebd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:10麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
         "url": "https://news.yahoo.co.jp/articles/108e006f843dd714ddb14ab1b1168db2ae789a19",
         "source": "Yahoo",
@@ -14645,18 +14696,18 @@
       {
         "title": "AI開発のためには本人の許可なく情報提供が可能に",
         "url": "https://news.yahoo.co.jp/articles/b8c74922512c45d74b2e513201461c923a3db60a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "患者情報、ネットに誤掲載 三重県、氏名や病名71人分",
-        "url": "https://news.yahoo.co.jp/articles/7feb27cc47ec6c07c85387883157a02e0dee4720",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "個人情報記入された「空き家バンク」書類を無断でコピー、第三者に渡したとして長野・麻績村職員2人を書類送検",
+        "url": "https://news.yahoo.co.jp/articles/1f255da3dc75f688a94981c434c537230dd66ebd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:10麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
         "url": "https://news.yahoo.co.jp/articles/108e006f843dd714ddb14ab1b1168db2ae789a19",
         "source": "Yahoo",
@@ -14683,12 +14734,6 @@
       {
         "title": "AI開発のためには本人の許可なく情報提供が可能に",
         "url": "https://news.yahoo.co.jp/articles/b8c74922512c45d74b2e513201461c923a3db60a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "患者情報、ネットに誤掲載 三重県、氏名や病名71人分",
-        "url": "https://news.yahoo.co.jp/articles/7feb27cc47ec6c07c85387883157a02e0dee4720",
         "source": "Yahoo",
         "date": ""
       }
