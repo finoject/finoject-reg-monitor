@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:24:15.632Z",
+  "generatedAt": "2026-09-11T00:30:51.099Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "企業物価指数（8月）",
+      "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
+      "date": "2026-09-11",
+      "detectedAt": "2026-09-11T00:30:51.099Z",
+      "enriched": "2026-09-11T00:30:55.819Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "国内企業物価指数が2026年8月速報で前月比▲0.2％（前年比＋7.6％）、輸出物価指数が円ベース前月比▲0.7％、輸入物価指数が円ベース前月比▲3.0％と発表された。",
+        "企業物価指数の詳細データは日本銀行ホームページの「時系列統計データ検索サイト」から時系列データをダウンロードして確認することができる。",
+        "本指数は2020年平均を100とした基準に基づき、国内企業物価、輸出物価、輸入物価を契約通貨ベースおよび円ベースで毎月測定・公表する日本銀行調査統計局の統計である。"
       ],
       "aiSumV": 3
     },
@@ -13488,6 +13503,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "イーロン・マスク、「AIによる人類滅亡」を警告した元アンソロピック研究者を嘲笑",
+        "url": "https://news.yahoo.co.jp/articles/8525b9d14407b039b14c7e33a0e5c2fba0e3a9d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米地域銀行にもステーブルコイン決済──CoinbaseがMoovと提携",
+        "url": "https://news.yahoo.co.jp/articles/c58b93978f52b5dbe407a181056db46451d7de66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Coinbase CEO「BTCは底打ち」──2030年に40万ドルの目標を維持",
+        "url": "https://news.yahoo.co.jp/articles/ac069dd66c04bb872771f61ac5e4539507fcf5aa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "EU証券当局、PolymarketとKalshiのEU展開に警告",
         "url": "https://news.yahoo.co.jp/articles/2691dfe7f37b567d6062e56ccd5e624b330dd86e",
         "source": "Yahoo",
@@ -13502,30 +13535,30 @@
       {
         "title": "米ナスダック、クラーケン親会社に約153億円出資──トークン株式で連携強化＝Bloomberg",
         "url": "https://news.yahoo.co.jp/articles/ef85dcff150c5aa591eddb30f692bf8d636ef2f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ジェミナイ、シンガポールで主要決済機関ライセンス取得",
-        "url": "https://news.yahoo.co.jp/articles/b6ae246477d45eaa1acf348c0057186157ff96f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Zaif、「データ・エコノミーコイン（DEC）」の新規取扱いへ準備開始。JOC上で発行予定",
-        "url": "https://news.yahoo.co.jp/articles/732bd5edbfddd8d9d3675d98947b4d8590ff8c8b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インドFIU、暗号資産15事業者に法令不遵守の通知。アクセス停止も要請",
-        "url": "https://news.yahoo.co.jp/articles/78ccd76390b63eededf3a020ef271511152b7202",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "イーロン・マスク、「AIによる人類滅亡」を警告した元アンソロピック研究者を嘲笑",
+        "url": "https://news.yahoo.co.jp/articles/8525b9d14407b039b14c7e33a0e5c2fba0e3a9d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米地域銀行にもステーブルコイン決済──CoinbaseがMoovと提携",
+        "url": "https://news.yahoo.co.jp/articles/c58b93978f52b5dbe407a181056db46451d7de66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Coinbase CEO「BTCは底打ち」──2030年に40万ドルの目標を維持",
+        "url": "https://news.yahoo.co.jp/articles/ac069dd66c04bb872771f61ac5e4539507fcf5aa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "EU証券当局、PolymarketとKalshiのEU展開に警告",
         "url": "https://news.yahoo.co.jp/articles/2691dfe7f37b567d6062e56ccd5e624b330dd86e",
         "source": "Yahoo",
@@ -13540,24 +13573,6 @@
       {
         "title": "米ナスダック、クラーケン親会社に約153億円出資──トークン株式で連携強化＝Bloomberg",
         "url": "https://news.yahoo.co.jp/articles/ef85dcff150c5aa591eddb30f692bf8d636ef2f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ジェミナイ、シンガポールで主要決済機関ライセンス取得",
-        "url": "https://news.yahoo.co.jp/articles/b6ae246477d45eaa1acf348c0057186157ff96f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Zaif、「データ・エコノミーコイン（DEC）」の新規取扱いへ準備開始。JOC上で発行予定",
-        "url": "https://news.yahoo.co.jp/articles/732bd5edbfddd8d9d3675d98947b4d8590ff8c8b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インドFIU、暗号資産15事業者に法令不遵守の通知。アクセス停止も要請",
-        "url": "https://news.yahoo.co.jp/articles/78ccd76390b63eededf3a020ef271511152b7202",
         "source": "Yahoo",
         "date": ""
       }
@@ -13716,6 +13731,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "米地域銀行にもステーブルコイン決済──CoinbaseがMoovと提携",
+        "url": "https://news.yahoo.co.jp/articles/c58b93978f52b5dbe407a181056db46451d7de66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Coinbase CEO「BTCは底打ち」──2030年に40万ドルの目標を維持",
+        "url": "https://news.yahoo.co.jp/articles/ac069dd66c04bb872771f61ac5e4539507fcf5aa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "三井住友vs三菱UFJ！ 最大20％還元の「ポイ活」覇権争いで賢く得する“2枚持ち”の極意",
         "url": "https://news.yahoo.co.jp/articles/8edde217947d498ee41841bb393de15eae806352",
         "source": "Yahoo",
@@ -13736,24 +13763,24 @@
       {
         "title": "ビットコイン採掘からAIへ──マイニング企業の「電力」が再評価される理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/663482f28ac26248e15ad3252eca8f15454efcf3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナでトークン化株式が本格展開──ロビンフット発チェーンに対抗か",
-        "url": "https://news.yahoo.co.jp/articles/a1076b7c2dd998ef00fa03fee23df7d8b4c966d6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "USバンク、独自ステーブルコインで越境送金を実証──北米・欧州間で",
-        "url": "https://news.yahoo.co.jp/articles/17d4f3373657d4ae24b8aa7a3eebbd6926017639",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米地域銀行にもステーブルコイン決済──CoinbaseがMoovと提携",
+        "url": "https://news.yahoo.co.jp/articles/c58b93978f52b5dbe407a181056db46451d7de66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Coinbase CEO「BTCは底打ち」──2030年に40万ドルの目標を維持",
+        "url": "https://news.yahoo.co.jp/articles/ac069dd66c04bb872771f61ac5e4539507fcf5aa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "三井住友vs三菱UFJ！ 最大20％還元の「ポイ活」覇権争いで賢く得する“2枚持ち”の極意",
         "url": "https://news.yahoo.co.jp/articles/8edde217947d498ee41841bb393de15eae806352",
         "source": "Yahoo",
@@ -13774,18 +13801,6 @@
       {
         "title": "ビットコイン採掘からAIへ──マイニング企業の「電力」が再評価される理由【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/663482f28ac26248e15ad3252eca8f15454efcf3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナでトークン化株式が本格展開──ロビンフット発チェーンに対抗か",
-        "url": "https://news.yahoo.co.jp/articles/a1076b7c2dd998ef00fa03fee23df7d8b4c966d6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "USバンク、独自ステーブルコインで越境送金を実証──北米・欧州間で",
-        "url": "https://news.yahoo.co.jp/articles/17d4f3373657d4ae24b8aa7a3eebbd6926017639",
         "source": "Yahoo",
         "date": ""
       }
