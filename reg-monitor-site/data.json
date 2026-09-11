@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T05:12:16.872Z",
+  "generatedAt": "2026-09-11T06:56:01.413Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,52 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "リアルクオリティ（398A）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-09-11",
+      "detectedAt": "2026-09-11T06:56:01.413Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-11T06:56:07.346Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集: FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存: 課題およびリスク』に関するディスカッション・ペーパー」の公表について",
+      "url": "https://www.boj.or.jp/paym/intlact_pm/cpss/cpss260911a.htm",
+      "date": "2026-09-11",
+      "detectedAt": "2026-09-11T06:56:01.413Z",
+      "enriched": "2026-09-11T06:56:07.346Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "CPMI及びIOSCOが2026年9月8日公表した市中協議文書は、FMIのサイバーレジリエンス強化に向けた4つの実務ツール（ガバナンス、シナリオ設計、対応・復旧計画、テスト実施）を非拘束的に提示し、PFMI及び2016年のサイバーガイダンスの実装支援を目的とする。",
+        "FMIの経営陣・経営幹部・業務・サイバーリスク担当者は、本ツール集の実務的考慮事項を参照し、技術中立的アプローチにより自機関のサイバーレジリエンス枠組みと生態系リスク対応を強化すること。",
+        "市中協議文書へのコメント提出期限は2026年12月1日（英文でCPMI及びIOSCO事務局宛）であり、2022年のレベル3評価の知見及びAI等の進化する脅威環境に対応する実装が求められる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260911-01.html",
+      "date": "2026-09-11",
+      "detectedAt": "2026-09-11T06:56:01.413Z",
+      "enriched": "2026-09-11T06:56:07.346Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社エアトリ（コード6191）について、2営業日連続してストップ高（安）で売買高が0株等の要件に該当したため、9月14日から制限値幅の上限を1,200円に拡大（下限は300円のまま）。",
+        "取引参加者及び投資家は、同銘柄で成行注文により思わぬ値段での約定が生じる可能性に注意し、指値注文の活用を検討すべき。",
+        "制限値幅拡大は東証の自主規制に基づき9月14日から適用され、ストップ高（安）以外の値段で売買成立した翌営業日から通常値幅に戻る予定。"
       ],
       "aiSumV": 3
     },
@@ -90,22 +136,6 @@
         "国債DVP取引において受け方が予定決済日経過後も債券を受け渡されない場合がフェイルで、解消方法として債券業協会規則に従い市場価格での買い入れまたは清機構による買い付けが定められている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "三十三フィナンシャルグループ（7322）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-09-10",
-      "detectedAt": "2026-09-10T06:49:55.761Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-10T06:50:00.443Z"
     },
     {
       "agency": "日本証券業協会",
@@ -13305,6 +13335,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員と夫に懲役2年6月求刑 1億5000万円インサイダー取引 東京地裁初公判",
+        "url": "https://news.yahoo.co.jp/articles/276f903ba666d9a369484bafa32f79a9280ff5aa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オルツの監査法人に行政処分勧告へ 金融庁の公認会計士・監査審査会",
         "url": "https://news.yahoo.co.jp/articles/be036ec7f036be0a6e1a91da54d89d64e769ae0c",
         "source": "Yahoo",
@@ -13325,24 +13367,24 @@
       {
         "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
         "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
-        "url": "https://news.yahoo.co.jp/articles/44f6415c076275ce20cd4003f164ebe468761763",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員と夫に懲役2年6月求刑 1億5000万円インサイダー取引 東京地裁初公判",
+        "url": "https://news.yahoo.co.jp/articles/276f903ba666d9a369484bafa32f79a9280ff5aa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オルツの監査法人に行政処分勧告へ 金融庁の公認会計士・監査審査会",
         "url": "https://news.yahoo.co.jp/articles/be036ec7f036be0a6e1a91da54d89d64e769ae0c",
         "source": "Yahoo",
@@ -13363,24 +13405,24 @@
       {
         "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
         "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
-        "url": "https://news.yahoo.co.jp/articles/44f6415c076275ce20cd4003f164ebe468761763",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員と夫に懲役2年6月求刑 1億5000万円インサイダー取引 東京地裁初公判",
+        "url": "https://news.yahoo.co.jp/articles/276f903ba666d9a369484bafa32f79a9280ff5aa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オルツの監査法人に行政処分勧告へ 金融庁の公認会計士・監査審査会",
         "url": "https://news.yahoo.co.jp/articles/be036ec7f036be0a6e1a91da54d89d64e769ae0c",
         "source": "Yahoo",
@@ -13401,24 +13443,24 @@
       {
         "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
         "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
-        "url": "https://news.yahoo.co.jp/articles/44f6415c076275ce20cd4003f164ebe468761763",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員と夫に懲役2年6月求刑 1億5000万円インサイダー取引 東京地裁初公判",
+        "url": "https://news.yahoo.co.jp/articles/276f903ba666d9a369484bafa32f79a9280ff5aa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オルツの監査法人に行政処分勧告へ 金融庁の公認会計士・監査審査会",
         "url": "https://news.yahoo.co.jp/articles/be036ec7f036be0a6e1a91da54d89d64e769ae0c",
         "source": "Yahoo",
@@ -13439,18 +13481,6 @@
       {
         "title": "Canary Capital、米国初のステーキング型トロン現物ETFを上場",
         "url": "https://news.yahoo.co.jp/articles/c6f93e4b31ac4a0acbbf0c7fcf78a9475c9cd482",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、個別株の永久先物でSECに通知登録──残るCFTCの承認と、米国参入を協議するHyperliquid【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/207089be0993b7b76f922fd01e2bb6d041f8b651",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
-        "url": "https://news.yahoo.co.jp/articles/44f6415c076275ce20cd4003f164ebe468761763",
         "source": "Yahoo",
         "date": ""
       }
@@ -13533,6 +13563,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "シタデル・セキュリティーズ、企業業績に連動する予測市場のSEC監督を要請",
+        "url": "https://news.yahoo.co.jp/articles/d4f01a59147b15284f0c968d1519876ac7d980ef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "シタデル証券、企業業績に連動する予測市場のSEC監督を要請",
         "url": "https://news.yahoo.co.jp/articles/50b8791a27a04abb7aaf357adcf364bfb87f0469",
         "source": "Yahoo",
@@ -13559,18 +13595,18 @@
       {
         "title": "欧州の証券規制当局、予測市場のリスク指摘。主要プラットフォームはEU認可無し",
         "url": "https://news.yahoo.co.jp/articles/9b3a0ef760e938be7b5b13f0a1f46287429b7508",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米暗号資産「CLARITY法案」の修正版公開、DeFi規定など見直し",
-        "url": "https://news.yahoo.co.jp/articles/76f5ced1620ebb74c2c5378228aaa8e9d06530a1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "シタデル・セキュリティーズ、企業業績に連動する予測市場のSEC監督を要請",
+        "url": "https://news.yahoo.co.jp/articles/d4f01a59147b15284f0c968d1519876ac7d980ef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "シタデル証券、企業業績に連動する予測市場のSEC監督を要請",
         "url": "https://news.yahoo.co.jp/articles/50b8791a27a04abb7aaf357adcf364bfb87f0469",
         "source": "Yahoo",
@@ -13597,12 +13633,6 @@
       {
         "title": "欧州の証券規制当局、予測市場のリスク指摘。主要プラットフォームはEU認可無し",
         "url": "https://news.yahoo.co.jp/articles/9b3a0ef760e938be7b5b13f0a1f46287429b7508",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米暗号資産「CLARITY法案」の修正版公開、DeFi規定など見直し",
-        "url": "https://news.yahoo.co.jp/articles/76f5ced1620ebb74c2c5378228aaa8e9d06530a1",
         "source": "Yahoo",
         "date": ""
       }
@@ -14551,7 +14581,7 @@
     ],
     "415AC0000000057": [
       {
-        "title": "麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
+        "title": "1:10麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
         "url": "https://news.yahoo.co.jp/articles/108e006f843dd714ddb14ab1b1168db2ae789a19",
         "source": "Yahoo",
         "date": ""
@@ -14589,7 +14619,7 @@
     ],
     "415CO0000000507": [
       {
-        "title": "麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
+        "title": "1:10麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
         "url": "https://news.yahoo.co.jp/articles/108e006f843dd714ddb14ab1b1168db2ae789a19",
         "source": "Yahoo",
         "date": ""
@@ -14627,7 +14657,7 @@
     ],
     "428M60020000003": [
       {
-        "title": "麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
+        "title": "1:10麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
         "url": "https://news.yahoo.co.jp/articles/108e006f843dd714ddb14ab1b1168db2ae789a19",
         "source": "Yahoo",
         "date": ""
