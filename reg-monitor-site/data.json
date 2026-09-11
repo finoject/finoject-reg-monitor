@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T00:30:51.099Z",
+  "generatedAt": "2026-09-11T02:09:46.942Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "グローバル・アカウンティング・アライアンス（GAA）による結合性（コネクティビティ）に関する報告書の公表について",
+      "url": "https://jicpa.or.jp/news/information/2026/20260911rau.html",
+      "date": "2026-09-11",
+      "detectedAt": "2026-09-11T02:09:46.942Z",
+      "enriched": "2026-09-11T02:09:52.603Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "GAA(グローバル・アカウンティング・アライアンス)が「The Connected Reporting Landscape」報告書を公表し、財務諸表とサステナビリティ開示の不一致解消と接続方法を示した。",
+        "企業は自社のリスク・機会・財務パフォーマンス・財政状態・将来見通しについて財務情報とサステナビリティ開示を整合させたストーリー伝達が求められ、会計専門職はその支援役割を担う。",
+        "当該報告書は2026年9月11日に公表され、日本公認会計士協会が加盟するGAA(10か国・地域の会計士団体連合体)による国際的な提言である。"
       ],
       "aiSumV": 3
     },
@@ -13503,6 +13518,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "欧州の証券規制当局、予測市場のリスク指摘。主要プラットフォームはEU認可無し",
+        "url": "https://news.yahoo.co.jp/articles/9b3a0ef760e938be7b5b13f0a1f46287429b7508",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米暗号資産「CLARITY法案」の修正版公開、DeFi規定など見直し",
+        "url": "https://news.yahoo.co.jp/articles/76f5ced1620ebb74c2c5378228aaa8e9d06530a1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ氏の米国製ビットコイン計画失速-AIブームと相場低迷が重し",
+        "url": "https://news.yahoo.co.jp/articles/e81cf9248c1964ce57e3f8b8e02aacf3fccdbe83",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イーロン・マスク、「AIによる人類滅亡」を警告した元アンソロピック研究者を嘲笑",
         "url": "https://news.yahoo.co.jp/articles/8525b9d14407b039b14c7e33a0e5c2fba0e3a9d0",
         "source": "Yahoo",
@@ -13517,30 +13550,30 @@
       {
         "title": "Coinbase CEO「BTCは底打ち」──2030年に40万ドルの目標を維持",
         "url": "https://news.yahoo.co.jp/articles/ac069dd66c04bb872771f61ac5e4539507fcf5aa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "EU証券当局、PolymarketとKalshiのEU展開に警告",
-        "url": "https://news.yahoo.co.jp/articles/2691dfe7f37b567d6062e56ccd5e624b330dd86e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案、修正版を公表──DeFi規制を見直し",
-        "url": "https://news.yahoo.co.jp/articles/0b448863d839fe73a466aae9fb1e357041fa06e9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ナスダック、クラーケン親会社に約153億円出資──トークン株式で連携強化＝Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/ef85dcff150c5aa591eddb30f692bf8d636ef2f8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "欧州の証券規制当局、予測市場のリスク指摘。主要プラットフォームはEU認可無し",
+        "url": "https://news.yahoo.co.jp/articles/9b3a0ef760e938be7b5b13f0a1f46287429b7508",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米暗号資産「CLARITY法案」の修正版公開、DeFi規定など見直し",
+        "url": "https://news.yahoo.co.jp/articles/76f5ced1620ebb74c2c5378228aaa8e9d06530a1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ氏の米国製ビットコイン計画失速-AIブームと相場低迷が重し",
+        "url": "https://news.yahoo.co.jp/articles/e81cf9248c1964ce57e3f8b8e02aacf3fccdbe83",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イーロン・マスク、「AIによる人類滅亡」を警告した元アンソロピック研究者を嘲笑",
         "url": "https://news.yahoo.co.jp/articles/8525b9d14407b039b14c7e33a0e5c2fba0e3a9d0",
         "source": "Yahoo",
@@ -13555,24 +13588,6 @@
       {
         "title": "Coinbase CEO「BTCは底打ち」──2030年に40万ドルの目標を維持",
         "url": "https://news.yahoo.co.jp/articles/ac069dd66c04bb872771f61ac5e4539507fcf5aa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "EU証券当局、PolymarketとKalshiのEU展開に警告",
-        "url": "https://news.yahoo.co.jp/articles/2691dfe7f37b567d6062e56ccd5e624b330dd86e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案、修正版を公表──DeFi規制を見直し",
-        "url": "https://news.yahoo.co.jp/articles/0b448863d839fe73a466aae9fb1e357041fa06e9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ナスダック、クラーケン親会社に約153億円出資──トークン株式で連携強化＝Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/ef85dcff150c5aa591eddb30f692bf8d636ef2f8",
         "source": "Yahoo",
         "date": ""
       }
@@ -13731,6 +13746,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "米暗号資産「CLARITY法案」の修正版公開、DeFi規定など見直し",
+        "url": "https://news.yahoo.co.jp/articles/76f5ced1620ebb74c2c5378228aaa8e9d06530a1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米地域銀行にもステーブルコイン決済──CoinbaseがMoovと提携",
         "url": "https://news.yahoo.co.jp/articles/c58b93978f52b5dbe407a181056db46451d7de66",
         "source": "Yahoo",
@@ -13757,18 +13778,18 @@
       {
         "title": "クラリティ法案、修正版を公表──DeFi規制を見直し",
         "url": "https://news.yahoo.co.jp/articles/0b448863d839fe73a466aae9fb1e357041fa06e9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン採掘からAIへ──マイニング企業の「電力」が再評価される理由【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/663482f28ac26248e15ad3252eca8f15454efcf3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米暗号資産「CLARITY法案」の修正版公開、DeFi規定など見直し",
+        "url": "https://news.yahoo.co.jp/articles/76f5ced1620ebb74c2c5378228aaa8e9d06530a1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米地域銀行にもステーブルコイン決済──CoinbaseがMoovと提携",
         "url": "https://news.yahoo.co.jp/articles/c58b93978f52b5dbe407a181056db46451d7de66",
         "source": "Yahoo",
@@ -13795,12 +13816,6 @@
       {
         "title": "クラリティ法案、修正版を公表──DeFi規制を見直し",
         "url": "https://news.yahoo.co.jp/articles/0b448863d839fe73a466aae9fb1e357041fa06e9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン採掘からAIへ──マイニング企業の「電力」が再評価される理由【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/663482f28ac26248e15ad3252eca8f15454efcf3",
         "source": "Yahoo",
         "date": ""
       }
