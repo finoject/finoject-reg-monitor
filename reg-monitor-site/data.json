@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T08:26:32.634Z",
+  "generatedAt": "2026-09-11T09:59:13.113Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「保険会社向けの総合的な監督指針」の一部改正（案）の公表",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20260911/20260911.html",
+      "date": "2026-09-11",
+      "detectedAt": "2026-09-11T09:59:13.113Z",
+      "enriched": "2026-09-11T09:59:20.306Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "①企業内代理店に関する規制の再構築、独占禁止法遵守態勢の構築、企業向け損害保険商品のモニタリング高度化を内容とする「保険会社向けの総合的な監督指針」の改正案が金融庁により取りまとめられた。",
+        "②保険会社は同改正内容（別紙１、２参照）を確認し、パブリックコメント期間（令和８年10月13日17時締切）を経た後の適用開始に向けて対応準備を進める必要がある。",
+        "③改正は2024年6月25日付「損害保険業の構造的課題と競争のあり方に関する有識者会議」報告書及び2024年12月25日付金融審議会「損害保険業等に関する制度等ワーキング・グループ」報告書の提言を踏まえたもので、パブリックコメント終了後に適用開始予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "令和８年熊本地震による金融機関等の報告の提出期限等に係る措置に関する公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260911/20260911.html",
+      "date": "2026-09-11",
+      "detectedAt": "2026-09-11T09:59:13.113Z",
+      "enriched": "2026-09-11T09:59:20.306Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和8年熊本地震で被災した熊本県本店・本社の銀行・信用金庫・信用組合・労働金庫・証券会社・銀行代理業者等が銀行法等に基づく報告・届出の提出期限を令和8年11月27日まで延長でき、行政上・刑事上の責任を問われない。",
+        "被災金融機関は法定提出期限内に報告・届出できない場合、令和8年11月27日までの提出で特例措置の対象となるほか、提出期限の定めがない報告・届出は事情解消後速やかに提出すれば遅滞なく提出したと取扱われる。",
+        "銀行法第24条等に基づく個別報告や期限延長可能な報告（業務報告書・貸借対照表公告等）については、被災金融機関からの相談・申請により金融庁が柔軟に対応する（令和8年熊本地震に関する政令令和8年8月7日施行）。"
       ],
       "aiSumV": 3
     },
@@ -13380,14 +13410,26 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "監査審査会、オルツの監査法人「不備、広範かつ多数」金融庁に勧告",
+        "url": "https://news.yahoo.co.jp/articles/6a34c58539be4fcd62ed78a8c672dd9bfa4893af",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
         "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "title": "0:33TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
         "url": "https://news.yahoo.co.jp/articles/f5458f81ccec4d3a6cf80bd13473dea8238ea5db",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
         "source": "Yahoo",
         "date": ""
       },
@@ -13400,32 +13442,32 @@
       {
         "title": "オルツの監査法人に行政処分勧告へ 金融庁の公認会計士・監査審査会",
         "url": "https://news.yahoo.co.jp/articles/be036ec7f036be0a6e1a91da54d89d64e769ae0c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitwise、ドージコイン現物ETFを1年足らずで閉鎖──純資産は約72万ドル",
-        "url": "https://news.yahoo.co.jp/articles/d33e19b099c1d7e6a06d0b47a127bace392c2aca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
-        "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "監査審査会、オルツの監査法人「不備、広範かつ多数」金融庁に勧告",
+        "url": "https://news.yahoo.co.jp/articles/6a34c58539be4fcd62ed78a8c672dd9bfa4893af",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
         "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "title": "0:33TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
         "url": "https://news.yahoo.co.jp/articles/f5458f81ccec4d3a6cf80bd13473dea8238ea5db",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
         "source": "Yahoo",
         "date": ""
       },
@@ -13438,32 +13480,32 @@
       {
         "title": "オルツの監査法人に行政処分勧告へ 金融庁の公認会計士・監査審査会",
         "url": "https://news.yahoo.co.jp/articles/be036ec7f036be0a6e1a91da54d89d64e769ae0c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitwise、ドージコイン現物ETFを1年足らずで閉鎖──純資産は約72万ドル",
-        "url": "https://news.yahoo.co.jp/articles/d33e19b099c1d7e6a06d0b47a127bace392c2aca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
-        "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "監査審査会、オルツの監査法人「不備、広範かつ多数」金融庁に勧告",
+        "url": "https://news.yahoo.co.jp/articles/6a34c58539be4fcd62ed78a8c672dd9bfa4893af",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
         "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "title": "0:33TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
         "url": "https://news.yahoo.co.jp/articles/f5458f81ccec4d3a6cf80bd13473dea8238ea5db",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
         "source": "Yahoo",
         "date": ""
       },
@@ -13476,32 +13518,32 @@
       {
         "title": "オルツの監査法人に行政処分勧告へ 金融庁の公認会計士・監査審査会",
         "url": "https://news.yahoo.co.jp/articles/be036ec7f036be0a6e1a91da54d89d64e769ae0c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitwise、ドージコイン現物ETFを1年足らずで閉鎖──純資産は約72万ドル",
-        "url": "https://news.yahoo.co.jp/articles/d33e19b099c1d7e6a06d0b47a127bace392c2aca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
-        "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "監査審査会、オルツの監査法人「不備、広範かつ多数」金融庁に勧告",
+        "url": "https://news.yahoo.co.jp/articles/6a34c58539be4fcd62ed78a8c672dd9bfa4893af",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
         "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "title": "0:33TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
         "url": "https://news.yahoo.co.jp/articles/f5458f81ccec4d3a6cf80bd13473dea8238ea5db",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TKP元社員ら起訴内容認める 検察は懲役2年6カ月求刑 インサイダー事件",
+        "url": "https://news.yahoo.co.jp/articles/5b4b4b133edcff568c441eebe4c3c9379e57b6c3",
         "source": "Yahoo",
         "date": ""
       },
@@ -13514,18 +13556,6 @@
       {
         "title": "オルツの監査法人に行政処分勧告へ 金融庁の公認会計士・監査審査会",
         "url": "https://news.yahoo.co.jp/articles/be036ec7f036be0a6e1a91da54d89d64e769ae0c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitwise、ドージコイン現物ETFを1年足らずで閉鎖──純資産は約72万ドル",
-        "url": "https://news.yahoo.co.jp/articles/d33e19b099c1d7e6a06d0b47a127bace392c2aca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【2028年1月1日から？】日本の暗号資産投資家、税制改正で「現在最高税率55.945%から一律20.315%の申告分離課税」となるか",
-        "url": "https://news.yahoo.co.jp/articles/c7d17dbb8d9feffe6c98199b55dabc80ca6b840c",
         "source": "Yahoo",
         "date": ""
       }
@@ -13626,12 +13656,6 @@
         "date": ""
       },
       {
-        "title": "ポリマーケットが元アマゾンCFO起用、米国・海外事業拡大で財務体制を強化",
-        "url": "https://news.yahoo.co.jp/articles/5edf42e25b6afe703de1efecaceaf430df59463d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "ナスダック、クラーケン親会社に1億ドル出資へ。トークン化株式で連携強化",
         "url": "https://news.yahoo.co.jp/articles/f2faaa9e8eafde0f2f628d7a154d9bb013aa86ee",
         "source": "Yahoo",
@@ -13640,6 +13664,12 @@
       {
         "title": "欧州の証券規制当局、予測市場のリスク指摘。主要プラットフォームはEU認可無し",
         "url": "https://news.yahoo.co.jp/articles/9b3a0ef760e938be7b5b13f0a1f46287429b7508",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米暗号資産「CLARITY法案」の修正版公開、DeFi規定など見直し",
+        "url": "https://news.yahoo.co.jp/articles/76f5ced1620ebb74c2c5378228aaa8e9d06530a1",
         "source": "Yahoo",
         "date": ""
       }
@@ -13664,12 +13694,6 @@
         "date": ""
       },
       {
-        "title": "ポリマーケットが元アマゾンCFO起用、米国・海外事業拡大で財務体制を強化",
-        "url": "https://news.yahoo.co.jp/articles/5edf42e25b6afe703de1efecaceaf430df59463d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "ナスダック、クラーケン親会社に1億ドル出資へ。トークン化株式で連携強化",
         "url": "https://news.yahoo.co.jp/articles/f2faaa9e8eafde0f2f628d7a154d9bb013aa86ee",
         "source": "Yahoo",
@@ -13678,6 +13702,12 @@
       {
         "title": "欧州の証券規制当局、予測市場のリスク指摘。主要プラットフォームはEU認可無し",
         "url": "https://news.yahoo.co.jp/articles/9b3a0ef760e938be7b5b13f0a1f46287429b7508",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米暗号資産「CLARITY法案」の修正版公開、DeFi規定など見直し",
+        "url": "https://news.yahoo.co.jp/articles/76f5ced1620ebb74c2c5378228aaa8e9d06530a1",
         "source": "Yahoo",
         "date": ""
       }
