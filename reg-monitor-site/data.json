@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T04:55:48.010Z",
+  "generatedAt": "2026-09-14T06:41:07.656Z",
   "items": [
     {
       "agency": "金融庁",
@@ -15,6 +15,22 @@
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "ビート・ホールディングス・リミテッド（9399）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-09-14",
+      "detectedAt": "2026-09-14T06:41:07.656Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-14T06:41:13.411Z"
     },
     {
       "agency": "日本銀行",
@@ -243,22 +259,6 @@
         "かぶオプについて大阪取引所は初心者向け動画講座「超カンタン！かぶオプ入門講座」など複数のコンテンツを提供し、投資家の理解促進に取り組んでいる。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "リアルクオリティ（398A）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-09-11",
-      "detectedAt": "2026-09-11T06:56:01.413Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-11T06:56:07.346Z"
     },
     {
       "agency": "日本銀行",
@@ -13517,6 +13517,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "ビットバンク、価格の乖離でエンジンコインの取扱い廃止",
+        "url": "https://news.yahoo.co.jp/articles/4b637f6c3883500e8dae73a4ee5883a3e834dd2d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "FXで利益が出た。『20万円以下なら申告不要』は年末調整で済む人だけの話",
         "url": "https://news.yahoo.co.jp/articles/e9a7ae64556cf174eebe2d7d6fe3a64861bbad7f",
         "source": "Yahoo",
@@ -13543,18 +13549,18 @@
       {
         "title": "監査審査会、オルツの監査法人「不備、広範かつ多数」金融庁に勧告",
         "url": "https://news.yahoo.co.jp/articles/6a34c58539be4fcd62ed78a8c672dd9bfa4893af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "ビットバンク、価格の乖離でエンジンコインの取扱い廃止",
+        "url": "https://news.yahoo.co.jp/articles/4b637f6c3883500e8dae73a4ee5883a3e834dd2d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "FXで利益が出た。『20万円以下なら申告不要』は年末調整で済む人だけの話",
         "url": "https://news.yahoo.co.jp/articles/e9a7ae64556cf174eebe2d7d6fe3a64861bbad7f",
         "source": "Yahoo",
@@ -13581,18 +13587,18 @@
       {
         "title": "監査審査会、オルツの監査法人「不備、広範かつ多数」金融庁に勧告",
         "url": "https://news.yahoo.co.jp/articles/6a34c58539be4fcd62ed78a8c672dd9bfa4893af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "ビットバンク、価格の乖離でエンジンコインの取扱い廃止",
+        "url": "https://news.yahoo.co.jp/articles/4b637f6c3883500e8dae73a4ee5883a3e834dd2d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "FXで利益が出た。『20万円以下なら申告不要』は年末調整で済む人だけの話",
         "url": "https://news.yahoo.co.jp/articles/e9a7ae64556cf174eebe2d7d6fe3a64861bbad7f",
         "source": "Yahoo",
@@ -13619,18 +13625,18 @@
       {
         "title": "監査審査会、オルツの監査法人「不備、広範かつ多数」金融庁に勧告",
         "url": "https://news.yahoo.co.jp/articles/6a34c58539be4fcd62ed78a8c672dd9bfa4893af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "ビットバンク、価格の乖離でエンジンコインの取扱い廃止",
+        "url": "https://news.yahoo.co.jp/articles/4b637f6c3883500e8dae73a4ee5883a3e834dd2d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "FXで利益が出た。『20万円以下なら申告不要』は年末調整で済む人だけの話",
         "url": "https://news.yahoo.co.jp/articles/e9a7ae64556cf174eebe2d7d6fe3a64861bbad7f",
         "source": "Yahoo",
@@ -13657,12 +13663,6 @@
       {
         "title": "監査審査会、オルツの監査法人「不備、広範かつ多数」金融庁に勧告",
         "url": "https://news.yahoo.co.jp/articles/6a34c58539be4fcd62ed78a8c672dd9bfa4893af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫、罪認める インサイダー、懲役2年6月求刑 東京地裁 貸会議室大手ティーケーピー（TKP）の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/dcc5224548b000a97924183bf79496c0bd0afecc",
         "source": "Yahoo",
         "date": ""
       }
@@ -13745,76 +13745,76 @@
     ],
     "429M60000002007": [
       {
+        "title": "ビットバンク、価格の乖離でエンジンコインの取扱い廃止",
+        "url": "https://news.yahoo.co.jp/articles/4b637f6c3883500e8dae73a4ee5883a3e834dd2d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米暗号資産市場構造巡る「CLARITY法案」、上院で9/15に重要採決へ",
+        "url": "https://news.yahoo.co.jp/articles/85b956d4391b95f2af730c4d5bdc311d6c51e454",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英国上院、「デジタル資産戦略」策定義務化の修正案を可決。暗号資産やステーブルコイン対象",
+        "url": "https://news.yahoo.co.jp/articles/3803406180ac6c668a8ec21f8328cad314600f5c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ大統領、クラリティ法案の利益相反規制案を大筋受け入れ＝AP",
+        "url": "https://news.yahoo.co.jp/articles/f65d72d0ca9a7ad31b8216cf45d78d995466ec79",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "タイSEC、ステーブルコイン送金規制案のパブコメ開始、第三者名義の送受金は禁止",
+        "url": "https://news.yahoo.co.jp/articles/d70d1ae3d75a7a04f1ed785638f7307f05b23075",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案、最終案を公表──民主党の要請126項目を反映",
         "url": "https://news.yahoo.co.jp/articles/fefd49e7db64fd7dd80005275154bfae872ade15",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "レボリュート、政府機関装う不正要請で顧客情報開示。BTC取引履歴も",
-        "url": "https://news.yahoo.co.jp/articles/669536d26749c60b3a219b0563311ba30cc1ad8f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
-        "url": "https://news.yahoo.co.jp/articles/ba18b2c9e23cd4459e960b74fada00121e6110e3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週、ビットコインは金融政策の山場へ──FOMCと日銀、相次ぐ利上げ判断が試す市場の耐久力【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/95af67eedef0f485c21509fabd0da53ee902780c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、クラリティ法案の利益相反規制めぐり協議＝報道",
-        "url": "https://news.yahoo.co.jp/articles/796d3790e7ec38388697694f0d4b6ec43fdc8284",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米下院委、クラリティ法案審議の翌日に暗号資産税制法案を採決か＝Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/160371caa55d90993638726d4d52d37426b268c3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ビットバンク、価格の乖離でエンジンコインの取扱い廃止",
+        "url": "https://news.yahoo.co.jp/articles/4b637f6c3883500e8dae73a4ee5883a3e834dd2d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米暗号資産市場構造巡る「CLARITY法案」、上院で9/15に重要採決へ",
+        "url": "https://news.yahoo.co.jp/articles/85b956d4391b95f2af730c4d5bdc311d6c51e454",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英国上院、「デジタル資産戦略」策定義務化の修正案を可決。暗号資産やステーブルコイン対象",
+        "url": "https://news.yahoo.co.jp/articles/3803406180ac6c668a8ec21f8328cad314600f5c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ大統領、クラリティ法案の利益相反規制案を大筋受け入れ＝AP",
+        "url": "https://news.yahoo.co.jp/articles/f65d72d0ca9a7ad31b8216cf45d78d995466ec79",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "タイSEC、ステーブルコイン送金規制案のパブコメ開始、第三者名義の送受金は禁止",
+        "url": "https://news.yahoo.co.jp/articles/d70d1ae3d75a7a04f1ed785638f7307f05b23075",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案、最終案を公表──民主党の要請126項目を反映",
         "url": "https://news.yahoo.co.jp/articles/fefd49e7db64fd7dd80005275154bfae872ade15",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "レボリュート、政府機関装う不正要請で顧客情報開示。BTC取引履歴も",
-        "url": "https://news.yahoo.co.jp/articles/669536d26749c60b3a219b0563311ba30cc1ad8f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
-        "url": "https://news.yahoo.co.jp/articles/ba18b2c9e23cd4459e960b74fada00121e6110e3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "今週、ビットコインは金融政策の山場へ──FOMCと日銀、相次ぐ利上げ判断が試す市場の耐久力【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/95af67eedef0f485c21509fabd0da53ee902780c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、クラリティ法案の利益相反規制めぐり協議＝報道",
-        "url": "https://news.yahoo.co.jp/articles/796d3790e7ec38388697694f0d4b6ec43fdc8284",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米下院委、クラリティ法案審議の翌日に暗号資産税制法案を採決か＝Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/160371caa55d90993638726d4d52d37426b268c3",
         "source": "Yahoo",
         "date": ""
       }
@@ -13973,76 +13973,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "米暗号資産市場構造巡る「CLARITY法案」、上院で9/15に重要採決へ",
+        "url": "https://news.yahoo.co.jp/articles/85b956d4391b95f2af730c4d5bdc311d6c51e454",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベースCEO「ビットコインは底打ち」、今後1〜2年の上昇予想",
+        "url": "https://news.yahoo.co.jp/articles/170655d08bd3d96df84ca00a4b95c4af9269058a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英国上院、「デジタル資産戦略」策定義務化の修正案を可決。暗号資産やステーブルコイン対象",
+        "url": "https://news.yahoo.co.jp/articles/3803406180ac6c668a8ec21f8328cad314600f5c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコインプロトコル提供のフラグメント、アンカレッジ・デジタルと提携",
+        "url": "https://news.yahoo.co.jp/articles/527ad7dede9e1a21188921ffbba9c03f2c9168c5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "タイSEC、ステーブルコイン送金規制案のパブコメ開始、第三者名義の送受金は禁止",
+        "url": "https://news.yahoo.co.jp/articles/d70d1ae3d75a7a04f1ed785638f7307f05b23075",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案、最終案を公表──民主党の要請126項目を反映",
         "url": "https://news.yahoo.co.jp/articles/fefd49e7db64fd7dd80005275154bfae872ade15",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン週間展望：ETFから4億6270万ドルが流出、米英日の金融政策決定を前に市場が警戒【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/0b16bc968e5628f7666d9a967ef6f74d45d62f2b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベースとムーブが提携、米1000超の地域金融機関にステーブルコイン機能提供へ",
-        "url": "https://news.yahoo.co.jp/articles/ff4b4c2c8034ea3e83e9fbcfa1ec0bc389017973",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ETHの現物・先物出来高比率が6カ月ぶりの高水準に──2500ドル付近でクジラの需要が加速、今後の展開は？【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/8b91a5d9c61978a3252cbf6fe94e96d21d24933f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「金融にブロックチェーンって、本当に必要なのか？」──同じ週に見た、2つの景色【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/a6ea410b7a6d400f040f2c5f47a7eb7500e526ba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アメリカ株高の裏で広がる「政治への失望」――米国PPI・CPIが映す物価高と米国家計の現実【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/7428891eeddeaff5be46c05de96cc84f9320b75e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米暗号資産市場構造巡る「CLARITY法案」、上院で9/15に重要採決へ",
+        "url": "https://news.yahoo.co.jp/articles/85b956d4391b95f2af730c4d5bdc311d6c51e454",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベースCEO「ビットコインは底打ち」、今後1〜2年の上昇予想",
+        "url": "https://news.yahoo.co.jp/articles/170655d08bd3d96df84ca00a4b95c4af9269058a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英国上院、「デジタル資産戦略」策定義務化の修正案を可決。暗号資産やステーブルコイン対象",
+        "url": "https://news.yahoo.co.jp/articles/3803406180ac6c668a8ec21f8328cad314600f5c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコインプロトコル提供のフラグメント、アンカレッジ・デジタルと提携",
+        "url": "https://news.yahoo.co.jp/articles/527ad7dede9e1a21188921ffbba9c03f2c9168c5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "タイSEC、ステーブルコイン送金規制案のパブコメ開始、第三者名義の送受金は禁止",
+        "url": "https://news.yahoo.co.jp/articles/d70d1ae3d75a7a04f1ed785638f7307f05b23075",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案、最終案を公表──民主党の要請126項目を反映",
         "url": "https://news.yahoo.co.jp/articles/fefd49e7db64fd7dd80005275154bfae872ade15",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン週間展望：ETFから4億6270万ドルが流出、米英日の金融政策決定を前に市場が警戒【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/0b16bc968e5628f7666d9a967ef6f74d45d62f2b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベースとムーブが提携、米1000超の地域金融機関にステーブルコイン機能提供へ",
-        "url": "https://news.yahoo.co.jp/articles/ff4b4c2c8034ea3e83e9fbcfa1ec0bc389017973",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ETHの現物・先物出来高比率が6カ月ぶりの高水準に──2500ドル付近でクジラの需要が加速、今後の展開は？【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/8b91a5d9c61978a3252cbf6fe94e96d21d24933f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「金融にブロックチェーンって、本当に必要なのか？」──同じ週に見た、2つの景色【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/a6ea410b7a6d400f040f2c5f47a7eb7500e526ba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アメリカ株高の裏で広がる「政治への失望」――米国PPI・CPIが映す物価高と米国家計の現実【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/7428891eeddeaff5be46c05de96cc84f9320b75e",
         "source": "Yahoo",
         "date": ""
       }
