@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T01:36:58.810Z",
+  "generatedAt": "2026-09-14T03:10:30.949Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,52 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
+      "url": "https://www.boj.or.jp/research/imes/dps/dps26_e.htm",
+      "date": "2026-09-14",
+      "detectedAt": "2026-09-14T03:10:30.949Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行金融研究所が2026年6月30日付で公表した英語版ディスカッション・ペーパー・シリーズ9編は、金融研究所スタッフ・外部研究者の研究成果であり、執筆者個人の見解で同行の公式見解ではないと明記。",
+        "中央銀行の独立性維持・政治的圧力への対応を中心テーマとし、金融規制当局は国際的に独立性保護が制度的課題として認識されていることを留意。",
+        "研究論文の公表により金融・経済政策研究に関する学界・研究機関等からのコメント聴取・知見収集を意図し、対象論文はIMES公式ウェブサイトでPDF形式で提供開始。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-14T03:10:35.398Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（論文）金融研究所DPS：ユーザブルセキュリティ研究の現状と展望",
+      "url": "https://www.boj.or.jp/research/imes/dps/dps260914b.htm",
+      "date": "2026-09-14",
+      "detectedAt": "2026-09-14T03:10:30.949Z",
+      "enriched": "2026-09-14T03:10:35.398Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が極めて限定的であり、具体的な制度改正・基準値・対象者・実施期限等の記載がない",
+        "論文タイトルのみで実体的な内容が示されておらず、実務担当者向けの具体的な規制内容の抽出は困難",
+        "金融研究所の研究論文であり、金融規制当局の行政措置・通達等ではないため実務的な拘束力がない"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（論文）金融研究所DPS：2026年国際コンファランスの模様",
+      "url": "https://www.boj.or.jp/research/imes/dps/dps260914a.htm",
+      "date": "2026-09-14",
+      "detectedAt": "2026-09-14T03:10:30.949Z",
+      "enriched": "2026-09-14T03:10:35.398Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が極めて乏しく、具体的な金融規制上の改正内容・基準値・対象者等の情報が記載されていない。",
+        "日本銀行金融研究所が2026年国際コンファレンスの概要をまとめた論文であり、ディスカッション・ペーパー・シリーズへの参照案内のみ。",
+        "実務上の具体的な対応事項が本文に示されていないため、詳細はディスカッション・ペーパー・シリーズ本体を確認する必要がある。"
       ],
       "aiSumV": 3
     },
@@ -8556,21 +8602,6 @@
     },
     {
       "agency": "日本銀行",
-      "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
-      "url": "https://www.boj.or.jp/research/imes/dps/dps26_e.htm",
-      "date": "2026-06-30",
-      "detectedAt": "2026-06-30T04:49:23.520Z",
-      "enriched": "2026-06-30T04:49:29.655Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行金融研究所が2026年6月30日付で公表した英語版ディスカッション・ペーパー・シリーズ9編は、金融研究所スタッフ・外部研究者の研究成果であり、執筆者個人の見解で同行の公式見解ではないと明記。",
-        "中央銀行の独立性維持・政治的圧力への対応を中心テーマとし、金融規制当局は国際的に独立性保護が制度的課題として認識されていることを留意。",
-        "研究論文の公表により金融・経済政策研究に関する学界・研究機関等からのコメント聴取・知見収集を意図し、対象論文はIMES公式ウェブサイトでPDF形式で提供開始。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
       "title": "金融研究所ディスカッション・ペーパー・シリーズ（2026年収録分）",
       "url": "https://www.boj.or.jp/research/imes/dps/dps26.htm",
       "date": "2026-06-30",
@@ -13714,6 +13745,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "レボリュート、政府機関装う不正要請で顧客情報開示。BTC取引履歴も",
+        "url": "https://news.yahoo.co.jp/articles/669536d26749c60b3a219b0563311ba30cc1ad8f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
         "url": "https://news.yahoo.co.jp/articles/ba18b2c9e23cd4459e960b74fada00121e6110e3",
         "source": "Yahoo",
@@ -13740,18 +13777,18 @@
       {
         "title": "英Revolut、偽政府メールでビットコイン履歴など誤提供＝報道",
         "url": "https://news.yahoo.co.jp/articles/3b720d4f3352f19a5115765559b3a90a17fe89af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "安愚楽牧場破綻１５年、知的障害がある次男に「お金を残してあげたい」５０万円から始まった出資金は１１００万円に",
-        "url": "https://news.yahoo.co.jp/articles/8754d77bc4281ee903cda0fed59858af7eab6538",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "レボリュート、政府機関装う不正要請で顧客情報開示。BTC取引履歴も",
+        "url": "https://news.yahoo.co.jp/articles/669536d26749c60b3a219b0563311ba30cc1ad8f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
         "url": "https://news.yahoo.co.jp/articles/ba18b2c9e23cd4459e960b74fada00121e6110e3",
         "source": "Yahoo",
@@ -13778,12 +13815,6 @@
       {
         "title": "英Revolut、偽政府メールでビットコイン履歴など誤提供＝報道",
         "url": "https://news.yahoo.co.jp/articles/3b720d4f3352f19a5115765559b3a90a17fe89af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "安愚楽牧場破綻１５年、知的障害がある次男に「お金を残してあげたい」５０万円から始まった出資金は１１００万円に",
-        "url": "https://news.yahoo.co.jp/articles/8754d77bc4281ee903cda0fed59858af7eab6538",
         "source": "Yahoo",
         "date": ""
       }
@@ -13942,6 +13973,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "コインベースとムーブが提携、米1000超の地域金融機関にステーブルコイン機能提供へ",
+        "url": "https://news.yahoo.co.jp/articles/ff4b4c2c8034ea3e83e9fbcfa1ec0bc389017973",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ETHの現物・先物出来高比率が6カ月ぶりの高水準に──2500ドル付近でクジラの需要が加速、今後の展開は？【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/8b91a5d9c61978a3252cbf6fe94e96d21d24933f",
         "source": "Yahoo",
@@ -13968,18 +14005,18 @@
       {
         "title": "暗号資産の送金巡る税務署とのやり取り、「あるある」と共感呼ぶ──2日で700万表示",
         "url": "https://news.yahoo.co.jp/articles/fcf501df8ea992c9c0d44032892b893bac94937d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「強気にも弱気にもなれない」市場──CPI通過後も続くビットコイン投資家の様子見心理【BitTrade Market Weekly】",
-        "url": "https://news.yahoo.co.jp/articles/e52f0e9ee68ffa572fa58cd9fa54fb603b3ccc5c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "コインベースとムーブが提携、米1000超の地域金融機関にステーブルコイン機能提供へ",
+        "url": "https://news.yahoo.co.jp/articles/ff4b4c2c8034ea3e83e9fbcfa1ec0bc389017973",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ETHの現物・先物出来高比率が6カ月ぶりの高水準に──2500ドル付近でクジラの需要が加速、今後の展開は？【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/8b91a5d9c61978a3252cbf6fe94e96d21d24933f",
         "source": "Yahoo",
@@ -14006,12 +14043,6 @@
       {
         "title": "暗号資産の送金巡る税務署とのやり取り、「あるある」と共感呼ぶ──2日で700万表示",
         "url": "https://news.yahoo.co.jp/articles/fcf501df8ea992c9c0d44032892b893bac94937d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「強気にも弱気にもなれない」市場──CPI通過後も続くビットコイン投資家の様子見心理【BitTrade Market Weekly】",
-        "url": "https://news.yahoo.co.jp/articles/e52f0e9ee68ffa572fa58cd9fa54fb603b3ccc5c",
         "source": "Yahoo",
         "date": ""
       }
@@ -14732,6 +14763,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "オープンAI、アンソロピックの覇権争いの行く末とは 佐々木俊尚氏が語るテクノロジーの進化が止まらない深い理由 EUにはGDPR(一般データ保護規則)という法律があり、日本でも個人情報保護法が2005年に施行されました。当時私も政府の委員などをしていましたが",
+        "url": "https://news.yahoo.co.jp/articles/c322048a2280a3172c6172508a6c4fe4306c7ea3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報漏えいの疑いで麻績村職員2人を書類送検 空き家バンクの登録申込書を無断でコピーして第三者へ 「コピーしたものを渡した」などと容疑認める【長野】",
         "url": "https://news.yahoo.co.jp/articles/25e873968a9a8f2162e7f5894fb9c55c522e4172",
         "source": "Yahoo",
@@ -14758,18 +14795,18 @@
       {
         "title": "セキュリティは「使えてなんぼ」 認証との偶然の出会いから22年 - NTTデータ 星野氏",
         "url": "https://news.yahoo.co.jp/articles/55941133a11099be71ce2319a7b62084507fca74",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIを活用したURL・広告タグセキュリティ診断「ndp one」ティザーサイト公開",
-        "url": "https://news.yahoo.co.jp/articles/464f4917915f593864ca96d4aef092ebfa16652d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "オープンAI、アンソロピックの覇権争いの行く末とは 佐々木俊尚氏が語るテクノロジーの進化が止まらない深い理由 EUにはGDPR(一般データ保護規則)という法律があり、日本でも個人情報保護法が2005年に施行されました。当時私も政府の委員などをしていましたが",
+        "url": "https://news.yahoo.co.jp/articles/c322048a2280a3172c6172508a6c4fe4306c7ea3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報漏えいの疑いで麻績村職員2人を書類送検 空き家バンクの登録申込書を無断でコピーして第三者へ 「コピーしたものを渡した」などと容疑認める【長野】",
         "url": "https://news.yahoo.co.jp/articles/25e873968a9a8f2162e7f5894fb9c55c522e4172",
         "source": "Yahoo",
@@ -14796,18 +14833,18 @@
       {
         "title": "セキュリティは「使えてなんぼ」 認証との偶然の出会いから22年 - NTTデータ 星野氏",
         "url": "https://news.yahoo.co.jp/articles/55941133a11099be71ce2319a7b62084507fca74",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIを活用したURL・広告タグセキュリティ診断「ndp one」ティザーサイト公開",
-        "url": "https://news.yahoo.co.jp/articles/464f4917915f593864ca96d4aef092ebfa16652d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "オープンAI、アンソロピックの覇権争いの行く末とは 佐々木俊尚氏が語るテクノロジーの進化が止まらない深い理由 EUにはGDPR(一般データ保護規則)という法律があり、日本でも個人情報保護法が2005年に施行されました。当時私も政府の委員などをしていましたが",
+        "url": "https://news.yahoo.co.jp/articles/c322048a2280a3172c6172508a6c4fe4306c7ea3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報漏えいの疑いで麻績村職員2人を書類送検 空き家バンクの登録申込書を無断でコピーして第三者へ 「コピーしたものを渡した」などと容疑認める【長野】",
         "url": "https://news.yahoo.co.jp/articles/25e873968a9a8f2162e7f5894fb9c55c522e4172",
         "source": "Yahoo",
@@ -14834,12 +14871,6 @@
       {
         "title": "セキュリティは「使えてなんぼ」 認証との偶然の出会いから22年 - NTTデータ 星野氏",
         "url": "https://news.yahoo.co.jp/articles/55941133a11099be71ce2319a7b62084507fca74",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIを活用したURL・広告タグセキュリティ診断「ndp one」ティザーサイト公開",
-        "url": "https://news.yahoo.co.jp/articles/464f4917915f593864ca96d4aef092ebfa16652d",
         "source": "Yahoo",
         "date": ""
       }
