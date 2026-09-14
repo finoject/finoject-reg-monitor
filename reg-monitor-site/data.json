@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T10:26:59.547Z",
+  "generatedAt": "2026-09-14T12:12:18.736Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）レオパレス２１",
+      "url": "https://www.jpx.co.jp/news/1023/20260914-11.html",
+      "date": "2026-09-14",
+      "detectedAt": "2026-09-14T12:12:18.736Z",
+      "enriched": "2026-09-14T12:12:24.663Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "レオパレス２１がプライム市場で監理銘柄（確認中）に指定された。指定理由は、株式会社K891による公開買付け成立後、特定者以外の株主の株式を1株未満の端数となる割合で株式併合することとなるため。",
+        "同社株主及び投資家は、株式併合により上場廃止となる可能性があることを認識し、上場廃止基準該当判定完了まで監理銘柄（確認中）の状態で取引されることに対応する必要がある。",
+        "有価証券上場規程施行規則第604条第1項第24号に基づき、2026年9月14日から当取引所が上場廃止基準該当を認定した日まで監理銘柄（確認中）として取扱われる。"
       ],
       "aiSumV": 3
     },
@@ -14018,6 +14033,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "サークル、ノーブル上のUSDCサポート終了へ。コスモスネイティブUSDCはインジェクティブ移行",
+        "url": "https://news.yahoo.co.jp/articles/0dd0c818e05ae6e6e284281fe85ec21c44c83ada",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米Circleの独自L1「Arc」、9月16日のローンチ初日からUniswapに対応",
         "url": "https://news.yahoo.co.jp/articles/fb455a2878d7b1cf37ca0cdd23265b4888bdef7f",
         "source": "Yahoo",
@@ -14044,18 +14065,18 @@
       {
         "title": "英国上院、「デジタル資産戦略」策定義務化の修正案を可決。暗号資産やステーブルコイン対象",
         "url": "https://news.yahoo.co.jp/articles/3803406180ac6c668a8ec21f8328cad314600f5c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインプロトコル提供のフラグメント、アンカレッジ・デジタルと提携",
-        "url": "https://news.yahoo.co.jp/articles/527ad7dede9e1a21188921ffbba9c03f2c9168c5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "サークル、ノーブル上のUSDCサポート終了へ。コスモスネイティブUSDCはインジェクティブ移行",
+        "url": "https://news.yahoo.co.jp/articles/0dd0c818e05ae6e6e284281fe85ec21c44c83ada",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米Circleの独自L1「Arc」、9月16日のローンチ初日からUniswapに対応",
         "url": "https://news.yahoo.co.jp/articles/fb455a2878d7b1cf37ca0cdd23265b4888bdef7f",
         "source": "Yahoo",
@@ -14082,12 +14103,6 @@
       {
         "title": "英国上院、「デジタル資産戦略」策定義務化の修正案を可決。暗号資産やステーブルコイン対象",
         "url": "https://news.yahoo.co.jp/articles/3803406180ac6c668a8ec21f8328cad314600f5c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインプロトコル提供のフラグメント、アンカレッジ・デジタルと提携",
-        "url": "https://news.yahoo.co.jp/articles/527ad7dede9e1a21188921ffbba9c03f2c9168c5",
         "source": "Yahoo",
         "date": ""
       }
