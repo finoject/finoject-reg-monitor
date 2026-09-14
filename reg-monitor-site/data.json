@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T07:06:36.233Z",
+  "generatedAt": "2026-09-14T08:41:41.752Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260910.xlsx",
+      "date": "2026-09-14",
+      "detectedAt": "2026-09-14T08:41:41.752Z",
+      "enriched": "2026-09-14T08:41:46.084Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がバイナリデータ(ZIP圧縮形式)であり、テキスト情報を抽出できません。具体的な国債銘柄別残高の数値、残高変動、対象銘柄等の実務情報を確認するには、ファイルの正常な展開が必要です。",
+        "日本銀行が公表する国債保有残高は金融政策運営の透明性確保を目的とし、市場参加者や金融機関が保有状況を把握する際の参考資料として機能します。",
+        "本文内容が不可読のため、2026年9月14日時点での具体的な銘柄別残高の内訳、残高規模、金利水準別の構成等の詳細については別途正常なファイル形式での確認を要します。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの取扱い（2026年9月30日調整分）",
+      "url": "https://www.jpx.co.jp/news/2020/20260914-01.html",
+      "date": "2026-09-14",
+      "detectedAt": "2026-09-14T08:41:41.752Z",
+      "enriched": "2026-09-14T08:41:46.084Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "レゾナック・ホールディングス株式（コード4004）の子会社現物配当（株式分配型スピンオフ）に伴い、2026年9月30日以降、有価証券オプションの権利行使価格をR倍に調整し、1単位の対象証券数量をR分の1倍に調整する（R＝P1×S1÷（P1×S1＋P2×S2））。",
+        "取引参加者は2026年9月29日（火）の当該オプション取引が終日停止となること、および2026年9月30日（水）に調整後の権利行使価格等が公表されオプション取引が再開されることに対応する必要がある。",
+        "調整基準日は2026年9月29日（火）の権利落日であり、2026年9月30日（水）以降に権利行使価格調整及び新たな5種類の権利行使価格設定が実施される（大阪取引所公表）。"
       ],
       "aiSumV": 3
     },
@@ -13760,6 +13790,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "Nasdaq、Kraken親会社に1億ドル出資──上場企業が関与するトークン化株式「NET」と、まだ示されていない議決権の扱い【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/32a927f134b969184ac8d1a6fbedea1efcc38f95",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "カナダOSFI、暗号資産エクスポージャーの最終指針公表。トークン化預金の法的取扱いも明確化",
+        "url": "https://news.yahoo.co.jp/articles/998e779be1bfda3e43831d44d1b3b991444f1c54",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットバンク、価格の乖離でエンジンコインの取扱い廃止",
         "url": "https://news.yahoo.co.jp/articles/4b637f6c3883500e8dae73a4ee5883a3e834dd2d",
         "source": "Yahoo",
@@ -13780,24 +13822,24 @@
       {
         "title": "トランプ大統領、クラリティ法案の利益相反規制案を大筋受け入れ＝AP",
         "url": "https://news.yahoo.co.jp/articles/f65d72d0ca9a7ad31b8216cf45d78d995466ec79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイSEC、ステーブルコイン送金規制案のパブコメ開始、第三者名義の送受金は禁止",
-        "url": "https://news.yahoo.co.jp/articles/d70d1ae3d75a7a04f1ed785638f7307f05b23075",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案、最終案を公表──民主党の要請126項目を反映",
-        "url": "https://news.yahoo.co.jp/articles/fefd49e7db64fd7dd80005275154bfae872ade15",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Nasdaq、Kraken親会社に1億ドル出資──上場企業が関与するトークン化株式「NET」と、まだ示されていない議決権の扱い【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/32a927f134b969184ac8d1a6fbedea1efcc38f95",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "カナダOSFI、暗号資産エクスポージャーの最終指針公表。トークン化預金の法的取扱いも明確化",
+        "url": "https://news.yahoo.co.jp/articles/998e779be1bfda3e43831d44d1b3b991444f1c54",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットバンク、価格の乖離でエンジンコインの取扱い廃止",
         "url": "https://news.yahoo.co.jp/articles/4b637f6c3883500e8dae73a4ee5883a3e834dd2d",
         "source": "Yahoo",
@@ -13818,18 +13860,6 @@
       {
         "title": "トランプ大統領、クラリティ法案の利益相反規制案を大筋受け入れ＝AP",
         "url": "https://news.yahoo.co.jp/articles/f65d72d0ca9a7ad31b8216cf45d78d995466ec79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイSEC、ステーブルコイン送金規制案のパブコメ開始、第三者名義の送受金は禁止",
-        "url": "https://news.yahoo.co.jp/articles/d70d1ae3d75a7a04f1ed785638f7307f05b23075",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案、最終案を公表──民主党の要請126項目を反映",
-        "url": "https://news.yahoo.co.jp/articles/fefd49e7db64fd7dd80005275154bfae872ade15",
         "source": "Yahoo",
         "date": ""
       }
@@ -13988,6 +14018,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "米Circleの独自L1「Arc」、9月16日のローンチ初日からUniswapに対応",
+        "url": "https://news.yahoo.co.jp/articles/fb455a2878d7b1cf37ca0cdd23265b4888bdef7f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "中南米最大のデジタル銀行Nu、米国で金融サービス開始。USDC・EURC活用の「Nu Global」も順次提供",
+        "url": "https://news.yahoo.co.jp/articles/46f73c2bc782380ee6ae7a7c45386b09198f6b29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米暗号資産市場構造巡る「CLARITY法案」、上院で9/15に重要採決へ",
         "url": "https://news.yahoo.co.jp/articles/85b956d4391b95f2af730c4d5bdc311d6c51e454",
         "source": "Yahoo",
@@ -14008,24 +14050,24 @@
       {
         "title": "ステーブルコインプロトコル提供のフラグメント、アンカレッジ・デジタルと提携",
         "url": "https://news.yahoo.co.jp/articles/527ad7dede9e1a21188921ffbba9c03f2c9168c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイSEC、ステーブルコイン送金規制案のパブコメ開始、第三者名義の送受金は禁止",
-        "url": "https://news.yahoo.co.jp/articles/d70d1ae3d75a7a04f1ed785638f7307f05b23075",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案、最終案を公表──民主党の要請126項目を反映",
-        "url": "https://news.yahoo.co.jp/articles/fefd49e7db64fd7dd80005275154bfae872ade15",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米Circleの独自L1「Arc」、9月16日のローンチ初日からUniswapに対応",
+        "url": "https://news.yahoo.co.jp/articles/fb455a2878d7b1cf37ca0cdd23265b4888bdef7f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "中南米最大のデジタル銀行Nu、米国で金融サービス開始。USDC・EURC活用の「Nu Global」も順次提供",
+        "url": "https://news.yahoo.co.jp/articles/46f73c2bc782380ee6ae7a7c45386b09198f6b29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米暗号資産市場構造巡る「CLARITY法案」、上院で9/15に重要採決へ",
         "url": "https://news.yahoo.co.jp/articles/85b956d4391b95f2af730c4d5bdc311d6c51e454",
         "source": "Yahoo",
@@ -14046,18 +14088,6 @@
       {
         "title": "ステーブルコインプロトコル提供のフラグメント、アンカレッジ・デジタルと提携",
         "url": "https://news.yahoo.co.jp/articles/527ad7dede9e1a21188921ffbba9c03f2c9168c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイSEC、ステーブルコイン送金規制案のパブコメ開始、第三者名義の送受金は禁止",
-        "url": "https://news.yahoo.co.jp/articles/d70d1ae3d75a7a04f1ed785638f7307f05b23075",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案、最終案を公表──民主党の要請126項目を反映",
-        "url": "https://news.yahoo.co.jp/articles/fefd49e7db64fd7dd80005275154bfae872ade15",
         "source": "Yahoo",
         "date": ""
       }
@@ -14278,14 +14308,14 @@
         "date": ""
       },
       {
-        "title": "M＆A促進、規制見直し 貸金業法改正へ、20年ぶり 金融庁",
-        "url": "https://news.yahoo.co.jp/articles/edfa6e02c90857d109ab6ad2382347824ddae2da",
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「クレカが作れない",
-        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
@@ -14316,14 +14346,14 @@
         "date": ""
       },
       {
-        "title": "M＆A促進、規制見直し 貸金業法改正へ、20年ぶり 金融庁",
-        "url": "https://news.yahoo.co.jp/articles/edfa6e02c90857d109ab6ad2382347824ddae2da",
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「クレカが作れない",
-        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
@@ -14354,14 +14384,14 @@
         "date": ""
       },
       {
-        "title": "M＆A促進、規制見直し 貸金業法改正へ、20年ぶり 金融庁",
-        "url": "https://news.yahoo.co.jp/articles/edfa6e02c90857d109ab6ad2382347824ddae2da",
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「クレカが作れない",
-        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
