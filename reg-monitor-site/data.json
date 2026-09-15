@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T03:30:12.530Z",
+  "generatedAt": "2026-09-15T05:15:32.597Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）オーディオストック",
+      "url": "https://www.jpx.co.jp/news/1031/20260915_02.html",
+      "date": "2026-09-15",
+      "detectedAt": "2026-09-15T05:15:32.597Z",
+      "enriched": "2026-09-15T05:15:37.202Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）オーディオストック（コード621A）の新規上場日（9月16日）の初値決定前の気配運用は、板中心値段1,060円から開始し、上限2,438円（更新値幅53円・10分間隔）、下限795円（更新値幅3分間隔）で段階的に運用される。",
+        "取引参加者は初値決定前の注文について成行呼値を禁止され、265円以上4,240円以下の指値のみで応札する必要があり、初値決定までは制限値幅が適用されない。",
+        "初値決定後は当該初値を基準値段として呼値の制限値幅が適用され、注文受付価格の範囲も基準値段から算出された制限値幅内に変更される（東京証券取引所規則に基づく新規上場取扱い）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）オリバー",
+      "url": "https://www.jpx.co.jp/news/1031/20260915_01.html",
+      "date": "2026-09-15",
+      "detectedAt": "2026-09-15T05:15:32.597Z",
+      "enriched": "2026-09-15T05:15:37.202Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)オリバー(コード619A)の新規上場初値決定前の気配運用として、板中心値段305円から開始し、上限702円(更新幅16円・10分間隔)、下限229円(通常更新幅・3分間隔)で気配を更新する。",
+        "取引参加者は新規上場日(9月16日)の売買において、注文受付価格77円～1,220円の範囲内で指値注文のみ可能であり、成行呼値を禁止される。",
+        "初値決定まで制限値幅を適用せず、初値決定後は当該初値を基準値段として制限値幅が適用される東証の新規上場気配運用ルール。"
       ],
       "aiSumV": 3
     },
@@ -13820,6 +13850,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "S＆Pグローバル、暗号資産データ企業Kaikoへの戦略的出資を主導。シリーズB総額170億円に",
+        "url": "https://news.yahoo.co.jp/articles/db5baa5ebfd61671f9ef5903d58688e13e95971c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米民主党、クラリティ法案の最終案に反発──対案提出へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/f1d2613c7aba31f85a98406668dfa0039a99871c",
         "source": "Yahoo",
@@ -13832,6 +13868,12 @@
         "date": ""
       },
       {
+        "title": "アンソロピックに安全なAI開発要求、規制に反対－米大統領諮問委議長",
+        "url": "https://news.yahoo.co.jp/articles/965b1e05c0ce1b026a4ed1f5ad1353b47f52417d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン8万ドル接近、米法案の成立確率改善で－関連株も上昇",
         "url": "https://news.yahoo.co.jp/articles/58e3d6093ab79c637d5d0de5f0a93b0ef1a1d1af",
         "source": "Yahoo",
@@ -13840,24 +13882,18 @@
       {
         "title": "米銀行8団体、クラリティ法案のステーブルコイン報酬規制強化を要求",
         "url": "https://news.yahoo.co.jp/articles/6ef955bb4c3815aa483eed0f83d7e3e404c52251",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "超党派の司法長官18人、クラリティ法案に反対表明──米上院に否決を求める",
-        "url": "https://news.yahoo.co.jp/articles/c4a6812c69afdcb8a3d21fb9cd4727ac1dfc0252",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮のIT要員、海外企業への偽装就職を試みる",
-        "url": "https://news.yahoo.co.jp/articles/52b22bd41f9344ef33b490dead8385d28bae5781",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "S＆Pグローバル、暗号資産データ企業Kaikoへの戦略的出資を主導。シリーズB総額170億円に",
+        "url": "https://news.yahoo.co.jp/articles/db5baa5ebfd61671f9ef5903d58688e13e95971c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米民主党、クラリティ法案の最終案に反発──対案提出へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/f1d2613c7aba31f85a98406668dfa0039a99871c",
         "source": "Yahoo",
@@ -13870,6 +13906,12 @@
         "date": ""
       },
       {
+        "title": "アンソロピックに安全なAI開発要求、規制に反対－米大統領諮問委議長",
+        "url": "https://news.yahoo.co.jp/articles/965b1e05c0ce1b026a4ed1f5ad1353b47f52417d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン8万ドル接近、米法案の成立確率改善で－関連株も上昇",
         "url": "https://news.yahoo.co.jp/articles/58e3d6093ab79c637d5d0de5f0a93b0ef1a1d1af",
         "source": "Yahoo",
@@ -13878,18 +13920,6 @@
       {
         "title": "米銀行8団体、クラリティ法案のステーブルコイン報酬規制強化を要求",
         "url": "https://news.yahoo.co.jp/articles/6ef955bb4c3815aa483eed0f83d7e3e404c52251",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "超党派の司法長官18人、クラリティ法案に反対表明──米上院に否決を求める",
-        "url": "https://news.yahoo.co.jp/articles/c4a6812c69afdcb8a3d21fb9cd4727ac1dfc0252",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮のIT要員、海外企業への偽装就職を試みる",
-        "url": "https://news.yahoo.co.jp/articles/52b22bd41f9344ef33b490dead8385d28bae5781",
         "source": "Yahoo",
         "date": ""
       }
