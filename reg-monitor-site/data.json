@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T22:44:34.287Z",
+  "generatedAt": "2026-09-15T00:29:36.153Z",
   "items": [
     {
       "agency": "金融庁",
@@ -15,6 +15,22 @@
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "個人情報等の苦情処理に関する実績報告",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojn_kujyou.html",
+      "date": "2026-09-15",
+      "detectedAt": "2026-09-15T00:29:36.153Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会の個人情報相談室が扱った個人情報等の苦情処理件数を毎月集計し、協会員における個人情報・仮名加工情報・匿名加工情報の適正な取扱いを確保するための参考資料として公表している。",
+        "協会員は個人情報保護法17条～46条に基づく利用目的の特定、利用制限、安全管理措置、第三者提供の制限等について、苦情申出がある場合は協会に通知され、その内容は月次で統計集計される。",
+        "苦情処理実績は自主規制規則「個人情報の取扱いに関する苦情処理業務規則」第10条第1項に基づき集計され、毎月中旬を目途にホームページで公表される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-15T00:29:41.421Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -3514,22 +3530,6 @@
         "日本証券業協会は外国株式信用取引について、会員から報告を受けた月間委託売買代金と月末残高を統計として毎月公表し、2026年4月分データを2026年6月15日に公開した。",
         "会員である証券会社は外国株式信用取引の実績（委託売買代金・月末残高）を協会に報告し、協会はこれを集計して統計情報として提供する。",
         "統計公表は原則として毎月15日（休業日の場合は翌営業日）に実施され、外国株式信用取引制度は2022年7月から開始されており、本統計はその後の継続的な取扱状況を示すもの。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-17T02:07:24.734Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "個人情報等の苦情処理に関する実績報告",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojn_kujyou.html",
-      "date": "2026-08-17",
-      "detectedAt": "2026-08-17T02:07:20.655Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会の個人情報相談室が扱った個人情報等の苦情処理件数を毎月集計し、協会員における個人情報・仮名加工情報・匿名加工情報の適正な取扱いを確保するための参考資料として公表している。",
-        "協会員は個人情報保護法17条～46条に基づく利用目的の特定、利用制限、安全管理措置、第三者提供の制限等について、苦情申出がある場合は協会に通知され、その内容は月次で統計集計される。",
-        "苦情処理実績は自主規制規則「個人情報の取扱いに関する苦情処理業務規則」第10条第1項に基づき集計され、毎月中旬を目途にホームページで公表される。"
       ],
       "aiSumV": 3,
       "updated": true,
@@ -13820,6 +13820,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "米銀行8団体、クラリティ法案のステーブルコイン報酬規制強化を要求",
+        "url": "https://news.yahoo.co.jp/articles/6ef955bb4c3815aa483eed0f83d7e3e404c52251",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "超党派の司法長官18人、クラリティ法案に反対表明──米上院に否決を求める",
+        "url": "https://news.yahoo.co.jp/articles/c4a6812c69afdcb8a3d21fb9cd4727ac1dfc0252",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "北朝鮮のIT要員、海外企業への偽装就職を試みる",
+        "url": "https://news.yahoo.co.jp/articles/52b22bd41f9344ef33b490dead8385d28bae5781",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案、予測市場で成立期待が上昇",
         "url": "https://news.yahoo.co.jp/articles/1ca6f9844aaaee1f774ab3c5537e8b2c93630186",
         "source": "Yahoo",
@@ -13834,30 +13852,30 @@
       {
         "title": "Nasdaq、Kraken親会社に1億ドル出資──上場企業が関与するトークン化株式「NET」と、まだ示されていない議決権の扱い【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/32a927f134b969184ac8d1a6fbedea1efcc38f95",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カナダOSFI、暗号資産エクスポージャーの最終指針公表。トークン化預金の法的取扱いも明確化",
-        "url": "https://news.yahoo.co.jp/articles/998e779be1bfda3e43831d44d1b3b991444f1c54",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットバンク、価格の乖離でエンジンコインの取扱い廃止",
-        "url": "https://news.yahoo.co.jp/articles/4b637f6c3883500e8dae73a4ee5883a3e834dd2d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米暗号資産市場構造巡る「CLARITY法案」、上院で9/15に重要採決へ",
-        "url": "https://news.yahoo.co.jp/articles/85b956d4391b95f2af730c4d5bdc311d6c51e454",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米銀行8団体、クラリティ法案のステーブルコイン報酬規制強化を要求",
+        "url": "https://news.yahoo.co.jp/articles/6ef955bb4c3815aa483eed0f83d7e3e404c52251",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "超党派の司法長官18人、クラリティ法案に反対表明──米上院に否決を求める",
+        "url": "https://news.yahoo.co.jp/articles/c4a6812c69afdcb8a3d21fb9cd4727ac1dfc0252",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "北朝鮮のIT要員、海外企業への偽装就職を試みる",
+        "url": "https://news.yahoo.co.jp/articles/52b22bd41f9344ef33b490dead8385d28bae5781",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案、予測市場で成立期待が上昇",
         "url": "https://news.yahoo.co.jp/articles/1ca6f9844aaaee1f774ab3c5537e8b2c93630186",
         "source": "Yahoo",
@@ -13872,24 +13890,6 @@
       {
         "title": "Nasdaq、Kraken親会社に1億ドル出資──上場企業が関与するトークン化株式「NET」と、まだ示されていない議決権の扱い【MCB FinTechカタログ通信】",
         "url": "https://news.yahoo.co.jp/articles/32a927f134b969184ac8d1a6fbedea1efcc38f95",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カナダOSFI、暗号資産エクスポージャーの最終指針公表。トークン化預金の法的取扱いも明確化",
-        "url": "https://news.yahoo.co.jp/articles/998e779be1bfda3e43831d44d1b3b991444f1c54",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットバンク、価格の乖離でエンジンコインの取扱い廃止",
-        "url": "https://news.yahoo.co.jp/articles/4b637f6c3883500e8dae73a4ee5883a3e834dd2d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米暗号資産市場構造巡る「CLARITY法案」、上院で9/15に重要採決へ",
-        "url": "https://news.yahoo.co.jp/articles/85b956d4391b95f2af730c4d5bdc311d6c51e454",
         "source": "Yahoo",
         "date": ""
       }
@@ -14048,6 +14048,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "米銀行8団体、クラリティ法案のステーブルコイン報酬規制強化を要求",
+        "url": "https://news.yahoo.co.jp/articles/6ef955bb4c3815aa483eed0f83d7e3e404c52251",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ホワイトハウス、クラリティ法案の前進に自信──15日に上院採決",
         "url": "https://news.yahoo.co.jp/articles/b39bcb94e9d39faea24d808f5269d0d321223c13",
         "source": "Yahoo",
@@ -14074,18 +14080,18 @@
       {
         "title": "中南米最大のデジタル銀行Nu、米国で金融サービス開始。USDC・EURC活用の「Nu Global」も順次提供",
         "url": "https://news.yahoo.co.jp/articles/46f73c2bc782380ee6ae7a7c45386b09198f6b29",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米暗号資産市場構造巡る「CLARITY法案」、上院で9/15に重要採決へ",
-        "url": "https://news.yahoo.co.jp/articles/85b956d4391b95f2af730c4d5bdc311d6c51e454",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米銀行8団体、クラリティ法案のステーブルコイン報酬規制強化を要求",
+        "url": "https://news.yahoo.co.jp/articles/6ef955bb4c3815aa483eed0f83d7e3e404c52251",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ホワイトハウス、クラリティ法案の前進に自信──15日に上院採決",
         "url": "https://news.yahoo.co.jp/articles/b39bcb94e9d39faea24d808f5269d0d321223c13",
         "source": "Yahoo",
@@ -14112,12 +14118,6 @@
       {
         "title": "中南米最大のデジタル銀行Nu、米国で金融サービス開始。USDC・EURC活用の「Nu Global」も順次提供",
         "url": "https://news.yahoo.co.jp/articles/46f73c2bc782380ee6ae7a7c45386b09198f6b29",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米暗号資産市場構造巡る「CLARITY法案」、上院で9/15に重要採決へ",
-        "url": "https://news.yahoo.co.jp/articles/85b956d4391b95f2af730c4d5bdc311d6c51e454",
         "source": "Yahoo",
         "date": ""
       }
