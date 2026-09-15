@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T08:00:51.638Z",
+  "generatedAt": "2026-09-15T09:31:27.125Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,114 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメントの結果等の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260915/20260915.html",
+      "date": "2026-09-15",
+      "detectedAt": "2026-09-15T09:31:27.125Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": "第2条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第2条"
+        },
+        {
+          "id": "323AC0000000025",
+          "art": "第5条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第5条"
+        },
+        {
+          "id": "323AC0000000025",
+          "art": "第27条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第27条"
+        },
+        {
+          "id": "323AC0000000025",
+          "art": "第1条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第1条"
+        },
+        {
+          "id": "323AC0000000025",
+          "art": "第24条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第24条"
+        }
+      ],
+      "enriched": "2026-09-15T09:31:33.628Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "グループ企業による社債勧誘が、発行企業と同視できる場合、金融商品取引業から除外される。定義府令第16条第1項第7号の３に明記され、グループ範囲・勧誘要件を規定。",
+        "社債発行企業のグループ企業は、発行企業が定めた勧誘方針に従って社債勧誘を行う場合、金融商品取引業の登録が不要になる。令和8年9月16日から施行。",
+        "国内ベンチャーファンドが海外ベンチャーファンドに出資する場合、投資運用規制の適用除外要件が緩和される。令和8年9月16日から施行、定義府令で規定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「企業内容等の開示に関する内閣府令第十九条の九第五項に規定するサステナビリティ開示基準を指定する件の一部を改正する件」の公布及びパブリックコメントの結果の公表",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20260915/20260915.html",
+      "date": "2026-09-15",
+      "detectedAt": "2026-09-15T09:31:27.125Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "金融商品取引法"
+        }
+      ],
+      "enriched": "2026-09-15T09:31:34.612Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "企業内容等の開示に関する内閣府令第19条の9第5項に規定するサステナビリティ開示基準を指定する件の一部改正告示が令和8年9月15日公布・適用された。",
+        "上場企業等の開示対象企業は、気候関連リスク及び機会に関する情報をSSBJ基準に従い開示する際、温対法のSHK制度により測定した温室効果ガス排出量を活用できる（実務対応基準第1号に基づく）。",
+        "本改正は金融商品取引法に基づく企業内容等の開示に関する内閣府令で定める基準指定であり、温対法・省エネ法との重複負担軽減を図る改正対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令（案）」等に対するパブリックコメントの実施の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260915-2.html",
+      "date": "2026-09-15",
+      "detectedAt": "2026-09-15T09:31:27.125Z",
+      "lawrefs": [
+        {
+          "id": "421AC0000000059",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "資金決済に関する法律"
+        }
+      ],
+      "enriched": "2026-09-15T09:31:35.862Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "企業会計基準委員会が令和8年6月2日及び7月7日公表した改正企業会計基準第10号・22号・27号等を、財務諸表等規則第1条第3項に規定する一般に公正妥当と認められる企業会計の基準として指定する金融庁告示を改正する。",
+        "金融機関等の財務諸表作成者は、資金決済法における特定の電子決済手段の会計処理に関する実務対応報告第45号の改正内容を踏まえ、財務諸表等規則及びガイドラインに従い財務諸表を作成・提出する必要がある。",
+        "本改正内閣府令案は令和8年10月16日17時までにパブリックコメント募集し、公布の日から施行される。なお企業会計基準第32号改正に関する規則改正は当該基準の適用日を踏まえて施行予定である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "パブリックコメントの募集について",
+      "url": "https://www.jsda.or.jp/about/public/bosyu/index.html",
+      "date": "2026-09-15",
+      "detectedAt": "2026-09-15T09:31:27.125Z",
+      "enriched": "2026-09-15T09:32:08.707Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "不正受験者に対する試験受験停止期間を1年以内から2年以内に延長し、試験問題情報を外部提供する等の悪質な不正受験に対応する（第7条第4項改正）。",
+        "日本証券業協会及び外務員等資格試験受験予定者は、令和9年1月1日以降に実施される試験から新基準が適用されることを認識し対応する必要がある。",
+        "改正は令和9年1月1日施行、パブリックコメント募集期間は2026年9月15日～10月14日17時必着（「外務員等資格試験に関する規則」第7条第4項に関わる）。"
       ],
       "aiSumV": 3
     },
@@ -13910,6 +14018,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "香港の仮想通貨取引所CoinEx、市場低迷長期化で事業停止へ",
+        "url": "https://news.yahoo.co.jp/articles/30cab78d1fe6e9eb7dbda1ef51cd955b7f6535ce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ大統領、米暗号資産市場構造法案「CLARITY」の倫理規定強化案の大部分に同意＝報道",
+        "url": "https://news.yahoo.co.jp/articles/bd483704c8bcadbddb5be25fa597291aa660055b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院共和党、クラリティ法案の「最終案」提示。トランプ大統領も倫理規定強化を了承",
         "url": "https://news.yahoo.co.jp/articles/d5d255e28e9311a81dcdd70ccfef195b3fdd9cb7",
         "source": "Yahoo",
@@ -13930,24 +14050,24 @@
       {
         "title": "暗号資産取引所CoinEx、12月に閉鎖へ",
         "url": "https://news.yahoo.co.jp/articles/1cd9dce801f4ae6f6ae5bd6f2ce31b7242a0ca9d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米上院の与党議員3人、仮想通貨市場構造の修正草案を公表",
-        "url": "https://news.yahoo.co.jp/articles/9aeda84f8b4f771d9b72108601b99bc140b9a541",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "S＆Pグローバル、暗号資産データ企業Kaikoへの戦略的出資を主導。シリーズB総額170億円に",
-        "url": "https://news.yahoo.co.jp/articles/db5baa5ebfd61671f9ef5903d58688e13e95971c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "香港の仮想通貨取引所CoinEx、市場低迷長期化で事業停止へ",
+        "url": "https://news.yahoo.co.jp/articles/30cab78d1fe6e9eb7dbda1ef51cd955b7f6535ce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ大統領、米暗号資産市場構造法案「CLARITY」の倫理規定強化案の大部分に同意＝報道",
+        "url": "https://news.yahoo.co.jp/articles/bd483704c8bcadbddb5be25fa597291aa660055b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院共和党、クラリティ法案の「最終案」提示。トランプ大統領も倫理規定強化を了承",
         "url": "https://news.yahoo.co.jp/articles/d5d255e28e9311a81dcdd70ccfef195b3fdd9cb7",
         "source": "Yahoo",
@@ -13968,18 +14088,6 @@
       {
         "title": "暗号資産取引所CoinEx、12月に閉鎖へ",
         "url": "https://news.yahoo.co.jp/articles/1cd9dce801f4ae6f6ae5bd6f2ce31b7242a0ca9d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米上院の与党議員3人、仮想通貨市場構造の修正草案を公表",
-        "url": "https://news.yahoo.co.jp/articles/9aeda84f8b4f771d9b72108601b99bc140b9a541",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "S＆Pグローバル、暗号資産データ企業Kaikoへの戦略的出資を主導。シリーズB総額170億円に",
-        "url": "https://news.yahoo.co.jp/articles/db5baa5ebfd61671f9ef5903d58688e13e95971c",
         "source": "Yahoo",
         "date": ""
       }
@@ -14138,6 +14246,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "イーサリアム、2026年Q2トランザクション数が過去最高の2億390万件に＝Token Terminal",
+        "url": "https://news.yahoo.co.jp/articles/450d42f32d77b685ef14fe96f478c11c6e361ca5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院共和党、クラリティ法案の「最終案」提示。トランプ大統領も倫理規定強化を了承",
         "url": "https://news.yahoo.co.jp/articles/d5d255e28e9311a81dcdd70ccfef195b3fdd9cb7",
         "source": "Yahoo",
@@ -14164,18 +14278,18 @@
       {
         "title": "暗号資産で巨額収入のトランプ、クラリティ法案の倫理規制で譲歩──米国の市場ルール整備前進",
         "url": "https://news.yahoo.co.jp/articles/6f97bd7b3d3871add33bc28548dc1fb90f35bb18",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン8万ドル接近、米法案の成立確率改善で－関連株も上昇",
-        "url": "https://news.yahoo.co.jp/articles/58e3d6093ab79c637d5d0de5f0a93b0ef1a1d1af",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "イーサリアム、2026年Q2トランザクション数が過去最高の2億390万件に＝Token Terminal",
+        "url": "https://news.yahoo.co.jp/articles/450d42f32d77b685ef14fe96f478c11c6e361ca5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米上院共和党、クラリティ法案の「最終案」提示。トランプ大統領も倫理規定強化を了承",
         "url": "https://news.yahoo.co.jp/articles/d5d255e28e9311a81dcdd70ccfef195b3fdd9cb7",
         "source": "Yahoo",
@@ -14202,12 +14316,6 @@
       {
         "title": "暗号資産で巨額収入のトランプ、クラリティ法案の倫理規制で譲歩──米国の市場ルール整備前進",
         "url": "https://news.yahoo.co.jp/articles/6f97bd7b3d3871add33bc28548dc1fb90f35bb18",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン8万ドル接近、米法案の成立確率改善で－関連株も上昇",
-        "url": "https://news.yahoo.co.jp/articles/58e3d6093ab79c637d5d0de5f0a93b0ef1a1d1af",
         "source": "Yahoo",
         "date": ""
       }
