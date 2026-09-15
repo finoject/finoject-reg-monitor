@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:00:57.293Z",
+  "generatedAt": "2026-09-15T08:00:51.638Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,37 @@
         "金融審議会の成長企業への資金供給に関するワーキング・グループ第1回会議が令和8年9月16日10時から中央合同庁舎第7号館12階にて開催される。",
         "事務局説明とヒアリング、討議が予定されており、会議後に議事録が金融庁ウェブサイトで公表される。",
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付けている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "ジーネクスト（4179）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-09-15",
+      "detectedAt": "2026-09-15T08:00:51.638Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-15T08:01:00.875Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの取扱い（2026年9月29日調整分）",
+      "url": "https://www.jpx.co.jp/news/2020/20260915-01.html",
+      "date": "2026-09-15",
+      "detectedAt": "2026-09-15T08:00:51.638Z",
+      "enriched": "2026-09-15T08:01:00.875Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大和ハウス工業など8銘柄の株式分割（2026年10月1日効力発生）に伴い、2026年9月29日から有価証券オプションの権利行使価格・建玉・対象証券数量・建玉制限数量を調整、銘柄ごとに分割比率に応じて権利行使価格は端数四捨五入で減額、建玉および対象証券数量・建玉制限数量は分割比率に応じて増加。",
+        "オプション取引参加者は2026年9月29日から全限月について調整後の新たな権利行使価格・建玉制限数量・大口建玉報告基準値・J-NET取引ハードブロック設定値を適用し取引を行い、東京海上ホールディングスはハードブロック値が30,000単位から300,000単位に変更される点に留意。",
+        "大阪取引所公表の有価証券オプション取扱い基準に基づき、2026年9月29日（火）から権利行使価格等の調整が実施され、詳細は大阪取引所ウェブサイト掲載資料参照、問合せは電話06-4706-0800。"
       ],
       "aiSumV": 3
     },
@@ -245,22 +276,6 @@
         "東証による新規上場銘柄の呼値設定に関する規則に基づき2026年9月28日から適用される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ビート・ホールディングス・リミテッド（9399）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-09-14",
-      "detectedAt": "2026-09-14T06:41:07.656Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-14T06:41:13.411Z"
     },
     {
       "agency": "日本銀行",
@@ -13667,6 +13682,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "OKJ、リスク（LSK）の販売所取扱いを一時停止",
+        "url": "https://news.yahoo.co.jp/articles/2ec8a9075292745fb47ba6e3a0f6445e5c0ec464",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「投資家が最重視して読むべきもの」300万円を株投資で17億円に増やしたシケモク投資家さんが解説する「有価証券報告書」の読み解き方",
         "url": "https://news.yahoo.co.jp/articles/8676c6241085256b309abf36d34981ff1d21209d",
         "source": "Yahoo",
@@ -13693,18 +13714,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.12】",
         "url": "https://news.yahoo.co.jp/articles/11c736cc73cbd7e127000fa1b14d980ba683f39a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫、罪認める 貸会議室大手TKP の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/76036ecce65423ab8d0cc61ac7d0ed4779cf6abb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "OKJ、リスク（LSK）の販売所取扱いを一時停止",
+        "url": "https://news.yahoo.co.jp/articles/2ec8a9075292745fb47ba6e3a0f6445e5c0ec464",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「投資家が最重視して読むべきもの」300万円を株投資で17億円に増やしたシケモク投資家さんが解説する「有価証券報告書」の読み解き方",
         "url": "https://news.yahoo.co.jp/articles/8676c6241085256b309abf36d34981ff1d21209d",
         "source": "Yahoo",
@@ -13731,18 +13752,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.12】",
         "url": "https://news.yahoo.co.jp/articles/11c736cc73cbd7e127000fa1b14d980ba683f39a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫、罪認める 貸会議室大手TKP の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/76036ecce65423ab8d0cc61ac7d0ed4779cf6abb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "OKJ、リスク（LSK）の販売所取扱いを一時停止",
+        "url": "https://news.yahoo.co.jp/articles/2ec8a9075292745fb47ba6e3a0f6445e5c0ec464",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「投資家が最重視して読むべきもの」300万円を株投資で17億円に増やしたシケモク投資家さんが解説する「有価証券報告書」の読み解き方",
         "url": "https://news.yahoo.co.jp/articles/8676c6241085256b309abf36d34981ff1d21209d",
         "source": "Yahoo",
@@ -13769,18 +13790,18 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.12】",
         "url": "https://news.yahoo.co.jp/articles/11c736cc73cbd7e127000fa1b14d980ba683f39a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫、罪認める 貸会議室大手TKP の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/76036ecce65423ab8d0cc61ac7d0ed4779cf6abb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "OKJ、リスク（LSK）の販売所取扱いを一時停止",
+        "url": "https://news.yahoo.co.jp/articles/2ec8a9075292745fb47ba6e3a0f6445e5c0ec464",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「投資家が最重視して読むべきもの」300万円を株投資で17億円に増やしたシケモク投資家さんが解説する「有価証券報告書」の読み解き方",
         "url": "https://news.yahoo.co.jp/articles/8676c6241085256b309abf36d34981ff1d21209d",
         "source": "Yahoo",
@@ -13807,12 +13828,6 @@
       {
         "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.12】",
         "url": "https://news.yahoo.co.jp/articles/11c736cc73cbd7e127000fa1b14d980ba683f39a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫、罪認める 貸会議室大手TKP の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/76036ecce65423ab8d0cc61ac7d0ed4779cf6abb",
         "source": "Yahoo",
         "date": ""
       }
@@ -13895,6 +13910,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "米上院共和党、クラリティ法案の「最終案」提示。トランプ大統領も倫理規定強化を了承",
+        "url": "https://news.yahoo.co.jp/articles/d5d255e28e9311a81dcdd70ccfef195b3fdd9cb7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "OKJ、リスク（LSK）の販売所取扱いを一時停止",
+        "url": "https://news.yahoo.co.jp/articles/2ec8a9075292745fb47ba6e3a0f6445e5c0ec464",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米18司法長官、暗号資産法案「CLARITY法案」に反対表明。詐欺対策の権限低下を懸念",
+        "url": "https://news.yahoo.co.jp/articles/3e1e81e7c97a7499193aa3e6b0c0fd7d97cdaff9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産取引所CoinEx、12月に閉鎖へ",
         "url": "https://news.yahoo.co.jp/articles/1cd9dce801f4ae6f6ae5bd6f2ce31b7242a0ca9d",
         "source": "Yahoo",
@@ -13909,30 +13942,30 @@
       {
         "title": "S＆Pグローバル、暗号資産データ企業Kaikoへの戦略的出資を主導。シリーズB総額170億円に",
         "url": "https://news.yahoo.co.jp/articles/db5baa5ebfd61671f9ef5903d58688e13e95971c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米民主党、クラリティ法案の最終案に反発──対案提出へ＝報道",
-        "url": "https://news.yahoo.co.jp/articles/f1d2613c7aba31f85a98406668dfa0039a99871c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産で巨額収入のトランプ、クラリティ法案の倫理規制で譲歩──米国の市場ルール整備前進",
-        "url": "https://news.yahoo.co.jp/articles/6f97bd7b3d3871add33bc28548dc1fb90f35bb18",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンソロピックに安全なAI開発要求、規制に反対－米大統領諮問委議長",
-        "url": "https://news.yahoo.co.jp/articles/965b1e05c0ce1b026a4ed1f5ad1353b47f52417d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米上院共和党、クラリティ法案の「最終案」提示。トランプ大統領も倫理規定強化を了承",
+        "url": "https://news.yahoo.co.jp/articles/d5d255e28e9311a81dcdd70ccfef195b3fdd9cb7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "OKJ、リスク（LSK）の販売所取扱いを一時停止",
+        "url": "https://news.yahoo.co.jp/articles/2ec8a9075292745fb47ba6e3a0f6445e5c0ec464",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米18司法長官、暗号資産法案「CLARITY法案」に反対表明。詐欺対策の権限低下を懸念",
+        "url": "https://news.yahoo.co.jp/articles/3e1e81e7c97a7499193aa3e6b0c0fd7d97cdaff9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産取引所CoinEx、12月に閉鎖へ",
         "url": "https://news.yahoo.co.jp/articles/1cd9dce801f4ae6f6ae5bd6f2ce31b7242a0ca9d",
         "source": "Yahoo",
@@ -13947,24 +13980,6 @@
       {
         "title": "S＆Pグローバル、暗号資産データ企業Kaikoへの戦略的出資を主導。シリーズB総額170億円に",
         "url": "https://news.yahoo.co.jp/articles/db5baa5ebfd61671f9ef5903d58688e13e95971c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米民主党、クラリティ法案の最終案に反発──対案提出へ＝報道",
-        "url": "https://news.yahoo.co.jp/articles/f1d2613c7aba31f85a98406668dfa0039a99871c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産で巨額収入のトランプ、クラリティ法案の倫理規制で譲歩──米国の市場ルール整備前進",
-        "url": "https://news.yahoo.co.jp/articles/6f97bd7b3d3871add33bc28548dc1fb90f35bb18",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンソロピックに安全なAI開発要求、規制に反対－米大統領諮問委議長",
-        "url": "https://news.yahoo.co.jp/articles/965b1e05c0ce1b026a4ed1f5ad1353b47f52417d",
         "source": "Yahoo",
         "date": ""
       }
@@ -14123,6 +14138,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "米上院共和党、クラリティ法案の「最終案」提示。トランプ大統領も倫理規定強化を了承",
+        "url": "https://news.yahoo.co.jp/articles/d5d255e28e9311a81dcdd70ccfef195b3fdd9cb7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラーケンのxストックスで最大2%利回り。SPYx・QQQx・NVDAxが対象",
+        "url": "https://news.yahoo.co.jp/articles/7a7e4698e78a373b342b3b93de42ad3e631f764b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米18司法長官、暗号資産法案「CLARITY法案」に反対表明。詐欺対策の権限低下を懸念",
+        "url": "https://news.yahoo.co.jp/articles/3e1e81e7c97a7499193aa3e6b0c0fd7d97cdaff9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブルガリア、暗号資産利用者情報の報告義務化。改正法公布",
         "url": "https://news.yahoo.co.jp/articles/6cd4c5fee4c631ad40d32315c1d45c8264431c87",
         "source": "Yahoo",
@@ -14137,30 +14170,30 @@
       {
         "title": "ビットコイン8万ドル接近、米法案の成立確率改善で－関連株も上昇",
         "url": "https://news.yahoo.co.jp/articles/58e3d6093ab79c637d5d0de5f0a93b0ef1a1d1af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米銀行8団体、クラリティ法案のステーブルコイン報酬規制強化を要求",
-        "url": "https://news.yahoo.co.jp/articles/6ef955bb4c3815aa483eed0f83d7e3e404c52251",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ホワイトハウス、クラリティ法案の前進に自信──15日に上院採決",
-        "url": "https://news.yahoo.co.jp/articles/b39bcb94e9d39faea24d808f5269d0d321223c13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "円安は止まったのか？高市首相は知っているのか？ベッセント米財務長官「対日発言」の裏事情 Trust Bankの免許）の「条件付き予備承認」を取得した。■ステーブルコインの準備金を米国債とする措置 8月17日。WLTが銀行免許を取得した",
-        "url": "https://news.yahoo.co.jp/expert/articles/a1ab18319b4df70adeb03babad772631305df03a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米上院共和党、クラリティ法案の「最終案」提示。トランプ大統領も倫理規定強化を了承",
+        "url": "https://news.yahoo.co.jp/articles/d5d255e28e9311a81dcdd70ccfef195b3fdd9cb7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラーケンのxストックスで最大2%利回り。SPYx・QQQx・NVDAxが対象",
+        "url": "https://news.yahoo.co.jp/articles/7a7e4698e78a373b342b3b93de42ad3e631f764b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米18司法長官、暗号資産法案「CLARITY法案」に反対表明。詐欺対策の権限低下を懸念",
+        "url": "https://news.yahoo.co.jp/articles/3e1e81e7c97a7499193aa3e6b0c0fd7d97cdaff9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブルガリア、暗号資産利用者情報の報告義務化。改正法公布",
         "url": "https://news.yahoo.co.jp/articles/6cd4c5fee4c631ad40d32315c1d45c8264431c87",
         "source": "Yahoo",
@@ -14175,24 +14208,6 @@
       {
         "title": "ビットコイン8万ドル接近、米法案の成立確率改善で－関連株も上昇",
         "url": "https://news.yahoo.co.jp/articles/58e3d6093ab79c637d5d0de5f0a93b0ef1a1d1af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米銀行8団体、クラリティ法案のステーブルコイン報酬規制強化を要求",
-        "url": "https://news.yahoo.co.jp/articles/6ef955bb4c3815aa483eed0f83d7e3e404c52251",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ホワイトハウス、クラリティ法案の前進に自信──15日に上院採決",
-        "url": "https://news.yahoo.co.jp/articles/b39bcb94e9d39faea24d808f5269d0d321223c13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "円安は止まったのか？高市首相は知っているのか？ベッセント米財務長官「対日発言」の裏事情 Trust Bankの免許）の「条件付き予備承認」を取得した。■ステーブルコインの準備金を米国債とする措置 8月17日。WLTが銀行免許を取得した",
-        "url": "https://news.yahoo.co.jp/expert/articles/a1ab18319b4df70adeb03babad772631305df03a",
         "source": "Yahoo",
         "date": ""
       }
