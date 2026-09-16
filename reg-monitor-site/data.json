@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-09-16T04:06:04.804Z",
+  "generatedAt": "2026-09-16T05:51:31.131Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "会長記者会見の資料を公開しました。",
+      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
+      "date": "2026-09-16",
+      "detectedAt": "2026-09-16T05:51:31.131Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
+        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
+        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-16T05:51:35.988Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「NISA口座開設・利用状況の調査結果」を公表しました",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/nisajoukyou.html",
+      "date": "2026-09-16",
+      "detectedAt": "2026-09-16T05:51:31.131Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2025年12月末時点で証券会社全社のNISA口座数は約2,025万口座となり、2023年12月末の約1,428万口座から約597万口座増加した。",
+        "2025年1月～12月のNISA買付額は前年比1.1倍の153,540億円で、成長投資枠105,310億円・つみたて投資枠48,230億円の構成。",
+        "日本証券業協会が定期的に実施するNISA及びジュニアNISA口座開設・利用状況調査の直近確報値を2026年5月27日に公表した。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-16T05:51:35.988Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[TOCOM]令和8年度第2回東京都グリーン水素トライアル取引（京浜島グリーン水素）の結果について",
+      "url": "https://www.jpx.co.jp/news/2040/20260916-01.html",
+      "date": "2026-09-16",
+      "detectedAt": "2026-09-16T05:51:31.131Z",
+      "enriched": "2026-09-16T05:51:35.988Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京商品取引所（TOCOM）が東京都と共同で実施するグリーン水素トライアル取引について、令和8年度第2回（京浜島グリーン水素）の入札を実施し、落札単価および落札数量を決定した。",
+        "京浜島グリーン水素の利用者は、決定された落札単価と落札数量に基づいて取引を行う必要があり、詳細は東京都グリーン水素トライアル取引事業特設サイトで確認する。",
+        "本取引は2024年度から実施されており、TOCOM総合業務室（03-3666-0141）が問合せ窓口として対応している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]第2回「グロース市場の発展に向けた検討会」の開催について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20260916-01.html",
+      "date": "2026-09-16",
+      "detectedAt": "2026-09-16T05:51:31.131Z",
+      "enriched": "2026-09-16T05:51:35.988Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所が2026年9月16日にグロース市場の発展に向けた第2回検討会を開催し、当日資料を公表した。",
+        "市場参加者・上場企業等は公表資料により検討内容を確認し、グロース市場の制度改善等に関わる動向を把握する必要がある。",
+        "東証の上場部企画グループが窓口となり、詳細は検討会ページで確認可能。適用時期は別途公表される見込み。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場日の初値決定前の気配運用について：（株）Skyfall",
@@ -4064,22 +4126,6 @@
         "本論文は日本銀行ワーキングペーパー（No.26-J-9、2026年8月）として公表され、経済構造実態調査・工業統計調査・企業活動基本調査等の公的統計調査票情報に基づく。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "会長記者会見の要旨を公開しました。",
-      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
-      "date": "2026-08-12",
-      "detectedAt": "2026-08-12T03:50:17.663Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
-        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
-        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-12T03:50:23.321Z"
     },
     {
       "agency": "日本銀行",
@@ -12350,21 +12396,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本証券業協会",
-      "title": "「NISA口座開設・利用状況の調査結果」を公表しました",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/nisajoukyou.html",
-      "date": "2026-05-27",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:02:14.041Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2025年12月末時点で証券会社全社のNISA口座数は約2,025万口座となり、2023年12月末の約1,428万口座から約597万口座増加した。",
-        "2025年1月～12月のNISA買付額は前年比1.1倍の153,540億円で、成長投資枠105,310億円・つみたて投資枠48,230億円の構成。",
-        "日本証券業協会が定期的に実施するNISA及びジュニアNISA口座開設・利用状況調査の直近確報値を2026年5月27日に公表した。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "日本公認会計士協会",
       "title": "「開示一本化・監査一元化」ページを開設しました！",
       "url": "https://jicpa.or.jp/news/information/2026/20260527jcf.html",
@@ -14063,7 +14094,19 @@
     ],
     "429M60000002007": [
       {
-        "title": "クラリティ法案の審議入りならず、ビットコインは一時5%超安",
+        "title": "暗号資産のウォール街進出に逆風－クラリティー法案が上院で頓挫",
+        "url": "https://news.yahoo.co.jp/articles/519c1e5f45d5498a5f304f9340fa67ca14d18e11",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "情報ＢＯＸ：ＡＩ開発減速論の背景、「再帰的自己改善」から警告への疑念まで",
+        "url": "https://news.yahoo.co.jp/articles/7bf1d576fef286bcf623664c12b7d2442f009997",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラリティ法案の審議入りならず、ビットコインは一時7.5万ドル割れ",
         "url": "https://news.yahoo.co.jp/articles/b0f0736a835a89ba151be5365f7d3a1a1cf4078a",
         "source": "Yahoo",
         "date": ""
@@ -14083,25 +14126,25 @@
       {
         "title": "ウォーレン議員、暗号資産法制化に意欲──クラリティ法案には反対",
         "url": "https://news.yahoo.co.jp/articles/c4ac5b5a1ae7c93d1d779de7c9725a9a750a51bb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン急落、米暗号資産関連法案が上院で頓挫－関連株も下げ",
-        "url": "https://news.yahoo.co.jp/articles/8e86631808e86cda168c4e60ffdcb63aeaf394b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米上院、暗号資産法案審議入りを否決 業界と共和党に打撃",
-        "url": "https://news.yahoo.co.jp/articles/fd948aab015ad731a4edc73b495d2d0ce328cdc0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
-        "title": "クラリティ法案の審議入りならず、ビットコインは一時5%超安",
+        "title": "暗号資産のウォール街進出に逆風－クラリティー法案が上院で頓挫",
+        "url": "https://news.yahoo.co.jp/articles/519c1e5f45d5498a5f304f9340fa67ca14d18e11",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "情報ＢＯＸ：ＡＩ開発減速論の背景、「再帰的自己改善」から警告への疑念まで",
+        "url": "https://news.yahoo.co.jp/articles/7bf1d576fef286bcf623664c12b7d2442f009997",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラリティ法案の審議入りならず、ビットコインは一時7.5万ドル割れ",
         "url": "https://news.yahoo.co.jp/articles/b0f0736a835a89ba151be5365f7d3a1a1cf4078a",
         "source": "Yahoo",
         "date": ""
@@ -14121,18 +14164,6 @@
       {
         "title": "ウォーレン議員、暗号資産法制化に意欲──クラリティ法案には反対",
         "url": "https://news.yahoo.co.jp/articles/c4ac5b5a1ae7c93d1d779de7c9725a9a750a51bb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン急落、米暗号資産関連法案が上院で頓挫－関連株も下げ",
-        "url": "https://news.yahoo.co.jp/articles/8e86631808e86cda168c4e60ffdcb63aeaf394b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米上院、暗号資産法案審議入りを否決 業界と共和党に打撃",
-        "url": "https://news.yahoo.co.jp/articles/fd948aab015ad731a4edc73b495d2d0ce328cdc0",
         "source": "Yahoo",
         "date": ""
       }
@@ -14291,7 +14322,13 @@
     ],
     "505M60000002048": [
       {
-        "title": "クラリティ法案の審議入りならず、ビットコインは一時5%超安",
+        "title": "暗号資産のウォール街進出に逆風－クラリティー法案が上院で頓挫",
+        "url": "https://news.yahoo.co.jp/articles/519c1e5f45d5498a5f304f9340fa67ca14d18e11",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラリティ法案の審議入りならず、ビットコインは一時7.5万ドル割れ",
         "url": "https://news.yahoo.co.jp/articles/b0f0736a835a89ba151be5365f7d3a1a1cf4078a",
         "source": "Yahoo",
         "date": ""
@@ -14317,19 +14354,19 @@
       {
         "title": "なぜMUFGやメルカリ、Revolutは「みんなの銀行」を選ぶ？答えは“3つの売り方”",
         "url": "https://news.yahoo.co.jp/articles/2c2907d9ceb120cfede98cca11e6c7e6540ac041",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米上院、暗号資産法案審議入りを否決 業界と共和党に打撃",
-        "url": "https://news.yahoo.co.jp/articles/fd948aab015ad731a4edc73b495d2d0ce328cdc0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "クラリティ法案の審議入りならず、ビットコインは一時5%超安",
+        "title": "暗号資産のウォール街進出に逆風－クラリティー法案が上院で頓挫",
+        "url": "https://news.yahoo.co.jp/articles/519c1e5f45d5498a5f304f9340fa67ca14d18e11",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラリティ法案の審議入りならず、ビットコインは一時7.5万ドル割れ",
         "url": "https://news.yahoo.co.jp/articles/b0f0736a835a89ba151be5365f7d3a1a1cf4078a",
         "source": "Yahoo",
         "date": ""
@@ -14355,12 +14392,6 @@
       {
         "title": "なぜMUFGやメルカリ、Revolutは「みんなの銀行」を選ぶ？答えは“3つの売り方”",
         "url": "https://news.yahoo.co.jp/articles/2c2907d9ceb120cfede98cca11e6c7e6540ac041",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米上院、暗号資産法案審議入りを否決 業界と共和党に打撃",
-        "url": "https://news.yahoo.co.jp/articles/fd948aab015ad731a4edc73b495d2d0ce328cdc0",
         "source": "Yahoo",
         "date": ""
       }
