@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-15T23:20:14.900Z",
+  "generatedAt": "2026-09-16T00:46:16.719Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]MKS PAMP社の貴金属の倉荷証券発行に係る認定業者への認定",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20260916-01.html",
+      "date": "2026-09-16",
+      "detectedAt": "2026-09-16T00:46:16.719Z",
+      "enriched": "2026-09-16T00:46:23.181Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大阪取引所はMKS PAMP社を2026年9月16日付で、貴金属の倉荷証券発行に係る認定業者として正式認定し、同取引所の認定業者数は3社となった。",
+        "認定業者は豊トラスティ証券株式会社を通じて貴金属の受渡決済に必要な倉荷証券の発行が可能となり、市場参加者は多様かつ柔軟な取引が実現できる。",
+        "大阪取引所は本年5月に貴金属市場の認定業者制度見直しを実施し、国内外の当業者・投資家参加を拡大する市場機能向上に取り組んでいる。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）の開催",
@@ -14018,6 +14033,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "クラリティ法案が米上院で否決、ビットコインやイーサリアムなど主要暗号資産が下落 クラリティ法案は政府による暗号資産への監視を強化する内容であるものの、多くの暗号資産関連企業は、これによって合法性と規制の境界線が明確になるとしてこ",
+        "url": "https://news.yahoo.co.jp/articles/9492f612965df37e2a8106ebaa7e992b049b94cd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコインの成長はドルの優位性と米国債需要を高める＝英中銀FPC委員",
+        "url": "https://news.yahoo.co.jp/articles/16d090e15caad3548b59da350f9bd9308d7c6baf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ウォーレン議員、暗号資産法制化に意欲──クラリティ法案には反対",
         "url": "https://news.yahoo.co.jp/articles/c4ac5b5a1ae7c93d1d779de7c9725a9a750a51bb",
         "source": "Yahoo",
@@ -14030,32 +14057,32 @@
         "date": ""
       },
       {
+        "title": "米上院、暗号資産法案審議入りを否決 業界と共和党に打撃",
+        "url": "https://news.yahoo.co.jp/articles/fd948aab015ad731a4edc73b495d2d0ce328cdc0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案、上院で審議入りならず",
         "url": "https://news.yahoo.co.jp/articles/2315c6316d4148f45e3c07cebdabdbf153286e57",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "新経連、暗号資産税制「一律20％」を個人間取引にも要求",
-        "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「ビットコインと半導体は共倒れする」──アンソロピックのAI減速提言巡り、ビットコインジャパンCEOが警鐘【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/277eafff6a39157717e00ed5be78f77acc0128de",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】自民議連、予測市場を検討テーマに──賭博法との整理焦点に",
-        "url": "https://news.yahoo.co.jp/articles/2f2936845c1900a8fe831cad0874bdb3a58e1152",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "クラリティ法案が米上院で否決、ビットコインやイーサリアムなど主要暗号資産が下落 クラリティ法案は政府による暗号資産への監視を強化する内容であるものの、多くの暗号資産関連企業は、これによって合法性と規制の境界線が明確になるとしてこ",
+        "url": "https://news.yahoo.co.jp/articles/9492f612965df37e2a8106ebaa7e992b049b94cd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコインの成長はドルの優位性と米国債需要を高める＝英中銀FPC委員",
+        "url": "https://news.yahoo.co.jp/articles/16d090e15caad3548b59da350f9bd9308d7c6baf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ウォーレン議員、暗号資産法制化に意欲──クラリティ法案には反対",
         "url": "https://news.yahoo.co.jp/articles/c4ac5b5a1ae7c93d1d779de7c9725a9a750a51bb",
         "source": "Yahoo",
@@ -14068,26 +14095,14 @@
         "date": ""
       },
       {
+        "title": "米上院、暗号資産法案審議入りを否決 業界と共和党に打撃",
+        "url": "https://news.yahoo.co.jp/articles/fd948aab015ad731a4edc73b495d2d0ce328cdc0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案、上院で審議入りならず",
         "url": "https://news.yahoo.co.jp/articles/2315c6316d4148f45e3c07cebdabdbf153286e57",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "新経連、暗号資産税制「一律20％」を個人間取引にも要求",
-        "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「ビットコインと半導体は共倒れする」──アンソロピックのAI減速提言巡り、ビットコインジャパンCEOが警鐘【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/277eafff6a39157717e00ed5be78f77acc0128de",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】自民議連、予測市場を検討テーマに──賭博法との整理焦点に",
-        "url": "https://news.yahoo.co.jp/articles/2f2936845c1900a8fe831cad0874bdb3a58e1152",
         "source": "Yahoo",
         "date": ""
       }
@@ -14246,6 +14261,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "クラリティ法案が米上院で否決、ビットコインやイーサリアムなど主要暗号資産が下落",
+        "url": "https://news.yahoo.co.jp/articles/9492f612965df37e2a8106ebaa7e992b049b94cd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコインの成長はドルの優位性と米国債需要を高める＝英中銀FPC委員",
+        "url": "https://news.yahoo.co.jp/articles/16d090e15caad3548b59da350f9bd9308d7c6baf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米下院委、暗号資産税制法案を公表──16日に修正・採決",
         "url": "https://news.yahoo.co.jp/articles/5336beaf49561fc11c8c2d78473ff5f164ccd42c",
         "source": "Yahoo",
@@ -14266,24 +14293,24 @@
       {
         "title": "暗号資産「20％分離課税」で何が変わるのか──BCCC税制部会で議論した、DeFiとステーブルコインに残る課題【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/27c8745b6f928eaec0372e915f429acf3475693f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、行政方針に「オンチェーン金融の社会実装」を明記",
-        "url": "https://news.yahoo.co.jp/articles/f99b6764736f38b214cdf9a33d41fc7fcdd15a75",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産税制、「一件落着」ではない──業界団体BCCCの税制部会が始動",
-        "url": "https://news.yahoo.co.jp/articles/6d122a5ec777da0245d6b34cc170b2f47ac6062c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "クラリティ法案が米上院で否決、ビットコインやイーサリアムなど主要暗号資産が下落",
+        "url": "https://news.yahoo.co.jp/articles/9492f612965df37e2a8106ebaa7e992b049b94cd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコインの成長はドルの優位性と米国債需要を高める＝英中銀FPC委員",
+        "url": "https://news.yahoo.co.jp/articles/16d090e15caad3548b59da350f9bd9308d7c6baf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米下院委、暗号資産税制法案を公表──16日に修正・採決",
         "url": "https://news.yahoo.co.jp/articles/5336beaf49561fc11c8c2d78473ff5f164ccd42c",
         "source": "Yahoo",
@@ -14304,18 +14331,6 @@
       {
         "title": "暗号資産「20％分離課税」で何が変わるのか──BCCC税制部会で議論した、DeFiとステーブルコインに残る課題【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/27c8745b6f928eaec0372e915f429acf3475693f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、行政方針に「オンチェーン金融の社会実装」を明記",
-        "url": "https://news.yahoo.co.jp/articles/f99b6764736f38b214cdf9a33d41fc7fcdd15a75",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産税制、「一件落着」ではない──業界団体BCCCの税制部会が始動",
-        "url": "https://news.yahoo.co.jp/articles/6d122a5ec777da0245d6b34cc170b2f47ac6062c",
         "source": "Yahoo",
         "date": ""
       }
@@ -15036,6 +15051,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "【独自第7弾】陸自部隊の個人情報収集は「違法」 部隊関係者が新たな公益通報 「身分隠して収集は個人情報保護法違反」",
+        "url": "https://news.yahoo.co.jp/articles/23c364d824d5361f2ff3b3f658751193ac8f8190",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アンソロピック、中国系AIラボ7社の「Claude」不正利用を指摘。人民解放軍関連の入力も転送か",
         "url": "https://news.yahoo.co.jp/articles/a13ca2e207232b590285a3f4be6cf28748b50da9",
         "source": "Yahoo",
@@ -15062,18 +15083,18 @@
       {
         "title": "1:25個人情報記入された「空き家バンク」書類を無断でコピー、第三者に渡したとして長野・麻績村職員2人を書類送検",
         "url": "https://news.yahoo.co.jp/articles/1f255da3dc75f688a94981c434c537230dd66ebd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:10麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
-        "url": "https://news.yahoo.co.jp/articles/108e006f843dd714ddb14ab1b1168db2ae789a19",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "【独自第7弾】陸自部隊の個人情報収集は「違法」 部隊関係者が新たな公益通報 「身分隠して収集は個人情報保護法違反」",
+        "url": "https://news.yahoo.co.jp/articles/23c364d824d5361f2ff3b3f658751193ac8f8190",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アンソロピック、中国系AIラボ7社の「Claude」不正利用を指摘。人民解放軍関連の入力も転送か",
         "url": "https://news.yahoo.co.jp/articles/a13ca2e207232b590285a3f4be6cf28748b50da9",
         "source": "Yahoo",
@@ -15100,18 +15121,18 @@
       {
         "title": "1:25個人情報記入された「空き家バンク」書類を無断でコピー、第三者に渡したとして長野・麻績村職員2人を書類送検",
         "url": "https://news.yahoo.co.jp/articles/1f255da3dc75f688a94981c434c537230dd66ebd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:10麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
-        "url": "https://news.yahoo.co.jp/articles/108e006f843dd714ddb14ab1b1168db2ae789a19",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "【独自第7弾】陸自部隊の個人情報収集は「違法」 部隊関係者が新たな公益通報 「身分隠して収集は個人情報保護法違反」",
+        "url": "https://news.yahoo.co.jp/articles/23c364d824d5361f2ff3b3f658751193ac8f8190",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アンソロピック、中国系AIラボ7社の「Claude」不正利用を指摘。人民解放軍関連の入力も転送か",
         "url": "https://news.yahoo.co.jp/articles/a13ca2e207232b590285a3f4be6cf28748b50da9",
         "source": "Yahoo",
@@ -15138,12 +15159,6 @@
       {
         "title": "1:25個人情報記入された「空き家バンク」書類を無断でコピー、第三者に渡したとして長野・麻績村職員2人を書類送検",
         "url": "https://news.yahoo.co.jp/articles/1f255da3dc75f688a94981c434c537230dd66ebd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:10麻績村職員2人を書類送検 空き家バンクの登録申込書をコピーして第三者に渡し疑い 「コンプライアンスの意識が欠けていた」 司法の判断を踏まえて処分検討へ【長野】",
-        "url": "https://news.yahoo.co.jp/articles/108e006f843dd714ddb14ab1b1168db2ae789a19",
         "source": "Yahoo",
         "date": ""
       }
