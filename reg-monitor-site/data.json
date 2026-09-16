@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-16T02:20:44.321Z",
+  "generatedAt": "2026-09-16T04:06:04.804Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）Skyfall",
+      "url": "https://www.jpx.co.jp/news/1031/20260916_01.html",
+      "date": "2026-09-16",
+      "detectedAt": "2026-09-16T04:06:04.804Z",
+      "enriched": "2026-09-16T04:06:10.947Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）Skyfall（コード625A）の2026年9月17日上場において、初値決定前の気配は板中心値段1,500円から開始し、上限3,450円（更新値幅75円・10分間隔）・下限1,125円（通常更新値幅・3分間隔）で運用される。",
+        "取引参加者は新規上場日の売買において成行呼値を禁止され、375円以上6,000円以下の価格範囲内で指値注文のみを発注する必要がある。",
+        "初値決定までは制限値幅が適用されず、初値決定後に当該初値を基準値段として呼値の制限値幅が適用される（東証規則）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "キャピタル・パートナーズ証券株式会社及びmoomoo証券株式会社に対する処分について",
+      "url": "https://www.jsda.or.jp/kyoukaiin/syobun/kyokaiin/index.html",
+      "date": "2026-09-16",
+      "detectedAt": "2026-09-16T04:06:04.804Z",
+      "enriched": "2026-09-16T04:06:10.947Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会がキャピタル・パートナーズ証券株式会社及びmoomoo証券株式会社に対して、法令等違反に基づき定款第28条第1項及び第29条に基づく処分及び勧告を実施した。",
+        "両社は法令違反の事実が認定されたため、協会による処分と勧告の対象となり、具体内容は協会による公表対象となる。",
+        "2026年9月16日付で日本証券業協会の定款第28条第1項及び第29条の規定に基づく処分及び勧告が行われた。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[OSE]MKS PAMP社の貴金属の倉荷証券発行に係る認定業者への認定",
@@ -14033,6 +14063,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "クラリティ法案の審議入りならず、ビットコインは一時5%超安",
+        "url": "https://news.yahoo.co.jp/articles/b0f0736a835a89ba151be5365f7d3a1a1cf4078a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案が米上院で否決、ビットコインやイーサリアムなど主要暗号資産が下落 クラリティ法案は政府による暗号資産への監視を強化する内容であるものの、多くの暗号資産関連企業は、これによって合法性と規制の境界線が明確になるとしてこ",
         "url": "https://news.yahoo.co.jp/articles/9492f612965df37e2a8106ebaa7e992b049b94cd",
         "source": "Yahoo",
@@ -14059,18 +14095,18 @@
       {
         "title": "米上院、暗号資産法案審議入りを否決 業界と共和党に打撃",
         "url": "https://news.yahoo.co.jp/articles/fd948aab015ad731a4edc73b495d2d0ce328cdc0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案、上院で審議入りならず",
-        "url": "https://news.yahoo.co.jp/articles/2315c6316d4148f45e3c07cebdabdbf153286e57",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "クラリティ法案の審議入りならず、ビットコインは一時5%超安",
+        "url": "https://news.yahoo.co.jp/articles/b0f0736a835a89ba151be5365f7d3a1a1cf4078a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案が米上院で否決、ビットコインやイーサリアムなど主要暗号資産が下落 クラリティ法案は政府による暗号資産への監視を強化する内容であるものの、多くの暗号資産関連企業は、これによって合法性と規制の境界線が明確になるとしてこ",
         "url": "https://news.yahoo.co.jp/articles/9492f612965df37e2a8106ebaa7e992b049b94cd",
         "source": "Yahoo",
@@ -14097,12 +14133,6 @@
       {
         "title": "米上院、暗号資産法案審議入りを否決 業界と共和党に打撃",
         "url": "https://news.yahoo.co.jp/articles/fd948aab015ad731a4edc73b495d2d0ce328cdc0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案、上院で審議入りならず",
-        "url": "https://news.yahoo.co.jp/articles/2315c6316d4148f45e3c07cebdabdbf153286e57",
         "source": "Yahoo",
         "date": ""
       }
@@ -14261,6 +14291,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "クラリティ法案の審議入りならず、ビットコインは一時5%超安",
+        "url": "https://news.yahoo.co.jp/articles/b0f0736a835a89ba151be5365f7d3a1a1cf4078a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案が米上院で否決、ビットコインやイーサリアムなど主要暗号資産が下落",
         "url": "https://news.yahoo.co.jp/articles/9492f612965df37e2a8106ebaa7e992b049b94cd",
         "source": "Yahoo",
@@ -14287,18 +14323,18 @@
       {
         "title": "米上院、暗号資産法案審議入りを否決 業界と共和党に打撃",
         "url": "https://news.yahoo.co.jp/articles/fd948aab015ad731a4edc73b495d2d0ce328cdc0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産「20％分離課税」で何が変わるのか──BCCC税制部会で議論した、DeFiとステーブルコインに残る課題【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/27c8745b6f928eaec0372e915f429acf3475693f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "クラリティ法案の審議入りならず、ビットコインは一時5%超安",
+        "url": "https://news.yahoo.co.jp/articles/b0f0736a835a89ba151be5365f7d3a1a1cf4078a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案が米上院で否決、ビットコインやイーサリアムなど主要暗号資産が下落",
         "url": "https://news.yahoo.co.jp/articles/9492f612965df37e2a8106ebaa7e992b049b94cd",
         "source": "Yahoo",
@@ -14325,12 +14361,6 @@
       {
         "title": "米上院、暗号資産法案審議入りを否決 業界と共和党に打撃",
         "url": "https://news.yahoo.co.jp/articles/fd948aab015ad731a4edc73b495d2d0ce328cdc0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産「20％分離課税」で何が変わるのか──BCCC税制部会で議論した、DeFiとステーブルコインに残る課題【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/27c8745b6f928eaec0372e915f429acf3475693f",
         "source": "Yahoo",
         "date": ""
       }
