@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-09-16T08:22:07.859Z",
+  "generatedAt": "2026-09-16T10:07:26.786Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令の公布及びパブリックコメントの結果等の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260916/20260916.html",
+      "date": "2026-09-16",
+      "detectedAt": "2026-09-16T10:07:26.786Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": "第1条",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第1条"
+        }
+      ],
+      "enriched": "2026-09-16T10:07:35.210Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和５年金融商品取引法等改正及び社債株式等振替法改正に係る内閣府令が公布され、金融商品取引法第六章の二課徴金及び公認会計士法課徴金に関する審判手続のデジタル化を規定する。",
+        "金融商品取引業者等の課徴金納付命令に係る審判手続において、電子書類の提出やオンライン審問（ウェブ会議）が可能となり、審判廷への出頭に代えて実施できる場合がある。",
+        "本内閣府令は令和８年11月30日から施行され、金融商品取引法及び公認会計士法の課徴金審判手続に適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「金融商品取引業者等向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等の公表",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20260916/20260916.html",
+      "date": "2026-09-16",
+      "detectedAt": "2026-09-16T10:07:26.786Z",
+      "lawrefs": [
+        {
+          "id": "fsa-kantoku-kinsho",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "金融商品取引業者等向けの総合的な監督指針"
+        }
+      ],
+      "enriched": "2026-09-16T10:07:35.691Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "IOSCO（証券監督者国際機構）の2025年5月公表の集団投資スキーム流動性リスク管理勧告を踏まえ、投資信託委託会社に流動性管理の新基準を追加。",
+        "投資信託委託会社は、保有資産の流動性に応じた解約条件設定、変動型信託財産留保額導入など、公募投資信託の流動性管理措置を講じることが必要。",
+        "改正後の監督指針は令和9年（2027年）10月1日から適用。金融商品取引業者等向けの総合的な監督指針Ⅵ－２－３－１（１）⑫として新設。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "PSJ予測統計値",
@@ -14486,6 +14532,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "アフリカ最大級IPO、ソラナ上のステーブルコインで申込可能に",
+        "url": "https://news.yahoo.co.jp/articles/d98c54ba4ea22bc384155eac5e7d6381c471fb29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブラックロック、香港でトークン化ファンド認可取得。APACでトークン化商品初展開",
         "url": "https://news.yahoo.co.jp/articles/94a8d3ba93fb7aa09574479d7639c635a7df022c",
         "source": "Yahoo",
@@ -14512,18 +14564,18 @@
       {
         "title": "暗号資産のウォール街進出に逆風－クラリティー法案が上院で頓挫",
         "url": "https://news.yahoo.co.jp/articles/519c1e5f45d5498a5f304f9340fa67ca14d18e11",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案の審議入りならず、ビットコインは一時7.5万ドル割れ",
-        "url": "https://news.yahoo.co.jp/articles/b0f0736a835a89ba151be5365f7d3a1a1cf4078a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "アフリカ最大級IPO、ソラナ上のステーブルコインで申込可能に",
+        "url": "https://news.yahoo.co.jp/articles/d98c54ba4ea22bc384155eac5e7d6381c471fb29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブラックロック、香港でトークン化ファンド認可取得。APACでトークン化商品初展開",
         "url": "https://news.yahoo.co.jp/articles/94a8d3ba93fb7aa09574479d7639c635a7df022c",
         "source": "Yahoo",
@@ -14550,12 +14602,6 @@
       {
         "title": "暗号資産のウォール街進出に逆風－クラリティー法案が上院で頓挫",
         "url": "https://news.yahoo.co.jp/articles/519c1e5f45d5498a5f304f9340fa67ca14d18e11",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案の審議入りならず、ビットコインは一時7.5万ドル割れ",
-        "url": "https://news.yahoo.co.jp/articles/b0f0736a835a89ba151be5365f7d3a1a1cf4078a",
         "source": "Yahoo",
         "date": ""
       }
@@ -14776,14 +14822,14 @@
         "date": ""
       },
       {
-        "title": "LINEとPayPay、アカウント連携を延期 外部流出を問題視",
-        "url": "https://news.yahoo.co.jp/articles/e0d79288ddfbd4aca684fa17b2d292cbf7c996cc",
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「クレカが作れない",
-        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
@@ -14814,14 +14860,14 @@
         "date": ""
       },
       {
-        "title": "LINEとPayPay、アカウント連携を延期 外部流出を問題視",
-        "url": "https://news.yahoo.co.jp/articles/e0d79288ddfbd4aca684fa17b2d292cbf7c996cc",
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「クレカが作れない",
-        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
@@ -14852,14 +14898,14 @@
         "date": ""
       },
       {
-        "title": "LINEとPayPay、アカウント連携を延期 外部流出を問題視",
-        "url": "https://news.yahoo.co.jp/articles/e0d79288ddfbd4aca684fa17b2d292cbf7c996cc",
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「クレカが作れない",
-        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
