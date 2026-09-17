@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:15:55.510Z",
+  "generatedAt": "2026-09-17T12:06:43.534Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13743,7 +13743,13 @@
       "date": "2026-05-07",
       "detectedAt": "2026-06-15T04:55:51.471Z",
       "enriched": "2026-06-19T06:03:08.302Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が取得できないため、具体的な内容抽出ができません。日本証券業協会に直接確認いただくか、別途公表資料をご確認ください。",
+        "タイトルから推測される変更事項は、金融商品取引業者の本協会加入要件または手続に関する改正の可能性があります。",
+        "詳細な対応内容・施行日・対象者の特定には、原資料の本文確認が必須です。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "金融庁",
@@ -14459,6 +14465,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "金融庁、暗号資産交換業者の「販売所」誘導を懸念",
+        "url": "https://news.yahoo.co.jp/articles/69da5bfd4853ff494eb27bcdf6ea885a86c555ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サーティックとキルギス中央銀行がMOU。CBDC「デジタルソム」で協力へ",
         "url": "https://news.yahoo.co.jp/articles/38769b2cd6bcc7cc0b61cdfb4e86ffd55e8ef025",
         "source": "Yahoo",
@@ -14485,18 +14497,18 @@
       {
         "title": "ビットコイン、Clarity否決・FRB利上げでも下げ渋る【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/dba90f3a22a2e618535e4bb358ea720fe3c322e7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "上院での投票によりCLARITY法案の審議が阻まれ、ビットコインが7万5000ドルに下落 ──そして、迎えたFOMCの日【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/9bc004a6ef9f7a9b0c81552e6c4c6de3b72ece63",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "金融庁、暗号資産交換業者の「販売所」誘導を懸念",
+        "url": "https://news.yahoo.co.jp/articles/69da5bfd4853ff494eb27bcdf6ea885a86c555ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サーティックとキルギス中央銀行がMOU。CBDC「デジタルソム」で協力へ",
         "url": "https://news.yahoo.co.jp/articles/38769b2cd6bcc7cc0b61cdfb4e86ffd55e8ef025",
         "source": "Yahoo",
@@ -14523,12 +14535,6 @@
       {
         "title": "ビットコイン、Clarity否決・FRB利上げでも下げ渋る【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/dba90f3a22a2e618535e4bb358ea720fe3c322e7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "上院での投票によりCLARITY法案の審議が阻まれ、ビットコインが7万5000ドルに下落 ──そして、迎えたFOMCの日【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/9bc004a6ef9f7a9b0c81552e6c4c6de3b72ece63",
         "source": "Yahoo",
         "date": ""
       }
@@ -15069,6 +15075,12 @@
     "416CO0000000427": [],
     "412AC0000000101": [
       {
+        "title": "金融庁、暗号資産交換業者の「販売所」誘導を懸念",
+        "url": "https://news.yahoo.co.jp/articles/69da5bfd4853ff494eb27bcdf6ea885a86c555ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "外国株を売りつけろ、過剰ノルマが招いた某証券の末路",
         "url": "https://news.yahoo.co.jp/articles/13733e17daee481b41bb334f1a7bd7e6b2556d37",
         "source": "Yahoo",
@@ -15082,6 +15094,12 @@
       }
     ],
     "412CO0000000484": [
+      {
+        "title": "金融庁、暗号資産交換業者の「販売所」誘導を懸念",
+        "url": "https://news.yahoo.co.jp/articles/69da5bfd4853ff494eb27bcdf6ea885a86c555ea",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "外国株を売りつけろ、過剰ノルマが招いた某証券の末路",
         "url": "https://news.yahoo.co.jp/articles/13733e17daee481b41bb334f1a7bd7e6b2556d37",
