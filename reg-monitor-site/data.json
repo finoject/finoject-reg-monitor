@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-17T22:04:20.959Z",
+  "generatedAt": "2026-09-17T23:04:27.977Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]メディシノバ・インク 株式（コード4875）の基準値段の変更について",
+      "url": "https://www.jpx.co.jp/news/1030/20260918-01.html",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-17T23:04:27.977Z",
+      "enriched": "2026-09-17T23:04:32.950Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "メディシノバ・インク（コード4875）の基準値段を538円に変更。前日設定値と本国市場の当日立会開始前の値段が大幅に乖離したため、本日付で変更。",
+        "当該銘柄について、本日中の成行注文を禁止。基準値段変更日は成行呼値禁止の取扱い。",
+        "2015年4月20日以降、同銘柄を重複上場外国銘柄と同様に取扱い、過去6か月間の値付日数を勘案して基準値段採用市場を指定。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "公開買付け等に係る株式発行者役員からの情報受領者による（株）グッドスピード株式に係る内部者取引に対する課徴金納付命令の決定",
@@ -14401,6 +14416,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "WisdomTree、トークン化ファンドでMoonPayと提携──米国投資家へのアクセス拡大",
+        "url": "https://news.yahoo.co.jp/articles/7a44c15ce4b60107c5e625ae136bdaecb8b444d3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
         "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
         "source": "Yahoo",
@@ -14427,18 +14448,18 @@
       {
         "title": "新経連、暗号資産税制「一律20％」を個人間取引にも要求",
         "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "実家を片付けていたら、昔もらった未使用の「商品券」が何枚も出てきました。何十年も前のものでも、額面どおり使えるのでしょうか？",
-        "url": "https://news.yahoo.co.jp/articles/ca24de298060f0a5df3340a94c93ed334d1ee3a8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "WisdomTree、トークン化ファンドでMoonPayと提携──米国投資家へのアクセス拡大",
+        "url": "https://news.yahoo.co.jp/articles/7a44c15ce4b60107c5e625ae136bdaecb8b444d3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
         "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
         "source": "Yahoo",
@@ -14467,15 +14488,15 @@
         "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "実家を片付けていたら、昔もらった未使用の「商品券」が何枚も出てきました。何十年も前のものでも、額面どおり使えるのでしょうか？",
-        "url": "https://news.yahoo.co.jp/articles/ca24de298060f0a5df3340a94c93ed334d1ee3a8",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "ＮＹ市場サマリー（17日）10年債利回り4.9％台に低下、ドル下落 株上昇",
+        "url": "https://news.yahoo.co.jp/articles/eca8dbe1a1303e4ecd82948c46182822fcf6ed16",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
@@ -14503,18 +14524,18 @@
       {
         "title": "サーティックとキルギス中央銀行がMOU。CBDC「デジタルソム」で協力へ",
         "url": "https://news.yahoo.co.jp/articles/38769b2cd6bcc7cc0b61cdfb4e86ffd55e8ef025",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラーケン親会社、ハイパーリキッド上で米国向け無期限先物提供へ",
-        "url": "https://news.yahoo.co.jp/articles/fd70e992514c91c93620215d312dece7c8c79844",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ＮＹ市場サマリー（17日）10年債利回り4.9％台に低下、ドル下落 株上昇",
+        "url": "https://news.yahoo.co.jp/articles/eca8dbe1a1303e4ecd82948c46182822fcf6ed16",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
         "source": "Yahoo",
@@ -14541,12 +14562,6 @@
       {
         "title": "サーティックとキルギス中央銀行がMOU。CBDC「デジタルソム」で協力へ",
         "url": "https://news.yahoo.co.jp/articles/38769b2cd6bcc7cc0b61cdfb4e86ffd55e8ef025",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラーケン親会社、ハイパーリキッド上で米国向け無期限先物提供へ",
-        "url": "https://news.yahoo.co.jp/articles/fd70e992514c91c93620215d312dece7c8c79844",
         "source": "Yahoo",
         "date": ""
       }
@@ -14705,6 +14720,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "WisdomTree、トークン化ファンドでMoonPayと提携──米国投資家へのアクセス拡大",
+        "url": "https://news.yahoo.co.jp/articles/7a44c15ce4b60107c5e625ae136bdaecb8b444d3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
         "source": "Yahoo",
@@ -14731,18 +14752,18 @@
       {
         "title": "SBIと韓国教保生命、カントンで日韓送金を実証。ステーブルコイン活用へ",
         "url": "https://news.yahoo.co.jp/articles/96f7fa187fe3bccc8bb14ae28d6650cff8ffbb24",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、韓国・教保生命と円・ウォンのステーブルコイン直接交換を実証",
-        "url": "https://news.yahoo.co.jp/articles/720a4bd360f7df432ec969ae082d4b27f9a3f781",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "WisdomTree、トークン化ファンドでMoonPayと提携──米国投資家へのアクセス拡大",
+        "url": "https://news.yahoo.co.jp/articles/7a44c15ce4b60107c5e625ae136bdaecb8b444d3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
         "source": "Yahoo",
@@ -14769,12 +14790,6 @@
       {
         "title": "SBIと韓国教保生命、カントンで日韓送金を実証。ステーブルコイン活用へ",
         "url": "https://news.yahoo.co.jp/articles/96f7fa187fe3bccc8bb14ae28d6650cff8ffbb24",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、韓国・教保生命と円・ウォンのステーブルコイン直接交換を実証",
-        "url": "https://news.yahoo.co.jp/articles/720a4bd360f7df432ec969ae082d4b27f9a3f781",
         "source": "Yahoo",
         "date": ""
       }
