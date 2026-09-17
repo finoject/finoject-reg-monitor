@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-09-17T03:58:41.427Z",
+  "generatedAt": "2026-09-17T05:44:24.343Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：akippa（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20260917_04.html",
+      "date": "2026-09-17",
+      "detectedAt": "2026-09-17T05:44:24.343Z",
+      "enriched": "2026-09-17T05:44:29.671Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "akippa（株）（コード627A）は9月18日に東証に新規上場し、初値決定前の気配運用として板中心値段570円（公募・売出価格）から開始し、上限1,311円・下限428円の範囲で気配更新される。",
+        "気配更新は上限方向で29円・10分間隔、下限方向で通常値幅・3分間隔で行われ、取引参加者は143円以上2,280円以下の価格範囲での指値注文のみが可能で成行注文は禁止される。",
+        "初値決定までは制限値幅が適用されず、初値決定後は当該初値を基準値段として通常の制限値幅が適用されるため、初値決定日までの売買成立の有無により成行呼値禁止期間の扱いが変わる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）テクノクラフト",
+      "url": "https://www.jpx.co.jp/news/1031/20260917_02.html",
+      "date": "2026-09-17",
+      "detectedAt": "2026-09-17T05:44:24.343Z",
+      "enriched": "2026-09-17T05:44:29.671Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）テクノクラフト（コード622A）の新規上場日（9月18日）における初値決定前の気配運用は、板中心値段650円から開始し、上限1,495円（更新値幅33円・10分間隔）、下限488円（通常の更新値幅・3分間隔）で段階的に気配を更新する。",
+        "取引参加者は同日の売買において成行呼値を禁止され、163円以上2,600円以下の指値注文のみ受け付けられる。初値決定まで制限値幅は適用されず、初値決定後に初値を基準値段として制限値幅が適用される。",
+        "本気配運用は東証の新規上場日における標準的な初値決定プロセスであり、東京証券取引所株式部売買監理グループ（03-3666-0141）が適用・監督する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）ベルテックス",
+      "url": "https://www.jpx.co.jp/news/1031/20260917_03.html",
+      "date": "2026-09-17",
+      "detectedAt": "2026-09-17T05:44:24.343Z",
+      "enriched": "2026-09-17T05:44:29.671Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社ベルテックス（コード623A）の2026年9月18日上場につき、初値決定前の気配運用を特別に設定：板中心値段550円から上限1,265円まで28円刻み10分間隔、下限413円まで通常値幅3分間隔で気配更新する。",
+        "取引参加者は当該上場日の売買において成行買呼値・成行売呼値を一切禁止され、注文受付価格138円以上2,200円以下の範囲内で指値注文のみ発注する。",
+        "新規上場日に売買が成立しない場合、初値決定日まで成行呼値禁止が継続される（東証自主規制）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：応研（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20260917_01.html",
+      "date": "2026-09-17",
+      "detectedAt": "2026-09-17T05:44:24.343Z",
+      "enriched": "2026-09-17T05:44:29.671Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "応研（株）（コード620A）は9月18日に新規上場し、初値決定前の気配運用で板中心値段3,500円から開始、上限8,050円（更新値幅175円・10分間隔）、下限2,625円（通常値幅・3分間隔）で気配を更新。",
+        "取引参加者は初値決定まで成行呼値を禁止し、注文受付価格を875円以上14,000円以下の範囲内で行い、初値決定前は制限値幅を適用しない。",
+        "本気配運用は東京証券取引所の新規上場銘柄に関する初値決定メカニズムの一環で、初値決定後は当該初値を基準に通常の制限値幅が適用される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "資金循環統計（速報）（2026年第2四半期）",
@@ -14229,6 +14289,18 @@
     ],
     "421AC0000000059": [
       {
+        "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
+        "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
+        "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産「20％分離課税」で何が変わるのか──BCCC税制部会で議論した、DeFiとステーブルコインに残る課題【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/27c8745b6f928eaec0372e915f429acf3475693f",
         "source": "Yahoo",
@@ -14249,24 +14321,24 @@
       {
         "title": "実家を片付けていたら、昔もらった未使用の「商品券」が何枚も出てきました。何十年も前のものでも、額面どおり使えるのでしょうか？",
         "url": "https://news.yahoo.co.jp/articles/ca24de298060f0a5df3340a94c93ed334d1ee3a8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米CPIでビットコインはどう動くのか──プロ投資家の備えに学ぶ「予想しない投資術」【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/e1b018a3786694a42fe35054e6ca874912dc9988",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIの円ステーブルコイン「JPYSC」、裏付け資産10億円を国債で運用開始",
-        "url": "https://news.yahoo.co.jp/articles/828c490fd46d9f165bef65a8346f19f654b485f6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
+        "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
+        "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産「20％分離課税」で何が変わるのか──BCCC税制部会で議論した、DeFiとステーブルコインに残る課題【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/27c8745b6f928eaec0372e915f429acf3475693f",
         "source": "Yahoo",
@@ -14289,21 +14361,33 @@
         "url": "https://news.yahoo.co.jp/articles/ca24de298060f0a5df3340a94c93ed334d1ee3a8",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "米CPIでビットコインはどう動くのか──プロ投資家の備えに学ぶ「予想しない投資術」【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/e1b018a3786694a42fe35054e6ca874912dc9988",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIの円ステーブルコイン「JPYSC」、裏付け資産10億円を国債で運用開始",
-        "url": "https://news.yahoo.co.jp/articles/828c490fd46d9f165bef65a8346f19f654b485f6",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "英FCA、暗号資産新規制の適用範囲ガイダンス公表。認可申請は9/30開始",
+        "url": "https://news.yahoo.co.jp/articles/84f705b639232edc3595db4438fd0ca00917a35b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン、Clarity否決・FRB利上げでも下げ渋る【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/dba90f3a22a2e618535e4bb358ea720fe3c322e7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "上院での投票によりCLARITY法案の審議が阻まれ、ビットコインが7万5000ドルに下落 ──そして、迎えたFOMCの日【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/9bc004a6ef9f7a9b0c81552e6c4c6de3b72ece63",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコイン利回り規制、銀行融資への影響はわずか──米CEA試算",
+        "url": "https://news.yahoo.co.jp/articles/8c44782d38264f0ffed58de6ab0223aa18fd309d",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ロビンフッド株が5％下落、従業員2人が暗号資産取引の詐欺で起訴",
         "url": "https://news.yahoo.co.jp/articles/7586a301d08be3cbe6124de7baa27f44a3bc0713",
@@ -14313,36 +14397,36 @@
       {
         "title": "トランプ一家23億ドルの暗号資産議論で行き詰まる米国の「コインルールブック」（2）",
         "url": "https://news.yahoo.co.jp/articles/c2d21c27fa0d0d11fb115bb24a3438da9c8ec727",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法案停滞、SEC・CFTCが規則整備を本格化",
-        "url": "https://news.yahoo.co.jp/articles/63a3b8dd3a714ee28708eba07e07db9cefcd19cc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPMorgan、クラリティ法案の再採決に余地＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/fc34d4ab20dac71f0628e10c2432dfed954a17b1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産保有者、過去最多の7.4億人＝H&Pクリプトレポート 同社は発表資料で、暗号資産は国境を越えて移動できても、保有者は各国の税制や法規制から自由ではないと指摘した。そのため、暗号資産を保有する富裕層にとっ",
-        "url": "https://news.yahoo.co.jp/articles/d0335f36f22659d304ebdffe623d913d95210de1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産のウォール街進出に逆風－クラリティー法案が上院で頓挫",
-        "url": "https://news.yahoo.co.jp/articles/519c1e5f45d5498a5f304f9340fa67ca14d18e11",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "英FCA、暗号資産新規制の適用範囲ガイダンス公表。認可申請は9/30開始",
+        "url": "https://news.yahoo.co.jp/articles/84f705b639232edc3595db4438fd0ca00917a35b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン、Clarity否決・FRB利上げでも下げ渋る【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/dba90f3a22a2e618535e4bb358ea720fe3c322e7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "上院での投票によりCLARITY法案の審議が阻まれ、ビットコインが7万5000ドルに下落 ──そして、迎えたFOMCの日【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/9bc004a6ef9f7a9b0c81552e6c4c6de3b72ece63",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコイン利回り規制、銀行融資への影響はわずか──米CEA試算",
+        "url": "https://news.yahoo.co.jp/articles/8c44782d38264f0ffed58de6ab0223aa18fd309d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロビンフッド株が5％下落、従業員2人が暗号資産取引の詐欺で起訴",
         "url": "https://news.yahoo.co.jp/articles/7586a301d08be3cbe6124de7baa27f44a3bc0713",
         "source": "Yahoo",
@@ -14353,33 +14437,21 @@
         "url": "https://news.yahoo.co.jp/articles/c2d21c27fa0d0d11fb115bb24a3438da9c8ec727",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "クラリティ法案停滞、SEC・CFTCが規則整備を本格化",
-        "url": "https://news.yahoo.co.jp/articles/63a3b8dd3a714ee28708eba07e07db9cefcd19cc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPMorgan、クラリティ法案の再採決に余地＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/fc34d4ab20dac71f0628e10c2432dfed954a17b1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産保有者、過去最多の7.4億人＝H&Pクリプトレポート 同社は発表資料で、暗号資産は国境を越えて移動できても、保有者は各国の税制や法規制から自由ではないと指摘した。そのため、暗号資産を保有する富裕層にとっ",
-        "url": "https://news.yahoo.co.jp/articles/d0335f36f22659d304ebdffe623d913d95210de1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産のウォール街進出に逆風－クラリティー法案が上院で頓挫",
-        "url": "https://news.yahoo.co.jp/articles/519c1e5f45d5498a5f304f9340fa67ca14d18e11",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
+        "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
+        "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "金融庁、信託型ステーブルコインの法定調書「提出不要」要望。2027年度税制改正で",
         "url": "https://news.yahoo.co.jp/articles/241198fa15baecb8f7450dfc35a57f734f060754",
@@ -14401,24 +14473,24 @@
       {
         "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
         "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
-        "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
+        "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
+        "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、信託型ステーブルコインの法定調書「提出不要」要望。2027年度税制改正で",
         "url": "https://news.yahoo.co.jp/articles/241198fa15baecb8f7450dfc35a57f734f060754",
         "source": "Yahoo",
@@ -14439,18 +14511,6 @@
       {
         "title": "【SP.LINKSとの強みを結集し、国内トップクラスの決済プラットフォームへ】SBペイメントサービス 堀田智宣社長 インタビュー",
         "url": "https://news.yahoo.co.jp/articles/eedfd3a68a9e2ce90982a042137b8aef90983f94",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/eee071842cf0231d913e8238be867d0fb11d1dee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか",
-        "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
         "source": "Yahoo",
         "date": ""
       }
@@ -14533,76 +14593,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
+        "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英FCA、暗号資産新規制の適用範囲ガイダンス公表。認可申請は9/30開始",
+        "url": "https://news.yahoo.co.jp/articles/84f705b639232edc3595db4438fd0ca00917a35b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "上院での投票によりCLARITY法案の審議が阻まれ、ビットコインが7万5000ドルに下落 ──そして、迎えたFOMCの日【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/9bc004a6ef9f7a9b0c81552e6c4c6de3b72ece63",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコイン利回り規制、銀行融資への影響はわずか──米CEA試算",
+        "url": "https://news.yahoo.co.jp/articles/8c44782d38264f0ffed58de6ab0223aa18fd309d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
+        "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サークル、手数料USDC払いの新ブロックチェーン「Arc」稼働開始",
         "url": "https://news.yahoo.co.jp/articles/3dd5e8063e772db71cab5a3ef5a6ac2ccb9e9cbd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークルのL1チェーン「Arc」、メインネット一般公開。100億ARCもミント",
-        "url": "https://news.yahoo.co.jp/articles/0a76afb43694524e11f90bc1d7d7c1905b787bf8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【香港】ＰｗＣ、トークン化マネー普及で碇点と提携",
-        "url": "https://news.yahoo.co.jp/articles/84de70002d7c80c007cd72776998831123701167",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ一家23億ドルの暗号資産議論で行き詰まる米国の「コインルールブック」（2）",
-        "url": "https://news.yahoo.co.jp/articles/c2d21c27fa0d0d11fb115bb24a3438da9c8ec727",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPMorgan、クラリティ法案の再採決に余地＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/fc34d4ab20dac71f0628e10c2432dfed954a17b1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラーケン、トークン化株式で利回り獲得の新機能導入",
-        "url": "https://news.yahoo.co.jp/articles/c1119dd7341566c1ae56b766292de924edb081a1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
+        "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "英FCA、暗号資産新規制の適用範囲ガイダンス公表。認可申請は9/30開始",
+        "url": "https://news.yahoo.co.jp/articles/84f705b639232edc3595db4438fd0ca00917a35b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "上院での投票によりCLARITY法案の審議が阻まれ、ビットコインが7万5000ドルに下落 ──そして、迎えたFOMCの日【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/9bc004a6ef9f7a9b0c81552e6c4c6de3b72ece63",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコイン利回り規制、銀行融資への影響はわずか──米CEA試算",
+        "url": "https://news.yahoo.co.jp/articles/8c44782d38264f0ffed58de6ab0223aa18fd309d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
+        "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サークル、手数料USDC払いの新ブロックチェーン「Arc」稼働開始",
         "url": "https://news.yahoo.co.jp/articles/3dd5e8063e772db71cab5a3ef5a6ac2ccb9e9cbd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークルのL1チェーン「Arc」、メインネット一般公開。100億ARCもミント",
-        "url": "https://news.yahoo.co.jp/articles/0a76afb43694524e11f90bc1d7d7c1905b787bf8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【香港】ＰｗＣ、トークン化マネー普及で碇点と提携",
-        "url": "https://news.yahoo.co.jp/articles/84de70002d7c80c007cd72776998831123701167",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ一家23億ドルの暗号資産議論で行き詰まる米国の「コインルールブック」（2）",
-        "url": "https://news.yahoo.co.jp/articles/c2d21c27fa0d0d11fb115bb24a3438da9c8ec727",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPMorgan、クラリティ法案の再採決に余地＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/fc34d4ab20dac71f0628e10c2432dfed954a17b1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラーケン、トークン化株式で利回り獲得の新機能導入",
-        "url": "https://news.yahoo.co.jp/articles/c1119dd7341566c1ae56b766292de924edb081a1",
         "source": "Yahoo",
         "date": ""
       }
