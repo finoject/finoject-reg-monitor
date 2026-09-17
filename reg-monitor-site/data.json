@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-09-17T06:37:15.230Z",
+  "generatedAt": "2026-09-17T08:03:00.976Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "日本抵抗器製作所（6977）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-09-17",
+      "detectedAt": "2026-09-17T08:03:00.976Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-17T08:03:05.408Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "実質輸出入の動向",
+      "url": "https://www.boj.or.jp/research/research_data/reri/index.htm",
+      "date": "2026-09-17",
+      "detectedAt": "2026-09-17T08:03:00.976Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行調査統計局は実質輸出入データを2026年4月分計数以降、財務省「貿易統計（速報）」公表の翌営業日16:00に定期公表する。地域別・財別の実質輸出も併せて作成し、多面的な分析を可能にする。",
+        "データ利用者は、統計改定・基準変更・年間補正により事後改定されること、経済分析の必要に応じて作成方法が変更される可能性があることに注意し、最新の見直しお知らせ（2026年5月20日等）を確認すべき。",
+        "2026年2Q時点で実質輸出計は前月比4.0％増（4～5月）、自動車関連・資本財・その他財がプラス寄与する一方、情報関連は減速傾向にある。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-17T08:03:05.409Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）日本抵抗器製作所",
+      "url": "https://www.jpx.co.jp/news/1023/20260917-12.html",
+      "date": "2026-09-17",
+      "detectedAt": "2026-09-17T08:03:00.976Z",
+      "enriched": "2026-09-17T08:03:05.409Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）日本抵抗器製作所（コード6977、スタンダード市場）は2026年9月17日付で監理銘柄（確認中）に指定された。理由は、公開買付者（株式会社フェローテック）による公開買付けに関し、株式等売渡請求又は株式併合に関する取締役会決議が行われる見込みのため。",
+        "東証は、同社株式が上場廃止の可能性ありと認め、上場廃止基準への該当性判定まで監理銘柄（確認中）の指定期間とする。株主及び市場参加者は、公開買付け成立後の上場廃止手続き（売渡請求承認又は株式併合）の進展に注視する必要がある。",
+        "この指定は有価証券上場規程施行規則第604条第1項第23号及び第24号に基づくもので、公開買付者による買収完結後の上場廃止に向けた手続きが段階的に進行することを示す。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "国際会計士連盟（IFAC）副会長 Taryn Rulton氏からの祝辞：「第47回日本公認会計士協会研究大会」開催に当たって",
+      "url": "https://jicpa.or.jp/news/information/2026/20260917evc.html",
+      "date": "2026-09-17",
+      "detectedAt": "2026-09-17T08:03:00.976Z",
+      "enriched": "2026-09-17T08:03:05.409Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "IFAC副会長Taryn Rulton氏が第47回日本公認会計士協会研究大会に向けたビデオメッセージ祝辞を提供し、開会時に放映された。",
+        "日本公認会計士協会は国際会計士連盟との連携を示す重要な機会として、本祝辞を研究大会で活用した。",
+        "IFAC副会長は2026年11月に会長に就任予定であり、国際的な会計専門職のガバナンス体制が変更される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "株券等貸借取引状況（週間）",
@@ -596,22 +658,6 @@
         "改正は令和9年1月1日施行、パブリックコメント募集期間は2026年9月15日～10月14日17時必着（「外務員等資格試験に関する規則」第7条第4項に関わる）。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ジーネクスト（4179）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-09-15",
-      "detectedAt": "2026-09-15T08:00:51.638Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-15T08:01:00.875Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -3578,22 +3624,6 @@
         "詳細な検討会資料は東証の専用ページで公開されており、問合せは上場部企画グループが対応する。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "実質輸出入の動向",
-      "url": "https://www.boj.or.jp/research/research_data/reri/index.htm",
-      "date": "2026-08-21",
-      "detectedAt": "2026-08-21T07:26:40.329Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行調査統計局は実質輸出入データを2026年4月分計数以降、財務省「貿易統計（速報）」公表の翌営業日16:00に定期公表する。地域別・財別の実質輸出も併せて作成し、多面的な分析を可能にする。",
-        "データ利用者は、統計改定・基準変更・年間補正により事後改定されること、経済分析の必要に応じて作成方法が変更される可能性があることに注意し、最新の見直しお知らせ（2026年5月20日等）を確認すべき。",
-        "2026年2Q時点で実質輸出計は前月比4.0％増（4～5月）、自動車関連・資本財・その他財がプラス寄与する一方、情報関連は減速傾向にある。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-21T07:26:45.839Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -14365,6 +14395,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "サーティックとキルギス中央銀行がMOU。CBDC「デジタルソム」で協力へ",
+        "url": "https://news.yahoo.co.jp/articles/38769b2cd6bcc7cc0b61cdfb4e86ffd55e8ef025",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラーケン親会社、ハイパーリキッド上で米国向け無期限先物提供へ",
+        "url": "https://news.yahoo.co.jp/articles/fd70e992514c91c93620215d312dece7c8c79844",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ドイツ銀行、暗号資産カストディを年内開始へ。BTC・ETHやステーブルコイン対応",
         "url": "https://news.yahoo.co.jp/articles/618a53b1f5eca53773a5b67184f15752011fd801",
         "source": "Yahoo",
@@ -14385,24 +14427,24 @@
       {
         "title": "上院での投票によりCLARITY法案の審議が阻まれ、ビットコインが7万5000ドルに下落 ──そして、迎えたFOMCの日【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/9bc004a6ef9f7a9b0c81552e6c4c6de3b72ece63",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン利回り規制、銀行融資への影響はわずか──米CEA試算",
-        "url": "https://news.yahoo.co.jp/articles/8c44782d38264f0ffed58de6ab0223aa18fd309d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッド株が5％下落、従業員2人が暗号資産取引の詐欺で起訴",
-        "url": "https://news.yahoo.co.jp/articles/7586a301d08be3cbe6124de7baa27f44a3bc0713",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "サーティックとキルギス中央銀行がMOU。CBDC「デジタルソム」で協力へ",
+        "url": "https://news.yahoo.co.jp/articles/38769b2cd6bcc7cc0b61cdfb4e86ffd55e8ef025",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クラーケン親会社、ハイパーリキッド上で米国向け無期限先物提供へ",
+        "url": "https://news.yahoo.co.jp/articles/fd70e992514c91c93620215d312dece7c8c79844",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ドイツ銀行、暗号資産カストディを年内開始へ。BTC・ETHやステーブルコイン対応",
         "url": "https://news.yahoo.co.jp/articles/618a53b1f5eca53773a5b67184f15752011fd801",
         "source": "Yahoo",
@@ -14423,18 +14465,6 @@
       {
         "title": "上院での投票によりCLARITY法案の審議が阻まれ、ビットコインが7万5000ドルに下落 ──そして、迎えたFOMCの日【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/9bc004a6ef9f7a9b0c81552e6c4c6de3b72ece63",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン利回り規制、銀行融資への影響はわずか──米CEA試算",
-        "url": "https://news.yahoo.co.jp/articles/8c44782d38264f0ffed58de6ab0223aa18fd309d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッド株が5％下落、従業員2人が暗号資産取引の詐欺で起訴",
-        "url": "https://news.yahoo.co.jp/articles/7586a301d08be3cbe6124de7baa27f44a3bc0713",
         "source": "Yahoo",
         "date": ""
       }
@@ -14593,6 +14623,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI、韓国・教保生命と円・ウォンのステーブルコイン直接交換を実証",
+        "url": "https://news.yahoo.co.jp/articles/720a4bd360f7df432ec969ae082d4b27f9a3f781",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ドイツ銀行、暗号資産カストディを年内開始へ。BTC・ETHやステーブルコイン対応",
         "url": "https://news.yahoo.co.jp/articles/618a53b1f5eca53773a5b67184f15752011fd801",
         "source": "Yahoo",
@@ -14619,18 +14655,18 @@
       {
         "title": "ステーブルコイン利回り規制、銀行融資への影響はわずか──米CEA試算",
         "url": "https://news.yahoo.co.jp/articles/8c44782d38264f0ffed58de6ab0223aa18fd309d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
-        "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI、韓国・教保生命と円・ウォンのステーブルコイン直接交換を実証",
+        "url": "https://news.yahoo.co.jp/articles/720a4bd360f7df432ec969ae082d4b27f9a3f781",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ドイツ銀行、暗号資産カストディを年内開始へ。BTC・ETHやステーブルコイン対応",
         "url": "https://news.yahoo.co.jp/articles/618a53b1f5eca53773a5b67184f15752011fd801",
         "source": "Yahoo",
@@ -14657,12 +14693,6 @@
       {
         "title": "ステーブルコイン利回り規制、銀行融資への影響はわずか──米CEA試算",
         "url": "https://news.yahoo.co.jp/articles/8c44782d38264f0ffed58de6ab0223aa18fd309d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
-        "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
         "source": "Yahoo",
         "date": ""
       }
