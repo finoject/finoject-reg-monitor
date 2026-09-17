@@ -62,7 +62,10 @@ async function main() {
   // 機関名・表題が欠けていても落とさず、欠けていること自体が見えるようにする。
   // String() を通すのは、truthyな非文字列（数値等）が来ても localeCompare で落ちないようにするため。
   const text = (v, fallback) => (v === undefined || v === null || v === '' ? fallback : String(v));
-  const week = (Array.isArray(data.items) ? data.items : [])
+  // items が配列でないのは「静かな週」ではなくデータ破損。0件のブリーフィングを平常どおり
+  // 出してしまうと、欠落を「今週は何も無かった」と読み違える。crawler 本体と同じく中止する。
+  if (!Array.isArray(data.items)) throw new Error(`${p} の items が配列ではありません（データ破損。週次ブリーフィングを中止します）`);
+  const week = data.items
     .filter(x => x && typeof x.date === 'string' && x.date >= from && x.date <= to)
     .map(x => ({ ...x, agency: text(x.agency, '（機関名不明）'), title: text(x.title, '（表題なし）') }))
     .sort((a, b) => b.date.localeCompare(a.date) || a.agency.localeCompare(b.agency));

@@ -49,8 +49,33 @@ jobs:
           git config user.name "reg-monitor-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add reg-monitor-site/data.json
-          git commit -m "chore: update data.json ($(date -u +%FT%TZ))" || echo "変更なし"
-          git push || echo "push対象なし"
+          if git diff --cached --quiet; then
+            echo "変更なし"
+            exit 0
+          fi
+          git commit -m "chore: update data.json ($(date -u +%FT%TZ))"
+          # push の失敗を握り潰さない。握り潰すと Pages にはこの回のデータが出るのに
+          # main には残らず、次回は古い data.json から始まって同じURLを再び新規扱いし、
+          # Slackへ重複通知する（蓄積も失われる）。weekly-brief.yml と同じく取り直して押す。
+          for i in 1 2 3; do
+            # GitHub Actions の bash は -e で走るため、rebase が競合すると
+            # ここで無言のままステップが終わり、再試行に到達しない。明示的に受け止める。
+            if ! git pull --rebase origin "${GITHUB_REF_NAME}"; then
+              echo "rebaseが競合しました（${i}回目）。中断して取り直します"
+              git rebase --abort || true
+              if [ "$i" -lt 3 ]; then sleep $((i * 10)); continue; fi
+              echo "::error::data.json のrebaseが解消できませんでした"
+              exit 1
+            fi
+            if git push; then
+              echo "push成功（${i}回目）"
+              exit 0
+            fi
+            echo "pushに失敗（${i}回目）。取り直して再試行します"
+            if [ "$i" -lt 3 ]; then sleep $((i * 10)); fi
+          done
+          echo "::error::3回試行してもpushできませんでした"
+          exit 1
 
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
@@ -58,3 +83,17 @@ jobs:
           path: reg-monitor-site
       - id: deployment
         uses: actions/deploy-pages@v4
+
+      # 「巡回は回っているのに中身が取れていない」種類の異常は、公開を止めずに最後で気づく。
+      # ここで落とすことで、失敗通知（Actionsの失敗メール/Slack連携）が鳴る。
+      - name: 巡回の健全性チェック（0件成功・補助データの空取得）
+        if: always()
+        working-directory: reg-monitor
+        run: |
+          if [ -s .crawl-warnings ]; then
+            echo "::error::巡回の健全性に問題があります（data.json の公開は完了しています）"
+            cat .crawl-warnings
+            exit 1
+          fi
+          echo "健全性チェック: 問題なし"
+

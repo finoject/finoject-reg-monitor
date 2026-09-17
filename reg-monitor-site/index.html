@@ -149,9 +149,9 @@ function render(){
     const c = COLORS[it.agency] || '#64748b';
     const isNew = it.detectedAt && it.detectedAt===latest;
     html += `<div class="item">
-      <span class="badge" style="background:${c}">${SHORT[it.agency]||it.agency}</span>
+      <span class="badge" style="background:${c}">${escapeHtml(SHORT[it.agency]||it.agency)}</span>
       <div class="itembody">
-        <a href="${it.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a>
+        <a href="${escA(it.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a>
         ${isNew?'<span class="new">NEW</span>':''}
         ${filterAg==='__lawlinked__' ? refsHtml(it) : ''}
       </div>
@@ -160,6 +160,17 @@ function render(){
   list.innerHTML = html;
 }
 function escapeHtml(s){ return (s||'').replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+// href に入れてよいURLだけを通す。data.json のURLはクロール元（外部サイトのRSS/HTML）由来なので信頼できない。
+// 配信元が改ざんされて javascript: / data: が入ると、そのまま実行可能なリンクとして公開ページに出る。
+// 生成側（crawler.js の abs）でも弾くが、表示側でも必ず確かめる（data.json は公開ファイルで差し替えられ得る）。
+function safeUrl(u){
+  // 文字列でない/空の値を new URL に渡すと base と連結されて「…/null」のような実在しない
+  // リンクになる（例外にならないので黙って壊れる）。先に弾く。
+  if (typeof u !== 'string' || !u.trim()) return '#';
+  try { const x = new URL(u, location.href); return (x.protocol === 'https:' || x.protocol === 'http:') ? x.href : '#'; }
+  catch(e){ return '#'; }
+}
+function escA(u){ return escapeHtml(safeUrl(u)); }   // href 属性用（スキーム検査＋属性エスケープ）
 // 法令ビューアへのリンク（📖チップ）を持つ項目か
 function hasLawLink(it){ return !!((it.lawrefs && it.lawrefs.length) || detectLawLink(it.title||'')); }
 
@@ -178,7 +189,7 @@ function refsHtml(it){
     const url = g.url || (LAW_BASE + '?law=' + g.id + (g.art ? '&art='+encodeURIComponent(g.art) : ''));
     const kb = g.kind && g.kind!=='その他' ? `<span class="kind k-${g.kind}">${g.kind}</span>` : '';
     const ac = g.arts.size ? `<span class="acount">${g.arts.size}条</span>` : '';
-    return `<a class="ref" href="${url}" target="_blank" rel="noopener" title="法令ビューアで開く（該当 ${g.arts.size||0} 条）">📖 ${escapeHtml(g.label)}${ac}${kb}</a>`;
+    return `<a class="ref" href="${escA(url)}" target="_blank" rel="noopener" title="法令ビューアで開く（該当 ${g.arts.size||0} 条）">📖 ${escapeHtml(g.label)}${ac}${kb}</a>`;
   });
   return `<div class="refs">${chips.join('')}</div>`;
 }
@@ -187,7 +198,7 @@ function setMeta(){
   document.getElementById('meta').textContent =
     `監視対象6機関 ／ 最終更新: ${jstStr(DATA.generatedAt)}（JST） ／ 全${DATA.items.length}件`;
   document.getElementById('footer').innerHTML =
-    '出典（各機関の公開情報）: ' + (DATA.sources||[]).map(s=>`<a href="${s.url}" target="_blank" rel="noopener">${s.name}</a>`).join(' ・ ') +
+    '出典（各機関の公開情報）: ' + (DATA.sources||[]).map(s=>`<a href="${escA(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.name)}</a>`).join(' ・ ') +
     '<br>毎朝の自動巡回で新着を追記します。NEWは最新巡回で検知した項目。';
 }
 

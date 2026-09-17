@@ -6,3 +6,6 @@ reg-monitor/recon.js
 CODEX_REVIEW.md
 REVIEW_CONTEXT.md
 ops/healthcheck/config.env
+
+# 巡回の健全性警告（実行時に生成。コミットしない）
+reg-monitor/.crawl-warnings

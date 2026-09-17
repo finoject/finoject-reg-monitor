@@ -197,7 +197,10 @@ async function collectOverseas(from, to) {
 function collectDomestic(from, to) {
   const p = path.join(__dirname, '..', 'reg-monitor-site', 'data.json');
   const data = JSON.parse(fs.readFileSync(p, 'utf8'));
-  const items = (Array.isArray(data.items) ? data.items : [])
+  // items が配列でないのはデータ破損。空配列に読み替えると「国内該当なし」として
+  // AIに渡り、欠落が正常な結果に化ける。海外ソースが生きていても全滅判定は通るので、ここで止める。
+  if (!Array.isArray(data.items)) throw new Error(`${p} の items が配列ではありません（データ破損。国内分を空として扱いません）`);
+  const items = data.items
     .filter(x => x && typeof x.date === 'string' && x.date >= from && x.date <= to)
     .filter(x => isTopic(x.title))
     // published を海外項目と同じ形で必ず持たせる。国内は公表日がそのままJSTなので date と同じ。

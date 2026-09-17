@@ -56,10 +56,21 @@ async function fetchBodyText(url){
 
 // ---- ユーティリティ ----
 const pad = n => String(n).padStart(2,'0');
+// 実在する暦日だけを返す。以前は 2月31日 のような入力をそのまま `2026-02-31` として保存していた。
+// 不正な日付は後段の週次抽出（from<=date<=to の文字列比較）を静かにすり抜ける。
+function ymdIfReal(y, mo, d){
+  if (!(y>=1950 && y<=2100) || !(mo>=1 && mo<=12) || !(d>=1 && d<=31)) return null;   // 平成元年(1989)等があるので2000年始まりにしない
+  const dt = new Date(Date.UTC(y, mo-1, d));
+  if (dt.getUTCFullYear()!==y || dt.getUTCMonth()!==mo-1 || dt.getUTCDate()!==d) return null;
+  return `${y}-${pad(mo)}-${pad(d)}`;
+}
 function findDate(text){
   if(!text) return null; let m;
-  if ((m = text.match(/令和\s*(\d+)\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*日/))) return `${2018+(+m[1])}-${pad(+m[2])}-${pad(+m[3])}`;
-  if ((m = text.match(/(20\d{2})\s*[年.\-\/]\s*(\d{1,2})\s*[月.\-\/]\s*(\d{1,2})/))) return `${m[1]}-${pad(+m[2])}-${pad(+m[3])}`;
+  // 「令和元年」= 2019年。数字表記だけを見ていたため元年の公表物を丸ごと落としていた。
+  if ((m = text.match(/令和\s*(元|\d+)\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*日/))) return ymdIfReal(2018+(m[1]==='元'?1:+m[1]), +m[2], +m[3]);
+  // 「平成」も同様に扱う（過去資料のページに残る）。平成N年 = 1988+N、平成元年 = 1989。
+  if ((m = text.match(/平成\s*(元|\d+)\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*日/))) return ymdIfReal(1988+(m[1]==='元'?1:+m[1]), +m[2], +m[3]);
+  if ((m = text.match(/(20\d{2})\s*[年.\-\/]\s*(\d{1,2})\s*[月.\-\/]\s*(\d{1,2})/))) return ymdIfReal(+m[1], +m[2], +m[3]);
   return null;
 }
 // RSSの日付は必ずJSTの暦日に落とす。getFullYear/getMonth/getDate は実行環境のローカル時刻を返すため、
@@ -72,7 +83,16 @@ function clean(s){
     .replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#8217;/g,"'")
     .replace(/\s+/g,' ').trim();
 }
-function abs(href, base){ try { return new URL(href, base).href.replace(/^http:\/\//,'https://'); } catch { return null; } }
+// http(s) 以外は捨てる。このURLは最終的にブラウザで <a href="..."> に出るため、
+// 配信元RSSが改ざんされて javascript: / data: が入ると公開ページでそのままリンクになる。
+// parseHTML 側には既にスキーム検査があったが parseRSS 側に無く、非対称だった。
+function abs(href, base){
+  try {
+    const u = new URL(href, base);
+    if (u.protocol !== 'https:' && u.protocol !== 'http:') return null;
+    return u.href.replace(/^http:\/\//,'https://');
+  } catch { return null; }
+}
 function titleClean(t){
   t = t.replace(/^\s*(令和\s*\d+\s*年\s*\d{1,2}\s*月\s*\d{1,2}\s*日|20\d{2}\s*年\s*\d{1,2}\s*月\s*\d{1,2}\s*日|20\d{2}[.\-\/]\d{1,2}[.\-\/]\d{1,2})\s*/,'');
   for(let k=0;k<2;k++) t = t.replace(/^\s*(お知らせ|プレスリリース|セミナー|その他|会長声明|報道発表資料|報道発表|新着情報|新着|公表|法定開示|業務情報|JPXからのお知らせ)\s*/,'');
@@ -187,15 +207,22 @@ const SITES = [
 ];
 
 async function crawlSite(s){
+  let subNote = '';
   try {
     let items = [];
     if (s.type === 'rss-index'){
       // RSSハブを取得→子フィードを全発見→各フィードを巡回（毎回。フィード増減に自動追従）
       const hub = await get(s.url);
       const feeds = discoverFeeds(hub, s.url, s.excludeFeeds);
+      // 子フィードの失敗を握り潰すと、全フィードが落ちても ok:true / 0件で「正常・新着なし」に見える。
+      // 何本中何本落ちたかを必ず残し、全滅ならこの機関を失敗として扱う。
+      let feedFail = 0;
       for (const f of feeds){
-        try { const fx = await get(f); items = items.concat(parseRSS(fx, s.name, f).slice(0, 40)); } catch(_){}
+        try { const fx = await get(f); items = items.concat(parseRSS(fx, s.name, f).slice(0, 40)); }
+        catch(e){ feedFail++; console.error(`  ${s.name}: 子フィード取得失敗 ${f} (${e.message||e})`); }
       }
+      if (feeds.length && feedFail === feeds.length) throw new Error(`子フィード ${feeds.length} 本すべて取得失敗`);
+      if (feedFail) subNote = `（子フィード ${feedFail}/${feeds.length} 本失敗）`;
     } else {
       let body;
       try { body = await get(s.url); }
@@ -209,11 +236,13 @@ async function crawlSite(s){
             : s.type==='fsa' ? parseFSA(body, s.url)
             : parseHTML(body, s.name, s.url);
     }
+    const before = items.length;
     items = items.filter(it => it.date && it.url && it.title);
+    const dropped = before - items.length;           // 日付・URL・表題が取れずに落ちた件数（0件成功の兆候）
     items.sort((a,b)=> b.date.localeCompare(a.date));
     // rss-indexは複数フィードを束ねるため全件返す（各フィードは40件で制限済み）。単一ソースは40件に制限。
-    return { ok:true, items: s.type==='rss-index' ? items : items.slice(0, 40) };
-  } catch(e){ return { ok:false, error:String(e.message||e), items:[] }; }
+    return { ok:true, items: s.type==='rss-index' ? items : items.slice(0, 40), dropped, note: subNote };
+  } catch(e){ return { ok:false, error:String(e.message||e), items:[], dropped:0, note: subNote }; }
 }
 
 // 新規分をSlackへ投稿（SLACK_WEBHOOK_URL が設定されている時のみ。新規ゼロなら送らない）
@@ -227,7 +256,9 @@ function buildFeed(store){
   const items = store.items.slice()
     .sort((a,b)=> (b.detectedAt||'').localeCompare(a.detectedAt||'') || (b.date||'').localeCompare(a.date||''))
     .slice(0, 60);
-  const rfc822 = iso => { try { return new Date(iso).toUTCString(); } catch { return new Date().toUTCString(); } };
+  // new Date('不正値').toUTCString() は例外を投げず 'Invalid Date' を返すので、try/catch では防げない。
+  // 妥当性を明示的に確かめてからでないと <pubDate>Invalid Date</pubDate> を配信してしまう。
+  const rfc822 = iso => { const d = new Date(iso); return isNaN(d.getTime()) ? new Date().toUTCString() : d.toUTCString(); };
   const entries = items.map(it=>{
     const ag = SHORT[it.agency] || it.agency || '';
     const refs = (it.lawrefs && it.lawrefs.length)
@@ -291,7 +322,9 @@ async function postSlack(addedItems){
 // （Googleニュース検索のRSSはリダイレクトURLで実記事に解決できず埋め込み不可のため、Yahoo検索に変更）
 async function yahooNews(q){
   const url = 'https://news.yahoo.co.jp/search?p=' + encodeURIComponent(q) + '&ei=utf-8';
-  let html=''; try { html = await get(url); } catch { return []; }
+  // 取得失敗を空配列で返すと、呼び出し側が「検索結果0件」と区別できない。
+  // 区別できないと、障害の回に前回値を残すべきかどうかを判断できない（空で上書きしてしまう）。
+  const html = await get(url);
   const $ = cheerio.load(html); const out=[]; const seen=new Set();
   $('.newsFeed_list li').each((i, li) => {
     const a = $(li).find('a[href*="/articles/"]').first();
@@ -311,13 +344,17 @@ async function fetchLawNews(){
   const out = {};
   const q2ids = {};
   for (const [id,q] of Object.entries(NEWS_QUERY)){ (q2ids[q]=q2ids[q]||[]).push(id); }
+  let qOk = 0, qFail = 0;
   for (const [q,ids] of Object.entries(q2ids)){
     let news = [];
-    try { news = dedupeNews(await yahooNews(q)).slice(0, 6); } catch {}
+    try { news = dedupeNews(await yahooNews(q)).slice(0, 6); qOk++; }
+    catch (e){ qFail++; console.error(`  関連ニュース取得失敗 (${q}): ${e.message||e}`); }
     for (const id of ids) out[id] = news;
   }
   console.log('関連ニュース取得(Yahoo): ' + Object.keys(out).filter(k=>out[k].length).length + '/' + Object.keys(out).length + ' 文書分');
-  return out;
+  // 「取得は全部成功したが結果が0件」と「取得自体が落ちて0件」を呼び出し側が区別できるようにする。
+  // 区別しないと、前者でも前回値を維持し続けて古い情報が永久に消えなくなる。
+  return { ok: qFail === 0, data: out };
 }
 
 // ---- 国会の審議状況：衆議院 議案一覧から、対象法令に関する法律案のステータスを取得 ----
@@ -332,9 +369,9 @@ async function fetchDietBills(){
     html = new TextDecoder('shift_jis').decode(await r.arrayBuffer());      // 衆議院サイトはShift_JIS
   } catch(e) {
     try { const b = execFileSync('curl', ['-sL','--max-time','30','-A',UA, MENU], { encoding:'buffer', maxBuffer: 50*1024*1024 });
-          html = new TextDecoder('shift_jis').decode(b); } catch(_) { return out; }
+          html = new TextDecoder('shift_jis').decode(b); } catch(_) { return { ok:false, data: out }; }
   }
-  if (!html) return out;
+  if (!html) return { ok:false, data: out };
   const session = (html.match(/第(\d+)回国会/)||[])[1] || '';
   const base = 'https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/';
   const $ = cheerio.load(html);
@@ -350,7 +387,7 @@ async function fetchDietBills(){
   });
   const n = Object.values(out).reduce((a,b)=>a+b.length,0);
   console.log(`国会議案(第${session}回): 対象法案 ${n}件 / ${Object.keys(out).length}法令分`);
-  return out;
+  return { ok:true, data: out };
 }
 
 // ---- 法令連携：各itemに lawrefs（参照法令＋条＋種別）を付与 ----
@@ -429,6 +466,21 @@ async function aiSummarize(items){
   console.log(`AI要点: 生成 ${made}件 / 試行 ${tried}件 / 保有 ${items.filter(i=>Array.isArray(i.aiSummary)).length}件`);
 }
 
+// 「巡回自体は回っているが中身が取れていない」種類の異常。ここで process.exitCode を立てると
+// data.json のコミットも Pages 公開も止まってしまい（この回の正常な新着まで失う）、かえって害が大きい。
+// 公開は通したうえで、健全性ファイルに残してワークフロー末尾のステップでジョブを失敗させる。
+const HEALTH = path.join(__dirname, '.crawl-warnings');
+const _warnings = [];
+function warn(msg){
+  _warnings.push(msg);
+  console.log(`::warning::${msg}`);      // GitHub Actions の注釈として実行ログの先頭に出る
+  console.error('健全性警告: ' + msg);
+}
+function writeHealth(){
+  try { if (_warnings.length) fs.writeFileSync(HEALTH, _warnings.join('\n') + '\n', 'utf8');
+        else if (fs.existsSync(HEALTH)) fs.unlinkSync(HEALTH); } catch(e){ console.error('健全性ファイルの書き出しに失敗: ' + (e.message||e)); }
+}
+
 async function main(){
   let store = { generatedAt:null, items:[] };
   if (fs.existsSync(OUT)) {
@@ -448,10 +500,17 @@ async function main(){
   const byUrl = new Map(store.items.map(it=>[it.url, it]));   // URL→既存レコード
   const nowIso = new Date().toISOString();
   const report=[]; const addedItems=[]; let okSites=0;
+  const prevBySite = {};                              // 機関ごとの前回蓄積件数（0件成功の判定材料）
+  for (const it of store.items) prevBySite[it.agency] = (prevBySite[it.agency]||0) + 1;
+  const zeroSites = [];
   for (const s of SITES){
     const res = await crawlSite(s);
     if (res.ok) okSites++;
-    report.push(`${s.name}: ${res.ok?res.items.length+'件':'失敗('+res.error+')'}`);
+    // 「HTTP 200 だがパース0件」は例外にならないので、ここで異常として拾う。
+    // 蓄積が既にある機関が突然0件になるのは、サイト構造変更・bot対策画面・エラーページのいずれか。
+    if (res.ok && res.items.length === 0 && (prevBySite[s.name]||0) > 0) zeroSites.push(s.name);
+    const extra = (res.dropped ? ` / 日付等が取れず除外 ${res.dropped}件` : '') + (res.note || '');
+    report.push(`${s.name}: ${res.ok?res.items.length+'件'+extra:'失敗('+res.error+')'}`);
     for (const it of res.items){
       if (isNoise(it.title)) continue;             // 無価値なノイズ（ページ更新通知等）は追加しない
       const prev = byUrl.get(it.url);
@@ -475,9 +534,25 @@ async function main(){
     process.exitCode = 1;
     return;
   }
+  // 蓄積があるのに今回0件だった機関は、取得は成功していても中身が取れていない。
+  // 保存は続けるが（他機関の新着を落とさないため）、非ゼロ終了でワークフローを失敗させて気づけるようにする。
+  if (zeroSites.length) warn(`${zeroSites.join('・')} は蓄積があるのに今回0件でした（サイト構造変更・エラーページの疑い）`);
   await enrichItems(store.items);                    // 法令ビューア連携用に lawrefs を付与（本文/PDFも解析）
-  store.lawnews = await fetchLawNews();               // 各法令の関連ニュース（指定ソースの見出し＋リンク）
-  store.dietbills = await fetchDietBills();            // 各法令に関する国会の法律案の審議状況（衆議院議案一覧）
+  // 補助データは毎回まるごと置換される。取得が落ちた回は空で返るため、そのまま代入すると
+  // 前回まで溜まっていた lawnews / dietbills が空で消える（主フィードが1機関でも成功していれば
+  // 全滅ガードは通ってしまう）。中身が取れた回だけ差し替え、取れなければ前回値を残す。
+  // 「取得が落ちて空」だけを前回値で埋める。「取得は成功したが本当に0件」（国会閉会で議案が
+  // 無い等）まで前回値で塗り替えると、古い情報が永久に消えなくなる（gemini の再レビュー指摘）。
+  const keepIfFailed = (label, res, prev) => {
+    const count = o => (o && typeof o === 'object') ? Object.values(o).filter(v => Array.isArray(v) ? v.length : v).length : 0;
+    if (res.ok) return res.data;                         // 取得成功＝0件でもそれが事実
+    const pcount = count(prev);
+    if (count(res.data) === 0 && pcount > 0){ warn(`${label}: 取得に失敗したため前回値を維持しました（${pcount}件）`); return prev; }
+    warn(`${label}: 取得に一部失敗しました`);
+    return res.data;
+  };
+  store.lawnews   = keepIfFailed('lawnews',   await fetchLawNews(),   store.lawnews);     // 各法令の関連ニュース（指定ソースの見出し＋リンク）
+  store.dietbills = keepIfFailed('dietbills', await fetchDietBills(), store.dietbills);   // 各法令に関する国会の法律案の審議状況（衆議院議案一覧）
   store.items.sort((a,b)=> (b.date||'').localeCompare(a.date||'') || (b.detectedAt||'').localeCompare(a.detectedAt||''));
   await aiSummarize(store.items);                     // AI要点を事前生成（新しい更新から。lawrefs有のみ・上限あり・既生成はスキップ）
   store.generatedAt = nowIso;
@@ -507,6 +582,7 @@ async function main(){
   // 新規分をSlackへ（初回baselineは投稿しない）
   if (!firstRun) await postSlack(addedItems);
   else console.log('初回baselineのためSlack投稿はスキップ');
+  writeHealth();
 }
 
 // require されたときは main() を走らせない。回帰テストが本物の関数を叩けるようにするため。
@@ -514,4 +590,4 @@ async function main(){
 // 本番を壊してもテストが通る（実際に RSS日付の3件がその状態だった）。
 if (require.main === module) main();
 
-module.exports = { ymdJst, isoFromRSSDate, isNoise, isRegulatoryContext, titleClean, findDate };
+module.exports = { ymdJst, isoFromRSSDate, isNoise, isRegulatoryContext, titleClean, findDate, abs, parseRSS, parseHTML };
