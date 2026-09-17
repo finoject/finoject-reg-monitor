@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-17T05:44:24.343Z",
+  "generatedAt": "2026-09-17T06:37:15.230Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-09-17",
+      "detectedAt": "2026-09-17T06:37:15.230Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-17T06:37:20.639Z"
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場日の初値決定前の気配運用について：akippa（株）",
@@ -1158,22 +1174,6 @@
         "国債DVP取引において受け方が予定決済日経過後も債券を受け渡されない場合がフェイルで、解消方法として債券業協会規則に従い市場価格での買い入れまたは清機構による買い付けが定められている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-09-10",
-      "detectedAt": "2026-09-10T06:49:55.761Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-09-10T06:50:00.443Z"
     },
     {
       "agency": "日本証券業協会",
@@ -14365,6 +14365,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ドイツ銀行、暗号資産カストディを年内開始へ。BTC・ETHやステーブルコイン対応",
+        "url": "https://news.yahoo.co.jp/articles/618a53b1f5eca53773a5b67184f15752011fd801",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英FCA、暗号資産新規制の適用範囲ガイダンス公表。認可申請は9/30開始",
         "url": "https://news.yahoo.co.jp/articles/84f705b639232edc3595db4438fd0ca00917a35b",
         "source": "Yahoo",
@@ -14391,18 +14397,18 @@
       {
         "title": "ロビンフッド株が5％下落、従業員2人が暗号資産取引の詐欺で起訴",
         "url": "https://news.yahoo.co.jp/articles/7586a301d08be3cbe6124de7baa27f44a3bc0713",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ一家23億ドルの暗号資産議論で行き詰まる米国の「コインルールブック」（2）",
-        "url": "https://news.yahoo.co.jp/articles/c2d21c27fa0d0d11fb115bb24a3438da9c8ec727",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ドイツ銀行、暗号資産カストディを年内開始へ。BTC・ETHやステーブルコイン対応",
+        "url": "https://news.yahoo.co.jp/articles/618a53b1f5eca53773a5b67184f15752011fd801",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英FCA、暗号資産新規制の適用範囲ガイダンス公表。認可申請は9/30開始",
         "url": "https://news.yahoo.co.jp/articles/84f705b639232edc3595db4438fd0ca00917a35b",
         "source": "Yahoo",
@@ -14429,12 +14435,6 @@
       {
         "title": "ロビンフッド株が5％下落、従業員2人が暗号資産取引の詐欺で起訴",
         "url": "https://news.yahoo.co.jp/articles/7586a301d08be3cbe6124de7baa27f44a3bc0713",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ一家23億ドルの暗号資産議論で行き詰まる米国の「コインルールブック」（2）",
-        "url": "https://news.yahoo.co.jp/articles/c2d21c27fa0d0d11fb115bb24a3438da9c8ec727",
         "source": "Yahoo",
         "date": ""
       }
@@ -14593,6 +14593,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ドイツ銀行、暗号資産カストディを年内開始へ。BTC・ETHやステーブルコイン対応",
+        "url": "https://news.yahoo.co.jp/articles/618a53b1f5eca53773a5b67184f15752011fd801",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
         "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
         "source": "Yahoo",
@@ -14619,18 +14625,18 @@
       {
         "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
         "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、手数料USDC払いの新ブロックチェーン「Arc」稼働開始",
-        "url": "https://news.yahoo.co.jp/articles/3dd5e8063e772db71cab5a3ef5a6ac2ccb9e9cbd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ドイツ銀行、暗号資産カストディを年内開始へ。BTC・ETHやステーブルコイン対応",
+        "url": "https://news.yahoo.co.jp/articles/618a53b1f5eca53773a5b67184f15752011fd801",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
         "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
         "source": "Yahoo",
@@ -14657,12 +14663,6 @@
       {
         "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
         "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、手数料USDC払いの新ブロックチェーン「Arc」稼働開始",
-        "url": "https://news.yahoo.co.jp/articles/3dd5e8063e772db71cab5a3ef5a6ac2ccb9e9cbd",
         "source": "Yahoo",
         "date": ""
       }
