@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:35:08.021Z",
+  "generatedAt": "2026-09-18T01:26:59.191Z",
   "items": [
     {
       "agency": "日本銀行",
@@ -11242,7 +11242,13 @@
       "date": "2026-06-15",
       "detectedAt": "2026-06-15T10:57:48.232Z",
       "enriched": "2026-06-19T06:01:56.315Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が技術的エラーにより取得できません。タイトル「定時総会の結果報告について」から、日本証券業協会が定時総会を開催し、その結果を報告したものと推定されますが、具体的な議決内容・役員人事・規則改正等の詳細が不明です。正式な報告資料の確認が必要です。",
+        "実務上、会員企業は協会の定時総会結果（特に規則改正・監査基準変更等）について、正式通知を待機し対応準備を進めるべきと考えられます。詳細は協会の後続通知を確認してください。",
+        "本文が入手できないため、適用開始日・対象条項等の具体情報が確定できません。日本証券業協会公式サイトの正式資料の参照が必須です。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "JVCEA",
@@ -14301,6 +14307,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "FOMC（2026年９月）――FRBは0.25％の利上げを決定、追加利上げの余地を残す【解説：東京海上アセットマネジメント】",
+        "url": "https://news.yahoo.co.jp/articles/de6af246c90a0481ccfee06840aa751f1b44708c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「誰でも稼げる」をコピペして逮捕？SNS副業で詐欺加担の恐ろしさ",
         "url": "https://news.yahoo.co.jp/articles/929bf367e59d1e9e329fba31796f189cc96f44e9",
         "source": "Yahoo",
@@ -14327,18 +14339,18 @@
       {
         "title": "新経連、暗号資産税制「一律20％」を個人間取引にも要求",
         "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OKJ、リスク（LSK）の販売所取扱いを一時停止",
-        "url": "https://news.yahoo.co.jp/articles/2ec8a9075292745fb47ba6e3a0f6445e5c0ec464",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "FOMC（2026年９月）――FRBは0.25％の利上げを決定、追加利上げの余地を残す【解説：東京海上アセットマネジメント】",
+        "url": "https://news.yahoo.co.jp/articles/de6af246c90a0481ccfee06840aa751f1b44708c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「誰でも稼げる」をコピペして逮捕？SNS副業で詐欺加担の恐ろしさ",
         "url": "https://news.yahoo.co.jp/articles/929bf367e59d1e9e329fba31796f189cc96f44e9",
         "source": "Yahoo",
@@ -14365,18 +14377,18 @@
       {
         "title": "新経連、暗号資産税制「一律20％」を個人間取引にも要求",
         "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OKJ、リスク（LSK）の販売所取扱いを一時停止",
-        "url": "https://news.yahoo.co.jp/articles/2ec8a9075292745fb47ba6e3a0f6445e5c0ec464",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "FOMC（2026年９月）――FRBは0.25％の利上げを決定、追加利上げの余地を残す【解説：東京海上アセットマネジメント】",
+        "url": "https://news.yahoo.co.jp/articles/de6af246c90a0481ccfee06840aa751f1b44708c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「誰でも稼げる」をコピペして逮捕？SNS副業で詐欺加担の恐ろしさ",
         "url": "https://news.yahoo.co.jp/articles/929bf367e59d1e9e329fba31796f189cc96f44e9",
         "source": "Yahoo",
@@ -14403,18 +14415,18 @@
       {
         "title": "新経連、暗号資産税制「一律20％」を個人間取引にも要求",
         "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OKJ、リスク（LSK）の販売所取扱いを一時停止",
-        "url": "https://news.yahoo.co.jp/articles/2ec8a9075292745fb47ba6e3a0f6445e5c0ec464",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "FOMC（2026年９月）――FRBは0.25％の利上げを決定、追加利上げの余地を残す【解説：東京海上アセットマネジメント】",
+        "url": "https://news.yahoo.co.jp/articles/de6af246c90a0481ccfee06840aa751f1b44708c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「誰でも稼げる」をコピペして逮捕？SNS副業で詐欺加担の恐ろしさ",
         "url": "https://news.yahoo.co.jp/articles/929bf367e59d1e9e329fba31796f189cc96f44e9",
         "source": "Yahoo",
@@ -14441,12 +14453,6 @@
       {
         "title": "新経連、暗号資産税制「一律20％」を個人間取引にも要求",
         "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OKJ、リスク（LSK）の販売所取扱いを一時停止",
-        "url": "https://news.yahoo.co.jp/articles/2ec8a9075292745fb47ba6e3a0f6445e5c0ec464",
         "source": "Yahoo",
         "date": ""
       }
@@ -14529,6 +14535,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米SECとCFTC、暗号資産規制を既存権限で推進へ。クラリティ法案は前進せず",
+        "url": "https://news.yahoo.co.jp/articles/814e2cd4a49dc7c8dd524a728f3af699c3a80ba2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ＳＥＣ、トークン化株式への規制を5年免除 デジタル資産と従来市場の統合深化",
         "url": "https://news.yahoo.co.jp/articles/6372b3313669c6e51b097e866a4c88bd65f63011",
         "source": "Yahoo",
@@ -14555,18 +14567,18 @@
       {
         "title": "米国株式市場＝反発、ハイテク株が主導 原油安や金利低下を好感",
         "url": "https://news.yahoo.co.jp/articles/a7efe5606260985504dac4e2cd0896d77148ca0f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Hyperliquid、米国の永久先物市場参入へ",
-        "url": "https://news.yahoo.co.jp/articles/246f3ef21a15bf604f05c062a7be9610798e2658",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米SECとCFTC、暗号資産規制を既存権限で推進へ。クラリティ法案は前進せず",
+        "url": "https://news.yahoo.co.jp/articles/814e2cd4a49dc7c8dd524a728f3af699c3a80ba2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ＳＥＣ、トークン化株式への規制を5年免除 デジタル資産と従来市場の統合深化",
         "url": "https://news.yahoo.co.jp/articles/6372b3313669c6e51b097e866a4c88bd65f63011",
         "source": "Yahoo",
@@ -14593,12 +14605,6 @@
       {
         "title": "米国株式市場＝反発、ハイテク株が主導 原油安や金利低下を好感",
         "url": "https://news.yahoo.co.jp/articles/a7efe5606260985504dac4e2cd0896d77148ca0f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Hyperliquid、米国の永久先物市場参入へ",
-        "url": "https://news.yahoo.co.jp/articles/246f3ef21a15bf604f05c062a7be9610798e2658",
         "source": "Yahoo",
         "date": ""
       }
