@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-18T01:26:59.191Z",
+  "generatedAt": "2026-09-18T03:06:04.723Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "（参考）金融市場調節方針の変更（2026年９月金融政策決定会合）",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918b.pdf",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T03:06:04.723Z",
+      "enriched": "2026-09-18T03:06:10.764Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年9月金融政策決定会合で、短期金利（無担保コールO/N物）を「1.0％程度」から「1.25％程度」に引き上げることを決定した。",
+        "金融緩和の度合い調整にあたり、基調的な物価上昇率が2％の物価安定目標を超えて上振れるリスクに対応しながら、経済・物価・金融情勢の変化を点検して政策金利の引き上げペース・タイミングを検討する。",
+        "2026年9月金融政策決定会合より短期金利の引き上げが実施され、緩和的な金融環境は維持しつつ、中長期的に基調的物価上昇率を2％程度で安定させることを目指す。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融市場調節方針の変更について",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T03:06:04.723Z",
+      "enriched": "2026-09-18T03:06:10.764Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が提供されていないため、実務担当者が知るべき具体的な内容を抽出できません。日本銀行の金融市場調節方針の変更についての本文詳細をご提示ください。",
+        "政策金利の変更幅・目標値、適用開始日時、対象となる金融市場操作の具体的手段の記載が必要です。",
+        "本文提供後に、対象金融機関の対応義務、通知受取期限、日本銀行法および関連規程への適用関係を記載します。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "総裁記者会見ライブ配信（9月18日15時30分予定）",
@@ -14307,6 +14337,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
+        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "FOMC（2026年９月）――FRBは0.25％の利上げを決定、追加利上げの余地を残す【解説：東京海上アセットマネジメント】",
         "url": "https://news.yahoo.co.jp/articles/de6af246c90a0481ccfee06840aa751f1b44708c",
         "source": "Yahoo",
@@ -14333,18 +14369,18 @@
       {
         "title": "暗号資産税制、「一件落着」ではない──業界団体BCCCの税制部会が始動",
         "url": "https://news.yahoo.co.jp/articles/6d122a5ec777da0245d6b34cc170b2f47ac6062c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "新経連、暗号資産税制「一律20％」を個人間取引にも要求",
-        "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
+        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "FOMC（2026年９月）――FRBは0.25％の利上げを決定、追加利上げの余地を残す【解説：東京海上アセットマネジメント】",
         "url": "https://news.yahoo.co.jp/articles/de6af246c90a0481ccfee06840aa751f1b44708c",
         "source": "Yahoo",
@@ -14371,18 +14407,18 @@
       {
         "title": "暗号資産税制、「一件落着」ではない──業界団体BCCCの税制部会が始動",
         "url": "https://news.yahoo.co.jp/articles/6d122a5ec777da0245d6b34cc170b2f47ac6062c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "新経連、暗号資産税制「一律20％」を個人間取引にも要求",
-        "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
+        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "FOMC（2026年９月）――FRBは0.25％の利上げを決定、追加利上げの余地を残す【解説：東京海上アセットマネジメント】",
         "url": "https://news.yahoo.co.jp/articles/de6af246c90a0481ccfee06840aa751f1b44708c",
         "source": "Yahoo",
@@ -14409,18 +14445,18 @@
       {
         "title": "暗号資産税制、「一件落着」ではない──業界団体BCCCの税制部会が始動",
         "url": "https://news.yahoo.co.jp/articles/6d122a5ec777da0245d6b34cc170b2f47ac6062c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "新経連、暗号資産税制「一律20％」を個人間取引にも要求",
-        "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
+        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "FOMC（2026年９月）――FRBは0.25％の利上げを決定、追加利上げの余地を残す【解説：東京海上アセットマネジメント】",
         "url": "https://news.yahoo.co.jp/articles/de6af246c90a0481ccfee06840aa751f1b44708c",
         "source": "Yahoo",
@@ -14447,12 +14483,6 @@
       {
         "title": "暗号資産税制、「一件落着」ではない──業界団体BCCCの税制部会が始動",
         "url": "https://news.yahoo.co.jp/articles/6d122a5ec777da0245d6b34cc170b2f47ac6062c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "新経連、暗号資産税制「一律20％」を個人間取引にも要求",
-        "url": "https://news.yahoo.co.jp/articles/8723e2e2009e67dd6e8943bd82882965fdeca17d",
         "source": "Yahoo",
         "date": ""
       }
@@ -14535,6 +14565,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
+        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米SECとCFTC、暗号資産規制を既存権限で推進へ。クラリティ法案は前進せず",
         "url": "https://news.yahoo.co.jp/articles/814e2cd4a49dc7c8dd524a728f3af699c3a80ba2",
         "source": "Yahoo",
@@ -14561,18 +14597,18 @@
       {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米国株式市場＝反発、ハイテク株が主導 原油安や金利低下を好感",
-        "url": "https://news.yahoo.co.jp/articles/a7efe5606260985504dac4e2cd0896d77148ca0f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
+        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米SECとCFTC、暗号資産規制を既存権限で推進へ。クラリティ法案は前進せず",
         "url": "https://news.yahoo.co.jp/articles/814e2cd4a49dc7c8dd524a728f3af699c3a80ba2",
         "source": "Yahoo",
@@ -14599,12 +14635,6 @@
       {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米国株式市場＝反発、ハイテク株が主導 原油安や金利低下を好感",
-        "url": "https://news.yahoo.co.jp/articles/a7efe5606260985504dac4e2cd0896d77148ca0f",
         "source": "Yahoo",
         "date": ""
       }
@@ -14763,6 +14793,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に",
+        "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "World、金融スーパーアプリ「World Money」発表",
         "url": "https://news.yahoo.co.jp/articles/bee61f0c513c636e8ad8f7d82f9938fc595b5c00",
         "source": "Yahoo",
@@ -14789,18 +14825,18 @@
       {
         "title": "JPYC、Upbit上場の影響で価格乖離",
         "url": "https://news.yahoo.co.jp/articles/85b17920bfd301c6701871297bb6142684fb2219",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、円建てステーブルコインの日韓取引を検証",
-        "url": "https://news.yahoo.co.jp/articles/da259b7d4381cd3b1592b971db3a05e20af1ca88",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に",
+        "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "World、金融スーパーアプリ「World Money」発表",
         "url": "https://news.yahoo.co.jp/articles/bee61f0c513c636e8ad8f7d82f9938fc595b5c00",
         "source": "Yahoo",
@@ -14829,15 +14865,15 @@
         "url": "https://news.yahoo.co.jp/articles/85b17920bfd301c6701871297bb6142684fb2219",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "SBI、円建てステーブルコインの日韓取引を検証",
-        "url": "https://news.yahoo.co.jp/articles/da259b7d4381cd3b1592b971db3a05e20af1ca88",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
+        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
@@ -14865,18 +14901,18 @@
       {
         "title": "６６歳女性が詐欺被害 郵便局員をかたる女、警察官や検事をかたる男らに約１０００万円だまし取られる",
         "url": "https://news.yahoo.co.jp/articles/e9fd4cb007da61d3773757354fa659e25c18d4be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンチェーン金融、日本の次の課題は「使われる金融」をつくることだ【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/855a837ba5ddfc163268aae4872f716c2c39e467",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
+        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
         "source": "Yahoo",
@@ -14903,18 +14939,18 @@
       {
         "title": "６６歳女性が詐欺被害 郵便局員をかたる女、警察官や検事をかたる男らに約１０００万円だまし取られる",
         "url": "https://news.yahoo.co.jp/articles/e9fd4cb007da61d3773757354fa659e25c18d4be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンチェーン金融、日本の次の課題は「使われる金融」をつくることだ【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/855a837ba5ddfc163268aae4872f716c2c39e467",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
+        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
         "source": "Yahoo",
@@ -14941,12 +14977,6 @@
       {
         "title": "６６歳女性が詐欺被害 郵便局員をかたる女、警察官や検事をかたる男らに約１０００万円だまし取られる",
         "url": "https://news.yahoo.co.jp/articles/e9fd4cb007da61d3773757354fa659e25c18d4be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オンチェーン金融、日本の次の課題は「使われる金融」をつくることだ【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/855a837ba5ddfc163268aae4872f716c2c39e467",
         "source": "Yahoo",
         "date": ""
       }
@@ -15145,6 +15175,12 @@
     "416CO0000000427": [],
     "412AC0000000101": [
       {
+        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
+        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、暗号資産交換業者の「販売所」誘導を懸念",
         "url": "https://news.yahoo.co.jp/articles/69da5bfd4853ff494eb27bcdf6ea885a86c555ea",
         "source": "Yahoo",
@@ -15164,6 +15200,12 @@
       }
     ],
     "412CO0000000484": [
+      {
+        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
+        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "金融庁、暗号資産交換業者の「販売所」誘導を懸念",
         "url": "https://news.yahoo.co.jp/articles/69da5bfd4853ff494eb27bcdf6ea885a86c555ea",
