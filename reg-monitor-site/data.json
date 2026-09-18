@@ -1,6 +1,84 @@
 {
-  "generatedAt": "2026-09-18T06:36:59.553Z",
+  "generatedAt": "2026-09-18T08:07:37.611Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "オーネックス（5987）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T08:07:37.611Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-18T08:07:42.516Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）デジタルベリー",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T08:07:37.611Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-18T08:07:42.516Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "総裁記者会見（9月18日）動画の配信開始",
+      "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T08:07:37.611Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の総裁定例記者会見の動画が日本銀行動画チャンネル（YouTube）で配信されている",
+        "国民および関係者が該当チャンネルにアクセスして総裁記者会見の内容を視聴できる",
+        "日本銀行の公開情報として、記者会見動画の配信を通じた情報発信が実施されている"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-18T08:07:42.517Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE,TOCOM]デリバティブの祝日取引の実施について（2026年9月21日・9月22日・9月23日）",
+      "url": "https://www.jpx.co.jp/news/2040/20260918-01.html",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T08:07:37.611Z",
+      "enriched": "2026-09-18T08:07:42.517Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年9月21日（敬老の日）、9月22日（祝日法第3条第3項による休日）、9月23日（秋分の日）にOSEおよびTOCOMのデリバティブ取引について祝日取引を実施する。",
+        "取引参加者および投資家は当該3日間でデリバティブ取引が可能であることを認識し、通常と異なる取引スケジュールに対応する。",
+        "2026年9月18日付の公表により2026年9月21日から9月23日の祝日取引実施が決定され、デリバティブ市場の営業日カレンダーに反映される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの取扱い（2026年10月5日調整分）",
+      "url": "https://www.jpx.co.jp/news/2020/20260918-01.html",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T08:07:37.611Z",
+      "enriched": "2026-09-18T08:07:42.517Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "NEXT FUNDS日経225連動型上場投信（証券コード1321）の受益権分割（2026年10月7日効力発生）に伴い、2026年10月5日から同受益権に係る有価証券オプションの取扱いが調整される。権利行使価格は100分の1に、有価証券オプション１単位の対象証券数量は1口から10口に変更。",
+        "オプション取引参加者は2026年10月5日から全限月について調整後の建玉制限数量（2,592,900単位から25,702,400単位）、大口建玉報告基準値（518,500単位から5,140,400単位）、J-NET取引ハードブロック設定値（300,000単位から600,000単位）を適用した取引を実施すること。",
+        "円位未満の端数は四捨五入（フレックス限月は小数点第2位未満を四捨五入）して処理。2026年10月2日時点の各数値との対比により調整。詳細は大阪取引所（06-4706-0800）に問合せ可能。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "「補完当座預金制度基本要領」の一部改正について",
@@ -189,22 +267,6 @@
         "課徴金納付期限は令和8年11月17日；金融商品取引法第174条の2第1項・6項2号・7項及び施行令33条の12・14条5項の規定適用。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "日本抵抗器製作所（6977）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-09-17",
-      "detectedAt": "2026-09-17T08:03:00.976Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-17T08:03:05.408Z"
     },
     {
       "agency": "日本銀行",
@@ -877,22 +939,6 @@
       ],
       "aiSumV": 3,
       "updated": true,
-      "enriched": "2026-09-15T07:01:02.730Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）H.K.Kインベストメント",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-09-15",
-      "detectedAt": "2026-09-15T07:00:57.293Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
       "enriched": "2026-09-15T07:01:02.730Z"
     },
     {
@@ -5774,22 +5820,6 @@
         "本注意喚起は2026年7月31日付でJVCEA会員に周知され、義援金募集を装った振込詐欺等全般への警戒を求めている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "総裁記者会見（7月31日）動画の配信開始",
-      "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
-      "date": "2026-07-31",
-      "detectedAt": "2026-07-31T08:19:10.867Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行の総裁定例記者会見の動画が日本銀行動画チャンネル（YouTube）で配信されている",
-        "国民および関係者が該当チャンネルにアクセスして総裁記者会見の内容を視聴できる",
-        "日本銀行の公開情報として、記者会見動画の配信を通じた情報発信が実施されている"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-07-31T08:19:16.565Z"
     },
     {
       "agency": "日本証券業協会",
@@ -14603,6 +14633,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米CFTC、取引支援ソフト提供者の未登録に条件付き不措置を拡大",
+        "url": "https://news.yahoo.co.jp/articles/67685e7324ee15d29a280bf26f3fbe0ec8e7349f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」",
         "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
         "source": "Yahoo",
@@ -14629,18 +14665,18 @@
       {
         "title": "米ＳＥＣ、トークン化株式への規制を5年免除 デジタル資産と従来市場の統合深化",
         "url": "https://news.yahoo.co.jp/articles/6372b3313669c6e51b097e866a4c88bd65f63011",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国警察、Polymarket利用者26人を立件──18人を送検＝報道",
-        "url": "https://news.yahoo.co.jp/articles/6f9ef9e5181e5f37d471520b569a0de65a87e11c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米CFTC、取引支援ソフト提供者の未登録に条件付き不措置を拡大",
+        "url": "https://news.yahoo.co.jp/articles/67685e7324ee15d29a280bf26f3fbe0ec8e7349f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」",
         "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
         "source": "Yahoo",
@@ -14667,12 +14703,6 @@
       {
         "title": "米ＳＥＣ、トークン化株式への規制を5年免除 デジタル資産と従来市場の統合深化",
         "url": "https://news.yahoo.co.jp/articles/6372b3313669c6e51b097e866a4c88bd65f63011",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国警察、Polymarket利用者26人を立件──18人を送検＝報道",
-        "url": "https://news.yahoo.co.jp/articles/6f9ef9e5181e5f37d471520b569a0de65a87e11c",
         "source": "Yahoo",
         "date": ""
       }
@@ -14831,6 +14861,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI、シンガポールのステーブルコイン決済企業dtcpayに出資",
+        "url": "https://news.yahoo.co.jp/articles/6a697cd73e92e6f46152f417ab954cfa689aa605",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "zERC20、zJPYCで約996万トークンが不正ミント。約335万円相当が流出",
+        "url": "https://news.yahoo.co.jp/articles/84e28867c54be1418eebc6775a27984e060d24e8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベース、米地銀・信用組合に暗号資産サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/b12f8796c631de337bc0786d4d36d6c7a0db9b35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ウィズダムツリーとムーンペイが提携、米国でトークン化MMFの提供拡大へ",
         "url": "https://news.yahoo.co.jp/articles/7026388e31c8edd4a47260e72456675f9b9e006e",
         "source": "Yahoo",
@@ -14845,30 +14893,30 @@
       {
         "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」",
         "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に",
-        "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "World、金融スーパーアプリ「World Money」発表",
-        "url": "https://news.yahoo.co.jp/articles/bee61f0c513c636e8ad8f7d82f9938fc595b5c00",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "S&P Global、ブロックチェーンセキュリティ企業買収へ──オンチェーンのリスク評価を強化",
-        "url": "https://news.yahoo.co.jp/articles/ade5ec9f5dbc5c5c4e8a52feb5d25fedc907593e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI、シンガポールのステーブルコイン決済企業dtcpayに出資",
+        "url": "https://news.yahoo.co.jp/articles/6a697cd73e92e6f46152f417ab954cfa689aa605",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "zERC20、zJPYCで約996万トークンが不正ミント。約335万円相当が流出",
+        "url": "https://news.yahoo.co.jp/articles/84e28867c54be1418eebc6775a27984e060d24e8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベース、米地銀・信用組合に暗号資産サービス提供へ",
+        "url": "https://news.yahoo.co.jp/articles/b12f8796c631de337bc0786d4d36d6c7a0db9b35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ウィズダムツリーとムーンペイが提携、米国でトークン化MMFの提供拡大へ",
         "url": "https://news.yahoo.co.jp/articles/7026388e31c8edd4a47260e72456675f9b9e006e",
         "source": "Yahoo",
@@ -14883,24 +14931,6 @@
       {
         "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」",
         "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に",
-        "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "World、金融スーパーアプリ「World Money」発表",
-        "url": "https://news.yahoo.co.jp/articles/bee61f0c513c636e8ad8f7d82f9938fc595b5c00",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "S&P Global、ブロックチェーンセキュリティ企業買収へ──オンチェーンのリスク評価を強化",
-        "url": "https://news.yahoo.co.jp/articles/ade5ec9f5dbc5c5c4e8a52feb5d25fedc907593e",
         "source": "Yahoo",
         "date": ""
       }
