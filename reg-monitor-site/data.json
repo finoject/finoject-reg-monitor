@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-09-17T23:04:27.977Z",
+  "generatedAt": "2026-09-18T00:35:08.021Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "総裁記者会見ライブ配信（9月18日15時30分予定）",
+      "url": "https://www.boj.or.jp/about/release/sousailive.htm",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T00:35:08.021Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行総裁記者会見を7月31日15時30分から日本銀行動画チャンネル（YouTube）でライブ配信予定",
+        "金融市場関係者・メディア等が記者会見の内容をリアルタイムで視聴可能",
+        "配信予定日時：2026年7月31日15時30分から（日本銀行動画チャンネルYouTube）"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-18T00:35:13.876Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "基準外国為替相場及び裁定外国為替相場（10月分）",
+      "url": "https://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2610.htm",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T00:35:08.021Z",
+      "enriched": "2026-09-18T00:35:13.876Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "基準外国為替相場は1米ドル159円、裁定外国為替相場はカナダドル114円、中国元23円、ユーロ184円、スターリング・ポンド215円、スイス・フラン197円等が適用される。",
+        "銀行・両替商等の外国為替取扱機関は令和8年10月中の取引で財務大臣公示の基準相場及び裁定相場を適用する必要がある。",
+        "本相場は2026年9月18日に日本銀行国際局から公示され、令和8年10月1日から同月31日までの間適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "報告省令レート（10月分）",
+      "url": "https://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2610.htm",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T00:35:08.021Z",
+      "enriched": "2026-09-18T00:35:14.176Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "「外国為替の取引等の報告に関する省令」第35条第2号に基づき、令和8年10月分の報告省令レートが財務大臣公示により決定され、日本円とドルの換算レートは159円/ドル、その他多数通貨のドル換算レートが個別に設定された。",
+        "外国為替取引を報告対象とする金融機関・企業等の実務担当者は、令和8年10月中の外国為替取引報告において、本公示のレートを適用して円換算額を計算し報告する必要がある。",
+        "適用期間は令和8年10月中であり、外国為替の報告省令第35条第2号に基づく換算相場の公表に関わるもので、上記以外の通貨は当該月の市場実勢平均値を適用する。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]メディシノバ・インク 株式（コード4875）の基準値段の変更について",
@@ -5423,7 +5469,13 @@
       "date": "2026-08-03",
       "detectedAt": "2026-08-03T04:19:17.858Z",
       "enriched": "2026-08-03T04:19:23.962Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が取得できないため、提供されたタイトルと日付から推定します。日本証券業協会の協会員種別に変更があったことが示唆されています。",
+        "協会員である証券会社等は、自社の協会員種別がどの分類に該当するか確認し、必要に応じて届出・変更申請を行う必要があります。",
+        "2026年8月3日の公表日を基準として、新しい協会員種別分類が適用されるか否か、詳細な施行日程については原文の確認が必要です。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本公認会計士協会",
@@ -5894,21 +5946,6 @@
         "2026年6月の決済統計として、日銀当座預金決済、国債振決口座振替決済、民間決済システム（全銀システム・外為円決済等）、電子マネー、デビットカードなど主要決済指標を編集・公表。",
         "全国金融機関等の実務担当者は、日銀当座預金決済件数・金額、BOJ-NETの利用状況、全銀システムの取扱高等の統計から自行の決済動向を把握・確認する必要がある。",
         "決済機構局が2026年7月31日に公表した月次統計であり、各機関は報告義務に基づき取扱実績を日本銀行に報告し、政策・経営判断の基礎資料として活用する。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "総裁記者会見ライブ配信（7月31日15時30分予定）",
-      "url": "https://www.boj.or.jp/about/release/sousailive.htm",
-      "date": "2026-07-31",
-      "detectedAt": "2026-07-31T01:09:55.207Z",
-      "enriched": "2026-07-31T01:09:59.494Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行総裁記者会見を7月31日15時30分から日本銀行動画チャンネル（YouTube）でライブ配信予定",
-        "金融市場関係者・メディア等が記者会見の内容をリアルタイムで視聴可能",
-        "配信予定日時：2026年7月31日15時30分から（日本銀行動画チャンネルYouTube）"
       ],
       "aiSumV": 3
     },
@@ -14492,6 +14529,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "米ＳＥＣ、トークン化株式への規制を5年免除 デジタル資産と従来市場の統合深化",
+        "url": "https://news.yahoo.co.jp/articles/6372b3313669c6e51b097e866a4c88bd65f63011",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国警察、Polymarket利用者26人を立件──18人を送検＝報道",
+        "url": "https://news.yahoo.co.jp/articles/6f9ef9e5181e5f37d471520b569a0de65a87e11c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ＮＹ市場サマリー（17日）10年債利回り4.9％台に低下、ドル下落 株上昇",
         "url": "https://news.yahoo.co.jp/articles/eca8dbe1a1303e4ecd82948c46182822fcf6ed16",
         "source": "Yahoo",
@@ -14512,24 +14561,24 @@
       {
         "title": "Hyperliquid、米国の永久先物市場参入へ",
         "url": "https://news.yahoo.co.jp/articles/246f3ef21a15bf604f05c062a7be9610798e2658",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、暗号資産交換業者の「販売所」誘導を懸念",
-        "url": "https://news.yahoo.co.jp/articles/69da5bfd4853ff494eb27bcdf6ea885a86c555ea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サーティックとキルギス中央銀行がMOU。CBDC「デジタルソム」で協力へ",
-        "url": "https://news.yahoo.co.jp/articles/38769b2cd6bcc7cc0b61cdfb4e86ffd55e8ef025",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米ＳＥＣ、トークン化株式への規制を5年免除 デジタル資産と従来市場の統合深化",
+        "url": "https://news.yahoo.co.jp/articles/6372b3313669c6e51b097e866a4c88bd65f63011",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国警察、Polymarket利用者26人を立件──18人を送検＝報道",
+        "url": "https://news.yahoo.co.jp/articles/6f9ef9e5181e5f37d471520b569a0de65a87e11c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ＮＹ市場サマリー（17日）10年債利回り4.9％台に低下、ドル下落 株上昇",
         "url": "https://news.yahoo.co.jp/articles/eca8dbe1a1303e4ecd82948c46182822fcf6ed16",
         "source": "Yahoo",
@@ -14550,18 +14599,6 @@
       {
         "title": "Hyperliquid、米国の永久先物市場参入へ",
         "url": "https://news.yahoo.co.jp/articles/246f3ef21a15bf604f05c062a7be9610798e2658",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、暗号資産交換業者の「販売所」誘導を懸念",
-        "url": "https://news.yahoo.co.jp/articles/69da5bfd4853ff494eb27bcdf6ea885a86c555ea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サーティックとキルギス中央銀行がMOU。CBDC「デジタルソム」で協力へ",
-        "url": "https://news.yahoo.co.jp/articles/38769b2cd6bcc7cc0b61cdfb4e86ffd55e8ef025",
         "source": "Yahoo",
         "date": ""
       }
@@ -14720,6 +14757,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "World、金融スーパーアプリ「World Money」発表",
+        "url": "https://news.yahoo.co.jp/articles/bee61f0c513c636e8ad8f7d82f9938fc595b5c00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "S&P Global、ブロックチェーンセキュリティ企業買収へ──オンチェーンのリスク評価を強化",
+        "url": "https://news.yahoo.co.jp/articles/ade5ec9f5dbc5c5c4e8a52feb5d25fedc907593e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "WisdomTree、トークン化ファンドでMoonPayと提携──米国投資家へのアクセス拡大",
         "url": "https://news.yahoo.co.jp/articles/7a44c15ce4b60107c5e625ae136bdaecb8b444d3",
         "source": "Yahoo",
@@ -14740,24 +14789,24 @@
       {
         "title": "SBI、円建てステーブルコインの日韓取引を検証",
         "url": "https://news.yahoo.co.jp/articles/da259b7d4381cd3b1592b971db3a05e20af1ca88",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米司法省、イラン原油収益94億円相当の暗号資産没収求め提訴",
-        "url": "https://news.yahoo.co.jp/articles/c98def7b302b6a13f3a252c8ca4d7b115dc52c60",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIと韓国教保生命、カントンで日韓送金を実証。ステーブルコイン活用へ",
-        "url": "https://news.yahoo.co.jp/articles/96f7fa187fe3bccc8bb14ae28d6650cff8ffbb24",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "World、金融スーパーアプリ「World Money」発表",
+        "url": "https://news.yahoo.co.jp/articles/bee61f0c513c636e8ad8f7d82f9938fc595b5c00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "S&P Global、ブロックチェーンセキュリティ企業買収へ──オンチェーンのリスク評価を強化",
+        "url": "https://news.yahoo.co.jp/articles/ade5ec9f5dbc5c5c4e8a52feb5d25fedc907593e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "WisdomTree、トークン化ファンドでMoonPayと提携──米国投資家へのアクセス拡大",
         "url": "https://news.yahoo.co.jp/articles/7a44c15ce4b60107c5e625ae136bdaecb8b444d3",
         "source": "Yahoo",
@@ -14778,18 +14827,6 @@
       {
         "title": "SBI、円建てステーブルコインの日韓取引を検証",
         "url": "https://news.yahoo.co.jp/articles/da259b7d4381cd3b1592b971db3a05e20af1ca88",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米司法省、イラン原油収益94億円相当の暗号資産没収求め提訴",
-        "url": "https://news.yahoo.co.jp/articles/c98def7b302b6a13f3a252c8ca4d7b115dc52c60",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIと韓国教保生命、カントンで日韓送金を実証。ステーブルコイン活用へ",
-        "url": "https://news.yahoo.co.jp/articles/96f7fa187fe3bccc8bb14ae28d6650cff8ffbb24",
         "source": "Yahoo",
         "date": ""
       }
