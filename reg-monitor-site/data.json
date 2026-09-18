@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-09-18T03:06:04.723Z",
+  "generatedAt": "2026-09-18T04:51:40.077Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "「補完当座預金制度基本要領」の一部改正について",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260918b.pdf",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T04:51:40.077Z",
+      "enriched": "2026-09-18T04:51:44.806Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は補完当座預金制度の適用利率を年1.0%から1.25%に引き上げることを決定した。",
+        "補完当座預金の利用者は令和8年9月24日より新利率1.25%が適用されることに対応する必要がある。",
+        "改正は2026年9月18日の政策委員会・金融政策決定会合で決定され、同年9月24日から実施される補完当座預金制度基本要領の改正である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "「気候変動対応を支援するための資金供給オペレーション基本要領」の一部改正等について",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260918a.pdf",
+      "date": "2026-09-18",
+      "detectedAt": "2026-09-18T04:51:40.077Z",
+      "lawrefs": [
+        {
+          "id": "356AC0000000059",
+          "art": "第37条",
+          "kind": "改正",
+          "label": "銀行法 第37条"
+        }
+      ],
+      "enriched": "2026-09-18T04:51:45.137Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "気候変動対応資金供給オペの貸付利率を「補完当座預金制度基本要領」の適用利率の貸付期間中平均値に改正し、貸付限度額は総額50兆円・貸付先ごと10兆円上限に設定。本日から実施。",
+        "系統中央機関の会員金融機関による利用について、各会員ごとの報告対象投融資残高に相当する貸付限度額を個別に設定し、その総額を各系統中央機関の貸付限度額とする特則を改正。本日から実施。",
+        "被災地金融機関支援オペの対象災害を「東日本大震災とする」と明記し、同災害の貸付限度額を1兆円と設定。災害ごとの限度額は金融政策決定会合で決定。令和9年5月31日から適用。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "（参考）金融市場調節方針の変更（2026年９月金融政策決定会合）",
@@ -14565,6 +14603,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」",
+        "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Bitcoin Japan、初のビットコイン購入へ。上限100万ドル",
+        "url": "https://news.yahoo.co.jp/articles/7e432c4b6354ffadf99fe6f4dc5c21b7770f6580",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
         "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
         "source": "Yahoo",
@@ -14585,24 +14635,24 @@
       {
         "title": "韓国警察、Polymarket利用者26人を立件──18人を送検＝報道",
         "url": "https://news.yahoo.co.jp/articles/6f9ef9e5181e5f37d471520b569a0de65a87e11c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ＮＹ市場サマリー（17日）10年債利回り4.9％台に低下、ドル下落 株上昇",
-        "url": "https://news.yahoo.co.jp/articles/eca8dbe1a1303e4ecd82948c46182822fcf6ed16",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
-        "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」",
+        "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Bitcoin Japan、初のビットコイン購入へ。上限100万ドル",
+        "url": "https://news.yahoo.co.jp/articles/7e432c4b6354ffadf99fe6f4dc5c21b7770f6580",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
         "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
         "source": "Yahoo",
@@ -14623,18 +14673,6 @@
       {
         "title": "韓国警察、Polymarket利用者26人を立件──18人を送検＝報道",
         "url": "https://news.yahoo.co.jp/articles/6f9ef9e5181e5f37d471520b569a0de65a87e11c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ＮＹ市場サマリー（17日）10年債利回り4.9％台に低下、ドル下落 株上昇",
-        "url": "https://news.yahoo.co.jp/articles/eca8dbe1a1303e4ecd82948c46182822fcf6ed16",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
-        "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
         "source": "Yahoo",
         "date": ""
       }
@@ -14793,6 +14831,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」",
+        "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に",
         "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df",
         "source": "Yahoo",
@@ -14819,18 +14863,18 @@
       {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC、Upbit上場の影響で価格乖離",
-        "url": "https://news.yahoo.co.jp/articles/85b17920bfd301c6701871297bb6142684fb2219",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」",
+        "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に",
         "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df",
         "source": "Yahoo",
@@ -14857,12 +14901,6 @@
       {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC、Upbit上場の影響で価格乖離",
-        "url": "https://news.yahoo.co.jp/articles/85b17920bfd301c6701871297bb6142684fb2219",
         "source": "Yahoo",
         "date": ""
       }
