@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T08:22:03.598Z",
+  "generatedAt": "2026-09-23T09:52:38.536Z",
   "items": [
     {
       "agency": "金融庁",
@@ -14763,6 +14763,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米CMEグループ、ビットコインキャッシュ（BCH）とユニスワップ（UNI）の先物取引を提供へ",
+        "url": "https://news.yahoo.co.jp/articles/a149a905f438c92d14e80e33cb7e4903a61bc7ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Mastercard、全米認可銀行初のステーブルコイン決済を実稼働",
         "url": "https://news.yahoo.co.jp/articles/c642d6eb6f1c7f37e765402ab6db41a30542ae90",
         "source": "Yahoo",
@@ -14789,18 +14795,18 @@
       {
         "title": "ブロックチェーンのプライバシー、静かに本流へ移りつつある【記者コラム】",
         "url": "https://news.yahoo.co.jp/articles/35c127a70c34c9b52f46dc6c57840825619ff2dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン8万6000ドル突破、それでも強気一辺倒にできない理由【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/e76d1ee51fb39f3c32e5ce5e15ec502ba4ec69ce",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米CMEグループ、ビットコインキャッシュ（BCH）とユニスワップ（UNI）の先物取引を提供へ",
+        "url": "https://news.yahoo.co.jp/articles/a149a905f438c92d14e80e33cb7e4903a61bc7ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Mastercard、全米認可銀行初のステーブルコイン決済を実稼働",
         "url": "https://news.yahoo.co.jp/articles/c642d6eb6f1c7f37e765402ab6db41a30542ae90",
         "source": "Yahoo",
@@ -14827,12 +14833,6 @@
       {
         "title": "ブロックチェーンのプライバシー、静かに本流へ移りつつある【記者コラム】",
         "url": "https://news.yahoo.co.jp/articles/35c127a70c34c9b52f46dc6c57840825619ff2dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン8万6000ドル突破、それでも強気一辺倒にできない理由【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/e76d1ee51fb39f3c32e5ce5e15ec502ba4ec69ce",
         "source": "Yahoo",
         "date": ""
       }
