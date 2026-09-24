@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:46:12.920Z",
+  "generatedAt": "2026-09-24T23:23:24.396Z",
   "items": [
     {
       "agency": "金融庁",
@@ -15186,6 +15186,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "FRB、ステーブルコイン規制案を公表",
+        "url": "https://news.yahoo.co.jp/articles/db701ef16532e939abad25f6887e18e2d3265dc0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインは今、買いなのか、売りなのか──「週刊NADA NEWS」で語った強気転換と年末への備え【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/7b78cf97a05744f4c675f5111b1a1ed7b2fb52b6",
         "source": "Yahoo",
@@ -15212,18 +15218,18 @@
       {
         "title": "米政権、ドル建てステーブルコインの海外普及を検討＝Bloomberg",
         "url": "https://news.yahoo.co.jp/articles/b02f7ed231fdff8170131f002225e33177c6b3ca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ECBとEU各国の中銀、ステーブルコイン準備資産の銀行預金保有義務撤廃を提言",
-        "url": "https://news.yahoo.co.jp/articles/eb20e0a87948747fdcb10de79e9bd2462fb0335c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "FRB、ステーブルコイン規制案を公表",
+        "url": "https://news.yahoo.co.jp/articles/db701ef16532e939abad25f6887e18e2d3265dc0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインは今、買いなのか、売りなのか──「週刊NADA NEWS」で語った強気転換と年末への備え【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/7b78cf97a05744f4c675f5111b1a1ed7b2fb52b6",
         "source": "Yahoo",
@@ -15250,12 +15256,6 @@
       {
         "title": "米政権、ドル建てステーブルコインの海外普及を検討＝Bloomberg",
         "url": "https://news.yahoo.co.jp/articles/b02f7ed231fdff8170131f002225e33177c6b3ca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ECBとEU各国の中銀、ステーブルコイン準備資産の銀行預金保有義務撤廃を提言",
-        "url": "https://news.yahoo.co.jp/articles/eb20e0a87948747fdcb10de79e9bd2462fb0335c",
         "source": "Yahoo",
         "date": ""
       }
