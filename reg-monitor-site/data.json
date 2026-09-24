@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-09-24T03:59:55.816Z",
+  "generatedAt": "2026-09-24T05:30:35.203Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止理由及び上場廃止日の変更：（株）山大",
+      "url": "https://www.jpx.co.jp/news/1023/20260924-11.html",
+      "date": "2026-09-24",
+      "detectedAt": "2026-09-24T05:30:35.203Z",
+      "enriched": "2026-09-24T05:30:41.043Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）山大の上場廃止理由が「上場維持基準への不適合」から「特定の者以外の株主のすべての株式が1株に満たない端数となる割合での株式併合実施」に変更された。",
+        "同社は2026年9月24日の臨時株主総会で株式併合議案を承認され、有価証券上場規程第601条第1項第18号に基づく上場廃止となることが確定した。",
+        "上場廃止日が2026年10月1日から2026年9月28日（月）に前倒しされ、東証スタンダード市場における同社の上場は同日をもって終了する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）レイヤード",
+      "url": "https://www.jpx.co.jp/news/1031/20260924_02.html",
+      "date": "2026-09-24",
+      "detectedAt": "2026-09-24T05:30:35.203Z",
+      "enriched": "2026-09-24T05:30:41.043Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）レイヤード（コード634A）の新規上場日（9月25日）における初値決定前気配運用として、板中心値段1,400円から上限3,220円（更新値幅70円・10分間隔）、下限1,050円（通常更新値幅・3分間隔）で段階的に気配を更新する。",
+        "取引参加者は新規上場日の売買において成行呼値を禁止され、注文受付価格は350円以上5,600円以下の範囲で指値注文のみ受け付け、制限値幅は初値決定まで適用されない。",
+        "初値決定後は当該初値を基準値段として呼値の制限値幅が適用され、初値決定日までは前日に売買が成立しなかった場合も成行呼値が禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）カドー",
+      "url": "https://www.jpx.co.jp/news/1031/20260924_01.html",
+      "date": "2026-09-24",
+      "detectedAt": "2026-09-24T05:30:35.203Z",
+      "enriched": "2026-09-24T05:30:41.043Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）カドーは2026年9月25日に新規上場し、初値決定前の気配は板中心値段2,680円から開始、上限6,170円（更新値幅134円・10分間隔）、下限2,010円（通常値幅・3分間隔）で運用される。",
+        "取引参加者は注文受付価格を670円以上10,720円以下の範囲内で発注し、新規上場日の売買において成行呼値を禁止する必要がある。",
+        "初値決定まで制限値幅は適用されず、初値決定後に当該初値を基準値段として呼値の制限値幅が適用される。初値は気配更新の上限値段から通常値幅分高い値段まで、下限値段から通常値幅分安い値段まで成立可能。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
@@ -14778,6 +14823,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "ブロックチェーン・ドットコムとNYSE、トークン化米国株・ETFの取引提供に向け覚書",
+        "url": "https://news.yahoo.co.jp/articles/66073660e0fc582b8790ad0ee76b278ef959c8c6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ムーンペイ、米ノース・キャピタル買収で合意。証券仲介・投資顧問事業を取得へ",
+        "url": "https://news.yahoo.co.jp/articles/43b12c407577e19da398f62e089cec8495d1bd20",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産が約50%下落しても機関投資家が売らなかった理由＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/dd8f880efb8047848cdadbed42d34b9c5df9eff8",
         "source": "Yahoo",
@@ -14798,24 +14855,24 @@
       {
         "title": "Blockchain.comとNYSE、トークン化米国株・ETF提供で基本合意",
         "url": "https://news.yahoo.co.jp/articles/ac53d3382973b54625dd07e9b35fe6f1ee7f0bf3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは「新たな強気相場」に入ったのか――オンチェーンは強気、短期は過熱、そして中間選挙【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/fc3424839e3f42c81c8e805eb34c705d46cad7b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トルコ、ファンド不正渦中の投資会社会長ら逮捕－元外務省高官も",
-        "url": "https://news.yahoo.co.jp/articles/8b9e5a408f54afb94878ddd160e3854cee720996",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ブロックチェーン・ドットコムとNYSE、トークン化米国株・ETFの取引提供に向け覚書",
+        "url": "https://news.yahoo.co.jp/articles/66073660e0fc582b8790ad0ee76b278ef959c8c6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ムーンペイ、米ノース・キャピタル買収で合意。証券仲介・投資顧問事業を取得へ",
+        "url": "https://news.yahoo.co.jp/articles/43b12c407577e19da398f62e089cec8495d1bd20",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産が約50%下落しても機関投資家が売らなかった理由＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/dd8f880efb8047848cdadbed42d34b9c5df9eff8",
         "source": "Yahoo",
@@ -14836,18 +14893,6 @@
       {
         "title": "Blockchain.comとNYSE、トークン化米国株・ETF提供で基本合意",
         "url": "https://news.yahoo.co.jp/articles/ac53d3382973b54625dd07e9b35fe6f1ee7f0bf3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは「新たな強気相場」に入ったのか――オンチェーンは強気、短期は過熱、そして中間選挙【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/fc3424839e3f42c81c8e805eb34c705d46cad7b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トルコ、ファンド不正渦中の投資会社会長ら逮捕－元外務省高官も",
-        "url": "https://news.yahoo.co.jp/articles/8b9e5a408f54afb94878ddd160e3854cee720996",
         "source": "Yahoo",
         "date": ""
       }
@@ -15006,6 +15051,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ブロックチェーン・ドットコムとNYSE、トークン化米国株・ETFの取引提供に向け覚書",
+        "url": "https://news.yahoo.co.jp/articles/66073660e0fc582b8790ad0ee76b278ef959c8c6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソーファイ、マスターカード網で自社カード取引の資金精算に「SoFiUSD」導入",
+        "url": "https://news.yahoo.co.jp/articles/06f90b297a5c3f206f94d1ece5025185e4a7678f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ファイアブロックス、カカオペイ・カカオバンクとMOU。韓国のデジタル資産基盤を共同検討",
         "url": "https://news.yahoo.co.jp/articles/4307481c5533816d6d0278e92912712434b90175",
         "source": "Yahoo",
@@ -15026,24 +15083,24 @@
       {
         "title": "米国のステーブルコイン利用意向、銀行並みの保護で56％＝Visa",
         "url": "https://news.yahoo.co.jp/articles/7232123c9621bef116185c7cab4252cc8da0dfcd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Blockchain.comとNYSE、トークン化米国株・ETF提供で基本合意",
-        "url": "https://news.yahoo.co.jp/articles/ac53d3382973b54625dd07e9b35fe6f1ee7f0bf3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは「新たな強気相場」に入ったのか――オンチェーンは強気、短期は過熱、そして中間選挙【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/fc3424839e3f42c81c8e805eb34c705d46cad7b7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ブロックチェーン・ドットコムとNYSE、トークン化米国株・ETFの取引提供に向け覚書",
+        "url": "https://news.yahoo.co.jp/articles/66073660e0fc582b8790ad0ee76b278ef959c8c6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ソーファイ、マスターカード網で自社カード取引の資金精算に「SoFiUSD」導入",
+        "url": "https://news.yahoo.co.jp/articles/06f90b297a5c3f206f94d1ece5025185e4a7678f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ファイアブロックス、カカオペイ・カカオバンクとMOU。韓国のデジタル資産基盤を共同検討",
         "url": "https://news.yahoo.co.jp/articles/4307481c5533816d6d0278e92912712434b90175",
         "source": "Yahoo",
@@ -15064,18 +15121,6 @@
       {
         "title": "米国のステーブルコイン利用意向、銀行並みの保護で56％＝Visa",
         "url": "https://news.yahoo.co.jp/articles/7232123c9621bef116185c7cab4252cc8da0dfcd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Blockchain.comとNYSE、トークン化米国株・ETF提供で基本合意",
-        "url": "https://news.yahoo.co.jp/articles/ac53d3382973b54625dd07e9b35fe6f1ee7f0bf3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは「新たな強気相場」に入ったのか――オンチェーンは強気、短期は過熱、そして中間選挙【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/fc3424839e3f42c81c8e805eb34c705d46cad7b7",
         "source": "Yahoo",
         "date": ""
       }
