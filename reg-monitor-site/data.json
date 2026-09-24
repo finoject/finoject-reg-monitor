@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-24T02:29:19.140Z",
+  "generatedAt": "2026-09-24T03:59:55.816Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
+      "date": "2026-09-24",
+      "detectedAt": "2026-09-24T03:59:55.816Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "PTS Information Networkの終了に伴い、金融商品取引所上場銘柄のPTSにおける売買状況等の統計を日本証券業協会ホームページで公表する体制に移行した（2025年7月1日終了）。",
+        "一般投資家および市場関係者は、協会ホームページから月次（毎月21日原則公表）および年次の現金信用別売買状況、売買株数・売買代金データを参照可能になった。",
+        "PTS運営業務を行う会員および取引所外取引を行う会員からの報告に基づき、売買株数・売買代金を集計し、取引所取引との比較分析が可能な統計情報として継続提供される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-24T04:00:02.183Z"
+    },
     {
       "agency": "日本銀行",
       "title": "FSBレポ統計の日本分集計結果",
@@ -4106,22 +4122,6 @@
       "detectedAt": "2026-08-21T05:08:05.016Z",
       "enriched": "2026-08-21T05:08:11.001Z",
       "enrichV": 2
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
-      "date": "2026-08-21",
-      "detectedAt": "2026-08-21T04:20:53.382Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "PTS Information Networkの終了に伴い、金融商品取引所上場銘柄のPTSにおける売買状況等の統計を日本証券業協会ホームページで公表する体制に移行した（2025年7月1日終了）。",
-        "一般投資家および市場関係者は、協会ホームページから月次（毎月21日原則公表）および年次の現金信用別売買状況、売買株数・売買代金データを参照可能になった。",
-        "PTS運営業務を行う会員および取引所外取引を行う会員からの報告に基づき、売買株数・売買代金を集計し、取引所取引との比較分析が可能な統計情報として継続提供される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-21T04:20:59.660Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -15006,6 +15006,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "ファイアブロックス、カカオペイ・カカオバンクとMOU。韓国のデジタル資産基盤を共同検討",
+        "url": "https://news.yahoo.co.jp/articles/4307481c5533816d6d0278e92912712434b90175",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ドル担保型ステーブルコインの海外普及促進、米政権が検討-関係者",
+        "url": "https://news.yahoo.co.jp/articles/8d45f62f4d8d2e897d00a6593ffd1d0404402a68",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、サークルと5年契約。1億ドル出資し新興市場でUSDC普及へ",
+        "url": "https://news.yahoo.co.jp/articles/93f2c8bf532a14cbf1495184dc008cb4fd6716d9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米国のステーブルコイン利用意向、銀行並みの保護で56％＝Visa",
         "url": "https://news.yahoo.co.jp/articles/7232123c9621bef116185c7cab4252cc8da0dfcd",
         "source": "Yahoo",
@@ -15020,30 +15038,30 @@
       {
         "title": "ビットコインは「新たな強気相場」に入ったのか――オンチェーンは強気、短期は過熱、そして中間選挙【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/fc3424839e3f42c81c8e805eb34c705d46cad7b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "被害女性の訴えは無視されてきたのに",
-        "url": "https://news.yahoo.co.jp/articles/dcc07e37ac4cca67941e02531c3d2979f0e21167",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Mastercard、全米認可銀行初のステーブルコイン決済を実稼働",
-        "url": "https://news.yahoo.co.jp/articles/c642d6eb6f1c7f37e765402ab6db41a30542ae90",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kaia、JPYCから韓国ウォンへの精算を実証へ──DOZNと提携",
-        "url": "https://news.yahoo.co.jp/articles/a9c1dc44d3c016935e4ab5b92ef0154cad594e51",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ファイアブロックス、カカオペイ・カカオバンクとMOU。韓国のデジタル資産基盤を共同検討",
+        "url": "https://news.yahoo.co.jp/articles/4307481c5533816d6d0278e92912712434b90175",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ドル担保型ステーブルコインの海外普及促進、米政権が検討-関係者",
+        "url": "https://news.yahoo.co.jp/articles/8d45f62f4d8d2e897d00a6593ffd1d0404402a68",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、サークルと5年契約。1億ドル出資し新興市場でUSDC普及へ",
+        "url": "https://news.yahoo.co.jp/articles/93f2c8bf532a14cbf1495184dc008cb4fd6716d9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米国のステーブルコイン利用意向、銀行並みの保護で56％＝Visa",
         "url": "https://news.yahoo.co.jp/articles/7232123c9621bef116185c7cab4252cc8da0dfcd",
         "source": "Yahoo",
@@ -15058,24 +15076,6 @@
       {
         "title": "ビットコインは「新たな強気相場」に入ったのか――オンチェーンは強気、短期は過熱、そして中間選挙【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/fc3424839e3f42c81c8e805eb34c705d46cad7b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "被害女性の訴えは無視されてきたのに",
-        "url": "https://news.yahoo.co.jp/articles/dcc07e37ac4cca67941e02531c3d2979f0e21167",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Mastercard、全米認可銀行初のステーブルコイン決済を実稼働",
-        "url": "https://news.yahoo.co.jp/articles/c642d6eb6f1c7f37e765402ab6db41a30542ae90",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kaia、JPYCから韓国ウォンへの精算を実証へ──DOZNと提携",
-        "url": "https://news.yahoo.co.jp/articles/a9c1dc44d3c016935e4ab5b92ef0154cad594e51",
         "source": "Yahoo",
         "date": ""
       }
@@ -15820,6 +15820,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「本当のこと」でも名誉毀損に？転職口コミで個人特定され書類送検",
+        "url": "https://news.yahoo.co.jp/articles/1d03b2806f9c1ba647bd480add727b9ad9270668",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国政府、国民向け「みんなのAI」でデータ移動基準策定へ",
         "url": "https://news.yahoo.co.jp/articles/6a2f9435b1ff08c08e6f1fa0c31ad1e950da5622",
         "source": "Yahoo",
@@ -15846,18 +15852,18 @@
       {
         "title": "個人情報漏えいの疑いで麻績村職員2人を書類送検 空き家バンクの登録申込書を無断でコピーして第三者へ 「コピーしたものを渡した」などと容疑認める【長野】",
         "url": "https://news.yahoo.co.jp/articles/25e873968a9a8f2162e7f5894fb9c55c522e4172",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIを活用したURL・広告タグセキュリティ診断「ndp one」ティザーサイト公開",
-        "url": "https://news.yahoo.co.jp/articles/464f4917915f593864ca96d4aef092ebfa16652d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「本当のこと」でも名誉毀損に？転職口コミで個人特定され書類送検",
+        "url": "https://news.yahoo.co.jp/articles/1d03b2806f9c1ba647bd480add727b9ad9270668",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国政府、国民向け「みんなのAI」でデータ移動基準策定へ",
         "url": "https://news.yahoo.co.jp/articles/6a2f9435b1ff08c08e6f1fa0c31ad1e950da5622",
         "source": "Yahoo",
@@ -15884,18 +15890,18 @@
       {
         "title": "個人情報漏えいの疑いで麻績村職員2人を書類送検 空き家バンクの登録申込書を無断でコピーして第三者へ 「コピーしたものを渡した」などと容疑認める【長野】",
         "url": "https://news.yahoo.co.jp/articles/25e873968a9a8f2162e7f5894fb9c55c522e4172",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIを活用したURL・広告タグセキュリティ診断「ndp one」ティザーサイト公開",
-        "url": "https://news.yahoo.co.jp/articles/464f4917915f593864ca96d4aef092ebfa16652d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「本当のこと」でも名誉毀損に？転職口コミで個人特定され書類送検",
+        "url": "https://news.yahoo.co.jp/articles/1d03b2806f9c1ba647bd480add727b9ad9270668",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国政府、国民向け「みんなのAI」でデータ移動基準策定へ",
         "url": "https://news.yahoo.co.jp/articles/6a2f9435b1ff08c08e6f1fa0c31ad1e950da5622",
         "source": "Yahoo",
@@ -15922,12 +15928,6 @@
       {
         "title": "個人情報漏えいの疑いで麻績村職員2人を書類送検 空き家バンクの登録申込書を無断でコピーして第三者へ 「コピーしたものを渡した」などと容疑認める【長野】",
         "url": "https://news.yahoo.co.jp/articles/25e873968a9a8f2162e7f5894fb9c55c522e4172",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIを活用したURL・広告タグセキュリティ診断「ndp one」ティザーサイト公開",
-        "url": "https://news.yahoo.co.jp/articles/464f4917915f593864ca96d4aef092ebfa16652d",
         "source": "Yahoo",
         "date": ""
       }
