@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-09-25T00:46:45.287Z",
+  "generatedAt": "2026-09-25T02:24:36.856Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "債券貸借取引残高等状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/taishaku/index.html",
+      "date": "2026-09-25",
+      "detectedAt": "2026-09-25T02:24:36.856Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "債券貸借取引残高等状況の公表統計について、2009年1月取引分より集計方法を改め、公表名称を「債券貸借取引状況」から「債券貸借取引残高等状況」に変更した。",
+        "報告対象をディーリング勘定のみに限定し、外貨建債券・短期社債・手形CPを除外し、投資家別内訳を「公社債投資家別現先売買月末残高」と整合させた。",
+        "毎月25日に更新される本統計は、債券貸借取引残高を金融機関・事業法人・外国人・個人等の投資家別に月末残高でまとめており、2009年1月以降のデータが対象。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-25T02:24:42.610Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "上場有価証券の発行会社が発行した店頭取扱有価証券の売買状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/toriatsukai/index.html",
+      "date": "2026-09-25",
+      "detectedAt": "2026-09-25T02:24:36.856Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "日本証券業協会の会員が売買した上場会社発行の店頭取扱有価証券（非上場株式・転換社債等）について、売買状況の統計を定期的に公表する。",
+        "協会会員は、継続開示会社又は一定開示能力を持つ上場会社が発行する店頭取扱有価証券の売買を行った場合、売買状況を報告する必要がある。",
+        "本統計は月次で集計・公表されるもので、2026年1月～5月分は現在報告がない状況。過去データは2006年以降分が保存されている。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-25T02:24:42.610Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（9月20日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260920.htm",
+      "date": "2026-09-25",
+      "detectedAt": "2026-09-25T02:24:36.856Z",
+      "enriched": "2026-09-25T02:24:42.611Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の2026年9月20日現在の総資産は641兆2,813億円で、国債520兆3,025億円、当座預金410兆2,527億円、貸付金68兆4,185億円等から構成されている。",
+        "発行銀行券114兆7,802億円が負債の最大項目であり、当座預金410兆2,527億円は金融機関の準備預金として機能し、日銀の主要な負債構成となっている。",
+        "貸付金のうち貸出増加支援基金35兆6,645億円、共通担保資金供給等32兆7,540億円が特定オペレーションで供給されており、金融調整機能の具体的な内訳を示している。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "BIS国際資金取引統計および国際与信統計の日本分集計結果",
@@ -3906,38 +3953,6 @@
         "初値決定前は制限値幅が適用されず、初値は気配更新の上限値段から通常更新値幅分高い値段まで、下限値段から通常更新値幅分安い値段まで成立可能とする東証規則に基づく運用。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "債券貸借取引残高等状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/taishaku/index.html",
-      "date": "2026-08-25",
-      "detectedAt": "2026-08-25T02:06:38.830Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "債券貸借取引残高等状況の公表統計について、2009年1月取引分より集計方法を改め、公表名称を「債券貸借取引状況」から「債券貸借取引残高等状況」に変更した。",
-        "報告対象をディーリング勘定のみに限定し、外貨建債券・短期社債・手形CPを除外し、投資家別内訳を「公社債投資家別現先売買月末残高」と整合させた。",
-        "毎月25日に更新される本統計は、債券貸借取引残高を金融機関・事業法人・外国人・個人等の投資家別に月末残高でまとめており、2009年1月以降のデータが対象。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-25T02:06:44.630Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "上場有価証券の発行会社が発行した店頭取扱有価証券の売買状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/toriatsukai/index.html",
-      "date": "2026-08-25",
-      "detectedAt": "2026-08-25T02:06:38.830Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "日本証券業協会の会員が売買した上場会社発行の店頭取扱有価証券（非上場株式・転換社債等）について、売買状況の統計を定期的に公表する。",
-        "協会会員は、継続開示会社又は一定開示能力を持つ上場会社が発行する店頭取扱有価証券の売買を行った場合、売買状況を報告する必要がある。",
-        "本統計は月次で集計・公表されるもので、2026年1月～5月分は現在報告がない状況。過去データは2006年以降分が保存されている。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-08-25T02:06:44.630Z"
     },
     {
       "agency": "日本証券業協会",
@@ -14904,6 +14919,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "円連動目標の暗号資産型ステーブルコイン「JPYdf」発行へ、DeltaForesightがCoral CapitalやFFGらから累計3.24億円調達",
+        "url": "https://news.yahoo.co.jp/articles/cc9f6678b0c134f6da39976c3ae3bae4091700fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "円ステーブルコイン「JPYC」、韓国アップビット上場直後に価格乖離で一時約4円に急騰",
         "url": "https://news.yahoo.co.jp/articles/e4b465ad693e1ec764d2d7e60e359bddc8efe06c",
         "source": "Yahoo",
@@ -14930,18 +14951,18 @@
       {
         "title": "暗号資産「20％分離課税」で何が変わるのか──BCCC税制部会で議論した、DeFiとステーブルコインに残る課題【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/27c8745b6f928eaec0372e915f429acf3475693f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産税制、「一件落着」ではない──業界団体BCCCの税制部会が始動",
-        "url": "https://news.yahoo.co.jp/articles/6d122a5ec777da0245d6b34cc170b2f47ac6062c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "円連動目標の暗号資産型ステーブルコイン「JPYdf」発行へ、DeltaForesightがCoral CapitalやFFGらから累計3.24億円調達",
+        "url": "https://news.yahoo.co.jp/articles/cc9f6678b0c134f6da39976c3ae3bae4091700fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "円ステーブルコイン「JPYC」、韓国アップビット上場直後に価格乖離で一時約4円に急騰",
         "url": "https://news.yahoo.co.jp/articles/e4b465ad693e1ec764d2d7e60e359bddc8efe06c",
         "source": "Yahoo",
@@ -14968,12 +14989,6 @@
       {
         "title": "暗号資産「20％分離課税」で何が変わるのか──BCCC税制部会で議論した、DeFiとステーブルコインに残る課題【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/27c8745b6f928eaec0372e915f429acf3475693f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産税制、「一件落着」ではない──業界団体BCCCの税制部会が始動",
-        "url": "https://news.yahoo.co.jp/articles/6d122a5ec777da0245d6b34cc170b2f47ac6062c",
         "source": "Yahoo",
         "date": ""
       }
@@ -15208,6 +15223,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "JR九州、金融スーパーアプリ「JQ BANK」を27年度開始",
+        "url": "https://news.yahoo.co.jp/articles/1b324de90a7c3ed62de385516b3912ce39964d2b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "IBM、SWIFTのブロックチェーン共有台帳への接続機能をベータ提供。オンプレミス版も",
+        "url": "https://news.yahoo.co.jp/articles/fb99167746681ccadc1b76aa73a0b7f876b3867c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "円連動目標の暗号資産型ステーブルコイン「JPYdf」発行へ、DeltaForesightがCoral CapitalやFFGらから累計3.24億円調達",
+        "url": "https://news.yahoo.co.jp/articles/cc9f6678b0c134f6da39976c3ae3bae4091700fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "FRB、ステーブルコイン規制案を公表",
         "url": "https://news.yahoo.co.jp/articles/db701ef16532e939abad25f6887e18e2d3265dc0",
         "source": "Yahoo",
@@ -15222,30 +15255,30 @@
       {
         "title": "XRPレジャー、権限委任機能のメインネット有効化に向け投票続く。支持率は80％",
         "url": "https://news.yahoo.co.jp/articles/3520f58c4fe5f350d0b62debeb877d07fcc117de",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインチェック、暗号資産レバレッジ取引サービスを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/cf1de7a76c88d58bf2d14083e55f9940b1749df9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アップルとグーグル、求人の歓迎要件に「ステーブルコインの知識」記載",
-        "url": "https://news.yahoo.co.jp/articles/c06a92cdbe2bf1bb90468a14e2ce4f216ed6ffaf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権、ドル建てステーブルコインの海外普及を検討＝Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/b02f7ed231fdff8170131f002225e33177c6b3ca",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JR九州、金融スーパーアプリ「JQ BANK」を27年度開始",
+        "url": "https://news.yahoo.co.jp/articles/1b324de90a7c3ed62de385516b3912ce39964d2b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "IBM、SWIFTのブロックチェーン共有台帳への接続機能をベータ提供。オンプレミス版も",
+        "url": "https://news.yahoo.co.jp/articles/fb99167746681ccadc1b76aa73a0b7f876b3867c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "円連動目標の暗号資産型ステーブルコイン「JPYdf」発行へ、DeltaForesightがCoral CapitalやFFGらから累計3.24億円調達",
+        "url": "https://news.yahoo.co.jp/articles/cc9f6678b0c134f6da39976c3ae3bae4091700fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "FRB、ステーブルコイン規制案を公表",
         "url": "https://news.yahoo.co.jp/articles/db701ef16532e939abad25f6887e18e2d3265dc0",
         "source": "Yahoo",
@@ -15260,24 +15293,6 @@
       {
         "title": "XRPレジャー、権限委任機能のメインネット有効化に向け投票続く。支持率は80％",
         "url": "https://news.yahoo.co.jp/articles/3520f58c4fe5f350d0b62debeb877d07fcc117de",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインチェック、暗号資産レバレッジ取引サービスを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/cf1de7a76c88d58bf2d14083e55f9940b1749df9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アップルとグーグル、求人の歓迎要件に「ステーブルコインの知識」記載",
-        "url": "https://news.yahoo.co.jp/articles/c06a92cdbe2bf1bb90468a14e2ce4f216ed6ffaf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権、ドル建てステーブルコインの海外普及を検討＝Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/b02f7ed231fdff8170131f002225e33177c6b3ca",
         "source": "Yahoo",
         "date": ""
       }
