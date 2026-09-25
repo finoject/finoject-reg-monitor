@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-25T08:11:59.471Z",
+  "generatedAt": "2026-09-25T09:42:34.323Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の基準値段等：データセンターインフラ 日本株（ネットリターン）ETN（コード643A）等2銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260925-01.html",
+      "date": "2026-09-25",
+      "detectedAt": "2026-09-25T09:42:34.323Z",
+      "enriched": "2026-09-25T09:42:39.588Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年9月28日、データセンターインフラ日本株（ネットリターン）ETN（コード643A）と防衛フォーカス日本株（ネットリターン）ETN（コード644A）の2銘柄がそれぞれ基準値段10,355円、10,045円で新規上場される。",
+        "取引参加者および投資家は、両ETNの売買単位（1口）、呼値制限値幅（3,000円）を確認して取引準備を行う必要がある。",
+        "東証規則に基づく新規上場手続により、上記2銘柄は2026年9月28日から東京証券取引所での取引が開始される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）東京みらい不動産",
@@ -15449,6 +15464,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "日本、世界の暗号資産普及指数で4位に──前年19位から大幅上昇＝Chainalysis",
+        "url": "https://news.yahoo.co.jp/articles/5142941f96d49af86b46d2819218f0056c65cc84",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米FRB、ステーブルコイン発行体向け規制案を公表",
+        "url": "https://news.yahoo.co.jp/articles/28cda8f16059f1ed1509498550d30591125ffde0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本ブロックチェーン基盤、ステーブルコイン実証プログラム開始。東芝ら26社・団体参画",
+        "url": "https://news.yahoo.co.jp/articles/0c05da57b3b9df3ce3a89c4428ae3a0e291b2484",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットバンク、JADATの保有全株式を三井住友信託銀行に譲渡へ",
+        "url": "https://news.yahoo.co.jp/articles/b329c84cd4af6d4b31fd13877ba491bac1bcc539",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産型ステーブルコイン「JPYdf」開発のDeltaForesight、3億円調達",
         "url": "https://news.yahoo.co.jp/articles/cfdb8cd6621d3788d18652f55f8c9c43bb0fb4a2",
         "source": "Yahoo",
@@ -15457,36 +15496,36 @@
       {
         "title": "パクソスラボ、PAXG裏付けトークン「PAXGy」ローンチ。金の貸出収益を交換レートに反映",
         "url": "https://news.yahoo.co.jp/articles/f9300d796c2764747d96a881329f892d3d7c6c6d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化預金の標準化へ──デジタル通貨イノベーション機構が始動、黒田前日銀総裁も参画",
-        "url": "https://news.yahoo.co.jp/articles/f707863e1011ca90ed21166c3bdf0c5337b3045f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ユーロ建てステーブルコイン「EURAU」、ステラ上でドイツの福利厚生プログラムに本番利用",
-        "url": "https://news.yahoo.co.jp/articles/2b7d4186dc3e3f4270909c77cef4757f8ca0afaf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JR九州とSBI、「JQ BANK」正式発表──ステーブルコイン決済も構想",
-        "url": "https://news.yahoo.co.jp/articles/116916e5f173148e1d95daa22bb57dfbe8fd2da9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本ブロックチェーン基盤、ステーブルコインEJPY実証に東芝ら26社参画",
-        "url": "https://news.yahoo.co.jp/articles/12f360f51258c7c44a01db0f341694f2e134361a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "日本、世界の暗号資産普及指数で4位に──前年19位から大幅上昇＝Chainalysis",
+        "url": "https://news.yahoo.co.jp/articles/5142941f96d49af86b46d2819218f0056c65cc84",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米FRB、ステーブルコイン発行体向け規制案を公表",
+        "url": "https://news.yahoo.co.jp/articles/28cda8f16059f1ed1509498550d30591125ffde0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本ブロックチェーン基盤、ステーブルコイン実証プログラム開始。東芝ら26社・団体参画",
+        "url": "https://news.yahoo.co.jp/articles/0c05da57b3b9df3ce3a89c4428ae3a0e291b2484",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットバンク、JADATの保有全株式を三井住友信託銀行に譲渡へ",
+        "url": "https://news.yahoo.co.jp/articles/b329c84cd4af6d4b31fd13877ba491bac1bcc539",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産型ステーブルコイン「JPYdf」開発のDeltaForesight、3億円調達",
         "url": "https://news.yahoo.co.jp/articles/cfdb8cd6621d3788d18652f55f8c9c43bb0fb4a2",
         "source": "Yahoo",
@@ -15495,30 +15534,6 @@
       {
         "title": "パクソスラボ、PAXG裏付けトークン「PAXGy」ローンチ。金の貸出収益を交換レートに反映",
         "url": "https://news.yahoo.co.jp/articles/f9300d796c2764747d96a881329f892d3d7c6c6d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化預金の標準化へ──デジタル通貨イノベーション機構が始動、黒田前日銀総裁も参画",
-        "url": "https://news.yahoo.co.jp/articles/f707863e1011ca90ed21166c3bdf0c5337b3045f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ユーロ建てステーブルコイン「EURAU」、ステラ上でドイツの福利厚生プログラムに本番利用",
-        "url": "https://news.yahoo.co.jp/articles/2b7d4186dc3e3f4270909c77cef4757f8ca0afaf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JR九州とSBI、「JQ BANK」正式発表──ステーブルコイン決済も構想",
-        "url": "https://news.yahoo.co.jp/articles/116916e5f173148e1d95daa22bb57dfbe8fd2da9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本ブロックチェーン基盤、ステーブルコインEJPY実証に東芝ら26社参画",
-        "url": "https://news.yahoo.co.jp/articles/12f360f51258c7c44a01db0f341694f2e134361a",
         "source": "Yahoo",
         "date": ""
       }
