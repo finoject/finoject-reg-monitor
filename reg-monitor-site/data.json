@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T23:07:45.031Z",
+  "generatedAt": "2026-09-27T23:57:53.271Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "企業向けサービス価格指数（8月）",
+      "url": "https://www.boj.or.jp/statistics/pi/cspi_release/sppi2608.pdf",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-27T23:57:53.271Z",
+      "enriched": "2026-09-27T23:57:58.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年8月の企業向けサービス価格指数（総平均）は115.4（2020年平均=100）で、前年比+3.7％、前月比+0.3％。除く国際運輸では114.5で前年比+3.2％。",
+        "外航貨物輸送が前年比74.2％の大幅上昇、リースが21.1％上昇し、運輸・郵便とリース・レンタルが総平均上昇に1.11ポイント、0.82ポイント寄与。",
+        "時系列データは日本銀行ホームページの「時系列統計データ検索サイト」から2026年9月28日8時50分公表分としてダウンロード可能。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融政策決定会合議事要旨（7月30、31日開催分）",
+      "url": "https://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260731.pdf",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-27T23:57:53.271Z",
+      "enriched": "2026-09-27T23:57:58.655Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年6月の長期国債買入れを月間2.7兆円程度から7月は月間2.5兆円程度に2,000億円減額し、無担保コールレート（オーバーナイト物）を0.976～0.981％のレンジで推移させた。",
+        "金融市場参加者は、中東情勢の不確実性やAI関連需要動向、財政・金融政策の先行き等に注視し、投資判断を慎重に行う必要がある。",
+        "2026年7月30、31日開催の金融政策決定会合で、景気は緩やかに回復するもエネルギー・原材料価格上昇により当面は減速見通しとなり、設備投資は増加基調ながら増勢が鈍化するとの評価が示された。"
       ],
       "aiSumV": 3
     },
@@ -15356,6 +15386,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
+        "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラーケン親会社Payward、欧州の銀行を「まもなく買収」へ＝CoinDesk",
         "url": "https://news.yahoo.co.jp/articles/ca0d5f9eb5ba71ce72872d37b8088c7da4b94089",
         "source": "Yahoo",
@@ -15382,18 +15418,18 @@
       {
         "title": "CoinbaseとBinanceはなぜ強いのか──世界の暗号資産取引所を動かす二つの力【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/70d31e3feef1a768a0839dac4e033b6b59aa06b1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米SEC「クリプトママ」パース委員、10月2日退任へ",
-        "url": "https://news.yahoo.co.jp/articles/0648eb6692327a863979a0b02fbe479065087598",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
+        "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラーケン親会社Payward、欧州の銀行を「まもなく買収」へ＝CoinDesk",
         "url": "https://news.yahoo.co.jp/articles/ca0d5f9eb5ba71ce72872d37b8088c7da4b94089",
         "source": "Yahoo",
@@ -15420,12 +15456,6 @@
       {
         "title": "CoinbaseとBinanceはなぜ強いのか──世界の暗号資産取引所を動かす二つの力【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/70d31e3feef1a768a0839dac4e033b6b59aa06b1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米SEC「クリプトママ」パース委員、10月2日退任へ",
-        "url": "https://news.yahoo.co.jp/articles/0648eb6692327a863979a0b02fbe479065087598",
         "source": "Yahoo",
         "date": ""
       }
@@ -15584,6 +15614,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
+        "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブテリン氏、2030年に向けたイーサリアム構想を提示",
         "url": "https://news.yahoo.co.jp/articles/e15a475045e798d70f16d0de127bf9b1c169cce3",
         "source": "Yahoo",
@@ -15610,18 +15646,18 @@
       {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CoinbaseとBinanceはなぜ強いのか──世界の暗号資産取引所を動かす二つの力【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/70d31e3feef1a768a0839dac4e033b6b59aa06b1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
+        "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ブテリン氏、2030年に向けたイーサリアム構想を提示",
         "url": "https://news.yahoo.co.jp/articles/e15a475045e798d70f16d0de127bf9b1c169cce3",
         "source": "Yahoo",
@@ -15648,12 +15684,6 @@
       {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CoinbaseとBinanceはなぜ強いのか──世界の暗号資産取引所を動かす二つの力【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/70d31e3feef1a768a0839dac4e033b6b59aa06b1",
         "source": "Yahoo",
         "date": ""
       }
