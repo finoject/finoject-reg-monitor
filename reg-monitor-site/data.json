@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:26:21.098Z",
+  "generatedAt": "2026-09-28T08:57:05.634Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,66 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]実質的存続性に関する審査結果（実質的存続性の喪失）及び猶予期間入り：（株）ウェルディッシュ",
+      "url": "https://www.jpx.co.jp/news/1023/20260928-14.html",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-28T08:57:05.634Z",
+      "enriched": "2026-09-28T08:57:10.870Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ウェルディッシュが2025年12月11日の株式交換時点で実質的存続会社でないと認定され、有価証券上場規程第601条第1項第5号ａに該当する実質的存続性喪失として猶予期間に入った。",
+        "同社株主及び関係者は、猶予期間（2025年12月11日～2029年8月31日）中に新規上場基準に準じた基準適合を達成しなければ上場廃止となることを理解し、必要な経営改善を実施する必要がある。",
+        "猶予期間入りは東証スタンダード市場上場（コード2901）の同社に適用され、併せて特別注意銘柄指定及び上場契約違約金の徴求が別途公表されている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]特別注意銘柄の指定及び上場契約違約金の徴求：（株）ウェルディッシュ",
+      "url": "https://www.jpx.co.jp/news/1023/20260928-13.html",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-28T08:57:05.634Z",
+      "enriched": "2026-09-28T08:57:10.870Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ウェルディッシュの株式（コード2901、スタンダード市場）を2026年9月29日付で特別注意銘柄に指定。理由は期中レビュー報告書に結論不表明が記載され、業務適正確保の体制整備に違反したため（有価証券上場規程第503条第1項第2号b・第4号）。",
+        "同社に対し有価証券上場規程第509条第1項第2号に基づき上場契約違約金2880万円を徴求。元代表取締役による新株予約権不正行使、虚偽説明、書類廃棄指示、財務DD未実施、利益相反取引の事前承認未取得、売上総額表示不適切化など内部管理体制の重大な不備が認定された。",
+        "同社はコンプライアンス意識欠如と経営者不正を含む複数問題で市場信頼を毀損。同日付で別途「実質的存続性喪失及び猶予期間入り」を公表。特別注意銘柄指定と上場廃止基準への該当性審査が並行実施される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]特別注意銘柄の指定及び上場契約違約金の徴求：（株）アドバンスクリエイト",
+      "url": "https://www.jpx.co.jp/news/1023/20260928-12.html",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-28T08:57:05.634Z",
+      "enriched": "2026-09-28T08:57:10.870Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）アドバンスクリエイトのメディア事業において2021年9月期から2026年9月期第1四半期まで売上前倒計上・実取引なし・費用繰延べ・資産過大計上が行われ、虚偽の決算開示が継続された。",
+        "同社は2026年9月29日付で特別注意銘柄に指定され、適時開示規定違反（有価証券上場規程第503条第1項第3号）により内部管理体制改善が必要、上場契約違約金3,360万円の支払いを求められる（同規程第509条第1項第1号）。",
+        "不正会計を認識していた役職員が2025年過年度訂正時に報告せず誤った情報を継続開示した結果、2022年9月期の純資産が正から負に転じるなど投資家判断に重大影響を与えた。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの調整後の権利行使価格：2026年9月29日調整分",
+      "url": "https://www.jpx.co.jp/news/2020/20260928-01.html",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-28T08:57:05.634Z",
+      "enriched": "2026-09-28T08:57:10.870Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "一部有価証券について10月1日を効力発生日とする株式分割が予定されており、該当する有価証券オプションの権利行使価格を9月29日より調整する。",
+        "大阪取引所が対象銘柄に係るオプション（フレックスオプション限月取引含む）の権利行使価格を調整し、円位未満は四捨五入で対応する。",
+        "調整は2026年9月29日から適用され、大阪取引所が権利行使価格の詳細情報（調整後の具体的な数値など）を提供している。"
       ],
       "aiSumV": 3
     },
@@ -15767,13 +15827,25 @@
     ],
     "505M60000002048": [
       {
+        "title": "コインチェック、FLR・DAIの取扱い廃止へ",
+        "url": "https://news.yahoo.co.jp/articles/6ad7c4f0e51c838359f22e12c45e971f59ae24f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ECB、トークン化資産を中央銀行マネーで決済する「Pontes」を開始──2つの決済方式と、2028年の24時間化計画【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/cf74756e6922d00602e64706af609730e8efc20d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本発L1のJSC、「MIZUHIKI」に改称──ステーブルコイン決済事業へ転換",
         "url": "https://news.yahoo.co.jp/articles/c4bb10050ac95c5a85ac5652e2eb0e99f0ad16e1",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ディナリのトークン化米国株「ディーシェアーズ」、セイ対応へ。S&P500全構成銘柄を提供予定",
+        "title": "ディナリのトークン化米国株「dShares」、Sei対応へ。S＆P500全構成銘柄を提供予定",
         "url": "https://news.yahoo.co.jp/articles/40f47f1973322ca16803879d8302d9d50b9d0e15",
         "source": "Yahoo",
         "date": ""
@@ -15787,31 +15859,31 @@
       {
         "title": "ジュピター、JUP・HYPE・ZEC・SPCX・SKHYNIX・SNDKを無期限先物に追加",
         "url": "https://news.yahoo.co.jp/articles/1cd044a7f8012aba498fb19211e83c793d750d1d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化米国株・ETF提供のオンド・ストックス、near[.]comとNEAR Intentsに対応",
-        "url": "https://news.yahoo.co.jp/articles/d127ea9fb324d198a6a4bb98531e65a6d0c9e2ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アーベV4、トークン化米国株を担保にUSDC借入可能に。ベース上のエクイティーズハブで",
-        "url": "https://news.yahoo.co.jp/articles/9b844f17d9b9232accdcea84ba60d2c778c82944",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "コインチェック、FLR・DAIの取扱い廃止へ",
+        "url": "https://news.yahoo.co.jp/articles/6ad7c4f0e51c838359f22e12c45e971f59ae24f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ECB、トークン化資産を中央銀行マネーで決済する「Pontes」を開始──2つの決済方式と、2028年の24時間化計画【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/cf74756e6922d00602e64706af609730e8efc20d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本発L1のJSC、「MIZUHIKI」に改称──ステーブルコイン決済事業へ転換",
         "url": "https://news.yahoo.co.jp/articles/c4bb10050ac95c5a85ac5652e2eb0e99f0ad16e1",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ディナリのトークン化米国株「ディーシェアーズ」、セイ対応へ。S&P500全構成銘柄を提供予定",
+        "title": "ディナリのトークン化米国株「dShares」、Sei対応へ。S＆P500全構成銘柄を提供予定",
         "url": "https://news.yahoo.co.jp/articles/40f47f1973322ca16803879d8302d9d50b9d0e15",
         "source": "Yahoo",
         "date": ""
@@ -15825,18 +15897,6 @@
       {
         "title": "ジュピター、JUP・HYPE・ZEC・SPCX・SKHYNIX・SNDKを無期限先物に追加",
         "url": "https://news.yahoo.co.jp/articles/1cd044a7f8012aba498fb19211e83c793d750d1d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化米国株・ETF提供のオンド・ストックス、near[.]comとNEAR Intentsに対応",
-        "url": "https://news.yahoo.co.jp/articles/d127ea9fb324d198a6a4bb98531e65a6d0c9e2ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アーベV4、トークン化米国株を担保にUSDC借入可能に。ベース上のエクイティーズハブで",
-        "url": "https://news.yahoo.co.jp/articles/9b844f17d9b9232accdcea84ba60d2c778c82944",
         "source": "Yahoo",
         "date": ""
       }
@@ -16201,6 +16261,12 @@
     ],
     "356AC0000000059": [
       {
+        "title": "四国放送がEC事業に参入、阿波銀行100%子会社でECモール運営の阿波銀コネクトに出資",
+        "url": "https://news.yahoo.co.jp/articles/b1b5e62835b9da2f9fb4af8802fa30f272c596e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融ビジネスモデル「金利ある世界」で新たな展開へ、AIの利活用が最大の焦点に",
         "url": "https://news.yahoo.co.jp/articles/3e62c4ead5b08ad2dcfe52d0491b59cb06cf8bec",
         "source": "Yahoo",
@@ -16227,18 +16293,18 @@
       {
         "title": "2026年3月期「不良債権比率」 1.07％に低下 貸倒引当金は 2年連続減、5年ぶりの3兆円台",
         "url": "https://news.yahoo.co.jp/articles/c4d5142d8d7100c6b39ecbdc64ff2c3ecd12ca79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】資産運用会社の買収、規制緩和へ 金融庁、貯蓄から投資の流れ加速",
-        "url": "https://news.yahoo.co.jp/articles/defe067bdbdacb168db8ff4ab0d6db802ea1ee6c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "357CO0000000040": [
       {
+        "title": "四国放送がEC事業に参入、阿波銀行100%子会社でECモール運営の阿波銀コネクトに出資",
+        "url": "https://news.yahoo.co.jp/articles/b1b5e62835b9da2f9fb4af8802fa30f272c596e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融ビジネスモデル「金利ある世界」で新たな展開へ、AIの利活用が最大の焦点に",
         "url": "https://news.yahoo.co.jp/articles/3e62c4ead5b08ad2dcfe52d0491b59cb06cf8bec",
         "source": "Yahoo",
@@ -16265,18 +16331,18 @@
       {
         "title": "2026年3月期「不良債権比率」 1.07％に低下 貸倒引当金は 2年連続減、5年ぶりの3兆円台",
         "url": "https://news.yahoo.co.jp/articles/c4d5142d8d7100c6b39ecbdc64ff2c3ecd12ca79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】資産運用会社の買収、規制緩和へ 金融庁、貯蓄から投資の流れ加速",
-        "url": "https://news.yahoo.co.jp/articles/defe067bdbdacb168db8ff4ab0d6db802ea1ee6c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "357M50000040010": [
       {
+        "title": "四国放送がEC事業に参入、阿波銀行100%子会社でECモール運営の阿波銀コネクトに出資",
+        "url": "https://news.yahoo.co.jp/articles/b1b5e62835b9da2f9fb4af8802fa30f272c596e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融ビジネスモデル「金利ある世界」で新たな展開へ、AIの利活用が最大の焦点に",
         "url": "https://news.yahoo.co.jp/articles/3e62c4ead5b08ad2dcfe52d0491b59cb06cf8bec",
         "source": "Yahoo",
@@ -16303,18 +16369,18 @@
       {
         "title": "2026年3月期「不良債権比率」 1.07％に低下 貸倒引当金は 2年連続減、5年ぶりの3兆円台",
         "url": "https://news.yahoo.co.jp/articles/c4d5142d8d7100c6b39ecbdc64ff2c3ecd12ca79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】資産運用会社の買収、規制緩和へ 金融庁、貯蓄から投資の流れ加速",
-        "url": "https://news.yahoo.co.jp/articles/defe067bdbdacb168db8ff4ab0d6db802ea1ee6c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-city": [
       {
+        "title": "四国放送がEC事業に参入、阿波銀行100%子会社でECモール運営の阿波銀コネクトに出資",
+        "url": "https://news.yahoo.co.jp/articles/b1b5e62835b9da2f9fb4af8802fa30f272c596e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融ビジネスモデル「金利ある世界」で新たな展開へ、AIの利活用が最大の焦点に",
         "url": "https://news.yahoo.co.jp/articles/3e62c4ead5b08ad2dcfe52d0491b59cb06cf8bec",
         "source": "Yahoo",
@@ -16341,18 +16407,18 @@
       {
         "title": "2026年3月期「不良債権比率」 1.07％に低下 貸倒引当金は 2年連続減、5年ぶりの3兆円台",
         "url": "https://news.yahoo.co.jp/articles/c4d5142d8d7100c6b39ecbdc64ff2c3ecd12ca79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】資産運用会社の買収、規制緩和へ 金融庁、貯蓄から投資の流れ加速",
-        "url": "https://news.yahoo.co.jp/articles/defe067bdbdacb168db8ff4ab0d6db802ea1ee6c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-chusho": [
       {
+        "title": "四国放送がEC事業に参入、阿波銀行100%子会社でECモール運営の阿波銀コネクトに出資",
+        "url": "https://news.yahoo.co.jp/articles/b1b5e62835b9da2f9fb4af8802fa30f272c596e6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融ビジネスモデル「金利ある世界」で新たな展開へ、AIの利活用が最大の焦点に",
         "url": "https://news.yahoo.co.jp/articles/3e62c4ead5b08ad2dcfe52d0491b59cb06cf8bec",
         "source": "Yahoo",
@@ -16379,12 +16445,6 @@
       {
         "title": "2026年3月期「不良債権比率」 1.07％に低下 貸倒引当金は 2年連続減、5年ぶりの3兆円台",
         "url": "https://news.yahoo.co.jp/articles/c4d5142d8d7100c6b39ecbdc64ff2c3ecd12ca79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】資産運用会社の買収、規制緩和へ 金融庁、貯蓄から投資の流れ加速",
-        "url": "https://news.yahoo.co.jp/articles/defe067bdbdacb168db8ff4ab0d6db802ea1ee6c",
         "source": "Yahoo",
         "date": ""
       }
