@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T03:09:32.013Z",
+  "generatedAt": "2026-09-28T04:40:09.038Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）オーリーズ",
+      "url": "https://www.jpx.co.jp/news/1031/20260928_01.html",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-28T04:40:09.038Z",
+      "enriched": "2026-09-28T04:40:17.200Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)オーリーズ(コード637A)の9月29日上場時、板中心値段145円から上限334円(更新値幅8円・10分間隔)、下限109円(通常値幅・3分間隔)での気配運用が実施される",
+        "取引参加者は新規上場日の売買において成行呼値を禁止され、気配値幅内(37円以上580円以下)での指値注文のみが可能となる",
+        "初値決定まで制限値幅は適用されず、初値決定後に当該初値を基準値段として呼値の制限値幅が適用される(東京証券取引所)。成行呼値禁止は初値決定日まで継続"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：クラサスケミカル（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20260928_02.html",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-28T04:40:09.038Z",
+      "enriched": "2026-09-28T04:40:17.200Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "クラサスケミカル（株）（コード646A）の9月29日新規上場時に、板中心値段200円から開始し、上限460円（更新幅10円・10分間隔）、下限150円（通常更新幅・3分間隔）の気配運用を実施する。",
+        "取引参加者は新規上場日において成行売呼値および成行買呼値を禁止され、注文受付価格は50円以上800円以下の範囲に限定される。初値決定まで制限値幅は適用されない。",
+        "初値決定後は当該初値を基準値段として呼値の制限値幅が適用され、成行呼値の禁止は解除される。本運用は東証の新規上場銘柄に対する標準的な気配運用基準に基づく。"
       ],
       "aiSumV": 3
     },
@@ -15189,7 +15219,7 @@
   "lawnews": {
     "323AC0000000025": [
       {
-        "title": "株高、新NISAが追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
+        "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
         "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
         "source": "Yahoo",
         "date": ""
@@ -15227,7 +15257,7 @@
     ],
     "340CO0000000321": [
       {
-        "title": "株高、新NISAが追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
+        "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
         "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
         "source": "Yahoo",
         "date": ""
@@ -15265,7 +15295,7 @@
     ],
     "419M60000002052": [
       {
-        "title": "株高、新NISAが追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
+        "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
         "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
         "source": "Yahoo",
         "date": ""
@@ -15303,7 +15333,7 @@
     ],
     "fsa-kantoku-kinsho": [
       {
-        "title": "株高、新NISAが追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
+        "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
         "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
         "source": "Yahoo",
         "date": ""
@@ -15417,6 +15447,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米国が本気で進めるオンチェーン化──日本市場は変われるか｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/8512b217c7554e19b404e4de16067ae2711c5376",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法の採決失敗を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
         "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
         "source": "Yahoo",
@@ -15443,18 +15479,18 @@
       {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、公務員の業務経費をスマホのQRで決済へ",
-        "url": "https://news.yahoo.co.jp/articles/2ce0b90dd9797f0d16d3b82c98eb1498754da0c3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米国が本気で進めるオンチェーン化──日本市場は変われるか｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/8512b217c7554e19b404e4de16067ae2711c5376",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法の採決失敗を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
         "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
         "source": "Yahoo",
@@ -15481,12 +15517,6 @@
       {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、公務員の業務経費をスマホのQRで決済へ",
-        "url": "https://news.yahoo.co.jp/articles/2ce0b90dd9797f0d16d3b82c98eb1498754da0c3",
         "source": "Yahoo",
         "date": ""
       }
@@ -15645,6 +15675,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "ジュピター、JUP・HYPE・ZEC・SPCX・SKHYNIX・SNDKを無期限先物に追加",
+        "url": "https://news.yahoo.co.jp/articles/1cd044a7f8012aba498fb19211e83c793d750d1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トークン化米国株・ETF提供のオンド・ストックス、near[.]comとNEAR Intentsに対応",
+        "url": "https://news.yahoo.co.jp/articles/d127ea9fb324d198a6a4bb98531e65a6d0c9e2ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アーベV4、トークン化米国株を担保にUSDC借入可能に。ベース上のエクイティーズハブで",
+        "url": "https://news.yahoo.co.jp/articles/9b844f17d9b9232accdcea84ba60d2c778c82944",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米国が本気で進めるオンチェーン化──日本市場は変われるか｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/8512b217c7554e19b404e4de16067ae2711c5376",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法の採決失敗を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
         "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
         "source": "Yahoo",
@@ -15653,36 +15707,36 @@
       {
         "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
         "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブテリン氏、2030年に向けたイーサリアム構想を提示",
-        "url": "https://news.yahoo.co.jp/articles/e15a475045e798d70f16d0de127bf9b1c169cce3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC価格乖離、韓国投資家2.1万人が高値掴み──買付総額約280億円＝報道",
-        "url": "https://news.yahoo.co.jp/articles/a62839abea8f1e6505641a8990acc3b47ef0c0c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "鉄道会社が「銀行の玄関口」になる日──JR九州とSBIが描く、ステーブルコイン決済まで見据えた生活圏【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/84cc2613d01a87672b7366d1532e95accbcc5725",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界2位の暗号資産大国、それでもアメリカ人はCryptoをまだ「信じ切っていない」【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/6987a127380058904e0dbec767363eafb1135442",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ジュピター、JUP・HYPE・ZEC・SPCX・SKHYNIX・SNDKを無期限先物に追加",
+        "url": "https://news.yahoo.co.jp/articles/1cd044a7f8012aba498fb19211e83c793d750d1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トークン化米国株・ETF提供のオンド・ストックス、near[.]comとNEAR Intentsに対応",
+        "url": "https://news.yahoo.co.jp/articles/d127ea9fb324d198a6a4bb98531e65a6d0c9e2ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アーベV4、トークン化米国株を担保にUSDC借入可能に。ベース上のエクイティーズハブで",
+        "url": "https://news.yahoo.co.jp/articles/9b844f17d9b9232accdcea84ba60d2c778c82944",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米国が本気で進めるオンチェーン化──日本市場は変われるか｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/8512b217c7554e19b404e4de16067ae2711c5376",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法の採決失敗を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
         "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
         "source": "Yahoo",
@@ -15691,30 +15745,6 @@
       {
         "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
         "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブテリン氏、2030年に向けたイーサリアム構想を提示",
-        "url": "https://news.yahoo.co.jp/articles/e15a475045e798d70f16d0de127bf9b1c169cce3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC価格乖離、韓国投資家2.1万人が高値掴み──買付総額約280億円＝報道",
-        "url": "https://news.yahoo.co.jp/articles/a62839abea8f1e6505641a8990acc3b47ef0c0c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "鉄道会社が「銀行の玄関口」になる日──JR九州とSBIが描く、ステーブルコイン決済まで見据えた生活圏【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/84cc2613d01a87672b7366d1532e95accbcc5725",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界2位の暗号資産大国、それでもアメリカ人はCryptoをまだ「信じ切っていない」【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/6987a127380058904e0dbec767363eafb1135442",
         "source": "Yahoo",
         "date": ""
       }
