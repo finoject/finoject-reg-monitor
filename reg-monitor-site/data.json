@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T08:57:05.634Z",
+  "generatedAt": "2026-09-28T10:27:55.919Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）プロジェクトホールディングス",
+      "url": "https://www.jpx.co.jp/news/1023/20260928-11.html",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-28T10:27:55.919Z",
+      "enriched": "2026-09-28T10:28:01.748Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）プロジェクトホールディングス（グロース市場、コード9246）がTX1株式会社による公開買付けに賛同を表明し、株式等売渡請求または株式併合により上場廃止となる可能性が生じたため監理銘柄（確認中）に指定された。",
+        "同社は公開買付け成立後、売渡請求の承認または株主総会における株式併合議案の承認により上場廃止手続きが進行することから、投資家は取引所の上場廃止認定まで当該銘柄の推移を注視する必要がある。",
+        "指定期間は2026年9月28日（月）から上場廃止基準該当性が認定された日までで、有価証券上場規程施行規則第604条第1項第23号・24号に基づき指定される。"
       ],
       "aiSumV": 3
     },
@@ -15827,6 +15842,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "JPYC、海外取引所HTX（旧Huobi）に上場",
+        "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "AltX Research、ステーブルコイン決済事業に転換。旧JSC「MIZUHIKI」メインネット稼働",
+        "url": "https://news.yahoo.co.jp/articles/8a0b1f7f516a9b5a7c147e2686dc63a2723580de",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインチェック、FLR・DAIの取扱い廃止へ",
         "url": "https://news.yahoo.co.jp/articles/6ad7c4f0e51c838359f22e12c45e971f59ae24f5",
         "source": "Yahoo",
@@ -15845,26 +15872,26 @@
         "date": ""
       },
       {
-        "title": "ディナリのトークン化米国株「dShares」、Sei対応へ。S＆P500全構成銘柄を提供予定",
+        "title": "ディナリのトークン化米国株「dShares」がSei対応へ、S＆P500全構成銘柄を提供予定",
         "url": "https://news.yahoo.co.jp/articles/40f47f1973322ca16803879d8302d9d50b9d0e15",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース「Coinbase for Agents」に米国株・ETF取引追加、x402決済にも対応",
-        "url": "https://news.yahoo.co.jp/articles/5e850f05347d4de70d57f63b47333cab6b6de586",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ジュピター、JUP・HYPE・ZEC・SPCX・SKHYNIX・SNDKを無期限先物に追加",
-        "url": "https://news.yahoo.co.jp/articles/1cd044a7f8012aba498fb19211e83c793d750d1d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JPYC、海外取引所HTX（旧Huobi）に上場",
+        "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "AltX Research、ステーブルコイン決済事業に転換。旧JSC「MIZUHIKI」メインネット稼働",
+        "url": "https://news.yahoo.co.jp/articles/8a0b1f7f516a9b5a7c147e2686dc63a2723580de",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインチェック、FLR・DAIの取扱い廃止へ",
         "url": "https://news.yahoo.co.jp/articles/6ad7c4f0e51c838359f22e12c45e971f59ae24f5",
         "source": "Yahoo",
@@ -15883,20 +15910,8 @@
         "date": ""
       },
       {
-        "title": "ディナリのトークン化米国株「dShares」、Sei対応へ。S＆P500全構成銘柄を提供予定",
+        "title": "ディナリのトークン化米国株「dShares」がSei対応へ、S＆P500全構成銘柄を提供予定",
         "url": "https://news.yahoo.co.jp/articles/40f47f1973322ca16803879d8302d9d50b9d0e15",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース「Coinbase for Agents」に米国株・ETF取引追加、x402決済にも対応",
-        "url": "https://news.yahoo.co.jp/articles/5e850f05347d4de70d57f63b47333cab6b6de586",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ジュピター、JUP・HYPE・ZEC・SPCX・SKHYNIX・SNDKを無期限先物に追加",
-        "url": "https://news.yahoo.co.jp/articles/1cd044a7f8012aba498fb19211e83c793d750d1d",
         "source": "Yahoo",
         "date": ""
       }
