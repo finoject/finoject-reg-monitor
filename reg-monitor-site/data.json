@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T04:40:09.038Z",
+  "generatedAt": "2026-09-28T05:48:54.677Z",
   "items": [
     {
       "agency": "金融庁",
@@ -15,6 +15,38 @@
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "ＧＡＩＡ（154A）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-28T05:48:54.677Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-28T05:49:00.559Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "静銀ティーエム証券株式会社が「家族サポート証券口座」の取扱いを開始いたしました",
+      "url": "https://market.jsda.or.jp/shijyo/kazokusupport/index.html",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-28T05:48:54.677Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日産証券株式会社が2026年5月20日から「家族サポート証券口座」の取り扱いを開始した。同口座は認知判断能力低下時に家族代理人による取引継続を可能とする任意代理契約に基づくサービス。",
+        "顧客は認知判断能力の低下に備えて信頼できる家族と事前に任意代理契約を締結し、能力低下時に家族代理人に取引を委任することで、口座凍結を回避して資産活用を継続できる。",
+        "本制度は日本証券業協会が2025年2月19日に「家族サポート証券口座制度要綱」を公開し、2026年1月22日に改正している。現在7社の会員証券会社が取り扱い開始済み。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-28T05:49:00.559Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -362,22 +394,6 @@
         "算出方法は東証レバレッジ指数・東証インバース指数の算出要領に準拠し、当日指数値＝前日指数値×(1+N倍×原指数の前日比変動率)の計算式で原指数の前日比変動率に対して一定の倍数を乗じた変動率となるように設計。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "サンケイリアルエステート投資法人（2972）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-09-25",
-      "detectedAt": "2026-09-25T06:34:04.087Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-25T06:34:09.791Z"
     },
     {
       "agency": "日本証券業協会",
@@ -2181,22 +2197,6 @@
         "実務上の具体的な対応事項が本文に示されていないため、詳細はディスカッション・ペーパー・シリーズ本体を確認する必要がある。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "丸三証券株式会社が「家族サポート証券口座」の取扱いを開始いたしました",
-      "url": "https://market.jsda.or.jp/shijyo/kazokusupport/index.html",
-      "date": "2026-09-14",
-      "detectedAt": "2026-09-14T01:10:05.844Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日産証券株式会社が2026年5月20日から「家族サポート証券口座」の取り扱いを開始した。同口座は認知判断能力低下時に家族代理人による取引継続を可能とする任意代理契約に基づくサービス。",
-        "顧客は認知判断能力の低下に備えて信頼できる家族と事前に任意代理契約を締結し、能力低下時に家族代理人に取引を委任することで、口座凍結を回避して資産活用を継続できる。",
-        "本制度は日本証券業協会が2025年2月19日に「家族サポート証券口座制度要綱」を公開し、2026年1月22日に改正している。現在7社の会員証券会社が取り扱い開始済み。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-14T01:10:11.596Z"
     },
     {
       "agency": "日本銀行",
@@ -15447,6 +15447,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "SEC委員、KYC・AMLでの個人情報収集見直し提唱。ゼロ知識証明など活用へ",
+        "url": "https://news.yahoo.co.jp/articles/4259558269a637a7996173b4091c865149c6efeb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米国が本気で進めるオンチェーン化──日本市場は変われるか｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/8512b217c7554e19b404e4de16067ae2711c5376",
         "source": "Yahoo",
@@ -15473,18 +15479,18 @@
       {
         "title": "世界2位の暗号資産大国、それでもアメリカ人はCryptoをまだ「信じ切っていない」【サンフランシスコレポート】",
         "url": "https://news.yahoo.co.jp/articles/6987a127380058904e0dbec767363eafb1135442",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "SEC委員、KYC・AMLでの個人情報収集見直し提唱。ゼロ知識証明など活用へ",
+        "url": "https://news.yahoo.co.jp/articles/4259558269a637a7996173b4091c865149c6efeb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米国が本気で進めるオンチェーン化──日本市場は変われるか｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/8512b217c7554e19b404e4de16067ae2711c5376",
         "source": "Yahoo",
@@ -15511,12 +15517,6 @@
       {
         "title": "世界2位の暗号資産大国、それでもアメリカ人はCryptoをまだ「信じ切っていない」【サンフランシスコレポート】",
         "url": "https://news.yahoo.co.jp/articles/6987a127380058904e0dbec767363eafb1135442",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
         "date": ""
       }
@@ -15675,6 +15675,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "コインベース「Coinbase for Agents」に米国株・ETF取引追加、x402決済にも対応",
+        "url": "https://news.yahoo.co.jp/articles/5e850f05347d4de70d57f63b47333cab6b6de586",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ジュピター、JUP・HYPE・ZEC・SPCX・SKHYNIX・SNDKを無期限先物に追加",
         "url": "https://news.yahoo.co.jp/articles/1cd044a7f8012aba498fb19211e83c793d750d1d",
         "source": "Yahoo",
@@ -15701,18 +15707,18 @@
       {
         "title": "クラリティ法の採決失敗を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
         "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
-        "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "コインベース「Coinbase for Agents」に米国株・ETF取引追加、x402決済にも対応",
+        "url": "https://news.yahoo.co.jp/articles/5e850f05347d4de70d57f63b47333cab6b6de586",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ジュピター、JUP・HYPE・ZEC・SPCX・SKHYNIX・SNDKを無期限先物に追加",
         "url": "https://news.yahoo.co.jp/articles/1cd044a7f8012aba498fb19211e83c793d750d1d",
         "source": "Yahoo",
@@ -15739,12 +15745,6 @@
       {
         "title": "クラリティ法の採決失敗を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
         "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
-        "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
         "source": "Yahoo",
         "date": ""
       }
