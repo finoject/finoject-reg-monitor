@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T23:57:53.271Z",
+  "generatedAt": "2026-09-28T01:38:51.480Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "取扱廃止銘柄のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260928-001/",
+      "date": "2026-09-28",
+      "detectedAt": "2026-09-28T01:38:51.480Z",
+      "enriched": "2026-09-28T01:38:56.823Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "フレア（FLR）およびダイ（DAI）の2銘柄について、JVCEAが取扱廃止を公表。コインチェック株式会社が対象会員で、これらの暗号資産の取扱が廃止される。",
+        "暗号資産交換業者であるコインチェック株式会社は、対象銘柄の新規取扱受付停止、既存顧客への周知等の対応が必要となる。",
+        "取扱廃止日時は2026年11月2日14:00から。JVCEA会員企業の暗号資産取扱銘柄に関する規定に基づく廃止措置である。"
       ],
       "aiSumV": 3
     },
@@ -15158,6 +15173,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "株高、新NISAが追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
+        "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
@@ -15184,18 +15205,18 @@
       {
         "title": "コインチェック、暗号資産レバレッジ取引サービスを提供開始",
         "url": "https://news.yahoo.co.jp/articles/cf1de7a76c88d58bf2d14083e55f9940b1749df9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "投資詐欺で5000万円失った70代“元祖女子アナ”の悲痛告白 始まりは“見知らぬLINEグループに自動追加”「姪や甥により多くの財産を残したいと思ってしまったんです」",
-        "url": "https://news.yahoo.co.jp/articles/0081379a4efd3d39b37ba1c432376c82145f8fe4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "株高、新NISAが追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
+        "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
@@ -15222,18 +15243,18 @@
       {
         "title": "コインチェック、暗号資産レバレッジ取引サービスを提供開始",
         "url": "https://news.yahoo.co.jp/articles/cf1de7a76c88d58bf2d14083e55f9940b1749df9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "投資詐欺で5000万円失った70代“元祖女子アナ”の悲痛告白 始まりは“見知らぬLINEグループに自動追加”「姪や甥により多くの財産を残したいと思ってしまったんです」",
-        "url": "https://news.yahoo.co.jp/articles/0081379a4efd3d39b37ba1c432376c82145f8fe4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "株高、新NISAが追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
+        "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
@@ -15260,18 +15281,18 @@
       {
         "title": "コインチェック、暗号資産レバレッジ取引サービスを提供開始",
         "url": "https://news.yahoo.co.jp/articles/cf1de7a76c88d58bf2d14083e55f9940b1749df9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "投資詐欺で5000万円失った70代“元祖女子アナ”の悲痛告白 始まりは“見知らぬLINEグループに自動追加”「姪や甥により多くの財産を残したいと思ってしまったんです」",
-        "url": "https://news.yahoo.co.jp/articles/0081379a4efd3d39b37ba1c432376c82145f8fe4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "株高、新NISAが追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
+        "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
@@ -15298,12 +15319,6 @@
       {
         "title": "コインチェック、暗号資産レバレッジ取引サービスを提供開始",
         "url": "https://news.yahoo.co.jp/articles/cf1de7a76c88d58bf2d14083e55f9940b1749df9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "投資詐欺で5000万円失った70代“元祖女子アナ”の悲痛告白 始まりは“見知らぬLINEグループに自動追加”「姪や甥により多くの財産を残したいと思ってしまったんです」",
-        "url": "https://news.yahoo.co.jp/articles/0081379a4efd3d39b37ba1c432376c82145f8fe4",
         "source": "Yahoo",
         "date": ""
       }
@@ -15386,6 +15401,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "クラリティ法案否決を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
+        "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
         "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
         "source": "Yahoo",
@@ -15412,18 +15433,18 @@
       {
         "title": "韓国、公務員の業務経費をスマホのQRで決済へ",
         "url": "https://news.yahoo.co.jp/articles/2ce0b90dd9797f0d16d3b82c98eb1498754da0c3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CoinbaseとBinanceはなぜ強いのか──世界の暗号資産取引所を動かす二つの力【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/70d31e3feef1a768a0839dac4e033b6b59aa06b1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "クラリティ法案否決を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
+        "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
         "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
         "source": "Yahoo",
@@ -15450,12 +15471,6 @@
       {
         "title": "韓国、公務員の業務経費をスマホのQRで決済へ",
         "url": "https://news.yahoo.co.jp/articles/2ce0b90dd9797f0d16d3b82c98eb1498754da0c3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CoinbaseとBinanceはなぜ強いのか──世界の暗号資産取引所を動かす二つの力【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/70d31e3feef1a768a0839dac4e033b6b59aa06b1",
         "source": "Yahoo",
         "date": ""
       }
@@ -15614,6 +15629,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "クラリティ法案否決を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
+        "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
         "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
         "source": "Yahoo",
@@ -15640,18 +15661,18 @@
       {
         "title": "世界2位の暗号資産大国、それでもアメリカ人はCryptoをまだ「信じ切っていない」【サンフランシスコレポート】",
         "url": "https://news.yahoo.co.jp/articles/6987a127380058904e0dbec767363eafb1135442",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "クラリティ法案否決を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
+        "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
         "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
         "source": "Yahoo",
@@ -15678,12 +15699,6 @@
       {
         "title": "世界2位の暗号資産大国、それでもアメリカ人はCryptoをまだ「信じ切っていない」【サンフランシスコレポート】",
         "url": "https://news.yahoo.co.jp/articles/6987a127380058904e0dbec767363eafb1135442",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
         "date": ""
       }
