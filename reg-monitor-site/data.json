@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T05:52:59.496Z",
+  "generatedAt": "2026-09-29T07:23:47.445Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,68 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "カナデビア（7004）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-09-29",
+      "detectedAt": "2026-09-29T07:23:47.445Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-29T07:23:52.938Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-09-29",
+      "detectedAt": "2026-09-29T07:23:47.445Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-09-29T07:23:52.938Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証] 新規上場日の基準値段等：株式会社ASNOVA Companies 株式（コード640A）等3銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260929-02.html",
+      "date": "2026-09-29",
+      "detectedAt": "2026-09-29T07:23:47.445Z",
+      "enriched": "2026-09-29T07:23:52.938Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年10月1日、ASNOVA Companies（640A）、NOK Group（641A）、キューデンホールディングス（642A）の3銘柄が東証に新規上場し、基準値段はそれぞれ360円、2,955円、2,073円に設定される。",
+        "取引参加者および投資家は新規上場日から3銘柄について通常の呼値制限値幅（ASNOVA80円、その他500円）を適用して取引する必要がある。",
+        "新規上場は2026年10月1日から実施され、基準値段および制限値幅は東京証券取引所が公表した価格に従う。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：2銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20260929-01.html",
+      "date": "2026-09-29",
+      "detectedAt": "2026-09-29T07:23:47.445Z",
+      "enriched": "2026-09-29T07:23:52.938Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "Sharing Innovations（コード4178）とHYUGA PRIMARY CARE（コード7133）の2銘柄について、9月30日から制限値幅の上限を通常より拡大（それぞれ600円、2,000円）する。",
+        "これら銘柄の取引参加者および投資家は、拡大された制限値幅での値動きに対応し、特に成行注文での予期しない約定リスクに注意する必要がある。",
+        "拡大は東証が9月29日に発表した措置で、30日から適用され、ストップ高安以外で約定があった翌営業日から通常幅に戻る仕組み。"
       ],
       "aiSumV": 3
     },
@@ -245,22 +307,6 @@
         "銘柄別信用取引残高は従来の週次配信から日次配信（前営業日終了時点）に変更され、2026年12月末までの契約者を対象に2027年3月分までの利用料を75％割引とするキャンペーンを実施している。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ＧＡＩＡ（154A）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-09-28",
-      "detectedAt": "2026-09-28T05:48:54.677Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-28T05:49:00.559Z"
     },
     {
       "agency": "日本証券業協会",
@@ -1556,22 +1602,6 @@
         "IFAC副会長は2026年11月に会長に就任予定であり、国際的な会計専門職のガバナンス体制が変更される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-09-17",
-      "detectedAt": "2026-09-17T06:37:15.230Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-09-17T06:37:20.639Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -15553,6 +15583,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇 JPYCは、JPYC社が発行する日本円建てステーブルコインだ。日本の資金決済法上の「電子決済手段」に該当し、日本円の預貯金や国債を裏付け資産とする。あたらしい経済経済総合9/29(火) 14:57",
+        "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
         "source": "Yahoo",
@@ -15579,18 +15615,18 @@
       {
         "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
         "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
-        "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇 JPYCは、JPYC社が発行する日本円建てステーブルコインだ。日本の資金決済法上の「電子決済手段」に該当し、日本円の預貯金や国債を裏付け資産とする。あたらしい経済経済総合9/29(火) 14:57",
+        "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
         "source": "Yahoo",
@@ -15619,15 +15655,21 @@
         "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
-        "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "ベラルーシ、国内初の暗号資産銀行設立へ。2組織の登録承認",
+        "url": "https://news.yahoo.co.jp/articles/8b3156af5ac8a680d2545b74a16590f894be6421",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国金融委、暗号資産のマーケットメイク制度導入を検討か。JPYC価格急騰にも言及＝報道",
+        "url": "https://news.yahoo.co.jp/articles/1fe3a152a03c7afa45789971541a86a3bb817e85",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討",
         "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14",
@@ -15649,24 +15691,24 @@
       {
         "title": "【独自】なぜメタプラネットを選んだのか──子会社証券会社が語る買収までの2カ月",
         "url": "https://news.yahoo.co.jp/articles/b754bb4b24807505a525c38da88422b64d9fd104",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米シティとコインベース、大企業顧客向けにステーブルコイン決済を提供へ＝WSJ",
-        "url": "https://news.yahoo.co.jp/articles/c39c32844bb836510fe95a64f855addd2d15b07e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米カリフォルニア州、公職者のミームコイン発行を禁止──州政府はトランプ大統領を名指し",
-        "url": "https://news.yahoo.co.jp/articles/b0e180414f9703290a3df759bf0f533e975bd153",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ベラルーシ、国内初の暗号資産銀行設立へ。2組織の登録承認",
+        "url": "https://news.yahoo.co.jp/articles/8b3156af5ac8a680d2545b74a16590f894be6421",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国金融委、暗号資産のマーケットメイク制度導入を検討か。JPYC価格急騰にも言及＝報道",
+        "url": "https://news.yahoo.co.jp/articles/1fe3a152a03c7afa45789971541a86a3bb817e85",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討",
         "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14",
         "source": "Yahoo",
@@ -15687,18 +15729,6 @@
       {
         "title": "【独自】なぜメタプラネットを選んだのか──子会社証券会社が語る買収までの2カ月",
         "url": "https://news.yahoo.co.jp/articles/b754bb4b24807505a525c38da88422b64d9fd104",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米シティとコインベース、大企業顧客向けにステーブルコイン決済を提供へ＝WSJ",
-        "url": "https://news.yahoo.co.jp/articles/c39c32844bb836510fe95a64f855addd2d15b07e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米カリフォルニア州、公職者のミームコイン発行を禁止──州政府はトランプ大統領を名指し",
-        "url": "https://news.yahoo.co.jp/articles/b0e180414f9703290a3df759bf0f533e975bd153",
         "source": "Yahoo",
         "date": ""
       }
@@ -15857,76 +15887,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "バイビット、フランクリンテンプルトンのトークン化MMFを取引所外担保に",
-        "url": "https://news.yahoo.co.jp/articles/edf7a09d30ff2e704ab6647888e11b7cbdcab90c",
+        "title": "金融庁、ステーブルコインの貿易決済実証を支援──3メガ銀など6社参加",
+        "url": "https://news.yahoo.co.jp/articles/90d9b93a19f48ed0726d74efb3db4a4c4ed47300",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米シティ、トークン化預金の送金サービスを日本とUAEに展開",
-        "url": "https://news.yahoo.co.jp/articles/10d62f00fe75018a26502ae7d5d8e3520f3c9f6a",
+        "title": "コインベース、自社清算機関のCFTC登録承認を取得。USDC担保・24時間精算へ",
+        "url": "https://news.yahoo.co.jp/articles/34218cfb886997d7a335784400cd43bb32499ec0",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "シティ、コインベースと提携拡大。ステーブルコイン決済の法定通貨受け取りに対応へ",
-        "url": "https://news.yahoo.co.jp/articles/d37d492add83a1d8a87e29678abd7c6e0096fc8e",
+        "title": "米シティ、トークン化預金サービスを日本で提供開始",
+        "url": "https://news.yahoo.co.jp/articles/3d57ba1986eb478372707d70799aed8aa1a0fc3e",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "テザーのＵＳＤＴ、イランが重要な金融手段に利用＝米民主党報告書",
-        "url": "https://news.yahoo.co.jp/articles/c591262f9ea268651f96d907c6db73dc43ed859b",
+        "title": "テザー、対イラン制裁関連のUSDT約5.5億ドル凍結を報告",
+        "url": "https://news.yahoo.co.jp/articles/ff4084c4f647f8f508b788c58a0c3cacdf7aa74c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "テザー、イラン関連USDT約864億円の凍結を支援──トランプ政権が制裁強化",
-        "url": "https://news.yahoo.co.jp/articles/6364633fcd5f1c8c488437f8b763c5afbf92a5a9",
+        "title": "韓国金融委、暗号資産のマーケットメイク制度導入を検討か。JPYC価格急騰にも言及＝報道",
+        "url": "https://news.yahoo.co.jp/articles/1fe3a152a03c7afa45789971541a86a3bb817e85",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ケルプDAO運営元がレイヤーゼロらを提訴、約2.92億ドルのrsETH不正払い出し巡り",
-        "url": "https://news.yahoo.co.jp/articles/1c77c4f48dbef30dbecddd8f63b4aa0b41ee104b",
+        "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇",
+        "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "バイビット、フランクリンテンプルトンのトークン化MMFを取引所外担保に",
-        "url": "https://news.yahoo.co.jp/articles/edf7a09d30ff2e704ab6647888e11b7cbdcab90c",
+        "title": "金融庁、ステーブルコインの貿易決済実証を支援──3メガ銀など6社参加",
+        "url": "https://news.yahoo.co.jp/articles/90d9b93a19f48ed0726d74efb3db4a4c4ed47300",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米シティ、トークン化預金の送金サービスを日本とUAEに展開",
-        "url": "https://news.yahoo.co.jp/articles/10d62f00fe75018a26502ae7d5d8e3520f3c9f6a",
+        "title": "コインベース、自社清算機関のCFTC登録承認を取得。USDC担保・24時間精算へ",
+        "url": "https://news.yahoo.co.jp/articles/34218cfb886997d7a335784400cd43bb32499ec0",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "シティ、コインベースと提携拡大。ステーブルコイン決済の法定通貨受け取りに対応へ",
-        "url": "https://news.yahoo.co.jp/articles/d37d492add83a1d8a87e29678abd7c6e0096fc8e",
+        "title": "米シティ、トークン化預金サービスを日本で提供開始",
+        "url": "https://news.yahoo.co.jp/articles/3d57ba1986eb478372707d70799aed8aa1a0fc3e",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "テザーのＵＳＤＴ、イランが重要な金融手段に利用＝米民主党報告書",
-        "url": "https://news.yahoo.co.jp/articles/c591262f9ea268651f96d907c6db73dc43ed859b",
+        "title": "テザー、対イラン制裁関連のUSDT約5.5億ドル凍結を報告",
+        "url": "https://news.yahoo.co.jp/articles/ff4084c4f647f8f508b788c58a0c3cacdf7aa74c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "テザー、イラン関連USDT約864億円の凍結を支援──トランプ政権が制裁強化",
-        "url": "https://news.yahoo.co.jp/articles/6364633fcd5f1c8c488437f8b763c5afbf92a5a9",
+        "title": "韓国金融委、暗号資産のマーケットメイク制度導入を検討か。JPYC価格急騰にも言及＝報道",
+        "url": "https://news.yahoo.co.jp/articles/1fe3a152a03c7afa45789971541a86a3bb817e85",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ケルプDAO運営元がレイヤーゼロらを提訴、約2.92億ドルのrsETH不正払い出し巡り",
-        "url": "https://news.yahoo.co.jp/articles/1c77c4f48dbef30dbecddd8f63b4aa0b41ee104b",
+        "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇",
+        "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
         "source": "Yahoo",
         "date": ""
       }
