@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:46:51.011Z",
+  "generatedAt": "2026-09-29T23:12:19.576Z",
   "items": [
     {
       "agency": "金融庁",
@@ -15962,6 +15962,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "IBM、デジタル決済インフラの拡充としてSwift連携とIBM Digital Asset Havenオンプレミス版を発表",
+        "url": "https://news.yahoo.co.jp/articles/314d2cef483fb13fc4e762e7fd43fb1ae3654275",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Coinbase、CFTCからデリバティブ清算機関の認可取得",
         "url": "https://news.yahoo.co.jp/articles/cb67b3d9a47c25a381d5f79826f3807dea74eb95",
         "source": "Yahoo",
@@ -15988,18 +15994,18 @@
       {
         "title": "金融庁、ステーブルコインの貿易決済実証を支援──3メガ銀など6社参加",
         "url": "https://news.yahoo.co.jp/articles/90d9b93a19f48ed0726d74efb3db4a4c4ed47300",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース、自社清算機関のCFTC登録承認を取得。USDC担保・24時間精算へ",
-        "url": "https://news.yahoo.co.jp/articles/34218cfb886997d7a335784400cd43bb32499ec0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "IBM、デジタル決済インフラの拡充としてSwift連携とIBM Digital Asset Havenオンプレミス版を発表",
+        "url": "https://news.yahoo.co.jp/articles/314d2cef483fb13fc4e762e7fd43fb1ae3654275",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Coinbase、CFTCからデリバティブ清算機関の認可取得",
         "url": "https://news.yahoo.co.jp/articles/cb67b3d9a47c25a381d5f79826f3807dea74eb95",
         "source": "Yahoo",
@@ -16026,12 +16032,6 @@
       {
         "title": "金融庁、ステーブルコインの貿易決済実証を支援──3メガ銀など6社参加",
         "url": "https://news.yahoo.co.jp/articles/90d9b93a19f48ed0726d74efb3db4a4c4ed47300",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース、自社清算機関のCFTC登録承認を取得。USDC担保・24時間精算へ",
-        "url": "https://news.yahoo.co.jp/articles/34218cfb886997d7a335784400cd43bb32499ec0",
         "source": "Yahoo",
         "date": ""
       }
