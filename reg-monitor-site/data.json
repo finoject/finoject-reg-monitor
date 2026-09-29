@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:49:37.721Z",
+  "generatedAt": "2026-09-29T01:14:40.672Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "取扱い一時中止のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20260929-001/",
+      "date": "2026-09-29",
+      "detectedAt": "2026-09-29T01:14:40.672Z",
+      "enriched": "2026-09-29T01:14:45.243Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ビットトレード株式会社がポリゴンエコシステムトークン（POL/MATIC）の取扱いを一時中止する。",
+        "JVCEAの会員であるビットトレード株式会社は、2026年9月30日15時からPOL/MATICの取扱いを停止する必要がある。",
+        "2026年9月29日付でJVCEA公表、適用開始は2026年9月30日15時。"
       ],
       "aiSumV": 3
     },
@@ -15614,6 +15629,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "【独自】なぜメタプラネットを選んだのか──子会社証券会社が語る買収までの2カ月",
+        "url": "https://news.yahoo.co.jp/articles/b754bb4b24807505a525c38da88422b64d9fd104",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米シティとコインベース、大企業顧客向けにステーブルコイン決済を提供へ＝WSJ",
+        "url": "https://news.yahoo.co.jp/articles/c39c32844bb836510fe95a64f855addd2d15b07e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米カリフォルニア州、公職者のミームコイン発行を禁止──州政府はトランプ大統領を名指し",
         "url": "https://news.yahoo.co.jp/articles/b0e180414f9703290a3df759bf0f533e975bd153",
         "source": "Yahoo",
@@ -15634,24 +15661,24 @@
       {
         "title": "米国が本気で進めるオンチェーン化──日本市場は変われるか｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/8512b217c7554e19b404e4de16067ae2711c5376",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法の採決失敗を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
-        "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
-        "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "【独自】なぜメタプラネットを選んだのか──子会社証券会社が語る買収までの2カ月",
+        "url": "https://news.yahoo.co.jp/articles/b754bb4b24807505a525c38da88422b64d9fd104",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米シティとコインベース、大企業顧客向けにステーブルコイン決済を提供へ＝WSJ",
+        "url": "https://news.yahoo.co.jp/articles/c39c32844bb836510fe95a64f855addd2d15b07e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米カリフォルニア州、公職者のミームコイン発行を禁止──州政府はトランプ大統領を名指し",
         "url": "https://news.yahoo.co.jp/articles/b0e180414f9703290a3df759bf0f533e975bd153",
         "source": "Yahoo",
@@ -15672,18 +15699,6 @@
       {
         "title": "米国が本気で進めるオンチェーン化──日本市場は変われるか｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/8512b217c7554e19b404e4de16067ae2711c5376",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クラリティ法の採決失敗を受け、ブロックチェーン協会CEOが退任へ──スミス前CEOが暫定復帰",
-        "url": "https://news.yahoo.co.jp/articles/f1ffb1569bd3bf6fcd212401afde8f22603d32bc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マイケル・セイラー氏、「デジタル権利章典」の必要性を説く",
-        "url": "https://news.yahoo.co.jp/articles/0a1e681ecb7c49d42db1d203027b39e3c7464c33",
         "source": "Yahoo",
         "date": ""
       }
@@ -15842,6 +15857,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "【独自】なぜメタプラネットを選んだのか──子会社証券会社が語る買収までの2カ月",
+        "url": "https://news.yahoo.co.jp/articles/b754bb4b24807505a525c38da88422b64d9fd104",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米シティとコインベース、大企業顧客向けにステーブルコイン決済を提供へ＝WSJ",
+        "url": "https://news.yahoo.co.jp/articles/c39c32844bb836510fe95a64f855addd2d15b07e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Chainlink、「CCIP 2.0」で金融機関の独自検証を可能に──Kelp DAOハッキングから5カ月",
         "url": "https://news.yahoo.co.jp/articles/0caae96991210e67aff820bca96d62e05aefc51b",
         "source": "Yahoo",
@@ -15862,24 +15889,24 @@
       {
         "title": "ビットコイン市場は強気優勢、それでも油断できない──CryptoQuant認定アナリストが読み解くオンチェーンデータの重要な変化【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/373f5305dc02a7db7269c2e238e07bec357d0704",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル通貨イノベーション機構が10月から活動開始 デジタル通貨の活用目指す",
-        "url": "https://news.yahoo.co.jp/articles/ae045d00fb55e99e617ad31c5e142605d4f7e596",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC、海外取引所HTX（旧Huobi）に上場",
-        "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "【独自】なぜメタプラネットを選んだのか──子会社証券会社が語る買収までの2カ月",
+        "url": "https://news.yahoo.co.jp/articles/b754bb4b24807505a525c38da88422b64d9fd104",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米シティとコインベース、大企業顧客向けにステーブルコイン決済を提供へ＝WSJ",
+        "url": "https://news.yahoo.co.jp/articles/c39c32844bb836510fe95a64f855addd2d15b07e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Chainlink、「CCIP 2.0」で金融機関の独自検証を可能に──Kelp DAOハッキングから5カ月",
         "url": "https://news.yahoo.co.jp/articles/0caae96991210e67aff820bca96d62e05aefc51b",
         "source": "Yahoo",
@@ -15900,18 +15927,6 @@
       {
         "title": "ビットコイン市場は強気優勢、それでも油断できない──CryptoQuant認定アナリストが読み解くオンチェーンデータの重要な変化【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/373f5305dc02a7db7269c2e238e07bec357d0704",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル通貨イノベーション機構が10月から活動開始 デジタル通貨の活用目指す",
-        "url": "https://news.yahoo.co.jp/articles/ae045d00fb55e99e617ad31c5e142605d4f7e596",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC、海外取引所HTX（旧Huobi）に上場",
-        "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
         "source": "Yahoo",
         "date": ""
       }
