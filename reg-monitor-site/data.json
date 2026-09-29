@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T04:22:06.396Z",
+  "generatedAt": "2026-09-29T05:52:59.496Z",
   "items": [
     {
       "agency": "金融庁",
@@ -15,6 +15,22 @@
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "STOCK VOICE「東京マーケットワイド」9月28日放送分を掲載しました。",
+      "url": "https://www.jsda.or.jp/start/gaiyou/movie/index.html",
+      "date": "2026-09-29",
+      "detectedAt": "2026-09-29T05:52:59.496Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が「STOCK VOICE『東京マーケットワイド』」6月8日放送分を公表し、新NISA開始後の利用動向に関する調査内容を動画で紹介している。",
+        "投資初心者向けの広報活動として、YouTubeにて放映動画を視聴可能にしており、金融機関・証券会社の担当者は新NISAの利用実態把握のため参考資料として活用できる。",
+        "本公表は協会の広報活動に該当し、特定の法令改正や規制要件の変更ではなく、新NISA制度に関する情報提供資料の掲載である。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-09-29T05:53:05.779Z"
     },
     {
       "agency": "JVCEA",
@@ -4526,22 +4542,6 @@
         "整理銘柄指定期間は2026年8月25日から9月25日まで、上場廃止日は2026年9月26日、ただし速やかな上場廃止事由発生時は当該期間及び廃止日を変更することがあると定めた。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "STOCK VOICE「東京マーケットワイド」8月24日放送分を掲載しました。",
-      "url": "https://www.jsda.or.jp/start/gaiyou/movie/index.html",
-      "date": "2026-08-25",
-      "detectedAt": "2026-08-25T07:28:25.023Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が「STOCK VOICE『東京マーケットワイド』」6月8日放送分を公表し、新NISA開始後の利用動向に関する調査内容を動画で紹介している。",
-        "投資初心者向けの広報活動として、YouTubeにて放映動画を視聴可能にしており、金融機関・証券会社の担当者は新NISAの利用実態把握のため参考資料として活用できる。",
-        "本公表は協会の広報活動に該当し、特定の法令改正や規制要件の変更ではなく、新NISA制度に関する情報提供資料の掲載である。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-25T07:28:30.764Z"
     },
     {
       "agency": "日本銀行",
@@ -15857,6 +15857,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "バイビット、フランクリンテンプルトンのトークン化MMFを取引所外担保に",
+        "url": "https://news.yahoo.co.jp/articles/edf7a09d30ff2e704ab6647888e11b7cbdcab90c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米シティ、トークン化預金の送金サービスを日本とUAEに展開",
+        "url": "https://news.yahoo.co.jp/articles/10d62f00fe75018a26502ae7d5d8e3520f3c9f6a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "シティ、コインベースと提携拡大。ステーブルコイン決済の法定通貨受け取りに対応へ",
+        "url": "https://news.yahoo.co.jp/articles/d37d492add83a1d8a87e29678abd7c6e0096fc8e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザーのＵＳＤＴ、イランが重要な金融手段に利用＝米民主党報告書",
+        "url": "https://news.yahoo.co.jp/articles/c591262f9ea268651f96d907c6db73dc43ed859b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "テザー、イラン関連USDT約864億円の凍結を支援──トランプ政権が制裁強化",
         "url": "https://news.yahoo.co.jp/articles/6364633fcd5f1c8c488437f8b763c5afbf92a5a9",
         "source": "Yahoo",
@@ -15865,36 +15889,36 @@
       {
         "title": "ケルプDAO運営元がレイヤーゼロらを提訴、約2.92億ドルのrsETH不正払い出し巡り",
         "url": "https://news.yahoo.co.jp/articles/1c77c4f48dbef30dbecddd8f63b4aa0b41ee104b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討",
-        "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】なぜメタプラネットを選んだのか──子会社証券会社が語る買収までの2カ月",
-        "url": "https://news.yahoo.co.jp/articles/b754bb4b24807505a525c38da88422b64d9fd104",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米シティとコインベース、大企業顧客向けにステーブルコイン決済を提供へ＝WSJ",
-        "url": "https://news.yahoo.co.jp/articles/c39c32844bb836510fe95a64f855addd2d15b07e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Chainlink、「CCIP 2.0」で金融機関の独自検証を可能に──Kelp DAOハッキングから5カ月",
-        "url": "https://news.yahoo.co.jp/articles/0caae96991210e67aff820bca96d62e05aefc51b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "バイビット、フランクリンテンプルトンのトークン化MMFを取引所外担保に",
+        "url": "https://news.yahoo.co.jp/articles/edf7a09d30ff2e704ab6647888e11b7cbdcab90c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米シティ、トークン化預金の送金サービスを日本とUAEに展開",
+        "url": "https://news.yahoo.co.jp/articles/10d62f00fe75018a26502ae7d5d8e3520f3c9f6a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "シティ、コインベースと提携拡大。ステーブルコイン決済の法定通貨受け取りに対応へ",
+        "url": "https://news.yahoo.co.jp/articles/d37d492add83a1d8a87e29678abd7c6e0096fc8e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザーのＵＳＤＴ、イランが重要な金融手段に利用＝米民主党報告書",
+        "url": "https://news.yahoo.co.jp/articles/c591262f9ea268651f96d907c6db73dc43ed859b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "テザー、イラン関連USDT約864億円の凍結を支援──トランプ政権が制裁強化",
         "url": "https://news.yahoo.co.jp/articles/6364633fcd5f1c8c488437f8b763c5afbf92a5a9",
         "source": "Yahoo",
@@ -15903,30 +15927,6 @@
       {
         "title": "ケルプDAO運営元がレイヤーゼロらを提訴、約2.92億ドルのrsETH不正払い出し巡り",
         "url": "https://news.yahoo.co.jp/articles/1c77c4f48dbef30dbecddd8f63b4aa0b41ee104b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討",
-        "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】なぜメタプラネットを選んだのか──子会社証券会社が語る買収までの2カ月",
-        "url": "https://news.yahoo.co.jp/articles/b754bb4b24807505a525c38da88422b64d9fd104",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米シティとコインベース、大企業顧客向けにステーブルコイン決済を提供へ＝WSJ",
-        "url": "https://news.yahoo.co.jp/articles/c39c32844bb836510fe95a64f855addd2d15b07e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Chainlink、「CCIP 2.0」で金融機関の独自検証を可能に──Kelp DAOハッキングから5カ月",
-        "url": "https://news.yahoo.co.jp/articles/0caae96991210e67aff820bca96d62e05aefc51b",
         "source": "Yahoo",
         "date": ""
       }
