@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T08:59:12.928Z",
+  "generatedAt": "2026-09-30T10:38:18.376Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）ウェッジホールディングス",
+      "url": "https://www.jpx.co.jp/news/1021/20260930-24.html",
+      "date": "2026-09-30",
+      "detectedAt": "2026-09-30T10:38:18.376Z",
+      "enriched": "2026-09-30T10:38:23.238Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ウェッジホールディングス（コード2388、グロース市場）について、時価総額基準に関する上場維持基準への不適合が確認されたため上場廃止を決定し、有価証券上場規程第601条第1項第1号に基づき整理銘柄に指定する。",
+        "同社の株式は2026年10月1日（木）以降、信用取引及び発行日決済取引の委託保証金・売買証拠金ならびに取引参加者保証金・信認金の代用有価証券から除外される。",
+        "整理銘柄指定期間は2026年9月30日から2027年3月31日までで、上場廃止日は2027年4月1日（木）、ただし速やかに廃止すべき事情発生時は変更される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「2024年以降のNISAに関するQ&A」を改定しました",
+      "url": "https://www.jsda.or.jp/shijyo/seido/tax/2024nisaqa.html",
+      "date": "2026-09-30",
+      "detectedAt": "2026-09-30T10:38:18.376Z",
+      "enriched": "2026-09-30T10:38:23.238Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2024年以降のNISAに関するQ&Aを2026年9月30日に改定し、令和8年度税制改正によるNISA制度整備に伴う内容をQ12、Q13、Q80～92に追記した。",
+        "証券会社の営業・カスタマーサービス部門は改定されたQ&Aの内容を確認し、顧客からの照会に対応する際に最新情報を提供する必要がある。",
+        "改定は2026年9月30日実施、令和8年度税制改正に基づくもので、NISA制度の運用に関わる実務担当者は改定版Q&Aを参照して対応する。"
       ],
       "aiSumV": 3
     },
@@ -315,7 +345,11 @@
       "date": "2026-09-30",
       "detectedAt": "2026-09-30T00:47:59.978Z",
       "enriched": "2026-09-30T00:48:05.335Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が利用不可のため、タイトルと関連法令情報から判断すると、日本証券業協会への加入要件または加入手続に関する改正が示されたと推定されます。金融商品取引業者は本協会の加入ルールに従う必要があります。詳細は原文の確認が必須です。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "金融庁",
@@ -16152,6 +16186,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "財務省、国債のオンチェーン対応で研究会開催へ。10/8に初会合",
+        "url": "https://news.yahoo.co.jp/articles/bc8e490a71e568585ee9a16df8f4c958c3b5e82c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BTC月次分析｜ビットコインは年初水準まで回復、10月は1,400万円突破なるか【bitbankチャート分析】",
+        "url": "https://news.yahoo.co.jp/articles/22da1a5364bf09e3021bd61ae35869097b1d96e4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "au PAYで暗号資産ウォレット開始 Pontaポイントから交換・決済も可能",
         "url": "https://news.yahoo.co.jp/articles/c9aeb228ace07fb5f53d3536b65852bfced46e68",
         "source": "Yahoo",
@@ -16172,24 +16218,24 @@
       {
         "title": "PayPayが「Binance Pay」対応、加盟店でインバウンドの暗号資産決済へ",
         "url": "https://news.yahoo.co.jp/articles/3a7d29f9cdd6a3655dcfee82ba6619b1f25aedb2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "KDDIら、au PAYで暗号資産ウォレット提供開始。PontaポイントでJPYCなど取得可能に",
-        "url": "https://news.yahoo.co.jp/articles/8343554d4c4d6177b36a57883db6aa4b7fc16021",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインもみ合い、WTI90ドル割れ NY連銀総裁「利上げ急がず」【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/52995076614c651efb06f866508ea56e655e87e8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "財務省、国債のオンチェーン対応で研究会開催へ。10/8に初会合",
+        "url": "https://news.yahoo.co.jp/articles/bc8e490a71e568585ee9a16df8f4c958c3b5e82c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "BTC月次分析｜ビットコインは年初水準まで回復、10月は1,400万円突破なるか【bitbankチャート分析】",
+        "url": "https://news.yahoo.co.jp/articles/22da1a5364bf09e3021bd61ae35869097b1d96e4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "au PAYで暗号資産ウォレット開始 Pontaポイントから交換・決済も可能",
         "url": "https://news.yahoo.co.jp/articles/c9aeb228ace07fb5f53d3536b65852bfced46e68",
         "source": "Yahoo",
@@ -16210,18 +16256,6 @@
       {
         "title": "PayPayが「Binance Pay」対応、加盟店でインバウンドの暗号資産決済へ",
         "url": "https://news.yahoo.co.jp/articles/3a7d29f9cdd6a3655dcfee82ba6619b1f25aedb2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "KDDIら、au PAYで暗号資産ウォレット提供開始。PontaポイントでJPYCなど取得可能に",
-        "url": "https://news.yahoo.co.jp/articles/8343554d4c4d6177b36a57883db6aa4b7fc16021",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインもみ合い、WTI90ドル割れ NY連銀総裁「利上げ急がず」【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/52995076614c651efb06f866508ea56e655e87e8",
         "source": "Yahoo",
         "date": ""
       }
@@ -16442,14 +16476,14 @@
         "date": ""
       },
       {
-        "title": "貸金業法改正へ議論スタート 金融審議会（首相の諮問機関）は16日、約20年ぶりとなる貸金業法改正に向けた作業部会の初会合を開いた。金融庁は、外国銀行が国内で組成された協調融資",
-        "url": "https://news.yahoo.co.jp/articles/9ea7784864e9c8249381020e9ea292f6a7f77647",
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「クレカが作れない",
-        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
@@ -16480,14 +16514,14 @@
         "date": ""
       },
       {
-        "title": "貸金業法改正へ議論スタート 金融審議会（首相の諮問機関）は16日、約20年ぶりとなる貸金業法改正に向けた作業部会の初会合を開いた。金融庁は、外国銀行が国内で組成された協調融資",
-        "url": "https://news.yahoo.co.jp/articles/9ea7784864e9c8249381020e9ea292f6a7f77647",
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「クレカが作れない",
-        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
@@ -16518,14 +16552,14 @@
         "date": ""
       },
       {
-        "title": "貸金業法改正へ議論スタート 金融審議会（首相の諮問機関）は16日、約20年ぶりとなる貸金業法改正に向けた作業部会の初会合を開いた。金融庁は、外国銀行が国内で組成された協調融資",
-        "url": "https://news.yahoo.co.jp/articles/9ea7784864e9c8249381020e9ea292f6a7f77647",
+        "title": "「クレカが作れない",
+        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「クレカが作れない",
-        "url": "https://news.yahoo.co.jp/articles/2ebe185051c50010ad34f7bb538cffaf1d627e18",
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
