@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:47:59.978Z",
+  "generatedAt": "2026-09-30T02:18:49.965Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "決済動向（8月）",
+      "url": "https://www.boj.or.jp/statistics/set/kess/release/2026/kess2608.pdf",
+      "date": "2026-09-30",
+      "detectedAt": "2026-09-30T02:18:49.965Z",
+      "enriched": "2026-09-30T02:18:55.597Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年8月の決済動向統計が公表され、日銀当座預金決済・全銀システム・外為円決済など国内主要決済システムの月次取扱実績が掲載された。",
+        "金融機関等の実務担当者は、日銀ネット利用先数・手形交換高・電子マネー等の決済関連指標を参考資料として確認し、自社の決済動向を把握すべき。",
+        "本資料は日本銀行決済機構局による公表（2026年9月30日11時）であり、決済システム参加者が決済活動モニタリングに使用する統計指標である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "【サステナビリティ開示インタビュー企画】Novo Nordisk A/S",
+      "url": "https://jicpa.or.jp/news/information/2026/20260930icb.html",
+      "date": "2026-09-30",
+      "detectedAt": "2026-09-30T02:18:49.965Z",
+      "enriched": "2026-09-30T02:18:55.597Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2027年3月期から有価証券報告書におけるSSBJ基準に基づくサステナビリティ開示が導入予定であり、プライム市場上場企業の一定規模以上企業に段階的に適用される。",
+        "対象企業は本文記載のダブル・マテリアリティ評価により優先度が高いトピックとその他のマテリアルなトピックを区分して、戦略上重視している事項を簡潔に開示する準備が求められる。",
+        "欧州のCSRD対応企業の実務（透明性重視、第三者保証、企業固有指標の開示等）から学ぶことが、日本における2027年以降のサステナビリティ開示準備に有用である。"
       ],
       "aiSumV": 3
     },
@@ -15758,6 +15788,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米国株「23時間取引」、何が変わる？ NYSE・ナスダックで12月6日開始",
+        "url": "https://news.yahoo.co.jp/articles/f73c6e48003a1bc64ae8b52dc42b10dde78c01eb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Coinbase、CFTCからデリバティブ清算機関の認可取得",
         "url": "https://news.yahoo.co.jp/articles/cb67b3d9a47c25a381d5f79826f3807dea74eb95",
         "source": "Yahoo",
@@ -15784,18 +15820,18 @@
       {
         "title": "韓国金融委、暗号資産のマーケットメイク制度導入を検討か。JPYC価格急騰にも言及＝報道",
         "url": "https://news.yahoo.co.jp/articles/1fe3a152a03c7afa45789971541a86a3bb817e85",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討",
-        "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米国株「23時間取引」、何が変わる？ NYSE・ナスダックで12月6日開始",
+        "url": "https://news.yahoo.co.jp/articles/f73c6e48003a1bc64ae8b52dc42b10dde78c01eb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Coinbase、CFTCからデリバティブ清算機関の認可取得",
         "url": "https://news.yahoo.co.jp/articles/cb67b3d9a47c25a381d5f79826f3807dea74eb95",
         "source": "Yahoo",
@@ -15822,12 +15858,6 @@
       {
         "title": "韓国金融委、暗号資産のマーケットメイク制度導入を検討か。JPYC価格急騰にも言及＝報道",
         "url": "https://news.yahoo.co.jp/articles/1fe3a152a03c7afa45789971541a86a3bb817e85",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討",
-        "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14",
         "source": "Yahoo",
         "date": ""
       }
