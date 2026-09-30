@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T07:06:22.330Z",
+  "generatedAt": "2026-09-30T08:37:12.659Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260930a.pdf",
+      "date": "2026-09-30",
+      "detectedAt": "2026-09-30T08:37:12.659Z",
+      "enriched": "2026-09-30T08:37:19.776Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年10～12月に長期国債（利回り・価格入札方式）を月間計23,000億円購入する。残存期間別に1年以下1,000億円、1年超3年以下6,600億円、3年超5年以下5,800億円等を予定。",
+        "市場参加者は各残存期間帯の月間・1回当たりオファー金額を確認し、10月7日・16日・21日・28日の各オファー日程に対応する必要がある。実額はオファー通知で確認すること。",
+        "本公表は2026年9月30日付。11月分日程は10月30日17時に、2027年1～3月分は12月25日17時に改めて公表予定。市場動向により回数変更の可能性あり。"
       ],
       "aiSumV": 3
     },
@@ -16137,6 +16152,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "au PAYで暗号資産ウォレット開始 Pontaポイントから交換・決済も可能",
+        "url": "https://news.yahoo.co.jp/articles/c9aeb228ace07fb5f53d3536b65852bfced46e68",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米決済大手Stripe、共同創業者ジョン・コリソン氏が来日──ステーブルコインは「今年が変曲点」",
         "url": "https://news.yahoo.co.jp/articles/914fba808557ef17fc7116f916723a911951411e",
         "source": "Yahoo",
@@ -16163,18 +16184,18 @@
       {
         "title": "ビットコインもみ合い、WTI90ドル割れ NY連銀総裁「利上げ急がず」【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/52995076614c651efb06f866508ea56e655e87e8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "KDDIなど3社、au PAYアプリで暗号資産ウォレット「αU wallet」の提供開始へ",
-        "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "au PAYで暗号資産ウォレット開始 Pontaポイントから交換・決済も可能",
+        "url": "https://news.yahoo.co.jp/articles/c9aeb228ace07fb5f53d3536b65852bfced46e68",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米決済大手Stripe、共同創業者ジョン・コリソン氏が来日──ステーブルコインは「今年が変曲点」",
         "url": "https://news.yahoo.co.jp/articles/914fba808557ef17fc7116f916723a911951411e",
         "source": "Yahoo",
@@ -16201,12 +16222,6 @@
       {
         "title": "ビットコインもみ合い、WTI90ドル割れ NY連銀総裁「利上げ急がず」【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/52995076614c651efb06f866508ea56e655e87e8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "KDDIなど3社、au PAYアプリで暗号資産ウォレット「αU wallet」の提供開始へ",
-        "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
         "source": "Yahoo",
         "date": ""
       }
