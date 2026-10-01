@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:21:16.963Z",
+  "generatedAt": "2026-10-01T11:06:37.249Z",
   "items": [
     {
       "agency": "金融庁",
@@ -16237,6 +16237,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "SBI、ビットバンクの完全子会社化を完了──CEOは廣末氏が続投",
+        "url": "https://news.yahoo.co.jp/articles/28ade6e0a7431b73a8defc70a9e467f814c0b52f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英FCA、暗号資産事業者の認可申請受付を開始。2027年10月に新規制施行へ",
         "url": "https://news.yahoo.co.jp/articles/3728282f1833e224c2cd170dba9eafa58fe04a9a",
         "source": "Yahoo",
@@ -16263,18 +16269,18 @@
       {
         "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」発行へ",
         "url": "https://news.yahoo.co.jp/articles/8c822868b5d38c9cf6ca5a177cfbf199dd8e44d9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英国、初の暗号資産本格審査開始──既存登録業者も再審査へ",
-        "url": "https://news.yahoo.co.jp/articles/b2a4cd1f1ac4bf25832b1644d8b64a00a6a87a83",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "SBI、ビットバンクの完全子会社化を完了──CEOは廣末氏が続投",
+        "url": "https://news.yahoo.co.jp/articles/28ade6e0a7431b73a8defc70a9e467f814c0b52f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英FCA、暗号資産事業者の認可申請受付を開始。2027年10月に新規制施行へ",
         "url": "https://news.yahoo.co.jp/articles/3728282f1833e224c2cd170dba9eafa58fe04a9a",
         "source": "Yahoo",
@@ -16301,12 +16307,6 @@
       {
         "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」発行へ",
         "url": "https://news.yahoo.co.jp/articles/8c822868b5d38c9cf6ca5a177cfbf199dd8e44d9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英国、初の暗号資産本格審査開始──既存登録業者も再審査へ",
-        "url": "https://news.yahoo.co.jp/articles/b2a4cd1f1ac4bf25832b1644d8b64a00a6a87a83",
         "source": "Yahoo",
         "date": ""
       }
@@ -16465,6 +16465,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI、日韓間でステーブルコイン送金・決済を検証",
+        "url": "https://news.yahoo.co.jp/articles/3a75841ece2f3615e1d07f907377dadba278cc7b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米クラウドフレア、AIエージェントにAPIを1回ごとに販売 HTTP 402で即時に決済へ",
         "url": "https://news.yahoo.co.jp/articles/fcf18f7acd2fbf5746dbca085011515156457b98",
         "source": "Yahoo",
@@ -16491,18 +16497,18 @@
       {
         "title": "AIエージェントは、どうやってお金を使うのか？「エージェント経済圏」を支える決済と信用【コインチェック×Komlock lab】",
         "url": "https://news.yahoo.co.jp/articles/1b3682f6bf5fc4b2878a3eef71030833b6e33fed",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港のステーブルコイン決済サービス「レドットペイ」、IPOに向け財務監査完了",
-        "url": "https://news.yahoo.co.jp/articles/d0ec5863989ac00e832cb4c06b7bf396591f72fc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI、日韓間でステーブルコイン送金・決済を検証",
+        "url": "https://news.yahoo.co.jp/articles/3a75841ece2f3615e1d07f907377dadba278cc7b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米クラウドフレア、AIエージェントにAPIを1回ごとに販売 HTTP 402で即時に決済へ",
         "url": "https://news.yahoo.co.jp/articles/fcf18f7acd2fbf5746dbca085011515156457b98",
         "source": "Yahoo",
@@ -16529,12 +16535,6 @@
       {
         "title": "AIエージェントは、どうやってお金を使うのか？「エージェント経済圏」を支える決済と信用【コインチェック×Komlock lab】",
         "url": "https://news.yahoo.co.jp/articles/1b3682f6bf5fc4b2878a3eef71030833b6e33fed",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港のステーブルコイン決済サービス「レドットペイ」、IPOに向け財務監査完了",
-        "url": "https://news.yahoo.co.jp/articles/d0ec5863989ac00e832cb4c06b7bf396591f72fc",
         "source": "Yahoo",
         "date": ""
       }
