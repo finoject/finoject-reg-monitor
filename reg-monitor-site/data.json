@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T22:44:39.901Z",
+  "generatedAt": "2026-10-01T00:15:37.874Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,123 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "ＰＨＣホールディングス（6523）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T00:15:37.874Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-01T00:15:43.778Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "協会員の異動状況等を更新しました。",
+      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T00:15:37.874Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
+        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
+        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-01T00:15:43.778Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "協会員向け研修情報誌「研修Newsletter」(Vol.16)を掲載しました",
+      "url": "https://www.jsda.or.jp/shijyo/seido/jishukisei/kensyunewsletter/index.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T00:15:37.874Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会がJSDAコンプライアンス・トレーニング研修の周知を図るため、協会員向け研修情報誌「研修Newsletter」をVol.15として2026年6月19日に発刊し、受講状況・新規講座・講師事例等を定期掲載している。",
+        "協会員（会員・特定業務会員・特別会員）の役職員は、社内関係部署や受講者への展開・共有、社内イントラネットへの掲載等により、当情報誌を活用してJSDAコンプライアンス・トレーニングの周知・受講検討に利用すること。",
+        "本Newsletter は四半期毎（3月・6月・9月・12月）に発行され、協会WAN・研修受講者サイト「JSDAコンプライアンス・トレーニング」内のお知らせ・本ページに掲載される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-01T00:15:43.779Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融政策決定会合における主な意見（9月17、18日開催分）",
+      "url": "https://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T00:15:37.874Z",
+      "enriched": "2026-10-01T00:15:43.779Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は9月17・18日の金融政策決定会合で政策金利の引上げを決定。基調的物価上昇率が2％に近づき金融環境が緩和的である中、物価上振れリスクに対応するため金融緩和の度合いを調整する。",
+        "金融機関・企業は今後の連続的な利上げに備え、既往利上げの累積影響を点検するとともに、中立金利水準を念頭に置いた事業計画の見直しが求められる。",
+        "2026年度後半から2027年度にかけて物価が2％目標と整合的な水準へ推移すると見込まれ、日本銀行は市場参加者への丁寧な説明と機動的な政策対応を継続する方針。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "短観（9月）＜概要、要旨＞",
+      "url": "https://www.boj.or.jp/statistics/tk/tankan09a.htm",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T00:15:37.874Z",
+      "enriched": "2026-10-01T00:15:43.779Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年9月短観：大企業製造業の業況判断DI（最近）は6月比2ポイント上昇して24、先行きは21となり、非製造業は35となった（「良い」-「悪い」）。",
+        "全国企業9,104社（大企業1,631・中堅2,589・中小4,884）を対象に8月26日～9月30日の回答期間で調査し、回答率99.4%を達成した。",
+        "事業計画の想定為替レート（2026年度上期）は米ドル円154.46円/ドル、ユーロ円178.21円/ユーロに設定されている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]三田証券株式会社のJ-Adviser資格の喪失について",
+      "url": "https://www.jpx.co.jp/news/1071/20261001-01.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T00:15:37.874Z",
+      "enriched": "2026-10-01T00:15:43.779Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "三田証券株式会社がポストTOKYO PRO MarketのJ-Adviser資格喪失申請を行い、2026年10月1日付で当該資格を喪失した。",
+        "ポストTOKYO PRO Marketで三田証券株式会社をJ-Adviserとして利用していた関係者は、当該資格喪失に対応した手続を進める必要がある。",
+        "資格喪失日は2026年10月1日で、東京証券取引所上場推進部が照会窓口となる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "金融商品取引業者の本協会加入について",
+      "url": "https://www.jsda.or.jp/houdou/2026/20261001.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T00:15:37.874Z",
+      "enriched": "2026-10-01T00:15:43.779Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "JVCEA",
+      "title": "移転制限が付された暗号資産の情報提供及び公表に関する規則第5条第3項に基づく公表について更新しました。",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20261001-001/",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T00:15:37.874Z",
+      "enriched": "2026-10-01T00:15:46.362Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA規則第5条第3項に基づき、移転制限が付された暗号資産の情報提供及び公表内容が2026年10月1日付で更新された。",
+        "JVCEA会員及び情報利用者は、当該規則に定める移転制限付暗号資産に関する最新情報をJVCEA公式サイトの統計情報・取扱銘柄関連ページで確認する必要がある。",
+        "移転制限付暗号資産の情報公表は「移転制限が付された暗号資産の情報提供及び公表に関する規則第5条第3項」に基づき定期的に更新される。"
       ],
       "aiSumV": 3
     },
@@ -343,38 +460,6 @@
         "欧州のCSRD対応企業の実務（透明性重視、第三者保証、企業固有指標の開示等）から学ぶことが、日本における2027年以降のサステナビリティ開示準備に有用である。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ＳＢＩグローバルアセットマネジメント（4765）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-09-30",
-      "detectedAt": "2026-09-30T00:47:59.978Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-30T00:48:05.335Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "協会員の異動状況等を更新しました。",
-      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
-      "date": "2026-09-30",
-      "detectedAt": "2026-09-30T00:47:59.978Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
-        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
-        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-30T00:48:05.335Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -12277,21 +12362,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本証券業協会",
-      "title": "協会員向け研修情報誌「研修Newsletter」(Vol.15)を掲載しました",
-      "url": "https://www.jsda.or.jp/shijyo/seido/jishukisei/kensyunewsletter/index.html",
-      "date": "2026-06-19",
-      "detectedAt": "2026-06-19T02:21:26.532Z",
-      "enriched": "2026-06-19T06:01:52.710Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会がJSDAコンプライアンス・トレーニング研修の周知を図るため、協会員向け研修情報誌「研修Newsletter」をVol.15として2026年6月19日に発刊し、受講状況・新規講座・講師事例等を定期掲載している。",
-        "協会員（会員・特定業務会員・特別会員）の役職員は、社内関係部署や受講者への展開・共有、社内イントラネットへの掲載等により、当情報誌を活用してJSDAコンプライアンス・トレーニングの周知・受講検討に利用すること。",
-        "本Newsletter は四半期毎（3月・6月・9月・12月）に発行され、協会WAN・研修受講者サイト「JSDAコンプライアンス・トレーニング」内のお知らせ・本ページに掲載される。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "JVCEA",
       "title": "取扱廃止銘柄のお知らせ",
       "url": "https://jvcea.or.jp/information/statistics-reports/20260619-001/",
@@ -15783,6 +15853,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
+        "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
         "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
         "source": "Yahoo",
@@ -15809,18 +15885,18 @@
       {
         "title": "日銀金融政策決定会合（2026年9月）――利上げペース加速へ、予想通り0.25％の追加利上げを決定【解説：東京海上アセットマネジメント】",
         "url": "https://news.yahoo.co.jp/articles/e0b0c22ef177277d2fc1457e6ed72a31b7d78325",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産の最高税率55％→約20％へ軽減の〈本当の狙い〉",
-        "url": "https://news.yahoo.co.jp/articles/aae360fa9467707a72e99ca0637c4871cef0fe88",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
+        "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
         "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
         "source": "Yahoo",
@@ -15847,18 +15923,18 @@
       {
         "title": "日銀金融政策決定会合（2026年9月）――利上げペース加速へ、予想通り0.25％の追加利上げを決定【解説：東京海上アセットマネジメント】",
         "url": "https://news.yahoo.co.jp/articles/e0b0c22ef177277d2fc1457e6ed72a31b7d78325",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産の最高税率55％→約20％へ軽減の〈本当の狙い〉",
-        "url": "https://news.yahoo.co.jp/articles/aae360fa9467707a72e99ca0637c4871cef0fe88",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
+        "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
         "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
         "source": "Yahoo",
@@ -15885,18 +15961,18 @@
       {
         "title": "日銀金融政策決定会合（2026年9月）――利上げペース加速へ、予想通り0.25％の追加利上げを決定【解説：東京海上アセットマネジメント】",
         "url": "https://news.yahoo.co.jp/articles/e0b0c22ef177277d2fc1457e6ed72a31b7d78325",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産の最高税率55％→約20％へ軽減の〈本当の狙い〉",
-        "url": "https://news.yahoo.co.jp/articles/aae360fa9467707a72e99ca0637c4871cef0fe88",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
+        "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
         "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
         "source": "Yahoo",
@@ -15923,12 +15999,6 @@
       {
         "title": "日銀金融政策決定会合（2026年9月）――利上げペース加速へ、予想通り0.25％の追加利上げを決定【解説：東京海上アセットマネジメント】",
         "url": "https://news.yahoo.co.jp/articles/e0b0c22ef177277d2fc1457e6ed72a31b7d78325",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産の最高税率55％→約20％へ軽減の〈本当の狙い〉",
-        "url": "https://news.yahoo.co.jp/articles/aae360fa9467707a72e99ca0637c4871cef0fe88",
         "source": "Yahoo",
         "date": ""
       }
@@ -16011,6 +16081,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "AllUnity、欧州規制準拠のドル建てステーブルコイン「USDAU」を発行開始",
+        "url": "https://news.yahoo.co.jp/articles/70ada9fc9c6aaa9c021037012b7aefc55c252508",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
+        "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」発行へ",
         "url": "https://news.yahoo.co.jp/articles/8c822868b5d38c9cf6ca5a177cfbf199dd8e44d9",
         "source": "Yahoo",
@@ -16031,24 +16113,24 @@
       {
         "title": "ESMA、2027年計画を公表。MiCA監督統一や暗号資産監視「MIDAS」第2段階へ",
         "url": "https://news.yahoo.co.jp/articles/435b4832cd8547404ef90440f2f323cb2e6ea753",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米国株「23時間取引」、何が変わる？ NYSE・ナスダックで12月6日開始",
-        "url": "https://news.yahoo.co.jp/articles/f73c6e48003a1bc64ae8b52dc42b10dde78c01eb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、CFTCからデリバティブ清算機関の認可取得",
-        "url": "https://news.yahoo.co.jp/articles/cb67b3d9a47c25a381d5f79826f3807dea74eb95",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "AllUnity、欧州規制準拠のドル建てステーブルコイン「USDAU」を発行開始",
+        "url": "https://news.yahoo.co.jp/articles/70ada9fc9c6aaa9c021037012b7aefc55c252508",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
+        "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」発行へ",
         "url": "https://news.yahoo.co.jp/articles/8c822868b5d38c9cf6ca5a177cfbf199dd8e44d9",
         "source": "Yahoo",
@@ -16069,18 +16151,6 @@
       {
         "title": "ESMA、2027年計画を公表。MiCA監督統一や暗号資産監視「MIDAS」第2段階へ",
         "url": "https://news.yahoo.co.jp/articles/435b4832cd8547404ef90440f2f323cb2e6ea753",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米国株「23時間取引」、何が変わる？ NYSE・ナスダックで12月6日開始",
-        "url": "https://news.yahoo.co.jp/articles/f73c6e48003a1bc64ae8b52dc42b10dde78c01eb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase、CFTCからデリバティブ清算機関の認可取得",
-        "url": "https://news.yahoo.co.jp/articles/cb67b3d9a47c25a381d5f79826f3807dea74eb95",
         "source": "Yahoo",
         "date": ""
       }
@@ -16239,6 +16309,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "AI時代に接近する決済とトークン Stripeが描くエージェンティックエコノミー",
+        "url": "https://news.yahoo.co.jp/articles/b45d7d520f1717329bc843acf5b375f54d9154b4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "AllUnity、欧州規制準拠のドル建てステーブルコイン「USDAU」を発行開始",
+        "url": "https://news.yahoo.co.jp/articles/70ada9fc9c6aaa9c021037012b7aefc55c252508",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米イリノイ州、0.2%暗号資産取引税の規則案を公表──ステーブルコインは課税対象に",
+        "url": "https://news.yahoo.co.jp/articles/15117d1fe5b7ec193d503d10b25748504c1fc8f3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DogeOS、Dogecoin向けEVM互換レイヤーを公開",
         "url": "https://news.yahoo.co.jp/articles/11ac88933a8e2e6af62a5f882e1b48aa3ea1ddae",
         "source": "Yahoo",
@@ -16253,30 +16341,30 @@
       {
         "title": "Base、「Cobalt」アップグレード実施",
         "url": "https://news.yahoo.co.jp/articles/501f4dccaea7b04e321eb8ad46a6e5879955e5c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英国、初の暗号資産本格審査開始──既存登録業者も再審査へ",
-        "url": "https://news.yahoo.co.jp/articles/b2a4cd1f1ac4bf25832b1644d8b64a00a6a87a83",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "財務省、国債のオンチェーン対応で研究会開催へ。10/8に初会合",
-        "url": "https://news.yahoo.co.jp/articles/bc8e490a71e568585ee9a16df8f4c958c3b5e82c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BTC月次分析｜ビットコインは年初水準まで回復、10月は1,400万円突破なるか【bitbankチャート分析】",
-        "url": "https://news.yahoo.co.jp/articles/22da1a5364bf09e3021bd61ae35869097b1d96e4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "AI時代に接近する決済とトークン Stripeが描くエージェンティックエコノミー",
+        "url": "https://news.yahoo.co.jp/articles/b45d7d520f1717329bc843acf5b375f54d9154b4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "AllUnity、欧州規制準拠のドル建てステーブルコイン「USDAU」を発行開始",
+        "url": "https://news.yahoo.co.jp/articles/70ada9fc9c6aaa9c021037012b7aefc55c252508",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米イリノイ州、0.2%暗号資産取引税の規則案を公表──ステーブルコインは課税対象に",
+        "url": "https://news.yahoo.co.jp/articles/15117d1fe5b7ec193d503d10b25748504c1fc8f3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DogeOS、Dogecoin向けEVM互換レイヤーを公開",
         "url": "https://news.yahoo.co.jp/articles/11ac88933a8e2e6af62a5f882e1b48aa3ea1ddae",
         "source": "Yahoo",
@@ -16291,24 +16379,6 @@
       {
         "title": "Base、「Cobalt」アップグレード実施",
         "url": "https://news.yahoo.co.jp/articles/501f4dccaea7b04e321eb8ad46a6e5879955e5c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英国、初の暗号資産本格審査開始──既存登録業者も再審査へ",
-        "url": "https://news.yahoo.co.jp/articles/b2a4cd1f1ac4bf25832b1644d8b64a00a6a87a83",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "財務省、国債のオンチェーン対応で研究会開催へ。10/8に初会合",
-        "url": "https://news.yahoo.co.jp/articles/bc8e490a71e568585ee9a16df8f4c958c3b5e82c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BTC月次分析｜ビットコインは年初水準まで回復、10月は1,400万円突破なるか【bitbankチャート分析】",
-        "url": "https://news.yahoo.co.jp/articles/22da1a5364bf09e3021bd61ae35869097b1d96e4",
         "source": "Yahoo",
         "date": ""
       }
