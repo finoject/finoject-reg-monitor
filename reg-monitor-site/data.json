@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T05:33:30.517Z",
+  "generatedAt": "2026-10-01T07:04:21.444Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,67 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（グロース市場）：（株）estie",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T07:04:21.444Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-01T07:04:27.294Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "気候変動対応を支援するための資金供給オペレーションの実施スケジュールについて",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261001a.pdf",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T07:04:21.444Z",
+      "enriched": "2026-10-01T07:04:27.295Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は気候変動対応支援資金供給オペレーションを2027年1月29日にオファー開始し、2027年2月1日から2028年2月1日までの融資対象期間で実施する。",
+        "オペ参加者は同日午前10時10分までに応募する必要があり、気候変動対応投融資残高の基準時点は2026年9月末となる。",
+        "オファー午前9時30分、応募締切午前10時10分、結果公表午後4時頃の時間設定により、当該オペレーションが日本銀行の金融調節機能として位置付けられている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（神奈川県）",
+      "url": "https://www.boj.or.jp/about/bcp/fso/fso261001a.pdf",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T07:04:21.444Z",
+      "enriched": "2026-10-01T07:04:27.295Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和8年台風第25号で災害救助法が適用された神奈川県内の被災者を対象に、預貯金取扱金融機関・証券会社・保険会社・電子債権記録機関が通帳喪失時の本人確認簡便化、定期預金期限前払戻し、融資審査書類最小限化、保険金迅速支払い等の金融上の措置を実施することを要請した。",
+        "金融機関各社は、被災者の被災状況に応じた柔軟な本人確認、返済猶予・貸付条件変更、保険料払込猶予期間延長、罹災証明書後日提出の受理など、被災者向けの迅速で弾力的な対応と店頭掲示・新聞・インターネットでの周知を行うべき。",
+        "令和8年10月1日付け要請から適用され、災害救助法適用地域が追加される場合も同様の措置を講ずること。「自然災害による被災者の債務整理に関するガイドライン」の説明・相談対応も求められた。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]JPXマンスリー・ヘッドライン（9月分）について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20261001-02.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T07:04:21.444Z",
+      "enriched": "2026-10-01T07:04:27.295Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文は月次ヘッドラインの目次構成のみで、規制改正・基準値変更等の具体的内容を記載していない。信用取引残高公表情報の変更が9月28日に行われたことが唯一の実務関連事項として記載されている。詳細な改正内容は別途資料に譲られている。",
+        "利用者が具体的な改正内容を知るには、各ヘッドライン項目（特に信用取引残高情報変更）のリンク先詳細資料の確認が必要。本資料は月次の施策実施実績を一覧で示すもの。",
+        "本資料は2026年10月1日付JPXマンスリー・ヘッドライン9月分として、複数施策の実施時期（8月30日〜9月28日）を記載。詳細な規制内容・適用開始日は個別資料を参照する必要がある。"
       ],
       "aiSumV": 3
     },
@@ -312,22 +373,6 @@
       ],
       "aiSumV": 3,
       "enriched": "2026-09-30T07:06:27.669Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（グロース市場）：Allganize Holdings（株）",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-09-30",
-      "detectedAt": "2026-09-30T07:06:22.330Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-30T07:06:27.670Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -15919,6 +15964,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
         "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
         "source": "Yahoo",
@@ -15945,18 +15996,18 @@
       {
         "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
         "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Z世代は平均19歳で投資を開始、暗号資産への投資で有利に＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/d899f46d6547fec1d5b44451bda0b664914d54fe",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
         "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
         "source": "Yahoo",
@@ -15983,18 +16034,18 @@
       {
         "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
         "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Z世代は平均19歳で投資を開始、暗号資産への投資で有利に＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/d899f46d6547fec1d5b44451bda0b664914d54fe",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
         "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
         "source": "Yahoo",
@@ -16021,18 +16072,18 @@
       {
         "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
         "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Z世代は平均19歳で投資を開始、暗号資産への投資で有利に＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/d899f46d6547fec1d5b44451bda0b664914d54fe",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
         "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
         "source": "Yahoo",
@@ -16059,12 +16110,6 @@
       {
         "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
         "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Z世代は平均19歳で投資を開始、暗号資産への投資で有利に＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/d899f46d6547fec1d5b44451bda0b664914d54fe",
         "source": "Yahoo",
         "date": ""
       }
@@ -16147,6 +16192,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "英FCA、暗号資産事業者の認可申請受付を開始。2027年10月に新規制施行へ",
+        "url": "https://news.yahoo.co.jp/articles/3728282f1833e224c2cd170dba9eafa58fe04a9a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【墨汁うまい氏寄稿】暗号資産のアルトシーズンついに開始か？5年ぶりの上昇相場を示すサイン",
         "url": "https://news.yahoo.co.jp/articles/98bd8d072bd35a35b2652e1eace669dfb22a9282",
         "source": "Yahoo",
@@ -16173,18 +16224,18 @@
       {
         "title": "英国、初の暗号資産本格審査開始──既存登録業者も再審査へ",
         "url": "https://news.yahoo.co.jp/articles/b2a4cd1f1ac4bf25832b1644d8b64a00a6a87a83",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッド、米国で暗号資産の無期限先物提供へ",
-        "url": "https://news.yahoo.co.jp/articles/e28d07c95e69e5022666805e9036b60790086a66",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "英FCA、暗号資産事業者の認可申請受付を開始。2027年10月に新規制施行へ",
+        "url": "https://news.yahoo.co.jp/articles/3728282f1833e224c2cd170dba9eafa58fe04a9a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【墨汁うまい氏寄稿】暗号資産のアルトシーズンついに開始か？5年ぶりの上昇相場を示すサイン",
         "url": "https://news.yahoo.co.jp/articles/98bd8d072bd35a35b2652e1eace669dfb22a9282",
         "source": "Yahoo",
@@ -16211,12 +16262,6 @@
       {
         "title": "英国、初の暗号資産本格審査開始──既存登録業者も再審査へ",
         "url": "https://news.yahoo.co.jp/articles/b2a4cd1f1ac4bf25832b1644d8b64a00a6a87a83",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロビンフッド、米国で暗号資産の無期限先物提供へ",
-        "url": "https://news.yahoo.co.jp/articles/e28d07c95e69e5022666805e9036b60790086a66",
         "source": "Yahoo",
         "date": ""
       }
@@ -16375,76 +16420,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "SBIデジトラストら、日韓間のステーブルコイン送金・決済を共同検証",
-        "url": "https://news.yahoo.co.jp/articles/5d44f43dd44a0b7e85459958d9a5f2b71893a0eb",
+        "title": "ビットコイン、インフレ下振れでレンジ上抜けも、結局ダマしに終わる【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/8ef220ca0aaf7f50cb1b45353d7b731514d0e805",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Visa・Mastercard・Stripeなど5社、新ステーブルコイン「OUSD」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/8e5471b166604f37c59da1a936734999bc01ba5a",
+        "title": "テザーとシガ、アフリカとGCC地域で自己管理型ウォレットや金融サービス展開へ",
+        "url": "https://news.yahoo.co.jp/articles/333c97ddcc2198f9f0d034c919387dcb251c92a3",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI VCトレードとアプラス、暗号資産が貯まる「事業用クレカ」発行開始",
-        "url": "https://news.yahoo.co.jp/articles/74e62491fb380f33704bbed9c4c7a57286db352d",
+        "title": "AIエージェントは、どうやってお金を使うのか？「エージェント経済圏」を支える決済と信用【コインチェック×Komlock lab】",
+        "url": "https://news.yahoo.co.jp/articles/1b3682f6bf5fc4b2878a3eef71030833b6e33fed",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "これが新時代の釣り竿！ ブロックチェーンルアーズとテイルウォークのコラボが生んだ名竿とは？",
-        "url": "https://news.yahoo.co.jp/articles/6dc0ec3980c698a3f571659c8dcbf7ed428fb101",
+        "title": "香港のステーブルコイン決済サービス「レドットペイ」、IPOに向け財務監査完了",
+        "url": "https://news.yahoo.co.jp/articles/d0ec5863989ac00e832cb4c06b7bf396591f72fc",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AI時代に接近する決済とトークン Stripeが描くエージェンティックエコノミー",
-        "url": "https://news.yahoo.co.jp/articles/b45d7d520f1717329bc843acf5b375f54d9154b4",
+        "title": "DogeOSがパブリックテストネット公開、ドージコイン向けEVM互換アプリ開発環境",
+        "url": "https://news.yahoo.co.jp/articles/ed2cc81af0832fd65b71922aff93f90b26453c45",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AllUnity、欧州規制準拠のドル建てステーブルコイン「USDAU」を発行開始",
-        "url": "https://news.yahoo.co.jp/articles/70ada9fc9c6aaa9c021037012b7aefc55c252508",
+        "title": "Baseが「Cobalt」アップグレード実施、条件付き取引導入とB20の資産発行・管理機能を強化",
+        "url": "https://news.yahoo.co.jp/articles/7c913734fddb1282375c73dc9682ef6023b7a520",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "SBIデジトラストら、日韓間のステーブルコイン送金・決済を共同検証",
-        "url": "https://news.yahoo.co.jp/articles/5d44f43dd44a0b7e85459958d9a5f2b71893a0eb",
+        "title": "ビットコイン、インフレ下振れでレンジ上抜けも、結局ダマしに終わる【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/8ef220ca0aaf7f50cb1b45353d7b731514d0e805",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Visa・Mastercard・Stripeなど5社、新ステーブルコイン「OUSD」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/8e5471b166604f37c59da1a936734999bc01ba5a",
+        "title": "テザーとシガ、アフリカとGCC地域で自己管理型ウォレットや金融サービス展開へ",
+        "url": "https://news.yahoo.co.jp/articles/333c97ddcc2198f9f0d034c919387dcb251c92a3",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI VCトレードとアプラス、暗号資産が貯まる「事業用クレカ」発行開始",
-        "url": "https://news.yahoo.co.jp/articles/74e62491fb380f33704bbed9c4c7a57286db352d",
+        "title": "AIエージェントは、どうやってお金を使うのか？「エージェント経済圏」を支える決済と信用【コインチェック×Komlock lab】",
+        "url": "https://news.yahoo.co.jp/articles/1b3682f6bf5fc4b2878a3eef71030833b6e33fed",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "これが新時代の釣り竿！ ブロックチェーンルアーズとテイルウォークのコラボが生んだ名竿とは？",
-        "url": "https://news.yahoo.co.jp/articles/6dc0ec3980c698a3f571659c8dcbf7ed428fb101",
+        "title": "香港のステーブルコイン決済サービス「レドットペイ」、IPOに向け財務監査完了",
+        "url": "https://news.yahoo.co.jp/articles/d0ec5863989ac00e832cb4c06b7bf396591f72fc",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AI時代に接近する決済とトークン Stripeが描くエージェンティックエコノミー",
-        "url": "https://news.yahoo.co.jp/articles/b45d7d520f1717329bc843acf5b375f54d9154b4",
+        "title": "DogeOSがパブリックテストネット公開、ドージコイン向けEVM互換アプリ開発環境",
+        "url": "https://news.yahoo.co.jp/articles/ed2cc81af0832fd65b71922aff93f90b26453c45",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "AllUnity、欧州規制準拠のドル建てステーブルコイン「USDAU」を発行開始",
-        "url": "https://news.yahoo.co.jp/articles/70ada9fc9c6aaa9c021037012b7aefc55c252508",
+        "title": "Baseが「Cobalt」アップグレード実施、条件付き取引導入とB20の資産発行・管理機能を強化",
+        "url": "https://news.yahoo.co.jp/articles/7c913734fddb1282375c73dc9682ef6023b7a520",
         "source": "Yahoo",
         "date": ""
       }
