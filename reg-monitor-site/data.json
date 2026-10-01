@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T02:31:49.754Z",
+  "generatedAt": "2026-10-01T04:02:52.247Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日銀当座預金増減要因と金融調節（9月実績）",
+      "url": "https://www.boj.or.jp/statistics/boj/fm/juqf/juqf09.xlsx",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T04:02:52.247Z",
+      "enriched": "2026-10-01T04:02:56.895Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がバイナリ形式（Excelファイル）のため、具体的な金融調節内容・当座預金増減要因の数値、対象となる金融機関、適用開始日などが抽出できない。",
+        "日銀は毎月の当座預金増減要因と金融調節実績を公表する慣行があるが、本資料の具体内容は判読不可。",
+        "2026年9月実績に関する金融調節の詳細は、Excel形式の元文書を直接参照する必要がある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：ハイネスコーポレーション（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20261001_01.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T04:02:52.247Z",
+      "enriched": "2026-10-01T04:02:56.895Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ハイネスコーポレーション（株）（コード638A）の上場初日（10月2日）の初値決定前気配運用について、板中心値段3,040円から上限7,000円・下限2,280円の範囲で段階的に値幅更新する旨が定められた。",
+        "取引参加者は新規上場日において成行売呼値・成行買呼値を禁止され、760円以上12,160円以下の注文受付価格範囲内で指値注文のみ受け付けられる。",
+        "初値決定後は初値を基準として通常の呼値制限値幅が適用され、当該初値を基準値段とした制限値幅が以降の売買に適用される（東証新規上場銘柄の気配運用）。"
       ],
       "aiSumV": 3
     },
@@ -15874,7 +15904,13 @@
   "lawnews": {
     "323AC0000000025": [
       {
-        "title": "オルツ元社長「事実の通り」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
+        "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
+        "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オルツ元社長「事実です」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
         "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
         "source": "Yahoo",
         "date": ""
@@ -15900,19 +15936,19 @@
       {
         "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
         "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
-        "title": "オルツ元社長「事実の通り」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
+        "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
+        "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オルツ元社長「事実です」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
         "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
         "source": "Yahoo",
         "date": ""
@@ -15938,19 +15974,19 @@
       {
         "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
         "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
-        "title": "オルツ元社長「事実の通り」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
+        "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
+        "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オルツ元社長「事実です」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
         "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
         "source": "Yahoo",
         "date": ""
@@ -15976,19 +16012,19 @@
       {
         "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
         "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
-        "title": "オルツ元社長「事実の通り」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
+        "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
+        "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オルツ元社長「事実です」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
         "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
         "source": "Yahoo",
         "date": ""
@@ -16014,12 +16050,6 @@
       {
         "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
         "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
         "source": "Yahoo",
         "date": ""
       }
@@ -16330,6 +16360,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI VCトレードとアプラス、暗号資産が貯まる「事業用クレカ」発行開始",
+        "url": "https://news.yahoo.co.jp/articles/74e62491fb380f33704bbed9c4c7a57286db352d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "これが新時代の釣り竿！ ブロックチェーンルアーズとテイルウォークのコラボが生んだ名竿とは？",
+        "url": "https://news.yahoo.co.jp/articles/6dc0ec3980c698a3f571659c8dcbf7ed428fb101",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AI時代に接近する決済とトークン Stripeが描くエージェンティックエコノミー",
         "url": "https://news.yahoo.co.jp/articles/b45d7d520f1717329bc843acf5b375f54d9154b4",
         "source": "Yahoo",
@@ -16350,24 +16392,24 @@
       {
         "title": "DogeOS、Dogecoin向けEVM互換レイヤーを公開",
         "url": "https://news.yahoo.co.jp/articles/11ac88933a8e2e6af62a5f882e1b48aa3ea1ddae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」発行へ",
-        "url": "https://news.yahoo.co.jp/articles/8c822868b5d38c9cf6ca5a177cfbf199dd8e44d9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Base、「Cobalt」アップグレード実施",
-        "url": "https://news.yahoo.co.jp/articles/501f4dccaea7b04e321eb8ad46a6e5879955e5c5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI VCトレードとアプラス、暗号資産が貯まる「事業用クレカ」発行開始",
+        "url": "https://news.yahoo.co.jp/articles/74e62491fb380f33704bbed9c4c7a57286db352d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "これが新時代の釣り竿！ ブロックチェーンルアーズとテイルウォークのコラボが生んだ名竿とは？",
+        "url": "https://news.yahoo.co.jp/articles/6dc0ec3980c698a3f571659c8dcbf7ed428fb101",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AI時代に接近する決済とトークン Stripeが描くエージェンティックエコノミー",
         "url": "https://news.yahoo.co.jp/articles/b45d7d520f1717329bc843acf5b375f54d9154b4",
         "source": "Yahoo",
@@ -16388,18 +16430,6 @@
       {
         "title": "DogeOS、Dogecoin向けEVM互換レイヤーを公開",
         "url": "https://news.yahoo.co.jp/articles/11ac88933a8e2e6af62a5f882e1b48aa3ea1ddae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」発行へ",
-        "url": "https://news.yahoo.co.jp/articles/8c822868b5d38c9cf6ca5a177cfbf199dd8e44d9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Base、「Cobalt」アップグレード実施",
-        "url": "https://news.yahoo.co.jp/articles/501f4dccaea7b04e321eb8ad46a6e5879955e5c5",
         "source": "Yahoo",
         "date": ""
       }
@@ -17120,6 +17150,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "タイムズカー660万件流出、集団訴訟に発展も？なりすまし被害のリスク、免許証画像で賠償額は変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/636568644ae08b38704191177d31ac12eb5d0470",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カルテは誰のもの？ 自分の診療記録を見るのに「開示請求」が必要な日本 （九条丈二 社会制度・政策研究者）",
         "url": "https://news.yahoo.co.jp/articles/257d131f67ed7a055024a4f8fbfddf5147b276ff",
         "source": "Yahoo",
@@ -17146,18 +17182,18 @@
       {
         "title": "「本当のこと」でも名誉毀損に？転職口コミで個人特定され書類送検",
         "url": "https://news.yahoo.co.jp/articles/1d03b2806f9c1ba647bd480add727b9ad9270668",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国政府、国民向け「みんなのAI」でデータ移動基準策定へ",
-        "url": "https://news.yahoo.co.jp/articles/6a2f9435b1ff08c08e6f1fa0c31ad1e950da5622",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "タイムズカー660万件流出、集団訴訟に発展も？なりすまし被害のリスク、免許証画像で賠償額は変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/636568644ae08b38704191177d31ac12eb5d0470",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カルテは誰のもの？ 自分の診療記録を見るのに「開示請求」が必要な日本 （九条丈二 社会制度・政策研究者）",
         "url": "https://news.yahoo.co.jp/articles/257d131f67ed7a055024a4f8fbfddf5147b276ff",
         "source": "Yahoo",
@@ -17184,18 +17220,18 @@
       {
         "title": "「本当のこと」でも名誉毀損に？転職口コミで個人特定され書類送検",
         "url": "https://news.yahoo.co.jp/articles/1d03b2806f9c1ba647bd480add727b9ad9270668",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国政府、国民向け「みんなのAI」でデータ移動基準策定へ",
-        "url": "https://news.yahoo.co.jp/articles/6a2f9435b1ff08c08e6f1fa0c31ad1e950da5622",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "タイムズカー660万件流出、集団訴訟に発展も？なりすまし被害のリスク、免許証画像で賠償額は変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/636568644ae08b38704191177d31ac12eb5d0470",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カルテは誰のもの？ 自分の診療記録を見るのに「開示請求」が必要な日本 （九条丈二 社会制度・政策研究者）",
         "url": "https://news.yahoo.co.jp/articles/257d131f67ed7a055024a4f8fbfddf5147b276ff",
         "source": "Yahoo",
@@ -17222,12 +17258,6 @@
       {
         "title": "「本当のこと」でも名誉毀損に？転職口コミで個人特定され書類送検",
         "url": "https://news.yahoo.co.jp/articles/1d03b2806f9c1ba647bd480add727b9ad9270668",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国政府、国民向け「みんなのAI」でデータ移動基準策定へ",
-        "url": "https://news.yahoo.co.jp/articles/6a2f9435b1ff08c08e6f1fa0c31ad1e950da5622",
         "source": "Yahoo",
         "date": ""
       }
