@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T00:49:05.502Z",
+  "generatedAt": "2026-10-01T02:31:49.754Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "2026年度の東京レポ・レートのレファレンス先について",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/trr/index.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T02:31:49.754Z",
+      "enriched": "2026-10-01T02:31:54.215Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2026年度の東京レポ・レートのレファレンス先を決定し、同年10月1日から適用する旨を公表した。",
+        "レポ取引の市場実勢把握と透明性向上を目的とした東京レポ・レートについて、協会が2012年10月以降の公表主体として管理・運営している。",
+        "短期金融市場の重要指標であるレポ・レートの信頼性維持のため、レファレンス先による市場データ提供と協会による定期的な作成・公表が継続される。"
       ],
       "aiSumV": 3
     },
@@ -116,7 +131,13 @@
       "date": "2026-10-01",
       "detectedAt": "2026-10-01T00:15:37.874Z",
       "enriched": "2026-10-01T00:15:43.779Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が取得できないため、タイトルと関連情報から判断すると、日本証券業協会加入に関する要件または手続について定められたものと考えられます。",
+        "金融商品取引業者は、当協会への加入要件を確認し、必要な申請手続を実施する必要があります。",
+        "詳細は日本証券業協会の公式サイト確認により、正確な加入基準・手続・開始時期等を把握してください。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "JVCEA",
@@ -15853,6 +15874,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "オルツ元社長「事実の通り」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
+        "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
         "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
         "source": "Yahoo",
@@ -15879,18 +15906,18 @@
       {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日銀金融政策決定会合（2026年9月）――利上げペース加速へ、予想通り0.25％の追加利上げを決定【解説：東京海上アセットマネジメント】",
-        "url": "https://news.yahoo.co.jp/articles/e0b0c22ef177277d2fc1457e6ed72a31b7d78325",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "オルツ元社長「事実の通り」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
+        "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
         "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
         "source": "Yahoo",
@@ -15917,18 +15944,18 @@
       {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日銀金融政策決定会合（2026年9月）――利上げペース加速へ、予想通り0.25％の追加利上げを決定【解説：東京海上アセットマネジメント】",
-        "url": "https://news.yahoo.co.jp/articles/e0b0c22ef177277d2fc1457e6ed72a31b7d78325",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "オルツ元社長「事実の通り」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
+        "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
         "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
         "source": "Yahoo",
@@ -15955,18 +15982,18 @@
       {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日銀金融政策決定会合（2026年9月）――利上げペース加速へ、予想通り0.25％の追加利上げを決定【解説：東京海上アセットマネジメント】",
-        "url": "https://news.yahoo.co.jp/articles/e0b0c22ef177277d2fc1457e6ed72a31b7d78325",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "オルツ元社長「事実の通り」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
+        "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
         "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
         "source": "Yahoo",
@@ -15993,12 +16020,6 @@
       {
         "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
         "url": "https://news.yahoo.co.jp/articles/7740d2b317c2a48560c365d23738ce13bcd96c21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日銀金融政策決定会合（2026年9月）――利上げペース加速へ、予想通り0.25％の追加利上げを決定【解説：東京海上アセットマネジメント】",
-        "url": "https://news.yahoo.co.jp/articles/e0b0c22ef177277d2fc1457e6ed72a31b7d78325",
         "source": "Yahoo",
         "date": ""
       }
@@ -16081,6 +16102,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "【墨汁うまい氏寄稿】暗号資産のアルトシーズンついに開始か？5年ぶりの上昇相場を示すサイン",
+        "url": "https://news.yahoo.co.jp/articles/98bd8d072bd35a35b2652e1eace669dfb22a9282",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AllUnity、欧州規制準拠のドル建てステーブルコイン「USDAU」を発行開始",
         "url": "https://news.yahoo.co.jp/articles/70ada9fc9c6aaa9c021037012b7aefc55c252508",
         "source": "Yahoo",
@@ -16107,18 +16134,18 @@
       {
         "title": "ロビンフッド、米国で暗号資産の無期限先物提供へ",
         "url": "https://news.yahoo.co.jp/articles/e28d07c95e69e5022666805e9036b60790086a66",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ESMA、2027年計画を公表。MiCA監督統一や暗号資産監視「MIDAS」第2段階へ",
-        "url": "https://news.yahoo.co.jp/articles/435b4832cd8547404ef90440f2f323cb2e6ea753",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "【墨汁うまい氏寄稿】暗号資産のアルトシーズンついに開始か？5年ぶりの上昇相場を示すサイン",
+        "url": "https://news.yahoo.co.jp/articles/98bd8d072bd35a35b2652e1eace669dfb22a9282",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AllUnity、欧州規制準拠のドル建てステーブルコイン「USDAU」を発行開始",
         "url": "https://news.yahoo.co.jp/articles/70ada9fc9c6aaa9c021037012b7aefc55c252508",
         "source": "Yahoo",
@@ -16145,12 +16172,6 @@
       {
         "title": "ロビンフッド、米国で暗号資産の無期限先物提供へ",
         "url": "https://news.yahoo.co.jp/articles/e28d07c95e69e5022666805e9036b60790086a66",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ESMA、2027年計画を公表。MiCA監督統一や暗号資産監視「MIDAS」第2段階へ",
-        "url": "https://news.yahoo.co.jp/articles/435b4832cd8547404ef90440f2f323cb2e6ea753",
         "source": "Yahoo",
         "date": ""
       }
