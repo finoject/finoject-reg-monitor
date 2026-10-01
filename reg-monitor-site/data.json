@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T07:45:50.385Z",
+  "generatedAt": "2026-10-01T09:21:16.963Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "バーゼル銀行監督委員会による「バーゼルIIIモニタリングレポート」の公表について",
+      "url": "https://www.boj.or.jp/finsys/intlact_fs/kisei/kis261001a.htm",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T09:21:16.963Z",
+      "enriched": "2026-10-01T09:21:21.550Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "バーゼル銀行監督委員会が2026年9月23日に「バーゼルIIIモニタリングレポート」を公表し、2025年12月末（日本は同年9月末）基準日のバーゼルIII関連指標データの分析結果を掲載。",
+        "バーゼルIII適用対象の金融機関は、自己資本比率等の関連指標について同レポートで半年ごとにモニタリングされ、業界全体の規制遵守状況が国際決済銀行ウェブサイトで公表される。",
+        "本レポートのデータはExcelファイル形式およびダッシュボード形式で国際決済銀行ウェブサイトにて公開され、金融機関および市場参加者が自己資本充実度等を把握できる体制が整備された。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]第1回「更なる少額投資の実現に向けた制度・実務ワーキング・グループ」の開催について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1030/20261001-01.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T09:21:16.963Z",
+      "enriched": "2026-10-01T09:21:21.550Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所は2026年10月1日に「更なる少額投資の実現に向けた制度・実務ワーキング・グループ」第1回会合を開催し、少額投資の実現に向けた制度・実務上の課題検討を開始した。",
+        "市場参加者および関連する自主規制機関は、当該ワーキング・グループの検討動向を注視し、今後示される改正案等への対応準備を進める必要がある。",
+        "詳細資料は東京証券取引所公式サイトのワーキング・グループページで公表され、今後の検討スケジュールと具体的な改正内容が明示される予定である。"
       ],
       "aiSumV": 3
     },
@@ -15979,6 +16009,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
+        "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
         "source": "Yahoo",
@@ -16005,18 +16041,18 @@
       {
         "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
         "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
-        "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
+        "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
         "source": "Yahoo",
@@ -16043,18 +16079,18 @@
       {
         "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
         "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
-        "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
+        "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
         "source": "Yahoo",
@@ -16081,18 +16117,18 @@
       {
         "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
         "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
-        "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
+        "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
         "source": "Yahoo",
@@ -16119,12 +16155,6 @@
       {
         "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
         "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "潜入ジャーナリストが見た「1日30分睡眠」堀大輔氏のショートスリーパー講座の実態 「理不尽な締め出し」「受講生に八つ当たり」「返金は不可能」",
-        "url": "https://news.yahoo.co.jp/articles/5efbdbe46d8953181bf835a1e498ebd2b9ebcbc5",
         "source": "Yahoo",
         "date": ""
       }
@@ -16435,6 +16465,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "米クラウドフレア、AIエージェントにAPIを1回ごとに販売 HTTP 402で即時に決済へ",
+        "url": "https://news.yahoo.co.jp/articles/fcf18f7acd2fbf5746dbca085011515156457b98",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "HSBC、発行予定の香港ドルステーブルコインの名称決定。「RedCoin」で年内提供へ",
+        "url": "https://news.yahoo.co.jp/articles/622daccc28bf849661788d77a4e7b933e0e0a19b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン、インフレ下振れでレンジ上抜けも、結局ダマしに終わる【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/8ef220ca0aaf7f50cb1b45353d7b731514d0e805",
         "source": "Yahoo",
@@ -16455,24 +16497,24 @@
       {
         "title": "香港のステーブルコイン決済サービス「レドットペイ」、IPOに向け財務監査完了",
         "url": "https://news.yahoo.co.jp/articles/d0ec5863989ac00e832cb4c06b7bf396591f72fc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DogeOSがパブリックテストネット公開、ドージコイン向けEVM互換アプリ開発環境",
-        "url": "https://news.yahoo.co.jp/articles/ed2cc81af0832fd65b71922aff93f90b26453c45",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Baseが「Cobalt」アップグレード実施、条件付き取引導入とB20の資産発行・管理機能を強化",
-        "url": "https://news.yahoo.co.jp/articles/7c913734fddb1282375c73dc9682ef6023b7a520",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米クラウドフレア、AIエージェントにAPIを1回ごとに販売 HTTP 402で即時に決済へ",
+        "url": "https://news.yahoo.co.jp/articles/fcf18f7acd2fbf5746dbca085011515156457b98",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "HSBC、発行予定の香港ドルステーブルコインの名称決定。「RedCoin」で年内提供へ",
+        "url": "https://news.yahoo.co.jp/articles/622daccc28bf849661788d77a4e7b933e0e0a19b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン、インフレ下振れでレンジ上抜けも、結局ダマしに終わる【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/8ef220ca0aaf7f50cb1b45353d7b731514d0e805",
         "source": "Yahoo",
@@ -16493,18 +16535,6 @@
       {
         "title": "香港のステーブルコイン決済サービス「レドットペイ」、IPOに向け財務監査完了",
         "url": "https://news.yahoo.co.jp/articles/d0ec5863989ac00e832cb4c06b7bf396591f72fc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DogeOSがパブリックテストネット公開、ドージコイン向けEVM互換アプリ開発環境",
-        "url": "https://news.yahoo.co.jp/articles/ed2cc81af0832fd65b71922aff93f90b26453c45",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Baseが「Cobalt」アップグレード実施、条件付き取引導入とB20の資産発行・管理機能を強化",
-        "url": "https://news.yahoo.co.jp/articles/7c913734fddb1282375c73dc9682ef6023b7a520",
         "source": "Yahoo",
         "date": ""
       }
