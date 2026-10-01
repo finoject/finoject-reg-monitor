@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T04:02:52.247Z",
+  "generatedAt": "2026-10-01T05:33:30.517Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "『持続可能な学校法人のためのガバナンスと情報開示 ー急激な少子化を見据えて私立大学の未来像を考えるー』の開催について（2026年11月９日開催）",
+      "url": "https://jicpa.or.jp/news/information/2026/20261001cdh.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-01T05:33:30.517Z",
+      "enriched": "2026-10-01T05:33:39.577Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "私立学校法の改正を踏まえ、学校法人が持続可能な経営を実現するためにはガバナンスと情報開示の強化が求められることが示された。",
+        "学校法人の理事長・理事・監事・学長等の経営幹部および省庁・自治体関係者・公認会計士は、2026年11月9日のセミナーで改正私立学校法への対応と学校法人制度改革の方向性を学ぶべき。",
+        "本セミナーは2026年11月9日13時30分から開催され、会場100名・オンライン1,000名の定員で参加無料、CPD2単位が付与される（申込期限は会場11月9日、オンライン11月6日）。"
       ],
       "aiSumV": 3
     },
@@ -15904,6 +15919,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
+        "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
         "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
         "source": "Yahoo",
@@ -15930,18 +15951,18 @@
       {
         "title": "Z世代は平均19歳で投資を開始、暗号資産への投資で有利に＝Grayscale",
         "url": "https://news.yahoo.co.jp/articles/d899f46d6547fec1d5b44451bda0b664914d54fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
-        "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
+        "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
         "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
         "source": "Yahoo",
@@ -15968,18 +15989,18 @@
       {
         "title": "Z世代は平均19歳で投資を開始、暗号資産への投資で有利に＝Grayscale",
         "url": "https://news.yahoo.co.jp/articles/d899f46d6547fec1d5b44451bda0b664914d54fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
-        "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
+        "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
         "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
         "source": "Yahoo",
@@ -16006,18 +16027,18 @@
       {
         "title": "Z世代は平均19歳で投資を開始、暗号資産への投資で有利に＝Grayscale",
         "url": "https://news.yahoo.co.jp/articles/d899f46d6547fec1d5b44451bda0b664914d54fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
-        "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
+        "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
         "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
         "source": "Yahoo",
@@ -16044,12 +16065,6 @@
       {
         "title": "Z世代は平均19歳で投資を開始、暗号資産への投資で有利に＝Grayscale",
         "url": "https://news.yahoo.co.jp/articles/d899f46d6547fec1d5b44451bda0b664914d54fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "株高、新NISAが「金融商品取引業」の追い風に 手数料引き下げ競争下でも他の収入増で業績拡大 資産運用人口も増加するなか、金融取引業者の情報公開の重要性も高まっている。金融商品取引法では、金融商品取引業者は毎事業年度経過後3カ月以内に内閣総理大臣に提",
-        "url": "https://news.yahoo.co.jp/articles/a0f054e4d262ee82cdd4406d569bc846a4139710",
         "source": "Yahoo",
         "date": ""
       }
@@ -16360,6 +16375,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBIデジトラストら、日韓間のステーブルコイン送金・決済を共同検証",
+        "url": "https://news.yahoo.co.jp/articles/5d44f43dd44a0b7e85459958d9a5f2b71893a0eb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa・Mastercard・Stripeなど5社、新ステーブルコイン「OUSD」提供開始",
+        "url": "https://news.yahoo.co.jp/articles/8e5471b166604f37c59da1a936734999bc01ba5a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI VCトレードとアプラス、暗号資産が貯まる「事業用クレカ」発行開始",
         "url": "https://news.yahoo.co.jp/articles/74e62491fb380f33704bbed9c4c7a57286db352d",
         "source": "Yahoo",
@@ -16380,24 +16407,24 @@
       {
         "title": "AllUnity、欧州規制準拠のドル建てステーブルコイン「USDAU」を発行開始",
         "url": "https://news.yahoo.co.jp/articles/70ada9fc9c6aaa9c021037012b7aefc55c252508",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米イリノイ州、0.2%暗号資産取引税の規則案を公表──ステーブルコインは課税対象に",
-        "url": "https://news.yahoo.co.jp/articles/15117d1fe5b7ec193d503d10b25748504c1fc8f3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DogeOS、Dogecoin向けEVM互換レイヤーを公開",
-        "url": "https://news.yahoo.co.jp/articles/11ac88933a8e2e6af62a5f882e1b48aa3ea1ddae",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBIデジトラストら、日韓間のステーブルコイン送金・決済を共同検証",
+        "url": "https://news.yahoo.co.jp/articles/5d44f43dd44a0b7e85459958d9a5f2b71893a0eb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa・Mastercard・Stripeなど5社、新ステーブルコイン「OUSD」提供開始",
+        "url": "https://news.yahoo.co.jp/articles/8e5471b166604f37c59da1a936734999bc01ba5a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI VCトレードとアプラス、暗号資産が貯まる「事業用クレカ」発行開始",
         "url": "https://news.yahoo.co.jp/articles/74e62491fb380f33704bbed9c4c7a57286db352d",
         "source": "Yahoo",
@@ -16418,18 +16445,6 @@
       {
         "title": "AllUnity、欧州規制準拠のドル建てステーブルコイン「USDAU」を発行開始",
         "url": "https://news.yahoo.co.jp/articles/70ada9fc9c6aaa9c021037012b7aefc55c252508",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米イリノイ州、0.2%暗号資産取引税の規則案を公表──ステーブルコインは課税対象に",
-        "url": "https://news.yahoo.co.jp/articles/15117d1fe5b7ec193d503d10b25748504c1fc8f3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DogeOS、Dogecoin向けEVM互換レイヤーを公開",
-        "url": "https://news.yahoo.co.jp/articles/11ac88933a8e2e6af62a5f882e1b48aa3ea1ddae",
         "source": "Yahoo",
         "date": ""
       }
@@ -17150,6 +17165,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "採用書類専用の個人情報マスク「conneMas」提供開始 消しすぎずAIにそのまま渡せる（株式会社セコネ）",
+        "url": "https://news.yahoo.co.jp/articles/85a5634bb6a4ff6d640a7c22d3c3c15cb9fd0006",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "タイムズカー660万件流出、集団訴訟に発展も？なりすまし被害のリスク、免許証画像で賠償額は変わるのか",
         "url": "https://news.yahoo.co.jp/articles/636568644ae08b38704191177d31ac12eb5d0470",
         "source": "Yahoo",
@@ -17176,18 +17197,18 @@
       {
         "title": "教職員のストレスチェックの結果を別人に誤送付 岡山県教委発表、委託先の事業者",
         "url": "https://news.yahoo.co.jp/articles/ba1848c5e2de4675db2a15a073fbedb5eddaa394",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「本当のこと」でも名誉毀損に？転職口コミで個人特定され書類送検",
-        "url": "https://news.yahoo.co.jp/articles/1d03b2806f9c1ba647bd480add727b9ad9270668",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "採用書類専用の個人情報マスク「conneMas」提供開始 消しすぎずAIにそのまま渡せる（株式会社セコネ）",
+        "url": "https://news.yahoo.co.jp/articles/85a5634bb6a4ff6d640a7c22d3c3c15cb9fd0006",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "タイムズカー660万件流出、集団訴訟に発展も？なりすまし被害のリスク、免許証画像で賠償額は変わるのか",
         "url": "https://news.yahoo.co.jp/articles/636568644ae08b38704191177d31ac12eb5d0470",
         "source": "Yahoo",
@@ -17214,18 +17235,18 @@
       {
         "title": "教職員のストレスチェックの結果を別人に誤送付 岡山県教委発表、委託先の事業者",
         "url": "https://news.yahoo.co.jp/articles/ba1848c5e2de4675db2a15a073fbedb5eddaa394",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「本当のこと」でも名誉毀損に？転職口コミで個人特定され書類送検",
-        "url": "https://news.yahoo.co.jp/articles/1d03b2806f9c1ba647bd480add727b9ad9270668",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "採用書類専用の個人情報マスク「conneMas」提供開始 消しすぎずAIにそのまま渡せる（株式会社セコネ）",
+        "url": "https://news.yahoo.co.jp/articles/85a5634bb6a4ff6d640a7c22d3c3c15cb9fd0006",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "タイムズカー660万件流出、集団訴訟に発展も？なりすまし被害のリスク、免許証画像で賠償額は変わるのか",
         "url": "https://news.yahoo.co.jp/articles/636568644ae08b38704191177d31ac12eb5d0470",
         "source": "Yahoo",
@@ -17252,12 +17273,6 @@
       {
         "title": "教職員のストレスチェックの結果を別人に誤送付 岡山県教委発表、委託先の事業者",
         "url": "https://news.yahoo.co.jp/articles/ba1848c5e2de4675db2a15a073fbedb5eddaa394",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「本当のこと」でも名誉毀損に？転職口コミで個人特定され書類送検",
-        "url": "https://news.yahoo.co.jp/articles/1d03b2806f9c1ba647bd480add727b9ad9270668",
         "source": "Yahoo",
         "date": ""
       }
