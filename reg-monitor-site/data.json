@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-02T04:15:45.636Z",
+  "generatedAt": "2026-10-02T05:46:30.812Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]第10回「従属上場会社における少数株主保護の在り方等に関する研究会」の開催について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20261002-01.html",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T05:46:30.812Z",
+      "enriched": "2026-10-02T05:46:36.685Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証は2026年10月2日に第10回「従属上場会社における少数株主保護の在り方等に関する研究会」を開催し、当日資料を公表した。",
+        "従属上場会社およびその少数株主並びに市場参加者は、本研究会資料により少数株主保護の在り方に関する検討状況を確認すべき。",
+        "本公表は2026年10月2日付で、東証上場部企画グループが取扱い、詳細資料はJPXウェブサイトの該当リンク先で閲覧可能。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "JVCEA",
       "title": "事業準備会員として1社入会しました",
@@ -16320,6 +16335,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ロビンフッド、米国で暗号資産の無期限先物提供へ。BTC・ETHは最大10倍レバレッジ",
+        "url": "https://news.yahoo.co.jp/articles/d3efaa57e60d0a7dd9dff97ad29b0ffe6113927e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米NYDFSとワイオミング州銀行当局、暗号資産監督でMOU締結",
         "url": "https://news.yahoo.co.jp/articles/8213b88f5342674c5a8dcee0ba781f44816fbfa5",
         "source": "Yahoo",
@@ -16346,18 +16367,18 @@
       {
         "title": "SEC、投資顧問会社の暗号資産「自己保管」を条件付きで容認へ",
         "url": "https://news.yahoo.co.jp/articles/0de65082745e8666c4d9bbd8e2e495f44cc18fc8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「クラリティ法案否決」「半減期」でビットコインは売りか買いか？",
-        "url": "https://news.yahoo.co.jp/articles/20a763ef5880689d794d6be09bfa0e8abee7d1a7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ロビンフッド、米国で暗号資産の無期限先物提供へ。BTC・ETHは最大10倍レバレッジ",
+        "url": "https://news.yahoo.co.jp/articles/d3efaa57e60d0a7dd9dff97ad29b0ffe6113927e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米NYDFSとワイオミング州銀行当局、暗号資産監督でMOU締結",
         "url": "https://news.yahoo.co.jp/articles/8213b88f5342674c5a8dcee0ba781f44816fbfa5",
         "source": "Yahoo",
@@ -16384,12 +16405,6 @@
       {
         "title": "SEC、投資顧問会社の暗号資産「自己保管」を条件付きで容認へ",
         "url": "https://news.yahoo.co.jp/articles/0de65082745e8666c4d9bbd8e2e495f44cc18fc8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「クラリティ法案否決」「半減期」でビットコインは売りか買いか？",
-        "url": "https://news.yahoo.co.jp/articles/20a763ef5880689d794d6be09bfa0e8abee7d1a7",
         "source": "Yahoo",
         "date": ""
       }
@@ -16548,6 +16563,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "Visaと英ロイズ、USDCで越境精算を実証。カントンも活用",
+        "url": "https://news.yahoo.co.jp/articles/ad23c6076ac7d38d03ba3d1efe65005482b4fe0d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビザ・マスターら参加のステーブルコイン「OUSD」ローンチ、準備資産の収益を企業に還元",
         "url": "https://news.yahoo.co.jp/articles/5951c65341709d18d81742569fb66478d7bfe8ec",
         "source": "Yahoo",
@@ -16574,18 +16595,18 @@
       {
         "title": "イリノイ州、0.2%の暗号資産取引税を半年延期へ──業界団体の提訴受け",
         "url": "https://news.yahoo.co.jp/articles/34b8d5f77c85947cb50fe7e76b40803fc41c5aa2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リユース経済新聞社、業界最大級のイベント「Reuse×Tech Conference」10月開催 リユース市場の最新動向が分かる",
-        "url": "https://news.yahoo.co.jp/articles/44832f3baa739df8d2e183c8bd1204472180d7e1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Visaと英ロイズ、USDCで越境精算を実証。カントンも活用",
+        "url": "https://news.yahoo.co.jp/articles/ad23c6076ac7d38d03ba3d1efe65005482b4fe0d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビザ・マスターら参加のステーブルコイン「OUSD」ローンチ、準備資産の収益を企業に還元",
         "url": "https://news.yahoo.co.jp/articles/5951c65341709d18d81742569fb66478d7bfe8ec",
         "source": "Yahoo",
@@ -16612,12 +16633,6 @@
       {
         "title": "イリノイ州、0.2%の暗号資産取引税を半年延期へ──業界団体の提訴受け",
         "url": "https://news.yahoo.co.jp/articles/34b8d5f77c85947cb50fe7e76b40803fc41c5aa2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リユース経済新聞社、業界最大級のイベント「Reuse×Tech Conference」10月開催 リユース市場の最新動向が分かる",
-        "url": "https://news.yahoo.co.jp/articles/44832f3baa739df8d2e183c8bd1204472180d7e1",
         "source": "Yahoo",
         "date": ""
       }
