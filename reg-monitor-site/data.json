@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-02T02:44:56.209Z",
+  "generatedAt": "2026-10-02T04:15:45.636Z",
   "items": [
+    {
+      "agency": "JVCEA",
+      "title": "事業準備会員として1社入会しました",
+      "url": "https://jvcea.or.jp/information/admission-info/20261002-001/",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T04:15:45.636Z",
+      "enriched": "2026-10-02T04:15:51.685Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "SBIネオ金融プラットフォーム株式会社（代表取締役 前田洋海）がJVCEAの事業準備会員として新規入会した。",
+        "事業準備会員入会資格を有する企業は、入会申請書提出後、JVCEA審査合格により事業準備会員資格を取得可能である。",
+        "2026年10月2日付で会員登録が実施され、JVCEA会員規約に基づく準備会員としての義務が発生する。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本公認会計士協会",
       "title": "「上場企業の有価証券報告書における監査意見不表明について」",
@@ -16305,6 +16320,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "米NYDFSとワイオミング州銀行当局、暗号資産監督でMOU締結",
+        "url": "https://news.yahoo.co.jp/articles/8213b88f5342674c5a8dcee0ba781f44816fbfa5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米SEC、投資顧問・ファンド向け暗号資産保管の規則案公表。セルフカストディを条件付き容認へ",
+        "url": "https://news.yahoo.co.jp/articles/78a0f0d80fadced46657e61298e892bfb38893a8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案の採決失敗で暗号資産はむしろ得をした＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/29da876e0ffe6d7f9d49844a66cdf4282e03d8bf",
         "source": "Yahoo",
@@ -16325,24 +16352,24 @@
       {
         "title": "「クラリティ法案否決」「半減期」でビットコインは売りか買いか？",
         "url": "https://news.yahoo.co.jp/articles/20a763ef5880689d794d6be09bfa0e8abee7d1a7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは9月に約7％上昇──底打ちは近いのか、10月に見るべき「買い手」の正体【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/c7886b38736885d2edf865e0cc6f5e1c09c3f108",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、ビットバンクの完全子会社化を完了──CEOは廣末氏が続投",
-        "url": "https://news.yahoo.co.jp/articles/28ade6e0a7431b73a8defc70a9e467f814c0b52f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米NYDFSとワイオミング州銀行当局、暗号資産監督でMOU締結",
+        "url": "https://news.yahoo.co.jp/articles/8213b88f5342674c5a8dcee0ba781f44816fbfa5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米SEC、投資顧問・ファンド向け暗号資産保管の規則案公表。セルフカストディを条件付き容認へ",
+        "url": "https://news.yahoo.co.jp/articles/78a0f0d80fadced46657e61298e892bfb38893a8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案の採決失敗で暗号資産はむしろ得をした＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/29da876e0ffe6d7f9d49844a66cdf4282e03d8bf",
         "source": "Yahoo",
@@ -16363,18 +16390,6 @@
       {
         "title": "「クラリティ法案否決」「半減期」でビットコインは売りか買いか？",
         "url": "https://news.yahoo.co.jp/articles/20a763ef5880689d794d6be09bfa0e8abee7d1a7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは9月に約7％上昇──底打ちは近いのか、10月に見るべき「買い手」の正体【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/c7886b38736885d2edf865e0cc6f5e1c09c3f108",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、ビットバンクの完全子会社化を完了──CEOは廣末氏が続投",
-        "url": "https://news.yahoo.co.jp/articles/28ade6e0a7431b73a8defc70a9e467f814c0b52f",
         "source": "Yahoo",
         "date": ""
       }
@@ -16533,6 +16548,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ビザ・マスターら参加のステーブルコイン「OUSD」ローンチ、準備資産の収益を企業に還元",
+        "url": "https://news.yahoo.co.jp/articles/5951c65341709d18d81742569fb66478d7bfe8ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビザ・マスターカード・ストライプが支援、米ドル連動のステーブルコイン「OUSD」が稼働開始",
+        "url": "https://news.yahoo.co.jp/articles/31e6e486f2769a52e68e188bdec6b8a803b2f8ba",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案の採決失敗で暗号資産はむしろ得をした＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/29da876e0ffe6d7f9d49844a66cdf4282e03d8bf",
         "source": "Yahoo",
@@ -16553,24 +16580,24 @@
       {
         "title": "リユース経済新聞社、業界最大級のイベント「Reuse×Tech Conference」10月開催 リユース市場の最新動向が分かる",
         "url": "https://news.yahoo.co.jp/articles/44832f3baa739df8d2e183c8bd1204472180d7e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは9月に約7％上昇──底打ちは近いのか、10月に見るべき「買い手」の正体【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/c7886b38736885d2edf865e0cc6f5e1c09c3f108",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、日韓ステーブルコイン決済の商用化へ共同検証",
-        "url": "https://news.yahoo.co.jp/articles/122bbad93546ac99c132d4c7016c73fd0ef377fc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ビザ・マスターら参加のステーブルコイン「OUSD」ローンチ、準備資産の収益を企業に還元",
+        "url": "https://news.yahoo.co.jp/articles/5951c65341709d18d81742569fb66478d7bfe8ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビザ・マスターカード・ストライプが支援、米ドル連動のステーブルコイン「OUSD」が稼働開始",
+        "url": "https://news.yahoo.co.jp/articles/31e6e486f2769a52e68e188bdec6b8a803b2f8ba",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案の採決失敗で暗号資産はむしろ得をした＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/29da876e0ffe6d7f9d49844a66cdf4282e03d8bf",
         "source": "Yahoo",
@@ -16591,18 +16618,6 @@
       {
         "title": "リユース経済新聞社、業界最大級のイベント「Reuse×Tech Conference」10月開催 リユース市場の最新動向が分かる",
         "url": "https://news.yahoo.co.jp/articles/44832f3baa739df8d2e183c8bd1204472180d7e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインは9月に約7％上昇──底打ちは近いのか、10月に見るべき「買い手」の正体【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/c7886b38736885d2edf865e0cc6f5e1c09c3f108",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、日韓ステーブルコイン決済の商用化へ共同検証",
-        "url": "https://news.yahoo.co.jp/articles/122bbad93546ac99c132d4c7016c73fd0ef377fc",
         "source": "Yahoo",
         "date": ""
       }
@@ -17133,6 +17148,12 @@
     ],
     "417AC0000000086": [
       {
+        "title": "米SEC、投資顧問・ファンド向け暗号資産保管の規則案公表。セルフカストディを条件付き容認へ",
+        "url": "https://news.yahoo.co.jp/articles/78a0f0d80fadced46657e61298e892bfb38893a8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "株主提案の取扱いをめぐる米国SECの歴史的な政策転換",
         "url": "https://news.yahoo.co.jp/articles/0bcc615eabd09233315149df452b5a58efc436b3",
         "source": "Yahoo",
@@ -17159,18 +17180,18 @@
       {
         "title": "暗号資産業界、新種ETFへの一律な規制を避けるようSECに要請",
         "url": "https://news.yahoo.co.jp/articles/72a393f04d9e810b7f20e6b3f9a58a9e9aabc20d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
-        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "米SEC、投資顧問・ファンド向け暗号資産保管の規則案公表。セルフカストディを条件付き容認へ",
+        "url": "https://news.yahoo.co.jp/articles/78a0f0d80fadced46657e61298e892bfb38893a8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "株主提案の取扱いをめぐる米国SECの歴史的な政策転換",
         "url": "https://news.yahoo.co.jp/articles/0bcc615eabd09233315149df452b5a58efc436b3",
         "source": "Yahoo",
@@ -17197,18 +17218,18 @@
       {
         "title": "暗号資産業界、新種ETFへの一律な規制を避けるようSECに要請",
         "url": "https://news.yahoo.co.jp/articles/72a393f04d9e810b7f20e6b3f9a58a9e9aabc20d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
-        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "米SEC、投資顧問・ファンド向け暗号資産保管の規則案公表。セルフカストディを条件付き容認へ",
+        "url": "https://news.yahoo.co.jp/articles/78a0f0d80fadced46657e61298e892bfb38893a8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "株主提案の取扱いをめぐる米国SECの歴史的な政策転換",
         "url": "https://news.yahoo.co.jp/articles/0bcc615eabd09233315149df452b5a58efc436b3",
         "source": "Yahoo",
@@ -17235,18 +17256,18 @@
       {
         "title": "暗号資産業界、新種ETFへの一律な規制を避けるようSECに要請",
         "url": "https://news.yahoo.co.jp/articles/72a393f04d9e810b7f20e6b3f9a58a9e9aabc20d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
-        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "米SEC、投資顧問・ファンド向け暗号資産保管の規則案公表。セルフカストディを条件付き容認へ",
+        "url": "https://news.yahoo.co.jp/articles/78a0f0d80fadced46657e61298e892bfb38893a8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "株主提案の取扱いをめぐる米国SECの歴史的な政策転換",
         "url": "https://news.yahoo.co.jp/articles/0bcc615eabd09233315149df452b5a58efc436b3",
         "source": "Yahoo",
@@ -17273,18 +17294,18 @@
       {
         "title": "暗号資産業界、新種ETFへの一律な規制を避けるようSECに要請",
         "url": "https://news.yahoo.co.jp/articles/72a393f04d9e810b7f20e6b3f9a58a9e9aabc20d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
-        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "米SEC、投資顧問・ファンド向け暗号資産保管の規則案公表。セルフカストディを条件付き容認へ",
+        "url": "https://news.yahoo.co.jp/articles/78a0f0d80fadced46657e61298e892bfb38893a8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "株主提案の取扱いをめぐる米国SECの歴史的な政策転換",
         "url": "https://news.yahoo.co.jp/articles/0bcc615eabd09233315149df452b5a58efc436b3",
         "source": "Yahoo",
@@ -17311,12 +17332,6 @@
       {
         "title": "暗号資産業界、新種ETFへの一律な規制を避けるようSECに要請",
         "url": "https://news.yahoo.co.jp/articles/72a393f04d9e810b7f20e6b3f9a58a9e9aabc20d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アクティビストの排除？ 法務省が進める株主提案権の要件見直しが「改悪」となる理由",
-        "url": "https://news.yahoo.co.jp/articles/07714fa870578c7a703c7eb365ea5a54944a5572",
         "source": "Yahoo",
         "date": ""
       }
