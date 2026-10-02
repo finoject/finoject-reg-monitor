@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-02T00:20:48.597Z",
+  "generatedAt": "2026-10-02T01:04:05.887Z",
   "items": [
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「上場企業の有価証券報告書における監査意見不表明について」",
+      "url": "https://jicpa.or.jp/news/information/2026/20261002jqj.html",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T01:04:05.887Z",
+      "enriched": "2026-10-02T01:04:11.791Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "産業用電子機器メーカーの有価証券報告書について、公認会計士協会の会員が監査意見を不表明として提出した。",
+        "公認会計士協会は、会員が進行年度の財務諸表に係る監査において責務を果たすよう、監査実施状況を引き続き注視し必要な対応を実施する。",
+        "2026年4月に複数の上場会社の会計不祥事をプレスリリースしており、本件はそれに続く監査対応事例。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "プロクレアホールディングス（7384）",
@@ -16518,6 +16533,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "香港政府、世界最大のデジタル債を発行──総額4000億円",
+        "url": "https://news.yahoo.co.jp/articles/d62edafa257093f8d4b303998a7feecdaf399c3c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イリノイ州、0.2%の暗号資産取引税を半年延期へ──業界団体の提訴受け",
         "url": "https://news.yahoo.co.jp/articles/34b8d5f77c85947cb50fe7e76b40803fc41c5aa2",
         "source": "Yahoo",
@@ -16544,18 +16565,18 @@
       {
         "title": "シンガポール暗号資産市場、1年で1.5倍──日本と異なる成長構造＝Chainalysis",
         "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、日韓間でステーブルコイン送金・決済を検証",
-        "url": "https://news.yahoo.co.jp/articles/3a75841ece2f3615e1d07f907377dadba278cc7b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "香港政府、世界最大のデジタル債を発行──総額4000億円",
+        "url": "https://news.yahoo.co.jp/articles/d62edafa257093f8d4b303998a7feecdaf399c3c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イリノイ州、0.2%の暗号資産取引税を半年延期へ──業界団体の提訴受け",
         "url": "https://news.yahoo.co.jp/articles/34b8d5f77c85947cb50fe7e76b40803fc41c5aa2",
         "source": "Yahoo",
@@ -16582,12 +16603,6 @@
       {
         "title": "シンガポール暗号資産市場、1年で1.5倍──日本と異なる成長構造＝Chainalysis",
         "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、日韓間でステーブルコイン送金・決済を検証",
-        "url": "https://news.yahoo.co.jp/articles/3a75841ece2f3615e1d07f907377dadba278cc7b",
         "source": "Yahoo",
         "date": ""
       }
