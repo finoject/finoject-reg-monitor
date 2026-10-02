@@ -363,5 +363,61 @@ t('crawl.yml の push が3回失敗したらジョブを失敗させる', () => 
     '健全性チェックが Pages 公開の後に置かれていません');
 });
 
+
+// 2026-10-02 追加。金融庁が /news/index.html から一覧を外し rN_news_menu.html へ移した件
+// （parseFSA が0件になり crawl が18回連続で失敗した）の回帰。
+console.log('■ [回帰] 金融庁の年度別メニュー（rN_news_menu.html）の発見');
+const FSA_BASE = 'https://www.fsa.go.jp/news/index.html';
+t('index から rN を全部拾い N の大きい順に返す', () => {
+  const m = C.discoverFsaMenus(
+    '<a href="/news/r1_news_menu.html">a</a><a href="/news/r8_news_menu.html">b</a><a href="/news/r7_news_menu.html">c</a>',
+    FSA_BASE);
+  assert.deepStrictEqual(m.map(x => x.n), [8, 7, 1]);
+});
+t('N は数値で比較する（文字列比較だと r10 より r8 が先に来る）', () => {
+  const m = C.discoverFsaMenus('<a href="/news/r8_news_menu.html">a</a><a href="/news/r10_news_menu.html">b</a>', FSA_BASE);
+  assert.strictEqual(m[0].n, 10, 'r10 が最新として選ばれていません（2027年7月以降に効きます）');
+});
+t('同じメニューが複数回出ても1本に畳む', () => {
+  const m = C.discoverFsaMenus('<a href="/news/r8_news_menu.html">a</a><a href="/news/r8_news_menu.html">b</a>', FSA_BASE);
+  assert.strictEqual(m.length, 1);
+});
+t('相対パスを絶対URLに解決する', () => {
+  const m = C.discoverFsaMenus('<a href="/news/r8_news_menu.html">a</a>', FSA_BASE);
+  assert.strictEqual(m[0].url, 'https://www.fsa.go.jp/news/r8_news_menu.html');
+});
+t('href の引用符の書き方に依存しない（DOMから読む）', () => {
+  assert.strictEqual(C.discoverFsaMenus("<a href='/news/r8_news_menu.html'>a</a>", FSA_BASE).length, 1, "href='...' を取りこぼします");
+  assert.strictEqual(C.discoverFsaMenus('<a href=/news/r7_news_menu.html>a</a>', FSA_BASE).length, 1, '引用符なしの href を取りこぼします');
+});
+t('href 以外の属性に書かれたメニュー風の文字列は拾わない', () => {
+  assert.strictEqual(C.discoverFsaMenus('<a class="x" data-u="/news/r9_news_menu.html">x</a>', FSA_BASE).length, 0);
+});
+t('記事リンクしか無いページでは0本を返す（index直接解析へ落とすため）', () => {
+  assert.strictEqual(C.discoverFsaMenus('<a href="/news/r8/sonota/20261001/20261001.html">x</a>', FSA_BASE).length, 0);
+});
+
+console.log('■ [回帰] 金融庁ソースの「取得失敗」と「0件成功」の区別が殺されていない');
+t('年度メニューが全本落ちたら throw する（コメントを除いた実コードで確認）', () => {
+  const src = fs.readFileSync(path.join(__dirname, 'crawler.js'), 'utf8')
+    .split('\n').filter(l => !/^\s*\/\//.test(l)).join('\n');
+  assert.ok(/menuFail === menus\.length\) throw/.test(src),
+    '全年度失敗時の throw がありません（取得失敗が「0件成功」に化けます）');
+  assert.ok(/discoverFsaMenus\(hub, s\.url\)/.test(src),
+    'crawlSite が年度メニューを発見していません（index 直読みに戻っています）');
+});
+t('[互換] 年度メニューが見つからない場合は従来どおり index を解析する', () => {
+  const src = fs.readFileSync(path.join(__dirname, 'crawler.js'), 'utf8')
+    .split('\n').filter(l => !/^\s*\/\//.test(l)).join('\n');
+  assert.ok(/if \(!menus\.length\)\{[\s\S]{0,400}parseFSA\(hub, s\.url\)/.test(src),
+    'メニュー未検出時の index フォールバックが消えています');
+});
+t('[互換] parseFSA 自体は従来どおりURLの8桁日付から日付を取る', () => {
+  const it = C.parseFSA('<a href="/news/r8/sonota/20261001/20261001.html">特定社会基盤事業者の指定について</a>', FSA_BASE);
+  assert.strictEqual(it.length, 1);
+  assert.strictEqual(it[0].date, '2026-10-01');
+  assert.strictEqual(it[0].agency, '金融庁');
+});
+
 console.log(`\n合計 ${pass + fail} 件 / 成功 ${pass} / 失敗 ${fail}`);
 process.exitCode = fail ? 1 : 0;

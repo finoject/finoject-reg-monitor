@@ -165,6 +165,26 @@ function discoverFeeds(html, base, exclude){
   }
   return [...set];
 }
+// 金融庁: /news/index.html は2026年10月1日ごろ「年度別メニューへのハブ」に作り替えられ、
+// 報道発表の一覧そのものが /news/rN_news_menu.html（N=元号の年。令和8年＝r8、令和8年7月〜令和9年6月）へ移った。
+// index をベタ書きで見続けると parseFSA が0件になり、巡回の健全性チェックが毎回落ちる（2026-10-01に発生）。
+// rN をURLにベタ書きすると翌年度（2027年7月のr9）に同じ壊れ方をするため、index から rN を全部拾って
+// N の大きい順に使う。年度境目の数日は新年度メニューの掲載が僅少なので、上位2年度分を併合して穴を塞ぐ
+// （日付降順→40件で切るので、平常時は最新年度だけで40件が埋まり取得内容は変わらない）。
+// 属性を正規表現で拾うと引用符の書き方（"…" / '…' / 無し）に依存する。同じファイルの parseFSA が
+// 既に cheerio を使っているので、こちらもDOMから読む。
+function discoverFsaMenus(html, base){
+  const $ = cheerio.load(html);
+  const seen = new Map();
+  $('a[href]').each((i, el) => {
+    const href = $(el).attr('href') || '';
+    const m = href.match(/\/news\/r(\d+)_news_menu\.html/i);
+    if (!m) return;
+    const u = abs(href, base); if (!u) return;
+    if (!seen.has(u)) seen.set(u, +m[1]);
+  });
+  return [...seen.entries()].sort((a,b)=> b[1]-a[1]).map(([url,n])=>({ url, n }));
+}
 // 金融庁: ニュースURLに日付(YYYYMMDD)が入る → URLから日付を取得（最も確実）
 function parseFSA(html, base){
   const $=cheerio.load(html); const items=[]; const seen=new Set();
@@ -197,6 +217,7 @@ function parseHTML(html, agency, base){
 // → cron（crawl.yml: JST 8/11/14/17/20 の1日5回）は全機関共通。ここに機関を追加すれば自動的に同頻度で監視される。
 // 【恒久ルール】全組織を1日複数回巡回する。将来追加する組織もこの配列に足すだけで同頻度監視。頻度は減らさない。
 const SITES = [
+  // url は報道発表のハブ。実際の一覧は discoverFsaMenus が見つける年度別メニュー(rN_news_menu.html)から取る
   { key:'fsa',   name:'金融庁',            type:'fsa',  url:'https://www.fsa.go.jp/news/index.html' },
   { key:'boj',   name:'日本銀行',          type:'rss',  url:'https://www.boj.or.jp/rss/whatsnew.xml' },
   // JPXは「RSS一覧」ページ(ハブ)を指定。マーケットニュース/JPXニュース/売買停止(株式)/売買停止(先物・オプション)/注意喚起/サイト更新情報 の全子RSSを毎回自動発見して巡回する。
@@ -223,6 +244,27 @@ async function crawlSite(s){
       }
       if (feeds.length && feedFail === feeds.length) throw new Error(`子フィード ${feeds.length} 本すべて取得失敗`);
       if (feedFail) subNote = `（子フィード ${feedFail}/${feeds.length} 本失敗）`;
+    } else if (s.type === 'fsa'){
+      // ハブ(index)から年度メニューを発見 → 新しい順に最大2年度分を parseFSA にかける
+      const hub = await get(s.url);
+      const menus = discoverFsaMenus(hub, s.url).slice(0, 2);
+      if (!menus.length){
+        // 将来ハブの作りが再び変わった場合に備え、従来どおり index 自体を解析する
+        console.error(`  ${s.name}: 年度メニューを発見できずindexを直接解析`);
+        items = parseFSA(hub, s.url);
+        subNote = '（年度メニュー未検出・index直接解析）';
+      } else {
+        let menuFail = 0;
+        for (const mu of menus){
+          try { items = items.concat(parseFSA(await get(mu.url), mu.url)); }
+          catch(e){ menuFail++; console.error(`  ${s.name}: 年度メニュー取得失敗 ${mu.url} (${e.message||e})`); }
+        }
+        // 全年度落ちたのに0件成功として扱うと「正常・新着なし」に化ける（子フィードと同じ扱いにする）
+        if (menuFail === menus.length) throw new Error(`年度メニュー ${menus.length} 本すべて取得失敗`);
+        if (menuFail) subNote = `（年度メニュー ${menuFail}/${menus.length} 本失敗）`;
+        const seenUrl = new Set();
+        items = items.filter(it => !seenUrl.has(it.url) && seenUrl.add(it.url));
+      }
     } else {
       let body;
       try { body = await get(s.url); }
@@ -232,8 +274,8 @@ async function crawlSite(s){
           body = fs.readFileSync(path.join(__dirname, s.fallbackFile), 'utf8');
         else throw err;
       }
+      // fsa は上の else if で処理済みなので、ここに来るのは rss / html のみ
       items = s.type==='rss' ? parseRSS(body, s.name, s.url)
-            : s.type==='fsa' ? parseFSA(body, s.url)
             : parseHTML(body, s.name, s.url);
     }
     const before = items.length;
@@ -590,4 +632,4 @@ async function main(){
 // 本番を壊してもテストが通る（実際に RSS日付の3件がその状態だった）。
 if (require.main === module) main();
 
-module.exports = { ymdJst, isoFromRSSDate, isNoise, isRegulatoryContext, titleClean, findDate, abs, parseRSS, parseHTML };
+module.exports = { ymdJst, isoFromRSSDate, isNoise, isRegulatoryContext, titleClean, findDate, abs, parseRSS, parseHTML, parseFSA, discoverFsaMenus };
