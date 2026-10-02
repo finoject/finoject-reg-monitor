@@ -1,6 +1,85 @@
 {
-  "generatedAt": "2026-10-02T05:46:30.812Z",
+  "generatedAt": "2026-10-02T07:17:24.900Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]グロース市場からプライム市場への変更：ＨＥＮＮＧＥ（株）",
+      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T07:17:24.900Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
+        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
+        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-02T07:17:29.910Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T07:17:24.900Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-10-02T07:17:29.910Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）H.K.Kインベストメント",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T07:17:24.900Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-10-02T07:17:29.910Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "PSJ予測統計値",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T07:17:24.900Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
+        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
+        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-10-02T07:17:29.910Z"
+    },
+    {
+      "agency": "JVCEA",
+      "title": "会員統計情報を更新しました",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20261002-002/",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T07:17:24.900Z",
+      "enriched": "2026-10-02T07:17:29.911Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA（日本暗号資産等取引業協会）が2026年10月2日時点の会員統計情報を更新し、現物取引および証拠金取引に関する統計データを公表した。",
+        "協会会員および利用者は、JVCEAの統計情報ページから更新された統計データの詳細を確認し、必要に応じて事業運営に反映させるべき。",
+        "統計情報の更新は継続的に実施されており、関連法令に基づく情報開示義務を履行する位置づけ。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]第10回「従属上場会社における少数株主保護の在り方等に関する研究会」の開催について",
@@ -534,22 +613,6 @@
       "enriched": "2026-09-30T07:06:27.669Z"
     },
     {
-      "agency": "日本取引所グループ",
-      "title": "[東証]グロース市場からスタンダード市場への変更：（株）メドレックス",
-      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
-      "date": "2026-09-30",
-      "detectedAt": "2026-09-30T07:06:22.330Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
-        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
-        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-30T07:06:27.670Z"
-    },
-    {
       "agency": "日本銀行",
       "title": "国債市場の流動性指標（8月）",
       "url": "https://www.boj.or.jp/paym/bond/ryudo.pdf",
@@ -833,22 +896,6 @@
         "大阪取引所が2026年9月30日（水）から権利行使価格調整を実施し、円位未満端数は四捨五入、フレックス限月は小数点第2位未満を四捨五入する有価証券オプション取引規則に準拠。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-09-29",
-      "detectedAt": "2026-09-29T07:23:47.445Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-09-29T07:23:52.938Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -1319,22 +1366,6 @@
         "東証規則に基づく新規上場手続により、上記2銘柄は2026年9月28日から東京証券取引所での取引が開始される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）東京みらい不動産",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-09-25",
-      "detectedAt": "2026-09-25T08:11:59.471Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-09-25T08:12:05.139Z"
     },
     {
       "agency": "日本銀行",
@@ -2494,22 +2525,6 @@
         "改正後の監督指針は令和9年（2027年）10月1日から適用。金融商品取引業者等向けの総合的な監督指針Ⅵ－２－３－１（１）⑫として新設。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "PSJ予測統計値",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
-      "date": "2026-09-16",
-      "detectedAt": "2026-09-16T08:22:07.859Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
-        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
-        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-09-16T08:22:13.335Z"
     },
     {
       "agency": "日本証券業協会",
@@ -16259,6 +16274,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "金券ショップでチケットを買う前に。「転売禁止」の券は会場に入れないことも",
+        "url": "https://news.yahoo.co.jp/articles/2a3b865534a17baa36a4c0d0a20830b1d4c9bd60",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "KDDIなど3社、au PAYアプリで暗号資産ウォレット「αU wallet」の提供開始へ",
         "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
         "source": "Yahoo",
@@ -16285,18 +16306,18 @@
       {
         "title": "円ステーブルコイン「JPYC」、韓国アップビット上場直後に価格乖離で一時約4円に急騰",
         "url": "https://news.yahoo.co.jp/articles/e4b465ad693e1ec764d2d7e60e359bddc8efe06c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "WisdomTree、トークン化ファンドでMoonPayと提携──米国投資家へのアクセス拡大",
-        "url": "https://news.yahoo.co.jp/articles/7a44c15ce4b60107c5e625ae136bdaecb8b444d3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "金券ショップでチケットを買う前に。「転売禁止」の券は会場に入れないことも",
+        "url": "https://news.yahoo.co.jp/articles/2a3b865534a17baa36a4c0d0a20830b1d4c9bd60",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "KDDIなど3社、au PAYアプリで暗号資産ウォレット「αU wallet」の提供開始へ",
         "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
         "source": "Yahoo",
@@ -16325,15 +16346,21 @@
         "url": "https://news.yahoo.co.jp/articles/e4b465ad693e1ec764d2d7e60e359bddc8efe06c",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "WisdomTree、トークン化ファンドでMoonPayと提携──米国投資家へのアクセス拡大",
-        "url": "https://news.yahoo.co.jp/articles/7a44c15ce4b60107c5e625ae136bdaecb8b444d3",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "米シティ、BTCの12カ月後予想を11.3万ドルに上方修正。ETHも引き上げ",
+        "url": "https://news.yahoo.co.jp/articles/c645e56e72e463a3c786c726935b4cbf4f85735c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "IMF、エルサルバドルへの約1.38億ドル融資承認。ビットコイン関連条件の未達に免除措置",
+        "url": "https://news.yahoo.co.jp/articles/301115dc3d26914e09b031b9746b6b80d57335ee",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ロビンフッド、米国で暗号資産の無期限先物提供へ。BTC・ETHは最大10倍レバレッジ",
         "url": "https://news.yahoo.co.jp/articles/d3efaa57e60d0a7dd9dff97ad29b0ffe6113927e",
@@ -16355,24 +16382,24 @@
       {
         "title": "クラリティ法案の採決失敗で暗号資産はむしろ得をした＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/29da876e0ffe6d7f9d49844a66cdf4282e03d8bf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Citi、BTCの12カ月後予想を11.3万ドルに引き上げ",
-        "url": "https://news.yahoo.co.jp/articles/f975db945ff34d8ee7d351990b5e7b398f1e1826",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC、投資顧問会社の暗号資産「自己保管」を条件付きで容認へ",
-        "url": "https://news.yahoo.co.jp/articles/0de65082745e8666c4d9bbd8e2e495f44cc18fc8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米シティ、BTCの12カ月後予想を11.3万ドルに上方修正。ETHも引き上げ",
+        "url": "https://news.yahoo.co.jp/articles/c645e56e72e463a3c786c726935b4cbf4f85735c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "IMF、エルサルバドルへの約1.38億ドル融資承認。ビットコイン関連条件の未達に免除措置",
+        "url": "https://news.yahoo.co.jp/articles/301115dc3d26914e09b031b9746b6b80d57335ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロビンフッド、米国で暗号資産の無期限先物提供へ。BTC・ETHは最大10倍レバレッジ",
         "url": "https://news.yahoo.co.jp/articles/d3efaa57e60d0a7dd9dff97ad29b0ffe6113927e",
         "source": "Yahoo",
@@ -16393,18 +16420,6 @@
       {
         "title": "クラリティ法案の採決失敗で暗号資産はむしろ得をした＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/29da876e0ffe6d7f9d49844a66cdf4282e03d8bf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Citi、BTCの12カ月後予想を11.3万ドルに引き上げ",
-        "url": "https://news.yahoo.co.jp/articles/f975db945ff34d8ee7d351990b5e7b398f1e1826",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SEC、投資顧問会社の暗号資産「自己保管」を条件付きで容認へ",
-        "url": "https://news.yahoo.co.jp/articles/0de65082745e8666c4d9bbd8e2e495f44cc18fc8",
         "source": "Yahoo",
         "date": ""
       }
@@ -16487,6 +16502,12 @@
     ],
     "422M60000002003": [
       {
+        "title": "金券ショップでチケットを買う前に。「転売禁止」の券は会場に入れないことも",
+        "url": "https://news.yahoo.co.jp/articles/2a3b865534a17baa36a4c0d0a20830b1d4c9bd60",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "KDDIら、au PAYで暗号資産ウォレット提供開始。PontaポイントでJPYCなど取得可能に",
         "url": "https://news.yahoo.co.jp/articles/8343554d4c4d6177b36a57883db6aa4b7fc16021",
         "source": "Yahoo",
@@ -16513,18 +16534,18 @@
       {
         "title": "改札で0.3秒遅れ、運賃“割引”もなし",
         "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本初！OCS商品券の自販機設置 琉球銀行本店 沖縄",
-        "url": "https://news.yahoo.co.jp/articles/1a910975e08baf1a2bdc714ca114a19b7e98bd6c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-05": [
       {
+        "title": "金券ショップでチケットを買う前に。「転売禁止」の券は会場に入れないことも",
+        "url": "https://news.yahoo.co.jp/articles/2a3b865534a17baa36a4c0d0a20830b1d4c9bd60",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "KDDIら、au PAYで暗号資産ウォレット提供開始。PontaポイントでJPYCなど取得可能に",
         "url": "https://news.yahoo.co.jp/articles/8343554d4c4d6177b36a57883db6aa4b7fc16021",
         "source": "Yahoo",
@@ -16553,15 +16574,15 @@
         "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "日本初！OCS商品券の自販機設置 琉球銀行本店 沖縄",
-        "url": "https://news.yahoo.co.jp/articles/1a910975e08baf1a2bdc714ca114a19b7e98bd6c",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "505M60000002048": [
+      {
+        "title": "クレカとは別の決済ルート──Binance PayをPayPay加盟店につなぐ「HIVEX」とは",
+        "url": "https://news.yahoo.co.jp/articles/5385c91f2df2e1d49d8138adff81073bd6e2bf1f",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "Visaと英ロイズ、USDCで越境精算を実証。カントンも活用",
         "url": "https://news.yahoo.co.jp/articles/ad23c6076ac7d38d03ba3d1efe65005482b4fe0d",
@@ -16589,18 +16610,18 @@
       {
         "title": "香港政府、世界最大のデジタル債を発行──総額4000億円",
         "url": "https://news.yahoo.co.jp/articles/d62edafa257093f8d4b303998a7feecdaf399c3c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イリノイ州、0.2%の暗号資産取引税を半年延期へ──業界団体の提訴受け",
-        "url": "https://news.yahoo.co.jp/articles/34b8d5f77c85947cb50fe7e76b40803fc41c5aa2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "クレカとは別の決済ルート──Binance PayをPayPay加盟店につなぐ「HIVEX」とは",
+        "url": "https://news.yahoo.co.jp/articles/5385c91f2df2e1d49d8138adff81073bd6e2bf1f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Visaと英ロイズ、USDCで越境精算を実証。カントンも活用",
         "url": "https://news.yahoo.co.jp/articles/ad23c6076ac7d38d03ba3d1efe65005482b4fe0d",
         "source": "Yahoo",
@@ -16627,12 +16648,6 @@
       {
         "title": "香港政府、世界最大のデジタル債を発行──総額4000億円",
         "url": "https://news.yahoo.co.jp/articles/d62edafa257093f8d4b303998a7feecdaf399c3c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イリノイ州、0.2%の暗号資産取引税を半年延期へ──業界団体の提訴受け",
-        "url": "https://news.yahoo.co.jp/articles/34b8d5f77c85947cb50fe7e76b40803fc41c5aa2",
         "source": "Yahoo",
         "date": ""
       }
