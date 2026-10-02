@@ -1,6 +1,68 @@
 {
-  "generatedAt": "2026-10-01T22:57:54.764Z",
+  "generatedAt": "2026-10-02T00:18:05.790Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "プロクレアホールディングス（7384）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T00:18:05.790Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-02T00:18:11.750Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "マネタリーベース（9月）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T00:18:05.790Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年5月のマネタリーベースは前年同月比-12.2％で、日銀当座預金（現預金）は-14.7％と縮小が続いており、季節調整済前月比年率では-13.3％。",
+        "統計データは日本銀行調査統計局が公表しており、実務担当者は時系列データ等から金融政策動向及び通貨供給状況を定期的に確認することが必要。",
+        "本統計は毎月公表されるマネタリーベース統計であり、日本銀行の金融統計として金融・経済分析の基礎データとして活用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-02T00:18:11.750Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "貸出約定平均金利（8月）",
+      "url": "https://www.boj.or.jp/statistics/dl/loan/yaku/yaku2608.pdf",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T00:18:05.790Z",
+      "enriched": "2026-10-02T00:18:12.148Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年8月の貸出約定平均金利統計が日本銀行により公表され、10月2日午前8時50分(日本時間)以降に「日銀時系列データ検索」へのアップロードが予定されている。",
+        "金融機関は同統計データを参照し、自行の貸出金利設定の妥当性確認および市場動向把握に活用すべき。",
+        "統計公表は毎月実施され、日本銀行金融システム・企画局傘下の銀行統計グループが担当(照会先:03-3277-1581)。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "短観（9月）＜調査全容＞",
+      "url": "https://www.boj.or.jp/statistics/tk/tankan09b.htm",
+      "date": "2026-10-02",
+      "detectedAt": "2026-10-02T00:18:05.790Z",
+      "enriched": "2026-10-02T00:18:12.148Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年9月調査の全国企業9,104社（回答率99.4%）について、製造業・非製造業別、大企業・中堅・中小企業別の業況判断（「良い」-「悪い」）が示された。調査対象は製造業3,776社、非製造業5,328社、回答期間は8月26日～9月30日。",
+        "企業は事業計画策定時に想定為替レートを前提としており、2026年度上期米ドル円152.57円、下期152.51円、ユーロ円上期177.86円、下期177.51円を基準値として経営判断している。",
+        "本調査（短観）は日本銀行が全国企業を対象に年4回実施する短期経済観測調査であり、企業の業況判断・先行き見通しが金融政策判断の重要な統計情報として位置付けられている。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "金融庁",
       "title": "企業会計審議会監査部会（第57回）の開催の掲載",
@@ -13,6 +75,29 @@
         "企業会計審議会監査部会第57回会議が令和8年10月2日10時00分から12時00分まで中央合同庁舎7号館13階で開催される。議事は事務局説明と討議で構成。",
         "会議後の議事録は金融庁ウェブサイトに公表される。関心のある利用者は金融庁サイトで確認可能。",
         "会議に関する問合せは企画市場局企業開示課（電話0570-016811、受付時間平日10時～17時）で対応。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する内閣府令の一部を改正する内閣府令（案）」等の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261001/20261001.html",
+      "date": "2026-10-01",
+      "detectedAt": "2026-10-02T00:18:05.790Z",
+      "lawrefs": [
+        {
+          "id": "356AC0000000059",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "銀行法"
+        }
+      ],
+      "enriched": "2026-10-02T00:18:12.148Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "導入等計画書の記載事項等の変更規定を整備し基幹インフラ制度の運用改善を実施する。令和8年6月17日公布の改正法に基づき、特定社会基盤事業者指定等に関する内閣府令を改正する。",
+        "特定社会基盤事業に指定された事業者は、改正内閣府令の施行後、導入等計画書の記載事項変更に対応する必要がある。複数府省令の改正（別紙1～6）に従い遵守すること。",
+        "本改正は令和8年10月31日までのパブリックコメント終了後、所要の手続を経て公布・施行される。経済施策一体法及び国際協力銀行法改正に基づき、基幹インフラ制度全体が対象。"
       ],
       "aiSumV": 3
     },
@@ -181,22 +266,6 @@
         "短期金融市場の重要指標であるレポ・レートの信頼性維持のため、レファレンス先による市場データ提供と協会による定期的な作成・公表が継続される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ＰＨＣホールディングス（6523）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-10-01",
-      "detectedAt": "2026-10-01T00:15:37.874Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-01T00:15:43.778Z"
     },
     {
       "agency": "日本証券業協会",
@@ -4272,22 +4341,6 @@
         "貸付金のうち共通担保資金供給オペレーション等による貸付金32,751,800,000千円、貸出支援基金39,105,900,000千円が計上され、別表で内訳が示される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "マネタリーベース（8月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
-      "date": "2026-09-02",
-      "detectedAt": "2026-09-02T00:30:28.709Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年5月のマネタリーベースは前年同月比-12.2％で、日銀当座預金（現預金）は-14.7％と縮小が続いており、季節調整済前月比年率では-13.3％。",
-        "統計データは日本銀行調査統計局が公表しており、実務担当者は時系列データ等から金融政策動向及び通貨供給状況を定期的に確認することが必要。",
-        "本統計は毎月公表されるマネタリーベース統計であり、日本銀行の金融統計として金融・経済分析の基礎データとして活用される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-02T00:30:34.166Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -16009,6 +16062,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "ビットコイン現物ETF、第3四半期に約1兆円の資金流入",
+        "url": "https://news.yahoo.co.jp/articles/31d34ed39e49f48fab67b41be806bf5c0ef35b00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
         "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
         "source": "Yahoo",
@@ -16035,18 +16094,18 @@
       {
         "title": "オルツ元社長「事実です」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
         "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
-        "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "ビットコイン現物ETF、第3四半期に約1兆円の資金流入",
+        "url": "https://news.yahoo.co.jp/articles/31d34ed39e49f48fab67b41be806bf5c0ef35b00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
         "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
         "source": "Yahoo",
@@ -16073,18 +16132,18 @@
       {
         "title": "オルツ元社長「事実です」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
         "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
-        "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "ビットコイン現物ETF、第3四半期に約1兆円の資金流入",
+        "url": "https://news.yahoo.co.jp/articles/31d34ed39e49f48fab67b41be806bf5c0ef35b00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
         "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
         "source": "Yahoo",
@@ -16111,18 +16170,18 @@
       {
         "title": "オルツ元社長「事実です」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
         "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
-        "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "ビットコイン現物ETF、第3四半期に約1兆円の資金流入",
+        "url": "https://news.yahoo.co.jp/articles/31d34ed39e49f48fab67b41be806bf5c0ef35b00",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
         "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
         "source": "Yahoo",
@@ -16149,12 +16208,6 @@
       {
         "title": "オルツ元社長「事実です」 AI会社、粉飾認める 東京地裁 人工知能（AI）開発会社「オルツ」（東京都港区、上場廃止）の粉飾決算事件で、金融商品取引法違反（有価証券報告書の虚偽記載など）罪に問われた元社長米倉千貴被告（",
         "url": "https://news.yahoo.co.jp/articles/858c38b8f327552e24b79e7ec7f45b1972251e62",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アルトコインの取引所入金、約1年ぶりの高水準に＝CryptoQuant",
-        "url": "https://news.yahoo.co.jp/articles/38670c92c1e437f6a58e1afc4d37ba9fbc3b94f5",
         "source": "Yahoo",
         "date": ""
       }
@@ -16237,6 +16290,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "Citi、BTCの12カ月後予想を11.3万ドルに引き上げ",
+        "url": "https://news.yahoo.co.jp/articles/f975db945ff34d8ee7d351990b5e7b398f1e1826",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SEC、投資顧問会社の暗号資産「自己保管」を条件付きで容認へ",
         "url": "https://news.yahoo.co.jp/articles/0de65082745e8666c4d9bbd8e2e495f44cc18fc8",
         "source": "Yahoo",
@@ -16263,18 +16322,18 @@
       {
         "title": "英FCA、暗号資産事業者の認可申請受付を開始。2027年10月に新規制施行へ",
         "url": "https://news.yahoo.co.jp/articles/3728282f1833e224c2cd170dba9eafa58fe04a9a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】暗号資産のアルトシーズンついに開始か？5年ぶりの上昇相場を示すサイン",
-        "url": "https://news.yahoo.co.jp/articles/98bd8d072bd35a35b2652e1eace669dfb22a9282",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Citi、BTCの12カ月後予想を11.3万ドルに引き上げ",
+        "url": "https://news.yahoo.co.jp/articles/f975db945ff34d8ee7d351990b5e7b398f1e1826",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SEC、投資顧問会社の暗号資産「自己保管」を条件付きで容認へ",
         "url": "https://news.yahoo.co.jp/articles/0de65082745e8666c4d9bbd8e2e495f44cc18fc8",
         "source": "Yahoo",
@@ -16301,12 +16360,6 @@
       {
         "title": "英FCA、暗号資産事業者の認可申請受付を開始。2027年10月に新規制施行へ",
         "url": "https://news.yahoo.co.jp/articles/3728282f1833e224c2cd170dba9eafa58fe04a9a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【墨汁うまい氏寄稿】暗号資産のアルトシーズンついに開始か？5年ぶりの上昇相場を示すサイン",
-        "url": "https://news.yahoo.co.jp/articles/98bd8d072bd35a35b2652e1eace669dfb22a9282",
         "source": "Yahoo",
         "date": ""
       }
@@ -16465,6 +16518,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "イリノイ州、0.2%の暗号資産取引税を半年延期へ──業界団体の提訴受け",
+        "url": "https://news.yahoo.co.jp/articles/34b8d5f77c85947cb50fe7e76b40803fc41c5aa2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リユース経済新聞社、業界最大級のイベント「Reuse×Tech Conference」10月開催 リユース市場の最新動向が分かる",
         "url": "https://news.yahoo.co.jp/articles/44832f3baa739df8d2e183c8bd1204472180d7e1",
         "source": "Yahoo",
@@ -16491,18 +16550,18 @@
       {
         "title": "SBI、日韓間でステーブルコイン送金・決済を検証",
         "url": "https://news.yahoo.co.jp/articles/3a75841ece2f3615e1d07f907377dadba278cc7b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米クラウドフレア、AIエージェントにAPIを1回ごとに販売 HTTP 402で即時に決済へ",
-        "url": "https://news.yahoo.co.jp/articles/fcf18f7acd2fbf5746dbca085011515156457b98",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "イリノイ州、0.2%の暗号資産取引税を半年延期へ──業界団体の提訴受け",
+        "url": "https://news.yahoo.co.jp/articles/34b8d5f77c85947cb50fe7e76b40803fc41c5aa2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リユース経済新聞社、業界最大級のイベント「Reuse×Tech Conference」10月開催 リユース市場の最新動向が分かる",
         "url": "https://news.yahoo.co.jp/articles/44832f3baa739df8d2e183c8bd1204472180d7e1",
         "source": "Yahoo",
@@ -16529,12 +16588,6 @@
       {
         "title": "SBI、日韓間でステーブルコイン送金・決済を検証",
         "url": "https://news.yahoo.co.jp/articles/3a75841ece2f3615e1d07f907377dadba278cc7b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米クラウドフレア、AIエージェントにAPIを1回ごとに販売 HTTP 402で即時に決済へ",
-        "url": "https://news.yahoo.co.jp/articles/fcf18f7acd2fbf5746dbca085011515156457b98",
         "source": "Yahoo",
         "date": ""
       }
