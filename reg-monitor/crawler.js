@@ -178,7 +178,9 @@ function discoverFsaMenus(html, base){
   const seen = new Map();
   $('a[href]').each((i, el) => {
     const href = $(el).attr('href') || '';
-    const m = href.match(/\/news\/r(\d+)_news_menu\.html/i);
+    // `/news/` を必須にすると `r9_news_menu.html` や `./r9_news_menu.html` のような
+    // 同ディレクトリ相対表記を取りこぼす（現在の金融庁はルート相対だが、表記が変わると静かに0件になる）
+    const m = href.match(/(?:^|\/)r(\d+)_news_menu\.html/i);
     if (!m) return;
     const u = abs(href, base); if (!u) return;
     if (!seen.has(u)) seen.set(u, +m[1]);

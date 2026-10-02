@@ -390,6 +390,10 @@ t('href の引用符の書き方に依存しない（DOMから読む）', () => 
   assert.strictEqual(C.discoverFsaMenus("<a href='/news/r8_news_menu.html'>a</a>", FSA_BASE).length, 1, "href='...' を取りこぼします");
   assert.strictEqual(C.discoverFsaMenus('<a href=/news/r7_news_menu.html>a</a>', FSA_BASE).length, 1, '引用符なしの href を取りこぼします');
 });
+t('同ディレクトリ相対の表記でも拾う（/news/ を必須にしない）', () => {
+  assert.strictEqual(C.discoverFsaMenus('<a href="r9_news_menu.html">a</a>', FSA_BASE).length, 1, 'r9_news_menu.html を取りこぼします');
+  assert.strictEqual(C.discoverFsaMenus('<a href="./r9_news_menu.html">a</a>', FSA_BASE).length, 1, './r9_news_menu.html を取りこぼします');
+});
 t('href 以外の属性に書かれたメニュー風の文字列は拾わない', () => {
   assert.strictEqual(C.discoverFsaMenus('<a class="x" data-u="/news/r9_news_menu.html">x</a>', FSA_BASE).length, 0);
 });
