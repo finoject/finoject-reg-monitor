@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:57:16.243Z",
+  "generatedAt": "2026-10-05T07:28:08.568Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "金融審議会成長企業資金供給ワーキング・グループ第2回が令和8年10月9日9時から中央合同庁舎第7号館12階で開催され、ヒアリング・事務局説明・討議が予定される。",
         "一般傍聴席は用意されないが、金融庁公式YouTubeチャンネルでの配信により会議内容を確認でき、会議後に議事録が金融庁ウェブサイトで公表される。",
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：iFreeETF 先進国エネルギー上流企業株（大和アセットマネジメント）",
+      "url": "https://www.jpx.co.jp/news/1070/20261005.html",
+      "date": "2026-10-05",
+      "detectedAt": "2026-10-05T07:28:08.568Z",
+      "enriched": "2026-10-05T07:28:14.361Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大和アセットマネジメント運用のアクティブ型ETF「iFreeETF先進国エネルギー上流企業株」（コード659A）が東証で新規上場承認、2026年10月23日上場予定、信託報酬0.40%（税込0.44%）以内。",
+        "証券会社は当該ETFを全国で取扱い可能、特定口座での取扱いも対応、売買単位は1口、年4回（1月7日・4月7日・7月7日・10月7日）の分配金支払基準日を設定。",
+        "本ETFは指数連動対象がないアクティブ運用型のため、基準価額がベンチマークや市場全体の変動のみでは説明できない動きをする可能性があり、投資家は商品性を十分理解した上で判断する必要がある。"
       ],
       "aiSumV": 3
     },
@@ -16365,6 +16380,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "スターテイル、JPYSCで利払い・償還するデジタル社債募集へ。国内個人向けに年利5%で",
+        "url": "https://news.yahoo.co.jp/articles/57bc4a4c8e642a798314344b628fc44a5df96191",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日立、暗号資産・ステーブルコイン向けマネロン監視サービスを開始",
         "url": "https://news.yahoo.co.jp/articles/32588213c91b1f63e6b729d2f8b47d130dac145a",
         "source": "Yahoo",
@@ -16391,18 +16412,18 @@
       {
         "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇 JPYCは、JPYC社が発行する日本円建てステーブルコインだ。日本の資金決済法上の「電子決済手段」に該当し、日本円の預貯金や国債を裏付け資産とする。あたらしい経済経済総合9/29(火) 14:57",
         "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに",
-        "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "スターテイル、JPYSCで利払い・償還するデジタル社債募集へ。国内個人向けに年利5%で",
+        "url": "https://news.yahoo.co.jp/articles/57bc4a4c8e642a798314344b628fc44a5df96191",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日立、暗号資産・ステーブルコイン向けマネロン監視サービスを開始",
         "url": "https://news.yahoo.co.jp/articles/32588213c91b1f63e6b729d2f8b47d130dac145a",
         "source": "Yahoo",
@@ -16429,12 +16450,6 @@
       {
         "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇 JPYCは、JPYC社が発行する日本円建てステーブルコインだ。日本の資金決済法上の「電子決済手段」に該当し、日本円の預貯金や国債を裏付け資産とする。あたらしい経済経済総合9/29(火) 14:57",
         "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに",
-        "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
         "source": "Yahoo",
         "date": ""
       }
@@ -16669,6 +16684,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "スターテイル、JPYSCで利払い・償還するデジタル社債募集へ。国内個人向けに年利5%で",
+        "url": "https://news.yahoo.co.jp/articles/57bc4a4c8e642a798314344b628fc44a5df96191",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日立、暗号資産・ステーブルコイン向けマネロン監視サービスを開始",
         "url": "https://news.yahoo.co.jp/articles/32588213c91b1f63e6b729d2f8b47d130dac145a",
         "source": "Yahoo",
@@ -16695,18 +16716,18 @@
       {
         "title": "ビザ、ステーブルコイン連動カード取扱高の約17%が法人・商用。全体は前年比約200%増",
         "url": "https://news.yahoo.co.jp/articles/96e6ca239aa807e50fd3b72a15c47aba78b45b1b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
-        "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "スターテイル、JPYSCで利払い・償還するデジタル社債募集へ。国内個人向けに年利5%で",
+        "url": "https://news.yahoo.co.jp/articles/57bc4a4c8e642a798314344b628fc44a5df96191",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日立、暗号資産・ステーブルコイン向けマネロン監視サービスを開始",
         "url": "https://news.yahoo.co.jp/articles/32588213c91b1f63e6b729d2f8b47d130dac145a",
         "source": "Yahoo",
@@ -16733,12 +16754,6 @@
       {
         "title": "ビザ、ステーブルコイン連動カード取扱高の約17%が法人・商用。全体は前年比約200%増",
         "url": "https://news.yahoo.co.jp/articles/96e6ca239aa807e50fd3b72a15c47aba78b45b1b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
-        "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
         "source": "Yahoo",
         "date": ""
       }
