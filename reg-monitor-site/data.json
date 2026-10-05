@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T22:30:42.784Z",
+  "generatedAt": "2026-10-05T00:08:51.638Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,37 @@
         "金融審議会成長企業資金供給ワーキング・グループ第2回が令和8年10月9日9時から中央合同庁舎第7号館12階で開催され、ヒアリング・事務局説明・討議が予定される。",
         "一般傍聴席は用意されないが、金融庁公式YouTubeチャンネルでの配信により会議内容を確認でき、会議後に議事録が金融庁ウェブサイトで公表される。",
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株式会社SBI証券が「家族サポート証券口座」の取扱いを開始いたしました",
+      "url": "https://market.jsda.or.jp/shijyo/kazokusupport/index.html",
+      "date": "2026-10-05",
+      "detectedAt": "2026-10-05T00:08:51.638Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日産証券株式会社が2026年5月20日から「家族サポート証券口座」の取り扱いを開始した。同口座は認知判断能力低下時に家族代理人による取引継続を可能とする任意代理契約に基づくサービス。",
+        "顧客は認知判断能力の低下に備えて信頼できる家族と事前に任意代理契約を締結し、能力低下時に家族代理人に取引を委任することで、口座凍結を回避して資産活用を継続できる。",
+        "本制度は日本証券業協会が2025年2月19日に「家族サポート証券口座制度要綱」を公開し、2026年1月22日に改正している。現在7社の会員証券会社が取り扱い開始済み。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-05T00:08:57.346Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日銀当座預金増減要因（10月見込み）",
+      "url": "https://www.boj.or.jp/statistics/boj/fm/juqp/juqp2610.xlsx",
+      "date": "2026-10-05",
+      "detectedAt": "2026-10-05T00:08:51.638Z",
+      "enriched": "2026-10-05T00:08:57.346Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が暗号化されたバイナリ形式（Excel圧縮ファイル）のため、具体的な日銀当座預金増減要因の内容を抽出できない。",
+        "タイトルから推察すると、2026年10月見込みの日銀当座預金増減要因が示されているが、本文データ未解析のため詳細不明。",
+        "日本銀行の公表資料であり、金融機関等の実務担当者は本文原本を確認して対応すること。"
       ],
       "aiSumV": 3
     },
@@ -1184,22 +1215,6 @@
         "銘柄別信用取引残高は従来の週次配信から日次配信（前営業日終了時点）に変更され、2026年12月末までの契約者を対象に2027年3月分までの利用料を75％割引とするキャンペーンを実施している。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "静銀ティーエム証券株式会社が「家族サポート証券口座」の取扱いを開始いたしました",
-      "url": "https://market.jsda.or.jp/shijyo/kazokusupport/index.html",
-      "date": "2026-09-28",
-      "detectedAt": "2026-09-28T05:48:54.677Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日産証券株式会社が2026年5月20日から「家族サポート証券口座」の取り扱いを開始した。同口座は認知判断能力低下時に家族代理人による取引継続を可能とする任意代理契約に基づくサービス。",
-        "顧客は認知判断能力の低下に備えて信頼できる家族と事前に任意代理契約を締結し、能力低下時に家族代理人に取引を委任することで、口座凍結を回避して資産活用を継続できる。",
-        "本制度は日本証券業協会が2025年2月19日に「家族サポート証券口座制度要綱」を公開し、2026年1月22日に改正している。現在7社の会員証券会社が取り扱い開始済み。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-28T05:49:00.559Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -16182,6 +16197,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
+        "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案の採決失敗で暗号資産はむしろ得をした＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/29da876e0ffe6d7f9d49844a66cdf4282e03d8bf",
         "source": "Yahoo",
@@ -16208,18 +16229,18 @@
       {
         "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
         "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
-        "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
+        "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案の採決失敗で暗号資産はむしろ得をした＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/29da876e0ffe6d7f9d49844a66cdf4282e03d8bf",
         "source": "Yahoo",
@@ -16246,18 +16267,18 @@
       {
         "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
         "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
-        "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
+        "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案の採決失敗で暗号資産はむしろ得をした＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/29da876e0ffe6d7f9d49844a66cdf4282e03d8bf",
         "source": "Yahoo",
@@ -16284,18 +16305,18 @@
       {
         "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
         "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
-        "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
+        "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラリティ法案の採決失敗で暗号資産はむしろ得をした＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/29da876e0ffe6d7f9d49844a66cdf4282e03d8bf",
         "source": "Yahoo",
@@ -16322,12 +16343,6 @@
       {
         "title": "“キオクシア株”を「朝に5万5000円」で購入→「5万8000円」で売却！ その勢いで“もう一度”買おうとしたら、画面に「法令違反」の文字が",
         "url": "https://news.yahoo.co.jp/articles/5f2a4a0ca5c13108d1c5d3d3e5939aa2a4fadd35",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "オルツ元社長、粉飾決算認める 売上高水増し、東京地裁初公判",
-        "url": "https://news.yahoo.co.jp/articles/934d4484cfca1404f6ad9ed8d4736ce16d670fdc",
         "source": "Yahoo",
         "date": ""
       }
@@ -16410,6 +16425,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
+        "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロシア財務省、デジタルルーブルで初の給与支払い",
         "url": "https://news.yahoo.co.jp/articles/ad0ccacc4771e48b3e899785c1d0b8bbc64a5772",
         "source": "Yahoo",
@@ -16436,18 +16457,18 @@
       {
         "title": "ビットコイン、上下の「厚い壁」に挟まれる──金利・利益確定売りとETF需要の綱引き【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/9e726e97388228ea349c38ab88c870325bff61cc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、ミームコイン「TRUMP」保有者185人を夕食会に招待へ",
-        "url": "https://news.yahoo.co.jp/articles/961fc21488e2ad7c31d6529c3037ca1fa51b6905",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
+        "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロシア財務省、デジタルルーブルで初の給与支払い",
         "url": "https://news.yahoo.co.jp/articles/ad0ccacc4771e48b3e899785c1d0b8bbc64a5772",
         "source": "Yahoo",
@@ -16474,12 +16495,6 @@
       {
         "title": "ビットコイン、上下の「厚い壁」に挟まれる──金利・利益確定売りとETF需要の綱引き【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/9e726e97388228ea349c38ab88c870325bff61cc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、ミームコイン「TRUMP」保有者185人を夕食会に招待へ",
-        "url": "https://news.yahoo.co.jp/articles/961fc21488e2ad7c31d6529c3037ca1fa51b6905",
         "source": "Yahoo",
         "date": ""
       }
@@ -16638,6 +16653,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
+        "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イラン関連ウォレット、凍結遅れで約55億円のUSDT流出＝米上院報告",
         "url": "https://news.yahoo.co.jp/articles/c108111818d0471f559b80094d177e15fa1f3c2d",
         "source": "Yahoo",
@@ -16664,18 +16685,18 @@
       {
         "title": "ステーブルコインはカードを壊すのか──決済レールが変わっても「信用」は残る【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/cc8b138523af8749fef376c5e76b078351aee069",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "数字では見えない「今のアメリカ」 雇用減速と物価高、その裏で上がるビットコイン【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/1d10b8d894fda2c54e3cc79239d5c4c186d72ccf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
+        "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イラン関連ウォレット、凍結遅れで約55億円のUSDT流出＝米上院報告",
         "url": "https://news.yahoo.co.jp/articles/c108111818d0471f559b80094d177e15fa1f3c2d",
         "source": "Yahoo",
@@ -16702,12 +16723,6 @@
       {
         "title": "ステーブルコインはカードを壊すのか──決済レールが変わっても「信用」は残る【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/cc8b138523af8749fef376c5e76b078351aee069",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "数字では見えない「今のアメリカ」 雇用減速と物価高、その裏で上がるビットコイン【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/1d10b8d894fda2c54e3cc79239d5c4c186d72ccf",
         "source": "Yahoo",
         "date": ""
       }
@@ -17428,6 +17443,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "【独自第9弾】陸自思想調査の報告書「公文書扱いせず」 幹部会議で確認 組織的決定、他部隊とも共有",
+        "url": "https://news.yahoo.co.jp/articles/3a3baa9eef5ffcceef4698affcfa98b73a58b48a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "位置情報を必要としているのは地図アプリだけじゃない。「AIが現実空間を認識し、動くための基盤」へ――“靴に装着するナビ”手掛けるHonda発ベンチャーも初出展、CEATECに位置情報ビジネスの「総合案内所」",
         "url": "https://news.yahoo.co.jp/articles/eaf5eb2673e0202ee6b470a834eb9b16f77adf40",
         "source": "Yahoo",
@@ -17454,18 +17475,18 @@
       {
         "title": "アバハウスインターナショナル、全会員の個人情報が漏えいの可能性",
         "url": "https://news.yahoo.co.jp/articles/9344fae685aa4e4455f4a315fa9454e0f18b4c61",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "《660万件の個人情報漏えい》の『タイムズカー』「資金や口座が悪用」弁護士に聞いた“自衛法”と“補償金”の行方",
-        "url": "https://news.yahoo.co.jp/articles/7440b2691e4bb8375dcafae0a2a3a71d62a47452",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "【独自第9弾】陸自思想調査の報告書「公文書扱いせず」 幹部会議で確認 組織的決定、他部隊とも共有",
+        "url": "https://news.yahoo.co.jp/articles/3a3baa9eef5ffcceef4698affcfa98b73a58b48a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "位置情報を必要としているのは地図アプリだけじゃない。「AIが現実空間を認識し、動くための基盤」へ――“靴に装着するナビ”手掛けるHonda発ベンチャーも初出展、CEATECに位置情報ビジネスの「総合案内所」",
         "url": "https://news.yahoo.co.jp/articles/eaf5eb2673e0202ee6b470a834eb9b16f77adf40",
         "source": "Yahoo",
@@ -17492,18 +17513,18 @@
       {
         "title": "アバハウスインターナショナル、全会員の個人情報が漏えいの可能性",
         "url": "https://news.yahoo.co.jp/articles/9344fae685aa4e4455f4a315fa9454e0f18b4c61",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "《660万件の個人情報漏えい》の『タイムズカー』「資金や口座が悪用」弁護士に聞いた“自衛法”と“補償金”の行方",
-        "url": "https://news.yahoo.co.jp/articles/7440b2691e4bb8375dcafae0a2a3a71d62a47452",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "【独自第9弾】陸自思想調査の報告書「公文書扱いせず」 幹部会議で確認 組織的決定、他部隊とも共有",
+        "url": "https://news.yahoo.co.jp/articles/3a3baa9eef5ffcceef4698affcfa98b73a58b48a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "位置情報を必要としているのは地図アプリだけじゃない。「AIが現実空間を認識し、動くための基盤」へ――“靴に装着するナビ”手掛けるHonda発ベンチャーも初出展、CEATECに位置情報ビジネスの「総合案内所」",
         "url": "https://news.yahoo.co.jp/articles/eaf5eb2673e0202ee6b470a834eb9b16f77adf40",
         "source": "Yahoo",
@@ -17530,12 +17551,6 @@
       {
         "title": "アバハウスインターナショナル、全会員の個人情報が漏えいの可能性",
         "url": "https://news.yahoo.co.jp/articles/9344fae685aa4e4455f4a315fa9454e0f18b4c61",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "《660万件の個人情報漏えい》の『タイムズカー』「資金や口座が悪用」弁護士に聞いた“自衛法”と“補償金”の行方",
-        "url": "https://news.yahoo.co.jp/articles/7440b2691e4bb8375dcafae0a2a3a71d62a47452",
         "source": "Yahoo",
         "date": ""
       }
