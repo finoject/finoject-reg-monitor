@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T07:39:49.178Z",
+  "generatedAt": "2026-10-05T09:14:09.452Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "金融審議会成長企業資金供給ワーキング・グループ第2回が令和8年10月9日9時から中央合同庁舎第7号館12階で開催され、ヒアリング・事務局説明・討議が予定される。",
         "一般傍聴席は用意されないが、金融庁公式YouTubeチャンネルでの配信により会議内容を確認でき、会議後に議事録が金融庁ウェブサイトで公表される。",
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "令和８年熊本地震に伴う在留期間の延長について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261005-2/20261005-2.html",
+      "date": "2026-10-05",
+      "detectedAt": "2026-10-05T09:14:09.452Z",
+      "enriched": "2026-10-05T09:14:16.015Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和８年熊本地震の被災者のうち災害救助法適用市町村に住居地がある外国人の在留期間は法務省告示により令和９年１月27日まで延長されたが、在留カードの記載日付は延長前のままであること。",
+        "金融機関は在留カード記載の満了日が過ぎていても、法務省告示による延長措置を踏まえ該当外国人の口座閉鎖を控えるべきであり、金融機関協会から各会員機関への周知協力が求められたこと。",
+        "マネー・ローンダリング及びテロ資金供与対策ガイドラインに基づく在留期間管理において、令和９年１月27日までの延長を適切に反映すること（令和８年９月10日付金融庁からの協力依頼）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「金融業界横断的なサイバーセキュリティ演習 （Delta Wall 2026）」の実施について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261005/deltawall2026.html",
+      "date": "2026-10-05",
+      "detectedAt": "2026-10-05T09:14:09.452Z",
+      "enriched": "2026-10-05T09:14:16.015Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁が2026年10月6～22日、181先の金融機関を対象に「Delta Wall 2026」（11回目）を実施。金融システムの安定に影響を及ぼしかねないサイバー攻撃脅威への対応として、業界横断的なインシデント対応能力向上を目的。",
+        "参加金融機関は初動対応、攻撃分析、顧客対応、復旧等の業務継続を確認し、PDCAサイクルを回して対応能力向上を図る。証券はサイバー攻撃による不正アクセス・不正取引、資金移動業者等は顧客情報漏えい・不正決済、暗号資産交換業者は暗号資産流出をシナリオとして演習。",
+        "演習結果は参加金融機関以外にも業界全体にフィードバック。フロンティアAIを含む高度なAI技術進展に伴うサイバー攻撃の高度化・高速化への対応として、基幹システム等攻撃時の対応態勢実効性向上を重視。"
       ],
       "aiSumV": 3
     },
@@ -16380,6 +16410,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "利息も償還もJPYSCで──年5%、スターテイルが個人向け社債募集へ",
+        "url": "https://news.yahoo.co.jp/articles/beb4d8d72397d0a081fbfb08926b2f8cf79703af",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スターテイル、JPYSCで利払い・償還するデジタル社債募集へ。国内個人向けに年利5%で",
         "url": "https://news.yahoo.co.jp/articles/57bc4a4c8e642a798314344b628fc44a5df96191",
         "source": "Yahoo",
@@ -16406,18 +16442,18 @@
       {
         "title": "KDDIなど3社、au PAYアプリで暗号資産ウォレット「αU wallet」の提供開始へ",
         "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇 JPYCは、JPYC社が発行する日本円建てステーブルコインだ。日本の資金決済法上の「電子決済手段」に該当し、日本円の預貯金や国債を裏付け資産とする。あたらしい経済経済総合9/29(火) 14:57",
-        "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "利息も償還もJPYSCで──年5%、スターテイルが個人向け社債募集へ",
+        "url": "https://news.yahoo.co.jp/articles/beb4d8d72397d0a081fbfb08926b2f8cf79703af",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スターテイル、JPYSCで利払い・償還するデジタル社債募集へ。国内個人向けに年利5%で",
         "url": "https://news.yahoo.co.jp/articles/57bc4a4c8e642a798314344b628fc44a5df96191",
         "source": "Yahoo",
@@ -16446,15 +16482,21 @@
         "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇 JPYCは、JPYC社が発行する日本円建てステーブルコインだ。日本の資金決済法上の「電子決済手段」に該当し、日本円の預貯金や国債を裏付け資産とする。あたらしい経済経済総合9/29(火) 14:57",
-        "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "暗号資産取引所「OKX」、トークン化米国株市場に参入へ",
+        "url": "https://news.yahoo.co.jp/articles/67ab5f000a3fb98f6621ee58b70b39a33e486dce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ヴィタリック・ブテリン氏、2030年のEthereum像を提示──ファイナリティの秒単位化と、2029年を目標とする量子耐性【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/3cd446198a2cf0b3aa9b3a57cc95b379b489f2a5",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "リップルのステーブルコイン「RLUSD」、時価総額25億ドル超",
         "url": "https://news.yahoo.co.jp/articles/a93bc20a0366b6acd681d83428733682aad682e7",
@@ -16476,24 +16518,24 @@
       {
         "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
         "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロシア財務省、デジタルルーブルで初の給与支払い",
-        "url": "https://news.yahoo.co.jp/articles/ad0ccacc4771e48b3e899785c1d0b8bbc64a5772",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CryptoQuant CEO「ビットコインの弱気相場は夏に終わった」──新しいサイクルを示す“買い手”の変化【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/8dd0717fe85524905d13b32732523c1b2812ac58",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "暗号資産取引所「OKX」、トークン化米国株市場に参入へ",
+        "url": "https://news.yahoo.co.jp/articles/67ab5f000a3fb98f6621ee58b70b39a33e486dce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ヴィタリック・ブテリン氏、2030年のEthereum像を提示──ファイナリティの秒単位化と、2029年を目標とする量子耐性【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/3cd446198a2cf0b3aa9b3a57cc95b379b489f2a5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップルのステーブルコイン「RLUSD」、時価総額25億ドル超",
         "url": "https://news.yahoo.co.jp/articles/a93bc20a0366b6acd681d83428733682aad682e7",
         "source": "Yahoo",
@@ -16514,18 +16556,6 @@
       {
         "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
         "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロシア財務省、デジタルルーブルで初の給与支払い",
-        "url": "https://news.yahoo.co.jp/articles/ad0ccacc4771e48b3e899785c1d0b8bbc64a5772",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CryptoQuant CEO「ビットコインの弱気相場は夏に終わった」──新しいサイクルを示す“買い手”の変化【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/8dd0717fe85524905d13b32732523c1b2812ac58",
         "source": "Yahoo",
         "date": ""
       }
@@ -16684,82 +16714,88 @@
     ],
     "505M60000002048": [
       {
-        "title": "スターテイル、JPYSCで利払い・償還するデジタル社債募集へ。国内個人向けに年利5%で",
-        "url": "https://news.yahoo.co.jp/articles/57bc4a4c8e642a798314344b628fc44a5df96191",
+        "title": "暗号資産取引所「OKX」、トークン化米国株市場に参入へ",
+        "url": "https://news.yahoo.co.jp/articles/67ab5f000a3fb98f6621ee58b70b39a33e486dce",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "日立、暗号資産・ステーブルコイン向けマネロン監視サービスを開始",
-        "url": "https://news.yahoo.co.jp/articles/32588213c91b1f63e6b729d2f8b47d130dac145a",
+        "title": "利息も償還もJPYSCで──年5%、スターテイルが個人向け社債募集へ",
+        "url": "https://news.yahoo.co.jp/articles/beb4d8d72397d0a081fbfb08926b2f8cf79703af",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットコイン、レンジ上抜け 雇用統計弱く8.7万ドルワンタッチ【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/8ee2a8c2e922a9dd8e195a588ddc8b210adff498",
+        "title": "S&P、DeFi融資サービスのリスク評価を開始",
+        "url": "https://news.yahoo.co.jp/articles/1f224e650da26d2daab2fe1310fc351b34639a2c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "フィリピンCoins[.]ph、ペソ入金を一部停止。中銀が内部統制改善を指示",
-        "url": "https://news.yahoo.co.jp/articles/4edab312ee7ddde08d00efdec04ed46d742f6cfb",
+        "title": "LN Trends 2026年9月",
+        "url": "https://news.yahoo.co.jp/articles/bb0878773d4bb0f3e828ef81cbd490d017a0d4bb",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "リップルのステーブルコイン「RLUSD」、時価総額25億ドル超",
-        "url": "https://news.yahoo.co.jp/articles/a93bc20a0366b6acd681d83428733682aad682e7",
+        "title": "イーサリアムL2「ブラスト」が運営終了へ、維持費が収益を上回る なおブラストは、暗号資産（仮想通貨）「イーサリアム（ETH）」やステーブルコインを保有する利用者に、利回りを自動的に還元する仕組みを備えたレイヤー2",
+        "url": "https://news.yahoo.co.jp/articles/0979542fa83a60929aed36144a593bfbf4d7bc0b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビザ、ステーブルコイン連動カード取扱高の約17%が法人・商用。全体は前年比約200%増",
-        "url": "https://news.yahoo.co.jp/articles/96e6ca239aa807e50fd3b72a15c47aba78b45b1b",
+        "title": "ヴィタリック・ブテリン氏、2030年のEthereum像を提示──ファイナリティの秒単位化と、2029年を目標とする量子耐性【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/3cd446198a2cf0b3aa9b3a57cc95b379b489f2a5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "スターテイル、JPYSCで利払い・償還するデジタル社債募集へ。国内個人向けに年利5%で",
-        "url": "https://news.yahoo.co.jp/articles/57bc4a4c8e642a798314344b628fc44a5df96191",
+        "title": "暗号資産取引所「OKX」、トークン化米国株市場に参入へ",
+        "url": "https://news.yahoo.co.jp/articles/67ab5f000a3fb98f6621ee58b70b39a33e486dce",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "日立、暗号資産・ステーブルコイン向けマネロン監視サービスを開始",
-        "url": "https://news.yahoo.co.jp/articles/32588213c91b1f63e6b729d2f8b47d130dac145a",
+        "title": "利息も償還もJPYSCで──年5%、スターテイルが個人向け社債募集へ",
+        "url": "https://news.yahoo.co.jp/articles/beb4d8d72397d0a081fbfb08926b2f8cf79703af",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットコイン、レンジ上抜け 雇用統計弱く8.7万ドルワンタッチ【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/8ee2a8c2e922a9dd8e195a588ddc8b210adff498",
+        "title": "S&P、DeFi融資サービスのリスク評価を開始",
+        "url": "https://news.yahoo.co.jp/articles/1f224e650da26d2daab2fe1310fc351b34639a2c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "フィリピンCoins[.]ph、ペソ入金を一部停止。中銀が内部統制改善を指示",
-        "url": "https://news.yahoo.co.jp/articles/4edab312ee7ddde08d00efdec04ed46d742f6cfb",
+        "title": "LN Trends 2026年9月",
+        "url": "https://news.yahoo.co.jp/articles/bb0878773d4bb0f3e828ef81cbd490d017a0d4bb",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "リップルのステーブルコイン「RLUSD」、時価総額25億ドル超",
-        "url": "https://news.yahoo.co.jp/articles/a93bc20a0366b6acd681d83428733682aad682e7",
+        "title": "イーサリアムL2「ブラスト」が運営終了へ、維持費が収益を上回る なおブラストは、暗号資産（仮想通貨）「イーサリアム（ETH）」やステーブルコインを保有する利用者に、利回りを自動的に還元する仕組みを備えたレイヤー2",
+        "url": "https://news.yahoo.co.jp/articles/0979542fa83a60929aed36144a593bfbf4d7bc0b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビザ、ステーブルコイン連動カード取扱高の約17%が法人・商用。全体は前年比約200%増",
-        "url": "https://news.yahoo.co.jp/articles/96e6ca239aa807e50fd3b72a15c47aba78b45b1b",
+        "title": "ヴィタリック・ブテリン氏、2030年のEthereum像を提示──ファイナリティの秒単位化と、2029年を目標とする量子耐性【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/3cd446198a2cf0b3aa9b3a57cc95b379b489f2a5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419AC0000000022": [
       {
+        "title": "日銀で「送金システム不備」内部通報したら「庁舎立ち入り禁止」",
+        "url": "https://news.yahoo.co.jp/articles/9d959835090fd1223acca19c52ef623aaaf921ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "戦争を支える「資金」はどこから来る？ 税収で賄う国家と「アングラ経済」に頼る武装組織【国際税務の専門家が解説】",
         "url": "https://news.yahoo.co.jp/articles/9559759c329c074526b21e9551d0235fe65bb465",
         "source": "Yahoo",
@@ -16786,18 +16822,18 @@
       {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「マイナンバーカードが偽造、悪用された」警察官など装うニセ電話詐欺、伊万里市の70代女性が約2125万円被害",
-        "url": "https://news.yahoo.co.jp/articles/77ade8eed6aa784e3624b94e7d4da1c7db5581a3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "日銀で「送金システム不備」内部通報したら「庁舎立ち入り禁止」",
+        "url": "https://news.yahoo.co.jp/articles/9d959835090fd1223acca19c52ef623aaaf921ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "戦争を支える「資金」はどこから来る？ 税収で賄う国家と「アングラ経済」に頼る武装組織【国際税務の専門家が解説】",
         "url": "https://news.yahoo.co.jp/articles/9559759c329c074526b21e9551d0235fe65bb465",
         "source": "Yahoo",
@@ -16824,18 +16860,18 @@
       {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「マイナンバーカードが偽造、悪用された」警察官など装うニセ電話詐欺、伊万里市の70代女性が約2125万円被害",
-        "url": "https://news.yahoo.co.jp/articles/77ade8eed6aa784e3624b94e7d4da1c7db5581a3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "日銀で「送金システム不備」内部通報したら「庁舎立ち入り禁止」",
+        "url": "https://news.yahoo.co.jp/articles/9d959835090fd1223acca19c52ef623aaaf921ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "戦争を支える「資金」はどこから来る？ 税収で賄う国家と「アングラ経済」に頼る武装組織【国際税務の専門家が解説】",
         "url": "https://news.yahoo.co.jp/articles/9559759c329c074526b21e9551d0235fe65bb465",
         "source": "Yahoo",
@@ -16862,12 +16898,6 @@
       {
         "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
         "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「マイナンバーカードが偽造、悪用された」警察官など装うニセ電話詐欺、伊万里市の70代女性が約2125万円被害",
-        "url": "https://news.yahoo.co.jp/articles/77ade8eed6aa784e3624b94e7d4da1c7db5581a3",
         "source": "Yahoo",
         "date": ""
       }
@@ -17474,6 +17504,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "タイムズカー、情報保護法を軽視 160万件の免許証画像流出",
+        "url": "https://news.yahoo.co.jp/articles/a48e4a695edaf91c80cd9e95e06bbacbbc5fad7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自第9弾】陸自思想調査の報告書「公文書扱いせず」 幹部会議で確認 組織的決定、他部隊とも共有",
         "url": "https://news.yahoo.co.jp/articles/3a3baa9eef5ffcceef4698affcfa98b73a58b48a",
         "source": "Yahoo",
@@ -17500,18 +17536,18 @@
       {
         "title": "【独自】個人情報提供、事前報告を義務化 病歴・指紋・位置、安保上脅威に",
         "url": "https://news.yahoo.co.jp/articles/41b78a81660746ef7621545be0b8158c27187558",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アバハウスインターナショナル、全会員の個人情報が漏えいの可能性",
-        "url": "https://news.yahoo.co.jp/articles/9344fae685aa4e4455f4a315fa9454e0f18b4c61",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "タイムズカー、情報保護法を軽視 160万件の免許証画像流出",
+        "url": "https://news.yahoo.co.jp/articles/a48e4a695edaf91c80cd9e95e06bbacbbc5fad7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自第9弾】陸自思想調査の報告書「公文書扱いせず」 幹部会議で確認 組織的決定、他部隊とも共有",
         "url": "https://news.yahoo.co.jp/articles/3a3baa9eef5ffcceef4698affcfa98b73a58b48a",
         "source": "Yahoo",
@@ -17538,18 +17574,18 @@
       {
         "title": "【独自】個人情報提供、事前報告を義務化 病歴・指紋・位置、安保上脅威に",
         "url": "https://news.yahoo.co.jp/articles/41b78a81660746ef7621545be0b8158c27187558",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アバハウスインターナショナル、全会員の個人情報が漏えいの可能性",
-        "url": "https://news.yahoo.co.jp/articles/9344fae685aa4e4455f4a315fa9454e0f18b4c61",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "タイムズカー、情報保護法を軽視 160万件の免許証画像流出",
+        "url": "https://news.yahoo.co.jp/articles/a48e4a695edaf91c80cd9e95e06bbacbbc5fad7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自第9弾】陸自思想調査の報告書「公文書扱いせず」 幹部会議で確認 組織的決定、他部隊とも共有",
         "url": "https://news.yahoo.co.jp/articles/3a3baa9eef5ffcceef4698affcfa98b73a58b48a",
         "source": "Yahoo",
@@ -17576,12 +17612,6 @@
       {
         "title": "【独自】個人情報提供、事前報告を義務化 病歴・指紋・位置、安保上脅威に",
         "url": "https://news.yahoo.co.jp/articles/41b78a81660746ef7621545be0b8158c27187558",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アバハウスインターナショナル、全会員の個人情報が漏えいの可能性",
-        "url": "https://news.yahoo.co.jp/articles/9344fae685aa4e4455f4a315fa9454e0f18b4c61",
         "source": "Yahoo",
         "date": ""
       }
