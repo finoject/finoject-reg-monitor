@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T04:26:27.483Z",
+  "generatedAt": "2026-10-05T05:57:16.243Z",
   "items": [
     {
       "agency": "金融庁",
@@ -15,6 +15,22 @@
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "需給ギャップ・潜在成長率および労働需給関連指標",
+      "url": "https://www.boj.or.jp/research/research_data/gap/index.htm",
+      "date": "2026-10-05",
+      "detectedAt": "2026-10-05T05:57:16.243Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行調査統計局は需給ギャップ・潜在成長率に加え、労働需給関連指標（ベバリッジ比率・失業率・就業率ギャップ・入離職ギャップ等）を四半期ごとに公表する仕組みに変更した。",
+        "金融経済に関心を有する利用者は、1・4・7・10月の第3営業日に公表される分析データを参照する際、需給ギャップと労働需給関連指標を補完的にモニタリングすることが適当とされている。",
+        "2026年3月26日に分析データの見直しが実施され、労働供給制約の強まりを背景に、労働集約的セクターの経済活動や物価動向への影響度合いが増大していることに対応している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-05T05:57:24.514Z"
     },
     {
       "agency": "日本銀行",
@@ -10720,21 +10736,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本銀行",
-      "title": "需給ギャップ・潜在成長率および労働需給関連指標",
-      "url": "https://www.boj.or.jp/research/research_data/gap/index.htm",
-      "date": "2026-07-03",
-      "detectedAt": "2026-07-03T05:34:31.986Z",
-      "enriched": "2026-07-03T05:34:36.412Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行調査統計局は需給ギャップ・潜在成長率に加え、労働需給関連指標（ベバリッジ比率・失業率・就業率ギャップ・入離職ギャップ等）を四半期ごとに公表する仕組みに変更した。",
-        "金融経済に関心を有する利用者は、1・4・7・10月の第3営業日に公表される分析データを参照する際、需給ギャップと労働需給関連指標を補完的にモニタリングすることが適当とされている。",
-        "2026年3月26日に分析データの見直しが実施され、労働供給制約の強まりを背景に、労働集約的セクターの経済活動や物価動向への影響度合いが増大していることに対応している。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "金融庁",
       "title": "企業会計審議会第２回サステナビリティ情報保証部会の開催",
       "url": "https://www.fsa.go.jp/news/r7/singi/20260703/20260703.html",
@@ -16364,6 +16365,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "日立、暗号資産・ステーブルコイン向けマネロン監視サービスを開始",
+        "url": "https://news.yahoo.co.jp/articles/32588213c91b1f63e6b729d2f8b47d130dac145a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、デジタル金融に13.3億円を予算要求──前年度の約15倍",
         "url": "https://news.yahoo.co.jp/articles/159a6a590980e01c3604e60759ba506a04d39d79",
         "source": "Yahoo",
@@ -16390,18 +16397,18 @@
       {
         "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "円連動目標の暗号資産型ステーブルコイン「JPYdf」発行へ、DeltaForesightがCoral CapitalやFFGらから累計3.24億円調達",
-        "url": "https://news.yahoo.co.jp/articles/cc9f6678b0c134f6da39976c3ae3bae4091700fe",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "日立、暗号資産・ステーブルコイン向けマネロン監視サービスを開始",
+        "url": "https://news.yahoo.co.jp/articles/32588213c91b1f63e6b729d2f8b47d130dac145a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、デジタル金融に13.3億円を予算要求──前年度の約15倍",
         "url": "https://news.yahoo.co.jp/articles/159a6a590980e01c3604e60759ba506a04d39d79",
         "source": "Yahoo",
@@ -16428,12 +16435,6 @@
       {
         "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "円連動目標の暗号資産型ステーブルコイン「JPYdf」発行へ、DeltaForesightがCoral CapitalやFFGらから累計3.24億円調達",
-        "url": "https://news.yahoo.co.jp/articles/cc9f6678b0c134f6da39976c3ae3bae4091700fe",
         "source": "Yahoo",
         "date": ""
       }
@@ -16668,6 +16669,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "日立、暗号資産・ステーブルコイン向けマネロン監視サービスを開始",
+        "url": "https://news.yahoo.co.jp/articles/32588213c91b1f63e6b729d2f8b47d130dac145a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン、レンジ上抜け 雇用統計弱く8.7万ドルワンタッチ【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/8ee2a8c2e922a9dd8e195a588ddc8b210adff498",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "フィリピンCoins[.]ph、ペソ入金を一部停止。中銀が内部統制改善を指示",
         "url": "https://news.yahoo.co.jp/articles/4edab312ee7ddde08d00efdec04ed46d742f6cfb",
         "source": "Yahoo",
@@ -16688,24 +16701,24 @@
       {
         "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
         "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イラン関連ウォレット、凍結遅れで約55億円のUSDT流出＝米上院報告",
-        "url": "https://news.yahoo.co.jp/articles/c108111818d0471f559b80094d177e15fa1f3c2d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産求人、9月に急増も応募は減少＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/0ff0adee202d4657fa96413eba905819ce9e50f4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "日立、暗号資産・ステーブルコイン向けマネロン監視サービスを開始",
+        "url": "https://news.yahoo.co.jp/articles/32588213c91b1f63e6b729d2f8b47d130dac145a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン、レンジ上抜け 雇用統計弱く8.7万ドルワンタッチ【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/8ee2a8c2e922a9dd8e195a588ddc8b210adff498",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "フィリピンCoins[.]ph、ペソ入金を一部停止。中銀が内部統制改善を指示",
         "url": "https://news.yahoo.co.jp/articles/4edab312ee7ddde08d00efdec04ed46d742f6cfb",
         "source": "Yahoo",
@@ -16726,18 +16739,6 @@
       {
         "title": "米地域銀行団体ICBA、暗号資産企業への信託銀行免許巡りOCCを提訴",
         "url": "https://news.yahoo.co.jp/articles/67114e33593ce62bdaf555fbe2c464b39ac35d43",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イラン関連ウォレット、凍結遅れで約55億円のUSDT流出＝米上院報告",
-        "url": "https://news.yahoo.co.jp/articles/c108111818d0471f559b80094d177e15fa1f3c2d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産求人、9月に急増も応募は減少＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/0ff0adee202d4657fa96413eba905819ce9e50f4",
         "source": "Yahoo",
         "date": ""
       }
