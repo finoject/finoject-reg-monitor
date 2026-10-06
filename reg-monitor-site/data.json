@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:26:18.239Z",
+  "generatedAt": "2026-10-06T07:57:04.847Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,37 @@
         "金融審議会成長企業資金供給ワーキング・グループ第2回が令和8年10月9日9時から中央合同庁舎第7号館12階で開催され、ヒアリング・事務局説明・討議が予定される。",
         "一般傍聴席は用意されないが、金融庁公式YouTubeチャンネルでの配信により会議内容を確認でき、会議後に議事録が金融庁ウェブサイトで公表される。",
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（グロース市場）：（株）RECEPTIONIST",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-10-06",
+      "detectedAt": "2026-10-06T07:57:04.847Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-06T07:57:10.120Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【挨拶】植田総裁（全国証券大会）",
+      "url": "https://www.boj.or.jp/about/press/koen_2026/ko261006a.htm",
+      "date": "2026-10-06",
+      "detectedAt": "2026-10-06T07:57:04.847Z",
+      "enriched": "2026-10-06T07:57:10.120Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年9月に政策金利を1.25％程度に引き上げることを決定し、基調的な物価上昇率が2％に近づく中で金融緩和の度合いを調整。今後、経済・物価・金融情勢に応じて政策金利のさらなる引上げを検討予定。",
+        "証券業界に対し、企業の多様な資金調達ニーズへの対応、M&Aやコーポレートアクションにおけるアドバイザリー機能の強化、企業価値向上支援を期待。",
+        "国民の資産形成支援として、新NISA利用拡大、こどもNISA開始、確定拠出年金拠出額上限引上げに対応し、金融リテラシー向上と正確な投資判断支援、サイバーセキュリティ強化を要求。"
       ],
       "aiSumV": 3
     },
@@ -436,22 +467,6 @@
         "2026年9月の東証プライム市場（内国普通株）の1日平均売買代金は9兆3,334億円で前年同月比+45.3%増加し、ETFの1日平均売買代金は3,366億円（日本取引所グループ公表値、2026年10月1日現在）。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（グロース市場）：（株）estie",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-10-01",
-      "detectedAt": "2026-10-01T07:04:21.444Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-01T07:04:27.294Z"
     },
     {
       "agency": "日本銀行",
@@ -16486,6 +16501,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "バイナンス、ブラジルで国際暗号資産送金の申告要件を導入へ",
+        "url": "https://news.yahoo.co.jp/articles/6a29d527237c8d697edfdf5a9df98cec61bb392b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米CFTC、暗号資産取引所向け「CTX」・「CAM」構想を提示。連邦規制の選択肢整備へ",
         "url": "https://news.yahoo.co.jp/articles/e30613f0534ab2e1ca93a96b595b95ce83e3c14c",
         "source": "Yahoo",
@@ -16512,18 +16533,18 @@
       {
         "title": "米財務省、自己管理型ウォレット規制案とミキシング規制案を撤回 【次に読む】» CFTC、暗号資産レバレッジ取引の連邦規制を検討──新たな市場区分も» 米財務省、イラン暗号資産取引所「BitBank」を制裁指定»",
         "url": "https://news.yahoo.co.jp/articles/7773f74d14764a853daa3ad68f2543efb101bb32",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
-        "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "バイナンス、ブラジルで国際暗号資産送金の申告要件を導入へ",
+        "url": "https://news.yahoo.co.jp/articles/6a29d527237c8d697edfdf5a9df98cec61bb392b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米CFTC、暗号資産取引所向け「CTX」・「CAM」構想を提示。連邦規制の選択肢整備へ",
         "url": "https://news.yahoo.co.jp/articles/e30613f0534ab2e1ca93a96b595b95ce83e3c14c",
         "source": "Yahoo",
@@ -16550,12 +16571,6 @@
       {
         "title": "米財務省、自己管理型ウォレット規制案とミキシング規制案を撤回 【次に読む】» CFTC、暗号資産レバレッジ取引の連邦規制を検討──新たな市場区分も» 米財務省、イラン暗号資産取引所「BitBank」を制裁指定»",
         "url": "https://news.yahoo.co.jp/articles/7773f74d14764a853daa3ad68f2543efb101bb32",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
-        "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
         "source": "Yahoo",
         "date": ""
       }
@@ -16714,6 +16729,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "三井住友銀行ら、デジタル証券の二次流通でステーブルコイン活用のDvP決済実証完了",
+        "url": "https://news.yahoo.co.jp/articles/d88285983e08b4ce83cb7c5b1e6b3cd18a4b2d1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マイナウォレットでJPYCの発行・償還が可能に、JPYC EXと連携で",
+        "url": "https://news.yahoo.co.jp/articles/823852c515236d7d824b4a9c1900d12776d26d8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "三井住友銀行など9社、ステーブルコインでデジタル証券の同時決済を実証",
         "url": "https://news.yahoo.co.jp/articles/adb7c463f34e359f8a5873b357b7689f93309a58",
         "source": "Yahoo",
@@ -16734,24 +16761,24 @@
       {
         "title": "マイナウォレット、JPYCの発行・償還に対応",
         "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ICEとOKXの合弁会社、ユニスワップv4でトークン化米国株の取引を計画",
-        "url": "https://news.yahoo.co.jp/articles/a050971a79e9877016d782683fbd7df3d5d844a8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン決済のRain、米国で国法信託銀行の設立へ",
-        "url": "https://news.yahoo.co.jp/articles/9d47a91656501b4952213e0bccadb3058ef56358",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "三井住友銀行ら、デジタル証券の二次流通でステーブルコイン活用のDvP決済実証完了",
+        "url": "https://news.yahoo.co.jp/articles/d88285983e08b4ce83cb7c5b1e6b3cd18a4b2d1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マイナウォレットでJPYCの発行・償還が可能に、JPYC EXと連携で",
+        "url": "https://news.yahoo.co.jp/articles/823852c515236d7d824b4a9c1900d12776d26d8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "三井住友銀行など9社、ステーブルコインでデジタル証券の同時決済を実証",
         "url": "https://news.yahoo.co.jp/articles/adb7c463f34e359f8a5873b357b7689f93309a58",
         "source": "Yahoo",
@@ -16772,18 +16799,6 @@
       {
         "title": "マイナウォレット、JPYCの発行・償還に対応",
         "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ICEとOKXの合弁会社、ユニスワップv4でトークン化米国株の取引を計画",
-        "url": "https://news.yahoo.co.jp/articles/a050971a79e9877016d782683fbd7df3d5d844a8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン決済のRain、米国で国法信託銀行の設立へ",
-        "url": "https://news.yahoo.co.jp/articles/9d47a91656501b4952213e0bccadb3058ef56358",
         "source": "Yahoo",
         "date": ""
       }
@@ -16904,6 +16919,12 @@
     ],
     "324AC0000000228": [
       {
+        "title": "日本政府がロシア系暗号資産取引所ガランテックスを資産凍結対象に",
+        "url": "https://news.yahoo.co.jp/articles/c90895c083df85b18b3be744a3d7669cf8ab655c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本政府、ロシア系暗号資産取引所「Garantex」を制裁対象に",
         "url": "https://news.yahoo.co.jp/articles/3b3ce508391af1fa06ca97e6abb17ff432cf8a90",
         "source": "Yahoo",
@@ -16930,18 +16951,18 @@
       {
         "title": "レッドバロン、ロシアに迂回輸出 未承認でバイク、経産省が警告",
         "url": "https://news.yahoo.co.jp/articles/062a2c14ea5c582ffaa62f8a5c14a686af526df9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "顔も見せずに反省？謝罪？ 処分もなし～冤罪・大川原化工機事件での検察の検証結果報告",
-        "url": "https://news.yahoo.co.jp/expert/articles/ab2e44610feb74d64c1840d50200cd59c28ae952",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "355CO0000000260": [
       {
+        "title": "日本政府がロシア系暗号資産取引所ガランテックスを資産凍結対象に",
+        "url": "https://news.yahoo.co.jp/articles/c90895c083df85b18b3be744a3d7669cf8ab655c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本政府、ロシア系暗号資産取引所「Garantex」を制裁対象に",
         "url": "https://news.yahoo.co.jp/articles/3b3ce508391af1fa06ca97e6abb17ff432cf8a90",
         "source": "Yahoo",
@@ -16968,12 +16989,6 @@
       {
         "title": "レッドバロン、ロシアに迂回輸出 未承認でバイク、経産省が警告",
         "url": "https://news.yahoo.co.jp/articles/062a2c14ea5c582ffaa62f8a5c14a686af526df9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "顔も見せずに反省？謝罪？ 処分もなし～冤罪・大川原化工機事件での検察の検証結果報告",
-        "url": "https://news.yahoo.co.jp/expert/articles/ab2e44610feb74d64c1840d50200cd59c28ae952",
         "source": "Yahoo",
         "date": ""
       }
@@ -17504,6 +17519,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "三井情報とNTTドコモビジネス、全国広域分散GPUを活用した大規模ゲノム解析を共同実証",
+        "url": "https://news.yahoo.co.jp/articles/fda3f97e79b57475af5fcf83972ecc92107fb331",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:56タイムズカー会員情報流出 運転免許証データは退会後7年間保管 パーク24「自社の方針で保管期間決めた」",
+        "url": "https://news.yahoo.co.jp/articles/73dc7473a98e1db5222d72871f1d9ed323318e24",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "タイムズカー「免許証画像」160万件流出",
         "url": "https://news.yahoo.co.jp/articles/5c6afcbbdea48a51a90213b3c93e340dc0000dae",
         "source": "Yahoo",
@@ -17524,24 +17551,24 @@
       {
         "title": "タイムズカー、情報保護法を軽視 160万件の免許証画像流出",
         "url": "https://news.yahoo.co.jp/articles/a48e4a695edaf91c80cd9e95e06bbacbbc5fad7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第9弾】陸自思想調査の報告書「公文書扱いせず」 幹部会議で確認 組織的決定、他部隊とも共有",
-        "url": "https://news.yahoo.co.jp/articles/3a3baa9eef5ffcceef4698affcfa98b73a58b48a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "位置情報を必要としているのは地図アプリだけじゃない。「AIが現実空間を認識し、動くための基盤」へ――“靴に装着するナビ”手掛けるHonda発ベンチャーも初出展、CEATECに位置情報ビジネスの「総合案内所」",
-        "url": "https://news.yahoo.co.jp/articles/eaf5eb2673e0202ee6b470a834eb9b16f77adf40",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "三井情報とNTTドコモビジネス、全国広域分散GPUを活用した大規模ゲノム解析を共同実証",
+        "url": "https://news.yahoo.co.jp/articles/fda3f97e79b57475af5fcf83972ecc92107fb331",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:56タイムズカー会員情報流出 運転免許証データは退会後7年間保管 パーク24「自社の方針で保管期間決めた」",
+        "url": "https://news.yahoo.co.jp/articles/73dc7473a98e1db5222d72871f1d9ed323318e24",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "タイムズカー「免許証画像」160万件流出",
         "url": "https://news.yahoo.co.jp/articles/5c6afcbbdea48a51a90213b3c93e340dc0000dae",
         "source": "Yahoo",
@@ -17562,24 +17589,24 @@
       {
         "title": "タイムズカー、情報保護法を軽視 160万件の免許証画像流出",
         "url": "https://news.yahoo.co.jp/articles/a48e4a695edaf91c80cd9e95e06bbacbbc5fad7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第9弾】陸自思想調査の報告書「公文書扱いせず」 幹部会議で確認 組織的決定、他部隊とも共有",
-        "url": "https://news.yahoo.co.jp/articles/3a3baa9eef5ffcceef4698affcfa98b73a58b48a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "位置情報を必要としているのは地図アプリだけじゃない。「AIが現実空間を認識し、動くための基盤」へ――“靴に装着するナビ”手掛けるHonda発ベンチャーも初出展、CEATECに位置情報ビジネスの「総合案内所」",
-        "url": "https://news.yahoo.co.jp/articles/eaf5eb2673e0202ee6b470a834eb9b16f77adf40",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "三井情報とNTTドコモビジネス、全国広域分散GPUを活用した大規模ゲノム解析を共同実証",
+        "url": "https://news.yahoo.co.jp/articles/fda3f97e79b57475af5fcf83972ecc92107fb331",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:56タイムズカー会員情報流出 運転免許証データは退会後7年間保管 パーク24「自社の方針で保管期間決めた」",
+        "url": "https://news.yahoo.co.jp/articles/73dc7473a98e1db5222d72871f1d9ed323318e24",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "タイムズカー「免許証画像」160万件流出",
         "url": "https://news.yahoo.co.jp/articles/5c6afcbbdea48a51a90213b3c93e340dc0000dae",
         "source": "Yahoo",
@@ -17600,18 +17627,6 @@
       {
         "title": "タイムズカー、情報保護法を軽視 160万件の免許証画像流出",
         "url": "https://news.yahoo.co.jp/articles/a48e4a695edaf91c80cd9e95e06bbacbbc5fad7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第9弾】陸自思想調査の報告書「公文書扱いせず」 幹部会議で確認 組織的決定、他部隊とも共有",
-        "url": "https://news.yahoo.co.jp/articles/3a3baa9eef5ffcceef4698affcfa98b73a58b48a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "位置情報を必要としているのは地図アプリだけじゃない。「AIが現実空間を認識し、動くための基盤」へ――“靴に装着するナビ”手掛けるHonda発ベンチャーも初出展、CEATECに位置情報ビジネスの「総合案内所」",
-        "url": "https://news.yahoo.co.jp/articles/eaf5eb2673e0202ee6b470a834eb9b16f77adf40",
         "source": "Yahoo",
         "date": ""
       }
