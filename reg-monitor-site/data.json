@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:21:00.114Z",
+  "generatedAt": "2026-10-06T00:52:57.684Z",
   "items": [
     {
       "agency": "金融庁",
@@ -16486,6 +16486,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "下落局面でも暗号資産への投資意欲は衰えず──欧米7カ国の富裕層調査＝CoinShares",
+        "url": "https://news.yahoo.co.jp/articles/63caeb1d50aa1e25e07ecddfc6657f2d7e3f848a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米財務省、自己管理型ウォレット規制案とミキシング規制案を撤回 【次に読む】» CFTC、暗号資産レバレッジ取引の連邦規制を検討──新たな市場区分も» 米財務省、イラン暗号資産取引所「BitBank」を制裁指定»",
+        "url": "https://news.yahoo.co.jp/articles/7773f74d14764a853daa3ad68f2543efb101bb32",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
         "source": "Yahoo",
@@ -16506,24 +16518,24 @@
       {
         "title": "Strategyが週次購入を再開──予測市場、ビットコインの10万ドル回復期待が上昇【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/10939c6f991f167f798e372c57b0b04f673df625",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産取引所「OKX」、トークン化米国株市場に参入へ",
-        "url": "https://news.yahoo.co.jp/articles/67ab5f000a3fb98f6621ee58b70b39a33e486dce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ヴィタリック・ブテリン氏、2030年のEthereum像を提示──ファイナリティの秒単位化と、2029年を目標とする量子耐性【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/3cd446198a2cf0b3aa9b3a57cc95b379b489f2a5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "下落局面でも暗号資産への投資意欲は衰えず──欧米7カ国の富裕層調査＝CoinShares",
+        "url": "https://news.yahoo.co.jp/articles/63caeb1d50aa1e25e07ecddfc6657f2d7e3f848a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米財務省、自己管理型ウォレット規制案とミキシング規制案を撤回 【次に読む】» CFTC、暗号資産レバレッジ取引の連邦規制を検討──新たな市場区分も» 米財務省、イラン暗号資産取引所「BitBank」を制裁指定»",
+        "url": "https://news.yahoo.co.jp/articles/7773f74d14764a853daa3ad68f2543efb101bb32",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
         "source": "Yahoo",
@@ -16544,18 +16556,6 @@
       {
         "title": "Strategyが週次購入を再開──予測市場、ビットコインの10万ドル回復期待が上昇【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/10939c6f991f167f798e372c57b0b04f673df625",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産取引所「OKX」、トークン化米国株市場に参入へ",
-        "url": "https://news.yahoo.co.jp/articles/67ab5f000a3fb98f6621ee58b70b39a33e486dce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ヴィタリック・ブテリン氏、2030年のEthereum像を提示──ファイナリティの秒単位化と、2029年を目標とする量子耐性【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/3cd446198a2cf0b3aa9b3a57cc95b379b489f2a5",
         "source": "Yahoo",
         "date": ""
       }
@@ -17617,46 +17617,5 @@
       }
     ]
   },
-  "dietbills": {
-    "324AC0000000228": [
-      {
-        "session": "221",
-        "name": "外国為替及び外国貿易法の一部を改正する法律案",
-        "status": "成立",
-        "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DE2076.htm"
-      }
-    ],
-    "419AC0000000022": [
-      {
-        "session": "221",
-        "name": "犯罪による収益の移転防止に関する法律の一部を改正する法律案",
-        "status": "成立",
-        "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DE2616.htm"
-      }
-    ],
-    "415AC0000000057": [
-      {
-        "session": "221",
-        "name": "個人情報の保護に関する法律等の一部を改正する法律案",
-        "status": "成立",
-        "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DE26F2.htm"
-      }
-    ],
-    "421AC0000000059": [
-      {
-        "session": "221",
-        "name": "金融商品取引法及び資金決済に関する法律の一部を改正する法律案",
-        "status": "成立",
-        "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DE278A.htm"
-      }
-    ],
-    "323AC0000000025": [
-      {
-        "session": "221",
-        "name": "金融商品取引法及び資金決済に関する法律の一部を改正する法律案",
-        "status": "成立",
-        "url": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/keika/1DE278A.htm"
-      }
-    ]
-  }
+  "dietbills": {}
 }
