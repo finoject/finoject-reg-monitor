@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T04:55:21.083Z",
+  "generatedAt": "2026-10-06T06:26:18.239Z",
   "items": [
     {
       "agency": "金融庁",
@@ -16714,6 +16714,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "三井住友銀行など9社、ステーブルコインでデジタル証券の同時決済を実証",
+        "url": "https://news.yahoo.co.jp/articles/adb7c463f34e359f8a5873b357b7689f93309a58",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "XRPレジャー上のx402決済が1000万件突破、3カ月未満で10倍に",
+        "url": "https://news.yahoo.co.jp/articles/a34a292d9a672782278f43630dd289705fe341ca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ゴールドペサ、ユニスワップv4フック悪用で約11.4万ドル流出。ロジックエラーが原因",
+        "url": "https://news.yahoo.co.jp/articles/136a1d8c031cbb9084ac6de5628036617ca31bce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マイナウォレット、JPYCの発行・償還に対応",
+        "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ICEとOKXの合弁会社、ユニスワップv4でトークン化米国株の取引を計画",
         "url": "https://news.yahoo.co.jp/articles/a050971a79e9877016d782683fbd7df3d5d844a8",
         "source": "Yahoo",
@@ -16722,36 +16746,36 @@
       {
         "title": "ステーブルコイン決済のRain、米国で国法信託銀行の設立へ",
         "url": "https://news.yahoo.co.jp/articles/9d47a91656501b4952213e0bccadb3058ef56358",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国主要紙の朝刊ヘッドライン（10月6日）",
-        "url": "https://news.yahoo.co.jp/articles/a539bc46beb31378e6ec0acf96918d295321fb13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産取引所「OKX」、トークン化米国株市場に参入へ",
-        "url": "https://news.yahoo.co.jp/articles/67ab5f000a3fb98f6621ee58b70b39a33e486dce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "利息も償還もJPYSCで──年5%、スターテイルが個人向け社債募集へ",
-        "url": "https://news.yahoo.co.jp/articles/beb4d8d72397d0a081fbfb08926b2f8cf79703af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "S&P、DeFi融資サービスのリスク評価を開始",
-        "url": "https://news.yahoo.co.jp/articles/1f224e650da26d2daab2fe1310fc351b34639a2c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "三井住友銀行など9社、ステーブルコインでデジタル証券の同時決済を実証",
+        "url": "https://news.yahoo.co.jp/articles/adb7c463f34e359f8a5873b357b7689f93309a58",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "XRPレジャー上のx402決済が1000万件突破、3カ月未満で10倍に",
+        "url": "https://news.yahoo.co.jp/articles/a34a292d9a672782278f43630dd289705fe341ca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ゴールドペサ、ユニスワップv4フック悪用で約11.4万ドル流出。ロジックエラーが原因",
+        "url": "https://news.yahoo.co.jp/articles/136a1d8c031cbb9084ac6de5628036617ca31bce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マイナウォレット、JPYCの発行・償還に対応",
+        "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ICEとOKXの合弁会社、ユニスワップv4でトークン化米国株の取引を計画",
         "url": "https://news.yahoo.co.jp/articles/a050971a79e9877016d782683fbd7df3d5d844a8",
         "source": "Yahoo",
@@ -16760,30 +16784,6 @@
       {
         "title": "ステーブルコイン決済のRain、米国で国法信託銀行の設立へ",
         "url": "https://news.yahoo.co.jp/articles/9d47a91656501b4952213e0bccadb3058ef56358",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国主要紙の朝刊ヘッドライン（10月6日）",
-        "url": "https://news.yahoo.co.jp/articles/a539bc46beb31378e6ec0acf96918d295321fb13",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産取引所「OKX」、トークン化米国株市場に参入へ",
-        "url": "https://news.yahoo.co.jp/articles/67ab5f000a3fb98f6621ee58b70b39a33e486dce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "利息も償還もJPYSCで──年5%、スターテイルが個人向け社債募集へ",
-        "url": "https://news.yahoo.co.jp/articles/beb4d8d72397d0a081fbfb08926b2f8cf79703af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "S&P、DeFi融資サービスのリスク評価を開始",
-        "url": "https://news.yahoo.co.jp/articles/1f224e650da26d2daab2fe1310fc351b34639a2c",
         "source": "Yahoo",
         "date": ""
       }
