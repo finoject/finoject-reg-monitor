@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:57:04.847Z",
+  "generatedAt": "2026-10-06T09:27:58.187Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,44 @@
         "金融審議会成長企業資金供給ワーキング・グループ第2回が令和8年10月9日9時から中央合同庁舎第7号館12階で開催され、ヒアリング・事務局説明・討議が予定される。",
         "一般傍聴席は用意されないが、金融庁公式YouTubeチャンネルでの配信により会議内容を確認でき、会議後に議事録が金融庁ウェブサイトで公表される。",
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "バーゼル銀行監督委員会による議事要旨の公表について",
+      "url": "https://www.boj.or.jp/finsys/intlact_fs/kisei/kis261006a.htm",
+      "date": "2026-10-06",
+      "detectedAt": "2026-10-06T09:27:58.187Z",
+      "enriched": "2026-10-06T09:28:03.983Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "バーゼル委は機械可読性の高い第3の柱開示の最終基準を承認し、年末頃公表予定。銀行は現在のPDF形式から機械可読形式での開示に移行する必要がある。バーゼル委規制文書。",
+        "G-SIBsの評価枠組みについて、期末時点のウィンドウ・ドレッシング行動を抑制する改定を承認し10月中に公表。対象銀行は改定内容に沿った評価手法への対応が必須。バーゼル委基準改定。",
+        "銀行勘定の金利リスク（IRRBB）に関する第2の柱の追加的ガイダンスについて、11月に市中協議文書を公表予定。銀行及び監督当局は当ガイダンスに基づくIRRBB管理の強化に対応。2016年公表基準の実装強化。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]冊子「日本取引所金融商品取引法研究」の第32号を発行しました",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0010/20261006-01.html",
+      "date": "2026-10-06",
+      "detectedAt": "2026-10-06T09:27:58.187Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": null,
+          "kind": "通達等",
+          "label": "金融商品取引法"
+        }
+      ],
+      "enriched": "2026-10-06T09:28:04.225Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX金融商品取引法研究会が2024年12月～2025年4月に開催した日本証券業協会の自主規制に関する4つのテーマ（概要・顧客管理・株式型クラウドファンディング・企業情報管理）の報告記録を第32号冊子として発行した。",
+        "金融・証券実務担当者及び法務・コンプライアンス専門家は、JPXのHP公表冊子を参照することで、業協会自主規制の具体的内容と最新の法的課題について研究できる。",
+        "本冊子の報告内容は各報告者の個人的見解であり、JPXグループの公式見解ではなく、内容の正確性・完全性・最新性を保証していない（2026年10月6日発行、金融商品取引法関連）。"
       ],
       "aiSumV": 3
     },
@@ -16273,6 +16311,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "BACKSEAT、カストディ業務の「SOC 2 Type 1」報告書取得。国内暗号資産ETF見据え",
+        "url": "https://news.yahoo.co.jp/articles/53eeb4448555440b432f1b3ae96570995d6e7d17",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BACKSEAT、暗号資産の保管体制で第三者評価を取得──ETF準備と説明",
         "url": "https://news.yahoo.co.jp/articles/888255aa87261b8e147c14398c2564bcef75800b",
         "source": "Yahoo",
@@ -16299,18 +16343,18 @@
       {
         "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
         "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "BACKSEAT、カストディ業務の「SOC 2 Type 1」報告書取得。国内暗号資産ETF見据え",
+        "url": "https://news.yahoo.co.jp/articles/53eeb4448555440b432f1b3ae96570995d6e7d17",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BACKSEAT、暗号資産の保管体制で第三者評価を取得──ETF準備と説明",
         "url": "https://news.yahoo.co.jp/articles/888255aa87261b8e147c14398c2564bcef75800b",
         "source": "Yahoo",
@@ -16337,18 +16381,18 @@
       {
         "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
         "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "BACKSEAT、カストディ業務の「SOC 2 Type 1」報告書取得。国内暗号資産ETF見据え",
+        "url": "https://news.yahoo.co.jp/articles/53eeb4448555440b432f1b3ae96570995d6e7d17",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BACKSEAT、暗号資産の保管体制で第三者評価を取得──ETF準備と説明",
         "url": "https://news.yahoo.co.jp/articles/888255aa87261b8e147c14398c2564bcef75800b",
         "source": "Yahoo",
@@ -16375,18 +16419,18 @@
       {
         "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
         "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "BACKSEAT、カストディ業務の「SOC 2 Type 1」報告書取得。国内暗号資産ETF見据え",
+        "url": "https://news.yahoo.co.jp/articles/53eeb4448555440b432f1b3ae96570995d6e7d17",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BACKSEAT、暗号資産の保管体制で第三者評価を取得──ETF準備と説明",
         "url": "https://news.yahoo.co.jp/articles/888255aa87261b8e147c14398c2564bcef75800b",
         "source": "Yahoo",
@@ -16413,12 +16457,6 @@
       {
         "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
         "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI関連会社「オルツ」元社長、初公判で粉飾決算認める 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/0bb991a44795f6217392688c151808dc80467665",
         "source": "Yahoo",
         "date": ""
       }
@@ -16501,6 +16539,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "Zcashの政策団体PGPZ、米国でロビー活動登録。クラリティ法案など対象",
+        "url": "https://news.yahoo.co.jp/articles/3556b61b92f91dd52d5e99c5606abc5a4cbbf864",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン、上昇トライアングル出現も、次の材料待ち【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/7a53866e210ba58901266b5a2958d65d325f8fd2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス、ブラジルで国際暗号資産送金の申告要件を導入へ",
         "url": "https://news.yahoo.co.jp/articles/6a29d527237c8d697edfdf5a9df98cec61bb392b",
         "source": "Yahoo",
@@ -16521,24 +16571,24 @@
       {
         "title": "ステーブルコイン決済のRain、米国で国法信託銀行の設立へ",
         "url": "https://news.yahoo.co.jp/articles/9d47a91656501b4952213e0bccadb3058ef56358",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "下落局面でも暗号資産への投資意欲は衰えず──欧米7カ国の富裕層調査＝CoinShares",
-        "url": "https://news.yahoo.co.jp/articles/63caeb1d50aa1e25e07ecddfc6657f2d7e3f848a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、自己管理型ウォレット規制案とミキシング規制案を撤回 【次に読む】» CFTC、暗号資産レバレッジ取引の連邦規制を検討──新たな市場区分も» 米財務省、イラン暗号資産取引所「BitBank」を制裁指定»",
-        "url": "https://news.yahoo.co.jp/articles/7773f74d14764a853daa3ad68f2543efb101bb32",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Zcashの政策団体PGPZ、米国でロビー活動登録。クラリティ法案など対象",
+        "url": "https://news.yahoo.co.jp/articles/3556b61b92f91dd52d5e99c5606abc5a4cbbf864",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン、上昇トライアングル出現も、次の材料待ち【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/7a53866e210ba58901266b5a2958d65d325f8fd2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス、ブラジルで国際暗号資産送金の申告要件を導入へ",
         "url": "https://news.yahoo.co.jp/articles/6a29d527237c8d697edfdf5a9df98cec61bb392b",
         "source": "Yahoo",
@@ -16559,18 +16609,6 @@
       {
         "title": "ステーブルコイン決済のRain、米国で国法信託銀行の設立へ",
         "url": "https://news.yahoo.co.jp/articles/9d47a91656501b4952213e0bccadb3058ef56358",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "下落局面でも暗号資産への投資意欲は衰えず──欧米7カ国の富裕層調査＝CoinShares",
-        "url": "https://news.yahoo.co.jp/articles/63caeb1d50aa1e25e07ecddfc6657f2d7e3f848a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、自己管理型ウォレット規制案とミキシング規制案を撤回 【次に読む】» CFTC、暗号資産レバレッジ取引の連邦規制を検討──新たな市場区分も» 米財務省、イラン暗号資産取引所「BitBank」を制裁指定»",
-        "url": "https://news.yahoo.co.jp/articles/7773f74d14764a853daa3ad68f2543efb101bb32",
         "source": "Yahoo",
         "date": ""
       }
@@ -16729,6 +16767,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "メタプラネット、1万BTC売却で換金能力を実証。信用格付け取得へ",
+        "url": "https://news.yahoo.co.jp/articles/f0fd28938e720adfa2e19b184051f2ce7c60c00d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日立、暗号資産・ステーブルコイン取引向けAML監視サービスを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/1756f7e5228658163815cfe6cdd37b559a0b9951",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "三井住友銀行ら、デジタル証券の二次流通でステーブルコイン活用のDvP決済実証完了",
         "url": "https://news.yahoo.co.jp/articles/d88285983e08b4ce83cb7c5b1e6b3cd18a4b2d1d",
         "source": "Yahoo",
@@ -16749,24 +16799,24 @@
       {
         "title": "XRPレジャー上のx402決済が1000万件突破、3カ月未満で10倍に",
         "url": "https://news.yahoo.co.jp/articles/a34a292d9a672782278f43630dd289705fe341ca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴールドペサ、ユニスワップv4フック悪用で約11.4万ドル流出。ロジックエラーが原因",
-        "url": "https://news.yahoo.co.jp/articles/136a1d8c031cbb9084ac6de5628036617ca31bce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マイナウォレット、JPYCの発行・償還に対応",
-        "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "メタプラネット、1万BTC売却で換金能力を実証。信用格付け取得へ",
+        "url": "https://news.yahoo.co.jp/articles/f0fd28938e720adfa2e19b184051f2ce7c60c00d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日立、暗号資産・ステーブルコイン取引向けAML監視サービスを提供開始",
+        "url": "https://news.yahoo.co.jp/articles/1756f7e5228658163815cfe6cdd37b559a0b9951",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "三井住友銀行ら、デジタル証券の二次流通でステーブルコイン活用のDvP決済実証完了",
         "url": "https://news.yahoo.co.jp/articles/d88285983e08b4ce83cb7c5b1e6b3cd18a4b2d1d",
         "source": "Yahoo",
@@ -16787,18 +16837,6 @@
       {
         "title": "XRPレジャー上のx402決済が1000万件突破、3カ月未満で10倍に",
         "url": "https://news.yahoo.co.jp/articles/a34a292d9a672782278f43630dd289705fe341ca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴールドペサ、ユニスワップv4フック悪用で約11.4万ドル流出。ロジックエラーが原因",
-        "url": "https://news.yahoo.co.jp/articles/136a1d8c031cbb9084ac6de5628036617ca31bce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マイナウォレット、JPYCの発行・償還に対応",
-        "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
         "source": "Yahoo",
         "date": ""
       }
