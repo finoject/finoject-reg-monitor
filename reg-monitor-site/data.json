@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T03:23:32.640Z",
+  "generatedAt": "2026-10-07T04:54:33.317Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,21 @@
         "金融審議会成長企業資金供給ワーキング・グループ第2回が令和8年10月9日9時から中央合同庁舎第7号館12階で開催され、ヒアリング・事務局説明・討議が予定される。",
         "一般傍聴席は用意されないが、金融庁公式YouTubeチャンネルでの配信により会議内容を確認でき、会議後に議事録が金融庁ウェブサイトで公表される。",
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）デジタルベリー",
+      "url": "https://www.jpx.co.jp/news/1031/20261007_01.html",
+      "date": "2026-10-07",
+      "detectedAt": "2026-10-07T04:54:33.317Z",
+      "enriched": "2026-10-07T04:54:37.901Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）デジタルベリー（コード645A）の10月8日新規上場時に、板中心値段500円から上限1,150円（更新値幅25円・10分）、下限375円（更新値幅3分）の範囲で気配を運用し、初値決定前は成行注文を禁止する。",
+        "東証の取引参加者は、同銘柄の新規上場日について規定された気配更新ルール、注文受付価格範囲（125円～2,000円）、成行呼値禁止に従い取引システムで対応する必要がある。",
+        "新規上場日は制限値幅が適用されず、初値決定後に初値を基準値段として制限値幅が適用される（東証上場規則に基づく新規上場銘柄の初値決定前気配運用）。"
       ],
       "aiSumV": 3
     },
@@ -16599,6 +16614,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "パクソスの「USDG」、アービトラムで提供開始。レイヤーゼロのOFT採用",
+        "url": "https://news.yahoo.co.jp/articles/8898e0d81c91c76ca25e4725939ed9349bd99dab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "OKX、サークルやリップルら4社から戦略的出資。RWAのトークン化推進へ",
+        "url": "https://news.yahoo.co.jp/articles/75b9a84b48a399bcd4565e24b4d7a48ce5fe81e1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国内暗号資産の現物取引高、8月は7643億円に。前月比13%増＝JVCEA",
         "url": "https://news.yahoo.co.jp/articles/01097ce7c6288e96a347c1b330bda3f6d8b729a2",
         "source": "Yahoo",
@@ -16619,24 +16646,24 @@
       {
         "title": "バイナンス、ブラジルで国際暗号資産送金の申告要件を導入へ",
         "url": "https://news.yahoo.co.jp/articles/6a29d527237c8d697edfdf5a9df98cec61bb392b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米CFTC、暗号資産取引所向け「CTX」・「CAM」構想を提示。連邦規制の選択肢整備へ",
-        "url": "https://news.yahoo.co.jp/articles/e30613f0534ab2e1ca93a96b595b95ce83e3c14c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米FinCEN、暗号資産のウォレット規制案を撤回。ミキシングのマネロン懸念認定も取り下げ",
-        "url": "https://news.yahoo.co.jp/articles/4a02762cb440959b856c967876ca0bb2621a2cc9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "パクソスの「USDG」、アービトラムで提供開始。レイヤーゼロのOFT採用",
+        "url": "https://news.yahoo.co.jp/articles/8898e0d81c91c76ca25e4725939ed9349bd99dab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "OKX、サークルやリップルら4社から戦略的出資。RWAのトークン化推進へ",
+        "url": "https://news.yahoo.co.jp/articles/75b9a84b48a399bcd4565e24b4d7a48ce5fe81e1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国内暗号資産の現物取引高、8月は7643億円に。前月比13%増＝JVCEA",
         "url": "https://news.yahoo.co.jp/articles/01097ce7c6288e96a347c1b330bda3f6d8b729a2",
         "source": "Yahoo",
@@ -16657,18 +16684,6 @@
       {
         "title": "バイナンス、ブラジルで国際暗号資産送金の申告要件を導入へ",
         "url": "https://news.yahoo.co.jp/articles/6a29d527237c8d697edfdf5a9df98cec61bb392b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米CFTC、暗号資産取引所向け「CTX」・「CAM」構想を提示。連邦規制の選択肢整備へ",
-        "url": "https://news.yahoo.co.jp/articles/e30613f0534ab2e1ca93a96b595b95ce83e3c14c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米FinCEN、暗号資産のウォレット規制案を撤回。ミキシングのマネロン懸念認定も取り下げ",
-        "url": "https://news.yahoo.co.jp/articles/4a02762cb440959b856c967876ca0bb2621a2cc9",
         "source": "Yahoo",
         "date": ""
       }
@@ -16827,6 +16842,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "パクソスの「USDG」、アービトラムで提供開始。レイヤーゼロのOFT採用",
+        "url": "https://news.yahoo.co.jp/articles/8898e0d81c91c76ca25e4725939ed9349bd99dab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "OKX、サークルやリップルら4社から戦略的出資。RWAのトークン化推進へ",
+        "url": "https://news.yahoo.co.jp/articles/75b9a84b48a399bcd4565e24b4d7a48ce5fe81e1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JPモルガンが助言、ソラナ財団が金融機関向け決済基盤を発表",
+        "url": "https://news.yahoo.co.jp/articles/9bbcf9cdeb34be539980e8b07cf9d5216e55b252",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SAP、ERPに決済機能を直接組み込む「SAP Pay」を発表 米英で提供、決済市場に参入",
+        "url": "https://news.yahoo.co.jp/articles/25a5a8d1e7554edd57615a6fc1057e5cfbc450bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "予測市場での「自分の選挙への賭け」禁止──米下院議員が法案提出",
         "url": "https://news.yahoo.co.jp/articles/92d71f71892fa97cdb834a532928621a17b20026",
         "source": "Yahoo",
@@ -16835,36 +16874,36 @@
       {
         "title": "アジア太平洋地域の消費者調査、46%が「ステーブルコインを5年以内に利用」＝Visa",
         "url": "https://news.yahoo.co.jp/articles/f07719516cc8b7577c3f707ed3ce861fd3f6c954",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産税制、分離課税の先へ──ブロックチェーン推進協会（BCCC）のXスペースで議論した「使える制度」【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/87a13982f011b3afce009316c6661127964ea61e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国LG、金融機関向けデジタル資産基盤を発表──米サークルなど5社と協業",
-        "url": "https://news.yahoo.co.jp/articles/fa43a200dd79e90fd74fd744c8d3e71c66744d5f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メタプラネット、1万BTC売却で換金能力を実証。信用格付け取得へ",
-        "url": "https://news.yahoo.co.jp/articles/f0fd28938e720adfa2e19b184051f2ce7c60c00d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日立、暗号資産・ステーブルコイン取引向けAML監視サービスを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/1756f7e5228658163815cfe6cdd37b559a0b9951",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "パクソスの「USDG」、アービトラムで提供開始。レイヤーゼロのOFT採用",
+        "url": "https://news.yahoo.co.jp/articles/8898e0d81c91c76ca25e4725939ed9349bd99dab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "OKX、サークルやリップルら4社から戦略的出資。RWAのトークン化推進へ",
+        "url": "https://news.yahoo.co.jp/articles/75b9a84b48a399bcd4565e24b4d7a48ce5fe81e1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JPモルガンが助言、ソラナ財団が金融機関向け決済基盤を発表",
+        "url": "https://news.yahoo.co.jp/articles/9bbcf9cdeb34be539980e8b07cf9d5216e55b252",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SAP、ERPに決済機能を直接組み込む「SAP Pay」を発表 米英で提供、決済市場に参入",
+        "url": "https://news.yahoo.co.jp/articles/25a5a8d1e7554edd57615a6fc1057e5cfbc450bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "予測市場での「自分の選挙への賭け」禁止──米下院議員が法案提出",
         "url": "https://news.yahoo.co.jp/articles/92d71f71892fa97cdb834a532928621a17b20026",
         "source": "Yahoo",
@@ -16875,33 +16914,15 @@
         "url": "https://news.yahoo.co.jp/articles/f07719516cc8b7577c3f707ed3ce861fd3f6c954",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "暗号資産税制、分離課税の先へ──ブロックチェーン推進協会（BCCC）のXスペースで議論した「使える制度」【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/87a13982f011b3afce009316c6661127964ea61e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国LG、金融機関向けデジタル資産基盤を発表──米サークルなど5社と協業",
-        "url": "https://news.yahoo.co.jp/articles/fa43a200dd79e90fd74fd744c8d3e71c66744d5f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "メタプラネット、1万BTC売却で換金能力を実証。信用格付け取得へ",
-        "url": "https://news.yahoo.co.jp/articles/f0fd28938e720adfa2e19b184051f2ce7c60c00d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日立、暗号資産・ステーブルコイン取引向けAML監視サービスを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/1756f7e5228658163815cfe6cdd37b559a0b9951",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "父からもらった「80万円」を銀行に入金したところ、窓口で「お金の出どころ」を聞かれて不安に",
+        "url": "https://news.yahoo.co.jp/articles/1866e4a986e75f66e5dcf94f631ecc310e499112",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "日銀で「送金システム不備」内部通報したら「庁舎立ち入り禁止」",
         "url": "https://news.yahoo.co.jp/articles/9d959835090fd1223acca19c52ef623aaaf921ab",
@@ -16929,18 +16950,18 @@
       {
         "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
         "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
-        "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "父からもらった「80万円」を銀行に入金したところ、窓口で「お金の出どころ」を聞かれて不安に",
+        "url": "https://news.yahoo.co.jp/articles/1866e4a986e75f66e5dcf94f631ecc310e499112",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日銀で「送金システム不備」内部通報したら「庁舎立ち入り禁止」",
         "url": "https://news.yahoo.co.jp/articles/9d959835090fd1223acca19c52ef623aaaf921ab",
         "source": "Yahoo",
@@ -16967,18 +16988,18 @@
       {
         "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
         "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
-        "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "父からもらった「80万円」を銀行に入金したところ、窓口で「お金の出どころ」を聞かれて不安に",
+        "url": "https://news.yahoo.co.jp/articles/1866e4a986e75f66e5dcf94f631ecc310e499112",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日銀で「送金システム不備」内部通報したら「庁舎立ち入り禁止」",
         "url": "https://news.yahoo.co.jp/articles/9d959835090fd1223acca19c52ef623aaaf921ab",
         "source": "Yahoo",
@@ -17005,12 +17026,6 @@
       {
         "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
         "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来",
-        "url": "https://news.yahoo.co.jp/articles/b52a25e99783d57776d44e8fa606498fd3605d24",
         "source": "Yahoo",
         "date": ""
       }
