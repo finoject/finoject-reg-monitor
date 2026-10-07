@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:25:29.471Z",
+  "generatedAt": "2026-10-07T07:56:15.555Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,37 @@
         "金融審議会成長企業資金供給ワーキング・グループ第2回が令和8年10月9日9時から中央合同庁舎第7号館12階で開催され、ヒアリング・事務局説明・討議が予定される。",
         "一般傍聴席は用意されないが、金融庁公式YouTubeチャンネルでの配信により会議内容を確認でき、会議後に議事録が金融庁ウェブサイトで公表される。",
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-10-07",
+      "detectedAt": "2026-10-07T07:56:15.555Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-10-07T07:56:21.115Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE,JPX総研]TOPIX等の株価指数における構成銘柄の定期入替等について",
+      "url": "https://www.jpx.co.jp/news/6030/20261007-01.html",
+      "date": "2026-10-07",
+      "detectedAt": "2026-10-07T07:56:15.555Z",
+      "enriched": "2026-10-07T07:56:21.115Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研が算出するTOPIXおよびTOPIX Next-tier等の株価指数について、2026年10月30日を実施日として構成銘柄の定期入替を実施し、新規追加銘柄35銘柄（スタンダード22、グロース13）を決定した。",
+        "指数先物取引・指数オプション取引等の参加者は、定期入替による構成銘柄の変更内容を十分に留意して取引を行う必要がある。TOPIXの移行措置銘柄については2027年10月に再評価予定。",
+        "本入替はJPX総研が公表したTOPIX見直しの一環であり、東証スタンダード市場TOP20、東証グロース市場Core指数・250指数等複数の指数についても同時に銘柄構成の見直しが実施される。"
       ],
       "aiSumV": 3
     },
@@ -938,22 +969,6 @@
         "本公表は2026年9月30日付。11月分日程は10月30日17時に、2027年1～3月分は12月25日17時に改めて公表予定。市場動向により回数変更の可能性あり。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-09-30",
-      "detectedAt": "2026-09-30T07:06:22.330Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-09-30T07:06:27.669Z"
     },
     {
       "agency": "日本銀行",
@@ -16614,6 +16629,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ハイパーリキッド開発会社、本社はシンガポールもMAS管轄外か＝報道",
+        "url": "https://news.yahoo.co.jp/articles/64b3701de711d07ff33644274755712a96a247ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "香港、金融戦略を「規模から機能へ」転換。人民元・金・暗号資産規制を拡充",
         "url": "https://news.yahoo.co.jp/articles/69116ae40943938a9b7f5c753ae9c35a6338adaa",
         "source": "Yahoo",
@@ -16640,18 +16661,18 @@
       {
         "title": "Zcashの政策団体PGPZ、米国でロビー活動登録。クラリティ法案など対象",
         "url": "https://news.yahoo.co.jp/articles/3556b61b92f91dd52d5e99c5606abc5a4cbbf864",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、上昇トライアングル出現も、次の材料待ち【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/7a53866e210ba58901266b5a2958d65d325f8fd2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ハイパーリキッド開発会社、本社はシンガポールもMAS管轄外か＝報道",
+        "url": "https://news.yahoo.co.jp/articles/64b3701de711d07ff33644274755712a96a247ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "香港、金融戦略を「規模から機能へ」転換。人民元・金・暗号資産規制を拡充",
         "url": "https://news.yahoo.co.jp/articles/69116ae40943938a9b7f5c753ae9c35a6338adaa",
         "source": "Yahoo",
@@ -16678,12 +16699,6 @@
       {
         "title": "Zcashの政策団体PGPZ、米国でロビー活動登録。クラリティ法案など対象",
         "url": "https://news.yahoo.co.jp/articles/3556b61b92f91dd52d5e99c5606abc5a4cbbf864",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、上昇トライアングル出現も、次の材料待ち【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/7a53866e210ba58901266b5a2958d65d325f8fd2",
         "source": "Yahoo",
         "date": ""
       }
@@ -16842,6 +16857,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "韓国LG CNS、金融機関向けデジタル資産基盤「KITL」提供開始。サークルら5社・団体と協業",
+        "url": "https://news.yahoo.co.jp/articles/fc68a7acf07aa53a6b299ed3d85fe3c8e98cf59e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "パクソスの「USDG」、アービトラムで提供開始。レイヤーゼロのOFT採用",
         "url": "https://news.yahoo.co.jp/articles/8898e0d81c91c76ca25e4725939ed9349bd99dab",
         "source": "Yahoo",
@@ -16868,18 +16889,18 @@
       {
         "title": "予測市場での「自分の選挙への賭け」禁止──米下院議員が法案提出",
         "url": "https://news.yahoo.co.jp/articles/92d71f71892fa97cdb834a532928621a17b20026",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アジア太平洋地域の消費者調査、46%が「ステーブルコインを5年以内に利用」＝Visa",
-        "url": "https://news.yahoo.co.jp/articles/f07719516cc8b7577c3f707ed3ce861fd3f6c954",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "韓国LG CNS、金融機関向けデジタル資産基盤「KITL」提供開始。サークルら5社・団体と協業",
+        "url": "https://news.yahoo.co.jp/articles/fc68a7acf07aa53a6b299ed3d85fe3c8e98cf59e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "パクソスの「USDG」、アービトラムで提供開始。レイヤーゼロのOFT採用",
         "url": "https://news.yahoo.co.jp/articles/8898e0d81c91c76ca25e4725939ed9349bd99dab",
         "source": "Yahoo",
@@ -16908,15 +16929,15 @@
         "url": "https://news.yahoo.co.jp/articles/92d71f71892fa97cdb834a532928621a17b20026",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "アジア太平洋地域の消費者調査、46%が「ステーブルコインを5年以内に利用」＝Visa",
-        "url": "https://news.yahoo.co.jp/articles/f07719516cc8b7577c3f707ed3ce861fd3f6c954",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "70代女性が“ニセ警察詐欺”の被害に 暗号資産や現金計675万円をだまし取られる 新潟・西区",
+        "url": "https://news.yahoo.co.jp/articles/b6acea9c78212f3a740e4d89e6a1fdc62b452704",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "父からもらった「80万円」を銀行に入金したところ、窓口で「お金の出どころ」を聞かれて不安に",
         "url": "https://news.yahoo.co.jp/articles/1866e4a986e75f66e5dcf94f631ecc310e499112",
@@ -16944,18 +16965,18 @@
       {
         "title": "SMBC日興証券、国内投資家向けDeFi基盤開発へ。ネザーマインド・ユニスワップラボ・Base・Nyxらと",
         "url": "https://news.yahoo.co.jp/articles/e3ba2633672eeffcda8957096b675d1075f78523",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
-        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "70代女性が“ニセ警察詐欺”の被害に 暗号資産や現金計675万円をだまし取られる 新潟・西区",
+        "url": "https://news.yahoo.co.jp/articles/b6acea9c78212f3a740e4d89e6a1fdc62b452704",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "父からもらった「80万円」を銀行に入金したところ、窓口で「お金の出どころ」を聞かれて不安に",
         "url": "https://news.yahoo.co.jp/articles/1866e4a986e75f66e5dcf94f631ecc310e499112",
         "source": "Yahoo",
@@ -16982,18 +17003,18 @@
       {
         "title": "SMBC日興証券、国内投資家向けDeFi基盤開発へ。ネザーマインド・ユニスワップラボ・Base・Nyxらと",
         "url": "https://news.yahoo.co.jp/articles/e3ba2633672eeffcda8957096b675d1075f78523",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
-        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "70代女性が“ニセ警察詐欺”の被害に 暗号資産や現金計675万円をだまし取られる 新潟・西区",
+        "url": "https://news.yahoo.co.jp/articles/b6acea9c78212f3a740e4d89e6a1fdc62b452704",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "父からもらった「80万円」を銀行に入金したところ、窓口で「お金の出どころ」を聞かれて不安に",
         "url": "https://news.yahoo.co.jp/articles/1866e4a986e75f66e5dcf94f631ecc310e499112",
         "source": "Yahoo",
@@ -17020,12 +17041,6 @@
       {
         "title": "SMBC日興証券、国内投資家向けDeFi基盤開発へ。ネザーマインド・ユニスワップラボ・Base・Nyxらと",
         "url": "https://news.yahoo.co.jp/articles/e3ba2633672eeffcda8957096b675d1075f78523",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める",
-        "url": "https://news.yahoo.co.jp/articles/0e169e43209e261e4bd545f959961e253d9540a7",
         "source": "Yahoo",
         "date": ""
       }
