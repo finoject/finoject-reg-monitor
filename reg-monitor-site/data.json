@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:15:06.114Z",
+  "generatedAt": "2026-10-07T23:50:24.992Z",
   "items": [
     {
       "agency": "金融庁",
@@ -15,6 +15,22 @@
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "業種別・地域別直接投資（2026年第2四半期）",
+      "url": "https://www.boj.or.jp/statistics/br/bop_06/bpdata/diiqcy.htm",
+      "date": "2026-10-08",
+      "detectedAt": "2026-10-07T23:50:24.992Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年第1四半期の業種別・地域別直接投資について、直接投資収益と直接投資フローのデータをXLSS形式で公表した。",
+        "統計ユーザーおよび研究機関が公表データを利用して投資動向の分析・把握に活用する。",
+        "2026年7月8日付で日本銀行が統計データを公開、直接投資収益（69KB）と直接投資フロー（94KB）を別途ファイルで提供。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-07T23:50:29.342Z"
     },
     {
       "agency": "日本証券業協会",
@@ -10617,21 +10633,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本銀行",
-      "title": "業種別・地域別直接投資（2026年第1四半期）",
-      "url": "https://www.boj.or.jp/statistics/br/bop_06/bpdata/diiqcy.htm",
-      "date": "2026-07-07",
-      "detectedAt": "2026-07-08T01:08:22.579Z",
-      "enriched": "2026-07-08T01:08:28.578Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年第1四半期の業種別・地域別直接投資について、直接投資収益と直接投資フローのデータをXLSS形式で公表した。",
-        "統計ユーザーおよび研究機関が公表データを利用して投資動向の分析・把握に活用する。",
-        "2026年7月8日付で日本銀行が統計データを公開、直接投資収益（69KB）と直接投資フロー（94KB）を別途ファイルで提供。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "金融庁",
       "title": "「犯罪による収益の移転防止に関する法律施行令第十七条の二及び第十七条の三の規定に基づき国又は地域を指定する件の一部を改正する件（案）」に対するパブリックコメントの結果等の公表",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20260707-2/20260707-2.html",
@@ -16629,6 +16630,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "米下院金融委員長「SECとCFTCの措置はクラリティ法案の代わりにならない」",
+        "url": "https://news.yahoo.co.jp/articles/225afd53099b3304d14af3e3bab442fa395c91ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Coinbase Pro、年末に復活へ──Deribit統合で「Coinbase Global Exchange」誕生",
+        "url": "https://news.yahoo.co.jp/articles/e2407c8315505bee575e1048cc83cacd66a3f1ce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIは「生涯最大のバブル」も、投資余地なおあり-ノボグラーツ氏",
         "url": "https://news.yahoo.co.jp/articles/581038de0609e8974eb1bc93086c385c3e8711ea",
         "source": "Yahoo",
@@ -16649,24 +16662,24 @@
       {
         "title": "「決済」の主役は誰になるのか──ウォレット・カード・企業が挑む新しい顧客接点【N.Avenue club 4期3回ラウンドテーブル・レポート】",
         "url": "https://news.yahoo.co.jp/articles/e944e9d2d9d1915ec827620db2f36454819dec41",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパーリキッド開発会社、本社はシンガポールもMAS管轄外か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/64b3701de711d07ff33644274755712a96a247ea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港、金融戦略を「規模から機能へ」転換。人民元・金・暗号資産規制を拡充",
-        "url": "https://news.yahoo.co.jp/articles/69116ae40943938a9b7f5c753ae9c35a6338adaa",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米下院金融委員長「SECとCFTCの措置はクラリティ法案の代わりにならない」",
+        "url": "https://news.yahoo.co.jp/articles/225afd53099b3304d14af3e3bab442fa395c91ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Coinbase Pro、年末に復活へ──Deribit統合で「Coinbase Global Exchange」誕生",
+        "url": "https://news.yahoo.co.jp/articles/e2407c8315505bee575e1048cc83cacd66a3f1ce",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIは「生涯最大のバブル」も、投資余地なおあり-ノボグラーツ氏",
         "url": "https://news.yahoo.co.jp/articles/581038de0609e8974eb1bc93086c385c3e8711ea",
         "source": "Yahoo",
@@ -16687,18 +16700,6 @@
       {
         "title": "「決済」の主役は誰になるのか──ウォレット・カード・企業が挑む新しい顧客接点【N.Avenue club 4期3回ラウンドテーブル・レポート】",
         "url": "https://news.yahoo.co.jp/articles/e944e9d2d9d1915ec827620db2f36454819dec41",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ハイパーリキッド開発会社、本社はシンガポールもMAS管轄外か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/64b3701de711d07ff33644274755712a96a247ea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港、金融戦略を「規模から機能へ」転換。人民元・金・暗号資産規制を拡充",
-        "url": "https://news.yahoo.co.jp/articles/69116ae40943938a9b7f5c753ae9c35a6338adaa",
         "source": "Yahoo",
         "date": ""
       }
@@ -17647,6 +17648,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "個人情報保護委員会、多発する情報漏えいに注意喚起 利用終えたデータは遅滞なく破棄",
+        "url": "https://news.yahoo.co.jp/articles/15d58d066a229dcae868e0493abf261fa09ba075",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "訴訟・逮捕・SNS遮断まで",
+        "url": "https://news.yahoo.co.jp/articles/8d9ff35cccad8c063a4820980ff637bd15d6a06e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "相次ぐ情報漏えいをうけてシステムの安全管理強化など緊急の注意喚起 個人情報保護委員会",
         "url": "https://news.yahoo.co.jp/articles/a5fcfdfbf13e6687d7dc36140ea620d602f38842",
         "source": "Yahoo",
@@ -17667,24 +17680,24 @@
       {
         "title": "未曽有の“情報漏洩”に、古川デジタル相「自分で守る」国民への呼びかけが波紋《国は守らないの？》疑問の声",
         "url": "https://news.yahoo.co.jp/articles/8f7eaa40e3ea895da938af948ea395e1b5ea06d3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第10弾】「報告書を行政文書としないのは違法」の公益通報に 陸上幕僚監部「事実確認されず」と通知 陸自思想調査",
-        "url": "https://news.yahoo.co.jp/articles/1d5e923263eacd18592e7c8525abce4710caa6c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "企業、問われるデータ管理 長期保管でタイムズ被害拡大 不正アクセス",
-        "url": "https://news.yahoo.co.jp/articles/7dd3ca57589dc0dfc042d87c438563329b175d0d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "個人情報保護委員会、多発する情報漏えいに注意喚起 利用終えたデータは遅滞なく破棄",
+        "url": "https://news.yahoo.co.jp/articles/15d58d066a229dcae868e0493abf261fa09ba075",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "訴訟・逮捕・SNS遮断まで",
+        "url": "https://news.yahoo.co.jp/articles/8d9ff35cccad8c063a4820980ff637bd15d6a06e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "相次ぐ情報漏えいをうけてシステムの安全管理強化など緊急の注意喚起 個人情報保護委員会",
         "url": "https://news.yahoo.co.jp/articles/a5fcfdfbf13e6687d7dc36140ea620d602f38842",
         "source": "Yahoo",
@@ -17705,24 +17718,24 @@
       {
         "title": "未曽有の“情報漏洩”に、古川デジタル相「自分で守る」国民への呼びかけが波紋《国は守らないの？》疑問の声",
         "url": "https://news.yahoo.co.jp/articles/8f7eaa40e3ea895da938af948ea395e1b5ea06d3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第10弾】「報告書を行政文書としないのは違法」の公益通報に 陸上幕僚監部「事実確認されず」と通知 陸自思想調査",
-        "url": "https://news.yahoo.co.jp/articles/1d5e923263eacd18592e7c8525abce4710caa6c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "企業、問われるデータ管理 長期保管でタイムズ被害拡大 不正アクセス",
-        "url": "https://news.yahoo.co.jp/articles/7dd3ca57589dc0dfc042d87c438563329b175d0d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "個人情報保護委員会、多発する情報漏えいに注意喚起 利用終えたデータは遅滞なく破棄",
+        "url": "https://news.yahoo.co.jp/articles/15d58d066a229dcae868e0493abf261fa09ba075",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "訴訟・逮捕・SNS遮断まで",
+        "url": "https://news.yahoo.co.jp/articles/8d9ff35cccad8c063a4820980ff637bd15d6a06e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "相次ぐ情報漏えいをうけてシステムの安全管理強化など緊急の注意喚起 個人情報保護委員会",
         "url": "https://news.yahoo.co.jp/articles/a5fcfdfbf13e6687d7dc36140ea620d602f38842",
         "source": "Yahoo",
@@ -17743,18 +17756,6 @@
       {
         "title": "未曽有の“情報漏洩”に、古川デジタル相「自分で守る」国民への呼びかけが波紋《国は守らないの？》疑問の声",
         "url": "https://news.yahoo.co.jp/articles/8f7eaa40e3ea895da938af948ea395e1b5ea06d3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自第10弾】「報告書を行政文書としないのは違法」の公益通報に 陸上幕僚監部「事実確認されず」と通知 陸自思想調査",
-        "url": "https://news.yahoo.co.jp/articles/1d5e923263eacd18592e7c8525abce4710caa6c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "企業、問われるデータ管理 長期保管でタイムズ被害拡大 不正アクセス",
-        "url": "https://news.yahoo.co.jp/articles/7dd3ca57589dc0dfc042d87c438563329b175d0d",
         "source": "Yahoo",
         "date": ""
       }
