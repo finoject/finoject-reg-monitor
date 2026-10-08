@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T06:54:39.790Z",
+  "generatedAt": "2026-10-08T08:25:39.960Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,36 @@
         "金融審議会成長企業資金供給ワーキング・グループ第2回が令和8年10月9日9時から中央合同庁舎第7号館12階で開催され、ヒアリング・事務局説明・討議が予定される。",
         "一般傍聴席は用意されないが、金融庁公式YouTubeチャンネルでの配信により会議内容を確認でき、会議後に議事録が金融庁ウェブサイトで公表される。",
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：グローバルＸ 中国半導体・トップ10 ETF（コード650A）等2銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261008-01.html",
+      "date": "2026-10-08",
+      "detectedAt": "2026-10-08T08:25:39.960Z",
+      "enriched": "2026-10-08T08:25:47.551Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "グローバルX 中国半導体・トップ10 ETF（650A）およびグローバルX 国土強靭化-日本株式 ETF（651A）が2026年10月15日に東証に新規上場される。",
+        "これら2銘柄はETF等（1口）呼値テーブルが適用され、売買単位が1口のETF等に適用される呼値の単位で取引される。",
+        "上場日は2026年10月15日、取引参加者および市場関係者は当該呼値単位に基づき取引システムを整備・確認する必要がある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]かぶオプの年度半期ベース取引高及び取引想定元本が過去最高を記録（2026年度上半期）",
+      "url": "https://www.jpx.co.jp/news/2041/20261008-01.html",
+      "date": "2026-10-08",
+      "detectedAt": "2026-10-08T08:25:39.960Z",
+      "enriched": "2026-10-08T08:25:47.551Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年度上半期（4月～9月）のかぶオプ取引高が319万1,908単位、取引想定元本が約6,952億円となり、年度半期ベースで過去最高を記録。8月のマーケットメイク対象銘柄拡大後、投資家層の利用が拡大。",
+        "大阪取引所が2026年11月より、かぶオプのマーケットメイク対象銘柄に純金上場信託（1540）とキオクシアホールディングス（285A）の2銘柄を新たに追加する予定。投資家の取引ニーズへの対応。",
+        "かぶオプの取引想定元本（年度累計）は史上初となる1兆円到達が視野に入っており、大阪取引所は市場利便性向上への取り組みを継続。取引ランキング等の情報配信で投資家支援を実施中。"
       ],
       "aiSumV": 3
     },
@@ -16616,6 +16646,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "米サークル、SAP系企業とUSDC・EURCを業務システムへ統合",
+        "url": "https://news.yahoo.co.jp/articles/81e8aa23391ba7480963fdb989fea390c8e83c69",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産税制、分離課税の先へ──ブロックチェーン推進協会（BCCC）のXスペースで議論した「使える制度」【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/87a13982f011b3afce009316c6661127964ea61e",
         "source": "Yahoo",
@@ -16642,18 +16678,18 @@
       {
         "title": "金融庁、デジタル金融に13.3億円を予算要求──前年度の約15倍",
         "url": "https://news.yahoo.co.jp/articles/159a6a590980e01c3604e60759ba506a04d39d79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金券ショップでチケットを買う前に。「転売禁止」の券は会場に入れないことも",
-        "url": "https://news.yahoo.co.jp/articles/2a3b865534a17baa36a4c0d0a20830b1d4c9bd60",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "米サークル、SAP系企業とUSDC・EURCを業務システムへ統合",
+        "url": "https://news.yahoo.co.jp/articles/81e8aa23391ba7480963fdb989fea390c8e83c69",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産税制、分離課税の先へ──ブロックチェーン推進協会（BCCC）のXスペースで議論した「使える制度」【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/87a13982f011b3afce009316c6661127964ea61e",
         "source": "Yahoo",
@@ -16682,15 +16718,33 @@
         "url": "https://news.yahoo.co.jp/articles/159a6a590980e01c3604e60759ba506a04d39d79",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "金券ショップでチケットを買う前に。「転売禁止」の券は会場に入れないことも",
-        "url": "https://news.yahoo.co.jp/articles/2a3b865534a17baa36a4c0d0a20830b1d4c9bd60",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "ソラナDEX「Orca」と融資プロトコル「Loopscale」の運営チームが合併、新組織「Formation」でトークン化資産市場の構築へ",
+        "url": "https://news.yahoo.co.jp/articles/fbb7b1fec38a74ad7622065f008972661651d5e5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ポリゴンの決済基盤「Open Money Stack」がトロン対応、USDTと銀行決済網を接続",
+        "url": "https://news.yahoo.co.jp/articles/a8ae15e668b76f5439696171527bc09cf7175234",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベース、暗号資産の15分・1時間単位の価格予測契約を提供",
+        "url": "https://news.yahoo.co.jp/articles/c279b2d1d5d890ef273b5f2d2a513c1353618684",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "南アフリカ大手銀行FNB、暗号資産取引を開始。現地取引所VALRと提携で",
+        "url": "https://news.yahoo.co.jp/articles/9b3655fa9d39f0f1d7d93fb5f9df26ad0801579b",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "専門家も「原因わからない」前代未聞のペースで相次ぐ不正アクセス AIで加速するサイバー攻撃の脅威 「氏名や顔は変えられない」免許証画像160万件漏えいで二次被害の恐れも なぜ日本企業が狙われる?",
         "url": "https://news.yahoo.co.jp/articles/26c61349c137ddb3042f308748286a01b21618f3",
@@ -16700,36 +16754,36 @@
       {
         "title": "サムスン、「Samsung Wallet」でUSDC国際送金を提供へ。ソラナとスイ採用",
         "url": "https://news.yahoo.co.jp/articles/1be8e43bce931d9db2599fef41f5b376725a0ee2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産業界、米中間選挙の献金で最大勢力に──約315億円、前回から3割増＝日経",
-        "url": "https://news.yahoo.co.jp/articles/13b49dff496d08610716e5f1c3909d5619df1549",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "2026年米国中間選挙展望：シナリオ別の経済政策と金融市場への影響",
-        "url": "https://news.yahoo.co.jp/articles/824504e0ab45703026474e6533763dc6e992e08e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米下院金融委員長「SECとCFTCの措置はクラリティ法案の代わりにならない」",
-        "url": "https://news.yahoo.co.jp/articles/225afd53099b3304d14af3e3bab442fa395c91ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase Pro、年末に復活へ──Deribit統合で「Coinbase Global Exchange」誕生",
-        "url": "https://news.yahoo.co.jp/articles/e2407c8315505bee575e1048cc83cacd66a3f1ce",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ソラナDEX「Orca」と融資プロトコル「Loopscale」の運営チームが合併、新組織「Formation」でトークン化資産市場の構築へ",
+        "url": "https://news.yahoo.co.jp/articles/fbb7b1fec38a74ad7622065f008972661651d5e5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ポリゴンの決済基盤「Open Money Stack」がトロン対応、USDTと銀行決済網を接続",
+        "url": "https://news.yahoo.co.jp/articles/a8ae15e668b76f5439696171527bc09cf7175234",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベース、暗号資産の15分・1時間単位の価格予測契約を提供",
+        "url": "https://news.yahoo.co.jp/articles/c279b2d1d5d890ef273b5f2d2a513c1353618684",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "南アフリカ大手銀行FNB、暗号資産取引を開始。現地取引所VALRと提携で",
+        "url": "https://news.yahoo.co.jp/articles/9b3655fa9d39f0f1d7d93fb5f9df26ad0801579b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "専門家も「原因わからない」前代未聞のペースで相次ぐ不正アクセス AIで加速するサイバー攻撃の脅威 「氏名や顔は変えられない」免許証画像160万件漏えいで二次被害の恐れも なぜ日本企業が狙われる?",
         "url": "https://news.yahoo.co.jp/articles/26c61349c137ddb3042f308748286a01b21618f3",
         "source": "Yahoo",
@@ -16738,30 +16792,6 @@
       {
         "title": "サムスン、「Samsung Wallet」でUSDC国際送金を提供へ。ソラナとスイ採用",
         "url": "https://news.yahoo.co.jp/articles/1be8e43bce931d9db2599fef41f5b376725a0ee2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産業界、米中間選挙の献金で最大勢力に──約315億円、前回から3割増＝日経",
-        "url": "https://news.yahoo.co.jp/articles/13b49dff496d08610716e5f1c3909d5619df1549",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "2026年米国中間選挙展望：シナリオ別の経済政策と金融市場への影響",
-        "url": "https://news.yahoo.co.jp/articles/824504e0ab45703026474e6533763dc6e992e08e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米下院金融委員長「SECとCFTCの措置はクラリティ法案の代わりにならない」",
-        "url": "https://news.yahoo.co.jp/articles/225afd53099b3304d14af3e3bab442fa395c91ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbase Pro、年末に復活へ──Deribit統合で「Coinbase Global Exchange」誕生",
-        "url": "https://news.yahoo.co.jp/articles/e2407c8315505bee575e1048cc83cacd66a3f1ce",
         "source": "Yahoo",
         "date": ""
       }
@@ -16920,6 +16950,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "米サークル、SAP系企業とUSDC・EURCを業務システムへ統合",
+        "url": "https://news.yahoo.co.jp/articles/81e8aa23391ba7480963fdb989fea390c8e83c69",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ポリゴンの決済基盤「Open Money Stack」がトロン対応、USDTと銀行決済網を接続",
+        "url": "https://news.yahoo.co.jp/articles/a8ae15e668b76f5439696171527bc09cf7175234",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "GSR、オンチェーン運用事業「Hare」立ち上げ、1億ドルの資金提供へ",
+        "url": "https://news.yahoo.co.jp/articles/d3445ae47f92fc573db0717163549156cfb44b1c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "南アフリカ大手銀行FNB、暗号資産取引を開始。現地取引所VALRと提携で",
+        "url": "https://news.yahoo.co.jp/articles/9b3655fa9d39f0f1d7d93fb5f9df26ad0801579b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カルダノ、規制対応のトークン規格「CIP-0113」がメインネットで利用可能に",
         "url": "https://news.yahoo.co.jp/articles/9fe185402c8b3f02ecaf13ffd006c3bfe50ab2f6",
         "source": "Yahoo",
@@ -16928,36 +16982,36 @@
       {
         "title": "カザフスタン中銀とテザーら、テンゲ連動ステーブルコインの検討で覚書",
         "url": "https://news.yahoo.co.jp/articles/4d1d00db7ef538f1ecbe1e7a853e1166e3d243bc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、米ドル以外の法定通貨連携を加速──中央銀行と自国ステーブルコインを共同検討へ",
-        "url": "https://news.yahoo.co.jp/articles/4921213bd285246f17e9fd5775c6ccc7d82d5b6b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サムスン、米国8200万台のGalaxyにUSDC導入へ──ソラナ・Suiで国際送金",
-        "url": "https://news.yahoo.co.jp/articles/f1b62a0c5545797d29e9401a2f9089a4fdfe04c9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サムスン、「Samsung Wallet」でUSDC国際送金を提供へ。ソラナとスイ採用",
-        "url": "https://news.yahoo.co.jp/articles/1be8e43bce931d9db2599fef41f5b376725a0ee2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンの決済基盤、トロンに対応──USDTを米銀行網と接続",
-        "url": "https://news.yahoo.co.jp/articles/9035c1fafa465f0fe071e3a8844008c660d08ee9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米サークル、SAP系企業とUSDC・EURCを業務システムへ統合",
+        "url": "https://news.yahoo.co.jp/articles/81e8aa23391ba7480963fdb989fea390c8e83c69",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ポリゴンの決済基盤「Open Money Stack」がトロン対応、USDTと銀行決済網を接続",
+        "url": "https://news.yahoo.co.jp/articles/a8ae15e668b76f5439696171527bc09cf7175234",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "GSR、オンチェーン運用事業「Hare」立ち上げ、1億ドルの資金提供へ",
+        "url": "https://news.yahoo.co.jp/articles/d3445ae47f92fc573db0717163549156cfb44b1c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "南アフリカ大手銀行FNB、暗号資産取引を開始。現地取引所VALRと提携で",
+        "url": "https://news.yahoo.co.jp/articles/9b3655fa9d39f0f1d7d93fb5f9df26ad0801579b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カルダノ、規制対応のトークン規格「CIP-0113」がメインネットで利用可能に",
         "url": "https://news.yahoo.co.jp/articles/9fe185402c8b3f02ecaf13ffd006c3bfe50ab2f6",
         "source": "Yahoo",
@@ -16966,30 +17020,6 @@
       {
         "title": "カザフスタン中銀とテザーら、テンゲ連動ステーブルコインの検討で覚書",
         "url": "https://news.yahoo.co.jp/articles/4d1d00db7ef538f1ecbe1e7a853e1166e3d243bc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、米ドル以外の法定通貨連携を加速──中央銀行と自国ステーブルコインを共同検討へ",
-        "url": "https://news.yahoo.co.jp/articles/4921213bd285246f17e9fd5775c6ccc7d82d5b6b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サムスン、米国8200万台のGalaxyにUSDC導入へ──ソラナ・Suiで国際送金",
-        "url": "https://news.yahoo.co.jp/articles/f1b62a0c5545797d29e9401a2f9089a4fdfe04c9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サムスン、「Samsung Wallet」でUSDC国際送金を提供へ。ソラナとスイ採用",
-        "url": "https://news.yahoo.co.jp/articles/1be8e43bce931d9db2599fef41f5b376725a0ee2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンの決済基盤、トロンに対応──USDTを米銀行網と接続",
-        "url": "https://news.yahoo.co.jp/articles/9035c1fafa465f0fe071e3a8844008c660d08ee9",
         "source": "Yahoo",
         "date": ""
       }
@@ -17710,6 +17740,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "神奈川県警の警察官が失効免許証を無断で持ち出し 捜査に不正利用か",
+        "url": "https://news.yahoo.co.jp/articles/38e099560aa8d3c97bc80c4b2b37725b87d4a55d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "不正アクセスで「大量の個人データが漏えい」 個人情報保護委員会が注意喚起、企業が今すべき対策は？",
         "url": "https://news.yahoo.co.jp/articles/3c05e207ed67b4dd576c9cbacf38a063edcf7a33",
         "source": "Yahoo",
@@ -17736,18 +17772,18 @@
       {
         "title": "個人情報保護委員会、多発する情報漏えいに注意喚起 利用終えたデータは遅滞なく破棄 パーク24の免許画像流出などで前倒し",
         "url": "https://news.yahoo.co.jp/articles/15d58d066a229dcae868e0493abf261fa09ba075",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "訴訟・逮捕・SNS遮断まで",
-        "url": "https://news.yahoo.co.jp/articles/8d9ff35cccad8c063a4820980ff637bd15d6a06e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "神奈川県警の警察官が失効免許証を無断で持ち出し 捜査に不正利用か",
+        "url": "https://news.yahoo.co.jp/articles/38e099560aa8d3c97bc80c4b2b37725b87d4a55d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "不正アクセスで「大量の個人データが漏えい」 個人情報保護委員会が注意喚起、企業が今すべき対策は？",
         "url": "https://news.yahoo.co.jp/articles/3c05e207ed67b4dd576c9cbacf38a063edcf7a33",
         "source": "Yahoo",
@@ -17774,18 +17810,18 @@
       {
         "title": "個人情報保護委員会、多発する情報漏えいに注意喚起 利用終えたデータは遅滞なく破棄 パーク24の免許画像流出などで前倒し",
         "url": "https://news.yahoo.co.jp/articles/15d58d066a229dcae868e0493abf261fa09ba075",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "訴訟・逮捕・SNS遮断まで",
-        "url": "https://news.yahoo.co.jp/articles/8d9ff35cccad8c063a4820980ff637bd15d6a06e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "神奈川県警の警察官が失効免許証を無断で持ち出し 捜査に不正利用か",
+        "url": "https://news.yahoo.co.jp/articles/38e099560aa8d3c97bc80c4b2b37725b87d4a55d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "不正アクセスで「大量の個人データが漏えい」 個人情報保護委員会が注意喚起、企業が今すべき対策は？",
         "url": "https://news.yahoo.co.jp/articles/3c05e207ed67b4dd576c9cbacf38a063edcf7a33",
         "source": "Yahoo",
@@ -17812,12 +17848,6 @@
       {
         "title": "個人情報保護委員会、多発する情報漏えいに注意喚起 利用終えたデータは遅滞なく破棄 パーク24の免許画像流出などで前倒し",
         "url": "https://news.yahoo.co.jp/articles/15d58d066a229dcae868e0493abf261fa09ba075",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "訴訟・逮捕・SNS遮断まで",
-        "url": "https://news.yahoo.co.jp/articles/8d9ff35cccad8c063a4820980ff637bd15d6a06e",
         "source": "Yahoo",
         "date": ""
       }
