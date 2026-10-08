@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T20:02:23.068Z",
+  "generatedAt": "2026-10-08T21:33:10.675Z",
   "items": [
     {
       "agency": "金融庁",
@@ -16722,6 +16722,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "AI開発の行き着く先",
+        "url": "https://news.yahoo.co.jp/expert/articles/176f9bc1b174ec53aaf000403229023927308058",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップル、米大手銀行と競合──ウォール街のお家芸「レバレッジ型ETFへの資金提供」で＝WSJ",
         "url": "https://news.yahoo.co.jp/articles/48f3b6e1411faa59de722d0e2266edc52d4d0ede",
         "source": "Yahoo",
@@ -16748,18 +16754,18 @@
       {
         "title": "コインベース、暗号資産の15分・1時間単位の価格予測契約を提供",
         "url": "https://news.yahoo.co.jp/articles/c279b2d1d5d890ef273b5f2d2a513c1353618684",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "南アフリカ大手銀行FNB、暗号資産取引を開始。現地取引所VALRと提携で",
-        "url": "https://news.yahoo.co.jp/articles/9b3655fa9d39f0f1d7d93fb5f9df26ad0801579b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "AI開発の行き着く先",
+        "url": "https://news.yahoo.co.jp/expert/articles/176f9bc1b174ec53aaf000403229023927308058",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップル、米大手銀行と競合──ウォール街のお家芸「レバレッジ型ETFへの資金提供」で＝WSJ",
         "url": "https://news.yahoo.co.jp/articles/48f3b6e1411faa59de722d0e2266edc52d4d0ede",
         "source": "Yahoo",
@@ -16786,12 +16792,6 @@
       {
         "title": "コインベース、暗号資産の15分・1時間単位の価格予測契約を提供",
         "url": "https://news.yahoo.co.jp/articles/c279b2d1d5d890ef273b5f2d2a513c1353618684",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "南アフリカ大手銀行FNB、暗号資産取引を開始。現地取引所VALRと提携で",
-        "url": "https://news.yahoo.co.jp/articles/9b3655fa9d39f0f1d7d93fb5f9df26ad0801579b",
         "source": "Yahoo",
         "date": ""
       }
