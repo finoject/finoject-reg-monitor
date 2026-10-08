@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T05:23:47.688Z",
+  "generatedAt": "2026-10-08T06:54:39.790Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,37 @@
         "金融審議会成長企業資金供給ワーキング・グループ第2回が令和8年10月9日9時から中央合同庁舎第7号館12階で開催され、ヒアリング・事務局説明・討議が予定される。",
         "一般傍聴席は用意されないが、金融庁公式YouTubeチャンネルでの配信により会議内容を確認でき、会議後に議事録が金融庁ウェブサイトで公表される。",
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-10-08",
+      "detectedAt": "2026-10-08T06:54:39.790Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-10-08T06:54:44.590Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融経済調査および統計作成事務に関する「短期リサーチスタッフ」の募集について",
+      "url": "https://www.boj.or.jp/about/recruit/rec261008a.htm",
+      "date": "2026-10-08",
+      "detectedAt": "2026-10-08T06:54:39.790Z",
+      "enriched": "2026-10-08T06:54:44.590Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行調査統計局が金融経済統計のデータ収集業務（自動化コード作成等）をサポートする短期リサーチスタッフを募集。2026年11月上旬から2027年2月下旬の間、原則週2回程度、時給1,395円。",
+        "大学院または大学在学中で統計作成事務やデータ管理に興味があり、データ収集・加工やデータベース構築に対応できる者が応募対象。履歴書・応募動機を2026年10月22日（木）までにメール送信で応募。",
+        "選考は書類審査と面接審査で実施。書類合格者には10月30日（金）までに当行からメール又は電話で面接審査のご連絡。勤務場所は日本銀行本店調査統計局。"
       ],
       "aiSumV": 3
     },
@@ -498,22 +529,6 @@
       ],
       "aiSumV": 3,
       "updated": true,
-      "enriched": "2026-10-02T07:17:29.910Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-10-02",
-      "detectedAt": "2026-10-02T07:17:24.900Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
       "enriched": "2026-10-02T07:17:29.910Z"
     },
     {
@@ -16905,6 +16920,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "カルダノ、規制対応のトークン規格「CIP-0113」がメインネットで利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/9fe185402c8b3f02ecaf13ffd006c3bfe50ab2f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "カザフスタン中銀とテザーら、テンゲ連動ステーブルコインの検討で覚書",
+        "url": "https://news.yahoo.co.jp/articles/4d1d00db7ef538f1ecbe1e7a853e1166e3d243bc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、米ドル以外の法定通貨連携を加速──中央銀行と自国ステーブルコインを共同検討へ",
+        "url": "https://news.yahoo.co.jp/articles/4921213bd285246f17e9fd5775c6ccc7d82d5b6b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サムスン、米国8200万台のGalaxyにUSDC導入へ──ソラナ・Suiで国際送金",
         "url": "https://news.yahoo.co.jp/articles/f1b62a0c5545797d29e9401a2f9089a4fdfe04c9",
         "source": "Yahoo",
@@ -16919,30 +16952,30 @@
       {
         "title": "ポリゴンの決済基盤、トロンに対応──USDTを米銀行網と接続",
         "url": "https://news.yahoo.co.jp/articles/9035c1fafa465f0fe071e3a8844008c660d08ee9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米CFTCとSEC、ビットコイン・イーサリアム・XRPなど「原則証券ではない」と共同解釈",
-        "url": "https://news.yahoo.co.jp/articles/b9467a68732652247938865a6f5e7f27a6c5400e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「決済」の主役は誰になるのか──ウォレット・カード・企業が挑む新しい顧客接点【N.Avenue club 4期3回ラウンドテーブル・レポート】",
-        "url": "https://news.yahoo.co.jp/articles/e944e9d2d9d1915ec827620db2f36454819dec41",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリマーケット、予測市場基盤「Protocol V2」の本番導入開始",
-        "url": "https://news.yahoo.co.jp/articles/640b163fbc40a4bd5ff584d557432f86ad8e588b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "カルダノ、規制対応のトークン規格「CIP-0113」がメインネットで利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/9fe185402c8b3f02ecaf13ffd006c3bfe50ab2f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "カザフスタン中銀とテザーら、テンゲ連動ステーブルコインの検討で覚書",
+        "url": "https://news.yahoo.co.jp/articles/4d1d00db7ef538f1ecbe1e7a853e1166e3d243bc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、米ドル以外の法定通貨連携を加速──中央銀行と自国ステーブルコインを共同検討へ",
+        "url": "https://news.yahoo.co.jp/articles/4921213bd285246f17e9fd5775c6ccc7d82d5b6b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サムスン、米国8200万台のGalaxyにUSDC導入へ──ソラナ・Suiで国際送金",
         "url": "https://news.yahoo.co.jp/articles/f1b62a0c5545797d29e9401a2f9089a4fdfe04c9",
         "source": "Yahoo",
@@ -16957,24 +16990,6 @@
       {
         "title": "ポリゴンの決済基盤、トロンに対応──USDTを米銀行網と接続",
         "url": "https://news.yahoo.co.jp/articles/9035c1fafa465f0fe071e3a8844008c660d08ee9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米CFTCとSEC、ビットコイン・イーサリアム・XRPなど「原則証券ではない」と共同解釈",
-        "url": "https://news.yahoo.co.jp/articles/b9467a68732652247938865a6f5e7f27a6c5400e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「決済」の主役は誰になるのか──ウォレット・カード・企業が挑む新しい顧客接点【N.Avenue club 4期3回ラウンドテーブル・レポート】",
-        "url": "https://news.yahoo.co.jp/articles/e944e9d2d9d1915ec827620db2f36454819dec41",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリマーケット、予測市場基盤「Protocol V2」の本番導入開始",
-        "url": "https://news.yahoo.co.jp/articles/640b163fbc40a4bd5ff584d557432f86ad8e588b",
         "source": "Yahoo",
         "date": ""
       }
