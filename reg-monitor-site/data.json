@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T23:50:24.992Z",
+  "generatedAt": "2026-10-08T01:21:21.543Z",
   "items": [
     {
       "agency": "金融庁",
@@ -13,6 +13,37 @@
         "金融審議会成長企業資金供給ワーキング・グループ第2回が令和8年10月9日9時から中央合同庁舎第7号館12階で開催され、ヒアリング・事務局説明・討議が予定される。",
         "一般傍聴席は用意されないが、金融庁公式YouTubeチャンネルでの配信により会議内容を確認でき、会議後に議事録が金融庁ウェブサイトで公表される。",
         "成長企業への資金供給の在り方について、事務局による複数回のヒアリングと説明に基づき、ワーキング・グループが政策課題について検討・討議を実施する予定。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "北洋証券株式会社が「家族サポート証券口座」の取扱いを開始いたしました",
+      "url": "https://market.jsda.or.jp/shijyo/kazokusupport/index.html",
+      "date": "2026-10-08",
+      "detectedAt": "2026-10-08T01:21:21.543Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日産証券株式会社が2026年5月20日から「家族サポート証券口座」の取り扱いを開始した。同口座は認知判断能力低下時に家族代理人による取引継続を可能とする任意代理契約に基づくサービス。",
+        "顧客は認知判断能力の低下に備えて信頼できる家族と事前に任意代理契約を締結し、能力低下時に家族代理人に取引を委任することで、口座凍結を回避して資産活用を継続できる。",
+        "本制度は日本証券業協会が2025年2月19日に「家族サポート証券口座制度要綱」を公開し、2026年1月22日に改正している。現在7社の会員証券会社が取り扱い開始済み。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-08T01:21:25.957Z"
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「修了考査(2027年12月以降実施)のCBT方式への移行について(予定)」",
+      "url": "https://jicpa.or.jp/news/information/2026/20261008ibj.html",
+      "date": "2026-10-08",
+      "detectedAt": "2026-10-08T01:21:21.543Z",
+      "enriched": "2026-10-08T01:21:25.958Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "修了考査を2027年12月以降、従来の紙面筆記試験からCBT（コンピューター利用試験）方式に移行する。実施日程・科目・時間は変更なし。",
+        "公認会計士協会の修了考査受験予定者は、2027年6月以降公表予定の詳細情報とCBT体験版により試験方式の変更に対応する必要がある。",
+        "2027年度以降実施の修了考査からCBT方式が適用される。詳細は2027年6月頃公表予定。"
       ],
       "aiSumV": 3
     },
@@ -330,22 +361,6 @@
         "日本銀行は、AI導入の影響について「どの範囲・程度で」「どんな時間軸で」という問いに未だ明確な答えを持たないため、経済・金融指標を丹念に分析し、オルタナティブデータ活用により影響を一貫した形で理解する努力を続けるとしている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株式会社SBI証券が「家族サポート証券口座」の取扱いを開始いたしました",
-      "url": "https://market.jsda.or.jp/shijyo/kazokusupport/index.html",
-      "date": "2026-10-05",
-      "detectedAt": "2026-10-05T00:08:51.638Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日産証券株式会社が2026年5月20日から「家族サポート証券口座」の取り扱いを開始した。同口座は認知判断能力低下時に家族代理人による取引継続を可能とする任意代理契約に基づくサービス。",
-        "顧客は認知判断能力の低下に備えて信頼できる家族と事前に任意代理契約を締結し、能力低下時に家族代理人に取引を委任することで、口座凍結を回避して資産活用を継続できる。",
-        "本制度は日本証券業協会が2025年2月19日に「家族サポート証券口座制度要綱」を公開し、2026年1月22日に改正している。現在7社の会員証券会社が取り扱い開始済み。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-05T00:08:57.346Z"
     },
     {
       "agency": "日本銀行",
@@ -16630,6 +16645,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "2026年米国中間選挙展望：シナリオ別の経済政策と金融市場への影響",
+        "url": "https://news.yahoo.co.jp/articles/824504e0ab45703026474e6533763dc6e992e08e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米下院金融委員長「SECとCFTCの措置はクラリティ法案の代わりにならない」",
         "url": "https://news.yahoo.co.jp/articles/225afd53099b3304d14af3e3bab442fa395c91ab",
         "source": "Yahoo",
@@ -16642,7 +16663,7 @@
         "date": ""
       },
       {
-        "title": "AIは「生涯最大のバブル」も、投資余地なおあり-ノボグラーツ氏",
+        "title": "AIは「生涯最大のバブル」、それでも投資すべきだ-ノボグラーツ氏",
         "url": "https://news.yahoo.co.jp/articles/581038de0609e8974eb1bc93086c385c3e8711ea",
         "source": "Yahoo",
         "date": ""
@@ -16656,18 +16677,18 @@
       {
         "title": "米CFTCとSEC、ビットコイン・イーサリアム・XRPなど「原則証券ではない」と共同解釈",
         "url": "https://news.yahoo.co.jp/articles/b9467a68732652247938865a6f5e7f27a6c5400e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「決済」の主役は誰になるのか──ウォレット・カード・企業が挑む新しい顧客接点【N.Avenue club 4期3回ラウンドテーブル・レポート】",
-        "url": "https://news.yahoo.co.jp/articles/e944e9d2d9d1915ec827620db2f36454819dec41",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "2026年米国中間選挙展望：シナリオ別の経済政策と金融市場への影響",
+        "url": "https://news.yahoo.co.jp/articles/824504e0ab45703026474e6533763dc6e992e08e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米下院金融委員長「SECとCFTCの措置はクラリティ法案の代わりにならない」",
         "url": "https://news.yahoo.co.jp/articles/225afd53099b3304d14af3e3bab442fa395c91ab",
         "source": "Yahoo",
@@ -16680,7 +16701,7 @@
         "date": ""
       },
       {
-        "title": "AIは「生涯最大のバブル」も、投資余地なおあり-ノボグラーツ氏",
+        "title": "AIは「生涯最大のバブル」、それでも投資すべきだ-ノボグラーツ氏",
         "url": "https://news.yahoo.co.jp/articles/581038de0609e8974eb1bc93086c385c3e8711ea",
         "source": "Yahoo",
         "date": ""
@@ -16694,12 +16715,6 @@
       {
         "title": "米CFTCとSEC、ビットコイン・イーサリアム・XRPなど「原則証券ではない」と共同解釈",
         "url": "https://news.yahoo.co.jp/articles/b9467a68732652247938865a6f5e7f27a6c5400e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「決済」の主役は誰になるのか──ウォレット・カード・企業が挑む新しい顧客接点【N.Avenue club 4期3回ラウンドテーブル・レポート】",
-        "url": "https://news.yahoo.co.jp/articles/e944e9d2d9d1915ec827620db2f36454819dec41",
         "source": "Yahoo",
         "date": ""
       }
@@ -17648,6 +17663,24 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「不安が全く払拭されていない」病歴が“本人同意なし”でAI開発に利用？ 改正個人情報保護法、弁護士らが「特に問題」と指摘するポイントとは",
+        "url": "https://news.yahoo.co.jp/articles/4ed4fba426a97cc6e3791d3b755b908fce3fd50a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "相次ぐ情報漏えいで安全対策強化などを注意喚起 個人情報保護委員会",
+        "url": "https://news.yahoo.co.jp/articles/84b36be75fcf276c8b99e66a453b5d2374a6d49c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【独自第11弾】東京地検に告発状 個人情報保護法や自衛隊法違反と指摘 東京の男性団体職員 陸自思想調査 「自分も対象かも」",
+        "url": "https://news.yahoo.co.jp/articles/24220f945f5133d7336e6a65ba3a8177c88580d7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報保護委員会、多発する情報漏えいに注意喚起 利用終えたデータは遅滞なく破棄",
         "url": "https://news.yahoo.co.jp/articles/15d58d066a229dcae868e0493abf261fa09ba075",
         "source": "Yahoo",
@@ -17662,30 +17695,30 @@
       {
         "title": "相次ぐ情報漏えいをうけてシステムの安全管理強化など緊急の注意喚起 個人情報保護委員会",
         "url": "https://news.yahoo.co.jp/articles/a5fcfdfbf13e6687d7dc36140ea620d602f38842",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護委員会、企業に緊急注意喚起 相次ぐ大規模な情報流出で",
-        "url": "https://news.yahoo.co.jp/articles/60139808f515b138969725cd814598420cac28d3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "沈伯洋立法委員一家を監視 探偵業者4人を起訴 香港人から報酬受け取る／台湾",
-        "url": "https://news.yahoo.co.jp/articles/563bb53d23cf7b4c50c9e3e4c216e6009bb2c934",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "未曽有の“情報漏洩”に、古川デジタル相「自分で守る」国民への呼びかけが波紋《国は守らないの？》疑問の声",
-        "url": "https://news.yahoo.co.jp/articles/8f7eaa40e3ea895da938af948ea395e1b5ea06d3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「不安が全く払拭されていない」病歴が“本人同意なし”でAI開発に利用？ 改正個人情報保護法、弁護士らが「特に問題」と指摘するポイントとは",
+        "url": "https://news.yahoo.co.jp/articles/4ed4fba426a97cc6e3791d3b755b908fce3fd50a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "相次ぐ情報漏えいで安全対策強化などを注意喚起 個人情報保護委員会",
+        "url": "https://news.yahoo.co.jp/articles/84b36be75fcf276c8b99e66a453b5d2374a6d49c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【独自第11弾】東京地検に告発状 個人情報保護法や自衛隊法違反と指摘 東京の男性団体職員 陸自思想調査 「自分も対象かも」",
+        "url": "https://news.yahoo.co.jp/articles/24220f945f5133d7336e6a65ba3a8177c88580d7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報保護委員会、多発する情報漏えいに注意喚起 利用終えたデータは遅滞なく破棄",
         "url": "https://news.yahoo.co.jp/articles/15d58d066a229dcae868e0493abf261fa09ba075",
         "source": "Yahoo",
@@ -17700,30 +17733,30 @@
       {
         "title": "相次ぐ情報漏えいをうけてシステムの安全管理強化など緊急の注意喚起 個人情報保護委員会",
         "url": "https://news.yahoo.co.jp/articles/a5fcfdfbf13e6687d7dc36140ea620d602f38842",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護委員会、企業に緊急注意喚起 相次ぐ大規模な情報流出で",
-        "url": "https://news.yahoo.co.jp/articles/60139808f515b138969725cd814598420cac28d3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "沈伯洋立法委員一家を監視 探偵業者4人を起訴 香港人から報酬受け取る／台湾",
-        "url": "https://news.yahoo.co.jp/articles/563bb53d23cf7b4c50c9e3e4c216e6009bb2c934",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "未曽有の“情報漏洩”に、古川デジタル相「自分で守る」国民への呼びかけが波紋《国は守らないの？》疑問の声",
-        "url": "https://news.yahoo.co.jp/articles/8f7eaa40e3ea895da938af948ea395e1b5ea06d3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「不安が全く払拭されていない」病歴が“本人同意なし”でAI開発に利用？ 改正個人情報保護法、弁護士らが「特に問題」と指摘するポイントとは",
+        "url": "https://news.yahoo.co.jp/articles/4ed4fba426a97cc6e3791d3b755b908fce3fd50a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "相次ぐ情報漏えいで安全対策強化などを注意喚起 個人情報保護委員会",
+        "url": "https://news.yahoo.co.jp/articles/84b36be75fcf276c8b99e66a453b5d2374a6d49c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【独自第11弾】東京地検に告発状 個人情報保護法や自衛隊法違反と指摘 東京の男性団体職員 陸自思想調査 「自分も対象かも」",
+        "url": "https://news.yahoo.co.jp/articles/24220f945f5133d7336e6a65ba3a8177c88580d7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報保護委員会、多発する情報漏えいに注意喚起 利用終えたデータは遅滞なく破棄",
         "url": "https://news.yahoo.co.jp/articles/15d58d066a229dcae868e0493abf261fa09ba075",
         "source": "Yahoo",
@@ -17738,24 +17771,6 @@
       {
         "title": "相次ぐ情報漏えいをうけてシステムの安全管理強化など緊急の注意喚起 個人情報保護委員会",
         "url": "https://news.yahoo.co.jp/articles/a5fcfdfbf13e6687d7dc36140ea620d602f38842",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護委員会、企業に緊急注意喚起 相次ぐ大規模な情報流出で",
-        "url": "https://news.yahoo.co.jp/articles/60139808f515b138969725cd814598420cac28d3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "沈伯洋立法委員一家を監視 探偵業者4人を起訴 香港人から報酬受け取る／台湾",
-        "url": "https://news.yahoo.co.jp/articles/563bb53d23cf7b4c50c9e3e4c216e6009bb2c934",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "未曽有の“情報漏洩”に、古川デジタル相「自分で守る」国民への呼びかけが波紋《国は守らないの？》疑問の声",
-        "url": "https://news.yahoo.co.jp/articles/8f7eaa40e3ea895da938af948ea395e1b5ea06d3",
         "source": "Yahoo",
         "date": ""
       }
