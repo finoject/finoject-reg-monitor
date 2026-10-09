@@ -1,6 +1,81 @@
 {
-  "generatedAt": "2026-10-09T08:39:57.960Z",
+  "generatedAt": "2026-10-09T09:36:09.215Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "第25回「金融庁・日本銀行連絡会」の開催の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261009nichiginrenrakukai.html",
+      "date": "2026-10-09",
+      "detectedAt": "2026-10-09T09:36:09.215Z",
+      "enriched": "2026-10-09T09:36:14.296Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁長官と日本銀行副総裁を含むメンバーで構成される金融庁・日本銀行連絡会（第25回）が2026年10月9日に開催され、金融システム・金融市場の諸情勢について意見交換が実施された。",
+        "金融庁と日本銀行が金融システムの安定性と市場動向に関する情報共有・協議を定期的に行う体制を構築している。",
+        "本連絡会は金融庁と日本銀行の定期的な協力会議で、金融システム・市場に関する重要事項の意見交換の場として機能している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "（株）出前館との契約締結交渉者の従業員から伝達を受けた海外居住者による内部者取引に対する違反事実がないと認める旨の決定の公表",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20261009/20261009.html",
+      "date": "2026-10-09",
+      "detectedAt": "2026-10-09T09:36:09.215Z",
+      "enriched": "2026-10-09T09:36:14.296Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "①出前館との株式引受契約交渉に関し知った重要事実を被審人が令和2年2月20日頃までに受領したか、②その重要事実の決定時期が争点だったが、審判官から違反事実がないと認める決定案が提出されたため、金融庁が令和8年10月9日に違反事実を認めない決定を行った。",
+        "②被審人（シンガポール居住者）は、出前館株式1万6600株を令和2年3月11日～26日に計1108万6300円で買い付けた行為について、金融商品取引法178条1項16号の内部者取引違反が問われていたが、争点となる重要事実の伝達時期等について違反事実を認めることができないと判断されるに至った。",
+        "③本件は令和7年1月24日に審判手続が開始され（令和6年度（判）第27号事件）、金融商品取引法185条の6・185条の7の規定に基づき、金融庁長官が審判官の決定案を追認して令和8年10月9日に決定を発令した。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "プルデンシャル生命保険株式会社、ジブラルタ生命保険株式会社及びプルデンシャル・ホールディング・オブ・ジャパン株式会社に対する行政処分の公表",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20261009/20261009.html",
+      "date": "2026-10-09",
+      "detectedAt": "2026-10-09T09:36:09.215Z",
+      "enriched": "2026-10-09T09:36:14.296Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "プルデンシャル生命及びジブラルタ生命は2026年10月13日から2027年1月31日まで保険募集・契約締結を停止、契約者保護に必要な業務のみ例外的に認める。",
+        "両社は11月30日までに業務改善計画を提出し、営業優先体質から経営管理態勢の抜本強化、外部専門家によるレビュー、3ヶ月毎の進捗報告が必須。",
+        "営業職員による金銭不祥事多発、不適切募集行為、顧客情報持出等に対し、保険業法第132条第1項に基づく業務停止命令及び業務改善命令を発令。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "現下の情勢を踏まえたサイバーセキュリティ対策の強化と各種取引申込等における対応の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261009/20261009.html",
+      "date": "2026-10-09",
+      "detectedAt": "2026-10-09T09:36:09.215Z",
+      "enriched": "2026-10-09T09:36:14.296Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "犯罪収益移転防止法施行規則改正により令和9年4月1日から本人確認書類の画像送信方法は廃止され、ICチップ情報読取に原則一本化されるところ、現下の情勢を踏まえ施行日を待たず可及的速やかな対応を要請。",
+        "金融機関等は非対面本人確認時に本人確認書類の画像と顧客容貌画像の不自然な点を改めて徹底確認するとともに、サードパーティリスク管理を含むサイバーセキュリティ対策を点検し不十分な点があれば速やかに必要措置を講じること。",
+        "相次ぐ不正アクセスにより顧客の運転免許証等本人確認書類画像が漏洩するサイバーインシデントが発生しており、金融機関等は経営陣のリーダーシップの下で自組織の規模・特性に応じた対応強化が重要。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "第25回「金融庁・日本銀行連絡会」の開催について",
+      "url": "https://www.boj.or.jp/finsys/macpru/mac261009a.pdf",
+      "date": "2026-10-09",
+      "detectedAt": "2026-10-09T09:36:09.215Z",
+      "enriched": "2026-10-09T09:36:14.296Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁と日本銀行が本日、金融システム・金融市場を巡る諸情勢について意見交換するため、「金融庁・日本銀行連絡会（第25回）」を開催した。",
+        "金融庁長官と日本銀行副総裁を含むメンバーで構成される連絡会が、金融システムの安定性及び市場環境に関する情報共有と協調の場として機能している。",
+        "本発表は2026年10月9日付で、金融規制当局間の連携体制を確認するもので、特定の改正や新規措置の公表ではなく情報交換の実施報告である。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[OSE,TOCOM]デリバティブの祝日取引の実施について（2026年10月12日）",
@@ -16629,6 +16704,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "三菱商事元社員インサイダー取引疑いで勧告",
+        "url": "https://news.yahoo.co.jp/articles/2b073ad500db85cc0c48d02e9e2ec5f4572ea0a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BACKSEAT、カストディ業務の「SOC 2 Type 1」報告書取得。国内暗号資産ETF見据え",
         "url": "https://news.yahoo.co.jp/articles/53eeb4448555440b432f1b3ae96570995d6e7d17",
         "source": "Yahoo",
@@ -16655,18 +16736,18 @@
       {
         "title": "ビットコイン現物ETF、第3四半期に約1兆円の資金流入",
         "url": "https://news.yahoo.co.jp/articles/31d34ed39e49f48fab67b41be806bf5c0ef35b00",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
-        "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "三菱商事元社員インサイダー取引疑いで勧告",
+        "url": "https://news.yahoo.co.jp/articles/2b073ad500db85cc0c48d02e9e2ec5f4572ea0a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BACKSEAT、カストディ業務の「SOC 2 Type 1」報告書取得。国内暗号資産ETF見据え",
         "url": "https://news.yahoo.co.jp/articles/53eeb4448555440b432f1b3ae96570995d6e7d17",
         "source": "Yahoo",
@@ -16693,18 +16774,18 @@
       {
         "title": "ビットコイン現物ETF、第3四半期に約1兆円の資金流入",
         "url": "https://news.yahoo.co.jp/articles/31d34ed39e49f48fab67b41be806bf5c0ef35b00",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
-        "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "三菱商事元社員インサイダー取引疑いで勧告",
+        "url": "https://news.yahoo.co.jp/articles/2b073ad500db85cc0c48d02e9e2ec5f4572ea0a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BACKSEAT、カストディ業務の「SOC 2 Type 1」報告書取得。国内暗号資産ETF見据え",
         "url": "https://news.yahoo.co.jp/articles/53eeb4448555440b432f1b3ae96570995d6e7d17",
         "source": "Yahoo",
@@ -16731,18 +16812,18 @@
       {
         "title": "ビットコイン現物ETF、第3四半期に約1兆円の資金流入",
         "url": "https://news.yahoo.co.jp/articles/31d34ed39e49f48fab67b41be806bf5c0ef35b00",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
-        "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "三菱商事元社員インサイダー取引疑いで勧告",
+        "url": "https://news.yahoo.co.jp/articles/2b073ad500db85cc0c48d02e9e2ec5f4572ea0a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BACKSEAT、カストディ業務の「SOC 2 Type 1」報告書取得。国内暗号資産ETF見据え",
         "url": "https://news.yahoo.co.jp/articles/53eeb4448555440b432f1b3ae96570995d6e7d17",
         "source": "Yahoo",
@@ -16769,12 +16850,6 @@
       {
         "title": "ビットコイン現物ETF、第3四半期に約1兆円の資金流入",
         "url": "https://news.yahoo.co.jp/articles/31d34ed39e49f48fab67b41be806bf5c0ef35b00",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "架空の売上高計上認める AI会社オルツ元社長、東京地裁で初公判 架空の売上高を計上したとして金融商品取引法違反（有価証券報告書の虚偽記載など）の罪に問われたAI開発会社オルツの元社長米倉千貴被告（49）の初公判",
-        "url": "https://news.yahoo.co.jp/articles/cee5bb3b11b78180e0c4cb9fba2672bd7a965658",
         "source": "Yahoo",
         "date": ""
       }
@@ -17875,6 +17950,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "クーパン、個人情報流出などの課徴金6246億ウォンに不服",
+        "url": "https://news.yahoo.co.jp/articles/83294de504823e1eefb7648382e4e66dc0b07502",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "連日報じられる「個人情報流出」の裏側。大企業が防げない構造的理由とAIハッキングの脅威",
         "url": "https://news.yahoo.co.jp/expert/articles/5727acc66d97bfc17539554b51b62655ecc7c8d6",
         "source": "Yahoo",
@@ -17901,18 +17982,18 @@
       {
         "title": "不正アクセスで「大量の個人データが漏えい」 個人情報保護委員会が注意喚起、企業が今すべき対策は？",
         "url": "https://news.yahoo.co.jp/articles/3c05e207ed67b4dd576c9cbacf38a063edcf7a33",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「不安が全く払拭されていない」病歴が“本人同意なし”でAI開発に利用？ 改正個人情報保護法、弁護士らが「特に問題」と指摘するポイントとは",
-        "url": "https://news.yahoo.co.jp/articles/4ed4fba426a97cc6e3791d3b755b908fce3fd50a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "クーパン、個人情報流出などの課徴金6246億ウォンに不服",
+        "url": "https://news.yahoo.co.jp/articles/83294de504823e1eefb7648382e4e66dc0b07502",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "連日報じられる「個人情報流出」の裏側。大企業が防げない構造的理由とAIハッキングの脅威",
         "url": "https://news.yahoo.co.jp/expert/articles/5727acc66d97bfc17539554b51b62655ecc7c8d6",
         "source": "Yahoo",
@@ -17939,18 +18020,18 @@
       {
         "title": "不正アクセスで「大量の個人データが漏えい」 個人情報保護委員会が注意喚起、企業が今すべき対策は？",
         "url": "https://news.yahoo.co.jp/articles/3c05e207ed67b4dd576c9cbacf38a063edcf7a33",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「不安が全く払拭されていない」病歴が“本人同意なし”でAI開発に利用？ 改正個人情報保護法、弁護士らが「特に問題」と指摘するポイントとは",
-        "url": "https://news.yahoo.co.jp/articles/4ed4fba426a97cc6e3791d3b755b908fce3fd50a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "クーパン、個人情報流出などの課徴金6246億ウォンに不服",
+        "url": "https://news.yahoo.co.jp/articles/83294de504823e1eefb7648382e4e66dc0b07502",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "連日報じられる「個人情報流出」の裏側。大企業が防げない構造的理由とAIハッキングの脅威",
         "url": "https://news.yahoo.co.jp/expert/articles/5727acc66d97bfc17539554b51b62655ecc7c8d6",
         "source": "Yahoo",
@@ -17977,12 +18058,6 @@
       {
         "title": "不正アクセスで「大量の個人データが漏えい」 個人情報保護委員会が注意喚起、企業が今すべき対策は？",
         "url": "https://news.yahoo.co.jp/articles/3c05e207ed67b4dd576c9cbacf38a063edcf7a33",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「不安が全く払拭されていない」病歴が“本人同意なし”でAI開発に利用？ 改正個人情報保護法、弁護士らが「特に問題」と指摘するポイントとは",
-        "url": "https://news.yahoo.co.jp/articles/4ed4fba426a97cc6e3791d3b755b908fce3fd50a",
         "source": "Yahoo",
         "date": ""
       }
