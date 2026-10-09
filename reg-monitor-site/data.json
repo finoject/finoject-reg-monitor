@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T04:07:10.979Z",
+  "generatedAt": "2026-10-09T05:38:11.685Z",
   "items": [
     {
       "agency": "日本銀行",
@@ -16767,6 +16767,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "SBI・マネーフォワード・米Mesh、暗号資産決済の新会社を年内設立へ",
+        "url": "https://news.yahoo.co.jp/articles/b40959cb8ff033200a254eb8f92a1f97a50c47ae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI・マネーフォワード・Mesh、合弁会社設立で基本合意。デジタル資産の購入・送金・決済簡素化へ",
+        "url": "https://news.yahoo.co.jp/articles/53f9b415b7ebf1d65e2fcc4484c569b05f1ca6a0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スタンダードチャータード、シンガポールで暗号資産カストディ提供へ。ステーブルコインやRWAも対象",
         "url": "https://news.yahoo.co.jp/articles/8a9d77327019971da7d736cf30f25c5aadbb112e",
         "source": "Yahoo",
@@ -16787,24 +16799,24 @@
       {
         "title": "EU規制当局、USDTなど未認可ステーブルコインを排除へ──3カ月の期限を設定",
         "url": "https://news.yahoo.co.jp/articles/ae05182b0238bf5ac6364d91af48643d096ea336",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI開発の行き着く先",
-        "url": "https://news.yahoo.co.jp/expert/articles/176f9bc1b174ec53aaf000403229023927308058",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、米大手銀行と競合──ウォール街のお家芸「レバレッジ型ETFへの資金提供」で＝WSJ",
-        "url": "https://news.yahoo.co.jp/articles/48f3b6e1411faa59de722d0e2266edc52d4d0ede",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "SBI・マネーフォワード・米Mesh、暗号資産決済の新会社を年内設立へ",
+        "url": "https://news.yahoo.co.jp/articles/b40959cb8ff033200a254eb8f92a1f97a50c47ae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI・マネーフォワード・Mesh、合弁会社設立で基本合意。デジタル資産の購入・送金・決済簡素化へ",
+        "url": "https://news.yahoo.co.jp/articles/53f9b415b7ebf1d65e2fcc4484c569b05f1ca6a0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スタンダードチャータード、シンガポールで暗号資産カストディ提供へ。ステーブルコインやRWAも対象",
         "url": "https://news.yahoo.co.jp/articles/8a9d77327019971da7d736cf30f25c5aadbb112e",
         "source": "Yahoo",
@@ -16825,18 +16837,6 @@
       {
         "title": "EU規制当局、USDTなど未認可ステーブルコインを排除へ──3カ月の期限を設定",
         "url": "https://news.yahoo.co.jp/articles/ae05182b0238bf5ac6364d91af48643d096ea336",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI開発の行き着く先",
-        "url": "https://news.yahoo.co.jp/expert/articles/176f9bc1b174ec53aaf000403229023927308058",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、米大手銀行と競合──ウォール街のお家芸「レバレッジ型ETFへの資金提供」で＝WSJ",
-        "url": "https://news.yahoo.co.jp/articles/48f3b6e1411faa59de722d0e2266edc52d4d0ede",
         "source": "Yahoo",
         "date": ""
       }
@@ -16995,82 +16995,88 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI・マネーフォワード・米Mesh、暗号資産決済の新会社を年内設立へ",
+        "url": "https://news.yahoo.co.jp/articles/b40959cb8ff033200a254eb8f92a1f97a50c47ae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI・マネーフォワード・Mesh、合弁会社設立で基本合意。デジタル資産の購入・送金・決済簡素化へ",
+        "url": "https://news.yahoo.co.jp/articles/53f9b415b7ebf1d65e2fcc4484c569b05f1ca6a0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "IMF職員ら、トークン化金融の拡大に4つの課題を指摘",
+        "url": "https://news.yahoo.co.jp/articles/57de3131279b3d2be55bbbab50b2442bc76efdca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JPYC、公取委に情報提供──カード加盟店規約を問題視",
+        "url": "https://news.yahoo.co.jp/articles/3235ecd5798f65a967f6d00cedfaec9840eb03c3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "AltX Researchとfinojectが提携、ステーブルコイン基盤「MIZUHIKI」の規制対応強化へ",
+        "url": "https://news.yahoo.co.jp/articles/e0b348d2bd35cd281b8b3c6344dc6ecca3506e1c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "キルギス、金裏付けステーブルコイン「USDKG」の事業終了へ",
         "url": "https://news.yahoo.co.jp/articles/46f7cd757411cc1bf1b78fc2ba079e03ad116e3d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スタンダードチャータード、シンガポールで暗号資産カストディ提供へ。ステーブルコインやRWAも対象",
-        "url": "https://news.yahoo.co.jp/articles/8a9d77327019971da7d736cf30f25c5aadbb112e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "セキュリタイズ、米国株12銘柄のオンチェーン取引開始、配当などの権利を維持する設計",
-        "url": "https://news.yahoo.co.jp/articles/cd739a452db730bff4071b87a2919e0e5a1f74a4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Suiのビットコイン金融基盤「Hashi」、5億ドル超の資本コミットメントでメインネットローンチへ",
-        "url": "https://news.yahoo.co.jp/articles/2cec1ddeb9d1dd733dec6cd2311f15c5511ac11f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表",
-        "url": "https://news.yahoo.co.jp/articles/226aba3d35861e9eb170de4cbcf468e1338e1847",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビザとアブダビのADI財団が協業、ブロックチェーン活用のデジタル決済を共同検討",
-        "url": "https://news.yahoo.co.jp/articles/88b52d464e400ca5fed083cbd3ae23279cde2116",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI・マネーフォワード・米Mesh、暗号資産決済の新会社を年内設立へ",
+        "url": "https://news.yahoo.co.jp/articles/b40959cb8ff033200a254eb8f92a1f97a50c47ae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI・マネーフォワード・Mesh、合弁会社設立で基本合意。デジタル資産の購入・送金・決済簡素化へ",
+        "url": "https://news.yahoo.co.jp/articles/53f9b415b7ebf1d65e2fcc4484c569b05f1ca6a0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "IMF職員ら、トークン化金融の拡大に4つの課題を指摘",
+        "url": "https://news.yahoo.co.jp/articles/57de3131279b3d2be55bbbab50b2442bc76efdca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JPYC、公取委に情報提供──カード加盟店規約を問題視",
+        "url": "https://news.yahoo.co.jp/articles/3235ecd5798f65a967f6d00cedfaec9840eb03c3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "AltX Researchとfinojectが提携、ステーブルコイン基盤「MIZUHIKI」の規制対応強化へ",
+        "url": "https://news.yahoo.co.jp/articles/e0b348d2bd35cd281b8b3c6344dc6ecca3506e1c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "キルギス、金裏付けステーブルコイン「USDKG」の事業終了へ",
         "url": "https://news.yahoo.co.jp/articles/46f7cd757411cc1bf1b78fc2ba079e03ad116e3d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スタンダードチャータード、シンガポールで暗号資産カストディ提供へ。ステーブルコインやRWAも対象",
-        "url": "https://news.yahoo.co.jp/articles/8a9d77327019971da7d736cf30f25c5aadbb112e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "セキュリタイズ、米国株12銘柄のオンチェーン取引開始、配当などの権利を維持する設計",
-        "url": "https://news.yahoo.co.jp/articles/cd739a452db730bff4071b87a2919e0e5a1f74a4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Suiのビットコイン金融基盤「Hashi」、5億ドル超の資本コミットメントでメインネットローンチへ",
-        "url": "https://news.yahoo.co.jp/articles/2cec1ddeb9d1dd733dec6cd2311f15c5511ac11f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表",
-        "url": "https://news.yahoo.co.jp/articles/226aba3d35861e9eb170de4cbcf468e1338e1847",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビザとアブダビのADI財団が協業、ブロックチェーン活用のデジタル決済を共同検討",
-        "url": "https://news.yahoo.co.jp/articles/88b52d464e400ca5fed083cbd3ae23279cde2116",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419AC0000000022": [
       {
+        "title": "AltX Researchとfinojectが提携、ステーブルコイン基盤「MIZUHIKI」の規制対応強化へ",
+        "url": "https://news.yahoo.co.jp/articles/e0b348d2bd35cd281b8b3c6344dc6ecca3506e1c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "運転免許証の画像が流出！ 勝手に借金される前に知っておきたい「不正利用防止の届け出」",
         "url": "https://news.yahoo.co.jp/articles/c40e237f8d26c549e46d267fa5798930762638cb",
         "source": "Yahoo",
@@ -17097,18 +17103,18 @@
       {
         "title": "戦争を支える「資金」はどこから来る？ 税収で賄う国家と「アングラ経済」に頼る武装組織【国際税務の専門家が解説】",
         "url": "https://news.yahoo.co.jp/articles/9559759c329c074526b21e9551d0235fe65bb465",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SMBC日興、国内投資家向けDeFi基盤を開発へ──Uniswap・Baseらと協業",
-        "url": "https://news.yahoo.co.jp/articles/36183b2a7982bff8aded543f9852a6f23b4fe556",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "AltX Researchとfinojectが提携、ステーブルコイン基盤「MIZUHIKI」の規制対応強化へ",
+        "url": "https://news.yahoo.co.jp/articles/e0b348d2bd35cd281b8b3c6344dc6ecca3506e1c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "運転免許証の画像が流出！ 勝手に借金される前に知っておきたい「不正利用防止の届け出」",
         "url": "https://news.yahoo.co.jp/articles/c40e237f8d26c549e46d267fa5798930762638cb",
         "source": "Yahoo",
@@ -17135,18 +17141,18 @@
       {
         "title": "戦争を支える「資金」はどこから来る？ 税収で賄う国家と「アングラ経済」に頼る武装組織【国際税務の専門家が解説】",
         "url": "https://news.yahoo.co.jp/articles/9559759c329c074526b21e9551d0235fe65bb465",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SMBC日興、国内投資家向けDeFi基盤を開発へ──Uniswap・Baseらと協業",
-        "url": "https://news.yahoo.co.jp/articles/36183b2a7982bff8aded543f9852a6f23b4fe556",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "AltX Researchとfinojectが提携、ステーブルコイン基盤「MIZUHIKI」の規制対応強化へ",
+        "url": "https://news.yahoo.co.jp/articles/e0b348d2bd35cd281b8b3c6344dc6ecca3506e1c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "運転免許証の画像が流出！ 勝手に借金される前に知っておきたい「不正利用防止の届け出」",
         "url": "https://news.yahoo.co.jp/articles/c40e237f8d26c549e46d267fa5798930762638cb",
         "source": "Yahoo",
@@ -17173,12 +17179,6 @@
       {
         "title": "戦争を支える「資金」はどこから来る？ 税収で賄う国家と「アングラ経済」に頼る武装組織【国際税務の専門家が解説】",
         "url": "https://news.yahoo.co.jp/articles/9559759c329c074526b21e9551d0235fe65bb465",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SMBC日興、国内投資家向けDeFi基盤を開発へ──Uniswap・Baseらと協業",
-        "url": "https://news.yahoo.co.jp/articles/36183b2a7982bff8aded543f9852a6f23b4fe556",
         "source": "Yahoo",
         "date": ""
       }
