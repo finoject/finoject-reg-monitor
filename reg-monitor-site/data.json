@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-09T02:32:45.231Z",
+  "generatedAt": "2026-10-09T04:07:10.979Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "わが国短期金融市場の動向",
+      "url": "https://www.boj.or.jp/paym/market/market2610.htm",
+      "date": "2026-10-09",
+      "detectedAt": "2026-10-09T04:07:10.979Z",
+      "enriched": "2026-10-09T04:07:16.169Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年8月調査の東京短期金融市場サーベイで、調査対象先381先（回答率100%）から短期金融市場の取引動向を把握した。資金調達残高は前年比減少、資金運用残高は前年比増加となった。",
+        "短期金融市場参加者（銀行、証券会社、生保・損保、投信委託会社など）は、市場調節に関する意見交換会や債券市場参加者会合に参加し、日本銀行との対話を通じ金融市場活性化に協力する必要がある。",
+        "GCレポ取引残高は前年から減少した。都銀等では日銀の国債買入減額と貸出増加支援資金供給の残高減少に伴い取引が減少、短資・証金でも同様に減少している（2026年7月末基準）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）東京みらい不動産",
+      "url": "https://www.jpx.co.jp/news/1031/20261009_01.html",
+      "date": "2026-10-09",
+      "detectedAt": "2026-10-09T04:07:10.979Z",
+      "enriched": "2026-10-09T04:07:16.169Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)東京みらい不動産（コード647A）の新規上場日（10月13日）の初値決定前気配運用について、板中心値段500円から上限1,150円（更新幅25円・10分間隔）、下限375円（3分間隔）で気配更新する。",
+        "取引参加者および投資家は、新規上場日の売買にあたり成行呼値を禁止され、注文受付価格を125円以上2,000円以下の範囲内で指値注文のみ受け付ける必要がある。",
+        "初値決定後は初値を基準値段として呼値の制限値幅が適用され、制限値幅内での通常売買ルールに移行する（東証新規上場上場日気配運用規則）。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
@@ -16737,6 +16767,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "スタンダードチャータード、シンガポールで暗号資産カストディ提供へ。ステーブルコインやRWAも対象",
+        "url": "https://news.yahoo.co.jp/articles/8a9d77327019971da7d736cf30f25c5aadbb112e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "セキュリタイズ、米国株12銘柄のオンチェーン取引開始、配当などの権利を維持する設計",
+        "url": "https://news.yahoo.co.jp/articles/cd739a452db730bff4071b87a2919e0e5a1f74a4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Suiのビットコイン金融基盤「Hashi」、5億ドル超の資本コミットメントでメインネットローンチへ",
+        "url": "https://news.yahoo.co.jp/articles/2cec1ddeb9d1dd733dec6cd2311f15c5511ac11f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "EU規制当局、USDTなど未認可ステーブルコインを排除へ──3カ月の期限を設定",
         "url": "https://news.yahoo.co.jp/articles/ae05182b0238bf5ac6364d91af48643d096ea336",
         "source": "Yahoo",
@@ -16751,30 +16799,30 @@
       {
         "title": "リップル、米大手銀行と競合──ウォール街のお家芸「レバレッジ型ETFへの資金提供」で＝WSJ",
         "url": "https://news.yahoo.co.jp/articles/48f3b6e1411faa59de722d0e2266edc52d4d0ede",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ一族支援のUSD1、世界数百万の加盟店で決済対応へ",
-        "url": "https://news.yahoo.co.jp/articles/461ea7a147cd6938742760c053ef449081ed4441",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナDEX「Orca」と融資プロトコル「Loopscale」の運営チームが合併、新組織「Formation」でトークン化資産市場の構築へ",
-        "url": "https://news.yahoo.co.jp/articles/fbb7b1fec38a74ad7622065f008972661651d5e5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンの決済基盤「Open Money Stack」がトロン対応、USDTと銀行決済網を接続",
-        "url": "https://news.yahoo.co.jp/articles/a8ae15e668b76f5439696171527bc09cf7175234",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "スタンダードチャータード、シンガポールで暗号資産カストディ提供へ。ステーブルコインやRWAも対象",
+        "url": "https://news.yahoo.co.jp/articles/8a9d77327019971da7d736cf30f25c5aadbb112e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "セキュリタイズ、米国株12銘柄のオンチェーン取引開始、配当などの権利を維持する設計",
+        "url": "https://news.yahoo.co.jp/articles/cd739a452db730bff4071b87a2919e0e5a1f74a4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Suiのビットコイン金融基盤「Hashi」、5億ドル超の資本コミットメントでメインネットローンチへ",
+        "url": "https://news.yahoo.co.jp/articles/2cec1ddeb9d1dd733dec6cd2311f15c5511ac11f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "EU規制当局、USDTなど未認可ステーブルコインを排除へ──3カ月の期限を設定",
         "url": "https://news.yahoo.co.jp/articles/ae05182b0238bf5ac6364d91af48643d096ea336",
         "source": "Yahoo",
@@ -16791,27 +16839,15 @@
         "url": "https://news.yahoo.co.jp/articles/48f3b6e1411faa59de722d0e2266edc52d4d0ede",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "トランプ一族支援のUSD1、世界数百万の加盟店で決済対応へ",
-        "url": "https://news.yahoo.co.jp/articles/461ea7a147cd6938742760c053ef449081ed4441",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナDEX「Orca」と融資プロトコル「Loopscale」の運営チームが合併、新組織「Formation」でトークン化資産市場の構築へ",
-        "url": "https://news.yahoo.co.jp/articles/fbb7b1fec38a74ad7622065f008972661651d5e5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンの決済基盤「Open Money Stack」がトロン対応、USDTと銀行決済網を接続",
-        "url": "https://news.yahoo.co.jp/articles/a8ae15e668b76f5439696171527bc09cf7175234",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表",
+        "url": "https://news.yahoo.co.jp/articles/226aba3d35861e9eb170de4cbcf468e1338e1847",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
@@ -16839,18 +16875,18 @@
       {
         "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
         "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、信託型ステーブルコインの法定調書「提出不要」要望。2027年度税制改正で",
-        "url": "https://news.yahoo.co.jp/articles/241198fa15baecb8f7450dfc35a57f734f060754",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表",
+        "url": "https://news.yahoo.co.jp/articles/226aba3d35861e9eb170de4cbcf468e1338e1847",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
         "source": "Yahoo",
@@ -16877,12 +16913,6 @@
       {
         "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も",
         "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、信託型ステーブルコインの法定調書「提出不要」要望。2027年度税制改正で",
-        "url": "https://news.yahoo.co.jp/articles/241198fa15baecb8f7450dfc35a57f734f060754",
         "source": "Yahoo",
         "date": ""
       }
@@ -16965,76 +16995,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "キルギス、金裏付けステーブルコイン「USDKG」の事業終了へ",
+        "url": "https://news.yahoo.co.jp/articles/46f7cd757411cc1bf1b78fc2ba079e03ad116e3d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スタンダードチャータード、シンガポールで暗号資産カストディ提供へ。ステーブルコインやRWAも対象",
+        "url": "https://news.yahoo.co.jp/articles/8a9d77327019971da7d736cf30f25c5aadbb112e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "セキュリタイズ、米国株12銘柄のオンチェーン取引開始、配当などの権利を維持する設計",
+        "url": "https://news.yahoo.co.jp/articles/cd739a452db730bff4071b87a2919e0e5a1f74a4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Suiのビットコイン金融基盤「Hashi」、5億ドル超の資本コミットメントでメインネットローンチへ",
+        "url": "https://news.yahoo.co.jp/articles/2cec1ddeb9d1dd733dec6cd2311f15c5511ac11f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表",
+        "url": "https://news.yahoo.co.jp/articles/226aba3d35861e9eb170de4cbcf468e1338e1847",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビザとアブダビのADI財団が協業、ブロックチェーン活用のデジタル決済を共同検討",
         "url": "https://news.yahoo.co.jp/articles/88b52d464e400ca5fed083cbd3ae23279cde2116",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "EU規制当局、USDTなど未認可ステーブルコインを排除へ──3カ月の期限を設定",
-        "url": "https://news.yahoo.co.jp/articles/ae05182b0238bf5ac6364d91af48643d096ea336",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化された市場が金融リスクを増幅させる可能性＝IMF",
-        "url": "https://news.yahoo.co.jp/articles/cea752620cf5af77db3f70839704b6e15ca63da6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、米大手銀行と競合──ウォール街のお家芸「レバレッジ型ETFへの資金提供」で＝WSJ",
-        "url": "https://news.yahoo.co.jp/articles/48f3b6e1411faa59de722d0e2266edc52d4d0ede",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ一族支援のUSD1、世界数百万の加盟店で決済対応へ",
-        "url": "https://news.yahoo.co.jp/articles/461ea7a147cd6938742760c053ef449081ed4441",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米サークル、SAP系企業とUSDC・EURCを業務システムへ統合",
-        "url": "https://news.yahoo.co.jp/articles/81e8aa23391ba7480963fdb989fea390c8e83c69",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "キルギス、金裏付けステーブルコイン「USDKG」の事業終了へ",
+        "url": "https://news.yahoo.co.jp/articles/46f7cd757411cc1bf1b78fc2ba079e03ad116e3d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スタンダードチャータード、シンガポールで暗号資産カストディ提供へ。ステーブルコインやRWAも対象",
+        "url": "https://news.yahoo.co.jp/articles/8a9d77327019971da7d736cf30f25c5aadbb112e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "セキュリタイズ、米国株12銘柄のオンチェーン取引開始、配当などの権利を維持する設計",
+        "url": "https://news.yahoo.co.jp/articles/cd739a452db730bff4071b87a2919e0e5a1f74a4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Suiのビットコイン金融基盤「Hashi」、5億ドル超の資本コミットメントでメインネットローンチへ",
+        "url": "https://news.yahoo.co.jp/articles/2cec1ddeb9d1dd733dec6cd2311f15c5511ac11f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表",
+        "url": "https://news.yahoo.co.jp/articles/226aba3d35861e9eb170de4cbcf468e1338e1847",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビザとアブダビのADI財団が協業、ブロックチェーン活用のデジタル決済を共同検討",
         "url": "https://news.yahoo.co.jp/articles/88b52d464e400ca5fed083cbd3ae23279cde2116",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "EU規制当局、USDTなど未認可ステーブルコインを排除へ──3カ月の期限を設定",
-        "url": "https://news.yahoo.co.jp/articles/ae05182b0238bf5ac6364d91af48643d096ea336",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化された市場が金融リスクを増幅させる可能性＝IMF",
-        "url": "https://news.yahoo.co.jp/articles/cea752620cf5af77db3f70839704b6e15ca63da6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、米大手銀行と競合──ウォール街のお家芸「レバレッジ型ETFへの資金提供」で＝WSJ",
-        "url": "https://news.yahoo.co.jp/articles/48f3b6e1411faa59de722d0e2266edc52d4d0ede",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ一族支援のUSD1、世界数百万の加盟店で決済対応へ",
-        "url": "https://news.yahoo.co.jp/articles/461ea7a147cd6938742760c053ef449081ed4441",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米サークル、SAP系企業とUSDC・EURCを業務システムへ統合",
-        "url": "https://news.yahoo.co.jp/articles/81e8aa23391ba7480963fdb989fea390c8e83c69",
         "source": "Yahoo",
         "date": ""
       }
@@ -17755,6 +17785,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "連日報じられる「個人情報流出」の裏側。大企業が防げない構造的理由とAIハッキングの脅威",
+        "url": "https://news.yahoo.co.jp/expert/articles/5727acc66d97bfc17539554b51b62655ecc7c8d6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "神奈川県警巡査長、失効した運転免許証３１枚を不正持ち出し",
         "url": "https://news.yahoo.co.jp/articles/1ce46701e76401a929692514967385c8dfae65b4",
         "source": "Yahoo",
@@ -17781,18 +17817,18 @@
       {
         "title": "「不安が全く払拭されていない」病歴が“本人同意なし”でAI開発に利用？ 改正個人情報保護法、弁護士らが「特に問題」と指摘するポイントとは",
         "url": "https://news.yahoo.co.jp/articles/4ed4fba426a97cc6e3791d3b755b908fce3fd50a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "相次ぐ情報漏えいで安全対策強化などを注意喚起 個人情報保護委員会",
-        "url": "https://news.yahoo.co.jp/articles/84b36be75fcf276c8b99e66a453b5d2374a6d49c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "連日報じられる「個人情報流出」の裏側。大企業が防げない構造的理由とAIハッキングの脅威",
+        "url": "https://news.yahoo.co.jp/expert/articles/5727acc66d97bfc17539554b51b62655ecc7c8d6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "神奈川県警巡査長、失効した運転免許証３１枚を不正持ち出し",
         "url": "https://news.yahoo.co.jp/articles/1ce46701e76401a929692514967385c8dfae65b4",
         "source": "Yahoo",
@@ -17819,18 +17855,18 @@
       {
         "title": "「不安が全く払拭されていない」病歴が“本人同意なし”でAI開発に利用？ 改正個人情報保護法、弁護士らが「特に問題」と指摘するポイントとは",
         "url": "https://news.yahoo.co.jp/articles/4ed4fba426a97cc6e3791d3b755b908fce3fd50a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "相次ぐ情報漏えいで安全対策強化などを注意喚起 個人情報保護委員会",
-        "url": "https://news.yahoo.co.jp/articles/84b36be75fcf276c8b99e66a453b5d2374a6d49c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "連日報じられる「個人情報流出」の裏側。大企業が防げない構造的理由とAIハッキングの脅威",
+        "url": "https://news.yahoo.co.jp/expert/articles/5727acc66d97bfc17539554b51b62655ecc7c8d6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "神奈川県警巡査長、失効した運転免許証３１枚を不正持ち出し",
         "url": "https://news.yahoo.co.jp/articles/1ce46701e76401a929692514967385c8dfae65b4",
         "source": "Yahoo",
@@ -17857,12 +17893,6 @@
       {
         "title": "「不安が全く払拭されていない」病歴が“本人同意なし”でAI開発に利用？ 改正個人情報保護法、弁護士らが「特に問題」と指摘するポイントとは",
         "url": "https://news.yahoo.co.jp/articles/4ed4fba426a97cc6e3791d3b755b908fce3fd50a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "相次ぐ情報漏えいで安全対策強化などを注意喚起 個人情報保護委員会",
-        "url": "https://news.yahoo.co.jp/articles/84b36be75fcf276c8b99e66a453b5d2374a6d49c",
         "source": "Yahoo",
         "date": ""
       }
