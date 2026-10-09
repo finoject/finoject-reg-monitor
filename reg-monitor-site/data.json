@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-09T07:09:02.271Z",
+  "generatedAt": "2026-10-09T08:39:57.960Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE,TOCOM]デリバティブの祝日取引の実施について（2026年10月12日）",
+      "url": "https://www.jpx.co.jp/news/2040/20261009-01.html",
+      "date": "2026-10-09",
+      "detectedAt": "2026-10-09T08:39:57.960Z",
+      "enriched": "2026-10-09T08:40:03.405Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大阪取引所および東京商品取引所は2026年10月12日（スポーツの日）にデリバティブの祝日取引を実施する。",
+        "取引参加者および個人投資家は当該祝日にデリバティブ商品の取引が可能であることを認識し、取引システムへのアクセスおよび注文発注の準備をする必要がある。",
+        "祝日取引は2026年10月12日に実施され、具体的な取引時間等の詳細は大阪取引所（電話06-4706-0800）または祝日取引に関する関連ページで確認できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]CEO記者会見（2026年9月25日開催）要旨の掲載について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/20261013-11.html",
+      "date": "2026-10-09",
+      "detectedAt": "2026-10-09T08:39:57.960Z",
+      "enriched": "2026-10-09T08:40:03.405Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文は2026年9月25日開催のCEO記者会見の要旨掲載を告知するもので、具体的な規制変更・基準値・対象事業者等の実務情報を含まない。",
+        "実務担当者向けの具体的な対応内容がなく、掲載情報の詳細確認をする場合はリンク先を参照する必要がある。",
+        "本告知は日本取引所グループからの情報開示であり、金融規制上の新たな要件や変更を示すものではない。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "「適格担保の担保価格」の一部改正等について",
@@ -17321,6 +17351,12 @@
     ],
     "358AC1000000032": [
       {
+        "title": "遺された家族が地獄を見る“間違いだらけの相続放棄” 「預金引き出し」「形見分け」「遺品処分」",
+        "url": "https://news.yahoo.co.jp/articles/5d7164d4ef16bc93189936122f0eb9935440350a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「元アイドルという職業への偏見」“共産党の論客”が今井絵理子議員へのバッシングに苦言",
         "url": "https://news.yahoo.co.jp/articles/e86ffd6eaf20523eb2d76813172c7fbfb091c8a9",
         "source": "Yahoo",
@@ -17347,18 +17383,18 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国で年2400％の違法貸金組織摘発",
-        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
+        "title": "遺された家族が地獄を見る“間違いだらけの相続放棄” 「預金引き出し」「形見分け」「遺品処分」",
+        "url": "https://news.yahoo.co.jp/articles/5d7164d4ef16bc93189936122f0eb9935440350a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「元アイドルという職業への偏見」“共産党の論客”が今井絵理子議員へのバッシングに苦言",
         "url": "https://news.yahoo.co.jp/articles/e86ffd6eaf20523eb2d76813172c7fbfb091c8a9",
         "source": "Yahoo",
@@ -17385,18 +17421,18 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国で年2400％の違法貸金組織摘発",
-        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
+        "title": "遺された家族が地獄を見る“間違いだらけの相続放棄” 「預金引き出し」「形見分け」「遺品処分」",
+        "url": "https://news.yahoo.co.jp/articles/5d7164d4ef16bc93189936122f0eb9935440350a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「元アイドルという職業への偏見」“共産党の論客”が今井絵理子議員へのバッシングに苦言",
         "url": "https://news.yahoo.co.jp/articles/e86ffd6eaf20523eb2d76813172c7fbfb091c8a9",
         "source": "Yahoo",
@@ -17423,12 +17459,6 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国で年2400％の違法貸金組織摘発",
-        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
