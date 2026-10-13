@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-13T06:52:44.771Z",
+  "generatedAt": "2026-10-13T08:23:36.837Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "金融安定理事会による「グローバル・ステーブルコイン（GSC）：クロスボーダーの脆弱性と金融安定のモニタリング」の公表について",
+      "url": "https://www.boj.or.jp/intl_finance/meeting/group/gro261013c.htm",
+      "date": "2026-10-13",
+      "detectedAt": "2026-10-13T08:23:36.837Z",
+      "enriched": "2026-10-13T08:23:42.745Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "FSB（金融安定理事会）は2026年10月12日、複数法域にまたがるグローバル・ステーブルコイン（GSC）のクロスボーダーな金融安定上の脆弱性、その伝播経路、及び金融安定モニタリングの指標やデータに関する分析を公表した。",
+        "各国金融当局は、GSCの単一法域では完全に評価・対処できない脆弱性を認識し、2023年7月の高レベル勧告の実施を支援する継続的な検討を進める必要があり、FSBは今後の検討分野を提示している。",
+        "2026年中盤時点でステーブルコイン市場規模は約3,000億ドル（前年同月比で変化なし）、99％以上がUS$ペッグであり、FSBは金融安定の観点から継続的な監視と脆弱性の分析を実施している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターの公表について",
+      "url": "https://www.boj.or.jp/intl_finance/meeting/group/gro261013a.htm",
+      "date": "2026-10-13",
+      "detectedAt": "2026-10-13T08:23:36.837Z",
+      "enriched": "2026-10-13T08:23:42.745Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "FSBが「責任あるAI採用のための健全慣行」を初めて提出し、金融機関は組織全体のAI統治、ライフサイクル管理、サイバーリスク軽減、第三者サービス管理を含む実践的ガイダンスに対応する必要がある。",
+        "グローバル・ステーブルコイン規制の国際的調整が不十分であり、FSBは2023年勧告の実装支援、クロスボーダー協力強化、破綻対応計画情報収集を進めるべき領域として特定した。",
+        "主権債券市場のボラティリティ上昇、民間信用市場の脆弱性、AI関連投資の再評価リスク、AI対応サイバー脅威が金融安定上の主要リスクとされ、G20の継続的な監視が必要とされている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "フェイルの発生状況（9月）",
+      "url": "https://www.boj.or.jp/statistics/set/bffail/sjgb2609.pdf",
+      "date": "2026-10-13",
+      "detectedAt": "2026-10-13T08:23:36.837Z",
+      "enriched": "2026-10-13T08:23:42.745Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年9月のフェイル件数は208件、額面総額3,435億円で、前月（429件、16,593億円）から大幅に減少した。平均フェイル期間は1.42営業日、最長期間は15営業日、バイ・イン件数はゼロ件。",
+        "日銀ネット国債DVPシステムを利用する直接参加金融機関244先（2026年8月末現在）は、国債受け方としてアンケート調査に協力し、自己口・預り口・信託口の決済フェイル状況を報告する責務を負う。",
+        "フェイルは国債DVP決済で予定決済日を経過しても対象債券が受け渡されない状態を指し、日本証券業協会規則またはJSCC規定に基づくバイ・イン手続で解消される（日銀金融市場局発表）。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "東武住販（3297）",
@@ -16993,6 +17038,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "タイSEC、ビットコイン・イーサリアムのETF国内上場ルール公表。10/16施行へ",
+        "url": "https://news.yahoo.co.jp/articles/8b1d10a96c278767f1efdcd8db736fa988b12a8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国・全北銀行、ビットコイン担保の法人融資を実行、国内銀行初＝報道",
+        "url": "https://news.yahoo.co.jp/articles/4f5c361e2b6aff4646170aadf32cebb1367d3269",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、未登録の暗号資産取引所27サイトを遮断へ──KuCoin、MEXCなど",
         "url": "https://news.yahoo.co.jp/articles/221d0eab8f1d7b4e86a9b32df6ec0647fd2035af",
         "source": "Yahoo",
@@ -17013,24 +17070,24 @@
       {
         "title": "コインチェック子会社、アブダビで金融ライセンス取得へ",
         "url": "https://news.yahoo.co.jp/articles/22b96148d75b78752f8e0dd6918394775d9a00cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CFTC、新たな規則で予測市場とギャンブルの境界線を明確化──カジノは管轄外",
-        "url": "https://news.yahoo.co.jp/articles/456233740a5fc16c161246b28144fecc45848b9e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サム・アルトマン氏出資のビットコイン生保会社、60億円を追加調達",
-        "url": "https://news.yahoo.co.jp/articles/e73879e54c324c2a7c90e782d3051cf1bd0cdf5c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "タイSEC、ビットコイン・イーサリアムのETF国内上場ルール公表。10/16施行へ",
+        "url": "https://news.yahoo.co.jp/articles/8b1d10a96c278767f1efdcd8db736fa988b12a8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国・全北銀行、ビットコイン担保の法人融資を実行、国内銀行初＝報道",
+        "url": "https://news.yahoo.co.jp/articles/4f5c361e2b6aff4646170aadf32cebb1367d3269",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、未登録の暗号資産取引所27サイトを遮断へ──KuCoin、MEXCなど",
         "url": "https://news.yahoo.co.jp/articles/221d0eab8f1d7b4e86a9b32df6ec0647fd2035af",
         "source": "Yahoo",
@@ -17051,18 +17108,6 @@
       {
         "title": "コインチェック子会社、アブダビで金融ライセンス取得へ",
         "url": "https://news.yahoo.co.jp/articles/22b96148d75b78752f8e0dd6918394775d9a00cd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "CFTC、新たな規則で予測市場とギャンブルの境界線を明確化──カジノは管轄外",
-        "url": "https://news.yahoo.co.jp/articles/456233740a5fc16c161246b28144fecc45848b9e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サム・アルトマン氏出資のビットコイン生保会社、60億円を追加調達",
-        "url": "https://news.yahoo.co.jp/articles/e73879e54c324c2a7c90e782d3051cf1bd0cdf5c",
         "source": "Yahoo",
         "date": ""
       }
@@ -17221,6 +17266,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "韓国メリッツ証券がリップルと提携、カストディ・トークン化基盤の活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/6bf853d010cee0c235b56e49716d19b8cac7da67",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "タイSEC、ビットコイン・イーサリアムのETF国内上場ルール公表。10/16施行へ",
+        "url": "https://news.yahoo.co.jp/articles/8b1d10a96c278767f1efdcd8db736fa988b12a8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DWF Labs関連2社がビットゴーを提訴、トークンのロックアップ違反を主張＝報道",
+        "url": "https://news.yahoo.co.jp/articles/2f7f4363057c267b167debd12370bb5edca01dc2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "XRPレジャーで権限委任機能が有効化、秘密鍵を共有せず操作を分担",
+        "url": "https://news.yahoo.co.jp/articles/7df5e77417a819ed898e3a9ce02339785caf8553",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIら4社、AIエージェント活用の日韓金融・決済で基本合意、ステーブルコイン応用も検討",
         "url": "https://news.yahoo.co.jp/articles/16853924989c8cac76b35367a02bb36b161bffd6",
         "source": "Yahoo",
@@ -17229,36 +17298,36 @@
       {
         "title": "AIエージェントが「未解決殺人事件で虚偽通報」、企業はなぜ責任を免れられないのか",
         "url": "https://news.yahoo.co.jp/articles/519d9fd396d5978f6bda7b362dff84508cdc12fc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「レバレッジETF警告できず申し訳ない」",
-        "url": "https://news.yahoo.co.jp/articles/e1fd94fc2ab379a425eef2ca6d1bf264cb031325",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、10月の底固めに兆し──「アップトーバー」を支える需給の変化と中間選挙【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1272d2bac919d9511adeec8bd6a96aed5a61496f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "企業ではSAP、個人ではGalaxy──ステーブルコインが“いつもの場所”に入り始めた【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/7a7ddba9182adef6e50d006f4f21b212cd86035b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIに7割向かうVC資金、ブロックチェーンは順番を待つ【記者コラム】",
-        "url": "https://news.yahoo.co.jp/articles/4d75e6199fd2e1beecd7cc327d69b1c36c91ebf7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "韓国メリッツ証券がリップルと提携、カストディ・トークン化基盤の活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/6bf853d010cee0c235b56e49716d19b8cac7da67",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "タイSEC、ビットコイン・イーサリアムのETF国内上場ルール公表。10/16施行へ",
+        "url": "https://news.yahoo.co.jp/articles/8b1d10a96c278767f1efdcd8db736fa988b12a8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DWF Labs関連2社がビットゴーを提訴、トークンのロックアップ違反を主張＝報道",
+        "url": "https://news.yahoo.co.jp/articles/2f7f4363057c267b167debd12370bb5edca01dc2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "XRPレジャーで権限委任機能が有効化、秘密鍵を共有せず操作を分担",
+        "url": "https://news.yahoo.co.jp/articles/7df5e77417a819ed898e3a9ce02339785caf8553",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIら4社、AIエージェント活用の日韓金融・決済で基本合意、ステーブルコイン応用も検討",
         "url": "https://news.yahoo.co.jp/articles/16853924989c8cac76b35367a02bb36b161bffd6",
         "source": "Yahoo",
@@ -17267,30 +17336,6 @@
       {
         "title": "AIエージェントが「未解決殺人事件で虚偽通報」、企業はなぜ責任を免れられないのか",
         "url": "https://news.yahoo.co.jp/articles/519d9fd396d5978f6bda7b362dff84508cdc12fc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「レバレッジETF警告できず申し訳ない」",
-        "url": "https://news.yahoo.co.jp/articles/e1fd94fc2ab379a425eef2ca6d1bf264cb031325",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、10月の底固めに兆し──「アップトーバー」を支える需給の変化と中間選挙【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1272d2bac919d9511adeec8bd6a96aed5a61496f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "企業ではSAP、個人ではGalaxy──ステーブルコインが“いつもの場所”に入り始めた【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/7a7ddba9182adef6e50d006f4f21b212cd86035b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIに7割向かうVC資金、ブロックチェーンは順番を待つ【記者コラム】",
-        "url": "https://news.yahoo.co.jp/articles/4d75e6199fd2e1beecd7cc327d69b1c36c91ebf7",
         "source": "Yahoo",
         "date": ""
       }
