@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-13T23:25:10.318Z",
+  "generatedAt": "2026-10-14T01:03:55.106Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（10月10日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261010.htm",
+      "date": "2026-10-14",
+      "detectedAt": "2026-10-14T01:03:55.106Z",
+      "enriched": "2026-10-14T01:04:00.827Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の2026年10月10日現在の総資産は624兆6,327億円で、国債503兆6,349億円、貸付金68兆4,158億円が主要な資産構成である。",
+        "金銭の信託（上場投資信託）残高36兆9,534億円、共通担保資金供給オペレーション等による貸付金32兆7,513億円など、金融調節・政策支援用の資産を保有している。",
+        "負債では発行銀行券114兆0,338億円、当座預金408兆1,617億円が大部分を占め、純資産38兆7,224億円である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "マネーストック（9月）",
+      "url": "https://www.boj.or.jp/statistics/money/ms/ms2609.pdf",
+      "date": "2026-10-14",
+      "detectedAt": "2026-10-14T01:03:55.106Z",
+      "enriched": "2026-10-14T01:04:00.827Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年9月のM2は前年同月比2.0%、M3は1.2%の伸び率を示し、季調済前月比ではM2が2.4%、M3が1.4%となった。",
+        "日本銀行は毎月マネーストック（M1・M2・M3等）の速報値を公表し、金融政策運営の参考指標として活用している。",
+        "本統計は日本銀行調査統計局が公表する公式統計であり、金融機関や実務家は月次の金融動向把握に当たり参照する必要がある。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[東証]市場区分の変更日の決定（グロース市場からプライム市場）：ＨＥＮＮＧＥ（株）",
@@ -17083,6 +17113,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "デジタル通貨は現金と同等のプライバシーを実現できるが課題も残る＝BIS",
+        "url": "https://news.yahoo.co.jp/articles/a985722697f27fadc5100c76e895ecbc7eb3eb7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "市場横断的に取引できる、暗号資産の永久先物取引の仕組みとは？抑えるべきポイントを紹介（海外）",
         "url": "https://news.yahoo.co.jp/articles/edf4758532f08121ee5a2834a7b1219d5b02bf4b",
         "source": "Yahoo",
@@ -17109,18 +17145,18 @@
       {
         "title": "スタンダードチャータード、RLUSDのカストディ開始、LMAXでの担保利用へ",
         "url": "https://news.yahoo.co.jp/articles/b341f29b2b66523c9eb79ab8ccb00b1d834e3093",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融安定理事会、G20にステーブルコイン監督の連携強化を要請",
-        "url": "https://news.yahoo.co.jp/articles/3c14a0f70932379040006a2e51d9153e468016fe",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "デジタル通貨は現金と同等のプライバシーを実現できるが課題も残る＝BIS",
+        "url": "https://news.yahoo.co.jp/articles/a985722697f27fadc5100c76e895ecbc7eb3eb7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "市場横断的に取引できる、暗号資産の永久先物取引の仕組みとは？抑えるべきポイントを紹介（海外）",
         "url": "https://news.yahoo.co.jp/articles/edf4758532f08121ee5a2834a7b1219d5b02bf4b",
         "source": "Yahoo",
@@ -17147,12 +17183,6 @@
       {
         "title": "スタンダードチャータード、RLUSDのカストディ開始、LMAXでの担保利用へ",
         "url": "https://news.yahoo.co.jp/articles/b341f29b2b66523c9eb79ab8ccb00b1d834e3093",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融安定理事会、G20にステーブルコイン監督の連携強化を要請",
-        "url": "https://news.yahoo.co.jp/articles/3c14a0f70932379040006a2e51d9153e468016fe",
         "source": "Yahoo",
         "date": ""
       }
@@ -17311,6 +17341,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "デジタル通貨は現金と同等のプライバシーを実現できるが課題も残る＝BIS",
+        "url": "https://news.yahoo.co.jp/articles/a985722697f27fadc5100c76e895ecbc7eb3eb7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スタンダードチャータード、RLUSDのカストディ開始",
         "url": "https://news.yahoo.co.jp/articles/71f37b5f42d7cc37f195be9b1d6313da42f2cdfe",
         "source": "Yahoo",
@@ -17337,18 +17373,18 @@
       {
         "title": "韓国メリッツ証券がリップルと提携、カストディ・トークン化基盤の活用検討",
         "url": "https://news.yahoo.co.jp/articles/6bf853d010cee0c235b56e49716d19b8cac7da67",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイSEC、ビットコイン・イーサリアムのETF国内上場ルール公表。10/16施行へ",
-        "url": "https://news.yahoo.co.jp/articles/8b1d10a96c278767f1efdcd8db736fa988b12a8a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "デジタル通貨は現金と同等のプライバシーを実現できるが課題も残る＝BIS",
+        "url": "https://news.yahoo.co.jp/articles/a985722697f27fadc5100c76e895ecbc7eb3eb7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スタンダードチャータード、RLUSDのカストディ開始",
         "url": "https://news.yahoo.co.jp/articles/71f37b5f42d7cc37f195be9b1d6313da42f2cdfe",
         "source": "Yahoo",
@@ -17375,12 +17411,6 @@
       {
         "title": "韓国メリッツ証券がリップルと提携、カストディ・トークン化基盤の活用検討",
         "url": "https://news.yahoo.co.jp/articles/6bf853d010cee0c235b56e49716d19b8cac7da67",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイSEC、ビットコイン・イーサリアムのETF国内上場ルール公表。10/16施行へ",
-        "url": "https://news.yahoo.co.jp/articles/8b1d10a96c278767f1efdcd8db736fa988b12a8a",
         "source": "Yahoo",
         "date": ""
       }
@@ -18101,6 +18131,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "スズキもヤマハも「情報漏洩」 狙われたコミュニティサイト でも「漏れた情報が違う」ワケ",
+        "url": "https://news.yahoo.co.jp/articles/714897f982e558b70f3cf43268fcfbc31a859451",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヤマト運輸の機密文書リサイクルサービス「ECOBox」、個人向け新サイズを全国発売",
         "url": "https://news.yahoo.co.jp/articles/334cd3d1abe22aa52b6c01cc0f99b2d259e353e9",
         "source": "Yahoo",
@@ -18127,18 +18163,18 @@
       {
         "title": "神奈川県警巡査長、失効した運転免許証３１枚を不正持ち出し",
         "url": "https://news.yahoo.co.jp/articles/1ce46701e76401a929692514967385c8dfae65b4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "奈良区検 個人情報保護法違反で元警部補の男性を略式起訴",
-        "url": "https://news.yahoo.co.jp/articles/7efeb99e8f49149fcc0f5d51b0a5f3c9e2a9459c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "スズキもヤマハも「情報漏洩」 狙われたコミュニティサイト でも「漏れた情報が違う」ワケ",
+        "url": "https://news.yahoo.co.jp/articles/714897f982e558b70f3cf43268fcfbc31a859451",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヤマト運輸の機密文書リサイクルサービス「ECOBox」、個人向け新サイズを全国発売",
         "url": "https://news.yahoo.co.jp/articles/334cd3d1abe22aa52b6c01cc0f99b2d259e353e9",
         "source": "Yahoo",
@@ -18165,18 +18201,18 @@
       {
         "title": "神奈川県警巡査長、失効した運転免許証３１枚を不正持ち出し",
         "url": "https://news.yahoo.co.jp/articles/1ce46701e76401a929692514967385c8dfae65b4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "奈良区検 個人情報保護法違反で元警部補の男性を略式起訴",
-        "url": "https://news.yahoo.co.jp/articles/7efeb99e8f49149fcc0f5d51b0a5f3c9e2a9459c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "スズキもヤマハも「情報漏洩」 狙われたコミュニティサイト でも「漏れた情報が違う」ワケ",
+        "url": "https://news.yahoo.co.jp/articles/714897f982e558b70f3cf43268fcfbc31a859451",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヤマト運輸の機密文書リサイクルサービス「ECOBox」、個人向け新サイズを全国発売",
         "url": "https://news.yahoo.co.jp/articles/334cd3d1abe22aa52b6c01cc0f99b2d259e353e9",
         "source": "Yahoo",
@@ -18203,12 +18239,6 @@
       {
         "title": "神奈川県警巡査長、失効した運転免許証３１枚を不正持ち出し",
         "url": "https://news.yahoo.co.jp/articles/1ce46701e76401a929692514967385c8dfae65b4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "奈良区検 個人情報保護法違反で元警部補の男性を略式起訴",
-        "url": "https://news.yahoo.co.jp/articles/7efeb99e8f49149fcc0f5d51b0a5f3c9e2a9459c",
         "source": "Yahoo",
         "date": ""
       }
