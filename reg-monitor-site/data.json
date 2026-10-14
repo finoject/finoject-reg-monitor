@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-14T03:50:42.679Z",
+  "generatedAt": "2026-10-14T05:21:42.128Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）ルクレ",
+      "url": "https://www.jpx.co.jp/news/1031/20261014_01.html",
+      "date": "2026-10-14",
+      "detectedAt": "2026-10-14T05:21:42.128Z",
+      "enriched": "2026-10-14T05:21:46.996Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)ルクレ(コード648A)の10月15日上場日において、板中心値段1,480円から上限3,405円(更新値幅74円・10分間隔)、下限1,110円(通常値幅・3分間隔)で気配を運用し、初値決定前は制限値幅を適用しない。",
+        "取引参加者は新規上場日の売買において成行呼値を禁止し、注文受付価格を370円以上5,920円以下の範囲に限定して受け付け、初値決定後に初値を基準値段とした通常の制限値幅を適用する。",
+        "東証が公表した本気配運用ルールに基づき、市場参加者は10月15日のルクレ上場初日の取引で指定された気配更新ルール・価格帯・注文制限に従う必要がある。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "第５回「2040年に向けた我が国金融資本市場のビジョンについての懇談会」を開催いたしました",
@@ -17128,6 +17143,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "韓国、未申告の暗号資産取引所など27サイトのアクセス遮断決定。KuCoinやMEXCも対象に",
+        "url": "https://news.yahoo.co.jp/articles/3ec30ce0b1e42947dd04eabf483d2d2925e98bfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「死んだインターネット理論」は陰謀論ではなくなった？ ネットの過半数がボットになり、広告ビジネスが崩壊の危機に",
         "url": "https://news.yahoo.co.jp/articles/dea0a012fcd51e6790a21bfea2cccc3095bfef4a",
         "source": "Yahoo",
@@ -17154,18 +17175,18 @@
       {
         "title": "コインチェックG傘下3iQの中東関連会社、アブダビで金融ライセンスの原則承認を取得",
         "url": "https://news.yahoo.co.jp/articles/d7233c8772bb43f589fa38b7849f3a24ad9b3436",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "セルシウス創業者アレックス・マシンスキー、NY州司法長官から永久追放処分を受ける",
-        "url": "https://news.yahoo.co.jp/articles/1ace1a87b843d83664e226a076724dc465128e90",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "韓国、未申告の暗号資産取引所など27サイトのアクセス遮断決定。KuCoinやMEXCも対象に",
+        "url": "https://news.yahoo.co.jp/articles/3ec30ce0b1e42947dd04eabf483d2d2925e98bfd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「死んだインターネット理論」は陰謀論ではなくなった？ ネットの過半数がボットになり、広告ビジネスが崩壊の危機に",
         "url": "https://news.yahoo.co.jp/articles/dea0a012fcd51e6790a21bfea2cccc3095bfef4a",
         "source": "Yahoo",
@@ -17192,12 +17213,6 @@
       {
         "title": "コインチェックG傘下3iQの中東関連会社、アブダビで金融ライセンスの原則承認を取得",
         "url": "https://news.yahoo.co.jp/articles/d7233c8772bb43f589fa38b7849f3a24ad9b3436",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "セルシウス創業者アレックス・マシンスキー、NY州司法長官から永久追放処分を受ける",
-        "url": "https://news.yahoo.co.jp/articles/1ace1a87b843d83664e226a076724dc465128e90",
         "source": "Yahoo",
         "date": ""
       }
