@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-10-15T00:52:10.842Z",
+  "generatedAt": "2026-10-15T02:34:54.751Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "外国株式信用取引の取扱状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign-shinyo/index.html",
+      "date": "2026-10-15",
+      "detectedAt": "2026-10-15T02:34:54.751Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は外国株式信用取引について、会員から報告を受けた月間委託売買代金と月末残高を統計として毎月公表し、2026年4月分データを2026年6月15日に公開した。",
+        "会員である証券会社は外国株式信用取引の実績（委託売買代金・月末残高）を協会に報告し、協会はこれを集計して統計情報として提供する。",
+        "統計公表は原則として毎月15日（休業日の場合は翌営業日）に実施され、外国株式信用取引制度は2022年7月から開始されており、本統計はその後の継続的な取扱状況を示すもの。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-15T02:35:00.996Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【挨拶】小枝審議委員「わが国の経済・物価情勢と金融政策」（熊本）",
+      "url": "https://www.boj.or.jp/about/press/koen_2026/ko261015a.htm",
+      "date": "2026-10-15",
+      "detectedAt": "2026-10-15T02:34:54.751Z",
+      "enriched": "2026-10-15T02:35:00.996Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和8年熊本地震から2か月半経過した現在も影響が各地に残存し、長期的レジリエンシー確保が経済の底堅さを左右する重要論点となっていると当審議委員が指摘。自然災害リスクへの対応能力蓄積が求められている。",
+        "物価上昇は輸入物価高と企業の価格転嫁が基底にあり、CPI全体で500以上の品目のうち7割超で前年比上昇、品目別前年比の中央値が2％台前半に達し、賃金・物価の相互参照が進行中。企業業績と人手不足が賃上げの重視要因である。",
+        "日本銀行は9月決定会合で政策金利を1.25％に引き上げ、2026年度・2027年度の物価については上振れリスクが大きいと7月時点のリスクバランスで評価。AI関連需要・円安・地政学リスクが物価上昇圧力となっている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "「市場調節に関する意見交換会」（2026年10月）の概要",
+      "url": "https://www.boj.or.jp/paym/market/mkt261015a.pdf",
+      "date": "2026-10-15",
+      "detectedAt": "2026-10-15T02:34:54.751Z",
+      "enriched": "2026-10-15T02:35:00.997Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年10月14日の意見交換会で、日本銀行金融市場局は短期金利（無担保コールレート・GCレポレート）、国庫短期証券利回り、長期金利の最近の推移をグラフで説明し、付利金利が+0.1%から+1.25%へ段階的に引き上げられたことを示した。",
+        "オペレーション対象先（日本銀行本店を売買店・貸付店とする金融機関）の市場部門担当役員・実務責任者は、金融市場局長・市場調節課長・総務課長・市場企画課長から金融市場動向・国債市場流動性・短期金融市場動向の説明を受け、市場調節運営について質疑応答を行った。",
+        "本説明会は2026年10月14日17時30分から日本銀行本店で開催され、資料１～３（市場調節運営・国債市場機能度・東京短期金融市場サーベイ8月結果）が提示された。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[OSE]国債先物における受渡適格銘柄及び交換比率一覧表の更新",
@@ -4144,22 +4190,6 @@
         "初値決定まで制限値幅を適用せず、初値決定後は当該初値を基準値段として制限値幅が適用される東証の新規上場気配運用ルール。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "外国株式信用取引の取扱状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/foreign-shinyo/index.html",
-      "date": "2026-09-15",
-      "detectedAt": "2026-09-15T01:53:07.077Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は外国株式信用取引について、会員から報告を受けた月間委託売買代金と月末残高を統計として毎月公表し、2026年4月分データを2026年6月15日に公開した。",
-        "会員である証券会社は外国株式信用取引の実績（委託売買代金・月末残高）を協会に報告し、協会はこれを集計して統計情報として提供する。",
-        "統計公表は原則として毎月15日（休業日の場合は翌営業日）に実施され、外国株式信用取引制度は2022年7月から開始されており、本統計はその後の継続的な取扱状況を示すもの。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-15T01:53:12.101Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -17219,6 +17249,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "サークルのUSDC、EUのMiCAに基づく初の「重要な電子マネートークン」に",
+        "url": "https://news.yahoo.co.jp/articles/ab6f9d524ccd4c68df9a3828faee29389054b476",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kraken親会社Payward、EU銀行Saldo Bankを買収へ",
         "url": "https://news.yahoo.co.jp/articles/7d41ca740dfa99259a4e4f84d2e27f1882f96693",
         "source": "Yahoo",
@@ -17245,18 +17281,18 @@
       {
         "title": "「死んだインターネット理論」は陰謀論ではなくなった？ ネットの過半数がボットになり、広告ビジネスが崩壊の危機に",
         "url": "https://news.yahoo.co.jp/articles/dea0a012fcd51e6790a21bfea2cccc3095bfef4a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル通貨は現金と同等のプライバシーを実現できるが課題も残る＝BIS",
-        "url": "https://news.yahoo.co.jp/articles/a985722697f27fadc5100c76e895ecbc7eb3eb7a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "サークルのUSDC、EUのMiCAに基づく初の「重要な電子マネートークン」に",
+        "url": "https://news.yahoo.co.jp/articles/ab6f9d524ccd4c68df9a3828faee29389054b476",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kraken親会社Payward、EU銀行Saldo Bankを買収へ",
         "url": "https://news.yahoo.co.jp/articles/7d41ca740dfa99259a4e4f84d2e27f1882f96693",
         "source": "Yahoo",
@@ -17283,12 +17319,6 @@
       {
         "title": "「死んだインターネット理論」は陰謀論ではなくなった？ ネットの過半数がボットになり、広告ビジネスが崩壊の危機に",
         "url": "https://news.yahoo.co.jp/articles/dea0a012fcd51e6790a21bfea2cccc3095bfef4a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル通貨は現金と同等のプライバシーを実現できるが課題も残る＝BIS",
-        "url": "https://news.yahoo.co.jp/articles/a985722697f27fadc5100c76e895ecbc7eb3eb7a",
         "source": "Yahoo",
         "date": ""
       }
@@ -17447,6 +17477,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "サークルのUSDC、EUのMiCAに基づく初の「重要な電子マネートークン」に",
+        "url": "https://news.yahoo.co.jp/articles/ab6f9d524ccd4c68df9a3828faee29389054b476",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スラッシュビジョンが「Slash App」正式公開、ステーブルコイン決済カードの一般申込開始",
+        "url": "https://news.yahoo.co.jp/articles/30f524ab0a1aea4ab3c44decb03728424f6fe8ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコインUSDCでカード決済のSlash Card、アプリから申し込み可能に",
+        "url": "https://news.yahoo.co.jp/articles/f44d8c012637c4745c825d67c25f5b30b674f674",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BTCはゴールドより変動性が低くなる──『ビットコイン・スタンダード』著者がホワイト教授に反論",
         "url": "https://news.yahoo.co.jp/articles/f2872bedf81dafecdfaac3177047e1f311cb8246",
         "source": "Yahoo",
@@ -17461,30 +17509,30 @@
       {
         "title": "テザー、EFYファイナンスに出資。中南米でステーブルコイン利用基盤の強化へ",
         "url": "https://news.yahoo.co.jp/articles/1c5ff53569cf8096f278a107fa1f913cbea600c7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、韓国大手カード会社と提携──ステーブルコイン決済も検討",
-        "url": "https://news.yahoo.co.jp/articles/d60974f7e9d66c0b355451901423f6e45d416baa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップルとストライプ傘下プリヴィが提携、XRPL向けウォレット基盤を提供へ",
-        "url": "https://news.yahoo.co.jp/articles/8dc785ee914e4093340d63e794c572b40aa6c701",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイビット、米国株・ETFの取引サービス開始、1000銘柄超がUSDCで取引可能に",
-        "url": "https://news.yahoo.co.jp/articles/b60180c1f9b8e5caeb23abcdbfa41e1cea3317e9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "サークルのUSDC、EUのMiCAに基づく初の「重要な電子マネートークン」に",
+        "url": "https://news.yahoo.co.jp/articles/ab6f9d524ccd4c68df9a3828faee29389054b476",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スラッシュビジョンが「Slash App」正式公開、ステーブルコイン決済カードの一般申込開始",
+        "url": "https://news.yahoo.co.jp/articles/30f524ab0a1aea4ab3c44decb03728424f6fe8ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコインUSDCでカード決済のSlash Card、アプリから申し込み可能に",
+        "url": "https://news.yahoo.co.jp/articles/f44d8c012637c4745c825d67c25f5b30b674f674",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BTCはゴールドより変動性が低くなる──『ビットコイン・スタンダード』著者がホワイト教授に反論",
         "url": "https://news.yahoo.co.jp/articles/f2872bedf81dafecdfaac3177047e1f311cb8246",
         "source": "Yahoo",
@@ -17499,24 +17547,6 @@
       {
         "title": "テザー、EFYファイナンスに出資。中南米でステーブルコイン利用基盤の強化へ",
         "url": "https://news.yahoo.co.jp/articles/1c5ff53569cf8096f278a107fa1f913cbea600c7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、韓国大手カード会社と提携──ステーブルコイン決済も検討",
-        "url": "https://news.yahoo.co.jp/articles/d60974f7e9d66c0b355451901423f6e45d416baa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップルとストライプ傘下プリヴィが提携、XRPL向けウォレット基盤を提供へ",
-        "url": "https://news.yahoo.co.jp/articles/8dc785ee914e4093340d63e794c572b40aa6c701",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイビット、米国株・ETFの取引サービス開始、1000銘柄超がUSDCで取引可能に",
-        "url": "https://news.yahoo.co.jp/articles/b60180c1f9b8e5caeb23abcdbfa41e1cea3317e9",
         "source": "Yahoo",
         "date": ""
       }
@@ -18237,13 +18267,25 @@
     ],
     "415AC0000000057": [
       {
+        "title": "【独自第8弾】陸自の思想調査問題 防衛省、文書の存在自体の回答拒否 男性弁護士の開示請求に 文書「不存在」とはせず",
+        "url": "https://news.yahoo.co.jp/articles/9fd76a7673afad4442323021ed7c1c22b799bd2e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "陸自の情報活動 目的と手法 第三者検証を 情報収集の手法も問題だ。元隊員は自らの身分を明かさず対象者に接触したと証言した。個人情報保護法は不正な手段を用いた個人情報の取得を禁じる。隊員が身分を積極的に秘匿",
+        "url": "https://news.yahoo.co.jp/articles/0af908dd3b01cbd0077a69b61ca96c1e0f1e6fd2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "［社説］個人情報漏えい 官民で対策の底上げを",
         "url": "https://news.yahoo.co.jp/articles/4d28ca65a48cfa50d3740fa91392e6d19cdc35b5",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "《タイムズカー流出》慰謝料は過去事例で数千円 免許証を作り直しても消えない不安",
+        "title": "《タイムズカー情報流出》慰謝料は過去事例で数千円 免許証を作り直しても消えない不安",
         "url": "https://news.yahoo.co.jp/articles/789a1105e2918e6819e0752689fafc918ff7bc0b",
         "source": "Yahoo",
         "date": ""
@@ -18257,31 +18299,31 @@
       {
         "title": "タイムズカー、退会者の免許証まで漏れた——被害の大きさを決めたのは入口ではない",
         "url": "https://news.yahoo.co.jp/expert/articles/f6eb6a62303cec9f21b94f221b8d61609c299bce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スズキもヤマハも「情報漏洩」 狙われたコミュニティサイト でも「漏れた情報が違う」ワケ",
-        "url": "https://news.yahoo.co.jp/articles/714897f982e558b70f3cf43268fcfbc31a859451",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ヤマト運輸の機密文書リサイクルサービス「ECOBox」、個人向け新サイズを全国発売",
-        "url": "https://news.yahoo.co.jp/articles/334cd3d1abe22aa52b6c01cc0f99b2d259e353e9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "【独自第8弾】陸自の思想調査問題 防衛省、文書の存在自体の回答拒否 男性弁護士の開示請求に 文書「不存在」とはせず",
+        "url": "https://news.yahoo.co.jp/articles/9fd76a7673afad4442323021ed7c1c22b799bd2e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "陸自の情報活動 目的と手法 第三者検証を 情報収集の手法も問題だ。元隊員は自らの身分を明かさず対象者に接触したと証言した。個人情報保護法は不正な手段を用いた個人情報の取得を禁じる。隊員が身分を積極的に秘匿",
+        "url": "https://news.yahoo.co.jp/articles/0af908dd3b01cbd0077a69b61ca96c1e0f1e6fd2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "［社説］個人情報漏えい 官民で対策の底上げを",
         "url": "https://news.yahoo.co.jp/articles/4d28ca65a48cfa50d3740fa91392e6d19cdc35b5",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "《タイムズカー流出》慰謝料は過去事例で数千円 免許証を作り直しても消えない不安",
+        "title": "《タイムズカー情報流出》慰謝料は過去事例で数千円 免許証を作り直しても消えない不安",
         "url": "https://news.yahoo.co.jp/articles/789a1105e2918e6819e0752689fafc918ff7bc0b",
         "source": "Yahoo",
         "date": ""
@@ -18295,31 +18337,31 @@
       {
         "title": "タイムズカー、退会者の免許証まで漏れた——被害の大きさを決めたのは入口ではない",
         "url": "https://news.yahoo.co.jp/expert/articles/f6eb6a62303cec9f21b94f221b8d61609c299bce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スズキもヤマハも「情報漏洩」 狙われたコミュニティサイト でも「漏れた情報が違う」ワケ",
-        "url": "https://news.yahoo.co.jp/articles/714897f982e558b70f3cf43268fcfbc31a859451",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ヤマト運輸の機密文書リサイクルサービス「ECOBox」、個人向け新サイズを全国発売",
-        "url": "https://news.yahoo.co.jp/articles/334cd3d1abe22aa52b6c01cc0f99b2d259e353e9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "【独自第8弾】陸自の思想調査問題 防衛省、文書の存在自体の回答拒否 男性弁護士の開示請求に 文書「不存在」とはせず",
+        "url": "https://news.yahoo.co.jp/articles/9fd76a7673afad4442323021ed7c1c22b799bd2e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "陸自の情報活動 目的と手法 第三者検証を 情報収集の手法も問題だ。元隊員は自らの身分を明かさず対象者に接触したと証言した。個人情報保護法は不正な手段を用いた個人情報の取得を禁じる。隊員が身分を積極的に秘匿",
+        "url": "https://news.yahoo.co.jp/articles/0af908dd3b01cbd0077a69b61ca96c1e0f1e6fd2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "［社説］個人情報漏えい 官民で対策の底上げを",
         "url": "https://news.yahoo.co.jp/articles/4d28ca65a48cfa50d3740fa91392e6d19cdc35b5",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "《タイムズカー流出》慰謝料は過去事例で数千円 免許証を作り直しても消えない不安",
+        "title": "《タイムズカー情報流出》慰謝料は過去事例で数千円 免許証を作り直しても消えない不安",
         "url": "https://news.yahoo.co.jp/articles/789a1105e2918e6819e0752689fafc918ff7bc0b",
         "source": "Yahoo",
         "date": ""
@@ -18333,18 +18375,6 @@
       {
         "title": "タイムズカー、退会者の免許証まで漏れた——被害の大きさを決めたのは入口ではない",
         "url": "https://news.yahoo.co.jp/expert/articles/f6eb6a62303cec9f21b94f221b8d61609c299bce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スズキもヤマハも「情報漏洩」 狙われたコミュニティサイト でも「漏れた情報が違う」ワケ",
-        "url": "https://news.yahoo.co.jp/articles/714897f982e558b70f3cf43268fcfbc31a859451",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ヤマト運輸の機密文書リサイクルサービス「ECOBox」、個人向け新サイズを全国発売",
-        "url": "https://news.yahoo.co.jp/articles/334cd3d1abe22aa52b6c01cc0f99b2d259e353e9",
         "source": "Yahoo",
         "date": ""
       }
