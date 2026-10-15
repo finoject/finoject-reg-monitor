@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:10:31.515Z",
+  "generatedAt": "2026-10-15T12:04:04.322Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -17597,6 +17597,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "円連動コインJPYdf、暗号資産を担保に借りる仕組みが稼働",
+        "url": "https://news.yahoo.co.jp/articles/99e08869c4ae0fbac9d5bf91233d477309434853",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "円連動目標「JPYdf」発行の「JPY DeFi」、イーサリアムでメインネット公開",
         "url": "https://news.yahoo.co.jp/articles/2f4874500e9b7cf3d27e476af73c526d530d1ab5",
         "source": "Yahoo",
@@ -17623,18 +17629,18 @@
       {
         "title": "チェーンリンクの「Data Feeds」・「Data Streams」がステラに対応",
         "url": "https://news.yahoo.co.jp/articles/66400fb5ecab48501cc5a1690d026ceb7ee45bce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンラボ、米決済のコインミー買収完了。米48州対応の決済基盤を統合",
-        "url": "https://news.yahoo.co.jp/articles/87291f25fc03ca7a9711143784dbfa742d7b4de8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "円連動コインJPYdf、暗号資産を担保に借りる仕組みが稼働",
+        "url": "https://news.yahoo.co.jp/articles/99e08869c4ae0fbac9d5bf91233d477309434853",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "円連動目標「JPYdf」発行の「JPY DeFi」、イーサリアムでメインネット公開",
         "url": "https://news.yahoo.co.jp/articles/2f4874500e9b7cf3d27e476af73c526d530d1ab5",
         "source": "Yahoo",
@@ -17661,12 +17667,6 @@
       {
         "title": "チェーンリンクの「Data Feeds」・「Data Streams」がステラに対応",
         "url": "https://news.yahoo.co.jp/articles/66400fb5ecab48501cc5a1690d026ceb7ee45bce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンラボ、米決済のコインミー買収完了。米48州対応の決済基盤を統合",
-        "url": "https://news.yahoo.co.jp/articles/87291f25fc03ca7a9711143784dbfa742d7b4de8",
         "source": "Yahoo",
         "date": ""
       }
