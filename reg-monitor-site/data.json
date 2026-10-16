@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:41:10.983Z",
+  "generatedAt": "2026-10-16T12:12:08.457Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -17787,6 +17787,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI、オープン・スタンダードに参画",
+        "url": "https://news.yahoo.co.jp/articles/d3657a5c7a6f9004d2b50db60bda6314ea7cae4f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
         "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
         "source": "Yahoo",
@@ -17813,18 +17819,18 @@
       {
         "title": "マスターカードとBVNK、法定通貨とステーブルコイン対応の決済基盤を提供開始。銀行送金やカード決済も統合",
         "url": "https://news.yahoo.co.jp/articles/fd18269857f06d913f7d311915445a47ca119c4f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米インタラクティブ・ブローカーズ、zerohashを通じETHステーキング提供開始",
-        "url": "https://news.yahoo.co.jp/articles/82e478586a38094949931d14a4a7e9c72cfd885b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI、オープン・スタンダードに参画",
+        "url": "https://news.yahoo.co.jp/articles/d3657a5c7a6f9004d2b50db60bda6314ea7cae4f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
         "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
         "source": "Yahoo",
@@ -17851,12 +17857,6 @@
       {
         "title": "マスターカードとBVNK、法定通貨とステーブルコイン対応の決済基盤を提供開始。銀行送金やカード決済も統合",
         "url": "https://news.yahoo.co.jp/articles/fd18269857f06d913f7d311915445a47ca119c4f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米インタラクティブ・ブローカーズ、zerohashを通じETHステーキング提供開始",
-        "url": "https://news.yahoo.co.jp/articles/82e478586a38094949931d14a4a7e9c72cfd885b",
         "source": "Yahoo",
         "date": ""
       }
