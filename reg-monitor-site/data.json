@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T07:29:59.207Z",
+  "generatedAt": "2026-10-16T09:10:20.677Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,113 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "業態別の日銀当座預金残高（9月）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T09:10:20.677Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "提供データ：業態別の日銀当座預金残高について2026年5月分を集計・公表、金融機関の流動性管理状況を反映した残高データを掲載。",
+        "対象者：日銀当座預金を保有する金融機関、月次統計の公表により市場参加者が金融市場の動向を把握可能。",
+        "適用時期：2026年5月末時点の残高集計であり、日本銀行の定期統計公表スケジュールに基づき月次で継続実施。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-16T09:10:26.637Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "会長記者会見の要旨を公開しました。",
+      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T09:10:20.677Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
+        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
+        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-16T09:10:26.637Z"
+    },
+    {
+      "agency": "金融庁",
+      "title": "預貯金の不正送金問題等に対する対応状況（令和８年３月末）の公表",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261016.html",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T09:10:20.677Z",
+      "enriched": "2026-10-16T09:10:26.637Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁が預金取扱金融機関1,123機関を対象に令和8年3月末時点のATM・インターネットバンキングの認証方法等について調査を実施し、ICキャッシュカード導入済み機関数388機関（75.0%）、IC対応ATM151,139台（98.8%）、IC対応発行枚数の詳細を集計公表した。",
+        "預金取扱金融機関各行は自行のATM・インターネットバンキングにおける認証セキュリティ強化、特にICキャッシュカード導入及びIC対応ATM整備の状況を把握し、不正送金防止対策の実効性を検証すべき。",
+        "令和8年3月末時点のアンケート調査結果であり、金融庁は同調査を通じて各金融機関の不正送金防止対応の進捗状況を監督・把握している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "保険会社等における障がい者等に配慮した取組に関するアンケート調査の結果について（令和８年３月末時点）の公表",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20261016/20261016.html",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T09:10:20.677Z",
+      "enriched": "2026-10-16T09:10:26.637Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁が令和8年3月末時点で生命保険41社、損害保険34社、少額短期保険業者117社に対し実施したアンケート調査で、自筆困難者への代筆対応の内規整備率が生損保で100%、視覚障がい者への代読対応も生損保で100%となり、聴覚障がい者対応も大幅に整備が進んだ。",
+        "保険会社等は聴覚障がい者向けに公共電話リレーサービスやヨメテル対応を進め、知的・精神・発達障がい者への配慮取組実施率が96～97%に達しており、窓口表示や職員研修、相談窓口設置も継続推進が求められている。",
+        "本アンケート結果は金融庁が保険会社等の障がい者配慮状況を定期的に把握する仕組みで、今後の業務改善や規制指導の基礎資料となり、各保険会社は他社事例や障がい者からの意見を参考に利便性向上に取り組む必要がある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「監査基準の改訂について（公開草案）」についての公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261016-2/20261016.html",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T09:10:20.677Z",
+      "enriched": "2026-10-16T09:10:26.637Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "継続企業の前提に関し、国際監査基準との整合性を確保しつつ、評価期間の見直し及び監査報告書の記載事項を改正し、監査人による経営者評価の検討手続を拡充する。",
+        "監査法人及び公認会計士は、継続企業の前提について国際基準に沿った適切な対応を実施し、有価証券報告書の「事業等のリスク」等の記載内容を「その他の記載内容」として通読・検討する必要がある。",
+        "本公開草案に対する意見募集は令和8年11月16日17時00分までであり、改訂後の監査基準適用開始日は別紙に示される予定である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」の公表について",
+      "url": "https://www.boj.or.jp/intl_finance/meeting/group/gro261016a.htm",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T09:10:20.677Z",
+      "enriched": "2026-10-16T09:10:26.637Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "FSBが金融機関によるAI導入に向けて、組織全体のガバナンス・AIライフサイクルにおけるリスク管理に関する12の健全な実務慣行を最終報告書で提示。",
+        "金融機関は責任あるAI導入を通じて、効率性向上・ビジネスモデル変革・顧客サービス強化の機会を得つつ、非透明性・予測不可能な自律型AI・サイバー攻撃加速化等のリスクに対応する必要がある。",
+        "2026年10月15日にFSB公表の本報告書において、データガバナンス・説明責任・人間による監視・第三者リスク管理等を含む実務慣行が示され、金融機関の実装が期待される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "【緊急メンテナンス】会員メール利用について",
+      "url": "https://jicpa.or.jp/news/information/2026/post_20160183.html",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T09:10:20.677Z",
+      "enriched": "2026-10-16T09:10:26.637Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "会員メールサービスが緊急メンテナンスのため一時的に利用不可となり、完了時間は未定である。",
+        "全会員・準会員は当該期間中、会員メールサービスを利用できないことを認識し、重要な連絡は代替手段の確保を検討すべき。",
+        "2026年10月16日時点で緊急メンテナンス実施中であり、システム安定稼働のための措置である。"
       ],
       "aiSumV": 3
     },
@@ -3927,22 +4034,6 @@
       "enriched": "2026-09-16T08:22:13.335Z"
     },
     {
-      "agency": "日本銀行",
-      "title": "業態別の日銀当座預金残高（8月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
-      "date": "2026-09-16",
-      "detectedAt": "2026-09-16T08:22:07.859Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "提供データ：業態別の日銀当座預金残高について2026年5月分を集計・公表、金融機関の流動性管理状況を反映した残高データを掲載。",
-        "対象者：日銀当座預金を保有する金融機関、月次統計の公表により市場参加者が金融市場の動向を把握可能。",
-        "適用時期：2026年5月末時点の残高集計であり、日本銀行の定期統計公表スケジュールに基づき月次で継続実施。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-16T08:22:13.335Z"
-    },
-    {
       "agency": "日本取引所グループ",
       "title": "[東証]上場廃止等の決定：東北特殊鋼（株）",
       "url": "https://www.jpx.co.jp/news/1023/20260916-12.html",
@@ -4105,22 +4196,6 @@
         "資産運用立国実現に向けた税制措置が進められており、証券関係三団体（日本証券業協会・投資信託協会・全国証券取引所協議会）が政府と連携して対応している。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "会長記者会見の資料を公開しました。",
-      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
-      "date": "2026-09-16",
-      "detectedAt": "2026-09-16T05:51:31.131Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
-        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
-        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-16T05:51:35.988Z"
     },
     {
       "agency": "日本証券業協会",
@@ -17408,6 +17483,18 @@
     ],
     "421AC0000000059": [
       {
+        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
+        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "3メガ銀、ステーブルコイン共同発行の実現性を確認と発表",
+        "url": "https://news.yahoo.co.jp/articles/7208760008795bda3d91dae8a4985ccd54bbb41b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIとスターテイル、Open Standard参画。JPYSCとOUSDの相互運用へ実証検討",
         "url": "https://news.yahoo.co.jp/articles/eca9d130689762d85cbe7c1eb56321beebdc0749",
         "source": "Yahoo",
@@ -17428,24 +17515,24 @@
       {
         "title": "米サークル、SAP系企業とUSDC・EURCを業務システムへ統合",
         "url": "https://news.yahoo.co.jp/articles/81e8aa23391ba7480963fdb989fea390c8e83c69",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産税制、分離課税の先へ──ブロックチェーン推進協会（BCCC）のXスペースで議論した「使える制度」【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/87a13982f011b3afce009316c6661127964ea61e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "利息も償還もJPYSCで──年5%、スターテイルが個人向け社債募集へ",
-        "url": "https://news.yahoo.co.jp/articles/beb4d8d72397d0a081fbfb08926b2f8cf79703af",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
+        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "3メガ銀、ステーブルコイン共同発行の実現性を確認と発表",
+        "url": "https://news.yahoo.co.jp/articles/7208760008795bda3d91dae8a4985ccd54bbb41b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIとスターテイル、Open Standard参画。JPYSCとOUSDの相互運用へ実証検討",
         "url": "https://news.yahoo.co.jp/articles/eca9d130689762d85cbe7c1eb56321beebdc0749",
         "source": "Yahoo",
@@ -17466,18 +17553,6 @@
       {
         "title": "米サークル、SAP系企業とUSDC・EURCを業務システムへ統合",
         "url": "https://news.yahoo.co.jp/articles/81e8aa23391ba7480963fdb989fea390c8e83c69",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産税制、分離課税の先へ──ブロックチェーン推進協会（BCCC）のXスペースで議論した「使える制度」【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/87a13982f011b3afce009316c6661127964ea61e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "利息も償還もJPYSCで──年5%、スターテイルが個人向け社債募集へ",
-        "url": "https://news.yahoo.co.jp/articles/beb4d8d72397d0a081fbfb08926b2f8cf79703af",
         "source": "Yahoo",
         "date": ""
       }
@@ -17560,7 +17635,7 @@
     ],
     "422M60000002004": [
       {
-        "title": "Binance US、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索",
+        "title": "バイナンスUS、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索か＝報道",
         "url": "https://news.yahoo.co.jp/articles/9296c66619094b2cb893d3b0c184375effcb102c",
         "source": "Yahoo",
         "date": ""
@@ -17598,7 +17673,7 @@
     ],
     "fsa-guide-14": [
       {
-        "title": "Binance US、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索",
+        "title": "バイナンスUS、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索か＝報道",
         "url": "https://news.yahoo.co.jp/articles/9296c66619094b2cb893d3b0c184375effcb102c",
         "source": "Yahoo",
         "date": ""
@@ -17712,6 +17787,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
+        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "3メガ銀、ステーブルコイン共同発行の実現性を確認と発表",
+        "url": "https://news.yahoo.co.jp/articles/7208760008795bda3d91dae8a4985ccd54bbb41b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、AIエージェント向け決済基盤「AIsa」に戦略的出資",
+        "url": "https://news.yahoo.co.jp/articles/6db0fd1113ffa0f5f25326ed5304eaa7936f8eee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スタートバーン、「Startrail」をアートから物理資産全般へ拡張。GPU事業も始動",
         "url": "https://news.yahoo.co.jp/articles/a9040afdaaa70dc9f60b9c94fad88d797e1262e2",
         "source": "Yahoo",
@@ -17726,30 +17819,30 @@
       {
         "title": "米インタラクティブ・ブローカーズ、zerohashを通じETHステーキング提供開始",
         "url": "https://news.yahoo.co.jp/articles/82e478586a38094949931d14a4a7e9c72cfd885b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米クロスリバー銀行、リップルの「RLUSD」を銀行基幹システムに統合",
-        "url": "https://news.yahoo.co.jp/articles/ae46d7321731a96d63cf44d9b84fa9f3ed586b16",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドル建てステーブルコイン陣営にSBIら参加、JPYSCとの交換を検討",
-        "url": "https://news.yahoo.co.jp/articles/586946004fda581d7f9543c3ea6d4b20a44424f4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パシフィックメタとRSホールディングス、オンチェーン金融の合弁会社設立",
-        "url": "https://news.yahoo.co.jp/articles/3471d4e436dc733cff0e68a14eff3710f180472f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
+        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "3メガ銀、ステーブルコイン共同発行の実現性を確認と発表",
+        "url": "https://news.yahoo.co.jp/articles/7208760008795bda3d91dae8a4985ccd54bbb41b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、AIエージェント向け決済基盤「AIsa」に戦略的出資",
+        "url": "https://news.yahoo.co.jp/articles/6db0fd1113ffa0f5f25326ed5304eaa7936f8eee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スタートバーン、「Startrail」をアートから物理資産全般へ拡張。GPU事業も始動",
         "url": "https://news.yahoo.co.jp/articles/a9040afdaaa70dc9f60b9c94fad88d797e1262e2",
         "source": "Yahoo",
@@ -17766,27 +17859,21 @@
         "url": "https://news.yahoo.co.jp/articles/82e478586a38094949931d14a4a7e9c72cfd885b",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "米クロスリバー銀行、リップルの「RLUSD」を銀行基幹システムに統合",
-        "url": "https://news.yahoo.co.jp/articles/ae46d7321731a96d63cf44d9b84fa9f3ed586b16",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドル建てステーブルコイン陣営にSBIら参加、JPYSCとの交換を検討",
-        "url": "https://news.yahoo.co.jp/articles/586946004fda581d7f9543c3ea6d4b20a44424f4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パシフィックメタとRSホールディングス、オンチェーン金融の合弁会社設立",
-        "url": "https://news.yahoo.co.jp/articles/3471d4e436dc733cff0e68a14eff3710f180472f",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
+        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "3メガ銀、ステーブルコイン共同発行の実現性を確認と発表",
+        "url": "https://news.yahoo.co.jp/articles/7208760008795bda3d91dae8a4985ccd54bbb41b",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "AltX Researchとfinojectが提携、ステーブルコイン基盤「MIZUHIKI」の規制対応強化へ",
         "url": "https://news.yahoo.co.jp/articles/e0b348d2bd35cd281b8b3c6344dc6ecca3506e1c",
@@ -17808,24 +17895,24 @@
       {
         "title": "日銀で「送金システム不備」内部通報したら「庁舎立ち入り禁止」",
         "url": "https://news.yahoo.co.jp/articles/9d959835090fd1223acca19c52ef623aaaf921ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "戦争を支える「資金」はどこから来る？ 税収で賄う国家と「アングラ経済」に頼る武装組織【国際税務の専門家が解説】",
-        "url": "https://news.yahoo.co.jp/articles/9559759c329c074526b21e9551d0235fe65bb465",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SMBC日興、国内投資家向けDeFi基盤を開発へ──Uniswap・Baseらと協業",
-        "url": "https://news.yahoo.co.jp/articles/36183b2a7982bff8aded543f9852a6f23b4fe556",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
+        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "3メガ銀、ステーブルコイン共同発行の実現性を確認と発表",
+        "url": "https://news.yahoo.co.jp/articles/7208760008795bda3d91dae8a4985ccd54bbb41b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AltX Researchとfinojectが提携、ステーブルコイン基盤「MIZUHIKI」の規制対応強化へ",
         "url": "https://news.yahoo.co.jp/articles/e0b348d2bd35cd281b8b3c6344dc6ecca3506e1c",
         "source": "Yahoo",
@@ -17846,24 +17933,24 @@
       {
         "title": "日銀で「送金システム不備」内部通報したら「庁舎立ち入り禁止」",
         "url": "https://news.yahoo.co.jp/articles/9d959835090fd1223acca19c52ef623aaaf921ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "戦争を支える「資金」はどこから来る？ 税収で賄う国家と「アングラ経済」に頼る武装組織【国際税務の専門家が解説】",
-        "url": "https://news.yahoo.co.jp/articles/9559759c329c074526b21e9551d0235fe65bb465",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SMBC日興、国内投資家向けDeFi基盤を開発へ──Uniswap・Baseらと協業",
-        "url": "https://news.yahoo.co.jp/articles/36183b2a7982bff8aded543f9852a6f23b4fe556",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
+        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "3メガ銀、ステーブルコイン共同発行の実現性を確認と発表",
+        "url": "https://news.yahoo.co.jp/articles/7208760008795bda3d91dae8a4985ccd54bbb41b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AltX Researchとfinojectが提携、ステーブルコイン基盤「MIZUHIKI」の規制対応強化へ",
         "url": "https://news.yahoo.co.jp/articles/e0b348d2bd35cd281b8b3c6344dc6ecca3506e1c",
         "source": "Yahoo",
@@ -17884,18 +17971,6 @@
       {
         "title": "日銀で「送金システム不備」内部通報したら「庁舎立ち入り禁止」",
         "url": "https://news.yahoo.co.jp/articles/9d959835090fd1223acca19c52ef623aaaf921ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "戦争を支える「資金」はどこから来る？ 税収で賄う国家と「アングラ経済」に頼る武装組織【国際税務の専門家が解説】",
-        "url": "https://news.yahoo.co.jp/articles/9559759c329c074526b21e9551d0235fe65bb465",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SMBC日興、国内投資家向けDeFi基盤を開発へ──Uniswap・Baseらと協業",
-        "url": "https://news.yahoo.co.jp/articles/36183b2a7982bff8aded543f9852a6f23b4fe556",
         "source": "Yahoo",
         "date": ""
       }
