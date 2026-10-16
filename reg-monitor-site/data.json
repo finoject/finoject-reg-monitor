@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:15:40.894Z",
+  "generatedAt": "2026-10-16T00:49:28.301Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -20,14 +20,55 @@
       "agency": "日本取引所グループ",
       "title": "[東証]アーキテクツ・スタジオ・ジャパン株式会社の半期報告書の提出状況に関するご注意",
       "url": "https://www.jpx.co.jp/news/1023/20261015-11.html",
-      "date": "2026-10-15",
-      "detectedAt": "2026-10-15T11:10:31.515Z",
-      "enriched": "2026-10-15T11:10:36.844Z",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T00:49:28.301Z",
       "enrichV": 2,
       "aiSummary": [
         "アーキテクツ・スタジオ・ジャパン株式会社（コード6085、グロース市場）が2027年2月期半期報告書をEDINETで受付時間内に提出できず、10月16日に提出予定である。",
         "同社は報告書内容は確定していたが技術的理由で期限内提出ができなかったため、東証は監理銘柄（確認中）指定を見送る取扱いとした。",
         "金融商品取引法に基づく半期報告書提出期限は2026年10月15日で、同社は当初期限に間に合わなかったが翌16日に提出予定。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-16T00:49:34.701Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "協会員の異動状況等を更新しました。",
+      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T00:49:28.301Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
+        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
+        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-16T00:49:34.702Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "金融商品取引業者の本協会加入について",
+      "url": "https://www.jsda.or.jp/houdou/2026/20261016.html",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T00:49:28.301Z",
+      "enriched": "2026-10-16T00:49:34.702Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "Nstockを株主コミュニティの運営会員として指定しました。",
+      "url": "https://market.jsda.or.jp/shijyo/kabucommunity/uneikaiin/index.html",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T00:49:28.301Z",
+      "enriched": "2026-10-16T00:49:34.702Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "Nstock株式会社が2026年10月16日付で日本証券業協会の株主コミュニティ運営会員として新たに指定された。",
+        "証券会社等の事業者は、株主コミュニティの運営会員として指定を受けると、当該コミュニティの運営に関する責務を負う。",
+        "指定日は2026年10月16日、日本証券業協会が公表する運営会員一覧に記載される。"
       ],
       "aiSumV": 3
     },
@@ -1707,22 +1748,6 @@
         "短期金融市場の重要指標であるレポ・レートの信頼性維持のため、レファレンス先による市場データ提供と協会による定期的な作成・公表が継続される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "協会員の異動状況等を更新しました。",
-      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
-      "date": "2026-10-01",
-      "detectedAt": "2026-10-01T00:15:37.874Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
-        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
-        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-01T00:15:43.778Z"
     },
     {
       "agency": "日本証券業協会",
@@ -17597,6 +17622,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ロシア、2027年7月から個人間の暗号資産P2P取引を禁止",
+        "url": "https://news.yahoo.co.jp/articles/ea192f6915eb77f45e6d2b8b0540ed41efcfdf71",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ホワイトハウスの暗号資産担当が不在に──パトリック・ウィット氏が辞任",
         "url": "https://news.yahoo.co.jp/articles/7059882417c9259ad9dfb58e71a002c079d61551",
         "source": "Yahoo",
@@ -17623,18 +17654,18 @@
       {
         "title": "米リップル、証券取引基盤にRLUSD決済など導入へ。ドライブウェルスと提携で",
         "url": "https://news.yahoo.co.jp/articles/da101708d892aba1c5b60f7013e94a7ea0e6e234",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "露スベルバンク、暗号資産交換業者に登録。12月からBTC・ETH・USDT取扱開始を計画",
-        "url": "https://news.yahoo.co.jp/articles/23f2321c3484202d12f0aa36972961ac7913e6ac",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ロシア、2027年7月から個人間の暗号資産P2P取引を禁止",
+        "url": "https://news.yahoo.co.jp/articles/ea192f6915eb77f45e6d2b8b0540ed41efcfdf71",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ホワイトハウスの暗号資産担当が不在に──パトリック・ウィット氏が辞任",
         "url": "https://news.yahoo.co.jp/articles/7059882417c9259ad9dfb58e71a002c079d61551",
         "source": "Yahoo",
@@ -17661,12 +17692,6 @@
       {
         "title": "米リップル、証券取引基盤にRLUSD決済など導入へ。ドライブウェルスと提携で",
         "url": "https://news.yahoo.co.jp/articles/da101708d892aba1c5b60f7013e94a7ea0e6e234",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "露スベルバンク、暗号資産交換業者に登録。12月からBTC・ETH・USDT取扱開始を計画",
-        "url": "https://news.yahoo.co.jp/articles/23f2321c3484202d12f0aa36972961ac7913e6ac",
         "source": "Yahoo",
         "date": ""
       }
@@ -18401,6 +18426,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「個人情報はきっちりと守って」 タイムズの「660万件漏洩」に財務相が見解 なぜ会員数より“200万件以上多い”情報が漏れたのか",
+        "url": "https://news.yahoo.co.jp/articles/f3900ceb66ef6aa03fce134af26ab398d081c6c2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国の情報流出対応、同じ資料を何度も提出",
         "url": "https://news.yahoo.co.jp/articles/c00b21aa1747a55f67e5526f951c36fe434dcf31",
         "source": "Yahoo",
@@ -18427,18 +18458,18 @@
       {
         "title": "【独自第8弾】陸自の思想調査問題 防衛省、文書の存在自体の回答拒否 男性弁護士の開示請求に 文書「不存在」とはせず",
         "url": "https://news.yahoo.co.jp/articles/9fd76a7673afad4442323021ed7c1c22b799bd2e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自の情報活動 目的と手法 第三者検証を 情報収集の手法も問題だ。元隊員は自らの身分を明かさず対象者に接触したと証言した。個人情報保護法は不正な手段を用いた個人情報の取得を禁じる。隊員が身分を積極的に秘匿",
-        "url": "https://news.yahoo.co.jp/articles/0af908dd3b01cbd0077a69b61ca96c1e0f1e6fd2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「個人情報はきっちりと守って」 タイムズの「660万件漏洩」に財務相が見解 なぜ会員数より“200万件以上多い”情報が漏れたのか",
+        "url": "https://news.yahoo.co.jp/articles/f3900ceb66ef6aa03fce134af26ab398d081c6c2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国の情報流出対応、同じ資料を何度も提出",
         "url": "https://news.yahoo.co.jp/articles/c00b21aa1747a55f67e5526f951c36fe434dcf31",
         "source": "Yahoo",
@@ -18465,18 +18496,18 @@
       {
         "title": "【独自第8弾】陸自の思想調査問題 防衛省、文書の存在自体の回答拒否 男性弁護士の開示請求に 文書「不存在」とはせず",
         "url": "https://news.yahoo.co.jp/articles/9fd76a7673afad4442323021ed7c1c22b799bd2e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自の情報活動 目的と手法 第三者検証を 情報収集の手法も問題だ。元隊員は自らの身分を明かさず対象者に接触したと証言した。個人情報保護法は不正な手段を用いた個人情報の取得を禁じる。隊員が身分を積極的に秘匿",
-        "url": "https://news.yahoo.co.jp/articles/0af908dd3b01cbd0077a69b61ca96c1e0f1e6fd2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「個人情報はきっちりと守って」 タイムズの「660万件漏洩」に財務相が見解 なぜ会員数より“200万件以上多い”情報が漏れたのか",
+        "url": "https://news.yahoo.co.jp/articles/f3900ceb66ef6aa03fce134af26ab398d081c6c2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国の情報流出対応、同じ資料を何度も提出",
         "url": "https://news.yahoo.co.jp/articles/c00b21aa1747a55f67e5526f951c36fe434dcf31",
         "source": "Yahoo",
@@ -18503,12 +18534,6 @@
       {
         "title": "【独自第8弾】陸自の思想調査問題 防衛省、文書の存在自体の回答拒否 男性弁護士の開示請求に 文書「不存在」とはせず",
         "url": "https://news.yahoo.co.jp/articles/9fd76a7673afad4442323021ed7c1c22b799bd2e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自の情報活動 目的と手法 第三者検証を 情報収集の手法も問題だ。元隊員は自らの身分を明かさず対象者に接触したと証言した。個人情報保護法は不正な手段を用いた個人情報の取得を禁じる。隊員が身分を積極的に秘匿",
-        "url": "https://news.yahoo.co.jp/articles/0af908dd3b01cbd0077a69b61ca96c1e0f1e6fd2",
         "source": "Yahoo",
         "date": ""
       }
