@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T01:37:49.573Z",
+  "generatedAt": "2026-10-16T03:21:13.041Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -15,6 +15,22 @@
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "島根銀行（7150）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T03:21:13.041Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-16T03:21:18.679Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -363,22 +379,6 @@
         "会議資料の詳細は東証ウェブサイトのフォローアップ会議ページから入手可能であり、問合せは上場部企画グループまで。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ＴＳＩホールディングス（3608）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-10-14",
-      "detectedAt": "2026-10-14T06:52:42.052Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-14T06:52:48.067Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -17318,6 +17318,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "SBIとスターテイル、Open Standard参画。JPYSCとOUSDの相互運用へ実証検討",
+        "url": "https://news.yahoo.co.jp/articles/eca9d130689762d85cbe7c1eb56321beebdc0749",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "電子マネーのオートチャージ、入れすぎた分は原則として現金に戻せない",
         "url": "https://news.yahoo.co.jp/articles/d52601120680b755c4ee500b91d1f140aa4c7ea8",
         "source": "Yahoo",
@@ -17344,18 +17350,18 @@
       {
         "title": "利息も償還もJPYSCで──年5%、スターテイルが個人向け社債募集へ",
         "url": "https://news.yahoo.co.jp/articles/beb4d8d72397d0a081fbfb08926b2f8cf79703af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スターテイル、JPYSCで利払い・償還するデジタル社債募集へ。国内個人向けに年利5%で",
-        "url": "https://news.yahoo.co.jp/articles/57bc4a4c8e642a798314344b628fc44a5df96191",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "SBIとスターテイル、Open Standard参画。JPYSCとOUSDの相互運用へ実証検討",
+        "url": "https://news.yahoo.co.jp/articles/eca9d130689762d85cbe7c1eb56321beebdc0749",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "電子マネーのオートチャージ、入れすぎた分は原則として現金に戻せない",
         "url": "https://news.yahoo.co.jp/articles/d52601120680b755c4ee500b91d1f140aa4c7ea8",
         "source": "Yahoo",
@@ -17384,15 +17390,33 @@
         "url": "https://news.yahoo.co.jp/articles/beb4d8d72397d0a081fbfb08926b2f8cf79703af",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "スターテイル、JPYSCで利払い・償還するデジタル社債募集へ。国内個人向けに年利5%で",
-        "url": "https://news.yahoo.co.jp/articles/57bc4a4c8e642a798314344b628fc44a5df96191",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "水道を狙うサイバー攻撃。同じ弱点を突き、複数施設へ広がる脅威",
+        "url": "https://news.yahoo.co.jp/expert/articles/0201ac5d49e32e62e367d17e2b9014058e403b99",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "豪ASIC、暗号資産事業者向け新規制の指針案を公表。2027年4月施行へ",
+        "url": "https://news.yahoo.co.jp/articles/bd01b55d5720d1a57acdbc3288763ea9b8d00c35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ホワイトハウス暗号資産評議会のウィット事務局長が退任。CLARITY法案は上院で停滞続く",
+        "url": "https://news.yahoo.co.jp/articles/05b7b00b7be78ea2534af5da8fcebd22aa3496bd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ氏投稿前に不審な原油取引、解析中止をCFTC委員長顧問が指示",
+        "url": "https://news.yahoo.co.jp/articles/abc6e135e3ca9044540e84ad85c4e295cf355482",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ホワイトハウスの暗号資産担当が不在に──パトリック・ウィット氏が辞任",
         "url": "https://news.yahoo.co.jp/articles/7059882417c9259ad9dfb58e71a002c079d61551",
@@ -17402,36 +17426,36 @@
       {
         "title": "AIブーム継続でもバブル崩壊でもBTCには追い風＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/cf8ee0f52be52aaaf1f4ed2739ba95192be54ed8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "露スベルバンク、暗号資産交換業者に登録。12月からBTC・ETH・USDT取扱開始を計画",
-        "url": "https://news.yahoo.co.jp/articles/23f2321c3484202d12f0aa36972961ac7913e6ac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スタークウェア、ポリマーケット向けプライバシー保護サービス「オフマーケット」一般公開",
-        "url": "https://news.yahoo.co.jp/articles/1d302e9962eb747c817ec918880ddf140956111a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ナスダック上場のエバーノース、リップルやクラーケンら4社とXRP運用へ",
-        "url": "https://news.yahoo.co.jp/articles/48fea70d04321908ee089ed078c2cb78c1231cc2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スタンダードチャータード、UAE富裕層向けBTC・ETH取引を開始",
-        "url": "https://news.yahoo.co.jp/articles/b93906d1fe9eb7e5b597e6cb45bf8dcc93d1f705",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "水道を狙うサイバー攻撃。同じ弱点を突き、複数施設へ広がる脅威",
+        "url": "https://news.yahoo.co.jp/expert/articles/0201ac5d49e32e62e367d17e2b9014058e403b99",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "豪ASIC、暗号資産事業者向け新規制の指針案を公表。2027年4月施行へ",
+        "url": "https://news.yahoo.co.jp/articles/bd01b55d5720d1a57acdbc3288763ea9b8d00c35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ホワイトハウス暗号資産評議会のウィット事務局長が退任。CLARITY法案は上院で停滞続く",
+        "url": "https://news.yahoo.co.jp/articles/05b7b00b7be78ea2534af5da8fcebd22aa3496bd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トランプ氏投稿前に不審な原油取引、解析中止をCFTC委員長顧問が指示",
+        "url": "https://news.yahoo.co.jp/articles/abc6e135e3ca9044540e84ad85c4e295cf355482",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ホワイトハウスの暗号資産担当が不在に──パトリック・ウィット氏が辞任",
         "url": "https://news.yahoo.co.jp/articles/7059882417c9259ad9dfb58e71a002c079d61551",
         "source": "Yahoo",
@@ -17440,30 +17464,6 @@
       {
         "title": "AIブーム継続でもバブル崩壊でもBTCには追い風＝Bitwise",
         "url": "https://news.yahoo.co.jp/articles/cf8ee0f52be52aaaf1f4ed2739ba95192be54ed8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "露スベルバンク、暗号資産交換業者に登録。12月からBTC・ETH・USDT取扱開始を計画",
-        "url": "https://news.yahoo.co.jp/articles/23f2321c3484202d12f0aa36972961ac7913e6ac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スタークウェア、ポリマーケット向けプライバシー保護サービス「オフマーケット」一般公開",
-        "url": "https://news.yahoo.co.jp/articles/1d302e9962eb747c817ec918880ddf140956111a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ナスダック上場のエバーノース、リップルやクラーケンら4社とXRP運用へ",
-        "url": "https://news.yahoo.co.jp/articles/48fea70d04321908ee089ed078c2cb78c1231cc2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スタンダードチャータード、UAE富裕層向けBTC・ETH取引を開始",
-        "url": "https://news.yahoo.co.jp/articles/b93906d1fe9eb7e5b597e6cb45bf8dcc93d1f705",
         "source": "Yahoo",
         "date": ""
       }
@@ -17622,6 +17622,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "パシフィックメタとRSホールディングス、オンチェーン金融の合弁会社設立",
+        "url": "https://news.yahoo.co.jp/articles/3471d4e436dc733cff0e68a14eff3710f180472f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa、USDC活用で銀行が休みでも送金資金を補充可能に",
+        "url": "https://news.yahoo.co.jp/articles/ab9add4606e1afed8472defce28700ef28ceafd5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIとスターテイル、Open Standard参画。JPYSCとOUSDの相互運用へ実証検討",
+        "url": "https://news.yahoo.co.jp/articles/eca9d130689762d85cbe7c1eb56321beebdc0749",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ホワイトハウス暗号資産評議会のウィット事務局長が退任。CLARITY法案は上院で停滞続く",
+        "url": "https://news.yahoo.co.jp/articles/05b7b00b7be78ea2534af5da8fcebd22aa3496bd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロシア、2027年7月から個人間の暗号資産P2P取引を禁止",
         "url": "https://news.yahoo.co.jp/articles/ea192f6915eb77f45e6d2b8b0540ed41efcfdf71",
         "source": "Yahoo",
@@ -17630,36 +17654,36 @@
       {
         "title": "ホワイトハウスの暗号資産担当が不在に──パトリック・ウィット氏が辞任",
         "url": "https://news.yahoo.co.jp/articles/7059882417c9259ad9dfb58e71a002c079d61551",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Mastercard、法定通貨とステーブルコインを一元管理するプラットフォームを発表",
-        "url": "https://news.yahoo.co.jp/articles/73339267b323424759a1b6c1e9abdc86a88c8b96",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "円連動コインJPYdf、暗号資産を担保に借りる仕組みが稼働",
-        "url": "https://news.yahoo.co.jp/articles/99e08869c4ae0fbac9d5bf91233d477309434853",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "円連動目標「JPYdf」発行の「JPY DeFi」、イーサリアムでメインネット公開",
-        "url": "https://news.yahoo.co.jp/articles/2f4874500e9b7cf3d27e476af73c526d530d1ab5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米リップル、証券取引基盤にRLUSD決済など導入へ。ドライブウェルスと提携で",
-        "url": "https://news.yahoo.co.jp/articles/da101708d892aba1c5b60f7013e94a7ea0e6e234",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "パシフィックメタとRSホールディングス、オンチェーン金融の合弁会社設立",
+        "url": "https://news.yahoo.co.jp/articles/3471d4e436dc733cff0e68a14eff3710f180472f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa、USDC活用で銀行が休みでも送金資金を補充可能に",
+        "url": "https://news.yahoo.co.jp/articles/ab9add4606e1afed8472defce28700ef28ceafd5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIとスターテイル、Open Standard参画。JPYSCとOUSDの相互運用へ実証検討",
+        "url": "https://news.yahoo.co.jp/articles/eca9d130689762d85cbe7c1eb56321beebdc0749",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ホワイトハウス暗号資産評議会のウィット事務局長が退任。CLARITY法案は上院で停滞続く",
+        "url": "https://news.yahoo.co.jp/articles/05b7b00b7be78ea2534af5da8fcebd22aa3496bd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロシア、2027年7月から個人間の暗号資産P2P取引を禁止",
         "url": "https://news.yahoo.co.jp/articles/ea192f6915eb77f45e6d2b8b0540ed41efcfdf71",
         "source": "Yahoo",
@@ -17668,30 +17692,6 @@
       {
         "title": "ホワイトハウスの暗号資産担当が不在に──パトリック・ウィット氏が辞任",
         "url": "https://news.yahoo.co.jp/articles/7059882417c9259ad9dfb58e71a002c079d61551",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Mastercard、法定通貨とステーブルコインを一元管理するプラットフォームを発表",
-        "url": "https://news.yahoo.co.jp/articles/73339267b323424759a1b6c1e9abdc86a88c8b96",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "円連動コインJPYdf、暗号資産を担保に借りる仕組みが稼働",
-        "url": "https://news.yahoo.co.jp/articles/99e08869c4ae0fbac9d5bf91233d477309434853",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "円連動目標「JPYdf」発行の「JPY DeFi」、イーサリアムでメインネット公開",
-        "url": "https://news.yahoo.co.jp/articles/2f4874500e9b7cf3d27e476af73c526d530d1ab5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米リップル、証券取引基盤にRLUSD決済など導入へ。ドライブウェルスと提携で",
-        "url": "https://news.yahoo.co.jp/articles/da101708d892aba1c5b60f7013e94a7ea0e6e234",
         "source": "Yahoo",
         "date": ""
       }
@@ -18236,6 +18236,12 @@
     ],
     "417AC0000000086": [
       {
+        "title": "豪ASIC、暗号資産事業者向け新規制の指針案を公表。2027年4月施行へ ASICが公表した協議文書「CP 392」は、2026年に成立した「会社法改正（デジタル資産フレームワーク）法（DAF法）」に基づく新制度への対応方針を示すものだ。あたらしい経済経済総合10/16(金) 12:13",
+        "url": "https://news.yahoo.co.jp/articles/bd01b55d5720d1a57acdbc3288763ea9b8d00c35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「サイバーセキュリティ関係法令Q&Aハンドブック Ver.3.0」公開、能動的サイバー防御などに対応",
         "url": "https://news.yahoo.co.jp/articles/70ef4b1648b0e8b6068175b2cf0a9f81ca5531d4",
         "source": "Yahoo",
@@ -18262,18 +18268,18 @@
       {
         "title": "マレーシアの税制が変わった",
         "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「よかれと思った贈与」が紛争を招く？ 企業の「自社株承継」を揺るがす特別受益の誤算とは",
-        "url": "https://news.yahoo.co.jp/articles/b750435f5c4351a01316cee8d0e4cf64e8bfcbbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "豪ASIC、暗号資産事業者向け新規制の指針案を公表。2027年4月施行へ ASICが公表した協議文書「CP 392」は、2026年に成立した「会社法改正（デジタル資産フレームワーク）法（DAF法）」に基づく新制度への対応方針を示すものだ。あたらしい経済経済総合10/16(金) 12:13",
+        "url": "https://news.yahoo.co.jp/articles/bd01b55d5720d1a57acdbc3288763ea9b8d00c35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「サイバーセキュリティ関係法令Q&Aハンドブック Ver.3.0」公開、能動的サイバー防御などに対応",
         "url": "https://news.yahoo.co.jp/articles/70ef4b1648b0e8b6068175b2cf0a9f81ca5531d4",
         "source": "Yahoo",
@@ -18300,18 +18306,18 @@
       {
         "title": "マレーシアの税制が変わった",
         "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「よかれと思った贈与」が紛争を招く？ 企業の「自社株承継」を揺るがす特別受益の誤算とは",
-        "url": "https://news.yahoo.co.jp/articles/b750435f5c4351a01316cee8d0e4cf64e8bfcbbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "豪ASIC、暗号資産事業者向け新規制の指針案を公表。2027年4月施行へ ASICが公表した協議文書「CP 392」は、2026年に成立した「会社法改正（デジタル資産フレームワーク）法（DAF法）」に基づく新制度への対応方針を示すものだ。あたらしい経済経済総合10/16(金) 12:13",
+        "url": "https://news.yahoo.co.jp/articles/bd01b55d5720d1a57acdbc3288763ea9b8d00c35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「サイバーセキュリティ関係法令Q&Aハンドブック Ver.3.0」公開、能動的サイバー防御などに対応",
         "url": "https://news.yahoo.co.jp/articles/70ef4b1648b0e8b6068175b2cf0a9f81ca5531d4",
         "source": "Yahoo",
@@ -18338,18 +18344,18 @@
       {
         "title": "マレーシアの税制が変わった",
         "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「よかれと思った贈与」が紛争を招く？ 企業の「自社株承継」を揺るがす特別受益の誤算とは",
-        "url": "https://news.yahoo.co.jp/articles/b750435f5c4351a01316cee8d0e4cf64e8bfcbbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "豪ASIC、暗号資産事業者向け新規制の指針案を公表。2027年4月施行へ ASICが公表した協議文書「CP 392」は、2026年に成立した「会社法改正（デジタル資産フレームワーク）法（DAF法）」に基づく新制度への対応方針を示すものだ。あたらしい経済経済総合10/16(金) 12:13",
+        "url": "https://news.yahoo.co.jp/articles/bd01b55d5720d1a57acdbc3288763ea9b8d00c35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「サイバーセキュリティ関係法令Q&Aハンドブック Ver.3.0」公開、能動的サイバー防御などに対応",
         "url": "https://news.yahoo.co.jp/articles/70ef4b1648b0e8b6068175b2cf0a9f81ca5531d4",
         "source": "Yahoo",
@@ -18376,18 +18382,18 @@
       {
         "title": "マレーシアの税制が変わった",
         "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「よかれと思った贈与」が紛争を招く？ 企業の「自社株承継」を揺るがす特別受益の誤算とは",
-        "url": "https://news.yahoo.co.jp/articles/b750435f5c4351a01316cee8d0e4cf64e8bfcbbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "豪ASIC、暗号資産事業者向け新規制の指針案を公表。2027年4月施行へ ASICが公表した協議文書「CP 392」は、2026年に成立した「会社法改正（デジタル資産フレームワーク）法（DAF法）」に基づく新制度への対応方針を示すものだ。あたらしい経済経済総合10/16(金) 12:13",
+        "url": "https://news.yahoo.co.jp/articles/bd01b55d5720d1a57acdbc3288763ea9b8d00c35",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「サイバーセキュリティ関係法令Q&Aハンドブック Ver.3.0」公開、能動的サイバー防御などに対応",
         "url": "https://news.yahoo.co.jp/articles/70ef4b1648b0e8b6068175b2cf0a9f81ca5531d4",
         "source": "Yahoo",
@@ -18414,12 +18420,6 @@
       {
         "title": "マレーシアの税制が変わった",
         "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「よかれと思った贈与」が紛争を招く？ 企業の「自社株承継」を揺るがす特別受益の誤算とは",
-        "url": "https://news.yahoo.co.jp/articles/b750435f5c4351a01316cee8d0e4cf64e8bfcbbf",
         "source": "Yahoo",
         "date": ""
       }
