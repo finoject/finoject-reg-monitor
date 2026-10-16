@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:21:13.041Z",
+  "generatedAt": "2026-10-16T04:52:29.062Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,36 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【記者会見】小枝審議委員（熊本、10月15日分）",
+      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk261016a.pdf",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T04:52:29.062Z",
+      "enriched": "2026-10-16T04:52:35.011Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年熊本地震で被災した企業を含め、金融機関が運転資金需要に対応して積極的な資金繰り支援を行っており、国や県の制度融資・補助金、民間金融機関の独自枠組みなど多層的な支援が既に受け付け開始されている。",
+        "日本銀行は政策金利を現在1.25％とし、中立金利のレンジ（1％より相応に上）を念頭に置きつつ、経済・物価・金融環境の状況を点検しながら適時適切に政策金利を調節する方針で、特定のペースは念頭に置いていない。",
+        "基調的インフレ率は2％ぐらいで定着しつつあるとみられ、今後2％を超えることがないよう適時適切なペースで金融市場調節方針を調節していく必要があると小枝審議委員は判断している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）H.K.Kインベストメント",
+      "url": "https://www.jpx.co.jp/news/1031/20261016_01.html",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-16T04:52:29.062Z",
+      "enriched": "2026-10-16T04:52:35.011Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）H.K.Kインベストメント（コード649A）の新規上場日（10月19日）の初値決定前気配運用は、板中心値段4,200円から開始し、上限9,660円（更新値幅210円・10分間隔）、下限3,150円（通常更新値幅・3分間隔）で運用される。",
+        "取引参加者は新規上場日において成行売呼値・成行買呼値を禁止されており、注文受付価格範囲1,050円以上16,800円以下内での指値注文のみ受け付けられる。",
+        "初値決定まで制限値幅は適用されず、初値決定後は当該初値を基準値段として制限値幅が適用される。東証株式部売買監理グループが窓口（03-3666-0141）。"
       ],
       "aiSumV": 3
     },
@@ -17394,6 +17424,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ロシア、2027年7月から暗号資産の直接P2P取引を禁止へ",
+        "url": "https://news.yahoo.co.jp/articles/cdee79d9684344156256e94d9bafe5dffdc487ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "水道を狙うサイバー攻撃。同じ弱点を突き、複数施設へ広がる脅威",
         "url": "https://news.yahoo.co.jp/expert/articles/0201ac5d49e32e62e367d17e2b9014058e403b99",
         "source": "Yahoo",
@@ -17420,18 +17456,18 @@
       {
         "title": "ホワイトハウスの暗号資産担当が不在に──パトリック・ウィット氏が辞任",
         "url": "https://news.yahoo.co.jp/articles/7059882417c9259ad9dfb58e71a002c079d61551",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIブーム継続でもバブル崩壊でもBTCには追い風＝Bitwise",
-        "url": "https://news.yahoo.co.jp/articles/cf8ee0f52be52aaaf1f4ed2739ba95192be54ed8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ロシア、2027年7月から暗号資産の直接P2P取引を禁止へ",
+        "url": "https://news.yahoo.co.jp/articles/cdee79d9684344156256e94d9bafe5dffdc487ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "水道を狙うサイバー攻撃。同じ弱点を突き、複数施設へ広がる脅威",
         "url": "https://news.yahoo.co.jp/expert/articles/0201ac5d49e32e62e367d17e2b9014058e403b99",
         "source": "Yahoo",
@@ -17460,15 +17496,15 @@
         "url": "https://news.yahoo.co.jp/articles/7059882417c9259ad9dfb58e71a002c079d61551",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "AIブーム継続でもバブル崩壊でもBTCには追い風＝Bitwise",
-        "url": "https://news.yahoo.co.jp/articles/cf8ee0f52be52aaaf1f4ed2739ba95192be54ed8",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "Binance US、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索",
+        "url": "https://news.yahoo.co.jp/articles/9296c66619094b2cb893d3b0c184375effcb102c",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "電子マネーのオートチャージ、入れすぎた分は原則として現金に戻せない",
         "url": "https://news.yahoo.co.jp/articles/d52601120680b755c4ee500b91d1f140aa4c7ea8",
@@ -17496,18 +17532,18 @@
       {
         "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
-        "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "Binance US、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索",
+        "url": "https://news.yahoo.co.jp/articles/9296c66619094b2cb893d3b0c184375effcb102c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "電子マネーのオートチャージ、入れすぎた分は原則として現金に戻せない",
         "url": "https://news.yahoo.co.jp/articles/d52601120680b755c4ee500b91d1f140aa4c7ea8",
         "source": "Yahoo",
@@ -17534,12 +17570,6 @@
       {
         "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに",
         "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設",
-        "url": "https://news.yahoo.co.jp/articles/64f57bb834ffa8c098267e06f5f085aca5a3daac",
         "source": "Yahoo",
         "date": ""
       }
@@ -17622,6 +17652,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ドル建てステーブルコイン陣営にSBIら参加、JPYSCとの交換を検討",
+        "url": "https://news.yahoo.co.jp/articles/586946004fda581d7f9543c3ea6d4b20a44424f4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "パシフィックメタとRSホールディングス、オンチェーン金融の合弁会社設立",
         "url": "https://news.yahoo.co.jp/articles/3471d4e436dc733cff0e68a14eff3710f180472f",
         "source": "Yahoo",
@@ -17648,18 +17684,18 @@
       {
         "title": "ロシア、2027年7月から個人間の暗号資産P2P取引を禁止",
         "url": "https://news.yahoo.co.jp/articles/ea192f6915eb77f45e6d2b8b0540ed41efcfdf71",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ホワイトハウスの暗号資産担当が不在に──パトリック・ウィット氏が辞任",
-        "url": "https://news.yahoo.co.jp/articles/7059882417c9259ad9dfb58e71a002c079d61551",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ドル建てステーブルコイン陣営にSBIら参加、JPYSCとの交換を検討",
+        "url": "https://news.yahoo.co.jp/articles/586946004fda581d7f9543c3ea6d4b20a44424f4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "パシフィックメタとRSホールディングス、オンチェーン金融の合弁会社設立",
         "url": "https://news.yahoo.co.jp/articles/3471d4e436dc733cff0e68a14eff3710f180472f",
         "source": "Yahoo",
@@ -17686,12 +17722,6 @@
       {
         "title": "ロシア、2027年7月から個人間の暗号資産P2P取引を禁止",
         "url": "https://news.yahoo.co.jp/articles/ea192f6915eb77f45e6d2b8b0540ed41efcfdf71",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ホワイトハウスの暗号資産担当が不在に──パトリック・ウィット氏が辞任",
-        "url": "https://news.yahoo.co.jp/articles/7059882417c9259ad9dfb58e71a002c079d61551",
         "source": "Yahoo",
         "date": ""
       }
