@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:53:39.273Z",
+  "generatedAt": "2026-10-18T20:32:37.873Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -17787,6 +17787,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ビットコイン8.1万ドル前後、米株安と現物ETFの資金流出が重荷",
+        "url": "https://news.yahoo.co.jp/articles/3f8ec9a935b8fffc7a128542c777c3a6db7b4773",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "中国のステーブルコイン個人間送金、利用ウォレット数が43倍に＝Chainalysis",
         "url": "https://news.yahoo.co.jp/articles/d6308dd460a21150bfccb1a784ea954fb1522afb",
         "source": "Yahoo",
@@ -17813,18 +17819,18 @@
       {
         "title": "米株閉場中、ブロックチェーン上でテスラ先物取引急増──「空飛ぶロードスター」披露受け＝CoinDesk",
         "url": "https://news.yahoo.co.jp/articles/eae4ce7ea934475a8f431d429598636c33cc4785",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、オープン・スタンダードに参画",
-        "url": "https://news.yahoo.co.jp/articles/d3657a5c7a6f9004d2b50db60bda6314ea7cae4f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ビットコイン8.1万ドル前後、米株安と現物ETFの資金流出が重荷",
+        "url": "https://news.yahoo.co.jp/articles/3f8ec9a935b8fffc7a128542c777c3a6db7b4773",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "中国のステーブルコイン個人間送金、利用ウォレット数が43倍に＝Chainalysis",
         "url": "https://news.yahoo.co.jp/articles/d6308dd460a21150bfccb1a784ea954fb1522afb",
         "source": "Yahoo",
@@ -17851,12 +17857,6 @@
       {
         "title": "米株閉場中、ブロックチェーン上でテスラ先物取引急増──「空飛ぶロードスター」披露受け＝CoinDesk",
         "url": "https://news.yahoo.co.jp/articles/eae4ce7ea934475a8f431d429598636c33cc4785",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、オープン・スタンダードに参画",
-        "url": "https://news.yahoo.co.jp/articles/d3657a5c7a6f9004d2b50db60bda6314ea7cae4f",
         "source": "Yahoo",
         "date": ""
       }
