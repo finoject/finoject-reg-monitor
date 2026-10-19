@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:16:51.197Z",
+  "generatedAt": "2026-10-19T06:54:25.084Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261019-01.html",
+      "date": "2026-10-19",
+      "detectedAt": "2026-10-19T06:54:25.084Z",
+      "enriched": "2026-10-19T06:54:31.151Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社オンデック（コード7360）について、2営業日連続してストップ高（安）かつ売買高0株等の要件に該当したため、10月20日の制限値幅上限を通常150円から600円に拡大。",
+        "取引参加者・投資家は同銘柄の成行注文で思わぬ値段での約定を回避するため、指値注文での対応が必要。基準値段861円、ストップ高1,461円、ストップ安711円での市場環境に留意すること。",
+        "東証自主規制により、10月20日以降にストップ高（安）以外で約定が生じた場合は翌営業日から通常の制限値幅に戻る仕組み。継続要件は明記のとおり。"
       ],
       "aiSumV": 3
     },
@@ -17575,6 +17590,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化と推計。DeFi残高にも影響",
+        "url": "https://news.yahoo.co.jp/articles/87114179f0794c9c26f496bece0ef7c758b18ba5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サークル、約40の新興国・発展途上国への進出を計画。USDCの世界展開を加速へ=報道",
         "url": "https://news.yahoo.co.jp/articles/7d249349e309be0265fb7a49d42a9c6f0cb0cf7f",
         "source": "Yahoo",
@@ -17601,18 +17622,18 @@
       {
         "title": "中国のステーブルコイン個人間送金、利用ウォレット数が43倍に＝Chainalysis",
         "url": "https://news.yahoo.co.jp/articles/d6308dd460a21150bfccb1a784ea954fb1522afb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロードコムなど米9社、ブロックチェーン上での自社株取引に異議──OKX・NYSE親会社の計画に＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/702c2e70305937f81b9f7e5344070b60b89ffacd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化と推計。DeFi残高にも影響",
+        "url": "https://news.yahoo.co.jp/articles/87114179f0794c9c26f496bece0ef7c758b18ba5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サークル、約40の新興国・発展途上国への進出を計画。USDCの世界展開を加速へ=報道",
         "url": "https://news.yahoo.co.jp/articles/7d249349e309be0265fb7a49d42a9c6f0cb0cf7f",
         "source": "Yahoo",
@@ -17639,12 +17660,6 @@
       {
         "title": "中国のステーブルコイン個人間送金、利用ウォレット数が43倍に＝Chainalysis",
         "url": "https://news.yahoo.co.jp/articles/d6308dd460a21150bfccb1a784ea954fb1522afb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロードコムなど米9社、ブロックチェーン上での自社株取引に異議──OKX・NYSE親会社の計画に＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/702c2e70305937f81b9f7e5344070b60b89ffacd",
         "source": "Yahoo",
         "date": ""
       }
@@ -17803,6 +17818,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化と推計。DeFi残高にも影響",
+        "url": "https://news.yahoo.co.jp/articles/87114179f0794c9c26f496bece0ef7c758b18ba5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サークル、約40の新興国・発展途上国への進出を計画。USDCの世界展開を加速へ=報道",
         "url": "https://news.yahoo.co.jp/articles/7d249349e309be0265fb7a49d42a9c6f0cb0cf7f",
         "source": "Yahoo",
@@ -17829,18 +17850,18 @@
       {
         "title": "仏下院、暗号資産からステーブルコインへの交換課税案を僅差で可決。2027年施行目指す",
         "url": "https://news.yahoo.co.jp/articles/32995798e70487f969a5e1400447a80112738626",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【シンガポール】ＳＢＩと日系、米ステーブルコイン企業連合参画",
-        "url": "https://news.yahoo.co.jp/articles/cb56905d844d53b4a00abe151367fc301ac3aeb9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化と推計。DeFi残高にも影響",
+        "url": "https://news.yahoo.co.jp/articles/87114179f0794c9c26f496bece0ef7c758b18ba5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サークル、約40の新興国・発展途上国への進出を計画。USDCの世界展開を加速へ=報道",
         "url": "https://news.yahoo.co.jp/articles/7d249349e309be0265fb7a49d42a9c6f0cb0cf7f",
         "source": "Yahoo",
@@ -17867,12 +17888,6 @@
       {
         "title": "仏下院、暗号資産からステーブルコインへの交換課税案を僅差で可決。2027年施行目指す",
         "url": "https://news.yahoo.co.jp/articles/32995798e70487f969a5e1400447a80112738626",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【シンガポール】ＳＢＩと日系、米ステーブルコイン企業連合参画",
-        "url": "https://news.yahoo.co.jp/articles/cb56905d844d53b4a00abe151367fc301ac3aeb9",
         "source": "Yahoo",
         "date": ""
       }
