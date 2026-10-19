@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T02:06:35.003Z",
+  "generatedAt": "2026-10-19T03:37:23.186Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "「金融市場インフラ（FMI）によるビジネスリスク・ビジネスロス管理：金融市場インフラのための原則（FMI原則）に関する追加ガイダンス」の公表について",
+      "url": "https://www.boj.or.jp/paym/intlact_pm/cpss/cpss261019a.htm",
+      "date": "2026-10-19",
+      "detectedAt": "2026-10-19T03:37:23.186Z",
+      "enriched": "2026-10-19T03:37:29.877Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "BIS決済・市場インフラ委員会及びIOSCOが2026年10月14日に公表した追加ガイダンスでは、FMI原則第15原則に関し、ビジネスリスクの定義を「参加者デフォルト以外のFMIの事業運営に由来する損失リスク」と明確化し、他原則との相互作用を示した。",
+        "FMI（決済システム・取引所等の金融市場インフラ)を運営する事業者は、ガイダンスに基づき一般的ビジネスリスクの識別・監視・管理体制を強化し、最小限の流動性資産（自己資本で調達）の金額決定及び経営陣の役割責任を明確化すべき。",
+        "本追加ガイダンスはFMI原則（PFMI）第15原則並びに第2・3・23原則等に関連し、FMI事業者の回復計画及び秩序ある廃止計画の策定時にも適用される国際基準として機能する。"
       ],
       "aiSumV": 3
     },
@@ -17559,6 +17574,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "預金金利上昇でステーブルコインの成長鈍化、USDCで顕著＝BIS論文",
+        "url": "https://news.yahoo.co.jp/articles/e8ad78f2286be890f9f0c0c0470a0dfbc19d9e1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "カントン財団と韓国メリッツ証券がMOU、金融資産のトークン化や国際担保利用を検討",
+        "url": "https://news.yahoo.co.jp/articles/f99007372d3f1afc57f698a57e2b8c0419c76976",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Circle、40の新興国市場への進出を計画＝報道",
         "url": "https://news.yahoo.co.jp/articles/96c314595c6a569e5b1b0d730ca554bf7254eb71",
         "source": "Yahoo",
@@ -17579,24 +17606,24 @@
       {
         "title": "モルガン・スタンレー、トークン化株対応の見通しを後ろ倒し──2027年初頭に対応か＝The Block",
         "url": "https://news.yahoo.co.jp/articles/44d429f3e1d05164bdc966805779b1988f79f5ec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
-        "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米インタラクティブ・ブローカーズ、zerohashを通じETHステーキング提供開始",
-        "url": "https://news.yahoo.co.jp/articles/82e478586a38094949931d14a4a7e9c72cfd885b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "預金金利上昇でステーブルコインの成長鈍化、USDCで顕著＝BIS論文",
+        "url": "https://news.yahoo.co.jp/articles/e8ad78f2286be890f9f0c0c0470a0dfbc19d9e1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "カントン財団と韓国メリッツ証券がMOU、金融資産のトークン化や国際担保利用を検討",
+        "url": "https://news.yahoo.co.jp/articles/f99007372d3f1afc57f698a57e2b8c0419c76976",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Circle、40の新興国市場への進出を計画＝報道",
         "url": "https://news.yahoo.co.jp/articles/96c314595c6a569e5b1b0d730ca554bf7254eb71",
         "source": "Yahoo",
@@ -17617,18 +17644,6 @@
       {
         "title": "モルガン・スタンレー、トークン化株対応の見通しを後ろ倒し──2027年初頭に対応か＝The Block",
         "url": "https://news.yahoo.co.jp/articles/44d429f3e1d05164bdc966805779b1988f79f5ec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
-        "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米インタラクティブ・ブローカーズ、zerohashを通じETHステーキング提供開始",
-        "url": "https://news.yahoo.co.jp/articles/82e478586a38094949931d14a4a7e9c72cfd885b",
         "source": "Yahoo",
         "date": ""
       }
@@ -17787,6 +17802,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "預金金利上昇でステーブルコインの成長鈍化、USDCで顕著＝BIS論文",
+        "url": "https://news.yahoo.co.jp/articles/e8ad78f2286be890f9f0c0c0470a0dfbc19d9e1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏下院、暗号資産からステーブルコインへの交換課税案を僅差で可決。2027年施行目指す",
+        "url": "https://news.yahoo.co.jp/articles/32995798e70487f969a5e1400447a80112738626",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【シンガポール】ＳＢＩと日系、米ステーブルコイン企業連合参画",
+        "url": "https://news.yahoo.co.jp/articles/cb56905d844d53b4a00abe151367fc301ac3aeb9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Circle、40の新興国市場への進出を計画＝報道",
         "url": "https://news.yahoo.co.jp/articles/96c314595c6a569e5b1b0d730ca554bf7254eb71",
         "source": "Yahoo",
@@ -17801,30 +17834,30 @@
       {
         "title": "中国のステーブルコイン個人間送金、利用ウォレット数が43倍に＝Chainalysis",
         "url": "https://news.yahoo.co.jp/articles/d6308dd460a21150bfccb1a784ea954fb1522afb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロードコムなど米9社、ブロックチェーン上での自社株取引に異議──OKX・NYSE親会社の計画に＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/702c2e70305937f81b9f7e5344070b60b89ffacd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
-        "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYCがつなぐ、新しいデジタル金融体験──企業決済・ウォレット・オンチェーン運用の現在地【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/dcce606dd05d6336a969172935514533f8dc7d35",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "預金金利上昇でステーブルコインの成長鈍化、USDCで顕著＝BIS論文",
+        "url": "https://news.yahoo.co.jp/articles/e8ad78f2286be890f9f0c0c0470a0dfbc19d9e1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏下院、暗号資産からステーブルコインへの交換課税案を僅差で可決。2027年施行目指す",
+        "url": "https://news.yahoo.co.jp/articles/32995798e70487f969a5e1400447a80112738626",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【シンガポール】ＳＢＩと日系、米ステーブルコイン企業連合参画",
+        "url": "https://news.yahoo.co.jp/articles/cb56905d844d53b4a00abe151367fc301ac3aeb9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Circle、40の新興国市場への進出を計画＝報道",
         "url": "https://news.yahoo.co.jp/articles/96c314595c6a569e5b1b0d730ca554bf7254eb71",
         "source": "Yahoo",
@@ -17839,24 +17872,6 @@
       {
         "title": "中国のステーブルコイン個人間送金、利用ウォレット数が43倍に＝Chainalysis",
         "url": "https://news.yahoo.co.jp/articles/d6308dd460a21150bfccb1a784ea954fb1522afb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロードコムなど米9社、ブロックチェーン上での自社株取引に異議──OKX・NYSE親会社の計画に＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/702c2e70305937f81b9f7e5344070b60b89ffacd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
-        "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYCがつなぐ、新しいデジタル金融体験──企業決済・ウォレット・オンチェーン運用の現在地【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/dcce606dd05d6336a969172935514533f8dc7d35",
         "source": "Yahoo",
         "date": ""
       }
