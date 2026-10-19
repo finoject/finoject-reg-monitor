@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:37:23.186Z",
+  "generatedAt": "2026-10-19T05:08:23.314Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -15,6 +15,22 @@
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「『証券投資の日』未来を考えるCAMP ～みんなで自分の未来を考える～」特設ページにて「未来年表」作成キットと解説動画を公開いたしました！",
+      "url": "https://www.jsda.or.jp/start/pr/20261004toushinohi.html",
+      "date": "2026-10-19",
+      "detectedAt": "2026-10-19T05:08:23.314Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会等が2026年10月4日の「証券投資の日」に、未来年表作成・必要資金見える化・資産形成選択肢検討を含む参加型ワークショップを日本橋ホール（東京）で開催し、一般参加者50名程度を募集する。",
+        "将来のお金・ライフプランに関心のある個人、証券投資未経験者含む全員が対象で、小学4年生以上中学生までの子どもは保護者同伴で参加可能。参加費無料、2026年8月31日～9月17日に応募フォーム経由で応募、9月24日迄にメール通知。",
+        "本ワークショップは個別金融商品推奨・勧誘ではなく、撮影・SNS使用の可能性あり。証券投資リスク（元本割れ等）は参加者自身で確認が必要。会場内のゲスト撮影・イベント進行中の撮影・録音・録画は禁止。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-19T05:08:29.234Z"
     },
     {
       "agency": "日本銀行",
@@ -6217,21 +6233,6 @@
         "日本証券業協会、日本取引所グループ、資産運用業協会が9月30日13時および10月4日13時・14時30分の2イベントを開催。大学生プレゼンテーション、トークショー、体験ワークショップで証券投資の普及啓発を実施する。",
         "報道機関向けは事前応募が必要（9月30日および10月4日第一部）。一般向け体験ワークショップは10月4日14時30分開始で応募受付している可能性があり、詳細は協会へ問い合わせが必要。",
         "金融庁およびJ-FLECが後援する「証券投資の日」（毎年10月4日）関連イベント。2026年は9月30日と10月4日にKABUTO ONE・日本橋ホールで実施し、証券業界の社会的役割の発信と投資初心者向けの啓発を行う。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "10月４日開催「『証券投資の日』未来を考えるCAMP～みんなで自分の未来を考える～」特設ページがオープン！",
-      "url": "https://www.jsda.or.jp/start/pr/20261004toushinohi.html",
-      "date": "2026-08-31",
-      "detectedAt": "2026-08-31T06:05:07.876Z",
-      "enriched": "2026-08-31T06:05:13.789Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会等が2026年10月4日の「証券投資の日」に、未来年表作成・必要資金見える化・資産形成選択肢検討を含む参加型ワークショップを日本橋ホール（東京）で開催し、一般参加者50名程度を募集する。",
-        "将来のお金・ライフプランに関心のある個人、証券投資未経験者含む全員が対象で、小学4年生以上中学生までの子どもは保護者同伴で参加可能。参加費無料、2026年8月31日～9月17日に応募フォーム経由で応募、9月24日迄にメール通知。",
-        "本ワークショップは個別金融商品推奨・勧誘ではなく、撮影・SNS使用の可能性あり。証券投資リスク（元本割れ等）は参加者自身で確認が必要。会場内のゲスト撮影・イベント進行中の撮影・録音・録画は禁止。"
       ],
       "aiSumV": 3
     },
@@ -17574,6 +17575,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "サークル、約40の新興国・発展途上国への進出を計画。USDCの世界展開を加速へ=報道",
+        "url": "https://news.yahoo.co.jp/articles/7d249349e309be0265fb7a49d42a9c6f0cb0cf7f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "預金金利上昇でステーブルコインの成長鈍化、USDCで顕著＝BIS論文",
         "url": "https://news.yahoo.co.jp/articles/e8ad78f2286be890f9f0c0c0470a0dfbc19d9e1d",
         "source": "Yahoo",
@@ -17600,18 +17607,18 @@
       {
         "title": "ブロードコムなど米9社、ブロックチェーン上での自社株取引に異議──OKX・NYSE親会社の計画に＝The Block",
         "url": "https://news.yahoo.co.jp/articles/702c2e70305937f81b9f7e5344070b60b89ffacd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "モルガン・スタンレー、トークン化株対応の見通しを後ろ倒し──2027年初頭に対応か＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/44d429f3e1d05164bdc966805779b1988f79f5ec",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "サークル、約40の新興国・発展途上国への進出を計画。USDCの世界展開を加速へ=報道",
+        "url": "https://news.yahoo.co.jp/articles/7d249349e309be0265fb7a49d42a9c6f0cb0cf7f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "預金金利上昇でステーブルコインの成長鈍化、USDCで顕著＝BIS論文",
         "url": "https://news.yahoo.co.jp/articles/e8ad78f2286be890f9f0c0c0470a0dfbc19d9e1d",
         "source": "Yahoo",
@@ -17638,12 +17645,6 @@
       {
         "title": "ブロードコムなど米9社、ブロックチェーン上での自社株取引に異議──OKX・NYSE親会社の計画に＝The Block",
         "url": "https://news.yahoo.co.jp/articles/702c2e70305937f81b9f7e5344070b60b89ffacd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "モルガン・スタンレー、トークン化株対応の見通しを後ろ倒し──2027年初頭に対応か＝The Block",
-        "url": "https://news.yahoo.co.jp/articles/44d429f3e1d05164bdc966805779b1988f79f5ec",
         "source": "Yahoo",
         "date": ""
       }
@@ -17802,6 +17803,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "サークル、約40の新興国・発展途上国への進出を計画。USDCの世界展開を加速へ=報道",
+        "url": "https://news.yahoo.co.jp/articles/7d249349e309be0265fb7a49d42a9c6f0cb0cf7f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "台湾、コインベースとカルシのサイトを遮断。選挙賭博の疑いで＝報道",
+        "url": "https://news.yahoo.co.jp/articles/5b693f68eafe441a12a4e322e8ca7acbd37bfefc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スウェーデン中銀、デジタルクローナの法整備に向けた調査を議会に提起",
+        "url": "https://news.yahoo.co.jp/articles/06153faa07339508f2ebc56e140b9fce2f29d1ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "預金金利上昇でステーブルコインの成長鈍化、USDCで顕著＝BIS論文",
         "url": "https://news.yahoo.co.jp/articles/e8ad78f2286be890f9f0c0c0470a0dfbc19d9e1d",
         "source": "Yahoo",
@@ -17816,30 +17835,30 @@
       {
         "title": "【シンガポール】ＳＢＩと日系、米ステーブルコイン企業連合参画",
         "url": "https://news.yahoo.co.jp/articles/cb56905d844d53b4a00abe151367fc301ac3aeb9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Circle、40の新興国市場への進出を計画＝報道",
-        "url": "https://news.yahoo.co.jp/articles/96c314595c6a569e5b1b0d730ca554bf7254eb71",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン決済額45％増、供給横ばいでも利用拡大＝Allium",
-        "url": "https://news.yahoo.co.jp/articles/d1ce8c176df89eb544403f3c7dec2accae1de393",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中国のステーブルコイン個人間送金、利用ウォレット数が43倍に＝Chainalysis",
-        "url": "https://news.yahoo.co.jp/articles/d6308dd460a21150bfccb1a784ea954fb1522afb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "サークル、約40の新興国・発展途上国への進出を計画。USDCの世界展開を加速へ=報道",
+        "url": "https://news.yahoo.co.jp/articles/7d249349e309be0265fb7a49d42a9c6f0cb0cf7f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "台湾、コインベースとカルシのサイトを遮断。選挙賭博の疑いで＝報道",
+        "url": "https://news.yahoo.co.jp/articles/5b693f68eafe441a12a4e322e8ca7acbd37bfefc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "スウェーデン中銀、デジタルクローナの法整備に向けた調査を議会に提起",
+        "url": "https://news.yahoo.co.jp/articles/06153faa07339508f2ebc56e140b9fce2f29d1ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "預金金利上昇でステーブルコインの成長鈍化、USDCで顕著＝BIS論文",
         "url": "https://news.yahoo.co.jp/articles/e8ad78f2286be890f9f0c0c0470a0dfbc19d9e1d",
         "source": "Yahoo",
@@ -17854,24 +17873,6 @@
       {
         "title": "【シンガポール】ＳＢＩと日系、米ステーブルコイン企業連合参画",
         "url": "https://news.yahoo.co.jp/articles/cb56905d844d53b4a00abe151367fc301ac3aeb9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Circle、40の新興国市場への進出を計画＝報道",
-        "url": "https://news.yahoo.co.jp/articles/96c314595c6a569e5b1b0d730ca554bf7254eb71",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン決済額45％増、供給横ばいでも利用拡大＝Allium",
-        "url": "https://news.yahoo.co.jp/articles/d1ce8c176df89eb544403f3c7dec2accae1de393",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中国のステーブルコイン個人間送金、利用ウォレット数が43倍に＝Chainalysis",
-        "url": "https://news.yahoo.co.jp/articles/d6308dd460a21150bfccb1a784ea954fb1522afb",
         "source": "Yahoo",
         "date": ""
       }
@@ -18226,6 +18227,12 @@
     ],
     "356AC0000000059": [
       {
+        "title": "スウェーデン中銀、デジタルクローナの法整備に向けた調査を議会に提起",
+        "url": "https://news.yahoo.co.jp/articles/06153faa07339508f2ebc56e140b9fce2f29d1ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "四国放送がEC事業に参入、阿波銀行100%子会社でECモール運営の阿波銀コネクトに出資",
         "url": "https://news.yahoo.co.jp/articles/b1b5e62835b9da2f9fb4af8802fa30f272c596e6",
         "source": "Yahoo",
@@ -18252,18 +18259,18 @@
       {
         "title": "中国、AI・データ立法と暗号資産関連の裁判ルール整備を推進へ",
         "url": "https://news.yahoo.co.jp/articles/13876f7b1304d65625f7ff5ec962151bc26dcf28",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "2026年3月期「不良債権比率」 1.07％に低下 貸倒引当金は 2年連続減、5年ぶりの3兆円台",
-        "url": "https://news.yahoo.co.jp/articles/c4d5142d8d7100c6b39ecbdc64ff2c3ecd12ca79",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "357CO0000000040": [
       {
+        "title": "スウェーデン中銀、デジタルクローナの法整備に向けた調査を議会に提起",
+        "url": "https://news.yahoo.co.jp/articles/06153faa07339508f2ebc56e140b9fce2f29d1ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "四国放送がEC事業に参入、阿波銀行100%子会社でECモール運営の阿波銀コネクトに出資",
         "url": "https://news.yahoo.co.jp/articles/b1b5e62835b9da2f9fb4af8802fa30f272c596e6",
         "source": "Yahoo",
@@ -18290,18 +18297,18 @@
       {
         "title": "中国、AI・データ立法と暗号資産関連の裁判ルール整備を推進へ",
         "url": "https://news.yahoo.co.jp/articles/13876f7b1304d65625f7ff5ec962151bc26dcf28",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "2026年3月期「不良債権比率」 1.07％に低下 貸倒引当金は 2年連続減、5年ぶりの3兆円台",
-        "url": "https://news.yahoo.co.jp/articles/c4d5142d8d7100c6b39ecbdc64ff2c3ecd12ca79",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "357M50000040010": [
       {
+        "title": "スウェーデン中銀、デジタルクローナの法整備に向けた調査を議会に提起",
+        "url": "https://news.yahoo.co.jp/articles/06153faa07339508f2ebc56e140b9fce2f29d1ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "四国放送がEC事業に参入、阿波銀行100%子会社でECモール運営の阿波銀コネクトに出資",
         "url": "https://news.yahoo.co.jp/articles/b1b5e62835b9da2f9fb4af8802fa30f272c596e6",
         "source": "Yahoo",
@@ -18328,18 +18335,18 @@
       {
         "title": "中国、AI・データ立法と暗号資産関連の裁判ルール整備を推進へ",
         "url": "https://news.yahoo.co.jp/articles/13876f7b1304d65625f7ff5ec962151bc26dcf28",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "2026年3月期「不良債権比率」 1.07％に低下 貸倒引当金は 2年連続減、5年ぶりの3兆円台",
-        "url": "https://news.yahoo.co.jp/articles/c4d5142d8d7100c6b39ecbdc64ff2c3ecd12ca79",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-city": [
       {
+        "title": "スウェーデン中銀、デジタルクローナの法整備に向けた調査を議会に提起",
+        "url": "https://news.yahoo.co.jp/articles/06153faa07339508f2ebc56e140b9fce2f29d1ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "四国放送がEC事業に参入、阿波銀行100%子会社でECモール運営の阿波銀コネクトに出資",
         "url": "https://news.yahoo.co.jp/articles/b1b5e62835b9da2f9fb4af8802fa30f272c596e6",
         "source": "Yahoo",
@@ -18366,18 +18373,18 @@
       {
         "title": "中国、AI・データ立法と暗号資産関連の裁判ルール整備を推進へ",
         "url": "https://news.yahoo.co.jp/articles/13876f7b1304d65625f7ff5ec962151bc26dcf28",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "2026年3月期「不良債権比率」 1.07％に低下 貸倒引当金は 2年連続減、5年ぶりの3兆円台",
-        "url": "https://news.yahoo.co.jp/articles/c4d5142d8d7100c6b39ecbdc64ff2c3ecd12ca79",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-chusho": [
       {
+        "title": "スウェーデン中銀、デジタルクローナの法整備に向けた調査を議会に提起",
+        "url": "https://news.yahoo.co.jp/articles/06153faa07339508f2ebc56e140b9fce2f29d1ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "四国放送がEC事業に参入、阿波銀行100%子会社でECモール運営の阿波銀コネクトに出資",
         "url": "https://news.yahoo.co.jp/articles/b1b5e62835b9da2f9fb4af8802fa30f272c596e6",
         "source": "Yahoo",
@@ -18404,12 +18411,6 @@
       {
         "title": "中国、AI・データ立法と暗号資産関連の裁判ルール整備を推進へ",
         "url": "https://news.yahoo.co.jp/articles/13876f7b1304d65625f7ff5ec962151bc26dcf28",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "2026年3月期「不良債権比率」 1.07％に低下 貸倒引当金は 2年連続減、5年ぶりの3兆円台",
-        "url": "https://news.yahoo.co.jp/articles/c4d5142d8d7100c6b39ecbdc64ff2c3ecd12ca79",
         "source": "Yahoo",
         "date": ""
       }
