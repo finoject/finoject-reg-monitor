@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T09:56:05.439Z",
+  "generatedAt": "2026-10-19T11:13:27.775Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -17854,6 +17854,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ビザ、ステーブルコイン事前資金拠出機能を段階的に商用運用へ",
+        "url": "https://news.yahoo.co.jp/articles/63f6fe2cdfcc692f32f3e836662826f215f3cd36",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタル庁、公的給付金にステーブルコイン活用を検討",
         "url": "https://news.yahoo.co.jp/articles/64aa7c771e7da4de3515dc5ed960eca9ce887196",
         "source": "Yahoo",
@@ -17880,18 +17886,18 @@
       {
         "title": "ソラナ財団、中国・上海に新オフィス開設。現地イベントは開催直前に延期",
         "url": "https://news.yahoo.co.jp/articles/19516184d2e53bd16eaba211d4c6718672507e1b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化と推計。DeFi残高にも影響",
-        "url": "https://news.yahoo.co.jp/articles/87114179f0794c9c26f496bece0ef7c758b18ba5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ビザ、ステーブルコイン事前資金拠出機能を段階的に商用運用へ",
+        "url": "https://news.yahoo.co.jp/articles/63f6fe2cdfcc692f32f3e836662826f215f3cd36",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタル庁、公的給付金にステーブルコイン活用を検討",
         "url": "https://news.yahoo.co.jp/articles/64aa7c771e7da4de3515dc5ed960eca9ce887196",
         "source": "Yahoo",
@@ -17918,12 +17924,6 @@
       {
         "title": "ソラナ財団、中国・上海に新オフィス開設。現地イベントは開催直前に延期",
         "url": "https://news.yahoo.co.jp/articles/19516184d2e53bd16eaba211d4c6718672507e1b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化と推計。DeFi残高にも影響",
-        "url": "https://news.yahoo.co.jp/articles/87114179f0794c9c26f496bece0ef7c758b18ba5",
         "source": "Yahoo",
         "date": ""
       }
