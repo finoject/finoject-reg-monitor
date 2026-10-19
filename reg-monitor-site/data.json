@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T08:25:12.927Z",
+  "generatedAt": "2026-10-19T09:56:05.439Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「令和８年 全国証券大会」を開催いたしました。",
+      "url": "https://www.jsda.or.jp/about/gyouji/20130919203231.html",
+      "date": "2026-10-19",
+      "detectedAt": "2026-10-19T09:56:05.439Z",
+      "enriched": "2026-10-19T09:56:10.654Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年10月6日に経団連会館で「令和８年全国証券大会」を開催し、日証協会長が証券界の取組方針を表明、金融担当大臣・日銀総裁・経団連会長が登壇して業界指針を示した。",
+        "日証協会員及び証券業界関係者は、同大会で示された方針・指針を業務運営の参考とし、本協会が今後示す具体的な施策に対応する必要がある。",
+        "本件はJapan Weeksの一環として2023年から継続実施されており、日証協の業務活動（会員向け指導・政策提言）の枠組みに位置付けられている。"
       ],
       "aiSumV": 3
     },
@@ -55,7 +70,13 @@
       "date": "2026-10-19",
       "detectedAt": "2026-10-19T08:25:12.927Z",
       "enriched": "2026-10-19T08:25:18.941Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が取得できないため、具体的な内容を抽出することができません。",
+        "タイトルから推定される「証券業務基盤監理株式会社の業務サービス開始」について、詳細な本文情報が必要です。",
+        "正確な実務対応を特定するために、当局公表物の完全な本文の提供をお待ちします。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本取引所グループ",
@@ -17377,6 +17398,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
+        "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
         "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
         "source": "Yahoo",
@@ -17403,18 +17430,18 @@
       {
         "title": "インサイダーの罪、男に実刑 三田証券元幹部から情報 三田証券（東京）元幹部から得た企業の内部情報を基にインサイダー取引をしたとして、金融商品取引法違反罪に問われた会社役員松木悠宣被告（45）に東京地裁は16日、懲役",
         "url": "https://news.yahoo.co.jp/articles/8f2fd288a753e6bb6e4fd12b3c9ea547b359cc72",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "山形 官民連携で緊急アピール 特殊詐欺被害、10億円に迫る",
-        "url": "https://news.yahoo.co.jp/articles/768b4c0ee677e5b459becd2b2ee8d786717ec714",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
+        "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
         "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
         "source": "Yahoo",
@@ -17441,18 +17468,18 @@
       {
         "title": "インサイダーの罪、男に実刑 三田証券元幹部から情報 三田証券（東京）元幹部から得た企業の内部情報を基にインサイダー取引をしたとして、金融商品取引法違反罪に問われた会社役員松木悠宣被告（45）に東京地裁は16日、懲役",
         "url": "https://news.yahoo.co.jp/articles/8f2fd288a753e6bb6e4fd12b3c9ea547b359cc72",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "山形 官民連携で緊急アピール 特殊詐欺被害、10億円に迫る",
-        "url": "https://news.yahoo.co.jp/articles/768b4c0ee677e5b459becd2b2ee8d786717ec714",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
+        "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
         "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
         "source": "Yahoo",
@@ -17479,18 +17506,18 @@
       {
         "title": "インサイダーの罪、男に実刑 三田証券元幹部から情報 三田証券（東京）元幹部から得た企業の内部情報を基にインサイダー取引をしたとして、金融商品取引法違反罪に問われた会社役員松木悠宣被告（45）に東京地裁は16日、懲役",
         "url": "https://news.yahoo.co.jp/articles/8f2fd288a753e6bb6e4fd12b3c9ea547b359cc72",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "山形 官民連携で緊急アピール 特殊詐欺被害、10億円に迫る",
-        "url": "https://news.yahoo.co.jp/articles/768b4c0ee677e5b459becd2b2ee8d786717ec714",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
+        "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
         "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
         "source": "Yahoo",
@@ -17517,12 +17544,6 @@
       {
         "title": "インサイダーの罪、男に実刑 三田証券元幹部から情報 三田証券（東京）元幹部から得た企業の内部情報を基にインサイダー取引をしたとして、金融商品取引法違反罪に問われた会社役員松木悠宣被告（45）に東京地裁は16日、懲役",
         "url": "https://news.yahoo.co.jp/articles/8f2fd288a753e6bb6e4fd12b3c9ea547b359cc72",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "山形 官民連携で緊急アピール 特殊詐欺被害、10億円に迫る",
-        "url": "https://news.yahoo.co.jp/articles/768b4c0ee677e5b459becd2b2ee8d786717ec714",
         "source": "Yahoo",
         "date": ""
       }
@@ -17605,6 +17626,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ドイツ銀行、ビットコイン・イーサリアムの保管サービスを数週間以内に開始へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/5584894acfff148a79a63edcc0e99ae03d96dc2f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ソラナ財団、中国・上海に新オフィス開設。現地イベントは開催直前に延期",
         "url": "https://news.yahoo.co.jp/articles/19516184d2e53bd16eaba211d4c6718672507e1b",
         "source": "Yahoo",
@@ -17631,18 +17658,18 @@
       {
         "title": "カントン財団と韓国メリッツ証券がMOU、金融資産のトークン化や国際担保利用を検討",
         "url": "https://news.yahoo.co.jp/articles/f99007372d3f1afc57f698a57e2b8c0419c76976",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Circle、40の新興国市場への進出を計画＝報道",
-        "url": "https://news.yahoo.co.jp/articles/96c314595c6a569e5b1b0d730ca554bf7254eb71",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ドイツ銀行、ビットコイン・イーサリアムの保管サービスを数週間以内に開始へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/5584894acfff148a79a63edcc0e99ae03d96dc2f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ソラナ財団、中国・上海に新オフィス開設。現地イベントは開催直前に延期",
         "url": "https://news.yahoo.co.jp/articles/19516184d2e53bd16eaba211d4c6718672507e1b",
         "source": "Yahoo",
@@ -17669,12 +17696,6 @@
       {
         "title": "カントン財団と韓国メリッツ証券がMOU、金融資産のトークン化や国際担保利用を検討",
         "url": "https://news.yahoo.co.jp/articles/f99007372d3f1afc57f698a57e2b8c0419c76976",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Circle、40の新興国市場への進出を計画＝報道",
-        "url": "https://news.yahoo.co.jp/articles/96c314595c6a569e5b1b0d730ca554bf7254eb71",
         "source": "Yahoo",
         "date": ""
       }
@@ -17833,6 +17854,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "デジタル庁、公的給付金にステーブルコイン活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/64aa7c771e7da4de3515dc5ed960eca9ce887196",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トークン化米国債、日本は保有者数で首位も保有額シェアは0.4%＝チェイナリシス",
+        "url": "https://news.yahoo.co.jp/articles/5d7724d80a86a3762da624c1eb04d328f65b46e0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ファイアブロックス、ステーブルコインの価格比較・取引基盤を提供開始",
+        "url": "https://news.yahoo.co.jp/articles/0966603bcb34efe34b06ca6d3a1d0d1ad4561b2e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ドイツ銀行、ビットコイン・イーサリアムの保管サービスを数週間以内に開始へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/5584894acfff148a79a63edcc0e99ae03d96dc2f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ソラナ財団、中国・上海に新オフィス開設。現地イベントは開催直前に延期",
         "url": "https://news.yahoo.co.jp/articles/19516184d2e53bd16eaba211d4c6718672507e1b",
         "source": "Yahoo",
@@ -17841,36 +17886,36 @@
       {
         "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化と推計。DeFi残高にも影響",
         "url": "https://news.yahoo.co.jp/articles/87114179f0794c9c26f496bece0ef7c758b18ba5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、約40の新興国・発展途上国への進出を計画。USDCの世界展開を加速へ=報道",
-        "url": "https://news.yahoo.co.jp/articles/7d249349e309be0265fb7a49d42a9c6f0cb0cf7f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "台湾、コインベースとカルシのサイトを遮断。選挙賭博の疑いで＝報道",
-        "url": "https://news.yahoo.co.jp/articles/5b693f68eafe441a12a4e322e8ca7acbd37bfefc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スウェーデン中銀、デジタルクローナの法整備に向けた調査を議会に提起",
-        "url": "https://news.yahoo.co.jp/articles/06153faa07339508f2ebc56e140b9fce2f29d1ea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "預金金利上昇でステーブルコインの成長鈍化、USDCで顕著＝BIS論文",
-        "url": "https://news.yahoo.co.jp/articles/e8ad78f2286be890f9f0c0c0470a0dfbc19d9e1d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "デジタル庁、公的給付金にステーブルコイン活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/64aa7c771e7da4de3515dc5ed960eca9ce887196",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "トークン化米国債、日本は保有者数で首位も保有額シェアは0.4%＝チェイナリシス",
+        "url": "https://news.yahoo.co.jp/articles/5d7724d80a86a3762da624c1eb04d328f65b46e0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ファイアブロックス、ステーブルコインの価格比較・取引基盤を提供開始",
+        "url": "https://news.yahoo.co.jp/articles/0966603bcb34efe34b06ca6d3a1d0d1ad4561b2e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ドイツ銀行、ビットコイン・イーサリアムの保管サービスを数週間以内に開始へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/5584894acfff148a79a63edcc0e99ae03d96dc2f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ソラナ財団、中国・上海に新オフィス開設。現地イベントは開催直前に延期",
         "url": "https://news.yahoo.co.jp/articles/19516184d2e53bd16eaba211d4c6718672507e1b",
         "source": "Yahoo",
@@ -17879,30 +17924,6 @@
       {
         "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化と推計。DeFi残高にも影響",
         "url": "https://news.yahoo.co.jp/articles/87114179f0794c9c26f496bece0ef7c758b18ba5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、約40の新興国・発展途上国への進出を計画。USDCの世界展開を加速へ=報道",
-        "url": "https://news.yahoo.co.jp/articles/7d249349e309be0265fb7a49d42a9c6f0cb0cf7f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "台湾、コインベースとカルシのサイトを遮断。選挙賭博の疑いで＝報道",
-        "url": "https://news.yahoo.co.jp/articles/5b693f68eafe441a12a4e322e8ca7acbd37bfefc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スウェーデン中銀、デジタルクローナの法整備に向けた調査を議会に提起",
-        "url": "https://news.yahoo.co.jp/articles/06153faa07339508f2ebc56e140b9fce2f29d1ea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "預金金利上昇でステーブルコインの成長鈍化、USDCで顕著＝BIS論文",
-        "url": "https://news.yahoo.co.jp/articles/e8ad78f2286be890f9f0c0c0470a0dfbc19d9e1d",
         "source": "Yahoo",
         "date": ""
       }
