@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:50:08.598Z",
+  "generatedAt": "2026-10-20T04:20:57.091Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：ｉシェアーズ ＭＳＣＩ ジャパンＳＲＩ ＥＴＦ",
+      "url": "https://www.jpx.co.jp/news/1023/20261020-12.html",
+      "date": "2026-10-20",
+      "detectedAt": "2026-10-20T04:20:57.091Z",
+      "enriched": "2026-10-20T04:21:01.578Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "iシェアーズ MSCIジャパンSRI ETF（コード2851）は、投資信託約款に信託期間2026年11月25日までの定めが設けられたため、上場廃止が決定された（有価証券上場規程第1112条第1項第3号b）。",
+        "取引参加者は2026年10月21日以降、同ETFの受益証券を信用取引・発行日決済取引の委託保証金、売買証拠金、取引参加者保証金、信認金の代用有価証券から除外する必要がある。",
+        "整理銘柄指定期間は2026年10月20日から11月20日までで、上場廃止日は2026年11月21日（土）。速やかに上場廃止すべき事情が発生した場合は変更される可能性がある。"
       ],
       "aiSumV": 3
     },
@@ -17748,6 +17763,12 @@
     ],
     "422M60000002004": [
       {
+        "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
+        "url": "https://news.yahoo.co.jp/articles/97a9fd0c1ec30b0bb321edfe53ef3f036677b484",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンスUS、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索か＝報道",
         "url": "https://news.yahoo.co.jp/articles/9296c66619094b2cb893d3b0c184375effcb102c",
         "source": "Yahoo",
@@ -17774,18 +17795,18 @@
       {
         "title": "シンガポール暗号資産市場、1年で1.5倍──日本と異なる成長構造＝Chainalysis",
         "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに",
-        "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
+        "url": "https://news.yahoo.co.jp/articles/97a9fd0c1ec30b0bb321edfe53ef3f036677b484",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンスUS、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索か＝報道",
         "url": "https://news.yahoo.co.jp/articles/9296c66619094b2cb893d3b0c184375effcb102c",
         "source": "Yahoo",
@@ -17814,15 +17835,15 @@
         "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに",
-        "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002003": [
+      {
+        "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
+        "url": "https://news.yahoo.co.jp/articles/97a9fd0c1ec30b0bb321edfe53ef3f036677b484",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「1年前はモックアップだけ」JR東の新コード決済「teppay」、急ピッチ開発の舞台裏と実力",
         "url": "https://news.yahoo.co.jp/articles/a3e1a0d7b7b061998cb43220a3c828ea223f900d",
@@ -17850,18 +17871,18 @@
       {
         "title": "KDDIなど3社、au PAYアプリで暗号資産ウォレット「αU wallet」の提供開始へ PAY加盟店で使える。 チャージ後の残高は、資金決済法上の第三者型前払式支払手段である「au PAY マネーライト」になる。公式サイトは、暗号資産の",
         "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "実家を片付けていたら、昔もらった未使用の「商品券」が何枚も出てきました。何十年も前のものでも、額面どおり使えるのでしょうか？",
-        "url": "https://news.yahoo.co.jp/articles/ca24de298060f0a5df3340a94c93ed334d1ee3a8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-05": [
       {
+        "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
+        "url": "https://news.yahoo.co.jp/articles/97a9fd0c1ec30b0bb321edfe53ef3f036677b484",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「1年前はモックアップだけ」JR東の新コード決済「teppay」、急ピッチ開発の舞台裏と実力",
         "url": "https://news.yahoo.co.jp/articles/a3e1a0d7b7b061998cb43220a3c828ea223f900d",
         "source": "Yahoo",
@@ -17888,12 +17909,6 @@
       {
         "title": "KDDIなど3社、au PAYアプリで暗号資産ウォレット「αU wallet」の提供開始へ PAY加盟店で使える。 チャージ後の残高は、資金決済法上の第三者型前払式支払手段である「au PAY マネーライト」になる。公式サイトは、暗号資産の",
         "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "実家を片付けていたら、昔もらった未使用の「商品券」が何枚も出てきました。何十年も前のものでも、額面どおり使えるのでしょうか？",
-        "url": "https://news.yahoo.co.jp/articles/ca24de298060f0a5df3340a94c93ed334d1ee3a8",
         "source": "Yahoo",
         "date": ""
       }
