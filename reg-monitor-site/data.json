@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T06:33:54.457Z",
+  "generatedAt": "2026-10-20T08:07:59.068Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,50 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "バーゼル銀行監督委員会による「整合性評価プログラム（RCAP）におけるレバレッジ比率規制の評価」の公表について",
+      "url": "https://www.boj.or.jp/finsys/intlact_fs/kisei/kis261020a.htm",
+      "date": "2026-10-20",
+      "detectedAt": "2026-10-20T08:07:59.068Z",
+      "enriched": "2026-10-20T08:08:03.509Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "バーゼル銀行監督委員会は2026年10月13日、日本のレバレッジ比率規制について整合性評価プログラム（RCAP）による評価報告書を公表し、わが国の規制の国際基準との適合性を示した。",
+        "金融機関および金融庁を含む国内規制当局は、公表された評価報告書の内容を確認し、指摘事項があれば対応措置を検討する必要があると考えられる。",
+        "本評価はバーゼル委員会による継続的な規制監視枠組みの一環であり、レバレッジ比率規制（自己資本比率規制とは独立した規制）に関わる基準の適合性を国際的に確認したもの。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ＲＥＩＴ）：KDX Kolet投資法人",
+      "url": "https://www.jpx.co.jp/equities/products/reits/issues/index.html",
+      "date": "2026-10-20",
+      "detectedAt": "2026-10-20T08:07:59.068Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": null,
+          "kind": "改正",
+          "label": "金融商品取引法"
+        },
+        {
+          "id": "417AC0000000086",
+          "art": null,
+          "kind": "改正",
+          "label": "会社法"
+        }
+      ],
+      "enriched": "2026-10-20T08:08:04.455Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "KDX Kolet投資法人の投資証券（コード666A）が東京証券取引所に新規上場承認され、上場日は2026年11月25日、決算期は7月末に設定された。",
+        "運用会社はケネディクス不動産投資顧問株式会社が担当し、投資法人は金融商品取引法に基づく有価証券届出書等の提出により上場手続を進める必要がある。",
+        "本上場承認は東証が提供する新規上場銘柄紹介資料であり、投資家は金融商品取引法の趣旨を理解したうえで有価証券届出書等で詳細情報を確認すべき。"
       ],
       "aiSumV": 3
     },
@@ -17732,6 +17776,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "クリプトドットコムとNovig、予測市場のスポーツ契約巡り米ミズーリ州を提訴",
+        "url": "https://news.yahoo.co.jp/articles/f2dd423ddaa979659b47462c2f43dac8384f0f87",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "自民、予測市場で勉強会──カルシとポリマーケット幹部が来日、第2回は11月に国内企業と",
         "url": "https://news.yahoo.co.jp/articles/e7a22804300f1d144903c6c3a8051e7bdcd18e6c",
         "source": "Yahoo",
@@ -17758,18 +17808,18 @@
       {
         "title": "ソラナ財団、中国・上海に新オフィス開設。現地イベントは開催直前に延期",
         "url": "https://news.yahoo.co.jp/articles/19516184d2e53bd16eaba211d4c6718672507e1b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化と推計。DeFi残高にも影響",
-        "url": "https://news.yahoo.co.jp/articles/87114179f0794c9c26f496bece0ef7c758b18ba5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "クリプトドットコムとNovig、予測市場のスポーツ契約巡り米ミズーリ州を提訴",
+        "url": "https://news.yahoo.co.jp/articles/f2dd423ddaa979659b47462c2f43dac8384f0f87",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "自民、予測市場で勉強会──カルシとポリマーケット幹部が来日、第2回は11月に国内企業と",
         "url": "https://news.yahoo.co.jp/articles/e7a22804300f1d144903c6c3a8051e7bdcd18e6c",
         "source": "Yahoo",
@@ -17798,15 +17848,15 @@
         "url": "https://news.yahoo.co.jp/articles/19516184d2e53bd16eaba211d4c6718672507e1b",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化と推計。DeFi残高にも影響",
-        "url": "https://news.yahoo.co.jp/articles/87114179f0794c9c26f496bece0ef7c758b18ba5",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "《発表会レポート》JR東の「teppay」が始動、2万円超決済だけでない「Suicaの枠組みを超える」サービスの狙いとは",
+        "url": "https://news.yahoo.co.jp/articles/75b4f6998d569d3fa7f4d4bc1657e1a6bf989aef",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
         "url": "https://news.yahoo.co.jp/articles/97a9fd0c1ec30b0bb321edfe53ef3f036677b484",
@@ -17834,18 +17884,18 @@
       {
         "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シンガポール暗号資産市場、1年で1.5倍──日本と異なる成長構造＝Chainalysis",
-        "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "《発表会レポート》JR東の「teppay」が始動、2万円超決済だけでない「Suicaの枠組みを超える」サービスの狙いとは",
+        "url": "https://news.yahoo.co.jp/articles/75b4f6998d569d3fa7f4d4bc1657e1a6bf989aef",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
         "url": "https://news.yahoo.co.jp/articles/97a9fd0c1ec30b0bb321edfe53ef3f036677b484",
         "source": "Yahoo",
@@ -17872,12 +17922,6 @@
       {
         "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シンガポール暗号資産市場、1年で1.5倍──日本と異なる成長構造＝Chainalysis",
-        "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
         "source": "Yahoo",
         "date": ""
       }
