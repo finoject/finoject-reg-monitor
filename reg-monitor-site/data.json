@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T08:07:59.068Z",
+  "generatedAt": "2026-10-20T09:38:51.688Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in広島」の開催の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261020/20261020.html",
+      "date": "2026-10-20",
+      "detectedAt": "2026-10-20T09:38:51.688Z",
+      "enriched": "2026-10-20T09:38:57.729Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は2026年12月5日、イオンモール広島府中において、キャラクター「ワニーサ」を活用した金融経済教育イベント「未来のためのお金の教室 in広島」を開催する。",
+        "家族向けに、ステージショー、ミニ講義プログラム（マインクラフトやうんこお金ドリルを含む）、体験ブースを提供し、無料で金融知識習得の機会を提供する対象は一般向けで参加予約等の詳細は特設サイト参照。",
+        "本イベントは総合政策局総合政策課金融経済教育推進室による金融経済教育推進施策の一環であり、規制改正や法令適用ではなく広報・教育活動の位置づけ。"
       ],
       "aiSumV": 3
     },
@@ -17776,6 +17791,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ポリゴンラボ、「Polygon CDK」にハイパーレジャー・ベス対応追加。企業の独自チェーン構築を支援",
+        "url": "https://news.yahoo.co.jp/articles/8d02d07f48f571b99cc4e78360e3b92f9c2c41e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クリプトドットコムとNovig、予測市場のスポーツ契約巡り米ミズーリ州を提訴",
         "url": "https://news.yahoo.co.jp/articles/f2dd423ddaa979659b47462c2f43dac8384f0f87",
         "source": "Yahoo",
@@ -17802,18 +17823,18 @@
       {
         "title": "ドイツ銀行、ビットコイン・イーサリアムの保管サービスを数週間以内に開始へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/5584894acfff148a79a63edcc0e99ae03d96dc2f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナ財団、中国・上海に新オフィス開設。現地イベントは開催直前に延期",
-        "url": "https://news.yahoo.co.jp/articles/19516184d2e53bd16eaba211d4c6718672507e1b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ポリゴンラボ、「Polygon CDK」にハイパーレジャー・ベス対応追加。企業の独自チェーン構築を支援",
+        "url": "https://news.yahoo.co.jp/articles/8d02d07f48f571b99cc4e78360e3b92f9c2c41e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クリプトドットコムとNovig、予測市場のスポーツ契約巡り米ミズーリ州を提訴",
         "url": "https://news.yahoo.co.jp/articles/f2dd423ddaa979659b47462c2f43dac8384f0f87",
         "source": "Yahoo",
@@ -17840,12 +17861,6 @@
       {
         "title": "ドイツ銀行、ビットコイン・イーサリアムの保管サービスを数週間以内に開始へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/5584894acfff148a79a63edcc0e99ae03d96dc2f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナ財団、中国・上海に新オフィス開設。現地イベントは開催直前に延期",
-        "url": "https://news.yahoo.co.jp/articles/19516184d2e53bd16eaba211d4c6718672507e1b",
         "source": "Yahoo",
         "date": ""
       }
@@ -18004,6 +18019,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ポリゴンラボ、「Polygon CDK」にハイパーレジャー・ベス対応追加。企業の独自チェーン構築を支援",
+        "url": "https://news.yahoo.co.jp/articles/8d02d07f48f571b99cc4e78360e3b92f9c2c41e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ関連ステーブルコイン「USD1」、特定ウォレットから集中償還＝調査",
         "url": "https://news.yahoo.co.jp/articles/aee2a605d7215caa9be567eb74e0be2640ad9f12",
         "source": "Yahoo",
@@ -18022,7 +18043,7 @@
         "date": ""
       },
       {
-        "title": "マスターカード、ステーブルコイン決済のリスク分析ツール発表。詐欺や制裁違反対策で",
+        "title": "マスターカード、ステーブルコイン決済のリスク分析ツール提供へ。詐欺や制裁違反対策で",
         "url": "https://news.yahoo.co.jp/articles/dbfd515248971f1da787795c0e5a23528409b608",
         "source": "Yahoo",
         "date": ""
@@ -18030,18 +18051,18 @@
       {
         "title": "VisaとMeshが提携、1億7500万以上の加盟店で暗号資産とステーブルコインの残高が利用可能に",
         "url": "https://news.yahoo.co.jp/articles/6a0d579489b04f9ca749bc78c46b380138680f82",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Web3の二の舞か？ 国策「オンチェーン金融」5つの論点、銀行に残る“ある役割”",
-        "url": "https://news.yahoo.co.jp/articles/fe9f749ae31068398a8ed67036d6550ce83bc61e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ポリゴンラボ、「Polygon CDK」にハイパーレジャー・ベス対応追加。企業の独自チェーン構築を支援",
+        "url": "https://news.yahoo.co.jp/articles/8d02d07f48f571b99cc4e78360e3b92f9c2c41e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ関連ステーブルコイン「USD1」、特定ウォレットから集中償還＝調査",
         "url": "https://news.yahoo.co.jp/articles/aee2a605d7215caa9be567eb74e0be2640ad9f12",
         "source": "Yahoo",
@@ -18060,7 +18081,7 @@
         "date": ""
       },
       {
-        "title": "マスターカード、ステーブルコイン決済のリスク分析ツール発表。詐欺や制裁違反対策で",
+        "title": "マスターカード、ステーブルコイン決済のリスク分析ツール提供へ。詐欺や制裁違反対策で",
         "url": "https://news.yahoo.co.jp/articles/dbfd515248971f1da787795c0e5a23528409b608",
         "source": "Yahoo",
         "date": ""
@@ -18068,12 +18089,6 @@
       {
         "title": "VisaとMeshが提携、1億7500万以上の加盟店で暗号資産とステーブルコインの残高が利用可能に",
         "url": "https://news.yahoo.co.jp/articles/6a0d579489b04f9ca749bc78c46b380138680f82",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Web3の二の舞か？ 国策「オンチェーン金融」5つの論点、銀行に残る“ある役割”",
-        "url": "https://news.yahoo.co.jp/articles/fe9f749ae31068398a8ed67036d6550ce83bc61e",
         "source": "Yahoo",
         "date": ""
       }
@@ -18808,6 +18823,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "デジタル相｢自分の情報は自分で｣発言に｢これしかない｣と確信",
+        "url": "https://news.yahoo.co.jp/articles/0eb6875b57452c3de22eca3bfd0d967e89e58a9b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報漏えいは「権利侵害」──続発する被害で問われる経営責任と法規制の行く末",
         "url": "https://news.yahoo.co.jp/articles/65621f2100a199d042d6173bb1e98f1964c7a6f8",
         "source": "Yahoo",
@@ -18834,18 +18855,18 @@
       {
         "title": "Studio漏えい、個情委への報告で混乱 フォーム利用者に「報告必要な場合も」→翌日「保留して」",
         "url": "https://news.yahoo.co.jp/articles/d73d8641f3d54f7d020676e737cf01c7fcad93d1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「個人情報はきっちりと守って」 タイムズの「660万件漏洩」に財務相が見解 なぜ会員数より“200万件以上多い”情報が漏れたのか",
-        "url": "https://news.yahoo.co.jp/articles/f3900ceb66ef6aa03fce134af26ab398d081c6c2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "デジタル相｢自分の情報は自分で｣発言に｢これしかない｣と確信",
+        "url": "https://news.yahoo.co.jp/articles/0eb6875b57452c3de22eca3bfd0d967e89e58a9b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報漏えいは「権利侵害」──続発する被害で問われる経営責任と法規制の行く末",
         "url": "https://news.yahoo.co.jp/articles/65621f2100a199d042d6173bb1e98f1964c7a6f8",
         "source": "Yahoo",
@@ -18872,18 +18893,18 @@
       {
         "title": "Studio漏えい、個情委への報告で混乱 フォーム利用者に「報告必要な場合も」→翌日「保留して」",
         "url": "https://news.yahoo.co.jp/articles/d73d8641f3d54f7d020676e737cf01c7fcad93d1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「個人情報はきっちりと守って」 タイムズの「660万件漏洩」に財務相が見解 なぜ会員数より“200万件以上多い”情報が漏れたのか",
-        "url": "https://news.yahoo.co.jp/articles/f3900ceb66ef6aa03fce134af26ab398d081c6c2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "デジタル相｢自分の情報は自分で｣発言に｢これしかない｣と確信",
+        "url": "https://news.yahoo.co.jp/articles/0eb6875b57452c3de22eca3bfd0d967e89e58a9b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報漏えいは「権利侵害」──続発する被害で問われる経営責任と法規制の行く末",
         "url": "https://news.yahoo.co.jp/articles/65621f2100a199d042d6173bb1e98f1964c7a6f8",
         "source": "Yahoo",
@@ -18910,12 +18931,6 @@
       {
         "title": "Studio漏えい、個情委への報告で混乱 フォーム利用者に「報告必要な場合も」→翌日「保留して」",
         "url": "https://news.yahoo.co.jp/articles/d73d8641f3d54f7d020676e737cf01c7fcad93d1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「個人情報はきっちりと守って」 タイムズの「660万件漏洩」に財務相が見解 なぜ会員数より“200万件以上多い”情報が漏れたのか",
-        "url": "https://news.yahoo.co.jp/articles/f3900ceb66ef6aa03fce134af26ab398d081c6c2",
         "source": "Yahoo",
         "date": ""
       }
