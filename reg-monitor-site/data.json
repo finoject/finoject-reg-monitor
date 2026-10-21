@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:30:42.572Z",
+  "generatedAt": "2026-10-21T00:01:36.245Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -15,6 +15,22 @@
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]国債先物における受渡適格銘柄及び交換比率一覧表の更新",
+      "url": "https://www.jpx.co.jp/derivatives/products/jgb/jgb-futures/02.html",
+      "date": "2026-10-21",
+      "detectedAt": "2026-10-21T00:01:36.245Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "国債先物（長期国債先物（現金決済型ミニ）を除く）の受渡適格銘柄及び交換比率（コンバージョン・ファクター）を2026年7月3日付で更新した。物価連動国債及びクライメート・トランジション利付国債は受渡適格銘柄に含まれない。",
+        "国債先物の取引参加者及び関連機関は、更新された受渡適格銘柄一覧表及び交換比率を取引・決済業務に適用し、受渡決済時に対応銘柄を確認・使用する必要がある。",
+        "本更新は2026年7月3日付で有効。受渡適格銘柄が未定の限月については対象銘柄発行時に資料を更新する。交換比率の計算式は2015年7月6日以降のデータに基づく。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-21T00:01:41.125Z"
     },
     {
       "agency": "金融庁",
@@ -858,22 +874,6 @@
         "本説明会は2026年10月14日17時30分から日本銀行本店で開催され、資料１～３（市場調節運営・国債市場機能度・東京短期金融市場サーベイ8月結果）が提示された。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[OSE]国債先物における受渡適格銘柄及び交換比率一覧表の更新",
-      "url": "https://www.jpx.co.jp/derivatives/products/jgb/jgb-futures/02.html",
-      "date": "2026-10-15",
-      "detectedAt": "2026-10-15T00:18:19.155Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "国債先物（長期国債先物（現金決済型ミニ）を除く）の受渡適格銘柄及び交換比率（コンバージョン・ファクター）を2026年7月3日付で更新した。物価連動国債及びクライメート・トランジション利付国債は受渡適格銘柄に含まれない。",
-        "国債先物の取引参加者及び関連機関は、更新された受渡適格銘柄一覧表及び交換比率を取引・決済業務に適用し、受渡決済時に対応銘柄を確認・使用する必要がある。",
-        "本更新は2026年7月3日付で有効。受渡適格銘柄が未定の限月については対象銘柄発行時に資料を更新する。交換比率の計算式は2015年7月6日以降のデータに基づく。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-15T00:18:24.406Z"
     },
     {
       "agency": "日本証券業協会",
@@ -17563,6 +17563,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
+        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "12月募集分から個人向け国債は個人向け国債プラスに。何がどう変わるのか",
         "url": "https://news.yahoo.co.jp/expert/articles/6be4163d668cb4982305997c7a8892f4f86c21dc",
         "source": "Yahoo",
@@ -17589,18 +17595,18 @@
       {
         "title": "会社役員の男に懲役4年6月の実刑判決 ニデックTOB巡りインサイダー取引 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/25bbcba21be8fbcba689c7e6e46d1a0fc9675c57",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:17未公開情報もとにインサイダー取引の罪 会社役員に懲役4年6か月判決 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/ab94aad487ce41b407e3b5ddd5dd7bcfd13d6704",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
+        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "12月募集分から個人向け国債は個人向け国債プラスに。何がどう変わるのか",
         "url": "https://news.yahoo.co.jp/expert/articles/6be4163d668cb4982305997c7a8892f4f86c21dc",
         "source": "Yahoo",
@@ -17627,18 +17633,18 @@
       {
         "title": "会社役員の男に懲役4年6月の実刑判決 ニデックTOB巡りインサイダー取引 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/25bbcba21be8fbcba689c7e6e46d1a0fc9675c57",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:17未公開情報もとにインサイダー取引の罪 会社役員に懲役4年6か月判決 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/ab94aad487ce41b407e3b5ddd5dd7bcfd13d6704",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
+        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "12月募集分から個人向け国債は個人向け国債プラスに。何がどう変わるのか",
         "url": "https://news.yahoo.co.jp/expert/articles/6be4163d668cb4982305997c7a8892f4f86c21dc",
         "source": "Yahoo",
@@ -17665,18 +17671,18 @@
       {
         "title": "会社役員の男に懲役4年6月の実刑判決 ニデックTOB巡りインサイダー取引 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/25bbcba21be8fbcba689c7e6e46d1a0fc9675c57",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:17未公開情報もとにインサイダー取引の罪 会社役員に懲役4年6か月判決 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/ab94aad487ce41b407e3b5ddd5dd7bcfd13d6704",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
+        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "12月募集分から個人向け国債は個人向け国債プラスに。何がどう変わるのか",
         "url": "https://news.yahoo.co.jp/expert/articles/6be4163d668cb4982305997c7a8892f4f86c21dc",
         "source": "Yahoo",
@@ -17703,12 +17709,6 @@
       {
         "title": "会社役員の男に懲役4年6月の実刑判決 ニデックTOB巡りインサイダー取引 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/25bbcba21be8fbcba689c7e6e46d1a0fc9675c57",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:17未公開情報もとにインサイダー取引の罪 会社役員に懲役4年6か月判決 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/ab94aad487ce41b407e3b5ddd5dd7bcfd13d6704",
         "source": "Yahoo",
         "date": ""
       }
@@ -17791,6 +17791,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
+        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "フランス国民議会、暗号資産からステーブルコインへの交換課税案を可決",
         "url": "https://news.yahoo.co.jp/articles/1959786d0373fd10ad0cfe0a554327ec8f98ea6b",
         "source": "Yahoo",
@@ -17817,18 +17823,18 @@
       {
         "title": "サークル、USDC・EURCの超過償還手数料を廃止、料金体系を2区分に整理",
         "url": "https://news.yahoo.co.jp/articles/7ff35210c8ab418711ca66236e4ddadcadb3c713",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンラボ、「Polygon CDK」にハイパーレジャー・ベス対応追加。企業の独自チェーン構築を支援",
-        "url": "https://news.yahoo.co.jp/articles/8d02d07f48f571b99cc4e78360e3b92f9c2c41e2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
+        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "フランス国民議会、暗号資産からステーブルコインへの交換課税案を可決",
         "url": "https://news.yahoo.co.jp/articles/1959786d0373fd10ad0cfe0a554327ec8f98ea6b",
         "source": "Yahoo",
@@ -17855,12 +17861,6 @@
       {
         "title": "サークル、USDC・EURCの超過償還手数料を廃止、料金体系を2区分に整理",
         "url": "https://news.yahoo.co.jp/articles/7ff35210c8ab418711ca66236e4ddadcadb3c713",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンラボ、「Polygon CDK」にハイパーレジャー・ベス対応追加。企業の独自チェーン構築を支援",
-        "url": "https://news.yahoo.co.jp/articles/8d02d07f48f571b99cc4e78360e3b92f9c2c41e2",
         "source": "Yahoo",
         "date": ""
       }
@@ -18019,6 +18019,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
+        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコイン送金額、3年半で4倍以上に＝調査報告",
+        "url": "https://news.yahoo.co.jp/articles/aa1e0da445d18f12e14c2af00a2bcf28a68f20f9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "フランス国民議会、暗号資産からステーブルコインへの交換課税案を可決",
         "url": "https://news.yahoo.co.jp/articles/1959786d0373fd10ad0cfe0a554327ec8f98ea6b",
         "source": "Yahoo",
@@ -18039,24 +18051,24 @@
       {
         "title": "サークル、USDC・EURCの超過償還手数料を廃止、料金体系を2区分に整理",
         "url": "https://news.yahoo.co.jp/articles/7ff35210c8ab418711ca66236e4ddadcadb3c713",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンラボ、「Polygon CDK」にハイパーレジャー・ベス対応追加。企業の独自チェーン構築を支援",
-        "url": "https://news.yahoo.co.jp/articles/8d02d07f48f571b99cc4e78360e3b92f9c2c41e2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ関連ステーブルコイン「USD1」、特定ウォレットから集中償還＝調査",
-        "url": "https://news.yahoo.co.jp/articles/aee2a605d7215caa9be567eb74e0be2640ad9f12",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
+        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコイン送金額、3年半で4倍以上に＝調査報告",
+        "url": "https://news.yahoo.co.jp/articles/aa1e0da445d18f12e14c2af00a2bcf28a68f20f9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "フランス国民議会、暗号資産からステーブルコインへの交換課税案を可決",
         "url": "https://news.yahoo.co.jp/articles/1959786d0373fd10ad0cfe0a554327ec8f98ea6b",
         "source": "Yahoo",
@@ -18077,18 +18089,6 @@
       {
         "title": "サークル、USDC・EURCの超過償還手数料を廃止、料金体系を2区分に整理",
         "url": "https://news.yahoo.co.jp/articles/7ff35210c8ab418711ca66236e4ddadcadb3c713",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンラボ、「Polygon CDK」にハイパーレジャー・ベス対応追加。企業の独自チェーン構築を支援",
-        "url": "https://news.yahoo.co.jp/articles/8d02d07f48f571b99cc4e78360e3b92f9c2c41e2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ関連ステーブルコイン「USD1」、特定ウォレットから集中償還＝調査",
-        "url": "https://news.yahoo.co.jp/articles/aee2a605d7215caa9be567eb74e0be2640ad9f12",
         "source": "Yahoo",
         "date": ""
       }
