@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:16:17.694Z",
+  "generatedAt": "2026-10-21T06:50:28.328Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,68 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-10-21",
+      "detectedAt": "2026-10-21T06:50:28.328Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-10-21T06:50:34.488Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「2040年に向けた我が国金融資本市場のビジョンについての懇談会」中間報告を公表いたしました",
+      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
+      "date": "2026-10-21",
+      "detectedAt": "2026-10-21T06:50:28.328Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
+        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
+        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-21T06:50:34.488Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大（ETF/ETN）：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261021-01.html",
+      "date": "2026-10-21",
+      "detectedAt": "2026-10-21T06:50:28.328Z",
+      "enriched": "2026-10-21T06:50:34.488Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "NZAM上場投信DAX（為替ヘッジなし）（コード535A）は、10月21日のストップ高終了により、10月22日営業日の制限値幅上限を通常500円から2,000円に拡大し、ストップ高は4,360円となる。",
+        "取引参加者及び投資家は、同銘柄の10月22日以降の取引時に拡大後の制限値幅を認識し、成行注文による想定外の約定リスク及び注文発注時の値幅確認が必要。",
+        "制限値幅の拡大は東証の自主規制措置として10月22日から適用開始され、拡大後のストップ高安以外で約定・立会終了した場合は翌営業日から通常幅に戻る。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "分別管理に関する監査法人等による監査の結果",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kansagaikyo.html",
+      "date": "2026-10-21",
+      "detectedAt": "2026-10-21T06:50:28.328Z",
+      "enriched": "2026-10-21T06:50:35.392Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融商品取引業者（会員及び特定業務会員含む）は法令により顧客資産の分別管理と毎年の監査法人等による監査受検が義務付けられている。",
+        "証券業協会は会員から監査結果等の報告を受け、内容確認後に監査結果の概要を取りまとめて公表する。",
+        "2025年度の監査結果等の概要が別添資料で示されており、金融商品取引業者は当該監査実施と結果報告への対応が必須。"
       ],
       "aiSumV": 3
     },
@@ -755,22 +817,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-10-15",
-      "detectedAt": "2026-10-15T08:08:27.727Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-10-15T08:08:32.512Z"
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "「株式投資型クラウドファンディングの統計情報・取扱状況」を更新しました。",
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucrowdfunding/index.html",
       "date": "2026-10-15",
@@ -1042,22 +1088,6 @@
         "東証が公表した本気配運用ルールに基づき、市場参加者は10月15日のルクレ上場初日の取引で指定された気配更新ルール・価格帯・注文制限に従う必要がある。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "第５回「2040年に向けた我が国金融資本市場のビジョンについての懇談会」を開催いたしました",
-      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
-      "date": "2026-10-14",
-      "detectedAt": "2026-10-14T02:08:35.079Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
-        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
-        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-14T02:08:40.643Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -17593,6 +17623,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
+        "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
         "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
         "source": "Yahoo",
@@ -17619,18 +17655,18 @@
       {
         "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
         "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
-        "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
+        "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
         "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
         "source": "Yahoo",
@@ -17657,18 +17693,18 @@
       {
         "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
         "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
-        "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
+        "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
         "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
         "source": "Yahoo",
@@ -17695,18 +17731,18 @@
       {
         "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
         "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
-        "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
+        "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
         "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
         "source": "Yahoo",
@@ -17733,12 +17769,6 @@
       {
         "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
         "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
-        "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
         "source": "Yahoo",
         "date": ""
       }
@@ -17821,6 +17851,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "JPモルガンAM、ビットコインの10年リターンを年率10％と想定。米大型株や金上回る",
+        "url": "https://news.yahoo.co.jp/articles/2961b36356ac0a55333eb2e3d94a15e7766a7009",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
         "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
         "source": "Yahoo",
@@ -17847,18 +17883,18 @@
       {
         "title": "金融庁、DeFi・DEX規制を優先検討の候補に──野村は海外と同等の自由度求める",
         "url": "https://news.yahoo.co.jp/articles/fff22baeb9bbcd094728273ea602e185e40591b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitget、GMO傘下のタイ暗号資産取引所を買収へ──現地拠点を確保",
-        "url": "https://news.yahoo.co.jp/articles/31b0a81c036e119510c267a974ee4b8e84730b12",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "JPモルガンAM、ビットコインの10年リターンを年率10％と想定。米大型株や金上回る",
+        "url": "https://news.yahoo.co.jp/articles/2961b36356ac0a55333eb2e3d94a15e7766a7009",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
         "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
         "source": "Yahoo",
@@ -17885,12 +17921,6 @@
       {
         "title": "金融庁、DeFi・DEX規制を優先検討の候補に──野村は海外と同等の自由度求める",
         "url": "https://news.yahoo.co.jp/articles/fff22baeb9bbcd094728273ea602e185e40591b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Bitget、GMO傘下のタイ暗号資産取引所を買収へ──現地拠点を確保",
-        "url": "https://news.yahoo.co.jp/articles/31b0a81c036e119510c267a974ee4b8e84730b12",
         "source": "Yahoo",
         "date": ""
       }
@@ -18049,6 +18079,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ムーンペイと韓国ドゥナム、ステーブルコイン決済・企業資金管理で協業へ",
+        "url": "https://news.yahoo.co.jp/articles/d42c9c11c5ddbc6d736007586aa943af1c7d4e7d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米スカイAI、保有SOLを全量売却。最大約2億ドルの自社株・ワラント公開買付け開始",
+        "url": "https://news.yahoo.co.jp/articles/32dad3029da2b2f02a87ca417852785fe011321d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン、原油乱高下も底堅い 本日は20年入札とビッグテック決算【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/1e685c930904c01f700cc801e34e640111c61e8f",
         "source": "Yahoo",
@@ -18069,24 +18111,24 @@
       {
         "title": "マスターカード、AIエージェント決済「Agent Pay for Machines」の開発者向け早期アクセス開始",
         "url": "https://news.yahoo.co.jp/articles/9ee818cbde503857139b6fc7bf2ec739bfaef1bd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
-        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン送金額、3年半で4倍以上に＝調査報告",
-        "url": "https://news.yahoo.co.jp/articles/aa1e0da445d18f12e14c2af00a2bcf28a68f20f9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ムーンペイと韓国ドゥナム、ステーブルコイン決済・企業資金管理で協業へ",
+        "url": "https://news.yahoo.co.jp/articles/d42c9c11c5ddbc6d736007586aa943af1c7d4e7d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米スカイAI、保有SOLを全量売却。最大約2億ドルの自社株・ワラント公開買付け開始",
+        "url": "https://news.yahoo.co.jp/articles/32dad3029da2b2f02a87ca417852785fe011321d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン、原油乱高下も底堅い 本日は20年入札とビッグテック決算【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/1e685c930904c01f700cc801e34e640111c61e8f",
         "source": "Yahoo",
@@ -18107,18 +18149,6 @@
       {
         "title": "マスターカード、AIエージェント決済「Agent Pay for Machines」の開発者向け早期アクセス開始",
         "url": "https://news.yahoo.co.jp/articles/9ee818cbde503857139b6fc7bf2ec739bfaef1bd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
-        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン送金額、3年半で4倍以上に＝調査報告",
-        "url": "https://news.yahoo.co.jp/articles/aa1e0da445d18f12e14c2af00a2bcf28a68f20f9",
         "source": "Yahoo",
         "date": ""
       }
