@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:18:28.855Z",
+  "generatedAt": "2026-10-21T04:49:20.644Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,53 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "会長記者会見の資料を公開しました。",
+      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
+      "date": "2026-10-21",
+      "detectedAt": "2026-10-21T04:49:20.644Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
+        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
+        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-21T04:49:26.524Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
+      "date": "2026-10-21",
+      "detectedAt": "2026-10-21T04:49:20.644Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "PTS Information Networkの終了に伴い、金融商品取引所上場銘柄のPTSにおける売買状況等の統計を日本証券業協会ホームページで公表する体制に移行した（2025年7月1日終了）。",
+        "一般投資家および市場関係者は、協会ホームページから月次（毎月21日原則公表）および年次の現金信用別売買状況、売買株数・売買代金データを参照可能になった。",
+        "PTS運営業務を行う会員および取引所外取引を行う会員からの報告に基づき、売買株数・売買代金を集計し、取引所取引との比較分析が可能な統計情報として継続提供される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-10-21T04:49:26.525Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「職場つみたてNISAの導入状況」を公表しました",
+      "url": "https://www.jsda.or.jp/shijyo/seido/tax/shokubatsumitate_nisa.html",
+      "date": "2026-10-21",
+      "detectedAt": "2026-10-21T04:49:20.644Z",
+      "enriched": "2026-10-21T04:49:26.525Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "NISA推進・連絡協議会は調査項目を見直した上で2026年より職場つみたてNISA導入状況の統計調査を再開し、2026年6月末時点のデータを10月21日に公表した。",
+        "職場つみたてNISA取扱業者は2026年5月27日改定のガイドライン及び各種利用規約雛形（2025年10月22日改定分含む）に基づき、事業主と契約して金融商品選定・給与天引き等の定時定額投資を実施する。",
+        "職場つみたてNISAは事業主が役職員向けにNISA取扱業者を通じて実施する福利厚生制度であり、つみたて投資枠・成長投資枠の単独又は併用方式で、給与天引き又は口座振替・カード決済により運用される。"
       ],
       "aiSumV": 3
     },
@@ -394,22 +441,6 @@
         "提供データ：業態別の日銀当座預金残高について2026年5月分を集計・公表、金融機関の流動性管理状況を反映した残高データを掲載。",
         "対象者：日銀当座預金を保有する金融機関、月次統計の公表により市場参加者が金融市場の動向を把握可能。",
         "適用時期：2026年5月末時点の残高集計であり、日本銀行の定期統計公表スケジュールに基づき月次で継続実施。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-16T09:10:26.637Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "会長記者会見の要旨を公開しました。",
-      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
-      "date": "2026-10-16",
-      "detectedAt": "2026-10-16T09:10:20.677Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
-        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
-        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
       ],
       "aiSumV": 3,
       "updated": true,
@@ -3729,22 +3760,6 @@
         "初値決定まで制限値幅は適用されず、初値決定後に当該初値を基準値段として呼値の制限値幅が適用される。初値は気配更新の上限値段から通常値幅分高い値段まで、下限値段から通常値幅分安い値段まで成立可能。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
-      "date": "2026-09-24",
-      "detectedAt": "2026-09-24T03:59:55.816Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "PTS Information Networkの終了に伴い、金融商品取引所上場銘柄のPTSにおける売買状況等の統計を日本証券業協会ホームページで公表する体制に移行した（2025年7月1日終了）。",
-        "一般投資家および市場関係者は、協会ホームページから月次（毎月21日原則公表）および年次の現金信用別売買状況、売買株数・売買代金データを参照可能になった。",
-        "PTS運営業務を行う会員および取引所外取引を行う会員からの報告に基づき、売買株数・売買代金を集計し、取引所取引との比較分析が可能な統計情報として継続提供される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-09-24T04:00:02.183Z"
     },
     {
       "agency": "日本銀行",
@@ -17578,6 +17593,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
+        "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "IPOの抽選には業界の決まりがある。申し込む前に配分の方針と目論見書を読む 申し込む前に目を通したい目論見書 見落としやすいのが目論見書です。金融商品取引法は、届出が必要な有価証券などを募集や売出しで取得させるとき、目論見書",
+        "url": "https://news.yahoo.co.jp/articles/b1c8fbe1f2c10f1a9ca1874bb056936f3d05c3d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
         "source": "Yahoo",
@@ -17598,24 +17625,24 @@
       {
         "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
         "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
-        "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "会社役員の男に懲役4年6月の実刑判決 ニデックTOB巡りインサイダー取引 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/25bbcba21be8fbcba689c7e6e46d1a0fc9675c57",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
+        "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "IPOの抽選には業界の決まりがある。申し込む前に配分の方針と目論見書を読む 申し込む前に目を通したい目論見書 見落としやすいのが目論見書です。金融商品取引法は、届出が必要な有価証券などを募集や売出しで取得させるとき、目論見書",
+        "url": "https://news.yahoo.co.jp/articles/b1c8fbe1f2c10f1a9ca1874bb056936f3d05c3d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
         "source": "Yahoo",
@@ -17636,24 +17663,24 @@
       {
         "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
         "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
-        "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "会社役員の男に懲役4年6月の実刑判決 ニデックTOB巡りインサイダー取引 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/25bbcba21be8fbcba689c7e6e46d1a0fc9675c57",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
+        "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "IPOの抽選には業界の決まりがある。申し込む前に配分の方針と目論見書を読む 申し込む前に目を通したい目論見書 見落としやすいのが目論見書です。金融商品取引法は、届出が必要な有価証券などを募集や売出しで取得させるとき、目論見書",
+        "url": "https://news.yahoo.co.jp/articles/b1c8fbe1f2c10f1a9ca1874bb056936f3d05c3d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
         "source": "Yahoo",
@@ -17674,24 +17701,24 @@
       {
         "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
         "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
-        "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "会社役員の男に懲役4年6月の実刑判決 ニデックTOB巡りインサイダー取引 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/25bbcba21be8fbcba689c7e6e46d1a0fc9675c57",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
+        "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "IPOの抽選には業界の決まりがある。申し込む前に配分の方針と目論見書を読む 申し込む前に目を通したい目論見書 見落としやすいのが目論見書です。金融商品取引法は、届出が必要な有価証券などを募集や売出しで取得させるとき、目論見書",
+        "url": "https://news.yahoo.co.jp/articles/b1c8fbe1f2c10f1a9ca1874bb056936f3d05c3d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
         "source": "Yahoo",
@@ -17712,18 +17739,6 @@
       {
         "title": "「個人向け国債から個人向け国債プラスに」牛さん熊さんの本日の債券（コラム）2026年10月19日久保田博幸経済総合10/19(月) 10:43",
         "url": "https://news.yahoo.co.jp/expert/articles/62917f9084d608eec344e90e3930e55b6158d26e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
-        "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "会社役員の男に懲役4年6月の実刑判決 ニデックTOB巡りインサイダー取引 東京地裁",
-        "url": "https://news.yahoo.co.jp/articles/25bbcba21be8fbcba689c7e6e46d1a0fc9675c57",
         "source": "Yahoo",
         "date": ""
       }
@@ -17806,6 +17821,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
+        "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
         "source": "Yahoo",
@@ -17832,18 +17853,18 @@
       {
         "title": "Bitget、GMO傘下のタイ暗号資産取引所を買収へ──現地拠点を確保",
         "url": "https://news.yahoo.co.jp/articles/31b0a81c036e119510c267a974ee4b8e84730b12",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、USDC・EURCの超過償還手数料を廃止、料金体系を2区分に整理",
-        "url": "https://news.yahoo.co.jp/articles/7ff35210c8ab418711ca66236e4ddadcadb3c713",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "JCBA、暗号資産業務の委託先管理でWG設立、セキュリティ対策のプラクティス集公表",
+        "url": "https://news.yahoo.co.jp/articles/f2fd3d047c72f14c9cc6958373987c5e392f72f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
         "source": "Yahoo",
@@ -17870,12 +17891,6 @@
       {
         "title": "Bitget、GMO傘下のタイ暗号資産取引所を買収へ──現地拠点を確保",
         "url": "https://news.yahoo.co.jp/articles/31b0a81c036e119510c267a974ee4b8e84730b12",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、USDC・EURCの超過償還手数料を廃止、料金体系を2区分に整理",
-        "url": "https://news.yahoo.co.jp/articles/7ff35210c8ab418711ca66236e4ddadcadb3c713",
         "source": "Yahoo",
         "date": ""
       }
@@ -18034,6 +18049,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "井林国土交通大臣、訪日外国人免税にステーブルコイン活用検討を表明",
+        "url": "https://news.yahoo.co.jp/articles/04fd4bb5202fd4023e3e53fe5964682e670ea760",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI VCトレードら、韓国シンハンカードと基本合意。ステーブルコイン決済の活用検討へ",
+        "url": "https://news.yahoo.co.jp/articles/ca9f4abfac8fd6c55f9356d199ec299f9a9238fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マスターカード、AIエージェント決済「Agent Pay for Machines」の開発者向け早期アクセス開始",
+        "url": "https://news.yahoo.co.jp/articles/9ee818cbde503857139b6fc7bf2ec739bfaef1bd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
         "source": "Yahoo",
@@ -18048,30 +18081,30 @@
       {
         "title": "フランス国民議会、暗号資産からステーブルコインへの交換課税案を可決",
         "url": "https://news.yahoo.co.jp/articles/1959786d0373fd10ad0cfe0a554327ec8f98ea6b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "次に動くのは「交通とお金」か──井林国交相の就任1カ月、ステーブルコイン社会実装への期待【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/bd719e42b86293aac22a161895edb142c2640935",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザーCEO、イラン関連のステーブルコイン取引量「94％減」と説明。米上院民主党側の報告に反論",
-        "url": "https://news.yahoo.co.jp/articles/2b666830b5c1b61d76b3be4872f6b5f02000ec54",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、USDC・EURCの超過償還手数料を廃止、料金体系を2区分に整理",
-        "url": "https://news.yahoo.co.jp/articles/7ff35210c8ab418711ca66236e4ddadcadb3c713",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "井林国土交通大臣、訪日外国人免税にステーブルコイン活用検討を表明",
+        "url": "https://news.yahoo.co.jp/articles/04fd4bb5202fd4023e3e53fe5964682e670ea760",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI VCトレードら、韓国シンハンカードと基本合意。ステーブルコイン決済の活用検討へ",
+        "url": "https://news.yahoo.co.jp/articles/ca9f4abfac8fd6c55f9356d199ec299f9a9238fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "マスターカード、AIエージェント決済「Agent Pay for Machines」の開発者向け早期アクセス開始",
+        "url": "https://news.yahoo.co.jp/articles/9ee818cbde503857139b6fc7bf2ec739bfaef1bd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
         "source": "Yahoo",
@@ -18086,24 +18119,6 @@
       {
         "title": "フランス国民議会、暗号資産からステーブルコインへの交換課税案を可決",
         "url": "https://news.yahoo.co.jp/articles/1959786d0373fd10ad0cfe0a554327ec8f98ea6b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "次に動くのは「交通とお金」か──井林国交相の就任1カ月、ステーブルコイン社会実装への期待【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/bd719e42b86293aac22a161895edb142c2640935",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザーCEO、イラン関連のステーブルコイン取引量「94％減」と説明。米上院民主党側の報告に反論",
-        "url": "https://news.yahoo.co.jp/articles/2b666830b5c1b61d76b3be4872f6b5f02000ec54",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、USDC・EURCの超過償還手数料を廃止、料金体系を2区分に整理",
-        "url": "https://news.yahoo.co.jp/articles/7ff35210c8ab418711ca66236e4ddadcadb3c713",
         "source": "Yahoo",
         "date": ""
       }
@@ -18838,6 +18853,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "KDDI、加盟店の同意得ず情報掲載か",
+        "url": "https://news.yahoo.co.jp/articles/e3e972bd28c540aeb84108ec2f0ba3cfa2876b0d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「ａｕペイ」加盟店の紹介地図サイト",
         "url": "https://news.yahoo.co.jp/articles/a96aeb8b30948946475c74895c8aff3e6cca7d93",
         "source": "Yahoo",
@@ -18864,18 +18885,18 @@
       {
         "title": "デジタル相｢自分の情報は自分で｣発言に｢これしかない｣と確信",
         "url": "https://news.yahoo.co.jp/articles/0eb6875b57452c3de22eca3bfd0d967e89e58a9b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報漏えいは「権利侵害」──続発する被害で問われる経営責任と法規制の行く末",
-        "url": "https://news.yahoo.co.jp/articles/65621f2100a199d042d6173bb1e98f1964c7a6f8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "KDDI、加盟店の同意得ず情報掲載か",
+        "url": "https://news.yahoo.co.jp/articles/e3e972bd28c540aeb84108ec2f0ba3cfa2876b0d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「ａｕペイ」加盟店の紹介地図サイト",
         "url": "https://news.yahoo.co.jp/articles/a96aeb8b30948946475c74895c8aff3e6cca7d93",
         "source": "Yahoo",
@@ -18902,18 +18923,18 @@
       {
         "title": "デジタル相｢自分の情報は自分で｣発言に｢これしかない｣と確信",
         "url": "https://news.yahoo.co.jp/articles/0eb6875b57452c3de22eca3bfd0d967e89e58a9b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報漏えいは「権利侵害」──続発する被害で問われる経営責任と法規制の行く末",
-        "url": "https://news.yahoo.co.jp/articles/65621f2100a199d042d6173bb1e98f1964c7a6f8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "KDDI、加盟店の同意得ず情報掲載か",
+        "url": "https://news.yahoo.co.jp/articles/e3e972bd28c540aeb84108ec2f0ba3cfa2876b0d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「ａｕペイ」加盟店の紹介地図サイト",
         "url": "https://news.yahoo.co.jp/articles/a96aeb8b30948946475c74895c8aff3e6cca7d93",
         "source": "Yahoo",
@@ -18940,12 +18961,6 @@
       {
         "title": "デジタル相｢自分の情報は自分で｣発言に｢これしかない｣と確信",
         "url": "https://news.yahoo.co.jp/articles/0eb6875b57452c3de22eca3bfd0d967e89e58a9b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報漏えいは「権利侵害」──続発する被害で問われる経営責任と法規制の行く末",
-        "url": "https://news.yahoo.co.jp/articles/65621f2100a199d042d6173bb1e98f1964c7a6f8",
         "source": "Yahoo",
         "date": ""
       }
