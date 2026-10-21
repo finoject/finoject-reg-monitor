@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T06:50:28.328Z",
+  "generatedAt": "2026-10-21T08:21:18.596Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -15,6 +15,22 @@
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]グロース市場からプライム市場への変更：（株）ＧＡ ｔｅｃｈｎｏｌｏｇｉｅｓ",
+      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
+      "date": "2026-10-21",
+      "detectedAt": "2026-10-21T08:21:18.596Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
+        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
+        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-21T08:21:25.068Z"
     },
     {
       "agency": "日本証券業協会",
@@ -398,22 +414,6 @@
         "本件はJapan Weeksの一環として2023年から継続実施されており、日証協の業務活動（会員向け指導・政策提言）の枠組みに位置付けられている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]スタンダード市場からプライム市場への変更：湖北工業（株）",
-      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
-      "date": "2026-10-19",
-      "detectedAt": "2026-10-19T08:25:12.927Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
-        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
-        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-19T08:25:18.940Z"
     },
     {
       "agency": "日本証券業協会",
@@ -17623,6 +17623,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "投資の申込みで年収や投資経験を聞かれるのはなぜ。答えが勧誘の物差しになる",
+        "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
         "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
         "source": "Yahoo",
@@ -17643,24 +17655,24 @@
       {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "12月募集分から個人向け国債は個人向け国債プラスに。何がどう変わるのか",
-        "url": "https://news.yahoo.co.jp/expert/articles/6be4163d668cb4982305997c7a8892f4f86c21dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
-        "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "投資の申込みで年収や投資経験を聞かれるのはなぜ。答えが勧誘の物差しになる",
+        "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
         "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
         "source": "Yahoo",
@@ -17681,24 +17693,24 @@
       {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "12月募集分から個人向け国債は個人向け国債プラスに。何がどう変わるのか",
-        "url": "https://news.yahoo.co.jp/expert/articles/6be4163d668cb4982305997c7a8892f4f86c21dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
-        "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "投資の申込みで年収や投資経験を聞かれるのはなぜ。答えが勧誘の物差しになる",
+        "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
         "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
         "source": "Yahoo",
@@ -17719,24 +17731,24 @@
       {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "12月募集分から個人向け国債は個人向け国債プラスに。何がどう変わるのか",
-        "url": "https://news.yahoo.co.jp/expert/articles/6be4163d668cb4982305997c7a8892f4f86c21dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
-        "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "投資の申込みで年収や投資経験を聞かれるのはなぜ。答えが勧誘の物差しになる",
+        "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
         "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
         "source": "Yahoo",
@@ -17757,18 +17769,6 @@
       {
         "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
         "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "12月募集分から個人向け国債は個人向け国債プラスに。何がどう変わるのか",
-        "url": "https://news.yahoo.co.jp/expert/articles/6be4163d668cb4982305997c7a8892f4f86c21dc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「損しても少しで済む」は誤解。FXは預けた証拠金を超えて損をすることがある",
-        "url": "https://news.yahoo.co.jp/articles/941e55c0a4040cc469cfa479ba05f0d1ff34d4ad",
         "source": "Yahoo",
         "date": ""
       }
@@ -17851,6 +17851,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPモルガンAM、ビットコインの10年リターンを年率10％と想定。米大型株や金上回る",
         "url": "https://news.yahoo.co.jp/articles/2961b36356ac0a55333eb2e3d94a15e7766a7009",
         "source": "Yahoo",
@@ -17877,18 +17883,18 @@
       {
         "title": "SECの暗号資産規制案、エアドロップなど巡り業界団体が修正要求",
         "url": "https://news.yahoo.co.jp/articles/20657a3962d5be1499ee95713c859a276a5bc63e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、DeFi・DEX規制を優先検討の候補に──野村は海外と同等の自由度求める",
-        "url": "https://news.yahoo.co.jp/articles/fff22baeb9bbcd094728273ea602e185e40591b7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPモルガンAM、ビットコインの10年リターンを年率10％と想定。米大型株や金上回る",
         "url": "https://news.yahoo.co.jp/articles/2961b36356ac0a55333eb2e3d94a15e7766a7009",
         "source": "Yahoo",
@@ -17915,12 +17921,6 @@
       {
         "title": "SECの暗号資産規制案、エアドロップなど巡り業界団体が修正要求",
         "url": "https://news.yahoo.co.jp/articles/20657a3962d5be1499ee95713c859a276a5bc63e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、DeFi・DEX規制を優先検討の候補に──野村は海外と同等の自由度求める",
-        "url": "https://news.yahoo.co.jp/articles/fff22baeb9bbcd094728273ea602e185e40591b7",
         "source": "Yahoo",
         "date": ""
       }
@@ -18079,6 +18079,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "JPYC、韓国系SBJ銀行・LINE NEXTと提携──銀行口座からのチャージ機能を検討",
+        "url": "https://news.yahoo.co.jp/articles/7bf806b5f16ae985a5d22140c5a0a6b8e58c1fea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ムーンペイと韓国ドゥナム、ステーブルコイン決済・企業資金管理で協業へ",
         "url": "https://news.yahoo.co.jp/articles/d42c9c11c5ddbc6d736007586aa943af1c7d4e7d",
         "source": "Yahoo",
@@ -18099,24 +18111,24 @@
       {
         "title": "井林国土交通大臣、訪日外国人免税にステーブルコイン活用検討を表明",
         "url": "https://news.yahoo.co.jp/articles/04fd4bb5202fd4023e3e53fe5964682e670ea760",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI VCトレードら、韓国シンハンカードと基本合意。ステーブルコイン決済の活用検討へ",
-        "url": "https://news.yahoo.co.jp/articles/ca9f4abfac8fd6c55f9356d199ec299f9a9238fa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マスターカード、AIエージェント決済「Agent Pay for Machines」の開発者向け早期アクセス開始",
-        "url": "https://news.yahoo.co.jp/articles/9ee818cbde503857139b6fc7bf2ec739bfaef1bd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JPYC、韓国系SBJ銀行・LINE NEXTと提携──銀行口座からのチャージ機能を検討",
+        "url": "https://news.yahoo.co.jp/articles/7bf806b5f16ae985a5d22140c5a0a6b8e58c1fea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ムーンペイと韓国ドゥナム、ステーブルコイン決済・企業資金管理で協業へ",
         "url": "https://news.yahoo.co.jp/articles/d42c9c11c5ddbc6d736007586aa943af1c7d4e7d",
         "source": "Yahoo",
@@ -18137,18 +18149,6 @@
       {
         "title": "井林国土交通大臣、訪日外国人免税にステーブルコイン活用検討を表明",
         "url": "https://news.yahoo.co.jp/articles/04fd4bb5202fd4023e3e53fe5964682e670ea760",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI VCトレードら、韓国シンハンカードと基本合意。ステーブルコイン決済の活用検討へ",
-        "url": "https://news.yahoo.co.jp/articles/ca9f4abfac8fd6c55f9356d199ec299f9a9238fa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マスターカード、AIエージェント決済「Agent Pay for Machines」の開発者向け早期アクセス開始",
-        "url": "https://news.yahoo.co.jp/articles/9ee818cbde503857139b6fc7bf2ec739bfaef1bd",
         "source": "Yahoo",
         "date": ""
       }
@@ -18883,6 +18883,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "漏えい公表ラッシュは「検知の向上」か「攻撃の増加」か 専門家に聞いた",
+        "url": "https://news.yahoo.co.jp/articles/cb6bc1077b3e9bb163e9770798ea5d58ad5fd6f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か 個人情報保護法抵触のおそれも 日本経済新聞によると、発覚のきっかけは8月下旬にあった外部からの指摘だった。個人情報保護法は個人データの第三者提供に原則として本人の事前同意を求めており、同紙",
+        "url": "https://news.yahoo.co.jp/articles/17b72be101450aae94364aa7185d05bf1a2d767e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "KDDI、加盟店の同意得ず情報掲載か",
         "url": "https://news.yahoo.co.jp/articles/e3e972bd28c540aeb84108ec2f0ba3cfa2876b0d",
         "source": "Yahoo",
@@ -18903,24 +18915,24 @@
       {
         "title": "個人情報流出が相次ぐのはなぜ？2026年はサイバー攻撃による事案が1～9月で454件、流出時の対策も解説",
         "url": "https://news.yahoo.co.jp/articles/0f5a55f58506a50b4fbb11f6ae27bb24a19af4d9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "小泉防衛相、陸自情報収集問題で文書の確認せず 「真正性わからぬ」",
-        "url": "https://news.yahoo.co.jp/articles/931db24cf8604146b038b2aa9704d27bcf99611e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル相｢自分の情報は自分で｣発言に｢これしかない｣と確信",
-        "url": "https://news.yahoo.co.jp/articles/0eb6875b57452c3de22eca3bfd0d967e89e58a9b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "漏えい公表ラッシュは「検知の向上」か「攻撃の増加」か 専門家に聞いた",
+        "url": "https://news.yahoo.co.jp/articles/cb6bc1077b3e9bb163e9770798ea5d58ad5fd6f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か 個人情報保護法抵触のおそれも 日本経済新聞によると、発覚のきっかけは8月下旬にあった外部からの指摘だった。個人情報保護法は個人データの第三者提供に原則として本人の事前同意を求めており、同紙",
+        "url": "https://news.yahoo.co.jp/articles/17b72be101450aae94364aa7185d05bf1a2d767e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "KDDI、加盟店の同意得ず情報掲載か",
         "url": "https://news.yahoo.co.jp/articles/e3e972bd28c540aeb84108ec2f0ba3cfa2876b0d",
         "source": "Yahoo",
@@ -18941,24 +18953,24 @@
       {
         "title": "個人情報流出が相次ぐのはなぜ？2026年はサイバー攻撃による事案が1～9月で454件、流出時の対策も解説",
         "url": "https://news.yahoo.co.jp/articles/0f5a55f58506a50b4fbb11f6ae27bb24a19af4d9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "小泉防衛相、陸自情報収集問題で文書の確認せず 「真正性わからぬ」",
-        "url": "https://news.yahoo.co.jp/articles/931db24cf8604146b038b2aa9704d27bcf99611e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル相｢自分の情報は自分で｣発言に｢これしかない｣と確信",
-        "url": "https://news.yahoo.co.jp/articles/0eb6875b57452c3de22eca3bfd0d967e89e58a9b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "漏えい公表ラッシュは「検知の向上」か「攻撃の増加」か 専門家に聞いた",
+        "url": "https://news.yahoo.co.jp/articles/cb6bc1077b3e9bb163e9770798ea5d58ad5fd6f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か 個人情報保護法抵触のおそれも 日本経済新聞によると、発覚のきっかけは8月下旬にあった外部からの指摘だった。個人情報保護法は個人データの第三者提供に原則として本人の事前同意を求めており、同紙",
+        "url": "https://news.yahoo.co.jp/articles/17b72be101450aae94364aa7185d05bf1a2d767e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "KDDI、加盟店の同意得ず情報掲載か",
         "url": "https://news.yahoo.co.jp/articles/e3e972bd28c540aeb84108ec2f0ba3cfa2876b0d",
         "source": "Yahoo",
@@ -18979,18 +18991,6 @@
       {
         "title": "個人情報流出が相次ぐのはなぜ？2026年はサイバー攻撃による事案が1～9月で454件、流出時の対策も解説",
         "url": "https://news.yahoo.co.jp/articles/0f5a55f58506a50b4fbb11f6ae27bb24a19af4d9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "小泉防衛相、陸自情報収集問題で文書の確認せず 「真正性わからぬ」",
-        "url": "https://news.yahoo.co.jp/articles/931db24cf8604146b038b2aa9704d27bcf99611e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタル相｢自分の情報は自分で｣発言に｢これしかない｣と確信",
-        "url": "https://news.yahoo.co.jp/articles/0eb6875b57452c3de22eca3bfd0d967e89e58a9b",
         "source": "Yahoo",
         "date": ""
       }
