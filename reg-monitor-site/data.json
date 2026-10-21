@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:52:07.509Z",
+  "generatedAt": "2026-10-21T10:33:17.385Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -18079,6 +18079,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "JPYC・SBJ銀行・LINE NEXT、銀行口座とウォレットをつなぐJPYCチャージ機能実証へ",
+        "url": "https://news.yahoo.co.jp/articles/33978b12e61515a91f8095bd8ed26080c0a5180d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "インジェクティブ、韓国BDACSと提携。ウォン建てステーブルコイン「KRW1」をRWA決済に活用へ",
         "url": "https://news.yahoo.co.jp/articles/b03da1aff89a914ccb3917129b19f43d602920ed",
         "source": "Yahoo",
@@ -18105,18 +18111,18 @@
       {
         "title": "ムーンペイと韓国ドゥナム、ステーブルコイン決済・企業資金管理で協業へ",
         "url": "https://news.yahoo.co.jp/articles/d42c9c11c5ddbc6d736007586aa943af1c7d4e7d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米スカイAI、保有SOLを全量売却。最大約2億ドルの自社株・ワラント公開買付け開始",
-        "url": "https://news.yahoo.co.jp/articles/32dad3029da2b2f02a87ca417852785fe011321d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JPYC・SBJ銀行・LINE NEXT、銀行口座とウォレットをつなぐJPYCチャージ機能実証へ",
+        "url": "https://news.yahoo.co.jp/articles/33978b12e61515a91f8095bd8ed26080c0a5180d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "インジェクティブ、韓国BDACSと提携。ウォン建てステーブルコイン「KRW1」をRWA決済に活用へ",
         "url": "https://news.yahoo.co.jp/articles/b03da1aff89a914ccb3917129b19f43d602920ed",
         "source": "Yahoo",
@@ -18143,12 +18149,6 @@
       {
         "title": "ムーンペイと韓国ドゥナム、ステーブルコイン決済・企業資金管理で協業へ",
         "url": "https://news.yahoo.co.jp/articles/d42c9c11c5ddbc6d736007586aa943af1c7d4e7d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米スカイAI、保有SOLを全量売却。最大約2億ドルの自社株・ワラント公開買付け開始",
-        "url": "https://news.yahoo.co.jp/articles/32dad3029da2b2f02a87ca417852785fe011321d",
         "source": "Yahoo",
         "date": ""
       }
