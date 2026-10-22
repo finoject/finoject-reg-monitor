@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:58:12.666Z",
+  "generatedAt": "2026-10-22T22:43:53.474Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -18046,6 +18046,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米ブロックチェーン協会、税制の明確化を議会に要求",
+        "url": "https://news.yahoo.co.jp/articles/983ad60ad42b9b28e887f540496381f75f912364",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Coinbaseアイルランド法人、顧客資金の管理不備で約5.7億円の制裁金",
         "url": "https://news.yahoo.co.jp/articles/c95b2b1e7562a43f338bf9bfdd1437e5c5695dc1",
         "source": "Yahoo",
@@ -18072,18 +18078,18 @@
       {
         "title": "カザフスタンのAIFC裁判所、コインベースなど6プラットフォームに無許可営業の差止命令",
         "url": "https://news.yahoo.co.jp/articles/10a9f03cd94954eefd21d6c28307363245600162",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンカレッジデジタルとセキュリタイズが提携、ステーブルコインの直接発行・償還に対応",
-        "url": "https://news.yahoo.co.jp/articles/9412495f56857b35a38d97b6909aa3606631e322",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米ブロックチェーン協会、税制の明確化を議会に要求",
+        "url": "https://news.yahoo.co.jp/articles/983ad60ad42b9b28e887f540496381f75f912364",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Coinbaseアイルランド法人、顧客資金の管理不備で約5.7億円の制裁金",
         "url": "https://news.yahoo.co.jp/articles/c95b2b1e7562a43f338bf9bfdd1437e5c5695dc1",
         "source": "Yahoo",
@@ -18110,12 +18116,6 @@
       {
         "title": "カザフスタンのAIFC裁判所、コインベースなど6プラットフォームに無許可営業の差止命令",
         "url": "https://news.yahoo.co.jp/articles/10a9f03cd94954eefd21d6c28307363245600162",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンカレッジデジタルとセキュリタイズが提携、ステーブルコインの直接発行・償還に対応",
-        "url": "https://news.yahoo.co.jp/articles/9412495f56857b35a38d97b6909aa3606631e322",
         "source": "Yahoo",
         "date": ""
       }
@@ -18274,6 +18274,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "三菱UFJ・三井住友・みずほに激震？ ビザvsマスターカード「送金戦争」の衝撃",
+        "url": "https://news.yahoo.co.jp/articles/ecc94711515c9cdd12072b816c4dc3af7724139f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ブロックチェーン協会、税制の明確化を議会に要求",
+        "url": "https://news.yahoo.co.jp/articles/983ad60ad42b9b28e887f540496381f75f912364",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クジラは買い始めたのに、米国投資家は動かない──ビットコイン上昇を阻む「Coinbase Premium」の弱さ【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/ab083fced22049c31862324e55a7ac535ce1de28",
         "source": "Yahoo",
@@ -18294,24 +18306,24 @@
       {
         "title": "マイクロソフトなど16社、OKX・ICEのトークン化株式取引計画に異議",
         "url": "https://news.yahoo.co.jp/articles/cc76e62c1ae7196b019cfde33183bc60ac95a97a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークルとアルゼンチン証券会社アラリアが提携、USDCの流動性拡大へ",
-        "url": "https://news.yahoo.co.jp/articles/6ace283bea9f2be642b02cd38bb3db1f4ece0d8e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、ボリビアのフィンテック「ペソ」に出資。南米4カ国でUSDT決済基盤の拡大支援へ",
-        "url": "https://news.yahoo.co.jp/articles/a420c53ac69f5fc44dae4ceb5072a9a374df5e19",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "三菱UFJ・三井住友・みずほに激震？ ビザvsマスターカード「送金戦争」の衝撃",
+        "url": "https://news.yahoo.co.jp/articles/ecc94711515c9cdd12072b816c4dc3af7724139f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ブロックチェーン協会、税制の明確化を議会に要求",
+        "url": "https://news.yahoo.co.jp/articles/983ad60ad42b9b28e887f540496381f75f912364",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クジラは買い始めたのに、米国投資家は動かない──ビットコイン上昇を阻む「Coinbase Premium」の弱さ【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/ab083fced22049c31862324e55a7ac535ce1de28",
         "source": "Yahoo",
@@ -18332,18 +18344,6 @@
       {
         "title": "マイクロソフトなど16社、OKX・ICEのトークン化株式取引計画に異議",
         "url": "https://news.yahoo.co.jp/articles/cc76e62c1ae7196b019cfde33183bc60ac95a97a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークルとアルゼンチン証券会社アラリアが提携、USDCの流動性拡大へ",
-        "url": "https://news.yahoo.co.jp/articles/6ace283bea9f2be642b02cd38bb3db1f4ece0d8e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、ボリビアのフィンテック「ペソ」に出資。南米4カ国でUSDT決済基盤の拡大支援へ",
-        "url": "https://news.yahoo.co.jp/articles/a420c53ac69f5fc44dae4ceb5072a9a374df5e19",
         "source": "Yahoo",
         "date": ""
       }
