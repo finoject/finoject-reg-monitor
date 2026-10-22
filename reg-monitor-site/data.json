@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:32:14.342Z",
+  "generatedAt": "2026-10-22T05:02:58.723Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -17896,6 +17896,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "カザフスタンのAIFC裁判所、コインベースなど6プラットフォームに無許可営業の差止命令",
+        "url": "https://news.yahoo.co.jp/articles/10a9f03cd94954eefd21d6c28307363245600162",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アンカレッジデジタルとセキュリタイズが提携、ステーブルコインの直接発行・償還に対応",
         "url": "https://news.yahoo.co.jp/articles/9412495f56857b35a38d97b6909aa3606631e322",
         "source": "Yahoo",
@@ -17922,18 +17928,18 @@
       {
         "title": "「交通とお金」が政策の議論へ──井林国交相、免税還付でステーブルコイン活用検討【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/102117841f395462442ba36ed7881e89fe57ecae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "利息ルール後退 ステーブルコイン規制 米当局",
-        "url": "https://news.yahoo.co.jp/articles/7dfffdd0c1b28449309a8943ae8323425e9e7083",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "カザフスタンのAIFC裁判所、コインベースなど6プラットフォームに無許可営業の差止命令",
+        "url": "https://news.yahoo.co.jp/articles/10a9f03cd94954eefd21d6c28307363245600162",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アンカレッジデジタルとセキュリタイズが提携、ステーブルコインの直接発行・償還に対応",
         "url": "https://news.yahoo.co.jp/articles/9412495f56857b35a38d97b6909aa3606631e322",
         "source": "Yahoo",
@@ -17960,12 +17966,6 @@
       {
         "title": "「交通とお金」が政策の議論へ──井林国交相、免税還付でステーブルコイン活用検討【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/102117841f395462442ba36ed7881e89fe57ecae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "利息ルール後退 ステーブルコイン規制 米当局",
-        "url": "https://news.yahoo.co.jp/articles/7dfffdd0c1b28449309a8943ae8323425e9e7083",
         "source": "Yahoo",
         "date": ""
       }
@@ -18124,6 +18124,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ビットコイン、ウクライナ和平期待で半値戻しクリア テック決算はまちまち【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/7d6ad91a0233614feba441df7dfe74bffae6ca23",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "井林国交相、訪日客の免税還付にステーブルコイン活用を検討。11月の新制度移行控え",
+        "url": "https://news.yahoo.co.jp/articles/edec000d28395c16fb25d812c76fd91561c5ded9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イーサリアムL2「Sophon」、11/25を資産引き出し期限に。メインネット終了へ",
         "url": "https://news.yahoo.co.jp/articles/0222a019856de06cf2ab5dedcdecfc7df451cb30",
         "source": "Yahoo",
@@ -18144,24 +18156,24 @@
       {
         "title": "アンカレッジデジタルとセキュリタイズが提携、ステーブルコインの直接発行・償還に対応",
         "url": "https://news.yahoo.co.jp/articles/9412495f56857b35a38d97b6909aa3606631e322",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、オンチェーン金融の制度整備を検討。証券トークン化やDeFiなど",
-        "url": "https://news.yahoo.co.jp/articles/27afb05b7c1aad250213201e959f799e1bf5c43b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国債トークン化、「何をどう変えるか」が具体化──振替国債はそのまま、管理をオンチェーンへ",
-        "url": "https://news.yahoo.co.jp/articles/a0d528584874657e097dfd5047de38ae58963885",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ビットコイン、ウクライナ和平期待で半値戻しクリア テック決算はまちまち【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/7d6ad91a0233614feba441df7dfe74bffae6ca23",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "井林国交相、訪日客の免税還付にステーブルコイン活用を検討。11月の新制度移行控え",
+        "url": "https://news.yahoo.co.jp/articles/edec000d28395c16fb25d812c76fd91561c5ded9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イーサリアムL2「Sophon」、11/25を資産引き出し期限に。メインネット終了へ",
         "url": "https://news.yahoo.co.jp/articles/0222a019856de06cf2ab5dedcdecfc7df451cb30",
         "source": "Yahoo",
@@ -18182,18 +18194,6 @@
       {
         "title": "アンカレッジデジタルとセキュリタイズが提携、ステーブルコインの直接発行・償還に対応",
         "url": "https://news.yahoo.co.jp/articles/9412495f56857b35a38d97b6909aa3606631e322",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、オンチェーン金融の制度整備を検討。証券トークン化やDeFiなど",
-        "url": "https://news.yahoo.co.jp/articles/27afb05b7c1aad250213201e959f799e1bf5c43b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国債トークン化、「何をどう変えるか」が具体化──振替国債はそのまま、管理をオンチェーンへ",
-        "url": "https://news.yahoo.co.jp/articles/a0d528584874657e097dfd5047de38ae58963885",
         "source": "Yahoo",
         "date": ""
       }
@@ -18928,6 +18928,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "神奈川県警で失効済みの免許証30枚入りリュック一時紛失→調査で発覚 交通課が回収した旧免許証を警備課に引き渡し個人情報を“目的外利用”「決してあってはならないこと」警察庁長官が陳謝",
+        "url": "https://news.yahoo.co.jp/articles/c0670cbac4c88858be0852039a62fe530fd7bbc8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "神奈川県警、期限切れ免許証不正持ちだし 過激派・右翼の顔写真収集か 30年前から",
         "url": "https://news.yahoo.co.jp/articles/9fe3d562097fd59e4ac025cd3d4d1e72749659bb",
         "source": "Yahoo",
@@ -18954,18 +18960,18 @@
       {
         "title": "古い免許証、警備資料に流用 法抵触の恐れ、全国調査 神奈川で常態化か・警察庁",
         "url": "https://news.yahoo.co.jp/articles/6cbb0d78ae91968903217b808662e79925ae3d3c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "免許証の顔写真「監視の対象者」資料に流用 30年前から神奈川県警",
-        "url": "https://news.yahoo.co.jp/articles/c224fe1bfbddc135dc5cadfb6f8c4de9b09bc59d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "神奈川県警で失効済みの免許証30枚入りリュック一時紛失→調査で発覚 交通課が回収した旧免許証を警備課に引き渡し個人情報を“目的外利用”「決してあってはならないこと」警察庁長官が陳謝",
+        "url": "https://news.yahoo.co.jp/articles/c0670cbac4c88858be0852039a62fe530fd7bbc8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "神奈川県警、期限切れ免許証不正持ちだし 過激派・右翼の顔写真収集か 30年前から",
         "url": "https://news.yahoo.co.jp/articles/9fe3d562097fd59e4ac025cd3d4d1e72749659bb",
         "source": "Yahoo",
@@ -18992,18 +18998,18 @@
       {
         "title": "古い免許証、警備資料に流用 法抵触の恐れ、全国調査 神奈川で常態化か・警察庁",
         "url": "https://news.yahoo.co.jp/articles/6cbb0d78ae91968903217b808662e79925ae3d3c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "免許証の顔写真「監視の対象者」資料に流用 30年前から神奈川県警",
-        "url": "https://news.yahoo.co.jp/articles/c224fe1bfbddc135dc5cadfb6f8c4de9b09bc59d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "神奈川県警で失効済みの免許証30枚入りリュック一時紛失→調査で発覚 交通課が回収した旧免許証を警備課に引き渡し個人情報を“目的外利用”「決してあってはならないこと」警察庁長官が陳謝",
+        "url": "https://news.yahoo.co.jp/articles/c0670cbac4c88858be0852039a62fe530fd7bbc8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "神奈川県警、期限切れ免許証不正持ちだし 過激派・右翼の顔写真収集か 30年前から",
         "url": "https://news.yahoo.co.jp/articles/9fe3d562097fd59e4ac025cd3d4d1e72749659bb",
         "source": "Yahoo",
@@ -19030,12 +19036,6 @@
       {
         "title": "古い免許証、警備資料に流用 法抵触の恐れ、全国調査 神奈川で常態化か・警察庁",
         "url": "https://news.yahoo.co.jp/articles/6cbb0d78ae91968903217b808662e79925ae3d3c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "免許証の顔写真「監視の対象者」資料に流用 30年前から神奈川県警",
-        "url": "https://news.yahoo.co.jp/articles/c224fe1bfbddc135dc5cadfb6f8c4de9b09bc59d",
         "source": "Yahoo",
         "date": ""
       }
