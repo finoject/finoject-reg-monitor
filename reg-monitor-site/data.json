@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T22:45:29.435Z",
+  "generatedAt": "2026-10-22T00:30:23.493Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,52 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "FSBレポ統計の日本分集計結果",
+      "url": "https://www.boj.or.jp/statistics/bis/repo/index.htm",
+      "date": "2026-10-22",
+      "detectedAt": "2026-10-22T00:30:23.493Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行がFSBレポ統計の日本分集計結果（2026年5月分）を2026年6月19日に公表し、日本円現先取引等のフロー・ストックデータ及びレポレートを提供開始した。",
+        "市場参加者はFSBレポ統計の公表データ（XLSX・PDF形式）から日本円・外貨取引、取引相手別の現先・証券貸借取引額及び取引レートを参照可能である。",
+        "本統計は2020年1月から定期公表されており、2026年1月26日及び2025年8月22日の過去訂正が記録されているため、最新データと訂正履歴の確認が必要である。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-22T00:30:28.188Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "主要銀行貸出動向アンケート調査（10月）",
+      "url": "https://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
+      "date": "2026-10-22",
+      "detectedAt": "2026-10-22T00:30:23.493Z",
+      "enriched": "2026-10-22T00:30:28.188Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年9月～10月の調査期間中、主要50行庫の企業向け資金需要DIは前回-1から3に上昇し、地公体等向けは-4から3へ、個人向けは5から3へと変化した。",
+        "企業向けでは大企業（DI5）・中堅企業（DI1）・中小企業（DI1）いずれも横這いが9割前後で大多数を占め、各銀行は資金需要の顕著な変化を認識していない。",
+        "本調査は日本銀行が定期的に公表する主要銀行貸出動向アンケートであり、資金需要判断DIは「増加」「やや増加」「横這い」「やや減少」「減少」の5段階回答から算出される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "【緊急メンテナンス】会員マイページについて",
+      "url": "https://jicpa.or.jp/news/information/2026/20261022ifb.html",
+      "date": "2026-10-22",
+      "detectedAt": "2026-10-22T00:30:23.493Z",
+      "enriched": "2026-10-22T00:30:28.188Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "PHP言語の深刻な脆弱性が発見され、会員マイページのセキュリティリスクに対応するため、ログイン機能を一時停止して緊急メンテナンスを実施中。",
+        "日本公認会計士協会の会員・準会員は、メンテナンス完了まで会員マイページにアクセスできないため、同マイページを利用した各種手続や情報確認を延期する必要がある。",
+        "2026年10月22日付けの本通知により緊急メンテナンスが開始され、完了時期は別途案内される予定。"
       ],
       "aiSumV": 3
     },
@@ -3790,22 +3836,6 @@
         "初値決定まで制限値幅は適用されず、初値決定後に当該初値を基準値段として呼値の制限値幅が適用される。初値は気配更新の上限値段から通常値幅分高い値段まで、下限値段から通常値幅分安い値段まで成立可能。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "FSBレポ統計の日本分集計結果",
-      "url": "https://www.boj.or.jp/statistics/bis/repo/index.htm",
-      "date": "2026-09-24",
-      "detectedAt": "2026-09-24T00:51:51.711Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行がFSBレポ統計の日本分集計結果（2026年5月分）を2026年6月19日に公表し、日本円現先取引等のフロー・ストックデータ及びレポレートを提供開始した。",
-        "市場参加者はFSBレポ統計の公表データ（XLSX・PDF形式）から日本円・外貨取引、取引相手別の現先・証券貸借取引額及び取引レートを参照可能である。",
-        "本統計は2020年1月から定期公表されており、2026年1月26日及び2025年8月22日の過去訂正が記録されているため、最新データと訂正履歴の確認が必要である。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-24T00:51:57.835Z"
     },
     {
       "agency": "JVCEA",
@@ -17623,6 +17653,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "銀行で勧められたファンドラップ。払うのは運用を任せる報酬と中の投資信託の分",
+        "url": "https://news.yahoo.co.jp/articles/fe55972c2972a48144523c1829ba22aa0872aa1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "投資の申込みで年収や投資経験を聞かれるのはなぜ。答えが勧誘の物差しになる",
         "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
         "source": "Yahoo",
@@ -17649,18 +17685,18 @@
       {
         "title": "IPOの抽選には業界の決まりがある。申し込む前に配分の方針と目論見書を読む 申し込む前に目を通したい目論見書 見落としやすいのが目論見書です。金融商品取引法は、届出が必要な有価証券などを募集や売出しで取得させるとき、目論見書",
         "url": "https://news.yahoo.co.jp/articles/b1c8fbe1f2c10f1a9ca1874bb056936f3d05c3d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
-        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "銀行で勧められたファンドラップ。払うのは運用を任せる報酬と中の投資信託の分",
+        "url": "https://news.yahoo.co.jp/articles/fe55972c2972a48144523c1829ba22aa0872aa1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "投資の申込みで年収や投資経験を聞かれるのはなぜ。答えが勧誘の物差しになる",
         "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
         "source": "Yahoo",
@@ -17687,18 +17723,18 @@
       {
         "title": "IPOの抽選には業界の決まりがある。申し込む前に配分の方針と目論見書を読む 申し込む前に目を通したい目論見書 見落としやすいのが目論見書です。金融商品取引法は、届出が必要な有価証券などを募集や売出しで取得させるとき、目論見書",
         "url": "https://news.yahoo.co.jp/articles/b1c8fbe1f2c10f1a9ca1874bb056936f3d05c3d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
-        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "銀行で勧められたファンドラップ。払うのは運用を任せる報酬と中の投資信託の分",
+        "url": "https://news.yahoo.co.jp/articles/fe55972c2972a48144523c1829ba22aa0872aa1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "投資の申込みで年収や投資経験を聞かれるのはなぜ。答えが勧誘の物差しになる",
         "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
         "source": "Yahoo",
@@ -17725,18 +17761,18 @@
       {
         "title": "IPOの抽選には業界の決まりがある。申し込む前に配分の方針と目論見書を読む 申し込む前に目を通したい目論見書 見落としやすいのが目論見書です。金融商品取引法は、届出が必要な有価証券などを募集や売出しで取得させるとき、目論見書",
         "url": "https://news.yahoo.co.jp/articles/b1c8fbe1f2c10f1a9ca1874bb056936f3d05c3d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
-        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "銀行で勧められたファンドラップ。払うのは運用を任せる報酬と中の投資信託の分",
+        "url": "https://news.yahoo.co.jp/articles/fe55972c2972a48144523c1829ba22aa0872aa1d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "投資の申込みで年収や投資経験を聞かれるのはなぜ。答えが勧誘の物差しになる",
         "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
         "source": "Yahoo",
@@ -17765,15 +17801,15 @@
         "url": "https://news.yahoo.co.jp/articles/b1c8fbe1f2c10f1a9ca1874bb056936f3d05c3d2",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "スイス金融当局、個人投資家向けビットコイン現物ETFを承認",
-        "url": "https://news.yahoo.co.jp/articles/03796f0399a30c13774643ebd058b1d72a4b6371",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
+        "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「1年前はモックアップだけ」JR東の新コード決済「teppay」、急ピッチ開発の舞台裏と実力",
         "url": "https://news.yahoo.co.jp/articles/a3e1a0d7b7b061998cb43220a3c828ea223f900d",
@@ -17801,18 +17837,18 @@
       {
         "title": "SBIとスターテイル、Open Standard参画。JPYSCとOUSDの相互運用へ実証検討",
         "url": "https://news.yahoo.co.jp/articles/eca9d130689762d85cbe7c1eb56321beebdc0749",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "電子マネーのオートチャージ、入れすぎた分は原則として現金に戻せない",
-        "url": "https://news.yahoo.co.jp/articles/d52601120680b755c4ee500b91d1f140aa4c7ea8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
+        "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「1年前はモックアップだけ」JR東の新コード決済「teppay」、急ピッチ開発の舞台裏と実力",
         "url": "https://news.yahoo.co.jp/articles/a3e1a0d7b7b061998cb43220a3c828ea223f900d",
         "source": "Yahoo",
@@ -17841,15 +17877,15 @@
         "url": "https://news.yahoo.co.jp/articles/eca9d130689762d85cbe7c1eb56321beebdc0749",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "電子マネーのオートチャージ、入れすぎた分は原則として現金に戻せない",
-        "url": "https://news.yahoo.co.jp/articles/d52601120680b755c4ee500b91d1f140aa4c7ea8",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
+        "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "米OCC、ジーニアス法施行に向けた最終規則を公表",
         "url": "https://news.yahoo.co.jp/articles/91508c9984f98675979a1c650cd4296c66a90421",
@@ -17877,18 +17913,18 @@
       {
         "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガンAM、ビットコインの10年リターンを年率10％と想定。米大型株や金上回る",
-        "url": "https://news.yahoo.co.jp/articles/2961b36356ac0a55333eb2e3d94a15e7766a7009",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
+        "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米OCC、ジーニアス法施行に向けた最終規則を公表",
         "url": "https://news.yahoo.co.jp/articles/91508c9984f98675979a1c650cd4296c66a90421",
         "source": "Yahoo",
@@ -17915,12 +17951,6 @@
       {
         "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガンAM、ビットコインの10年リターンを年率10％と想定。米大型株や金上回る",
-        "url": "https://news.yahoo.co.jp/articles/2961b36356ac0a55333eb2e3d94a15e7766a7009",
         "source": "Yahoo",
         "date": ""
       }
@@ -17945,12 +17975,6 @@
         "date": ""
       },
       {
-        "title": "電子マネーのオートチャージ、入れすぎた分は原則として現金に戻せない",
-        "url": "https://news.yahoo.co.jp/articles/d52601120680b755c4ee500b91d1f140aa4c7ea8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表",
         "url": "https://news.yahoo.co.jp/articles/226aba3d35861e9eb170de4cbcf468e1338e1847",
         "source": "Yahoo",
@@ -17959,6 +17983,12 @@
       {
         "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "シンガポール暗号資産市場、1年で1.5倍──日本と異なる成長構造＝Chainalysis",
+        "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
         "source": "Yahoo",
         "date": ""
       }
@@ -17983,12 +18013,6 @@
         "date": ""
       },
       {
-        "title": "電子マネーのオートチャージ、入れすぎた分は原則として現金に戻せない",
-        "url": "https://news.yahoo.co.jp/articles/d52601120680b755c4ee500b91d1f140aa4c7ea8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表",
         "url": "https://news.yahoo.co.jp/articles/226aba3d35861e9eb170de4cbcf468e1338e1847",
         "source": "Yahoo",
@@ -17997,6 +18021,12 @@
       {
         "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "シンガポール暗号資産市場、1年で1.5倍──日本と異なる成長構造＝Chainalysis",
+        "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
         "source": "Yahoo",
         "date": ""
       }
@@ -18015,12 +18045,6 @@
         "date": ""
       },
       {
-        "title": "電子マネーのオートチャージ、入れすぎた分は原則として現金に戻せない",
-        "url": "https://news.yahoo.co.jp/articles/d52601120680b755c4ee500b91d1f140aa4c7ea8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "【情報漏えい】ブックオフ等で相次ぐ公表。貯めたポイントは補償される？確認すべき3つの注意点",
         "url": "https://news.yahoo.co.jp/articles/441a78eb095ffa6a7e84f9d518d039c6bc0edf97",
         "source": "Yahoo",
@@ -18035,6 +18059,12 @@
       {
         "title": "KDDIなど3社、au PAYアプリで暗号資産ウォレット「αU wallet」の提供開始へ PAY加盟店で使える。 チャージ後の残高は、資金決済法上の第三者型前払式支払手段である「au PAY マネーライト」になる。公式サイトは、暗号資産の",
         "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "実家を片付けていたら、昔もらった未使用の「商品券」が何枚も出てきました。何十年も前のものでも、額面どおり使えるのでしょうか？",
+        "url": "https://news.yahoo.co.jp/articles/ca24de298060f0a5df3340a94c93ed334d1ee3a8",
         "source": "Yahoo",
         "date": ""
       }
@@ -18053,12 +18083,6 @@
         "date": ""
       },
       {
-        "title": "電子マネーのオートチャージ、入れすぎた分は原則として現金に戻せない",
-        "url": "https://news.yahoo.co.jp/articles/d52601120680b755c4ee500b91d1f140aa4c7ea8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "【情報漏えい】ブックオフ等で相次ぐ公表。貯めたポイントは補償される？確認すべき3つの注意点",
         "url": "https://news.yahoo.co.jp/articles/441a78eb095ffa6a7e84f9d518d039c6bc0edf97",
         "source": "Yahoo",
@@ -18075,9 +18099,27 @@
         "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
         "source": "Yahoo",
         "date": ""
+      },
+      {
+        "title": "実家を片付けていたら、昔もらった未使用の「商品券」が何枚も出てきました。何十年も前のものでも、額面どおり使えるのでしょうか？",
+        "url": "https://news.yahoo.co.jp/articles/ca24de298060f0a5df3340a94c93ed334d1ee3a8",
+        "source": "Yahoo",
+        "date": ""
       }
     ],
     "505M60000002048": [
+      {
+        "title": "国債トークン化、「何をどう変えるか」が具体化──振替国債はそのまま、管理をオンチェーンへ",
+        "url": "https://news.yahoo.co.jp/articles/a0d528584874657e097dfd5047de38ae58963885",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
+        "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "Mastercard、AIエージェント決済サービスへの早期アクセスを提供開始",
         "url": "https://news.yahoo.co.jp/articles/3a4abb66adf32cf3a0db5e2235ae7405369eec83",
@@ -18099,24 +18141,24 @@
       {
         "title": "利息ルール後退 ステーブルコイン規制 米当局",
         "url": "https://news.yahoo.co.jp/articles/7dfffdd0c1b28449309a8943ae8323425e9e7083",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "政府が子育てや生活支援など公的給付にデジタル通貨活用検討 デジタル庁は子育てや食料品購入など使途を限定した公金給付においてステーブルコインやトークン化預金を活用する技術的検討に入った。申請から給付までが迅速",
-        "url": "https://news.yahoo.co.jp/articles/ebeab2b16b977e416e710823f37dbfbd35fa1afc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC・SBJ銀行・LINE NEXT、銀行口座とウォレットをつなぐJPYCチャージ機能実証へ",
-        "url": "https://news.yahoo.co.jp/articles/33978b12e61515a91f8095bd8ed26080c0a5180d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "国債トークン化、「何をどう変えるか」が具体化──振替国債はそのまま、管理をオンチェーンへ",
+        "url": "https://news.yahoo.co.jp/articles/a0d528584874657e097dfd5047de38ae58963885",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
+        "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Mastercard、AIエージェント決済サービスへの早期アクセスを提供開始",
         "url": "https://news.yahoo.co.jp/articles/3a4abb66adf32cf3a0db5e2235ae7405369eec83",
         "source": "Yahoo",
@@ -18137,18 +18179,6 @@
       {
         "title": "利息ルール後退 ステーブルコイン規制 米当局",
         "url": "https://news.yahoo.co.jp/articles/7dfffdd0c1b28449309a8943ae8323425e9e7083",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "政府が子育てや生活支援など公的給付にデジタル通貨活用検討 デジタル庁は子育てや食料品購入など使途を限定した公金給付においてステーブルコインやトークン化預金を活用する技術的検討に入った。申請から給付までが迅速",
-        "url": "https://news.yahoo.co.jp/articles/ebeab2b16b977e416e710823f37dbfbd35fa1afc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPYC・SBJ銀行・LINE NEXT、銀行口座とウォレットをつなぐJPYCチャージ機能実証へ",
-        "url": "https://news.yahoo.co.jp/articles/33978b12e61515a91f8095bd8ed26080c0a5180d",
         "source": "Yahoo",
         "date": ""
       }
