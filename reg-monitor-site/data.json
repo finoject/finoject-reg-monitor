@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T00:30:23.493Z",
+  "generatedAt": "2026-10-22T01:48:46.101Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（10月20日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261020.htm",
+      "date": "2026-10-22",
+      "detectedAt": "2026-10-22T01:48:46.101Z",
+      "enriched": "2026-10-22T01:48:52.049Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の2026年10月20日現在の総資産は約625兆円で、国債504兆円・貸付金68兆円・金銭の信託37兆円等で構成。負債は発行銀行券114兆円・当座預金418兆円等。",
+        "金銭の信託として指数連動型上場投資信託37兆円・不動産投資信託650億円、貸付金のうち貸出支援基金35兆円・気候変動対応等32兆円を保有。",
+        "国債は長期国債504兆円で構成、国庫短期証券はゼロ。発行銀行券113兆円・当座預金418兆円が負債の主要部分。"
       ],
       "aiSumV": 3
     },
@@ -17881,6 +17896,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ビットゲット、GMO傘下のタイ認可取引所を買収へ",
+        "url": "https://news.yahoo.co.jp/articles/e0f10281dfa400e43782ed10433b7339b574c8d9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
         "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
         "source": "Yahoo",
@@ -17907,18 +17928,18 @@
       {
         "title": "インジェクティブ、韓国BDACSと提携。ウォン建てステーブルコイン「KRW1」をRWA決済に活用へ",
         "url": "https://news.yahoo.co.jp/articles/b03da1aff89a914ccb3917129b19f43d602920ed",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
-        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ビットゲット、GMO傘下のタイ認可取引所を買収へ",
+        "url": "https://news.yahoo.co.jp/articles/e0f10281dfa400e43782ed10433b7339b574c8d9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
         "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
         "source": "Yahoo",
@@ -17945,12 +17966,6 @@
       {
         "title": "インジェクティブ、韓国BDACSと提携。ウォン建てステーブルコイン「KRW1」をRWA決済に活用へ",
         "url": "https://news.yahoo.co.jp/articles/b03da1aff89a914ccb3917129b19f43d602920ed",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
-        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
         "source": "Yahoo",
         "date": ""
       }
@@ -18109,6 +18124,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "金融庁、オンチェーン金融の制度整備を検討。証券トークン化やDeFiなど",
+        "url": "https://news.yahoo.co.jp/articles/27afb05b7c1aad250213201e959f799e1bf5c43b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国債トークン化、「何をどう変えるか」が具体化──振替国債はそのまま、管理をオンチェーンへ",
         "url": "https://news.yahoo.co.jp/articles/a0d528584874657e097dfd5047de38ae58963885",
         "source": "Yahoo",
@@ -18135,18 +18156,18 @@
       {
         "title": "「交通とお金」が政策の議論へ──井林国交相、免税還付でステーブルコイン活用検討【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/102117841f395462442ba36ed7881e89fe57ecae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "利息ルール後退 ステーブルコイン規制 米当局",
-        "url": "https://news.yahoo.co.jp/articles/7dfffdd0c1b28449309a8943ae8323425e9e7083",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "金融庁、オンチェーン金融の制度整備を検討。証券トークン化やDeFiなど",
+        "url": "https://news.yahoo.co.jp/articles/27afb05b7c1aad250213201e959f799e1bf5c43b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国債トークン化、「何をどう変えるか」が具体化──振替国債はそのまま、管理をオンチェーンへ",
         "url": "https://news.yahoo.co.jp/articles/a0d528584874657e097dfd5047de38ae58963885",
         "source": "Yahoo",
@@ -18173,12 +18194,6 @@
       {
         "title": "「交通とお金」が政策の議論へ──井林国交相、免税還付でステーブルコイン活用検討【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/102117841f395462442ba36ed7881e89fe57ecae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "利息ルール後退 ステーブルコイン規制 米当局",
-        "url": "https://news.yahoo.co.jp/articles/7dfffdd0c1b28449309a8943ae8323425e9e7083",
         "source": "Yahoo",
         "date": ""
       }
@@ -18913,114 +18928,114 @@
     ],
     "415AC0000000057": [
       {
-        "title": "漏えい公表ラッシュは「検知の向上」か「攻撃の増加」か 専門家に聞いた",
-        "url": "https://news.yahoo.co.jp/articles/cb6bc1077b3e9bb163e9770798ea5d58ad5fd6f2",
+        "title": "全国に失効済み免許証の返却通達 神奈川県警での免許証紛失問題受けて 警察庁",
+        "url": "https://news.yahoo.co.jp/articles/bb444cae7bd0d5270eed1d864473d8fb0e971f67",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か 個人情報保護法抵触のおそれも 日本経済新聞によると、発覚のきっかけは8月下旬にあった外部からの指摘だった。個人情報保護法は個人データの第三者提供に原則として本人の事前同意を求めており、同紙",
-        "url": "https://news.yahoo.co.jp/articles/17b72be101450aae94364aa7185d05bf1a2d767e",
+        "title": "神奈川県警、免許を不正持ち出し 30年前からか、顔写真収集",
+        "url": "https://news.yahoo.co.jp/articles/b4e6891a5c108c4048430d693f6286a69749b7ca",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "KDDI、加盟店の同意得ず情報掲載か",
-        "url": "https://news.yahoo.co.jp/articles/e3e972bd28c540aeb84108ec2f0ba3cfa2876b0d",
+        "title": "古い免許証、警備資料に流用 法抵触の恐れ、全国調査 神奈川で常態化か・警察庁",
+        "url": "https://news.yahoo.co.jp/articles/6cbb0d78ae91968903217b808662e79925ae3d3c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「ａｕペイ」加盟店の紹介地図サイト",
-        "url": "https://news.yahoo.co.jp/articles/a96aeb8b30948946475c74895c8aff3e6cca7d93",
+        "title": "免許証の顔写真「対象者」資料に流用 30年前から神奈川県警各署で",
+        "url": "https://news.yahoo.co.jp/articles/c224fe1bfbddc135dc5cadfb6f8c4de9b09bc59d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "【郵便局員が探偵に情報漏えい】7人分の\"居住者情報\"を漏らした郵便局員の女と探偵の男を「日本郵便株式会社法違反」の罪などで起訴〈北海道帯広市〉",
-        "url": "https://news.yahoo.co.jp/articles/79400a60bdbc909800b8283ae9ad1ea1db4e6858",
+        "title": "神奈川県警 更新後の旧免許証の不正な取り扱い 約30年前から顔写真収集目的か 警察庁が全国の警察を調査",
+        "url": "https://news.yahoo.co.jp/articles/a0fb9f31e40d608a3f09d50ffc7368fd2d6f5a44",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "個人情報流出が相次ぐのはなぜ？2026年はサイバー攻撃による事案が1～9月で454件、流出時の対策も解説",
-        "url": "https://news.yahoo.co.jp/articles/0f5a55f58506a50b4fbb11f6ae27bb24a19af4d9",
+        "title": "失効免許証を警備捜査に流用 神奈川県警で30年前から常態化か",
+        "url": "https://news.yahoo.co.jp/articles/279aa545fb863a0187fa3043279c9025d9328fbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
-        "title": "漏えい公表ラッシュは「検知の向上」か「攻撃の増加」か 専門家に聞いた",
-        "url": "https://news.yahoo.co.jp/articles/cb6bc1077b3e9bb163e9770798ea5d58ad5fd6f2",
+        "title": "全国に失効済み免許証の返却通達 神奈川県警での免許証紛失問題受けて 警察庁",
+        "url": "https://news.yahoo.co.jp/articles/bb444cae7bd0d5270eed1d864473d8fb0e971f67",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か 個人情報保護法抵触のおそれも 日本経済新聞によると、発覚のきっかけは8月下旬にあった外部からの指摘だった。個人情報保護法は個人データの第三者提供に原則として本人の事前同意を求めており、同紙",
-        "url": "https://news.yahoo.co.jp/articles/17b72be101450aae94364aa7185d05bf1a2d767e",
+        "title": "神奈川県警、免許を不正持ち出し 30年前からか、顔写真収集",
+        "url": "https://news.yahoo.co.jp/articles/b4e6891a5c108c4048430d693f6286a69749b7ca",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "KDDI、加盟店の同意得ず情報掲載か",
-        "url": "https://news.yahoo.co.jp/articles/e3e972bd28c540aeb84108ec2f0ba3cfa2876b0d",
+        "title": "古い免許証、警備資料に流用 法抵触の恐れ、全国調査 神奈川で常態化か・警察庁",
+        "url": "https://news.yahoo.co.jp/articles/6cbb0d78ae91968903217b808662e79925ae3d3c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「ａｕペイ」加盟店の紹介地図サイト",
-        "url": "https://news.yahoo.co.jp/articles/a96aeb8b30948946475c74895c8aff3e6cca7d93",
+        "title": "免許証の顔写真「対象者」資料に流用 30年前から神奈川県警各署で",
+        "url": "https://news.yahoo.co.jp/articles/c224fe1bfbddc135dc5cadfb6f8c4de9b09bc59d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "【郵便局員が探偵に情報漏えい】7人分の\"居住者情報\"を漏らした郵便局員の女と探偵の男を「日本郵便株式会社法違反」の罪などで起訴〈北海道帯広市〉",
-        "url": "https://news.yahoo.co.jp/articles/79400a60bdbc909800b8283ae9ad1ea1db4e6858",
+        "title": "神奈川県警 更新後の旧免許証の不正な取り扱い 約30年前から顔写真収集目的か 警察庁が全国の警察を調査",
+        "url": "https://news.yahoo.co.jp/articles/a0fb9f31e40d608a3f09d50ffc7368fd2d6f5a44",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "個人情報流出が相次ぐのはなぜ？2026年はサイバー攻撃による事案が1～9月で454件、流出時の対策も解説",
-        "url": "https://news.yahoo.co.jp/articles/0f5a55f58506a50b4fbb11f6ae27bb24a19af4d9",
+        "title": "失効免許証を警備捜査に流用 神奈川県警で30年前から常態化か",
+        "url": "https://news.yahoo.co.jp/articles/279aa545fb863a0187fa3043279c9025d9328fbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
-        "title": "漏えい公表ラッシュは「検知の向上」か「攻撃の増加」か 専門家に聞いた",
-        "url": "https://news.yahoo.co.jp/articles/cb6bc1077b3e9bb163e9770798ea5d58ad5fd6f2",
+        "title": "全国に失効済み免許証の返却通達 神奈川県警での免許証紛失問題受けて 警察庁",
+        "url": "https://news.yahoo.co.jp/articles/bb444cae7bd0d5270eed1d864473d8fb0e971f67",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か 個人情報保護法抵触のおそれも 日本経済新聞によると、発覚のきっかけは8月下旬にあった外部からの指摘だった。個人情報保護法は個人データの第三者提供に原則として本人の事前同意を求めており、同紙",
-        "url": "https://news.yahoo.co.jp/articles/17b72be101450aae94364aa7185d05bf1a2d767e",
+        "title": "神奈川県警、免許を不正持ち出し 30年前からか、顔写真収集",
+        "url": "https://news.yahoo.co.jp/articles/b4e6891a5c108c4048430d693f6286a69749b7ca",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "KDDI、加盟店の同意得ず情報掲載か",
-        "url": "https://news.yahoo.co.jp/articles/e3e972bd28c540aeb84108ec2f0ba3cfa2876b0d",
+        "title": "古い免許証、警備資料に流用 法抵触の恐れ、全国調査 神奈川で常態化か・警察庁",
+        "url": "https://news.yahoo.co.jp/articles/6cbb0d78ae91968903217b808662e79925ae3d3c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "「ａｕペイ」加盟店の紹介地図サイト",
-        "url": "https://news.yahoo.co.jp/articles/a96aeb8b30948946475c74895c8aff3e6cca7d93",
+        "title": "免許証の顔写真「対象者」資料に流用 30年前から神奈川県警各署で",
+        "url": "https://news.yahoo.co.jp/articles/c224fe1bfbddc135dc5cadfb6f8c4de9b09bc59d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "【郵便局員が探偵に情報漏えい】7人分の\"居住者情報\"を漏らした郵便局員の女と探偵の男を「日本郵便株式会社法違反」の罪などで起訴〈北海道帯広市〉",
-        "url": "https://news.yahoo.co.jp/articles/79400a60bdbc909800b8283ae9ad1ea1db4e6858",
+        "title": "神奈川県警 更新後の旧免許証の不正な取り扱い 約30年前から顔写真収集目的か 警察庁が全国の警察を調査",
+        "url": "https://news.yahoo.co.jp/articles/a0fb9f31e40d608a3f09d50ffc7368fd2d6f5a44",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "個人情報流出が相次ぐのはなぜ？2026年はサイバー攻撃による事案が1～9月で454件、流出時の対策も解説",
-        "url": "https://news.yahoo.co.jp/articles/0f5a55f58506a50b4fbb11f6ae27bb24a19af4d9",
+        "title": "失効免許証を警備捜査に流用 神奈川県警で30年前から常態化か",
+        "url": "https://news.yahoo.co.jp/articles/279aa545fb863a0187fa3043279c9025d9328fbf",
         "source": "Yahoo",
         "date": ""
       }
