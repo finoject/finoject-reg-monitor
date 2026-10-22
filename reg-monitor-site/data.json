@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T01:48:46.101Z",
+  "generatedAt": "2026-10-22T03:32:14.342Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -17820,6 +17820,18 @@
     ],
     "421AC0000000059": [
       {
+        "title": "1:28登録を受けずに暗号資産取引 宮崎県警３人を再逮捕",
+        "url": "https://news.yahoo.co.jp/articles/b4c8f99159465f81ee31c69fe26330b4f3c00eb1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:5840億円以上をマネーロンダリングか 国に無登録で暗号資産取引の疑い 会社経営の男ら3人を再逮捕 宮崎県警",
+        "url": "https://news.yahoo.co.jp/articles/925d50cab794655ecbecb5bed86f9e3da6f058cb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
         "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
         "source": "Yahoo",
@@ -17840,24 +17852,24 @@
       {
         "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
         "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "3メガ銀、ステーブルコイン共同発行の実現性を確認と発表",
-        "url": "https://news.yahoo.co.jp/articles/7208760008795bda3d91dae8a4985ccd54bbb41b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIとスターテイル、Open Standard参画。JPYSCとOUSDの相互運用へ実証検討",
-        "url": "https://news.yahoo.co.jp/articles/eca9d130689762d85cbe7c1eb56321beebdc0749",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "1:28登録を受けずに暗号資産取引 宮崎県警３人を再逮捕",
+        "url": "https://news.yahoo.co.jp/articles/b4c8f99159465f81ee31c69fe26330b4f3c00eb1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:5840億円以上をマネーロンダリングか 国に無登録で暗号資産取引の疑い 会社経営の男ら3人を再逮捕 宮崎県警",
+        "url": "https://news.yahoo.co.jp/articles/925d50cab794655ecbecb5bed86f9e3da6f058cb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
         "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
         "source": "Yahoo",
@@ -17880,21 +17892,15 @@
         "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "3メガ銀、ステーブルコイン共同発行の実現性を確認と発表",
-        "url": "https://news.yahoo.co.jp/articles/7208760008795bda3d91dae8a4985ccd54bbb41b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBIとスターテイル、Open Standard参画。JPYSCとOUSDの相互運用へ実証検討",
-        "url": "https://news.yahoo.co.jp/articles/eca9d130689762d85cbe7c1eb56321beebdc0749",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "アンカレッジデジタルとセキュリタイズが提携、ステーブルコインの直接発行・償還に対応",
+        "url": "https://news.yahoo.co.jp/articles/9412495f56857b35a38d97b6909aa3606631e322",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ビットゲット、GMO傘下のタイ認可取引所を買収へ",
         "url": "https://news.yahoo.co.jp/articles/e0f10281dfa400e43782ed10433b7339b574c8d9",
@@ -17922,18 +17928,18 @@
       {
         "title": "利息ルール後退 ステーブルコイン規制 米当局",
         "url": "https://news.yahoo.co.jp/articles/7dfffdd0c1b28449309a8943ae8323425e9e7083",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インジェクティブ、韓国BDACSと提携。ウォン建てステーブルコイン「KRW1」をRWA決済に活用へ",
-        "url": "https://news.yahoo.co.jp/articles/b03da1aff89a914ccb3917129b19f43d602920ed",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "アンカレッジデジタルとセキュリタイズが提携、ステーブルコインの直接発行・償還に対応",
+        "url": "https://news.yahoo.co.jp/articles/9412495f56857b35a38d97b6909aa3606631e322",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットゲット、GMO傘下のタイ認可取引所を買収へ",
         "url": "https://news.yahoo.co.jp/articles/e0f10281dfa400e43782ed10433b7339b574c8d9",
         "source": "Yahoo",
@@ -17960,12 +17966,6 @@
       {
         "title": "利息ルール後退 ステーブルコイン規制 米当局",
         "url": "https://news.yahoo.co.jp/articles/7dfffdd0c1b28449309a8943ae8323425e9e7083",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "インジェクティブ、韓国BDACSと提携。ウォン建てステーブルコイン「KRW1」をRWA決済に活用へ",
-        "url": "https://news.yahoo.co.jp/articles/b03da1aff89a914ccb3917129b19f43d602920ed",
         "source": "Yahoo",
         "date": ""
       }
@@ -18124,6 +18124,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "イーサリアムL2「Sophon」、11/25を資産引き出し期限に。メインネット終了へ",
+        "url": "https://news.yahoo.co.jp/articles/0222a019856de06cf2ab5dedcdecfc7df451cb30",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン評価額増のSpaceX、出資元アステリア株が一時11%上昇",
+        "url": "https://news.yahoo.co.jp/articles/1f24df52ccb3b3c9f8f8dbc5e9766e89eab01495",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "デジタル庁、公金給付にステーブルコインやトークン化預金の活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/2a59c73883a106f51c3ba485249ebc897de3eebf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アンカレッジデジタルとセキュリタイズが提携、ステーブルコインの直接発行・償還に対応",
+        "url": "https://news.yahoo.co.jp/articles/9412495f56857b35a38d97b6909aa3606631e322",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、オンチェーン金融の制度整備を検討。証券トークン化やDeFiなど",
         "url": "https://news.yahoo.co.jp/articles/27afb05b7c1aad250213201e959f799e1bf5c43b",
         "source": "Yahoo",
@@ -18132,36 +18156,36 @@
       {
         "title": "国債トークン化、「何をどう変えるか」が具体化──振替国債はそのまま、管理をオンチェーンへ",
         "url": "https://news.yahoo.co.jp/articles/a0d528584874657e097dfd5047de38ae58963885",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
-        "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Mastercard、AIエージェント決済サービスへの早期アクセスを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/3a4abb66adf32cf3a0db5e2235ae7405369eec83",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米OCC、ジーニアス法施行に向けた最終規則を公表",
-        "url": "https://news.yahoo.co.jp/articles/91508c9984f98675979a1c650cd4296c66a90421",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「交通とお金」が政策の議論へ──井林国交相、免税還付でステーブルコイン活用検討【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/102117841f395462442ba36ed7881e89fe57ecae",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "イーサリアムL2「Sophon」、11/25を資産引き出し期限に。メインネット終了へ",
+        "url": "https://news.yahoo.co.jp/articles/0222a019856de06cf2ab5dedcdecfc7df451cb30",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン評価額増のSpaceX、出資元アステリア株が一時11%上昇",
+        "url": "https://news.yahoo.co.jp/articles/1f24df52ccb3b3c9f8f8dbc5e9766e89eab01495",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "デジタル庁、公金給付にステーブルコインやトークン化預金の活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/2a59c73883a106f51c3ba485249ebc897de3eebf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アンカレッジデジタルとセキュリタイズが提携、ステーブルコインの直接発行・償還に対応",
+        "url": "https://news.yahoo.co.jp/articles/9412495f56857b35a38d97b6909aa3606631e322",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、オンチェーン金融の制度整備を検討。証券トークン化やDeFiなど",
         "url": "https://news.yahoo.co.jp/articles/27afb05b7c1aad250213201e959f799e1bf5c43b",
         "source": "Yahoo",
@@ -18170,30 +18194,6 @@
       {
         "title": "国債トークン化、「何をどう変えるか」が具体化──振替国債はそのまま、管理をオンチェーンへ",
         "url": "https://news.yahoo.co.jp/articles/a0d528584874657e097dfd5047de38ae58963885",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
-        "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Mastercard、AIエージェント決済サービスへの早期アクセスを提供開始",
-        "url": "https://news.yahoo.co.jp/articles/3a4abb66adf32cf3a0db5e2235ae7405369eec83",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米OCC、ジーニアス法施行に向けた最終規則を公表",
-        "url": "https://news.yahoo.co.jp/articles/91508c9984f98675979a1c650cd4296c66a90421",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「交通とお金」が政策の議論へ──井林国交相、免税還付でステーブルコイン活用検討【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/102117841f395462442ba36ed7881e89fe57ecae",
         "source": "Yahoo",
         "date": ""
       }
@@ -18928,6 +18928,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "神奈川県警、期限切れ免許証不正持ちだし 過激派・右翼の顔写真収集か 30年前から",
+        "url": "https://news.yahoo.co.jp/articles/9fe3d562097fd59e4ac025cd3d4d1e72749659bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "期限切れ免許証を警備課が受け取る慣例、捜査に流用し「過激派など警戒対象者のリストと照合」",
+        "url": "https://news.yahoo.co.jp/articles/2b63261cdeeee355e5fe815e7b3ba3d7bc7dc58a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "全国に失効済み免許証の返却通達 神奈川県警での免許証紛失問題受けて 警察庁",
         "url": "https://news.yahoo.co.jp/articles/bb444cae7bd0d5270eed1d864473d8fb0e971f67",
         "source": "Yahoo",
@@ -18946,26 +18958,26 @@
         "date": ""
       },
       {
-        "title": "免許証の顔写真「対象者」資料に流用 30年前から神奈川県警各署で",
+        "title": "免許証の顔写真「監視の対象者」資料に流用 30年前から神奈川県警",
         "url": "https://news.yahoo.co.jp/articles/c224fe1bfbddc135dc5cadfb6f8c4de9b09bc59d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警 更新後の旧免許証の不正な取り扱い 約30年前から顔写真収集目的か 警察庁が全国の警察を調査",
-        "url": "https://news.yahoo.co.jp/articles/a0fb9f31e40d608a3f09d50ffc7368fd2d6f5a44",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "失効免許証を警備捜査に流用 神奈川県警で30年前から常態化か",
-        "url": "https://news.yahoo.co.jp/articles/279aa545fb863a0187fa3043279c9025d9328fbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "神奈川県警、期限切れ免許証不正持ちだし 過激派・右翼の顔写真収集か 30年前から",
+        "url": "https://news.yahoo.co.jp/articles/9fe3d562097fd59e4ac025cd3d4d1e72749659bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "期限切れ免許証を警備課が受け取る慣例、捜査に流用し「過激派など警戒対象者のリストと照合」",
+        "url": "https://news.yahoo.co.jp/articles/2b63261cdeeee355e5fe815e7b3ba3d7bc7dc58a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "全国に失効済み免許証の返却通達 神奈川県警での免許証紛失問題受けて 警察庁",
         "url": "https://news.yahoo.co.jp/articles/bb444cae7bd0d5270eed1d864473d8fb0e971f67",
         "source": "Yahoo",
@@ -18984,26 +18996,26 @@
         "date": ""
       },
       {
-        "title": "免許証の顔写真「対象者」資料に流用 30年前から神奈川県警各署で",
+        "title": "免許証の顔写真「監視の対象者」資料に流用 30年前から神奈川県警",
         "url": "https://news.yahoo.co.jp/articles/c224fe1bfbddc135dc5cadfb6f8c4de9b09bc59d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警 更新後の旧免許証の不正な取り扱い 約30年前から顔写真収集目的か 警察庁が全国の警察を調査",
-        "url": "https://news.yahoo.co.jp/articles/a0fb9f31e40d608a3f09d50ffc7368fd2d6f5a44",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "失効免許証を警備捜査に流用 神奈川県警で30年前から常態化か",
-        "url": "https://news.yahoo.co.jp/articles/279aa545fb863a0187fa3043279c9025d9328fbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "神奈川県警、期限切れ免許証不正持ちだし 過激派・右翼の顔写真収集か 30年前から",
+        "url": "https://news.yahoo.co.jp/articles/9fe3d562097fd59e4ac025cd3d4d1e72749659bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "期限切れ免許証を警備課が受け取る慣例、捜査に流用し「過激派など警戒対象者のリストと照合」",
+        "url": "https://news.yahoo.co.jp/articles/2b63261cdeeee355e5fe815e7b3ba3d7bc7dc58a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "全国に失効済み免許証の返却通達 神奈川県警での免許証紛失問題受けて 警察庁",
         "url": "https://news.yahoo.co.jp/articles/bb444cae7bd0d5270eed1d864473d8fb0e971f67",
         "source": "Yahoo",
@@ -19022,20 +19034,8 @@
         "date": ""
       },
       {
-        "title": "免許証の顔写真「対象者」資料に流用 30年前から神奈川県警各署で",
+        "title": "免許証の顔写真「監視の対象者」資料に流用 30年前から神奈川県警",
         "url": "https://news.yahoo.co.jp/articles/c224fe1bfbddc135dc5cadfb6f8c4de9b09bc59d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警 更新後の旧免許証の不正な取り扱い 約30年前から顔写真収集目的か 警察庁が全国の警察を調査",
-        "url": "https://news.yahoo.co.jp/articles/a0fb9f31e40d608a3f09d50ffc7368fd2d6f5a44",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "失効免許証を警備捜査に流用 神奈川県警で30年前から常態化か",
-        "url": "https://news.yahoo.co.jp/articles/279aa545fb863a0187fa3043279c9025d9328fbf",
         "source": "Yahoo",
         "date": ""
       }
