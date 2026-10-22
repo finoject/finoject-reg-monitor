@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:35:54.444Z",
+  "generatedAt": "2026-10-22T11:06:29.216Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "本協会ホームページの再開について",
+      "url": "https://www.jsda.or.jp/shinchaku/servermaintenance/20261022184635.html",
+      "date": "2026-10-22",
+      "detectedAt": "2026-10-22T11:06:29.216Z",
+      "enriched": "2026-10-22T11:06:34.333Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "PHP言語の深刻な脆弱性に対する予防措置として、日本証券業協会ホームページを一時的に停止していたが、セキュリティ対応完了により再開した。",
+        "利用者は日本証券業協会ホームページへのアクセスが復旧されたことを確認し、必要な情報の閲覧・取得を再開できる。",
+        "2026年10月22日付けでホームページ再開が公表され、PHP脆弱性対応に基づくシステム停止期間は終了した。"
       ],
       "aiSumV": 3
     },
@@ -19049,6 +19064,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "4:32神奈川県警“古い免許証”流用か 廃棄のはずが過激派などの個人情報目的で",
+        "url": "https://news.yahoo.co.jp/articles/7fae50cc2d1d92891a662698b6554dd0b3e525d3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "習近平氏風刺の台湾人コメディアン、車に衝突され負傷 中国関与の越境弾圧疑い＝地検",
+        "url": "https://news.yahoo.co.jp/articles/51600d070e111ae5ea771661f86ca145a3bb46f3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "相次ぐサイバー攻撃でインフラ事業者と緊急会議「対策徹底を」警視庁",
         "url": "https://news.yahoo.co.jp/articles/10ac037d90bdd801bb2b53b8f5e164eb2f9c28f2",
         "source": "Yahoo",
@@ -19069,24 +19096,24 @@
       {
         "title": "神奈川県警で失効済みの免許証30枚入りリュック一時紛失→調査で発覚 交通課が回収した旧免許証を警備課に引き渡し個人情報を“目的外利用”「決してあってはならないこと」警察庁長官が陳謝",
         "url": "https://news.yahoo.co.jp/articles/c0670cbac4c88858be0852039a62fe530fd7bbc8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警、期限切れ免許証不正持ちだし 過激派・右翼の顔写真収集か 30年前から",
-        "url": "https://news.yahoo.co.jp/articles/9fe3d562097fd59e4ac025cd3d4d1e72749659bb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "期限切れ免許証を警備課が受け取る慣例、捜査に流用し「過激派など警戒対象者のリストと照合」",
-        "url": "https://news.yahoo.co.jp/articles/2b63261cdeeee355e5fe815e7b3ba3d7bc7dc58a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "4:32神奈川県警“古い免許証”流用か 廃棄のはずが過激派などの個人情報目的で",
+        "url": "https://news.yahoo.co.jp/articles/7fae50cc2d1d92891a662698b6554dd0b3e525d3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "習近平氏風刺の台湾人コメディアン、車に衝突され負傷 中国関与の越境弾圧疑い＝地検",
+        "url": "https://news.yahoo.co.jp/articles/51600d070e111ae5ea771661f86ca145a3bb46f3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "相次ぐサイバー攻撃でインフラ事業者と緊急会議「対策徹底を」警視庁",
         "url": "https://news.yahoo.co.jp/articles/10ac037d90bdd801bb2b53b8f5e164eb2f9c28f2",
         "source": "Yahoo",
@@ -19107,24 +19134,24 @@
       {
         "title": "神奈川県警で失効済みの免許証30枚入りリュック一時紛失→調査で発覚 交通課が回収した旧免許証を警備課に引き渡し個人情報を“目的外利用”「決してあってはならないこと」警察庁長官が陳謝",
         "url": "https://news.yahoo.co.jp/articles/c0670cbac4c88858be0852039a62fe530fd7bbc8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警、期限切れ免許証不正持ちだし 過激派・右翼の顔写真収集か 30年前から",
-        "url": "https://news.yahoo.co.jp/articles/9fe3d562097fd59e4ac025cd3d4d1e72749659bb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "期限切れ免許証を警備課が受け取る慣例、捜査に流用し「過激派など警戒対象者のリストと照合」",
-        "url": "https://news.yahoo.co.jp/articles/2b63261cdeeee355e5fe815e7b3ba3d7bc7dc58a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "4:32神奈川県警“古い免許証”流用か 廃棄のはずが過激派などの個人情報目的で",
+        "url": "https://news.yahoo.co.jp/articles/7fae50cc2d1d92891a662698b6554dd0b3e525d3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "習近平氏風刺の台湾人コメディアン、車に衝突され負傷 中国関与の越境弾圧疑い＝地検",
+        "url": "https://news.yahoo.co.jp/articles/51600d070e111ae5ea771661f86ca145a3bb46f3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "相次ぐサイバー攻撃でインフラ事業者と緊急会議「対策徹底を」警視庁",
         "url": "https://news.yahoo.co.jp/articles/10ac037d90bdd801bb2b53b8f5e164eb2f9c28f2",
         "source": "Yahoo",
@@ -19145,18 +19172,6 @@
       {
         "title": "神奈川県警で失効済みの免許証30枚入りリュック一時紛失→調査で発覚 交通課が回収した旧免許証を警備課に引き渡し個人情報を“目的外利用”「決してあってはならないこと」警察庁長官が陳謝",
         "url": "https://news.yahoo.co.jp/articles/c0670cbac4c88858be0852039a62fe530fd7bbc8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警、期限切れ免許証不正持ちだし 過激派・右翼の顔写真収集か 30年前から",
-        "url": "https://news.yahoo.co.jp/articles/9fe3d562097fd59e4ac025cd3d4d1e72749659bb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "期限切れ免許証を警備課が受け取る慣例、捜査に流用し「過激派など警戒対象者のリストと照合」",
-        "url": "https://news.yahoo.co.jp/articles/2b63261cdeeee355e5fe815e7b3ba3d7bc7dc58a",
         "source": "Yahoo",
         "date": ""
       }
