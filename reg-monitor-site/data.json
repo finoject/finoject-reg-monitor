@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:47:19.949Z",
+  "generatedAt": "2026-10-23T15:22:28.930Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -18226,6 +18226,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米ＳＥＣ、金融機関検査でＡＩや非公開資産を重点項目に",
+        "url": "https://news.yahoo.co.jp/articles/08858c97a47f940bd6a0a03bd19e4a0cc7d74fd4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アイルランド中銀、コインベース現地法人に約325万ユーロの制裁金。顧客資金保全などに不備",
         "url": "https://news.yahoo.co.jp/articles/6accb1f8fc3c53103955e7a96c68538a8cd807a2",
         "source": "Yahoo",
@@ -18252,18 +18258,18 @@
       {
         "title": "プログマ主催DCC、日本国債トークン化の実機検証へ。カントンで11月開始目指す",
         "url": "https://news.yahoo.co.jp/articles/f9c7e65a81fbc2e27cb89e255187d81f841cdf8e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
-        "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米ＳＥＣ、金融機関検査でＡＩや非公開資産を重点項目に",
+        "url": "https://news.yahoo.co.jp/articles/08858c97a47f940bd6a0a03bd19e4a0cc7d74fd4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アイルランド中銀、コインベース現地法人に約325万ユーロの制裁金。顧客資金保全などに不備",
         "url": "https://news.yahoo.co.jp/articles/6accb1f8fc3c53103955e7a96c68538a8cd807a2",
         "source": "Yahoo",
@@ -18290,12 +18296,6 @@
       {
         "title": "プログマ主催DCC、日本国債トークン化の実機検証へ。カントンで11月開始目指す",
         "url": "https://news.yahoo.co.jp/articles/f9c7e65a81fbc2e27cb89e255187d81f841cdf8e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
-        "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
         "source": "Yahoo",
         "date": ""
       }
