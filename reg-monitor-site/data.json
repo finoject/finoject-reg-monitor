@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T09:34:14.668Z",
+  "generatedAt": "2026-10-23T11:05:09.796Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「アジアGXコンソーシアム」ハイレベル会合2026の開催の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261023/20261023.html",
+      "date": "2026-10-23",
+      "detectedAt": "2026-10-23T11:05:09.796Z",
+      "enriched": "2026-10-23T11:05:14.418Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "アジアGXコンソーシアムは2026年10月23日にフィリピン・マニラで第3回ハイレベル会合を開催し、ASEAN政策枠組みの実務有用性向上とASEAN Transition Plan Handbookのとりまとめを中核としたワークプラン2026を実行している。",
+        "ADBと連携して策定されるハンドブックは事業会社の信頼できる移行計画策定及び金融機関による査定支援を目的としており、ASEAN地域でのトランジション・ファイナンス推進に活用される。",
+        "2026年年次報告書は金融庁公表済み、ハンドブックはADB発表予定であり、参加金融機関及び事業会社はこれら成果物を基にASEAN域内の移行計画実務化に対応することになる。"
       ],
       "aiSumV": 3
     },
@@ -18211,6 +18226,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "アイルランド中銀、コインベース現地法人に約325万ユーロの制裁金。顧客資金保全などに不備",
+        "url": "https://news.yahoo.co.jp/articles/6accb1f8fc3c53103955e7a96c68538a8cd807a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ氏 支持率最低に 関税政策で“物価高” 一族の“腐敗疑惑”選挙に影響は？",
         "url": "https://news.yahoo.co.jp/articles/fb840c88157860e8914e33d8804a38eb5f46d0fa",
         "source": "Yahoo",
@@ -18237,18 +18258,18 @@
       {
         "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
         "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "フランス当局、DeFiアクセス規制などを明記したEUの暗号資産規制「MiCA」の改正案を公表",
-        "url": "https://news.yahoo.co.jp/articles/90d8cb3af37e6a988079a227c346d1f6f1d5082a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "アイルランド中銀、コインベース現地法人に約325万ユーロの制裁金。顧客資金保全などに不備",
+        "url": "https://news.yahoo.co.jp/articles/6accb1f8fc3c53103955e7a96c68538a8cd807a2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプ氏 支持率最低に 関税政策で“物価高” 一族の“腐敗疑惑”選挙に影響は？",
         "url": "https://news.yahoo.co.jp/articles/fb840c88157860e8914e33d8804a38eb5f46d0fa",
         "source": "Yahoo",
@@ -18275,12 +18296,6 @@
       {
         "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
         "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "フランス当局、DeFiアクセス規制などを明記したEUの暗号資産規制「MiCA」の改正案を公表",
-        "url": "https://news.yahoo.co.jp/articles/90d8cb3af37e6a988079a227c346d1f6f1d5082a",
         "source": "Yahoo",
         "date": ""
       }
