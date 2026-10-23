@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T01:55:01.789Z",
+  "generatedAt": "2026-10-23T03:31:22.261Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,36 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]ダークプールにおける売買代金の推移（～2026年9月）",
+      "url": "https://www.jpx.co.jp/news/1030/20261023-01.html",
+      "date": "2026-10-23",
+      "detectedAt": "2026-10-23T03:31:22.261Z",
+      "enriched": "2026-10-23T03:31:26.975Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証ToSTNeT市場のダークプール取引について、2020年6月の内閣府令改正に基づくダークプール・フラグにより、2020年9月から2026年9月の売買代金推移を集計・公表。1日平均売買代金は1,119億円から6,006億円に増加、全体比は2.78％から4.10％に推移",
+        "取引参加者は、ToSTNeT市場でダークプールを経由する注文時にフラグを明示する必要があり、東証はこれに基づき透明性向上のため定期的に売買代金データを公開・監視継続",
+        "2020年6月19日の金融商品取引業等に関する内閣府令および総合的な監督指針の改正に伴い、ToSTNeT市場のダークプール透明化対応として実施中"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]ダークプールにおける取引契約金額の推移（～2026年9月）",
+      "url": "https://www.jpx.co.jp/news/2040/20261023-01.html",
+      "date": "2026-10-23",
+      "detectedAt": "2026-10-23T03:31:22.261Z",
+      "enriched": "2026-10-23T03:31:26.975Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大阪取引所のJ-NET市場では、2020年6月19日の内閣府令等改正に基づき、ダークプール経由の注文を識別するフラグを導入し、取引の透明性向上を図っている。",
+        "取引参加者は、日経225先物・日経225ミニ・TOPIX先物の取引においてダークプール・フラグ付き取引の状況を把握し、市場全体に占めるダークプール取引の割合が月単位で公表される仕組みに対応する必要がある。",
+        "ダークプール取引データは2020年9月から毎月集計・公表され、2026年9月時点で日経225先物は月1日平均1093億円（全体比2.84％）、日経225ミニは4310億円（同10.88％）、TOPIX先物は119億円（同0.22％）の取引がある。"
       ],
       "aiSumV": 3
     },
@@ -17833,6 +17863,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "ヘッジファンドへの出資を誘われたら。出資できる個人は限られ、届出は金融庁で確かめる",
+        "url": "https://news.yahoo.co.jp/articles/6bd1b630013b3fa82b56f201c543f26e51398490",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「ゴーンと私は対立関係にあったか」日産の元社長・西川廣人氏が振り返る“陰謀論”と“ゴーンの胸の内”",
         "url": "https://news.yahoo.co.jp/articles/bf3548863480bb1b93fa4ff10098b92ce90f76f6",
         "source": "Yahoo",
@@ -17859,18 +17895,18 @@
       {
         "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
-        "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "ヘッジファンドへの出資を誘われたら。出資できる個人は限られ、届出は金融庁で確かめる",
+        "url": "https://news.yahoo.co.jp/articles/6bd1b630013b3fa82b56f201c543f26e51398490",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「ゴーンと私は対立関係にあったか」日産の元社長・西川廣人氏が振り返る“陰謀論”と“ゴーンの胸の内”",
         "url": "https://news.yahoo.co.jp/articles/bf3548863480bb1b93fa4ff10098b92ce90f76f6",
         "source": "Yahoo",
@@ -17897,18 +17933,18 @@
       {
         "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
-        "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "ヘッジファンドへの出資を誘われたら。出資できる個人は限られ、届出は金融庁で確かめる",
+        "url": "https://news.yahoo.co.jp/articles/6bd1b630013b3fa82b56f201c543f26e51398490",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「ゴーンと私は対立関係にあったか」日産の元社長・西川廣人氏が振り返る“陰謀論”と“ゴーンの胸の内”",
         "url": "https://news.yahoo.co.jp/articles/bf3548863480bb1b93fa4ff10098b92ce90f76f6",
         "source": "Yahoo",
@@ -17935,18 +17971,18 @@
       {
         "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
-        "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "ヘッジファンドへの出資を誘われたら。出資できる個人は限られ、届出は金融庁で確かめる",
+        "url": "https://news.yahoo.co.jp/articles/6bd1b630013b3fa82b56f201c543f26e51398490",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「ゴーンと私は対立関係にあったか」日産の元社長・西川廣人氏が振り返る“陰謀論”と“ゴーンの胸の内”",
         "url": "https://news.yahoo.co.jp/articles/bf3548863480bb1b93fa4ff10098b92ce90f76f6",
         "source": "Yahoo",
@@ -17973,12 +18009,6 @@
       {
         "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【倒産情報】海外不動産向けファンド展開の企業が破産開始決定 一時 約4億円の売上高を計上も利払い遅延の影響で信用が大幅に低下 東京・港区【東京商工リサーチ】",
-        "url": "https://news.yahoo.co.jp/articles/68e45e8c46ba3be2134cdcf2d24b61dacf2bcc5b",
         "source": "Yahoo",
         "date": ""
       }
@@ -18061,6 +18091,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "プログマ主催DCC、日本国債トークン化の実機検証へ。カントンで11月開始目指す",
+        "url": "https://news.yahoo.co.jp/articles/f9c7e65a81fbc2e27cb89e255187d81f841cdf8e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
         "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
         "source": "Yahoo",
@@ -18087,18 +18123,18 @@
       {
         "title": "店頭のレジからAIによる送金まで──ステーブルコインが企業のお金の動かし方を変える【イベントレポート①】",
         "url": "https://news.yahoo.co.jp/articles/245cc79a5df4b3ac0f83ea811f556fc30676a4ba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ブロックチェーン協会、税制の明確化を議会に要求",
-        "url": "https://news.yahoo.co.jp/articles/983ad60ad42b9b28e887f540496381f75f912364",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "プログマ主催DCC、日本国債トークン化の実機検証へ。カントンで11月開始目指す",
+        "url": "https://news.yahoo.co.jp/articles/f9c7e65a81fbc2e27cb89e255187d81f841cdf8e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
         "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
         "source": "Yahoo",
@@ -18125,12 +18161,6 @@
       {
         "title": "店頭のレジからAIによる送金まで──ステーブルコインが企業のお金の動かし方を変える【イベントレポート①】",
         "url": "https://news.yahoo.co.jp/articles/245cc79a5df4b3ac0f83ea811f556fc30676a4ba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ブロックチェーン協会、税制の明確化を議会に要求",
-        "url": "https://news.yahoo.co.jp/articles/983ad60ad42b9b28e887f540496381f75f912364",
         "source": "Yahoo",
         "date": ""
       }
@@ -18289,6 +18319,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "全米初の個人向けトークン化預金「SoFi Earn」提供開始──年利4.4％",
+        "url": "https://news.yahoo.co.jp/articles/a790e5387fcb2339be641b3bf4dced9890d18ef5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "プログマ主催DCC、日本国債トークン化の実機検証へ。カントンで11月開始目指す",
+        "url": "https://news.yahoo.co.jp/articles/f9c7e65a81fbc2e27cb89e255187d81f841cdf8e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "支払いの瞬間まで資金を運用する財務変革──ステーブルコインとトークン化ファンドが拓く24時間即時決済の未来【イベントレポート②】",
+        "url": "https://news.yahoo.co.jp/articles/6d0a60d49171fcfb204c214cb7b668948dfe19ff",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
         "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
         "source": "Yahoo",
@@ -18303,30 +18351,30 @@
       {
         "title": "米銀行団体、OCCのステーブルコイン最終規則に懸念。預金流出と融資減少を警戒",
         "url": "https://news.yahoo.co.jp/articles/43b65a23cb3432872a0915246e041482895517c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、Fireblocksを約3900億円で買収交渉＝報道",
-        "url": "https://news.yahoo.co.jp/articles/a4882308c35071914e5c2ea208ff41c09236bfde",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ファイアブロックス、Visaによる約25億ドルの買収交渉報道を否定",
-        "url": "https://news.yahoo.co.jp/articles/18dd902b682e16c856a415e0f72ffa612e72e3eb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "a16z Crypto、「a16z Frontier」に改称。AIなどへ投資対象を拡大",
-        "url": "https://news.yahoo.co.jp/articles/9c988ec4a563e0cd2c9c96a4e4bd9cd5e738ba86",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "全米初の個人向けトークン化預金「SoFi Earn」提供開始──年利4.4％",
+        "url": "https://news.yahoo.co.jp/articles/a790e5387fcb2339be641b3bf4dced9890d18ef5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "プログマ主催DCC、日本国債トークン化の実機検証へ。カントンで11月開始目指す",
+        "url": "https://news.yahoo.co.jp/articles/f9c7e65a81fbc2e27cb89e255187d81f841cdf8e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "支払いの瞬間まで資金を運用する財務変革──ステーブルコインとトークン化ファンドが拓く24時間即時決済の未来【イベントレポート②】",
+        "url": "https://news.yahoo.co.jp/articles/6d0a60d49171fcfb204c214cb7b668948dfe19ff",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
         "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
         "source": "Yahoo",
@@ -18341,24 +18389,6 @@
       {
         "title": "米銀行団体、OCCのステーブルコイン最終規則に懸念。預金流出と融資減少を警戒",
         "url": "https://news.yahoo.co.jp/articles/43b65a23cb3432872a0915246e041482895517c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、Fireblocksを約3900億円で買収交渉＝報道",
-        "url": "https://news.yahoo.co.jp/articles/a4882308c35071914e5c2ea208ff41c09236bfde",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ファイアブロックス、Visaによる約25億ドルの買収交渉報道を否定",
-        "url": "https://news.yahoo.co.jp/articles/18dd902b682e16c856a415e0f72ffa612e72e3eb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "a16z Crypto、「a16z Frontier」に改称。AIなどへ投資対象を拡大",
-        "url": "https://news.yahoo.co.jp/articles/9c988ec4a563e0cd2c9c96a4e4bd9cd5e738ba86",
         "source": "Yahoo",
         "date": ""
       }
@@ -19079,6 +19109,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "1:43神奈川県警が失効した免許証を回収し個人情報収集 30年前から複数の警察署で 警察庁は、右翼団体や左翼団体のメンバーなどの顔写真を収集する目的があったとみていて、個人情報保護法に抵触する可能性が高いとしています。 複数のベテラン捜査員 「少なく",
+        "url": "https://news.yahoo.co.jp/articles/ee7917ebe2a489cb4c4bf9d4c724e6cd07e68c1a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "山里亮太 神奈川県警“古い運転免許証”流用疑惑に「これがあったおかげで",
         "url": "https://news.yahoo.co.jp/articles/d7801c8b4ac1666aa7ddbc085a644a36e3922c88",
         "source": "Yahoo",
@@ -19105,18 +19141,18 @@
       {
         "title": "神奈川県警の失効免許証流用、３０年来の慣行か 個人情報保護法など抵触の可能性 警察庁が全国一斉調査へ",
         "url": "https://news.yahoo.co.jp/articles/6ecd0cbba05744cc2e743db5acff945a7ddb9fb8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "4:32神奈川県警“古い免許証”流用か 廃棄のはずが過激派などの個人情報目的で",
-        "url": "https://news.yahoo.co.jp/articles/7fae50cc2d1d92891a662698b6554dd0b3e525d3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "1:43神奈川県警が失効した免許証を回収し個人情報収集 30年前から複数の警察署で 警察庁は、右翼団体や左翼団体のメンバーなどの顔写真を収集する目的があったとみていて、個人情報保護法に抵触する可能性が高いとしています。 複数のベテラン捜査員 「少なく",
+        "url": "https://news.yahoo.co.jp/articles/ee7917ebe2a489cb4c4bf9d4c724e6cd07e68c1a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "山里亮太 神奈川県警“古い運転免許証”流用疑惑に「これがあったおかげで",
         "url": "https://news.yahoo.co.jp/articles/d7801c8b4ac1666aa7ddbc085a644a36e3922c88",
         "source": "Yahoo",
@@ -19143,18 +19179,18 @@
       {
         "title": "神奈川県警の失効免許証流用、３０年来の慣行か 個人情報保護法など抵触の可能性 警察庁が全国一斉調査へ",
         "url": "https://news.yahoo.co.jp/articles/6ecd0cbba05744cc2e743db5acff945a7ddb9fb8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "4:32神奈川県警“古い免許証”流用か 廃棄のはずが過激派などの個人情報目的で",
-        "url": "https://news.yahoo.co.jp/articles/7fae50cc2d1d92891a662698b6554dd0b3e525d3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "1:43神奈川県警が失効した免許証を回収し個人情報収集 30年前から複数の警察署で 警察庁は、右翼団体や左翼団体のメンバーなどの顔写真を収集する目的があったとみていて、個人情報保護法に抵触する可能性が高いとしています。 複数のベテラン捜査員 「少なく",
+        "url": "https://news.yahoo.co.jp/articles/ee7917ebe2a489cb4c4bf9d4c724e6cd07e68c1a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "山里亮太 神奈川県警“古い運転免許証”流用疑惑に「これがあったおかげで",
         "url": "https://news.yahoo.co.jp/articles/d7801c8b4ac1666aa7ddbc085a644a36e3922c88",
         "source": "Yahoo",
@@ -19181,12 +19217,6 @@
       {
         "title": "神奈川県警の失効免許証流用、３０年来の慣行か 個人情報保護法など抵触の可能性 警察庁が全国一斉調査へ",
         "url": "https://news.yahoo.co.jp/articles/6ecd0cbba05744cc2e743db5acff945a7ddb9fb8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "4:32神奈川県警“古い免許証”流用か 廃棄のはずが過激派などの個人情報目的で",
-        "url": "https://news.yahoo.co.jp/articles/7fae50cc2d1d92891a662698b6554dd0b3e525d3",
         "source": "Yahoo",
         "date": ""
       }
