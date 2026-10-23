@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T06:47:44.141Z",
+  "generatedAt": "2026-10-23T07:54:41.808Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行政策委員会月報（令和8年8・9月号）",
+      "url": "https://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2609.htm",
+      "date": "2026-10-23",
+      "detectedAt": "2026-10-23T07:54:41.808Z",
+      "enriched": "2026-10-23T07:54:47.454Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行政策委員会は2026年9月17・18日の金融政策決定会合で、無担保コールレート（オーバーナイト物）を年1.25％程度で推移するよう促す金融市場調節方針を決定した。",
+        "補完当座預金制度の適用利率を年1.0％から年1.25％に変更し、基準割引率および基準貸付利率も年1.5％に変更する、実施日は令和8年9月24日。",
+        "金融機関および日本銀行との取引者は上記利率変更に対応する必要があり、変更は日本銀行法第33条第1項および補完当座預金制度基本要領に基づく。"
       ],
       "aiSumV": 3
     },
@@ -18166,6 +18181,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "トランプ氏 支持率最低に 関税政策で“物価高” 一族の“腐敗疑惑”選挙に影響は？",
+        "url": "https://news.yahoo.co.jp/articles/fb840c88157860e8914e33d8804a38eb5f46d0fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイビットのドバイ法人、VARAから現物取引のライセンス取得",
         "url": "https://news.yahoo.co.jp/articles/1cb77b59031bea69ec32b25702ac1c6fdc5ecea9",
         "source": "Yahoo",
@@ -18192,18 +18213,18 @@
       {
         "title": "フランス当局、DeFiアクセス規制などを明記したEUの暗号資産規制「MiCA」の改正案を公表",
         "url": "https://news.yahoo.co.jp/articles/90d8cb3af37e6a988079a227c346d1f6f1d5082a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米銀行団体、OCCのステーブルコイン最終規則に懸念。預金流出と融資減少を警戒",
-        "url": "https://news.yahoo.co.jp/articles/43b65a23cb3432872a0915246e041482895517c2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプ氏 支持率最低に 関税政策で“物価高” 一族の“腐敗疑惑”選挙に影響は？",
+        "url": "https://news.yahoo.co.jp/articles/fb840c88157860e8914e33d8804a38eb5f46d0fa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイビットのドバイ法人、VARAから現物取引のライセンス取得",
         "url": "https://news.yahoo.co.jp/articles/1cb77b59031bea69ec32b25702ac1c6fdc5ecea9",
         "source": "Yahoo",
@@ -18230,12 +18251,6 @@
       {
         "title": "フランス当局、DeFiアクセス規制などを明記したEUの暗号資産規制「MiCA」の改正案を公表",
         "url": "https://news.yahoo.co.jp/articles/90d8cb3af37e6a988079a227c346d1f6f1d5082a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米銀行団体、OCCのステーブルコイン最終規則に懸念。預金流出と融資減少を警戒",
-        "url": "https://news.yahoo.co.jp/articles/43b65a23cb3432872a0915246e041482895517c2",
         "source": "Yahoo",
         "date": ""
       }
@@ -19184,6 +19199,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "【問題点】 『タイムズカー』の漏洩より深刻。 警察による免許証『流用』という究極のセキュリティ脆弱性",
+        "url": "https://news.yahoo.co.jp/expert/articles/925b6c0e671114711eca6ce1b2936bbb3e3f3d29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ひろゆき氏、失効免許証の捜査利用に「なんで問題なのかわからない」",
         "url": "https://news.yahoo.co.jp/articles/4c8605f626686762a0cfebc6a31a5607b1181db7",
         "source": "Yahoo",
@@ -19210,18 +19231,18 @@
       {
         "title": "相次ぐ個人情報漏えい、神奈川県警が30年前から失効免許証を不正流用［新聞ウォッチ］",
         "url": "https://news.yahoo.co.jp/articles/0521b610fa11836f76220151a0dc1ca09a80ce2a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「30年前から複数の警察署で」警察が“失効免許証”を不正利用",
-        "url": "https://news.yahoo.co.jp/articles/d1161e0028759337a3622959c36e736149477900",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "【問題点】 『タイムズカー』の漏洩より深刻。 警察による免許証『流用』という究極のセキュリティ脆弱性",
+        "url": "https://news.yahoo.co.jp/expert/articles/925b6c0e671114711eca6ce1b2936bbb3e3f3d29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ひろゆき氏、失効免許証の捜査利用に「なんで問題なのかわからない」",
         "url": "https://news.yahoo.co.jp/articles/4c8605f626686762a0cfebc6a31a5607b1181db7",
         "source": "Yahoo",
@@ -19248,18 +19269,18 @@
       {
         "title": "相次ぐ個人情報漏えい、神奈川県警が30年前から失効免許証を不正流用［新聞ウォッチ］",
         "url": "https://news.yahoo.co.jp/articles/0521b610fa11836f76220151a0dc1ca09a80ce2a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「30年前から複数の警察署で」警察が“失効免許証”を不正利用",
-        "url": "https://news.yahoo.co.jp/articles/d1161e0028759337a3622959c36e736149477900",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "【問題点】 『タイムズカー』の漏洩より深刻。 警察による免許証『流用』という究極のセキュリティ脆弱性",
+        "url": "https://news.yahoo.co.jp/expert/articles/925b6c0e671114711eca6ce1b2936bbb3e3f3d29",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ひろゆき氏、失効免許証の捜査利用に「なんで問題なのかわからない」",
         "url": "https://news.yahoo.co.jp/articles/4c8605f626686762a0cfebc6a31a5607b1181db7",
         "source": "Yahoo",
@@ -19286,12 +19307,6 @@
       {
         "title": "相次ぐ個人情報漏えい、神奈川県警が30年前から失効免許証を不正流用［新聞ウォッチ］",
         "url": "https://news.yahoo.co.jp/articles/0521b610fa11836f76220151a0dc1ca09a80ce2a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「30年前から複数の警察署で」警察が“失効免許証”を不正利用",
-        "url": "https://news.yahoo.co.jp/articles/d1161e0028759337a3622959c36e736149477900",
         "source": "Yahoo",
         "date": ""
       }
