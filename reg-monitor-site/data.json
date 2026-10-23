@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:29:20.315Z",
+  "generatedAt": "2026-10-23T01:55:01.789Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "令和8年度 税務大学校公開講座のお知らせ",
+      "url": "https://jicpa.or.jp/news/information/2026/20261023ira.html",
+      "date": "2026-10-23",
+      "detectedAt": "2026-10-23T01:55:01.789Z",
+      "enriched": "2026-10-23T01:55:06.619Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "税務大学校が令和8年度の公開講座を開催し、租税に関する知識の普及を目的として一般向けに講座を提供する。",
+        "どなたでも受講可能であり、希望者は国税庁ウェブサイトの指定ページからの申込が必要となる。",
+        "本公開講座は毎年継続開催されており、2026年10月23日の公告をもって令和8年度の実施が周知された。"
       ],
       "aiSumV": 3
     },
@@ -18046,76 +18061,76 @@
     ],
     "429M60000002007": [
       {
+        "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
+        "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "フランス当局、DeFiアクセス規制などを明記したEUの暗号資産規制「MiCA」の改正案を公表",
+        "url": "https://news.yahoo.co.jp/articles/90d8cb3af37e6a988079a227c346d1f6f1d5082a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米銀行団体、OCCのステーブルコイン最終規則に懸念。預金流出と融資減少を警戒",
+        "url": "https://news.yahoo.co.jp/articles/43b65a23cb3432872a0915246e041482895517c2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "a16z Crypto、「a16z Frontier」に改称。AIなどへ投資対象を拡大",
+        "url": "https://news.yahoo.co.jp/articles/9c988ec4a563e0cd2c9c96a4e4bd9cd5e738ba86",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "店頭のレジからAIによる送金まで──ステーブルコインが企業のお金の動かし方を変える【イベントレポート①】",
+        "url": "https://news.yahoo.co.jp/articles/245cc79a5df4b3ac0f83ea811f556fc30676a4ba",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ブロックチェーン協会、税制の明確化を議会に要求",
         "url": "https://news.yahoo.co.jp/articles/983ad60ad42b9b28e887f540496381f75f912364",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbaseアイルランド法人、顧客資金の管理不備で約5.7億円の制裁金",
-        "url": "https://news.yahoo.co.jp/articles/c95b2b1e7562a43f338bf9bfdd1437e5c5695dc1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米SEC、トークン化証券取引場を計画する3社を公表",
-        "url": "https://news.yahoo.co.jp/articles/ef93bf3b15f9f6b01bf396fbda0858178a963cf3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米OCC、ステーブルコイン規制「GENIUS法」の最終規則公表。2027年1月18日施行へ",
-        "url": "https://news.yahoo.co.jp/articles/24febdf2be815351ab3085155af70332d68c2fac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "チェーンリンクラボら6団体、デジタルコモディティの「非有価証券」明記をSECに要請",
-        "url": "https://news.yahoo.co.jp/articles/2735dfc44a1b23788b698b90be4c91bd534712ad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カザフスタンのAIFC裁判所、コインベースなど6プラットフォームに無許可営業の差止命令",
-        "url": "https://news.yahoo.co.jp/articles/10a9f03cd94954eefd21d6c28307363245600162",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
+        "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "フランス当局、DeFiアクセス規制などを明記したEUの暗号資産規制「MiCA」の改正案を公表",
+        "url": "https://news.yahoo.co.jp/articles/90d8cb3af37e6a988079a227c346d1f6f1d5082a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米銀行団体、OCCのステーブルコイン最終規則に懸念。預金流出と融資減少を警戒",
+        "url": "https://news.yahoo.co.jp/articles/43b65a23cb3432872a0915246e041482895517c2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "a16z Crypto、「a16z Frontier」に改称。AIなどへ投資対象を拡大",
+        "url": "https://news.yahoo.co.jp/articles/9c988ec4a563e0cd2c9c96a4e4bd9cd5e738ba86",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "店頭のレジからAIによる送金まで──ステーブルコインが企業のお金の動かし方を変える【イベントレポート①】",
+        "url": "https://news.yahoo.co.jp/articles/245cc79a5df4b3ac0f83ea811f556fc30676a4ba",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ブロックチェーン協会、税制の明確化を議会に要求",
         "url": "https://news.yahoo.co.jp/articles/983ad60ad42b9b28e887f540496381f75f912364",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Coinbaseアイルランド法人、顧客資金の管理不備で約5.7億円の制裁金",
-        "url": "https://news.yahoo.co.jp/articles/c95b2b1e7562a43f338bf9bfdd1437e5c5695dc1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米SEC、トークン化証券取引場を計画する3社を公表",
-        "url": "https://news.yahoo.co.jp/articles/ef93bf3b15f9f6b01bf396fbda0858178a963cf3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米OCC、ステーブルコイン規制「GENIUS法」の最終規則公表。2027年1月18日施行へ",
-        "url": "https://news.yahoo.co.jp/articles/24febdf2be815351ab3085155af70332d68c2fac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "チェーンリンクラボら6団体、デジタルコモディティの「非有価証券」明記をSECに要請",
-        "url": "https://news.yahoo.co.jp/articles/2735dfc44a1b23788b698b90be4c91bd534712ad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カザフスタンのAIFC裁判所、コインベースなど6プラットフォームに無許可営業の差止命令",
-        "url": "https://news.yahoo.co.jp/articles/10a9f03cd94954eefd21d6c28307363245600162",
         "source": "Yahoo",
         "date": ""
       }
@@ -18274,76 +18289,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "三菱UFJ・三井住友・みずほに激震？ ビザvsマスターカード「送金戦争」の衝撃",
-        "url": "https://news.yahoo.co.jp/articles/ecc94711515c9cdd12072b816c4dc3af7724139f",
+        "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
+        "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米ブロックチェーン協会、税制の明確化を議会に要求",
-        "url": "https://news.yahoo.co.jp/articles/983ad60ad42b9b28e887f540496381f75f912364",
+        "title": "フランス当局、DeFiアクセス規制などを明記したEUの暗号資産規制「MiCA」の改正案を公表",
+        "url": "https://news.yahoo.co.jp/articles/90d8cb3af37e6a988079a227c346d1f6f1d5082a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "クジラは買い始めたのに、米国投資家は動かない──ビットコイン上昇を阻む「Coinbase Premium」の弱さ【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/ab083fced22049c31862324e55a7ac535ce1de28",
+        "title": "米銀行団体、OCCのステーブルコイン最終規則に懸念。預金流出と融資減少を警戒",
+        "url": "https://news.yahoo.co.jp/articles/43b65a23cb3432872a0915246e041482895517c2",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米OCC、ステーブルコイン規制「GENIUS法」の最終規則公表。2027年1月18日施行へ",
-        "url": "https://news.yahoo.co.jp/articles/24febdf2be815351ab3085155af70332d68c2fac",
+        "title": "Visa、Fireblocksを約3900億円で買収交渉＝報道",
+        "url": "https://news.yahoo.co.jp/articles/a4882308c35071914e5c2ea208ff41c09236bfde",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "資産流出問題のLedger、ビットコイン担保の借入機能を導入──Morphoを活用",
-        "url": "https://news.yahoo.co.jp/articles/300e38c9e3ad1d73dcb0dbabbc8c02348ddf424f",
+        "title": "ファイアブロックス、Visaによる約25億ドルの買収交渉報道を否定",
+        "url": "https://news.yahoo.co.jp/articles/18dd902b682e16c856a415e0f72ffa612e72e3eb",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "マイクロソフトなど16社、OKX・ICEのトークン化株式取引計画に異議",
-        "url": "https://news.yahoo.co.jp/articles/cc76e62c1ae7196b019cfde33183bc60ac95a97a",
+        "title": "a16z Crypto、「a16z Frontier」に改称。AIなどへ投資対象を拡大",
+        "url": "https://news.yahoo.co.jp/articles/9c988ec4a563e0cd2c9c96a4e4bd9cd5e738ba86",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "三菱UFJ・三井住友・みずほに激震？ ビザvsマスターカード「送金戦争」の衝撃",
-        "url": "https://news.yahoo.co.jp/articles/ecc94711515c9cdd12072b816c4dc3af7724139f",
+        "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
+        "url": "https://news.yahoo.co.jp/articles/51f73e4f86c18c6531531a9700b14c1860ccc0db",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米ブロックチェーン協会、税制の明確化を議会に要求",
-        "url": "https://news.yahoo.co.jp/articles/983ad60ad42b9b28e887f540496381f75f912364",
+        "title": "フランス当局、DeFiアクセス規制などを明記したEUの暗号資産規制「MiCA」の改正案を公表",
+        "url": "https://news.yahoo.co.jp/articles/90d8cb3af37e6a988079a227c346d1f6f1d5082a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "クジラは買い始めたのに、米国投資家は動かない──ビットコイン上昇を阻む「Coinbase Premium」の弱さ【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/ab083fced22049c31862324e55a7ac535ce1de28",
+        "title": "米銀行団体、OCCのステーブルコイン最終規則に懸念。預金流出と融資減少を警戒",
+        "url": "https://news.yahoo.co.jp/articles/43b65a23cb3432872a0915246e041482895517c2",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "米OCC、ステーブルコイン規制「GENIUS法」の最終規則公表。2027年1月18日施行へ",
-        "url": "https://news.yahoo.co.jp/articles/24febdf2be815351ab3085155af70332d68c2fac",
+        "title": "Visa、Fireblocksを約3900億円で買収交渉＝報道",
+        "url": "https://news.yahoo.co.jp/articles/a4882308c35071914e5c2ea208ff41c09236bfde",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "資産流出問題のLedger、ビットコイン担保の借入機能を導入──Morphoを活用",
-        "url": "https://news.yahoo.co.jp/articles/300e38c9e3ad1d73dcb0dbabbc8c02348ddf424f",
+        "title": "ファイアブロックス、Visaによる約25億ドルの買収交渉報道を否定",
+        "url": "https://news.yahoo.co.jp/articles/18dd902b682e16c856a415e0f72ffa612e72e3eb",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "マイクロソフトなど16社、OKX・ICEのトークン化株式取引計画に異議",
-        "url": "https://news.yahoo.co.jp/articles/cc76e62c1ae7196b019cfde33183bc60ac95a97a",
+        "title": "a16z Crypto、「a16z Frontier」に改称。AIなどへ投資対象を拡大",
+        "url": "https://news.yahoo.co.jp/articles/9c988ec4a563e0cd2c9c96a4e4bd9cd5e738ba86",
         "source": "Yahoo",
         "date": ""
       }
@@ -19064,6 +19079,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "山里亮太 神奈川県警“古い運転免許証”流用疑惑に「これがあったおかげで",
+        "url": "https://news.yahoo.co.jp/articles/d7801c8b4ac1666aa7ddbc085a644a36e3922c88",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "警察が更新時に回収した旧免許証の情報を捜査に流用か",
+        "url": "https://news.yahoo.co.jp/expert/articles/02130984e903222f17d7f908248c70e9e28c9a81",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "相次ぐ個人情報漏えい、神奈川県警が30年前から失効免許証を不正流用［新聞ウォッチ］",
         "url": "https://news.yahoo.co.jp/articles/0521b610fa11836f76220151a0dc1ca09a80ce2a",
         "source": "Yahoo",
@@ -19084,24 +19111,24 @@
       {
         "title": "4:32神奈川県警“古い免許証”流用か 廃棄のはずが過激派などの個人情報目的で",
         "url": "https://news.yahoo.co.jp/articles/7fae50cc2d1d92891a662698b6554dd0b3e525d3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "習近平氏風刺の台湾人コメディアン、車に衝突され負傷 中国関与の越境弾圧疑い＝地検",
-        "url": "https://news.yahoo.co.jp/articles/51600d070e111ae5ea771661f86ca145a3bb46f3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "相次ぐサイバー攻撃でインフラ事業者と緊急会議「対策徹底を」警視庁",
-        "url": "https://news.yahoo.co.jp/articles/10ac037d90bdd801bb2b53b8f5e164eb2f9c28f2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "山里亮太 神奈川県警“古い運転免許証”流用疑惑に「これがあったおかげで",
+        "url": "https://news.yahoo.co.jp/articles/d7801c8b4ac1666aa7ddbc085a644a36e3922c88",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "警察が更新時に回収した旧免許証の情報を捜査に流用か",
+        "url": "https://news.yahoo.co.jp/expert/articles/02130984e903222f17d7f908248c70e9e28c9a81",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "相次ぐ個人情報漏えい、神奈川県警が30年前から失効免許証を不正流用［新聞ウォッチ］",
         "url": "https://news.yahoo.co.jp/articles/0521b610fa11836f76220151a0dc1ca09a80ce2a",
         "source": "Yahoo",
@@ -19122,24 +19149,24 @@
       {
         "title": "4:32神奈川県警“古い免許証”流用か 廃棄のはずが過激派などの個人情報目的で",
         "url": "https://news.yahoo.co.jp/articles/7fae50cc2d1d92891a662698b6554dd0b3e525d3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "習近平氏風刺の台湾人コメディアン、車に衝突され負傷 中国関与の越境弾圧疑い＝地検",
-        "url": "https://news.yahoo.co.jp/articles/51600d070e111ae5ea771661f86ca145a3bb46f3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "相次ぐサイバー攻撃でインフラ事業者と緊急会議「対策徹底を」警視庁",
-        "url": "https://news.yahoo.co.jp/articles/10ac037d90bdd801bb2b53b8f5e164eb2f9c28f2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "山里亮太 神奈川県警“古い運転免許証”流用疑惑に「これがあったおかげで",
+        "url": "https://news.yahoo.co.jp/articles/d7801c8b4ac1666aa7ddbc085a644a36e3922c88",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "警察が更新時に回収した旧免許証の情報を捜査に流用か",
+        "url": "https://news.yahoo.co.jp/expert/articles/02130984e903222f17d7f908248c70e9e28c9a81",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "相次ぐ個人情報漏えい、神奈川県警が30年前から失効免許証を不正流用［新聞ウォッチ］",
         "url": "https://news.yahoo.co.jp/articles/0521b610fa11836f76220151a0dc1ca09a80ce2a",
         "source": "Yahoo",
@@ -19160,18 +19187,6 @@
       {
         "title": "4:32神奈川県警“古い免許証”流用か 廃棄のはずが過激派などの個人情報目的で",
         "url": "https://news.yahoo.co.jp/articles/7fae50cc2d1d92891a662698b6554dd0b3e525d3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "習近平氏風刺の台湾人コメディアン、車に衝突され負傷 中国関与の越境弾圧疑い＝地検",
-        "url": "https://news.yahoo.co.jp/articles/51600d070e111ae5ea771661f86ca145a3bb46f3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "相次ぐサイバー攻撃でインフラ事業者と緊急会議「対策徹底を」警視庁",
-        "url": "https://news.yahoo.co.jp/articles/10ac037d90bdd801bb2b53b8f5e164eb2f9c28f2",
         "source": "Yahoo",
         "date": ""
       }
