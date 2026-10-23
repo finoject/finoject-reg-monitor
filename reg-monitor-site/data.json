@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:31:22.261Z",
+  "generatedAt": "2026-10-23T05:16:52.707Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,36 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]政府の「資産運用立国」を支えるJPXグループの取組み",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20261023-01.html",
+      "date": "2026-10-23",
+      "detectedAt": "2026-10-23T05:16:52.707Z",
+      "enriched": "2026-10-23T05:16:58.567Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPXグループは現物株式売買システム「arrowhead4.0」の1日当たり想定注文処理件数を8.3億件から15億件に拡張する（2026年11月30日予定）ため、市場参加者は取引増加への対応を準備すべき。",
+        "JPXは2027年3月から現物取引のアクセス料を引き下げ、2027年1月から12月は個人向け株価端末料を減額するインセンティブ施策を実施し、個人投資家の市場参加を促進する。",
+        "JPXグループはセキュリティ・レジリエンス、BCP強化、企業価値向上支援、資産形成教育を通じ市場の信頼と「貯蓄から投資」への転換を支援する方針を示した。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]個人投資家層の拡大に向けた相場情報プロモーション・プログラムの実施について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20261023-02.html",
+      "date": "2026-10-23",
+      "detectedAt": "2026-10-23T05:16:52.707Z",
+      "enriched": "2026-10-23T05:16:58.567Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所は2027年1月から12月の1年間、現物市場の個人向けリアルタイム個別端末料を10％減額する相場情報プロモーション・プログラムを実施する。",
+        "証券会社・情報ベンダーは当該減額措置を活用して個人投資家向けサービスの充実を進め、顧客への相場情報提供の一層の利便性向上を検討する必要がある。",
+        "本施策は政府の「成長投資を促進するための金融戦略」に対応した個人投資家層拡大・市場活性化の施策として、2027年1月に適用開始される東証の料金引き下げである。"
       ],
       "aiSumV": 3
     },
@@ -18319,6 +18349,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "スウェーデン中銀、ＣＢＤＣ導入議論再開呼びかけ 通貨競争力懸念で",
+        "url": "https://news.yahoo.co.jp/articles/288066a1fd35f62c180370124d46fd9925e818ca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "全米初の個人向けトークン化預金「SoFi Earn」提供開始──年利4.4％",
         "url": "https://news.yahoo.co.jp/articles/a790e5387fcb2339be641b3bf4dced9890d18ef5",
         "source": "Yahoo",
@@ -18345,18 +18381,18 @@
       {
         "title": "フランス当局、DeFiアクセス規制などを明記したEUの暗号資産規制「MiCA」の改正案を公表",
         "url": "https://news.yahoo.co.jp/articles/90d8cb3af37e6a988079a227c346d1f6f1d5082a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米銀行団体、OCCのステーブルコイン最終規則に懸念。預金流出と融資減少を警戒",
-        "url": "https://news.yahoo.co.jp/articles/43b65a23cb3432872a0915246e041482895517c2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "スウェーデン中銀、ＣＢＤＣ導入議論再開呼びかけ 通貨競争力懸念で",
+        "url": "https://news.yahoo.co.jp/articles/288066a1fd35f62c180370124d46fd9925e818ca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "全米初の個人向けトークン化預金「SoFi Earn」提供開始──年利4.4％",
         "url": "https://news.yahoo.co.jp/articles/a790e5387fcb2339be641b3bf4dced9890d18ef5",
         "source": "Yahoo",
@@ -18383,12 +18419,6 @@
       {
         "title": "フランス当局、DeFiアクセス規制などを明記したEUの暗号資産規制「MiCA」の改正案を公表",
         "url": "https://news.yahoo.co.jp/articles/90d8cb3af37e6a988079a227c346d1f6f1d5082a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米銀行団体、OCCのステーブルコイン最終規則に懸念。預金流出と融資減少を警戒",
-        "url": "https://news.yahoo.co.jp/articles/43b65a23cb3432872a0915246e041482895517c2",
         "source": "Yahoo",
         "date": ""
       }
@@ -19109,6 +19139,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "ひろゆき氏、失効免許証の捜査利用に「なんで問題なのかわからない」",
+        "url": "https://news.yahoo.co.jp/articles/4c8605f626686762a0cfebc6a31a5607b1181db7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:43神奈川県警が失効した免許証を回収し個人情報収集 30年前から複数の警察署で 警察庁は、右翼団体や左翼団体のメンバーなどの顔写真を収集する目的があったとみていて、個人情報保護法に抵触する可能性が高いとしています。 複数のベテラン捜査員 「少なく",
         "url": "https://news.yahoo.co.jp/articles/ee7917ebe2a489cb4c4bf9d4c724e6cd07e68c1a",
         "source": "Yahoo",
@@ -19135,18 +19171,18 @@
       {
         "title": "「30年前から複数の警察署で」警察が“失効免許証”を不正利用",
         "url": "https://news.yahoo.co.jp/articles/d1161e0028759337a3622959c36e736149477900",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警の失効免許証流用、３０年来の慣行か 個人情報保護法など抵触の可能性 警察庁が全国一斉調査へ",
-        "url": "https://news.yahoo.co.jp/articles/6ecd0cbba05744cc2e743db5acff945a7ddb9fb8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "ひろゆき氏、失効免許証の捜査利用に「なんで問題なのかわからない」",
+        "url": "https://news.yahoo.co.jp/articles/4c8605f626686762a0cfebc6a31a5607b1181db7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:43神奈川県警が失効した免許証を回収し個人情報収集 30年前から複数の警察署で 警察庁は、右翼団体や左翼団体のメンバーなどの顔写真を収集する目的があったとみていて、個人情報保護法に抵触する可能性が高いとしています。 複数のベテラン捜査員 「少なく",
         "url": "https://news.yahoo.co.jp/articles/ee7917ebe2a489cb4c4bf9d4c724e6cd07e68c1a",
         "source": "Yahoo",
@@ -19173,18 +19209,18 @@
       {
         "title": "「30年前から複数の警察署で」警察が“失効免許証”を不正利用",
         "url": "https://news.yahoo.co.jp/articles/d1161e0028759337a3622959c36e736149477900",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警の失効免許証流用、３０年来の慣行か 個人情報保護法など抵触の可能性 警察庁が全国一斉調査へ",
-        "url": "https://news.yahoo.co.jp/articles/6ecd0cbba05744cc2e743db5acff945a7ddb9fb8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "ひろゆき氏、失効免許証の捜査利用に「なんで問題なのかわからない」",
+        "url": "https://news.yahoo.co.jp/articles/4c8605f626686762a0cfebc6a31a5607b1181db7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:43神奈川県警が失効した免許証を回収し個人情報収集 30年前から複数の警察署で 警察庁は、右翼団体や左翼団体のメンバーなどの顔写真を収集する目的があったとみていて、個人情報保護法に抵触する可能性が高いとしています。 複数のベテラン捜査員 「少なく",
         "url": "https://news.yahoo.co.jp/articles/ee7917ebe2a489cb4c4bf9d4c724e6cd07e68c1a",
         "source": "Yahoo",
@@ -19211,12 +19247,6 @@
       {
         "title": "「30年前から複数の警察署で」警察が“失効免許証”を不正利用",
         "url": "https://news.yahoo.co.jp/articles/d1161e0028759337a3622959c36e736149477900",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警の失効免許証流用、３０年来の慣行か 個人情報保護法など抵触の可能性 警察庁が全国一斉調査へ",
-        "url": "https://news.yahoo.co.jp/articles/6ecd0cbba05744cc2e743db5acff945a7ddb9fb8",
         "source": "Yahoo",
         "date": ""
       }
