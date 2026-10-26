@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T06:13:15.021Z",
+  "generatedAt": "2026-10-26T07:44:16.414Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,69 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]プライム市場からスタンダード市場への変更：大幸薬品（株）",
+      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
+      "date": "2026-10-26",
+      "detectedAt": "2026-10-26T07:44:16.414Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
+        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
+        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-26T07:44:26.286Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（スタンダード市場）：ジャパンホームシールド（株）",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-10-26",
+      "detectedAt": "2026-10-26T07:44:16.414Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-26T07:44:26.286Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/j-ships/index.html",
+      "date": "2026-10-26",
+      "detectedAt": "2026-10-26T07:44:16.414Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "日本証券業協会がJ-Ships（特定投資家向け銘柄制度）の統計情報を月次・年次で公表する。取扱協会員から報告を受けた当月中の取引状況を有価証券種類ごとに集計し、価格・数量・金額を所定単位で表示する。",
+        "取扱協会員はJ-Shipsを利用した取引の取扱状況報告を協会に提出する義務を負う。統計データは協会ウェブサイトで一般公開される。",
+        "月次統計は毎月末現在を翌月25日（休日時は翌営業日）に、年次統計は毎年末現在を翌年1月25日（休日時は翌営業日）に公表される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-10-26T07:44:26.286Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261026-01.html",
+      "date": "2026-10-26",
+      "detectedAt": "2026-10-26T07:44:16.414Z",
+      "enriched": "2026-10-26T07:44:26.286Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サークレイス（株）（コード5029）について、10月27日の取引から制限値幅の上限を通常の1,500円から1,200円に拡大する。基準値段1,400円、ストップ高2,600円、ストップ安1,100円。",
+        "取引参加者・投資家は、同銘柄の成行注文で思わぬ値段での約定の可能性を認識し、指値注文の活用等で対応すること。",
+        "拡大後の制限値幅は、ストップ高（安）以外の値段で売買成立した翌営業日から通常に戻る。東証自主規制ルール（制限値幅変動基準）に基づく措置。"
       ],
       "aiSumV": 3
     },
@@ -516,22 +579,6 @@
         "2026年10月22日付けの本通知により緊急メンテナンスが開始され、完了時期は別途案内される予定。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]グロース市場からプライム市場への変更：（株）ＧＡ ｔｅｃｈｎｏｌｏｇｉｅｓ",
-      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
-      "date": "2026-10-21",
-      "detectedAt": "2026-10-21T08:21:18.596Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
-        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
-        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-21T08:21:25.068Z"
     },
     {
       "agency": "日本証券業協会",
@@ -1083,22 +1130,6 @@
         "2026年10月16日時点で緊急メンテナンス実施中であり、システム安定稼働のための措置である。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（グロース市場）：（株）TOKIUM",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-10-16",
-      "detectedAt": "2026-10-16T07:29:59.207Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-16T07:30:04.867Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -3833,22 +3864,6 @@
         "算出方法は東証レバレッジ指数・東証インバース指数の算出要領に準拠し、当日指数値＝前日指数値×(1+N倍×原指数の前日比変動率)の計算式で原指数の前日比変動率に対して一定の倍数を乗じた変動率となるように設計。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/j-ships/index.html",
-      "date": "2026-09-25",
-      "detectedAt": "2026-09-25T06:34:04.087Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "日本証券業協会がJ-Ships（特定投資家向け銘柄制度）の統計情報を月次・年次で公表する。取扱協会員から報告を受けた当月中の取引状況を有価証券種類ごとに集計し、価格・数量・金額を所定単位で表示する。",
-        "取扱協会員はJ-Shipsを利用した取引の取扱状況報告を協会に提出する義務を負う。統計データは協会ウェブサイトで一般公開される。",
-        "月次統計は毎月末現在を翌月25日（休日時は翌営業日）に、年次統計は毎年末現在を翌年1月25日（休日時は翌営業日）に公表される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-09-25T06:34:09.791Z"
     },
     {
       "agency": "日本証券業協会",
@@ -18484,6 +18499,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "Arfとリップルが提携、XRPLでRLUSD活用の国際決済向け流動性を提供へ",
+        "url": "https://news.yahoo.co.jp/articles/c782f94cbb616449185e1f12c703837c2c33cd46",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ソーファイ、個人向けトークン化預金「SOFIE」提供開始。年利回り4.40％",
+        "url": "https://news.yahoo.co.jp/articles/67b5411d3b86274a849369184f3e6d7277ac88f1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "シンガポール・マレーシア・タイの3中銀、デジタルマネーの国際決済で連携強化。「BLOOM」にリップルやVisaら参加",
+        "url": "https://news.yahoo.co.jp/articles/2ced892b30a7c428ba50fab3e3807ea8d1969459",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "香港レドットペイ、日本の暗号資産取引所BTCBOX買収",
         "url": "https://news.yahoo.co.jp/articles/bc2bf969546c79bafb251b45f3213baa88f38053",
         "source": "Yahoo",
@@ -18498,30 +18531,30 @@
       {
         "title": "ECB理事、デジタルユーロはEUの主権を支えると強調",
         "url": "https://news.yahoo.co.jp/articles/eaf9755bd11ca17d8be0d272ea08bf9882158512",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シンガポール・マレーシア・タイ、デジタルマネーの国際決済で連携",
-        "url": "https://news.yahoo.co.jp/articles/b0f106298fcf07c77015d58a6061b77bf2c923b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「暗号資産は制裁回避の手段にならない」──イスラエル中銀、ネタニヤフ首相の構想を否定＝報道",
-        "url": "https://news.yahoo.co.jp/articles/a429ff3902a077b3a36927dd6d8b9265df826919",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中間選挙まであと9日。民主党リードの世論調査、それでも結果が読めないアメリカの現実【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/761566d7b70c81f31b6d6e4b0eb37d449558b920",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Arfとリップルが提携、XRPLでRLUSD活用の国際決済向け流動性を提供へ",
+        "url": "https://news.yahoo.co.jp/articles/c782f94cbb616449185e1f12c703837c2c33cd46",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ソーファイ、個人向けトークン化預金「SOFIE」提供開始。年利回り4.40％",
+        "url": "https://news.yahoo.co.jp/articles/67b5411d3b86274a849369184f3e6d7277ac88f1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "シンガポール・マレーシア・タイの3中銀、デジタルマネーの国際決済で連携強化。「BLOOM」にリップルやVisaら参加",
+        "url": "https://news.yahoo.co.jp/articles/2ced892b30a7c428ba50fab3e3807ea8d1969459",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "香港レドットペイ、日本の暗号資産取引所BTCBOX買収",
         "url": "https://news.yahoo.co.jp/articles/bc2bf969546c79bafb251b45f3213baa88f38053",
         "source": "Yahoo",
@@ -18536,24 +18569,6 @@
       {
         "title": "ECB理事、デジタルユーロはEUの主権を支えると強調",
         "url": "https://news.yahoo.co.jp/articles/eaf9755bd11ca17d8be0d272ea08bf9882158512",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シンガポール・マレーシア・タイ、デジタルマネーの国際決済で連携",
-        "url": "https://news.yahoo.co.jp/articles/b0f106298fcf07c77015d58a6061b77bf2c923b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「暗号資産は制裁回避の手段にならない」──イスラエル中銀、ネタニヤフ首相の構想を否定＝報道",
-        "url": "https://news.yahoo.co.jp/articles/a429ff3902a077b3a36927dd6d8b9265df826919",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中間選挙まであと9日。民主党リードの世論調査、それでも結果が読めないアメリカの現実【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/761566d7b70c81f31b6d6e4b0eb37d449558b920",
         "source": "Yahoo",
         "date": ""
       }
@@ -18750,6 +18765,12 @@
     ],
     "358AC1000000032": [
       {
+        "title": "SNSの「お金を貸します」、個人でも繰り返し貸せば貸金業。給料の買取りも実態は貸付け",
+        "url": "https://news.yahoo.co.jp/articles/494fb3c5651000e619568a836b894f5e9b8f6930",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1,000万件超の漏洩が相次ぐ今、CICの開示手数料500会陰を企業負担にすべき理由",
         "url": "https://news.yahoo.co.jp/expert/articles/381725a52a39e3b03ee116041f1ae4e6c11f5a94",
         "source": "Yahoo",
@@ -18776,18 +18797,18 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国で年2400％の違法貸金組織摘発",
-        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
+        "title": "SNSの「お金を貸します」、個人でも繰り返し貸せば貸金業。給料の買取りも実態は貸付け",
+        "url": "https://news.yahoo.co.jp/articles/494fb3c5651000e619568a836b894f5e9b8f6930",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1,000万件超の漏洩が相次ぐ今、CICの開示手数料500会陰を企業負担にすべき理由",
         "url": "https://news.yahoo.co.jp/expert/articles/381725a52a39e3b03ee116041f1ae4e6c11f5a94",
         "source": "Yahoo",
@@ -18814,18 +18835,18 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国で年2400％の違法貸金組織摘発",
-        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
+        "title": "SNSの「お金を貸します」、個人でも繰り返し貸せば貸金業。給料の買取りも実態は貸付け",
+        "url": "https://news.yahoo.co.jp/articles/494fb3c5651000e619568a836b894f5e9b8f6930",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1,000万件超の漏洩が相次ぐ今、CICの開示手数料500会陰を企業負担にすべき理由",
         "url": "https://news.yahoo.co.jp/expert/articles/381725a52a39e3b03ee116041f1ae4e6c11f5a94",
         "source": "Yahoo",
@@ -18852,12 +18873,6 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国で年2400％の違法貸金組織摘発",
-        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
@@ -19274,6 +19289,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「夜も眠れない」「勝手にローンを組まれた」タイムズカー情報漏えい 10万人超が集団提訴へ 見舞金3000円に怒り 「退会後7年保持」の責任追及",
+        "url": "https://news.yahoo.co.jp/articles/6866804ef4d1b63e67bc96020ad0da32fee7b5be",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "操作ログとAIで内部犯行の意図を暴く--「Tanium Atlas」と「iScope」が連携",
         "url": "https://news.yahoo.co.jp/articles/1abb35852e0ee0d325b2897344f40c77e43c2d93",
         "source": "Yahoo",
@@ -19300,18 +19321,18 @@
       {
         "title": "ひろゆき氏、失効免許証の捜査利用に「なんで問題なのかわからない」",
         "url": "https://news.yahoo.co.jp/articles/4c8605f626686762a0cfebc6a31a5607b1181db7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:43神奈川県警が失効した免許証を回収し個人情報収集 30年前から複数の警察署で 警察庁は、右翼団体や左翼団体のメンバーなどの顔写真を収集する目的があったとみていて、個人情報保護法に抵触する可能性が高いとしています。 複数のベテラン捜査員 「少なく",
-        "url": "https://news.yahoo.co.jp/articles/ee7917ebe2a489cb4c4bf9d4c724e6cd07e68c1a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「夜も眠れない」「勝手にローンを組まれた」タイムズカー情報漏えい 10万人超が集団提訴へ 見舞金3000円に怒り 「退会後7年保持」の責任追及",
+        "url": "https://news.yahoo.co.jp/articles/6866804ef4d1b63e67bc96020ad0da32fee7b5be",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "操作ログとAIで内部犯行の意図を暴く--「Tanium Atlas」と「iScope」が連携",
         "url": "https://news.yahoo.co.jp/articles/1abb35852e0ee0d325b2897344f40c77e43c2d93",
         "source": "Yahoo",
@@ -19338,18 +19359,18 @@
       {
         "title": "ひろゆき氏、失効免許証の捜査利用に「なんで問題なのかわからない」",
         "url": "https://news.yahoo.co.jp/articles/4c8605f626686762a0cfebc6a31a5607b1181db7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:43神奈川県警が失効した免許証を回収し個人情報収集 30年前から複数の警察署で 警察庁は、右翼団体や左翼団体のメンバーなどの顔写真を収集する目的があったとみていて、個人情報保護法に抵触する可能性が高いとしています。 複数のベテラン捜査員 「少なく",
-        "url": "https://news.yahoo.co.jp/articles/ee7917ebe2a489cb4c4bf9d4c724e6cd07e68c1a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「夜も眠れない」「勝手にローンを組まれた」タイムズカー情報漏えい 10万人超が集団提訴へ 見舞金3000円に怒り 「退会後7年保持」の責任追及",
+        "url": "https://news.yahoo.co.jp/articles/6866804ef4d1b63e67bc96020ad0da32fee7b5be",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "操作ログとAIで内部犯行の意図を暴く--「Tanium Atlas」と「iScope」が連携",
         "url": "https://news.yahoo.co.jp/articles/1abb35852e0ee0d325b2897344f40c77e43c2d93",
         "source": "Yahoo",
@@ -19376,12 +19397,6 @@
       {
         "title": "ひろゆき氏、失効免許証の捜査利用に「なんで問題なのかわからない」",
         "url": "https://news.yahoo.co.jp/articles/4c8605f626686762a0cfebc6a31a5607b1181db7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:43神奈川県警が失効した免許証を回収し個人情報収集 30年前から複数の警察署で 警察庁は、右翼団体や左翼団体のメンバーなどの顔写真を収集する目的があったとみていて、個人情報保護法に抵触する可能性が高いとしています。 複数のベテラン捜査員 「少なく",
-        "url": "https://news.yahoo.co.jp/articles/ee7917ebe2a489cb4c4bf9d4c724e6cd07e68c1a",
         "source": "Yahoo",
         "date": ""
       }
