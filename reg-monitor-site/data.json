@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:42:20.731Z",
+  "generatedAt": "2026-10-26T06:13:15.021Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,37 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "ムラキ （7477）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-10-26",
+      "detectedAt": "2026-10-26T06:13:15.021Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-26T06:13:19.692Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX,TOCOM]令和8年度第3回東京都グリーン水素トライアル取引（京浜島グリーン水素）について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20261026-01.html",
+      "date": "2026-10-26",
+      "detectedAt": "2026-10-26T06:13:15.021Z",
+      "enriched": "2026-10-26T06:13:19.692Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京商品取引所は2025年10月稼働の京浜島グリーン水素製造所製のグリーン水素を対象に令和8年度第3回トライアル取引を実施し、2026年10月26日より利用希望者の登録申込受付を開始した。",
+        "グリーン水素の利用を希望する事業者は、JPXウェブサイト内の特設サイトで制度詳細を確認した上で登録申込を行う必要がある。",
+        "本事業は東京都グリーン水素トライアル取引事業の一環であり、東京商品取引所が2024年度から東京都と共同で制度設計・実施運営を担当している。"
       ],
       "aiSumV": 3
     },
@@ -92,22 +123,6 @@
         "2026年年次報告書は金融庁公表済み、ハンドブックはADB発表予定であり、参加金融機関及び事業会社はこれら成果物を基にASEAN域内の移行計画実務化に対応することになる。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "滋賀銀行（8366）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-10-23",
-      "detectedAt": "2026-10-23T09:34:14.668Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-23T09:34:21.643Z"
     },
     {
       "agency": "金融庁",
@@ -18013,6 +18028,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "「元本は保証する」と誘われた投資信託。損失の穴埋めの約束は業者に禁じられている",
+        "url": "https://news.yahoo.co.jp/articles/08acd344658126478a8703841e04268ce4d7d8a5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヘッジファンドへの出資を誘われたら。出資できる個人は限られ、届出は金融庁で確かめる",
         "url": "https://news.yahoo.co.jp/articles/6bd1b630013b3fa82b56f201c543f26e51398490",
         "source": "Yahoo",
@@ -18039,18 +18060,18 @@
       {
         "title": "投資の申込みで年収や投資経験を聞かれるのはなぜ。答えが勧誘の物差しになる",
         "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
-        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "「元本は保証する」と誘われた投資信託。損失の穴埋めの約束は業者に禁じられている",
+        "url": "https://news.yahoo.co.jp/articles/08acd344658126478a8703841e04268ce4d7d8a5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヘッジファンドへの出資を誘われたら。出資できる個人は限られ、届出は金融庁で確かめる",
         "url": "https://news.yahoo.co.jp/articles/6bd1b630013b3fa82b56f201c543f26e51398490",
         "source": "Yahoo",
@@ -18077,18 +18098,18 @@
       {
         "title": "投資の申込みで年収や投資経験を聞かれるのはなぜ。答えが勧誘の物差しになる",
         "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
-        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "「元本は保証する」と誘われた投資信託。損失の穴埋めの約束は業者に禁じられている",
+        "url": "https://news.yahoo.co.jp/articles/08acd344658126478a8703841e04268ce4d7d8a5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヘッジファンドへの出資を誘われたら。出資できる個人は限られ、届出は金融庁で確かめる",
         "url": "https://news.yahoo.co.jp/articles/6bd1b630013b3fa82b56f201c543f26e51398490",
         "source": "Yahoo",
@@ -18115,18 +18136,18 @@
       {
         "title": "投資の申込みで年収や投資経験を聞かれるのはなぜ。答えが勧誘の物差しになる",
         "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
-        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "「元本は保証する」と誘われた投資信託。損失の穴埋めの約束は業者に禁じられている",
+        "url": "https://news.yahoo.co.jp/articles/08acd344658126478a8703841e04268ce4d7d8a5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヘッジファンドへの出資を誘われたら。出資できる個人は限られ、届出は金融庁で確かめる",
         "url": "https://news.yahoo.co.jp/articles/6bd1b630013b3fa82b56f201c543f26e51398490",
         "source": "Yahoo",
@@ -18155,15 +18176,15 @@
         "url": "https://news.yahoo.co.jp/articles/d1aed150076dd8fdf2801375fcb4cd11975f6fdc",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "日本がオンチェーン金融で「デジタル敗戦」を繰り返さないために｜渡辺創太",
-        "url": "https://news.yahoo.co.jp/articles/2c14bc8c9bdf24d1b6d4850da0ce640821b97b19",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "香港レドットペイ、日本の暗号資産取引所BTCBOX買収",
+        "url": "https://news.yahoo.co.jp/articles/bc2bf969546c79bafb251b45f3213baa88f38053",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "1:28登録を受けずに暗号資産取引 宮崎県警が3人を再逮捕",
         "url": "https://news.yahoo.co.jp/articles/b4c8f99159465f81ee31c69fe26330b4f3c00eb1",
@@ -18191,18 +18212,18 @@
       {
         "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
         "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
-        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "香港レドットペイ、日本の暗号資産取引所BTCBOX買収",
+        "url": "https://news.yahoo.co.jp/articles/bc2bf969546c79bafb251b45f3213baa88f38053",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:28登録を受けずに暗号資産取引 宮崎県警が3人を再逮捕",
         "url": "https://news.yahoo.co.jp/articles/b4c8f99159465f81ee31c69fe26330b4f3c00eb1",
         "source": "Yahoo",
@@ -18229,12 +18250,6 @@
       {
         "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
         "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
-        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
         "source": "Yahoo",
         "date": ""
       }
@@ -18469,6 +18484,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "香港レドットペイ、日本の暗号資産取引所BTCBOX買収",
+        "url": "https://news.yahoo.co.jp/articles/bc2bf969546c79bafb251b45f3213baa88f38053",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」の運用開始──PayMe利用者330万人に提供",
         "url": "https://news.yahoo.co.jp/articles/8f5567db96052a17667a8c3daf8d229c1b4f7bf3",
         "source": "Yahoo",
@@ -18495,18 +18516,18 @@
       {
         "title": "米中間選挙まであと9日。民主党リードの世論調査、それでも結果が読めないアメリカの現実【サンフランシスコレポート】",
         "url": "https://news.yahoo.co.jp/articles/761566d7b70c81f31b6d6e4b0eb37d449558b920",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガンの預金がイーサリアムへ──オンチェーン金融で本当に変わるのは「口座」なのか【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/31800ea35f0d0726d0d4b300ccf1657d28a3d594",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "香港レドットペイ、日本の暗号資産取引所BTCBOX買収",
+        "url": "https://news.yahoo.co.jp/articles/bc2bf969546c79bafb251b45f3213baa88f38053",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」の運用開始──PayMe利用者330万人に提供",
         "url": "https://news.yahoo.co.jp/articles/8f5567db96052a17667a8c3daf8d229c1b4f7bf3",
         "source": "Yahoo",
@@ -18533,12 +18554,6 @@
       {
         "title": "米中間選挙まであと9日。民主党リードの世論調査、それでも結果が読めないアメリカの現実【サンフランシスコレポート】",
         "url": "https://news.yahoo.co.jp/articles/761566d7b70c81f31b6d6e4b0eb37d449558b920",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガンの預金がイーサリアムへ──オンチェーン金融で本当に変わるのは「口座」なのか【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/31800ea35f0d0726d0d4b300ccf1657d28a3d594",
         "source": "Yahoo",
         "date": ""
       }
@@ -18735,6 +18750,12 @@
     ],
     "358AC1000000032": [
       {
+        "title": "1,000万件超の漏洩が相次ぐ今、CICの開示手数料500会陰を企業負担にすべき理由",
+        "url": "https://news.yahoo.co.jp/expert/articles/381725a52a39e3b03ee116041f1ae4e6c11f5a94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "『ドラえもん』ひみつ道具「フエール銀行」に1万円を預けたら1日でいくら？ 高校数学から学ぶ「お金が増える・減る仕組み」",
         "url": "https://news.yahoo.co.jp/articles/e075646910941cbd28318f17cd9e98ab6db21464",
         "source": "Yahoo",
@@ -18761,18 +18782,18 @@
       {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "外国銀行の協調融資を可能に 海外マネー活用、無支店容認",
-        "url": "https://news.yahoo.co.jp/articles/3ff8ddd6652bfd2376a90f078471d89cc88b49f9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
+        "title": "1,000万件超の漏洩が相次ぐ今、CICの開示手数料500会陰を企業負担にすべき理由",
+        "url": "https://news.yahoo.co.jp/expert/articles/381725a52a39e3b03ee116041f1ae4e6c11f5a94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "『ドラえもん』ひみつ道具「フエール銀行」に1万円を預けたら1日でいくら？ 高校数学から学ぶ「お金が増える・減る仕組み」",
         "url": "https://news.yahoo.co.jp/articles/e075646910941cbd28318f17cd9e98ab6db21464",
         "source": "Yahoo",
@@ -18799,18 +18820,18 @@
       {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "外国銀行の協調融資を可能に 海外マネー活用、無支店容認",
-        "url": "https://news.yahoo.co.jp/articles/3ff8ddd6652bfd2376a90f078471d89cc88b49f9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
+        "title": "1,000万件超の漏洩が相次ぐ今、CICの開示手数料500会陰を企業負担にすべき理由",
+        "url": "https://news.yahoo.co.jp/expert/articles/381725a52a39e3b03ee116041f1ae4e6c11f5a94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "『ドラえもん』ひみつ道具「フエール銀行」に1万円を預けたら1日でいくら？ 高校数学から学ぶ「お金が増える・減る仕組み」",
         "url": "https://news.yahoo.co.jp/articles/e075646910941cbd28318f17cd9e98ab6db21464",
         "source": "Yahoo",
@@ -18837,12 +18858,6 @@
       {
         "title": "韓国で年2400％の違法貸金組織摘発",
         "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "外国銀行の協調融資を可能に 海外マネー活用、無支店容認",
-        "url": "https://news.yahoo.co.jp/articles/3ff8ddd6652bfd2376a90f078471d89cc88b49f9",
         "source": "Yahoo",
         "date": ""
       }
