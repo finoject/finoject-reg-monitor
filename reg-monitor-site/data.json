@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T02:25:14.106Z",
+  "generatedAt": "2026-10-27T03:57:08.197Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,51 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]【補足資料】2026年度 第２四半期（中間期）決算の概要",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000002hjs8-att/J_EM_Q2FY2026.pdf",
+      "date": "2026-10-27",
+      "detectedAt": "2026-10-27T03:57:08.197Z",
+      "enriched": "2026-10-27T03:57:12.684Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年度第2四半期（中間期）の営業収益は前年同期比46.7％増の131,002百万円となり、日本株市場の活況に伴う株券等取引関連収益18,772百万円増と金利スワップ取引担保管理収益9,760百万円増が主要因。",
+        "営業費用は同24.0％増の84,668百万円で、賃上げ等による人件費2,276百万円増、システム維持・運営費1,092百万円増、金利スワップ取引担保管理費用等6,466百万円増が発生し、日本取引所グループは費用管理と投資バランスを調整。",
+        "営業利益は前年同期比65.1％増の51,279百万円、当期利益（親会社所有者帰属分）は同65.6％増の57,210百万円となり、市場活況と担保管理事業の拡大が収益性向上を牽引。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]株式分割及び株式分割に伴う定款の一部変更に関するお知らせ",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0020/t13vrt0000029o12-att/t13vrt0000029o3m.pdf",
+      "date": "2026-10-27",
+      "detectedAt": "2026-10-27T03:57:08.197Z",
+      "enriched": "2026-10-27T03:57:12.684Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本取引所グループは2027年3月31日を基準日として普通株式を1株につき2株の割合で分割し、発行済株式総数を1,022,298,636株から2,044,597,272株に増加させる。",
+        "株主は2027年3月31日の株主名簿に記載・記録されている所有株式が2027年4月1日に自動的に2倍になり、投資単位が引き下げられる。",
+        "定款第7条の発行可能株式総数が4億7千万株から8億株に変更され、2027年4月1日に効力発生する一方、2027年3月期末配当は株式分割前の株式数を基準に実施される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JSCC]日本証券クリアリング機構、Risk誌「Clearing House of the Year」を受賞",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20261027-02.html",
+      "date": "2026-10-27",
+      "detectedAt": "2026-10-27T03:57:08.197Z",
+      "enriched": "2026-10-27T03:57:12.684Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券クリアリング機構（JSCC）がRisk誌主催「Risk Asia Awards 2026」においてClearing House of the Yearを受賞した。",
+        "JSCCのデリバティブ取引及びリスク管理サービスが優れた実績を認められた受賞であり、同賞は2013年、2019年、2021年、2024年に続く5回目の受賞。",
+        "本受賞は2026年10月27日に公表され、JSCCウェブサイトに詳細情報が掲載されている。"
       ],
       "aiSumV": 3
     },
@@ -18389,12 +18434,6 @@
         "date": ""
       },
       {
-        "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
-        "url": "https://news.yahoo.co.jp/articles/97a9fd0c1ec30b0bb321edfe53ef3f036677b484",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "バイナンスUS、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索か＝報道",
         "url": "https://news.yahoo.co.jp/articles/9296c66619094b2cb893d3b0c184375effcb102c",
         "source": "Yahoo",
@@ -18409,6 +18448,12 @@
       {
         "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "シンガポール暗号資産市場、1年で1.5倍──日本と異なる成長構造＝Chainalysis",
+        "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
         "source": "Yahoo",
         "date": ""
       }
@@ -18427,12 +18472,6 @@
         "date": ""
       },
       {
-        "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
-        "url": "https://news.yahoo.co.jp/articles/97a9fd0c1ec30b0bb321edfe53ef3f036677b484",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "バイナンスUS、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索か＝報道",
         "url": "https://news.yahoo.co.jp/articles/9296c66619094b2cb893d3b0c184375effcb102c",
         "source": "Yahoo",
@@ -18449,15 +18488,15 @@
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
         "source": "Yahoo",
         "date": ""
+      },
+      {
+        "title": "シンガポール暗号資産市場、1年で1.5倍──日本と異なる成長構造＝Chainalysis",
+        "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
+        "source": "Yahoo",
+        "date": ""
       }
     ],
     "422M60000002003": [
-      {
-        "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
-        "url": "https://news.yahoo.co.jp/articles/97a9fd0c1ec30b0bb321edfe53ef3f036677b484",
-        "source": "Yahoo",
-        "date": ""
-      },
       {
         "title": "「1年前はモックアップだけ」JR東の新コード決済「teppay」、急ピッチ開発の舞台裏と実力",
         "url": "https://news.yahoo.co.jp/articles/a3e1a0d7b7b061998cb43220a3c828ea223f900d",
@@ -18485,18 +18524,18 @@
       {
         "title": "実家を片付けていたら、昔もらった未使用の「商品券」が何枚も出てきました。何十年も前のものでも、額面どおり使えるのでしょうか？",
         "url": "https://news.yahoo.co.jp/articles/ca24de298060f0a5df3340a94c93ed334d1ee3a8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
+        "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-05": [
       {
-        "title": "“PayPay追撃”ではなく「Suicaの価値向上」──新決済「teppay」の意義や狙いを聞いた",
-        "url": "https://news.yahoo.co.jp/articles/97a9fd0c1ec30b0bb321edfe53ef3f036677b484",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「1年前はモックアップだけ」JR東の新コード決済「teppay」、急ピッチ開発の舞台裏と実力",
         "url": "https://news.yahoo.co.jp/articles/a3e1a0d7b7b061998cb43220a3c828ea223f900d",
         "source": "Yahoo",
@@ -18525,9 +18564,33 @@
         "url": "https://news.yahoo.co.jp/articles/ca24de298060f0a5df3340a94c93ed334d1ee3a8",
         "source": "Yahoo",
         "date": ""
+      },
+      {
+        "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
+        "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
+        "source": "Yahoo",
+        "date": ""
       }
     ],
     "505M60000002048": [
+      {
+        "title": "リップル、米信託銀行の設立で最終承認──RLUSD準備金管理へ",
+        "url": "https://news.yahoo.co.jp/articles/aaba9a70726980fbb79c76a87177a9e2f2dce574",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JPモルガン、トークン化MMF「MONY」と「JLTXX」をソラナに展開",
+        "url": "https://news.yahoo.co.jp/articles/6761a3df80069cb4ae1aafcfa49ba21f731f05e1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、米OCCから信託銀行設立の最終承認。RLUSD準備資産管理やカストディへ",
+        "url": "https://news.yahoo.co.jp/articles/ca4fc785cc9d3419f4968217bd319ff0fc516508",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "トークン化MMFと「JPYSC」の連携検討、SBI・スターテイル・ブラックロックが基本合意",
         "url": "https://news.yahoo.co.jp/articles/5b1ac00886133c38652707ffd8e1935f6ccdfa40",
@@ -18543,30 +18606,30 @@
       {
         "title": "ファントム、米国でカルシの予測市場を提供開始。CFTCのノーアクション措置を活用",
         "url": "https://news.yahoo.co.jp/articles/4c6f3cbc81b325619267a7425be10fa9d74a70c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」提供開始。PayMeで送金・決済に対応",
-        "url": "https://news.yahoo.co.jp/articles/3f7a0d1a33a55f45d4a327014f49b4a6cd219aaa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "チェーンリンク、韓国LG CNSと戦略的提携。金融機関向けデジタル資産基盤を強化",
-        "url": "https://news.yahoo.co.jp/articles/a34e694ba0c4419709c236c7b481d19975a3db4e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Arfとリップルが提携、XRPLでRLUSD活用の国際決済向け流動性を提供へ",
-        "url": "https://news.yahoo.co.jp/articles/c782f94cbb616449185e1f12c703837c2c33cd46",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "リップル、米信託銀行の設立で最終承認──RLUSD準備金管理へ",
+        "url": "https://news.yahoo.co.jp/articles/aaba9a70726980fbb79c76a87177a9e2f2dce574",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "JPモルガン、トークン化MMF「MONY」と「JLTXX」をソラナに展開",
+        "url": "https://news.yahoo.co.jp/articles/6761a3df80069cb4ae1aafcfa49ba21f731f05e1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル、米OCCから信託銀行設立の最終承認。RLUSD準備資産管理やカストディへ",
+        "url": "https://news.yahoo.co.jp/articles/ca4fc785cc9d3419f4968217bd319ff0fc516508",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トークン化MMFと「JPYSC」の連携検討、SBI・スターテイル・ブラックロックが基本合意",
         "url": "https://news.yahoo.co.jp/articles/5b1ac00886133c38652707ffd8e1935f6ccdfa40",
         "source": "Yahoo",
@@ -18581,24 +18644,6 @@
       {
         "title": "ファントム、米国でカルシの予測市場を提供開始。CFTCのノーアクション措置を活用",
         "url": "https://news.yahoo.co.jp/articles/4c6f3cbc81b325619267a7425be10fa9d74a70c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」提供開始。PayMeで送金・決済に対応",
-        "url": "https://news.yahoo.co.jp/articles/3f7a0d1a33a55f45d4a327014f49b4a6cd219aaa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "チェーンリンク、韓国LG CNSと戦略的提携。金融機関向けデジタル資産基盤を強化",
-        "url": "https://news.yahoo.co.jp/articles/a34e694ba0c4419709c236c7b481d19975a3db4e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Arfとリップルが提携、XRPLでRLUSD活用の国際決済向け流動性を提供へ",
-        "url": "https://news.yahoo.co.jp/articles/c782f94cbb616449185e1f12c703837c2c33cd46",
         "source": "Yahoo",
         "date": ""
       }
