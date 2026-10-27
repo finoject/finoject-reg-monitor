@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:28:30.694Z",
+  "generatedAt": "2026-10-27T06:48:00.173Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,36 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]日経半導体株指数先物の上場について",
+      "url": "https://www.jpx.co.jp/news/2040/20261027-01.html",
+      "date": "2026-10-27",
+      "detectedAt": "2026-10-27T06:48:00.173Z",
+      "enriched": "2026-10-27T06:48:04.766Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "大阪取引所が日本経済新聞社が算出する日経半導体株指数を対象とする先物取引「日経半導体株指数先物」を新規上場する。",
+        "取引参加者および投資家は2026年10月27日からのパブリック・コメント期間に意見提出の機会がある。",
+        "取引開始日は2027年4月26日予定で、大阪取引所のデリバティブ市場において実施される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]「資本コストや株価を意識した経営」に関する４年目の現状と今後の取組みについて",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/1020/20261027-01.html",
+      "date": "2026-10-27",
+      "detectedAt": "2026-10-27T06:48:00.173Z",
+      "enriched": "2026-10-27T06:48:04.766Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所がプライム・スタンダード上場会社に2023年3月から要請している「資本コストや株価を意識した経営」について、プライム開示率94%、時価総額ベース97%カバーに到達し、開示済み企業の株価パフォーマンスが未開示企業を上回る傾向が見られている。",
+        "プライムの継続的にアップデートに取り組む企業ではPBR・ROEが改善する一方、スタンダードや規模の小さい企業では取組みの遅れやリソース面の課題が存在し、企業間で進捗に差が生じている状況。",
+        "東証は開示済み企業に対して投資家が評価する事例提供とセミナー開催、未開示企業に対してガイド・事例提供で対応を強化し、国内外投資家へ日本企業の取組み進捗を発信していく方針。"
       ],
       "aiSumV": 3
     },
@@ -18133,6 +18163,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
         "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
         "source": "Yahoo",
@@ -18159,18 +18195,18 @@
       {
         "title": "「ゴーンと私は対立関係にあったか」日産の元社長・西川廣人氏が振り返る“陰謀論”と“ゴーンの胸の内”",
         "url": "https://news.yahoo.co.jp/articles/bf3548863480bb1b93fa4ff10098b92ce90f76f6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "あのCMS、どんな企業が使ってる？全10種CMSの導入事例93社を紹介（国内編）",
-        "url": "https://news.yahoo.co.jp/articles/6062443955fafc2baec1494421e5441d43265e02",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
         "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
         "source": "Yahoo",
@@ -18197,18 +18233,18 @@
       {
         "title": "「ゴーンと私は対立関係にあったか」日産の元社長・西川廣人氏が振り返る“陰謀論”と“ゴーンの胸の内”",
         "url": "https://news.yahoo.co.jp/articles/bf3548863480bb1b93fa4ff10098b92ce90f76f6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "あのCMS、どんな企業が使ってる？全10種CMSの導入事例93社を紹介（国内編）",
-        "url": "https://news.yahoo.co.jp/articles/6062443955fafc2baec1494421e5441d43265e02",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
         "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
         "source": "Yahoo",
@@ -18235,18 +18271,18 @@
       {
         "title": "「ゴーンと私は対立関係にあったか」日産の元社長・西川廣人氏が振り返る“陰謀論”と“ゴーンの胸の内”",
         "url": "https://news.yahoo.co.jp/articles/bf3548863480bb1b93fa4ff10098b92ce90f76f6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "あのCMS、どんな企業が使ってる？全10種CMSの導入事例93社を紹介（国内編）",
-        "url": "https://news.yahoo.co.jp/articles/6062443955fafc2baec1494421e5441d43265e02",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
         "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
         "source": "Yahoo",
@@ -18273,12 +18309,6 @@
       {
         "title": "「ゴーンと私は対立関係にあったか」日産の元社長・西川廣人氏が振り返る“陰謀論”と“ゴーンの胸の内”",
         "url": "https://news.yahoo.co.jp/articles/bf3548863480bb1b93fa4ff10098b92ce90f76f6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "あのCMS、どんな企業が使ってる？全10種CMSの導入事例93社を紹介（国内編）",
-        "url": "https://news.yahoo.co.jp/articles/6062443955fafc2baec1494421e5441d43265e02",
         "source": "Yahoo",
         "date": ""
       }
@@ -18361,6 +18391,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "カナダ、ステーブルコイン規則案を公表。2027年秋の施行を目指す",
+        "url": "https://news.yahoo.co.jp/articles/1171afab002b633c11f4500b7559832ed00eeb66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏当局、MiCA見直しで包括提言。ユーロ建てステーブルコイン推進やESMA監督強化など",
+        "url": "https://news.yahoo.co.jp/articles/d8e1f060568943fb92f8d44463cc564e8f964bf5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラーケン親会社ペイワード、ハイパーリキッド「HIP-3*」で米CFTC規制下の初の市場運営者目指す",
         "url": "https://news.yahoo.co.jp/articles/67d0cbdbda779ce568d056225c1dec5bcf569d29",
         "source": "Yahoo",
@@ -18375,30 +18423,30 @@
       {
         "title": "カリフォルニア州、SECの暗号資産規制緩和案に反対",
         "url": "https://news.yahoo.co.jp/articles/7594ab5a994eab51390a0388a6c04a74468e232f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ファントム、米国でカルシの予測市場を提供開始。CFTCのノーアクション措置を活用",
-        "url": "https://news.yahoo.co.jp/articles/4c6f3cbc81b325619267a7425be10fa9d74a70c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "チェーンリンク、韓国LG CNSと戦略的提携。金融機関向けデジタル資産基盤を強化",
-        "url": "https://news.yahoo.co.jp/articles/a34e694ba0c4419709c236c7b481d19975a3db4e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シンガポール・マレーシア・タイ、デジタルマネーの国際決済で連携",
-        "url": "https://news.yahoo.co.jp/articles/b0f106298fcf07c77015d58a6061b77bf2c923b0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "カナダ、ステーブルコイン規則案を公表。2027年秋の施行を目指す",
+        "url": "https://news.yahoo.co.jp/articles/1171afab002b633c11f4500b7559832ed00eeb66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏当局、MiCA見直しで包括提言。ユーロ建てステーブルコイン推進やESMA監督強化など",
+        "url": "https://news.yahoo.co.jp/articles/d8e1f060568943fb92f8d44463cc564e8f964bf5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クラーケン親会社ペイワード、ハイパーリキッド「HIP-3*」で米CFTC規制下の初の市場運営者目指す",
         "url": "https://news.yahoo.co.jp/articles/67d0cbdbda779ce568d056225c1dec5bcf569d29",
         "source": "Yahoo",
@@ -18413,24 +18461,6 @@
       {
         "title": "カリフォルニア州、SECの暗号資産規制緩和案に反対",
         "url": "https://news.yahoo.co.jp/articles/7594ab5a994eab51390a0388a6c04a74468e232f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ファントム、米国でカルシの予測市場を提供開始。CFTCのノーアクション措置を活用",
-        "url": "https://news.yahoo.co.jp/articles/4c6f3cbc81b325619267a7425be10fa9d74a70c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "チェーンリンク、韓国LG CNSと戦略的提携。金融機関向けデジタル資産基盤を強化",
-        "url": "https://news.yahoo.co.jp/articles/a34e694ba0c4419709c236c7b481d19975a3db4e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シンガポール・マレーシア・タイ、デジタルマネーの国際決済で連携",
-        "url": "https://news.yahoo.co.jp/articles/b0f106298fcf07c77015d58a6061b77bf2c923b0",
         "source": "Yahoo",
         "date": ""
       }
@@ -18589,76 +18619,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "カナダ、ステーブルコイン規則案を公表。2027年秋の施行を目指す",
+        "url": "https://news.yahoo.co.jp/articles/1171afab002b633c11f4500b7559832ed00eeb66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米OCC、地域銀行にステーブルコイン発行への参入検討を呼びかけ",
+        "url": "https://news.yahoo.co.jp/articles/db4d20da084d8c3e2bc93fd7e77533d16cb2a046",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏当局、MiCA見直しで包括提言。ユーロ建てステーブルコイン推進やESMA監督強化など",
+        "url": "https://news.yahoo.co.jp/articles/d8e1f060568943fb92f8d44463cc564e8f964bf5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米通貨監督庁、地域銀行にステーブルコイン発行への参入を呼び掛け",
+        "url": "https://news.yahoo.co.jp/articles/cd759fd924f6d72d2b144840efbafa6f1ed21913",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIとスターテイル、ブラックロックとトークン化MMF連携の検討で合意",
         "url": "https://news.yahoo.co.jp/articles/ad67e51b9e7040ebed3de7b983551eba2c8b49b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、米信託銀行の設立で最終承認──RLUSD準備金管理へ",
-        "url": "https://news.yahoo.co.jp/articles/aaba9a70726980fbb79c76a87177a9e2f2dce574",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガン、トークン化MMF「MONY」と「JLTXX」をソラナに展開",
-        "url": "https://news.yahoo.co.jp/articles/6761a3df80069cb4ae1aafcfa49ba21f731f05e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、米OCCから信託銀行設立の最終承認。RLUSD準備資産管理やカストディへ",
-        "url": "https://news.yahoo.co.jp/articles/ca4fc785cc9d3419f4968217bd319ff0fc516508",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化MMFと「JPYSC」の連携検討、SBI・スターテイル・ブラックロックが基本合意",
-        "url": "https://news.yahoo.co.jp/articles/5b1ac00886133c38652707ffd8e1935f6ccdfa40",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
-        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "カナダ、ステーブルコイン規則案を公表。2027年秋の施行を目指す",
+        "url": "https://news.yahoo.co.jp/articles/1171afab002b633c11f4500b7559832ed00eeb66",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米OCC、地域銀行にステーブルコイン発行への参入検討を呼びかけ",
+        "url": "https://news.yahoo.co.jp/articles/db4d20da084d8c3e2bc93fd7e77533d16cb2a046",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
+        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏当局、MiCA見直しで包括提言。ユーロ建てステーブルコイン推進やESMA監督強化など",
+        "url": "https://news.yahoo.co.jp/articles/d8e1f060568943fb92f8d44463cc564e8f964bf5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米通貨監督庁、地域銀行にステーブルコイン発行への参入を呼び掛け",
+        "url": "https://news.yahoo.co.jp/articles/cd759fd924f6d72d2b144840efbafa6f1ed21913",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIとスターテイル、ブラックロックとトークン化MMF連携の検討で合意",
         "url": "https://news.yahoo.co.jp/articles/ad67e51b9e7040ebed3de7b983551eba2c8b49b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、米信託銀行の設立で最終承認──RLUSD準備金管理へ",
-        "url": "https://news.yahoo.co.jp/articles/aaba9a70726980fbb79c76a87177a9e2f2dce574",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガン、トークン化MMF「MONY」と「JLTXX」をソラナに展開",
-        "url": "https://news.yahoo.co.jp/articles/6761a3df80069cb4ae1aafcfa49ba21f731f05e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、米OCCから信託銀行設立の最終承認。RLUSD準備資産管理やカストディへ",
-        "url": "https://news.yahoo.co.jp/articles/ca4fc785cc9d3419f4968217bd319ff0fc516508",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トークン化MMFと「JPYSC」の連携検討、SBI・スターテイル・ブラックロックが基本合意",
-        "url": "https://news.yahoo.co.jp/articles/5b1ac00886133c38652707ffd8e1935f6ccdfa40",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
-        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
         "date": ""
       }
