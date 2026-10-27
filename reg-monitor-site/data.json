@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:23:45.742Z",
+  "generatedAt": "2026-10-27T00:08:26.992Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "企業向けサービス価格指数（9月）",
+      "url": "https://www.boj.or.jp/statistics/pi/cspi_release/sppi2609.pdf",
+      "date": "2026-10-27",
+      "detectedAt": "2026-10-27T00:08:26.992Z",
+      "enriched": "2026-10-27T00:08:32.796Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年9月の企業向けサービス価格指数（総平均）は115.5（2020年平均=100）で、前年同月比+3.7％、国際運輸除くは114.4で前年比+2.9％。",
+        "運輸・郵便（寄与度1.36ポイント）、特に外航貨物輸送が前年比97.7％上昇、広告は前年比-5.2％と低下し、企業が価格動向を把握する必要がある。",
+        "日本銀行調査統計局が2026年10月27日8時50分に速報値を公表し、時系列データは「時系列統計データ検索サイト」から入手可能。"
       ],
       "aiSumV": 3
     },
@@ -18043,6 +18058,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
+        "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "被害総額350億円以上",
         "url": "https://news.yahoo.co.jp/articles/334b208d564700447caba729991167feb8f8f117",
         "source": "Yahoo",
@@ -18069,18 +18090,18 @@
       {
         "title": "あのCMS、どんな企業が使ってる？全10種CMSの導入事例93社を紹介（国内編）",
         "url": "https://news.yahoo.co.jp/articles/6062443955fafc2baec1494421e5441d43265e02",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "銀行で勧められたファンドラップ。払うのは運用を任せる報酬と中の投資信託の分",
-        "url": "https://news.yahoo.co.jp/articles/fe55972c2972a48144523c1829ba22aa0872aa1d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
+        "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "被害総額350億円以上",
         "url": "https://news.yahoo.co.jp/articles/334b208d564700447caba729991167feb8f8f117",
         "source": "Yahoo",
@@ -18107,18 +18128,18 @@
       {
         "title": "あのCMS、どんな企業が使ってる？全10種CMSの導入事例93社を紹介（国内編）",
         "url": "https://news.yahoo.co.jp/articles/6062443955fafc2baec1494421e5441d43265e02",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "銀行で勧められたファンドラップ。払うのは運用を任せる報酬と中の投資信託の分",
-        "url": "https://news.yahoo.co.jp/articles/fe55972c2972a48144523c1829ba22aa0872aa1d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
+        "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "被害総額350億円以上",
         "url": "https://news.yahoo.co.jp/articles/334b208d564700447caba729991167feb8f8f117",
         "source": "Yahoo",
@@ -18145,18 +18166,18 @@
       {
         "title": "あのCMS、どんな企業が使ってる？全10種CMSの導入事例93社を紹介（国内編）",
         "url": "https://news.yahoo.co.jp/articles/6062443955fafc2baec1494421e5441d43265e02",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "銀行で勧められたファンドラップ。払うのは運用を任せる報酬と中の投資信託の分",
-        "url": "https://news.yahoo.co.jp/articles/fe55972c2972a48144523c1829ba22aa0872aa1d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
+        "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "被害総額350億円以上",
         "url": "https://news.yahoo.co.jp/articles/334b208d564700447caba729991167feb8f8f117",
         "source": "Yahoo",
@@ -18185,15 +18206,15 @@
         "url": "https://news.yahoo.co.jp/articles/6062443955fafc2baec1494421e5441d43265e02",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "銀行で勧められたファンドラップ。払うのは運用を任せる報酬と中の投資信託の分",
-        "url": "https://news.yahoo.co.jp/articles/fe55972c2972a48144523c1829ba22aa0872aa1d",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
+        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "香港レドットペイ、日本の暗号資産取引所BTCBOX買収",
         "url": "https://news.yahoo.co.jp/articles/bc2bf969546c79bafb251b45f3213baa88f38053",
@@ -18221,18 +18242,18 @@
       {
         "title": "「1年前はモックアップだけ」JR東の新コード決済「teppay」、急ピッチ開発の舞台裏と実力",
         "url": "https://news.yahoo.co.jp/articles/a3e1a0d7b7b061998cb43220a3c828ea223f900d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
-        "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
+        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "香港レドットペイ、日本の暗号資産取引所BTCBOX買収",
         "url": "https://news.yahoo.co.jp/articles/bc2bf969546c79bafb251b45f3213baa88f38053",
         "source": "Yahoo",
@@ -18261,15 +18282,15 @@
         "url": "https://news.yahoo.co.jp/articles/a3e1a0d7b7b061998cb43220a3c828ea223f900d",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "ブロックチェーンは日本経済の再浮上を後押しする【エバーノース寄稿】",
-        "url": "https://news.yahoo.co.jp/articles/e5947baf804b5660e6e78687c230ab282cfb5fca",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
+        "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "カリフォルニア州、SECの暗号資産規制緩和案に反対",
         "url": "https://news.yahoo.co.jp/articles/7594ab5a994eab51390a0388a6c04a74468e232f",
@@ -18297,18 +18318,18 @@
       {
         "title": "米中間選挙まで9日、ビットコインはどう動く──世論調査と8万ドル攻防の行方【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/9ce3b8d0c598dbb42992f4454158192ee8cb68ea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中間選挙まであと9日。民主党リードの世論調査、それでも結果が読めないアメリカの現実【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/761566d7b70c81f31b6d6e4b0eb37d449558b920",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
+        "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カリフォルニア州、SECの暗号資産規制緩和案に反対",
         "url": "https://news.yahoo.co.jp/articles/7594ab5a994eab51390a0388a6c04a74468e232f",
         "source": "Yahoo",
@@ -18337,15 +18358,15 @@
         "url": "https://news.yahoo.co.jp/articles/9ce3b8d0c598dbb42992f4454158192ee8cb68ea",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "米中間選挙まであと9日。民主党リードの世論調査、それでも結果が読めないアメリカの現実【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/761566d7b70c81f31b6d6e4b0eb37d449558b920",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
+        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "《発表会レポート》JR東の「teppay」が始動、2万円超決済だけでない「Suicaの枠組みを超える」サービスの狙いとは",
         "url": "https://news.yahoo.co.jp/articles/75b4f6998d569d3fa7f4d4bc1657e1a6bf989aef",
@@ -18373,18 +18394,18 @@
       {
         "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シンガポール暗号資産市場、1年で1.5倍──日本と異なる成長構造＝Chainalysis",
-        "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
+        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "《発表会レポート》JR東の「teppay」が始動、2万円超決済だけでない「Suicaの枠組みを超える」サービスの狙いとは",
         "url": "https://news.yahoo.co.jp/articles/75b4f6998d569d3fa7f4d4bc1657e1a6bf989aef",
         "source": "Yahoo",
@@ -18411,12 +18432,6 @@
       {
         "title": "米ＣＦＴＣ、暗号資産交換所向け連邦規制案 議会審議停滞で対応策",
         "url": "https://news.yahoo.co.jp/articles/c4fbd66404579ca88e41624b97510b28d52b50c7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シンガポール暗号資産市場、1年で1.5倍──日本と異なる成長構造＝Chainalysis",
-        "url": "https://news.yahoo.co.jp/articles/2f64e5ea882bd472ef7817fbb72b0f658e1ebb7a",
         "source": "Yahoo",
         "date": ""
       }
@@ -18499,6 +18514,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
+        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ファントム、米国でカルシの予測市場を提供開始。CFTCのノーアクション措置を活用",
         "url": "https://news.yahoo.co.jp/articles/4c6f3cbc81b325619267a7425be10fa9d74a70c6",
         "source": "Yahoo",
@@ -18525,18 +18546,18 @@
       {
         "title": "米ソーファイ、個人向けトークン化預金「SOFIE」提供開始。年利回り4.40％",
         "url": "https://news.yahoo.co.jp/articles/67b5411d3b86274a849369184f3e6d7277ac88f1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "シンガポール・マレーシア・タイの3中銀、デジタルマネーの国際決済で連携強化。「BLOOM」にリップルやVisaら参加",
-        "url": "https://news.yahoo.co.jp/articles/2ced892b30a7c428ba50fab3e3807ea8d1969459",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
+        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ファントム、米国でカルシの予測市場を提供開始。CFTCのノーアクション措置を活用",
         "url": "https://news.yahoo.co.jp/articles/4c6f3cbc81b325619267a7425be10fa9d74a70c6",
         "source": "Yahoo",
@@ -18565,15 +18586,15 @@
         "url": "https://news.yahoo.co.jp/articles/67b5411d3b86274a849369184f3e6d7277ac88f1",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "シンガポール・マレーシア・タイの3中銀、デジタルマネーの国際決済で連携強化。「BLOOM」にリップルやVisaら参加",
-        "url": "https://news.yahoo.co.jp/articles/2ced892b30a7c428ba50fab3e3807ea8d1969459",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
+        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "警察などかたるニセ電話詐欺76歳3350万円被害",
         "url": "https://news.yahoo.co.jp/articles/42f8ff3e971146e9a877a5548be3eaee9a705b8c",
@@ -18601,18 +18622,18 @@
       {
         "title": "AltX Researchとfinojectが提携、ステーブルコイン基盤「MIZUHIKI」の規制対応強化へ",
         "url": "https://news.yahoo.co.jp/articles/e0b348d2bd35cd281b8b3c6344dc6ecca3506e1c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "運転免許証の画像が流出！ 勝手に借金される前に知っておきたい「不正利用防止の届け出」",
-        "url": "https://news.yahoo.co.jp/articles/c40e237f8d26c549e46d267fa5798930762638cb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
+        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "警察などかたるニセ電話詐欺76歳3350万円被害",
         "url": "https://news.yahoo.co.jp/articles/42f8ff3e971146e9a877a5548be3eaee9a705b8c",
         "source": "Yahoo",
@@ -18639,18 +18660,18 @@
       {
         "title": "AltX Researchとfinojectが提携、ステーブルコイン基盤「MIZUHIKI」の規制対応強化へ",
         "url": "https://news.yahoo.co.jp/articles/e0b348d2bd35cd281b8b3c6344dc6ecca3506e1c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "運転免許証の画像が流出！ 勝手に借金される前に知っておきたい「不正利用防止の届け出」",
-        "url": "https://news.yahoo.co.jp/articles/c40e237f8d26c549e46d267fa5798930762638cb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
+        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "警察などかたるニセ電話詐欺76歳3350万円被害",
         "url": "https://news.yahoo.co.jp/articles/42f8ff3e971146e9a877a5548be3eaee9a705b8c",
         "source": "Yahoo",
@@ -18677,12 +18698,6 @@
       {
         "title": "AltX Researchとfinojectが提携、ステーブルコイン基盤「MIZUHIKI」の規制対応強化へ",
         "url": "https://news.yahoo.co.jp/articles/e0b348d2bd35cd281b8b3c6344dc6ecca3506e1c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "運転免許証の画像が流出！ 勝手に借金される前に知っておきたい「不正利用防止の届け出」",
-        "url": "https://news.yahoo.co.jp/articles/c40e237f8d26c549e46d267fa5798930762638cb",
         "source": "Yahoo",
         "date": ""
       }
