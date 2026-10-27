@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:48:00.173Z",
+  "generatedAt": "2026-10-27T08:31:51.184Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,36 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "信用格付業者の登録の公表",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20261027/20261027.html",
+      "date": "2026-10-27",
+      "detectedAt": "2026-10-27T08:31:51.184Z",
+      "enriched": "2026-10-27T08:31:58.459Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "Kroll Bond Rating Agency Japan株式会社が金融商品取引法第66条の48において準用する同法第57条第3項に基づき、信用格付業者（登録番号第10号）として金融庁に登録された。",
+        "信用格付業の実施を予定する事業者は、金融庁に所定の登録申請手続を経て、同法に基づく信用格付業者としての登録を取得する必要がある。",
+        "本登録は令和8年10月27日に通知され、金融商品取引法に基づく信用格付業者の登録制度が適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]ESG指数先物の取引休止について",
+      "url": "https://www.jpx.co.jp/news/2040/20261027-02.html",
+      "date": "2026-10-27",
+      "detectedAt": "2026-10-27T08:31:51.184Z",
+      "enriched": "2026-10-27T08:31:58.459Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "S&P/JPX 500 ESGスコア・ティルト指数先物、FTSE JPXネットゼロ・ジャパン500指数先物、日経平均気候変動1.5℃目標指数先物の3商品が2026年10月28日をもって取引休止される。",
+        "取引参加者は本日のナイト・セッションから当該先物取引ができなくなり、新たな限月取引も開始されないため、ポジション整理と対応を速やかに行う必要がある。",
+        "大阪取引所が2026年10月27日に公表し、2026年10月28日（取引日）から取引休止が開始される。取引実績等を踏まえた判断であり、既存建玉は市場価格で決済処理される見込み。"
       ],
       "aiSumV": 3
     },
@@ -18391,6 +18421,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "バイビットカザフスタン、アラタウ市当局と協力覚書締結、RWAトークン化や決済で",
+        "url": "https://news.yahoo.co.jp/articles/bf787bc586f4a911a881e7df7ae587219db85839",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カナダ、ステーブルコイン規則案を公表。2027年秋の施行を目指す",
         "url": "https://news.yahoo.co.jp/articles/1171afab002b633c11f4500b7559832ed00eeb66",
         "source": "Yahoo",
@@ -18417,18 +18453,18 @@
       {
         "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
         "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カリフォルニア州、SECの暗号資産規制緩和案に反対",
-        "url": "https://news.yahoo.co.jp/articles/7594ab5a994eab51390a0388a6c04a74468e232f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "バイビットカザフスタン、アラタウ市当局と協力覚書締結、RWAトークン化や決済で",
+        "url": "https://news.yahoo.co.jp/articles/bf787bc586f4a911a881e7df7ae587219db85839",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カナダ、ステーブルコイン規則案を公表。2027年秋の施行を目指す",
         "url": "https://news.yahoo.co.jp/articles/1171afab002b633c11f4500b7559832ed00eeb66",
         "source": "Yahoo",
@@ -18455,12 +18491,6 @@
       {
         "title": "ビットコインの弱気相場は終わり、今は買い時＝Galaxy",
         "url": "https://news.yahoo.co.jp/articles/ae84739ebaf5ac8ff26918547ae5428eccbb32ad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カリフォルニア州、SECの暗号資産規制緩和案に反対",
-        "url": "https://news.yahoo.co.jp/articles/7594ab5a994eab51390a0388a6c04a74468e232f",
         "source": "Yahoo",
         "date": ""
       }
@@ -19409,12 +19439,6 @@
     ],
     "415AC0000000057": [
       {
-        "title": "情報漏えい企業に制裁金なし、指導で終わる法律の仕組み",
-        "url": "https://news.yahoo.co.jp/expert/articles/05b9add6c454842b8990bdc4bcb45f019aed1ce2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "タイムズカー情報漏えい、集団訴訟に10万人超が参加希望「3000円では低すぎる」最大5万円請求へ",
         "url": "https://news.yahoo.co.jp/articles/75f6de5036b54878eebb22f885af2a24f3474a4a",
         "source": "Yahoo",
@@ -19441,18 +19465,18 @@
       {
         "title": "「弁護士一人と生成AIで、どこまでできるか」 事務員ゼロ、地方事務所の挑戦",
         "url": "https://news.yahoo.co.jp/articles/eeeff4cd8677181ddb17a2d2fd7904f7b00e7363",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【問題点】 『タイムズカー』の漏洩より深刻。 警察による免許証『流用』という究極のセキュリティ脆弱性",
+        "url": "https://news.yahoo.co.jp/expert/articles/925b6c0e671114711eca6ce1b2936bbb3e3f3d29",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
-        "title": "情報漏えい企業に制裁金なし、指導で終わる法律の仕組み",
-        "url": "https://news.yahoo.co.jp/expert/articles/05b9add6c454842b8990bdc4bcb45f019aed1ce2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "タイムズカー情報漏えい、集団訴訟に10万人超が参加希望「3000円では低すぎる」最大5万円請求へ",
         "url": "https://news.yahoo.co.jp/articles/75f6de5036b54878eebb22f885af2a24f3474a4a",
         "source": "Yahoo",
@@ -19479,18 +19503,18 @@
       {
         "title": "「弁護士一人と生成AIで、どこまでできるか」 事務員ゼロ、地方事務所の挑戦",
         "url": "https://news.yahoo.co.jp/articles/eeeff4cd8677181ddb17a2d2fd7904f7b00e7363",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【問題点】 『タイムズカー』の漏洩より深刻。 警察による免許証『流用』という究極のセキュリティ脆弱性",
+        "url": "https://news.yahoo.co.jp/expert/articles/925b6c0e671114711eca6ce1b2936bbb3e3f3d29",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
-        "title": "情報漏えい企業に制裁金なし、指導で終わる法律の仕組み",
-        "url": "https://news.yahoo.co.jp/expert/articles/05b9add6c454842b8990bdc4bcb45f019aed1ce2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "タイムズカー情報漏えい、集団訴訟に10万人超が参加希望「3000円では低すぎる」最大5万円請求へ",
         "url": "https://news.yahoo.co.jp/articles/75f6de5036b54878eebb22f885af2a24f3474a4a",
         "source": "Yahoo",
@@ -19517,6 +19541,12 @@
       {
         "title": "「弁護士一人と生成AIで、どこまでできるか」 事務員ゼロ、地方事務所の挑戦",
         "url": "https://news.yahoo.co.jp/articles/eeeff4cd8677181ddb17a2d2fd7904f7b00e7363",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【問題点】 『タイムズカー』の漏洩より深刻。 警察による免許証『流用』という究極のセキュリティ脆弱性",
+        "url": "https://news.yahoo.co.jp/expert/articles/925b6c0e671114711eca6ce1b2936bbb3e3f3d29",
         "source": "Yahoo",
         "date": ""
       }
