@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T00:47:09.986Z",
+  "generatedAt": "2026-10-27T02:25:14.106Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場会社向け「IR関連セミナー」ページの開設について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20261027-01.html",
+      "date": "2026-10-27",
+      "detectedAt": "2026-10-27T02:25:14.106Z",
+      "enriched": "2026-10-27T02:25:19.927Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所が上場会社向けの「IR関連セミナー」ページを開設し、開催予定・開催日時・場所・申込方法および過去開催セミナーの概要・レポートを一覧で提供開始。",
+        "上場会社はIR関連セミナーページにアクセスして開催予定セミナーの詳細確認と申込、過去レポートを参照してIR活動に活用する。",
+        "2026年10月27日より東京証券取引所が提供するIR関連セミナーページで情報公開開始、随時セミナー予定とレポートを掲載予定。"
       ],
       "aiSumV": 3
     },
@@ -18514,6 +18529,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "トークン化MMFと「JPYSC」の連携検討、SBI・スターテイル・ブラックロックが基本合意",
+        "url": "https://news.yahoo.co.jp/articles/5b1ac00886133c38652707ffd8e1935f6ccdfa40",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
         "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
@@ -18540,18 +18561,18 @@
       {
         "title": "Arfとリップルが提携、XRPLでRLUSD活用の国際決済向け流動性を提供へ",
         "url": "https://news.yahoo.co.jp/articles/c782f94cbb616449185e1f12c703837c2c33cd46",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ソーファイ、個人向けトークン化預金「SOFIE」提供開始。年利回り4.40％",
-        "url": "https://news.yahoo.co.jp/articles/67b5411d3b86274a849369184f3e6d7277ac88f1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "トークン化MMFと「JPYSC」の連携検討、SBI・スターテイル・ブラックロックが基本合意",
+        "url": "https://news.yahoo.co.jp/articles/5b1ac00886133c38652707ffd8e1935f6ccdfa40",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
         "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
@@ -18578,12 +18599,6 @@
       {
         "title": "Arfとリップルが提携、XRPLでRLUSD活用の国際決済向け流動性を提供へ",
         "url": "https://news.yahoo.co.jp/articles/c782f94cbb616449185e1f12c703837c2c33cd46",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ソーファイ、個人向けトークン化預金「SOFIE」提供開始。年利回り4.40％",
-        "url": "https://news.yahoo.co.jp/articles/67b5411d3b86274a849369184f3e6d7277ac88f1",
         "source": "Yahoo",
         "date": ""
       }
