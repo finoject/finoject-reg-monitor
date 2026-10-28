@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T08:43:08.850Z",
+  "generatedAt": "2026-10-28T08:58:06.104Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -18739,6 +18739,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "予測市場Predict[.]funで約40万USDTの不正送金、運営チームが全額補償を表明",
+        "url": "https://news.yahoo.co.jp/articles/d5ad60068645e85b43bb3bd29e7a079b8b2eb630",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ",
         "url": "https://news.yahoo.co.jp/articles/aabb7cbcb921030b7ee4ec715eed637a9fea3860",
         "source": "Yahoo",
@@ -18765,18 +18771,18 @@
       {
         "title": "BTCBOX買収の香港レドットペイ、年末までに米IPO書類の非公開提出を検討か＝報道",
         "url": "https://news.yahoo.co.jp/articles/93357a84245438759bb363d1065904b46c5c43c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガンやAMDら、OKX・ICEのトークン化株式取引計画に異議。計33社に",
-        "url": "https://news.yahoo.co.jp/articles/ab9dea8bc7b33e56785f0a476ac858092e3de54e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "予測市場Predict[.]funで約40万USDTの不正送金、運営チームが全額補償を表明",
+        "url": "https://news.yahoo.co.jp/articles/d5ad60068645e85b43bb3bd29e7a079b8b2eb630",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ",
         "url": "https://news.yahoo.co.jp/articles/aabb7cbcb921030b7ee4ec715eed637a9fea3860",
         "source": "Yahoo",
@@ -18803,12 +18809,6 @@
       {
         "title": "BTCBOX買収の香港レドットペイ、年末までに米IPO書類の非公開提出を検討か＝報道",
         "url": "https://news.yahoo.co.jp/articles/93357a84245438759bb363d1065904b46c5c43c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "JPモルガンやAMDら、OKX・ICEのトークン化株式取引計画に異議。計33社に",
-        "url": "https://news.yahoo.co.jp/articles/ab9dea8bc7b33e56785f0a476ac858092e3de54e",
         "source": "Yahoo",
         "date": ""
       }
