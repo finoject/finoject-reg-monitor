@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:39:20.660Z",
+  "generatedAt": "2026-10-28T07:11:08.427Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,67 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-10-28",
+      "detectedAt": "2026-10-28T07:11:08.427Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-10-28T07:11:14.454Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融市場調節取引の2026年度対象先公募の結果等について",
+      "url": "https://www.boj.or.jp/mopo/measures/select/s_release/srel261028a.htm",
+      "date": "2026-10-28",
+      "detectedAt": "2026-10-28T07:11:08.427Z",
+      "enriched": "2026-10-28T07:11:14.455Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年度の金融市場調節取引について、日本銀行が対象先公募の結果に基づき対象先一覧をExcelファイルで公表し、各オペの対象先を特定した。",
+        "金融機関等は公表された対象先一覧を確認し、自社が2026年度の金融市場調節取引対象先として選定されているか把握する必要がある。",
+        "2026年10月28日に日本銀行金融市場局から対象先一覧が公表され、この一覧に基づき2026年度のオペが実施される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）まぐまぐ",
+      "url": "https://www.jpx.co.jp/news/1021/20261028-21.html",
+      "date": "2026-10-28",
+      "detectedAt": "2026-10-28T07:11:08.427Z",
+      "enriched": "2026-10-28T07:11:14.455Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社まぐまぐ（コード4059、スタンダード市場）の株式が上場維持基準に適合しないため上場廃止となり、2026年10月28日から2027年3月31日まで整理銘柄に指定される。",
+        "取引参加者および投資家は、2026年10月29日以降、同銘柄を信用取引・発行日決済取引の委託保証金、売買証拠金、取引参加者保証金、信認金の代用有価証券から除外して取り扱う必要がある。",
+        "上場廃止日は2027年4月1日であり、有価証券上場規程第601条第1項第1号に基づく決定である。速やかに上場廃止すべき事情発生時は日程変更の可能性あり。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：iFreeETF 日本株累進高配当戦略（コード665A）",
+      "url": "https://www.jpx.co.jp/news/1030/20261028-01.html",
+      "date": "2026-10-28",
+      "detectedAt": "2026-10-28T07:11:08.427Z",
+      "enriched": "2026-10-28T07:11:14.455Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "iFreeETF日本株累進高配当戦略（コード665A）は2026年11月4日に東証に新規上場し、呼値の単位はETF等（1口）呼値テーブルが適用される。",
+        "取引参加者および投資家は、同ETFの売買時に「ETF等（1口）呼値テーブル」に基づく呼値単位で注文を発注および執行する必要がある。",
+        "東京証券取引所が2026年10月28日に公表した新規上場案内に従い、11月4日の上場から当該呼値単位が適用される。"
       ],
       "aiSumV": 3
     },
@@ -776,22 +837,6 @@
         "2026年10月22日付けの本通知により緊急メンテナンスが開始され、完了時期は別途案内される予定。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-10-21",
-      "detectedAt": "2026-10-21T06:50:28.328Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-10-21T06:50:34.488Z"
     },
     {
       "agency": "日本証券業協会",
@@ -18436,6 +18481,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米政府、コンステレーションの原発増強に融資へ 最大50億ドル",
+        "url": "https://news.yahoo.co.jp/articles/50763db4471d0f7e3fcfd3658bba206c9b638b0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米BNY、XRPとRLUSDの保管に対応、リップルと貿易金融のトークン化も検討",
         "url": "https://news.yahoo.co.jp/articles/e5ed253a1c8e28c8d55abee45be3caca218a2c14",
         "source": "Yahoo",
@@ -18462,18 +18513,18 @@
       {
         "title": "自民党ブロックチェーン推進議連、米国視察を報告──JBAがオンチェーン金融の実装へ8項目提言",
         "url": "https://news.yahoo.co.jp/articles/a8cbe9e3723b53bb800fbe05cd0f126f52722c7f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイビットカザフスタン、アラタウ市当局と協力覚書締結、RWAトークン化や決済で",
-        "url": "https://news.yahoo.co.jp/articles/bf787bc586f4a911a881e7df7ae587219db85839",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米政府、コンステレーションの原発増強に融資へ 最大50億ドル",
+        "url": "https://news.yahoo.co.jp/articles/50763db4471d0f7e3fcfd3658bba206c9b638b0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米BNY、XRPとRLUSDの保管に対応、リップルと貿易金融のトークン化も検討",
         "url": "https://news.yahoo.co.jp/articles/e5ed253a1c8e28c8d55abee45be3caca218a2c14",
         "source": "Yahoo",
@@ -18500,12 +18551,6 @@
       {
         "title": "自民党ブロックチェーン推進議連、米国視察を報告──JBAがオンチェーン金融の実装へ8項目提言",
         "url": "https://news.yahoo.co.jp/articles/a8cbe9e3723b53bb800fbe05cd0f126f52722c7f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイビットカザフスタン、アラタウ市当局と協力覚書締結、RWAトークン化や決済で",
-        "url": "https://news.yahoo.co.jp/articles/bf787bc586f4a911a881e7df7ae587219db85839",
         "source": "Yahoo",
         "date": ""
       }
@@ -19454,6 +19499,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "長妻氏「どういう女性がタイプか、どういう性的嗜好があるか書かれているが、どういうふうに使うのか？」「本物なら違法」自衛隊が大学教授ら数千人分の個人情報収集か 国会で猛追及",
+        "url": "https://news.yahoo.co.jp/articles/29a220c06268a13ff00447ecb28abad1d124cc88",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「退会したのに、なぜ情報が残っている？」 開発者が見落としがちなデータ管理の盲点",
         "url": "https://news.yahoo.co.jp/articles/b45fb87c19d30785c1e0a9dccdbea436e5e127ef",
         "source": "Yahoo",
@@ -19480,18 +19531,18 @@
       {
         "title": "操作ログとAIで内部犯行の意図を暴く--「Tanium Atlas」と「iScope」が連携",
         "url": "https://news.yahoo.co.jp/articles/1abb35852e0ee0d325b2897344f40c77e43c2d93",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パナソニック、従業員が利用禁止の生成AIに個人情報をアップロードと発表 従業員ら約33万人分",
-        "url": "https://news.yahoo.co.jp/articles/c31ee784ec310383591c76ca415648eed9143423",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "長妻氏「どういう女性がタイプか、どういう性的嗜好があるか書かれているが、どういうふうに使うのか？」「本物なら違法」自衛隊が大学教授ら数千人分の個人情報収集か 国会で猛追及",
+        "url": "https://news.yahoo.co.jp/articles/29a220c06268a13ff00447ecb28abad1d124cc88",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「退会したのに、なぜ情報が残っている？」 開発者が見落としがちなデータ管理の盲点",
         "url": "https://news.yahoo.co.jp/articles/b45fb87c19d30785c1e0a9dccdbea436e5e127ef",
         "source": "Yahoo",
@@ -19518,18 +19569,18 @@
       {
         "title": "操作ログとAIで内部犯行の意図を暴く--「Tanium Atlas」と「iScope」が連携",
         "url": "https://news.yahoo.co.jp/articles/1abb35852e0ee0d325b2897344f40c77e43c2d93",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パナソニック、従業員が利用禁止の生成AIに個人情報をアップロードと発表 従業員ら約33万人分",
-        "url": "https://news.yahoo.co.jp/articles/c31ee784ec310383591c76ca415648eed9143423",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "長妻氏「どういう女性がタイプか、どういう性的嗜好があるか書かれているが、どういうふうに使うのか？」「本物なら違法」自衛隊が大学教授ら数千人分の個人情報収集か 国会で猛追及",
+        "url": "https://news.yahoo.co.jp/articles/29a220c06268a13ff00447ecb28abad1d124cc88",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「退会したのに、なぜ情報が残っている？」 開発者が見落としがちなデータ管理の盲点",
         "url": "https://news.yahoo.co.jp/articles/b45fb87c19d30785c1e0a9dccdbea436e5e127ef",
         "source": "Yahoo",
@@ -19556,12 +19607,6 @@
       {
         "title": "操作ログとAIで内部犯行の意図を暴く--「Tanium Atlas」と「iScope」が連携",
         "url": "https://news.yahoo.co.jp/articles/1abb35852e0ee0d325b2897344f40c77e43c2d93",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パナソニック、従業員が利用禁止の生成AIに個人情報をアップロードと発表 従業員ら約33万人分",
-        "url": "https://news.yahoo.co.jp/articles/c31ee784ec310383591c76ca415648eed9143423",
         "source": "Yahoo",
         "date": ""
       }
