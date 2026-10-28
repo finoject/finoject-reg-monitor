@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T07:11:08.427Z",
+  "generatedAt": "2026-10-28T08:43:08.850Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "企業会計審議会サステナビリティ情報保証部会第３回会合が令和８年10月29日13時から中央合同庁舎７号館13階で開催され、議事録は会議後に金融庁ウェブサイトにて公表される。",
         "サステナビリティ情報の保証に関する事務局説明と討議が行われ、企業開示課（庁内用5508）が所管し、問い合わせは受付時間平日10時～17時に対応する。",
         "本会は金融庁の企業会計審議会の正規の審議体として、サステナビリティ情報の保証基準等に関する検討の状況を公開で進めており、関係者は議事録から規制動向を把握できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの調整後の権利行使価格：2026年10月29日調整分",
+      "url": "https://www.jpx.co.jp/news/2020/20261028-01.html",
+      "date": "2026-10-28",
+      "detectedAt": "2026-10-28T08:43:08.850Z",
+      "enriched": "2026-10-28T08:43:15.051Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "一部有価証券の受益権分割（効力発生日2026年11月2日）及び売買単位変更（変更日2026年10月29日）に伴い、当該有価証券に係る有価証券オプションの権利行使価格を2026年10月29日より調整する。",
+        "大阪取引所が調整対象銘柄のオプション権利行使価格を変更するため、取引参加者及びオプション取引者は調整後の権利行使価格を確認し、ポジション管理・決済時の計算に反映させる必要がある。",
+        "調整は2026年10月29日（木）より適用開始、円位未満は四捨五入、フレックス限月取引についても同様に調整される（大阪取引所の有価証券オプション取引規則に基づく）。"
       ],
       "aiSumV": 3
     },
@@ -1279,6 +1294,21 @@
         "BIS決済・市場インフラ委員会及びIOSCOが2026年10月14日に公表した追加ガイダンスでは、FMI原則第15原則に関し、ビジネスリスクの定義を「参加者デフォルト以外のFMIの事業運営に由来する損失リスク」と明確化し、他原則との相互作用を示した。",
         "FMI（決済システム・取引所等の金融市場インフラ)を運営する事業者は、ガイダンスに基づき一般的ビジネスリスクの識別・監視・管理体制を強化し、最小限の流動性資産（自己資本で調達）の金額決定及び経営陣の役割責任を明確化すべき。",
         "本追加ガイダンスはFMI原則（PFMI）第15原則並びに第2・3・23原則等に関連し、FMI事業者の回復計画及び秩序ある廃止計画の策定時にも適用される国際基準として機能する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "金融庁・一橋大学による共催シンポジウムの開催について（令和８年12月10日）の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261016/symposium.html",
+      "date": "2026-10-16",
+      "detectedAt": "2026-10-28T08:43:08.850Z",
+      "enriched": "2026-10-28T08:43:15.051Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁と一橋大学が令和8年12月10日に一橋講堂でシンポジウムを共催し、「地域経済の活性化と金融」及び「企業価値の向上と日本企業の経営」をテーマに産官学による議論を実施する。",
+        "金融機関実務家、研究者、行政担当者は事前登録により参加可能であり、金融庁から金融行政の関心事項や課題、今後の方向性の発表及びパネルディスカッションに参加することで、日本企業経営と金融の役割について検討する。",
+        "本シンポジウムは令和7年11月に締結された一橋大学との連携協力基本協定に基づく金融庁金融研究センターの初の共催試みであり、開始時刻14時（開場13時30分）、使用言語は日本語である。"
       ],
       "aiSumV": 3
     },
@@ -18481,6 +18511,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ",
+        "url": "https://news.yahoo.co.jp/articles/aabb7cbcb921030b7ee4ec715eed637a9fea3860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "パシフィックメタがAnsetaと提携、国内企業のノード運用・ステーキング導入を支援",
+        "url": "https://news.yahoo.co.jp/articles/68fe08ae91eb36573f4999869bd44ae628aa8284",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、ブラジルで暗号資産事業者ライセンス申請、10/30の期限前に",
+        "url": "https://news.yahoo.co.jp/articles/d8b29cf570337268346826abfc0ce68a3638be1e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米政府、コンステレーションの原発増強に融資へ 最大50億ドル",
         "url": "https://news.yahoo.co.jp/articles/50763db4471d0f7e3fcfd3658bba206c9b638b0e",
         "source": "Yahoo",
@@ -18495,30 +18543,30 @@
       {
         "title": "金利のある時代の新しい選択肢、「個人向け国債」が月間1兆円発行される中で「社債デジタル証券」の可能性",
         "url": "https://news.yahoo.co.jp/articles/74271526dd24638cf7a07d0948598aa18e0ef8c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務長官、暗号資産がドルの国際的地位を強化するとの見解",
-        "url": "https://news.yahoo.co.jp/articles/72cf5b5def6bcd1ed2c02cba1db0fd69d9fac304",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "GMO「『犯人』からの要求には永久に応じません」 情報公開された人への“特別お見舞金”制定 「GMOサイバー犯罪撲滅・懸賞金」創設へ",
-        "url": "https://news.yahoo.co.jp/articles/f3a83af0390740c2917e649d33edf21bb4ff9535",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "自民党ブロックチェーン推進議連、米国視察を報告──JBAがオンチェーン金融の実装へ8項目提言",
-        "url": "https://news.yahoo.co.jp/articles/a8cbe9e3723b53bb800fbe05cd0f126f52722c7f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ",
+        "url": "https://news.yahoo.co.jp/articles/aabb7cbcb921030b7ee4ec715eed637a9fea3860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "パシフィックメタがAnsetaと提携、国内企業のノード運用・ステーキング導入を支援",
+        "url": "https://news.yahoo.co.jp/articles/68fe08ae91eb36573f4999869bd44ae628aa8284",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、ブラジルで暗号資産事業者ライセンス申請、10/30の期限前に",
+        "url": "https://news.yahoo.co.jp/articles/d8b29cf570337268346826abfc0ce68a3638be1e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米政府、コンステレーションの原発増強に融資へ 最大50億ドル",
         "url": "https://news.yahoo.co.jp/articles/50763db4471d0f7e3fcfd3658bba206c9b638b0e",
         "source": "Yahoo",
@@ -18533,24 +18581,6 @@
       {
         "title": "金利のある時代の新しい選択肢、「個人向け国債」が月間1兆円発行される中で「社債デジタル証券」の可能性",
         "url": "https://news.yahoo.co.jp/articles/74271526dd24638cf7a07d0948598aa18e0ef8c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務長官、暗号資産がドルの国際的地位を強化するとの見解",
-        "url": "https://news.yahoo.co.jp/articles/72cf5b5def6bcd1ed2c02cba1db0fd69d9fac304",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "GMO「『犯人』からの要求には永久に応じません」 情報公開された人への“特別お見舞金”制定 「GMOサイバー犯罪撲滅・懸賞金」創設へ",
-        "url": "https://news.yahoo.co.jp/articles/f3a83af0390740c2917e649d33edf21bb4ff9535",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "自民党ブロックチェーン推進議連、米国視察を報告──JBAがオンチェーン金融の実装へ8項目提言",
-        "url": "https://news.yahoo.co.jp/articles/a8cbe9e3723b53bb800fbe05cd0f126f52722c7f",
         "source": "Yahoo",
         "date": ""
       }
@@ -18709,6 +18739,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ",
+        "url": "https://news.yahoo.co.jp/articles/aabb7cbcb921030b7ee4ec715eed637a9fea3860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、ブラジルで暗号資産事業者ライセンス申請、10/30の期限前に",
+        "url": "https://news.yahoo.co.jp/articles/d8b29cf570337268346826abfc0ce68a3638be1e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップル、企業向け資金管理に「24/7リターンズ」導入へ、RLUSD活用とAI連携を強化",
         "url": "https://news.yahoo.co.jp/articles/7c03589ca10f59d62957f4a783a95bb6a163bdba",
         "source": "Yahoo",
@@ -18729,24 +18771,24 @@
       {
         "title": "JPモルガンやAMDら、OKX・ICEのトークン化株式取引計画に異議。計33社に",
         "url": "https://news.yahoo.co.jp/articles/ab9dea8bc7b33e56785f0a476ac858092e3de54e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米BNY、XRPとRLUSDの保管に対応、リップルと貿易金融のトークン化も検討",
-        "url": "https://news.yahoo.co.jp/articles/e5ed253a1c8e28c8d55abee45be3caca218a2c14",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "商工中金とDCP、貿易決済にトークン化預金活用──年内にも実証へ＝日経",
-        "url": "https://news.yahoo.co.jp/articles/5b120461aa540f8eb9ae3e22c8dad6d1c409a48b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ",
+        "url": "https://news.yahoo.co.jp/articles/aabb7cbcb921030b7ee4ec715eed637a9fea3860",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、ブラジルで暗号資産事業者ライセンス申請、10/30の期限前に",
+        "url": "https://news.yahoo.co.jp/articles/d8b29cf570337268346826abfc0ce68a3638be1e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップル、企業向け資金管理に「24/7リターンズ」導入へ、RLUSD活用とAI連携を強化",
         "url": "https://news.yahoo.co.jp/articles/7c03589ca10f59d62957f4a783a95bb6a163bdba",
         "source": "Yahoo",
@@ -18767,18 +18809,6 @@
       {
         "title": "JPモルガンやAMDら、OKX・ICEのトークン化株式取引計画に異議。計33社に",
         "url": "https://news.yahoo.co.jp/articles/ab9dea8bc7b33e56785f0a476ac858092e3de54e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米BNY、XRPとRLUSDの保管に対応、リップルと貿易金融のトークン化も検討",
-        "url": "https://news.yahoo.co.jp/articles/e5ed253a1c8e28c8d55abee45be3caca218a2c14",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "商工中金とDCP、貿易決済にトークン化預金活用──年内にも実証へ＝日経",
-        "url": "https://news.yahoo.co.jp/articles/5b120461aa540f8eb9ae3e22c8dad6d1c409a48b",
         "source": "Yahoo",
         "date": ""
       }
@@ -19499,6 +19529,24 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「法抵触の可能性高い」免許不正流用 神奈川県警本部長が謝罪",
+        "url": "https://news.yahoo.co.jp/articles/1212cc5a71bb4671986d847239acbca9a5554a9d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "神奈川県警トップの本部長が謝罪 回収免許証の不正利用問題「早急に事実関係を解明",
+        "url": "https://news.yahoo.co.jp/articles/ea32f6456335b3e5de03f075ea2fa7379f4f2c0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "神奈川県警本部長、県民におわび 回収免許証の情報収集流用で 港北署では交通課が回収した旧免許証全てを警備課に渡していたといい、今村本部長は「個人情報保護法に抵触する可能性が高い」と指摘。早急に事実関係を確認し、是正や再発防",
+        "url": "https://news.yahoo.co.jp/articles/b1801d7ef221eb6175f1f966ea87876ecfa94eaf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "長妻氏「どういう女性がタイプか、どういう性的嗜好があるか書かれているが、どういうふうに使うのか？」「本物なら違法」自衛隊が大学教授ら数千人分の個人情報収集か 国会で猛追及",
         "url": "https://news.yahoo.co.jp/articles/29a220c06268a13ff00447ecb28abad1d124cc88",
         "source": "Yahoo",
@@ -19513,30 +19561,30 @@
       {
         "title": "Claude Mythos時代の脆弱性対応",
         "url": "https://news.yahoo.co.jp/articles/c5710ae9dc3ae7dfb4cd9bbd42f2f0fabab5b435",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイムズカー情報漏えい、集団訴訟に10万人超が参加希望「3000円では低すぎる」最大5万円請求へ",
-        "url": "https://news.yahoo.co.jp/articles/75f6de5036b54878eebb22f885af2a24f3474a4a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「夜も眠れない」「勝手にローンを組まれた」タイムズカー情報漏えい 10万人超が集団提訴へ 見舞金3000円に怒り 「退会後7年保持」の責任追及",
-        "url": "https://news.yahoo.co.jp/articles/6866804ef4d1b63e67bc96020ad0da32fee7b5be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "操作ログとAIで内部犯行の意図を暴く--「Tanium Atlas」と「iScope」が連携",
-        "url": "https://news.yahoo.co.jp/articles/1abb35852e0ee0d325b2897344f40c77e43c2d93",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「法抵触の可能性高い」免許不正流用 神奈川県警本部長が謝罪",
+        "url": "https://news.yahoo.co.jp/articles/1212cc5a71bb4671986d847239acbca9a5554a9d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "神奈川県警トップの本部長が謝罪 回収免許証の不正利用問題「早急に事実関係を解明",
+        "url": "https://news.yahoo.co.jp/articles/ea32f6456335b3e5de03f075ea2fa7379f4f2c0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "神奈川県警本部長、県民におわび 回収免許証の情報収集流用で 港北署では交通課が回収した旧免許証全てを警備課に渡していたといい、今村本部長は「個人情報保護法に抵触する可能性が高い」と指摘。早急に事実関係を確認し、是正や再発防",
+        "url": "https://news.yahoo.co.jp/articles/b1801d7ef221eb6175f1f966ea87876ecfa94eaf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "長妻氏「どういう女性がタイプか、どういう性的嗜好があるか書かれているが、どういうふうに使うのか？」「本物なら違法」自衛隊が大学教授ら数千人分の個人情報収集か 国会で猛追及",
         "url": "https://news.yahoo.co.jp/articles/29a220c06268a13ff00447ecb28abad1d124cc88",
         "source": "Yahoo",
@@ -19551,30 +19599,30 @@
       {
         "title": "Claude Mythos時代の脆弱性対応",
         "url": "https://news.yahoo.co.jp/articles/c5710ae9dc3ae7dfb4cd9bbd42f2f0fabab5b435",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイムズカー情報漏えい、集団訴訟に10万人超が参加希望「3000円では低すぎる」最大5万円請求へ",
-        "url": "https://news.yahoo.co.jp/articles/75f6de5036b54878eebb22f885af2a24f3474a4a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「夜も眠れない」「勝手にローンを組まれた」タイムズカー情報漏えい 10万人超が集団提訴へ 見舞金3000円に怒り 「退会後7年保持」の責任追及",
-        "url": "https://news.yahoo.co.jp/articles/6866804ef4d1b63e67bc96020ad0da32fee7b5be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "操作ログとAIで内部犯行の意図を暴く--「Tanium Atlas」と「iScope」が連携",
-        "url": "https://news.yahoo.co.jp/articles/1abb35852e0ee0d325b2897344f40c77e43c2d93",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「法抵触の可能性高い」免許不正流用 神奈川県警本部長が謝罪",
+        "url": "https://news.yahoo.co.jp/articles/1212cc5a71bb4671986d847239acbca9a5554a9d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "神奈川県警トップの本部長が謝罪 回収免許証の不正利用問題「早急に事実関係を解明",
+        "url": "https://news.yahoo.co.jp/articles/ea32f6456335b3e5de03f075ea2fa7379f4f2c0f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "神奈川県警本部長、県民におわび 回収免許証の情報収集流用で 港北署では交通課が回収した旧免許証全てを警備課に渡していたといい、今村本部長は「個人情報保護法に抵触する可能性が高い」と指摘。早急に事実関係を確認し、是正や再発防",
+        "url": "https://news.yahoo.co.jp/articles/b1801d7ef221eb6175f1f966ea87876ecfa94eaf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "長妻氏「どういう女性がタイプか、どういう性的嗜好があるか書かれているが、どういうふうに使うのか？」「本物なら違法」自衛隊が大学教授ら数千人分の個人情報収集か 国会で猛追及",
         "url": "https://news.yahoo.co.jp/articles/29a220c06268a13ff00447ecb28abad1d124cc88",
         "source": "Yahoo",
@@ -19589,24 +19637,6 @@
       {
         "title": "Claude Mythos時代の脆弱性対応",
         "url": "https://news.yahoo.co.jp/articles/c5710ae9dc3ae7dfb4cd9bbd42f2f0fabab5b435",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "タイムズカー情報漏えい、集団訴訟に10万人超が参加希望「3000円では低すぎる」最大5万円請求へ",
-        "url": "https://news.yahoo.co.jp/articles/75f6de5036b54878eebb22f885af2a24f3474a4a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「夜も眠れない」「勝手にローンを組まれた」タイムズカー情報漏えい 10万人超が集団提訴へ 見舞金3000円に怒り 「退会後7年保持」の責任追及",
-        "url": "https://news.yahoo.co.jp/articles/6866804ef4d1b63e67bc96020ad0da32fee7b5be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "操作ログとAIで内部犯行の意図を暴く--「Tanium Atlas」と「iScope」が連携",
-        "url": "https://news.yahoo.co.jp/articles/1abb35852e0ee0d325b2897344f40c77e43c2d93",
         "source": "Yahoo",
         "date": ""
       }
