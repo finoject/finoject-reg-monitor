@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T02:46:58.980Z",
+  "generatedAt": "2026-10-29T04:18:42.884Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：トグルホールディングス（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20261029_01.html",
+      "date": "2026-10-29",
+      "detectedAt": "2026-10-29T04:18:42.884Z",
+      "enriched": "2026-10-29T04:18:49.111Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "トグルホールディングス（株）（コード652A）の新規上場日（10月30日）における初値決定前の気配運用を実施：板中心値段4,040円から上限9,300円・下限3,030円の範囲で気配更新を行う。",
+        "取引参加者は新規上場日の売買において成行売呼値及び成行買呼値を禁止し、注文受付価格を1,010円以上16,160円以下の範囲で行う必要がある。",
+        "初値決定まで制限値幅は適用されず、初値決定後に当該初値を基準値段として呼値の制限値幅及び注文受付価格の制限値幅が適用される。"
       ],
       "aiSumV": 3
     },
@@ -18739,6 +18754,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "リップルとコインベースが提携、RLUSDが個人・機関投資家向けサービスで利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/bf635fc871905e0162064a4a29aee978a8c63d23",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル「過去最高の年」と統括、年売上1400億円超へ",
+        "url": "https://news.yahoo.co.jp/articles/06fb62a0baeae1a39d2631bdd4fe9d48825f45cb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップルとC2FOが提携、XRPLとRLUSD活用で企業向け早期支払いの決済高速化へ",
         "url": "https://news.yahoo.co.jp/articles/8dbe2bf184fec457a2ba15db0118054be9d2664b",
         "source": "Yahoo",
@@ -18759,24 +18786,24 @@
       {
         "title": "アメリカ人の22%が暗号資産を利用、取引所を信頼する人はわずか4%＝調査報告 【次に読む】» ステーブルコイン送金額、3年半で4倍以上に＝調査報告» アジア太平洋地域の消費者調査、46%が「ステーブルコインを5年以内に利用」＝Visa»",
         "url": "https://news.yahoo.co.jp/articles/cda788f06bc814ed68045e848d06712f5de3d77f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Robinhood、暗号資産収益55％減も予測市場は成長",
-        "url": "https://news.yahoo.co.jp/articles/557b9a61dd1ef2db5bd8c5fc45eccdca46aad3b3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップルが米国の銀行免許を取得、XRPに関するメディアでの言及が33％増加",
-        "url": "https://news.yahoo.co.jp/articles/d3becd25ba8d258bf69cf198b150983b3a14cf29",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "リップルとコインベースが提携、RLUSDが個人・機関投資家向けサービスで利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/bf635fc871905e0162064a4a29aee978a8c63d23",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "リップル「過去最高の年」と統括、年売上1400億円超へ",
+        "url": "https://news.yahoo.co.jp/articles/06fb62a0baeae1a39d2631bdd4fe9d48825f45cb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "リップルとC2FOが提携、XRPLとRLUSD活用で企業向け早期支払いの決済高速化へ",
         "url": "https://news.yahoo.co.jp/articles/8dbe2bf184fec457a2ba15db0118054be9d2664b",
         "source": "Yahoo",
@@ -18797,18 +18824,6 @@
       {
         "title": "アメリカ人の22%が暗号資産を利用、取引所を信頼する人はわずか4%＝調査報告 【次に読む】» ステーブルコイン送金額、3年半で4倍以上に＝調査報告» アジア太平洋地域の消費者調査、46%が「ステーブルコインを5年以内に利用」＝Visa»",
         "url": "https://news.yahoo.co.jp/articles/cda788f06bc814ed68045e848d06712f5de3d77f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Robinhood、暗号資産収益55％減も予測市場は成長",
-        "url": "https://news.yahoo.co.jp/articles/557b9a61dd1ef2db5bd8c5fc45eccdca46aad3b3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップルが米国の銀行免許を取得、XRPに関するメディアでの言及が33％増加",
-        "url": "https://news.yahoo.co.jp/articles/d3becd25ba8d258bf69cf198b150983b3a14cf29",
         "source": "Yahoo",
         "date": ""
       }
