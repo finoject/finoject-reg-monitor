@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:50:23.570Z",
+  "generatedAt": "2026-10-29T07:21:48.282Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,69 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（グロース市場）：Ｍ＆Ａロイヤルアドバイザリー（株）",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-10-29",
+      "detectedAt": "2026-10-29T07:21:48.282Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-29T07:21:53.429Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "ブロードメディア（4347）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-10-29",
+      "detectedAt": "2026-10-29T07:21:48.282Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-29T07:21:53.429Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-10-29",
+      "detectedAt": "2026-10-29T07:21:48.282Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-10-29T07:21:53.429Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：ブロードメディア（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20261029-11.html",
+      "date": "2026-10-29",
+      "detectedAt": "2026-10-29T07:21:48.282Z",
+      "enriched": "2026-10-29T07:21:53.430Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ブロードメディア(株)は公開買付者NSSK-EPSILON1による公開買付けに賛同を表明し、2026年10月29日から監理銘柄(確認中)に指定された。上場廃止基準該当判定日まで指定継続。",
+        "同社株式は、公開買付け成立後に株式等売渡請求承認または株式併合議案が株主総会で承認された場合に上場廃止となる見込みであり、投資家は流動性低下と廃止リスクを認識して対応。",
+        "有価証券上場規程施行規則第604条第1項第23号・24号に基づき、特別支配株主による売渡請求または端数併合に該当する場合の上場廃止を規定する東証の基準に準拠した指定措置。"
       ],
       "aiSumV": 3
     },
@@ -336,22 +399,6 @@
       "enriched": "2026-10-26T07:44:26.286Z"
     },
     {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（スタンダード市場）：ジャパンホームシールド（株）",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-10-26",
-      "detectedAt": "2026-10-26T07:44:16.414Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-26T07:44:26.286Z"
-    },
-    {
       "agency": "日本証券業協会",
       "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/j-ships/index.html",
@@ -381,22 +428,6 @@
         "拡大後の制限値幅は、ストップ高（安）以外の値段で売買成立した翌営業日から通常に戻る。東証自主規制ルール（制限値幅変動基準）に基づく措置。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ムラキ （7477）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-10-26",
-      "detectedAt": "2026-10-26T06:13:15.021Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-26T06:13:19.692Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -744,22 +775,6 @@
         "2026年10月22日付けでIPAから脆弱性対策の注意喚起がされ、詳細はIPA公式サイトの脆弱性情報ページで確認できる。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-10-22",
-      "detectedAt": "2026-10-22T07:55:54.763Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-10-22T07:56:00.889Z"
     },
     {
       "agency": "日本銀行",
@@ -18450,6 +18465,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用",
+        "url": "https://news.yahoo.co.jp/articles/d37026bb8fc7fcf0f5566e1aa20bb51fc5710f54",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "モバイルSuicaに加わったコード決済「teppay」 JR東日本はなぜSuicaとは別の決済サービスを導入したのか JR東日本はこの機能を送金と呼ばず、残高の受け渡しと呼んでいる。teppayは資金決済法上の前払式支払手段で、チャージした残高を銀行口座や現金に戻すことはでき",
         "url": "https://news.yahoo.co.jp/articles/72a1b4ab23d3a8320ee6bf48b2e0fa9b7c44f9d8",
         "source": "Yahoo",
@@ -18476,18 +18497,18 @@
       {
         "title": "米銀行協会、OCCのステーブルコイン最終規則を批判「議会の意図に反する」",
         "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「1年前はモックアップだけ」JR東の新コード決済「teppay」、急ピッチ開発の舞台裏と実力",
-        "url": "https://news.yahoo.co.jp/articles/a3e1a0d7b7b061998cb43220a3c828ea223f900d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用",
+        "url": "https://news.yahoo.co.jp/articles/d37026bb8fc7fcf0f5566e1aa20bb51fc5710f54",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "モバイルSuicaに加わったコード決済「teppay」 JR東日本はなぜSuicaとは別の決済サービスを導入したのか JR東日本はこの機能を送金と呼ばず、残高の受け渡しと呼んでいる。teppayは資金決済法上の前払式支払手段で、チャージした残高を銀行口座や現金に戻すことはでき",
         "url": "https://news.yahoo.co.jp/articles/72a1b4ab23d3a8320ee6bf48b2e0fa9b7c44f9d8",
         "source": "Yahoo",
@@ -18516,15 +18537,21 @@
         "url": "https://news.yahoo.co.jp/articles/110f09b230f6f6b71dac4c004c7412dea9a2f5ee",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "「1年前はモックアップだけ」JR東の新コード決済「teppay」、急ピッチ開発の舞台裏と実力",
-        "url": "https://news.yahoo.co.jp/articles/a3e1a0d7b7b061998cb43220a3c828ea223f900d",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "Y Combinator、暗号資産の出資テーマ公開──米ドル以外のステーブルコイン発行など",
+        "url": "https://news.yahoo.co.jp/articles/258e92bbbbfc87daa879d33d3331457a53f40c3f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ブラジル最大の民間銀行イタウ、暗号資産の取引・保管業務を中央銀行に正式届出",
+        "url": "https://news.yahoo.co.jp/articles/6fe47afccd90db592c26d8a053a60d5c5c124e07",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
         "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
@@ -18546,24 +18573,24 @@
       {
         "title": "Bitwise、ビットコインの2036年価格を160万ドルと予測",
         "url": "https://news.yahoo.co.jp/articles/6d45eec5612f72d0d960beb4b30237d0d2447e3b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップルが米国の銀行免許を取得、XRPに関するメディアでの言及が33％増加",
-        "url": "https://news.yahoo.co.jp/articles/d3becd25ba8d258bf69cf198b150983b3a14cf29",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ",
-        "url": "https://news.yahoo.co.jp/articles/aabb7cbcb921030b7ee4ec715eed637a9fea3860",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Y Combinator、暗号資産の出資テーマ公開──米ドル以外のステーブルコイン発行など",
+        "url": "https://news.yahoo.co.jp/articles/258e92bbbbfc87daa879d33d3331457a53f40c3f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ブラジル最大の民間銀行イタウ、暗号資産の取引・保管業務を中央銀行に正式届出",
+        "url": "https://news.yahoo.co.jp/articles/6fe47afccd90db592c26d8a053a60d5c5c124e07",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
         "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
         "source": "Yahoo",
@@ -18584,18 +18611,6 @@
       {
         "title": "Bitwise、ビットコインの2036年価格を160万ドルと予測",
         "url": "https://news.yahoo.co.jp/articles/6d45eec5612f72d0d960beb4b30237d0d2447e3b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップルが米国の銀行免許を取得、XRPに関するメディアでの言及が33％増加",
-        "url": "https://news.yahoo.co.jp/articles/d3becd25ba8d258bf69cf198b150983b3a14cf29",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ",
-        "url": "https://news.yahoo.co.jp/articles/aabb7cbcb921030b7ee4ec715eed637a9fea3860",
         "source": "Yahoo",
         "date": ""
       }
@@ -18754,76 +18769,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "ファントム、米国向け予測市場の詳細を案内。BTCの15分価格予測などに対応",
-        "url": "https://news.yahoo.co.jp/articles/1c61a9f809d20237573ae3d7fa5060ff38c7854d",
+        "title": "ソニー、エンタメ特化のブロックチェーン事業支援を開始",
+        "url": "https://news.yahoo.co.jp/articles/bafb8f9aec67a56f8a38cdb3717328d29f2aa9c3",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI、米クロスリバー親会社と合弁設立へ──資産トークン化や決済で連携",
-        "url": "https://news.yahoo.co.jp/articles/1dbd2c831e853dbfc12c38b3887565a36508a867",
+        "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用",
+        "url": "https://news.yahoo.co.jp/articles/d37026bb8fc7fcf0f5566e1aa20bb51fc5710f54",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ソニュームでロイヤリティ投資「IP Vault」提供開始、初回募集は約2時間で満額に",
-        "url": "https://news.yahoo.co.jp/articles/f634e9bf3edc180ed8bd0b7ae59e61c94a098278",
+        "title": "Yコンビネーター、暗号資産スタートアップの重点6分野を公表。「機関主導」の市場拡大を指摘",
+        "url": "https://news.yahoo.co.jp/articles/bf9b6c20dca7defae45624c498b8e878cfd7d83f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ムーディーズ、リップルのRLUSDに投資適格格付け。長期「A2」・短期「P-1」",
-        "url": "https://news.yahoo.co.jp/articles/075e63b346f2388b25d5406decfdd7418ebefeda",
+        "title": "Y Combinator、暗号資産の出資テーマ公開──米ドル以外のステーブルコイン発行など",
+        "url": "https://news.yahoo.co.jp/articles/258e92bbbbfc87daa879d33d3331457a53f40c3f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
-        "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
+        "title": "Zcash向けブラウザウォレット「Zillions」公開、Anoma基盤でLedgerに初日対応",
+        "url": "https://news.yahoo.co.jp/articles/b3974da627c2083720fb14c321aa9b462cd7e970",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "リップルとコインベースが提携、RLUSDが個人・機関投資家向けサービスで利用可能に",
-        "url": "https://news.yahoo.co.jp/articles/bf635fc871905e0162064a4a29aee978a8c63d23",
+        "title": "ブラジル最大の民間銀行イタウ、暗号資産の取引・保管業務を中央銀行に正式届出",
+        "url": "https://news.yahoo.co.jp/articles/6fe47afccd90db592c26d8a053a60d5c5c124e07",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "ファントム、米国向け予測市場の詳細を案内。BTCの15分価格予測などに対応",
-        "url": "https://news.yahoo.co.jp/articles/1c61a9f809d20237573ae3d7fa5060ff38c7854d",
+        "title": "ソニー、エンタメ特化のブロックチェーン事業支援を開始",
+        "url": "https://news.yahoo.co.jp/articles/bafb8f9aec67a56f8a38cdb3717328d29f2aa9c3",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI、米クロスリバー親会社と合弁設立へ──資産トークン化や決済で連携",
-        "url": "https://news.yahoo.co.jp/articles/1dbd2c831e853dbfc12c38b3887565a36508a867",
+        "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用",
+        "url": "https://news.yahoo.co.jp/articles/d37026bb8fc7fcf0f5566e1aa20bb51fc5710f54",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ソニュームでロイヤリティ投資「IP Vault」提供開始、初回募集は約2時間で満額に",
-        "url": "https://news.yahoo.co.jp/articles/f634e9bf3edc180ed8bd0b7ae59e61c94a098278",
+        "title": "Yコンビネーター、暗号資産スタートアップの重点6分野を公表。「機関主導」の市場拡大を指摘",
+        "url": "https://news.yahoo.co.jp/articles/bf9b6c20dca7defae45624c498b8e878cfd7d83f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ムーディーズ、リップルのRLUSDに投資適格格付け。長期「A2」・短期「P-1」",
-        "url": "https://news.yahoo.co.jp/articles/075e63b346f2388b25d5406decfdd7418ebefeda",
+        "title": "Y Combinator、暗号資産の出資テーマ公開──米ドル以外のステーブルコイン発行など",
+        "url": "https://news.yahoo.co.jp/articles/258e92bbbbfc87daa879d33d3331457a53f40c3f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
-        "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
+        "title": "Zcash向けブラウザウォレット「Zillions」公開、Anoma基盤でLedgerに初日対応",
+        "url": "https://news.yahoo.co.jp/articles/b3974da627c2083720fb14c321aa9b462cd7e970",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "リップルとコインベースが提携、RLUSDが個人・機関投資家向けサービスで利用可能に",
-        "url": "https://news.yahoo.co.jp/articles/bf635fc871905e0162064a4a29aee978a8c63d23",
+        "title": "ブラジル最大の民間銀行イタウ、暗号資産の取引・保管業務を中央銀行に正式届出",
+        "url": "https://news.yahoo.co.jp/articles/6fe47afccd90db592c26d8a053a60d5c5c124e07",
         "source": "Yahoo",
         "date": ""
       }
@@ -19544,6 +19559,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "社説：免許証の流用 警察の不正徹底解明を",
+        "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "失効免許証の不正流用、西日本の県警でも 元公安捜査員が新証言",
         "url": "https://news.yahoo.co.jp/articles/d57cf775462b06a687fe5fd4611db78129ae0dec",
         "source": "Yahoo",
@@ -19570,18 +19591,18 @@
       {
         "title": "神奈川県警本部長、県民におわび 回収免許証の情報収集流用で 港北署では交通課が回収した旧免許証全てを警備課に渡していたといい、今村本部長は「個人情報保護法に抵触する可能性が高い」と指摘。早急に事実関係を確認し、是正や再発防",
         "url": "https://news.yahoo.co.jp/articles/b1801d7ef221eb6175f1f966ea87876ecfa94eaf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "長妻氏「どういう女性がタイプか、どういう性的嗜好があるか書かれているが、どういうふうに使うのか？」「本物なら違法」自衛隊が大学教授ら数千人分の個人情報収集か 国会で猛追及",
-        "url": "https://news.yahoo.co.jp/articles/29a220c06268a13ff00447ecb28abad1d124cc88",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "社説：免許証の流用 警察の不正徹底解明を",
+        "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "失効免許証の不正流用、西日本の県警でも 元公安捜査員が新証言",
         "url": "https://news.yahoo.co.jp/articles/d57cf775462b06a687fe5fd4611db78129ae0dec",
         "source": "Yahoo",
@@ -19608,18 +19629,18 @@
       {
         "title": "神奈川県警本部長、県民におわび 回収免許証の情報収集流用で 港北署では交通課が回収した旧免許証全てを警備課に渡していたといい、今村本部長は「個人情報保護法に抵触する可能性が高い」と指摘。早急に事実関係を確認し、是正や再発防",
         "url": "https://news.yahoo.co.jp/articles/b1801d7ef221eb6175f1f966ea87876ecfa94eaf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "長妻氏「どういう女性がタイプか、どういう性的嗜好があるか書かれているが、どういうふうに使うのか？」「本物なら違法」自衛隊が大学教授ら数千人分の個人情報収集か 国会で猛追及",
-        "url": "https://news.yahoo.co.jp/articles/29a220c06268a13ff00447ecb28abad1d124cc88",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "社説：免許証の流用 警察の不正徹底解明を",
+        "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "失効免許証の不正流用、西日本の県警でも 元公安捜査員が新証言",
         "url": "https://news.yahoo.co.jp/articles/d57cf775462b06a687fe5fd4611db78129ae0dec",
         "source": "Yahoo",
@@ -19646,12 +19667,6 @@
       {
         "title": "神奈川県警本部長、県民におわび 回収免許証の情報収集流用で 港北署では交通課が回収した旧免許証全てを警備課に渡していたといい、今村本部長は「個人情報保護法に抵触する可能性が高い」と指摘。早急に事実関係を確認し、是正や再発防",
         "url": "https://news.yahoo.co.jp/articles/b1801d7ef221eb6175f1f966ea87876ecfa94eaf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "長妻氏「どういう女性がタイプか、どういう性的嗜好があるか書かれているが、どういうふうに使うのか？」「本物なら違法」自衛隊が大学教授ら数千人分の個人情報収集か 国会で猛追及",
-        "url": "https://news.yahoo.co.jp/articles/29a220c06268a13ff00447ecb28abad1d124cc88",
         "source": "Yahoo",
         "date": ""
       }
