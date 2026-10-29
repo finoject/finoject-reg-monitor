@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T09:23:54.051Z",
+  "generatedAt": "2026-10-29T10:55:43.490Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -15,6 +15,22 @@
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「職場つみたてNISAの導入状況」を公表しました",
+      "url": "https://www.jsda.or.jp/shijyo/seido/tax/shokubatsumitate_nisa.html",
+      "date": "2026-10-29",
+      "detectedAt": "2026-10-29T10:55:43.490Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "NISA推進・連絡協議会は調査項目を見直した上で2026年より職場つみたてNISA導入状況の統計調査を再開し、2026年6月末時点のデータを10月21日に公表した。",
+        "職場つみたてNISA取扱業者は2026年5月27日改定のガイドライン及び各種利用規約雛形（2025年10月22日改定分含む）に基づき、事業主と契約して金融商品選定・給与天引き等の定時定額投資を実施する。",
+        "職場つみたてNISAは事業主が役職員向けにNISA取扱業者を通じて実施する福利厚生制度であり、つみたて投資枠・成長投資枠の単独又は併用方式で、給与天引き又は口座振替・カード決済により運用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-29T10:55:49.500Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -960,21 +976,6 @@
       ],
       "aiSumV": 3,
       "enriched": "2026-10-21T04:49:26.525Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「職場つみたてNISAの導入状況」を公表しました",
-      "url": "https://www.jsda.or.jp/shijyo/seido/tax/shokubatsumitate_nisa.html",
-      "date": "2026-10-21",
-      "detectedAt": "2026-10-21T04:49:20.644Z",
-      "enriched": "2026-10-21T04:49:26.525Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "NISA推進・連絡協議会は調査項目を見直した上で2026年より職場つみたてNISA導入状況の統計調査を再開し、2026年6月末時点のデータを10月21日に公表した。",
-        "職場つみたてNISA取扱業者は2026年5月27日改定のガイドライン及び各種利用規約雛形（2025年10月22日改定分含む）に基づき、事業主と契約して金融商品選定・給与天引き等の定時定額投資を実施する。",
-        "職場つみたてNISAは事業主が役職員向けにNISA取扱業者を通じて実施する福利厚生制度であり、つみたて投資枠・成長投資枠の単独又は併用方式で、給与天引き又は口座振替・カード決済により運用される。"
-      ],
-      "aiSumV": 3
     },
     {
       "agency": "日本取引所グループ",
@@ -18769,6 +18770,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "グーグル、暗号資産の「秘密鍵」を1か所に置かない新基盤",
+        "url": "https://news.yahoo.co.jp/articles/1a99967077b9d35a872134f9f6f987a1719179b7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始",
         "url": "https://news.yahoo.co.jp/articles/bba7ae1987e2362e1f5c07672c8fddf2c98ab9fb",
         "source": "Yahoo",
@@ -18795,18 +18802,18 @@
       {
         "title": "Y Combinator、暗号資産の出資テーマ公開──米ドル以外のステーブルコイン発行など",
         "url": "https://news.yahoo.co.jp/articles/258e92bbbbfc87daa879d33d3331457a53f40c3f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Zcash向けブラウザウォレット「Zillions」公開、Anoma基盤でLedgerに初日対応",
-        "url": "https://news.yahoo.co.jp/articles/b3974da627c2083720fb14c321aa9b462cd7e970",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "グーグル、暗号資産の「秘密鍵」を1か所に置かない新基盤",
+        "url": "https://news.yahoo.co.jp/articles/1a99967077b9d35a872134f9f6f987a1719179b7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始",
         "url": "https://news.yahoo.co.jp/articles/bba7ae1987e2362e1f5c07672c8fddf2c98ab9fb",
         "source": "Yahoo",
@@ -18833,12 +18840,6 @@
       {
         "title": "Y Combinator、暗号資産の出資テーマ公開──米ドル以外のステーブルコイン発行など",
         "url": "https://news.yahoo.co.jp/articles/258e92bbbbfc87daa879d33d3331457a53f40c3f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Zcash向けブラウザウォレット「Zillions」公開、Anoma基盤でLedgerに初日対応",
-        "url": "https://news.yahoo.co.jp/articles/b3974da627c2083720fb14c321aa9b462cd7e970",
         "source": "Yahoo",
         "date": ""
       }
@@ -19559,6 +19560,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "陸自〝思想調査〟問題 「調査項目自体が憲法上の大問題だ」 憲法学者が指摘 小泉防衛相の姿勢も批判",
+        "url": "https://news.yahoo.co.jp/articles/6834c6cff31ab886e18eb3daf18afc75db706473",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "社説：免許証の流用 警察の不正徹底解明を",
         "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
         "source": "Yahoo",
@@ -19585,18 +19592,18 @@
       {
         "title": "神奈川県警トップの本部長が謝罪 回収免許証の不正利用問題「早急に事実関係を解明",
         "url": "https://news.yahoo.co.jp/articles/ea32f6456335b3e5de03f075ea2fa7379f4f2c0f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警本部長、県民におわび 回収免許証の情報収集流用で 港北署では交通課が回収した旧免許証全てを警備課に渡していたといい、今村本部長は「個人情報保護法に抵触する可能性が高い」と指摘。早急に事実関係を確認し、是正や再発防",
-        "url": "https://news.yahoo.co.jp/articles/b1801d7ef221eb6175f1f966ea87876ecfa94eaf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "陸自〝思想調査〟問題 「調査項目自体が憲法上の大問題だ」 憲法学者が指摘 小泉防衛相の姿勢も批判",
+        "url": "https://news.yahoo.co.jp/articles/6834c6cff31ab886e18eb3daf18afc75db706473",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "社説：免許証の流用 警察の不正徹底解明を",
         "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
         "source": "Yahoo",
@@ -19623,18 +19630,18 @@
       {
         "title": "神奈川県警トップの本部長が謝罪 回収免許証の不正利用問題「早急に事実関係を解明",
         "url": "https://news.yahoo.co.jp/articles/ea32f6456335b3e5de03f075ea2fa7379f4f2c0f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警本部長、県民におわび 回収免許証の情報収集流用で 港北署では交通課が回収した旧免許証全てを警備課に渡していたといい、今村本部長は「個人情報保護法に抵触する可能性が高い」と指摘。早急に事実関係を確認し、是正や再発防",
-        "url": "https://news.yahoo.co.jp/articles/b1801d7ef221eb6175f1f966ea87876ecfa94eaf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "陸自〝思想調査〟問題 「調査項目自体が憲法上の大問題だ」 憲法学者が指摘 小泉防衛相の姿勢も批判",
+        "url": "https://news.yahoo.co.jp/articles/6834c6cff31ab886e18eb3daf18afc75db706473",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "社説：免許証の流用 警察の不正徹底解明を",
         "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
         "source": "Yahoo",
@@ -19661,12 +19668,6 @@
       {
         "title": "神奈川県警トップの本部長が謝罪 回収免許証の不正利用問題「早急に事実関係を解明",
         "url": "https://news.yahoo.co.jp/articles/ea32f6456335b3e5de03f075ea2fa7379f4f2c0f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警本部長、県民におわび 回収免許証の情報収集流用で 港北署では交通課が回収した旧免許証全てを警備課に渡していたといい、今村本部長は「個人情報保護法に抵触する可能性が高い」と指摘。早急に事実関係を確認し、是正や再発防",
-        "url": "https://news.yahoo.co.jp/articles/b1801d7ef221eb6175f1f966ea87876ecfa94eaf",
         "source": "Yahoo",
         "date": ""
       }
