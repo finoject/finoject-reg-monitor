@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T08:03:16.626Z",
+  "generatedAt": "2026-10-30T09:35:06.478Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,56 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「金融商品取引業等に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメントの結果の公表",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20261030/20261030.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T09:35:06.478Z",
+      "lawrefs": [
+        {
+          "id": "419M60000002052",
+          "art": "第6条",
+          "kind": "パブコメ",
+          "label": "金融商品取引業等に関する内閣府令 第6条"
+        },
+        {
+          "id": "323AC0000000025",
+          "art": "第46条の6",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第46条の6"
+        },
+        {
+          "id": "323AC0000000025",
+          "art": "第57条の5",
+          "kind": "パブコメ",
+          "label": "金融商品取引法 第57条の5"
+        }
+      ],
+      "enriched": "2026-10-30T09:35:12.966Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融商品取引業者の自己資本規制比率の算出において、自己資本から控除する固定資産のうち解約可能なリース契約の取扱いを整備。特に契約上中途解約可能でも解約損害金が著しく高額で実質的に解約困難なものは控除対象から除外。金商業等府令第177条第2項第3号及び特金告示第6条第2項第3号改正。",
+        "金融商品取引業者は一般に公正妥当と認められる企業会計基準（企業会計基準第34号「リースに関する会計基準」等）に従い、中途解除可能性を判断し、解約損害金の合理性を含めた経済的拘束力に基づいて該当性を判定する必要がある。",
+        "内閣府令及び告示は令和8年10月30日公布・施行・適用。事業継続上の必要性等事業運営上の理由は判断対象外で、契約条件に基づく法的・経済的拘束力のみが判断基準とされる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "会員マイページの緊急メンテナンスに伴う各種手続について",
+      "url": "https://jicpa.or.jp/news/information/2026/20261030gbb.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T09:35:06.478Z",
+      "enriched": "2026-10-30T09:35:12.967Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "会員マイページの緊急メンテナンスに伴い、会員認証を伴うオンライン手続が停止中。開業登録申請（準会員から）はメール連絡後に個別対応、変更登録申請・登録証明書交付依頼はメール又は郵送で受付、紙面郵送手続は通常通り受付。",
+        "公認会計士・会計士補・準会員は、氏名変更時に戸籍抄本（従前戸籍記載）、住所変更時に住民票（従前履歴記載・マイナンバー除外）、監査法人社員就任・脱退時に登記簿を添付して変更登録申請をメール又は郵送で提出（会費減免・CPD減免申請は問合せ窓口に連絡）。",
+        "メンテナンス完了後1か月程度内に法定監査関係書類を電子提出すれば期限内扱い、CPD減免申請（変更）は初回減免申請日が踏襲され期限後申請にならず、11月以降の新規CPD減免申請は申請月1日以降開始日で11月中に申請必要（公認会計士法第20条・会則第30条に基づく変更登録）。"
       ],
       "aiSumV": 3
     },
@@ -18799,6 +18849,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "著名投資家ドラッケンミラー、トレードXYZへの出資を公表。イーロンマスクも反応",
+        "url": "https://news.yahoo.co.jp/articles/c96e2c94245dce860e287ae1ab98fa96e376a0e7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米中間選挙 トランプ大統領に逆風 住宅ローン金利高止まり “腐敗問題”も争点に浮上 そもそもトランプ大統領は、就任前の公約で「アメリカを暗号資産の首都にする」と宣言していた。また、就任後も暗号資産の規制を緩和するなど関連市場の拡大を図ってきた。テレビ朝日系（ANN）国際総合10/30(金) 18:00",
+        "url": "https://news.yahoo.co.jp/articles/177f26609bd643e7ba88998af91736aa826a2bd7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「メタプラネットの全BTCは最高水準コールドストレージで保管」──CEOが強調",
         "url": "https://news.yahoo.co.jp/articles/bb5bb96c8d4e979a54af6e1ffc3d659eed0add8a",
         "source": "Yahoo",
@@ -18819,24 +18881,24 @@
       {
         "title": "暗号資産取引所バイナンスから、史上最大約9280億円相当の暗号資産が流出 世界最大の暗号資産取引所バイナンスのホットウォレットから、最大58億ドル（約9280億円）規模の暗号資産が不正流出した疑いが浮上した。バイナンスは",
         "url": "https://news.yahoo.co.jp/articles/1f4561fcd215aa4d32a1aa4dffb2f4c85661cfbe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "bitFlyer、1兆円ハッキング被害のバイナンスへの送金を制限",
-        "url": "https://news.yahoo.co.jp/articles/cd40715d3f4578779ab7bec54b52b98d872ec4ff",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クリプトドットコムとOG、米国で暗号資産の無期限先物を提供。最大5倍に対応",
-        "url": "https://news.yahoo.co.jp/articles/1ffe923409bde4fc495c0514b304d7f3992b1c47",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "著名投資家ドラッケンミラー、トレードXYZへの出資を公表。イーロンマスクも反応",
+        "url": "https://news.yahoo.co.jp/articles/c96e2c94245dce860e287ae1ab98fa96e376a0e7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米中間選挙 トランプ大統領に逆風 住宅ローン金利高止まり “腐敗問題”も争点に浮上 そもそもトランプ大統領は、就任前の公約で「アメリカを暗号資産の首都にする」と宣言していた。また、就任後も暗号資産の規制を緩和するなど関連市場の拡大を図ってきた。テレビ朝日系（ANN）国際総合10/30(金) 18:00",
+        "url": "https://news.yahoo.co.jp/articles/177f26609bd643e7ba88998af91736aa826a2bd7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「メタプラネットの全BTCは最高水準コールドストレージで保管」──CEOが強調",
         "url": "https://news.yahoo.co.jp/articles/bb5bb96c8d4e979a54af6e1ffc3d659eed0add8a",
         "source": "Yahoo",
@@ -18857,18 +18919,6 @@
       {
         "title": "暗号資産取引所バイナンスから、史上最大約9280億円相当の暗号資産が流出 世界最大の暗号資産取引所バイナンスのホットウォレットから、最大58億ドル（約9280億円）規模の暗号資産が不正流出した疑いが浮上した。バイナンスは",
         "url": "https://news.yahoo.co.jp/articles/1f4561fcd215aa4d32a1aa4dffb2f4c85661cfbe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "bitFlyer、1兆円ハッキング被害のバイナンスへの送金を制限",
-        "url": "https://news.yahoo.co.jp/articles/cd40715d3f4578779ab7bec54b52b98d872ec4ff",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "クリプトドットコムとOG、米国で暗号資産の無期限先物を提供。最大5倍に対応",
-        "url": "https://news.yahoo.co.jp/articles/1ffe923409bde4fc495c0514b304d7f3992b1c47",
         "source": "Yahoo",
         "date": ""
       }
@@ -19027,6 +19077,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "TISIと日本カードネットワーク、ステーブルコイン店頭決済の実証成果を発表",
+        "url": "https://news.yahoo.co.jp/articles/f6146d28c0d44c80a8cc447877ce7848ffe6c190",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンスにハッキング、被害63億ドルで過去最大 北朝鮮関与か",
+        "url": "https://news.yahoo.co.jp/articles/4bd487e2af4b5f539a28a68b5956f76041a47b99",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "約1京2544兆円の企業間決済市場、マスターカードが挑むAIエージェント決済",
+        "url": "https://news.yahoo.co.jp/articles/6e35a51501c74ae160ddee239da0abaf4e98604e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス、史上最大の暗号資産ハッキングで「1兆円」被害を公表 出金を一時停止",
         "url": "https://news.yahoo.co.jp/articles/e5c85ff77cc463a9bffc3bb456e02734ebdabd94",
         "source": "Yahoo",
@@ -19041,30 +19109,30 @@
       {
         "title": "ポリマーケット、第三者サービス侵害で取引一時停止。全面再開し被害者に全額補償へ",
         "url": "https://news.yahoo.co.jp/articles/de17982160f09e37fa8ec7eff52734275d4d696b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "EXPOウォレット後継の1年、総取引高235億円に＝HashPort集計",
-        "url": "https://news.yahoo.co.jp/articles/785038691af2c5d5ae235a010e8cd1f5a4f330ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、Water[.]orgとの提携拡大。RLUSDや決済基盤で水・衛生設備向け融資を支援",
-        "url": "https://news.yahoo.co.jp/articles/1dd957ad0b25888be72da8474a803d4cf6e7c70c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、適格ステーブルコインの「現金」扱いをSECに要請",
-        "url": "https://news.yahoo.co.jp/articles/aa6a9f0f89ff6a05363f04fd97a87b4b71dcd155",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "TISIと日本カードネットワーク、ステーブルコイン店頭決済の実証成果を発表",
+        "url": "https://news.yahoo.co.jp/articles/f6146d28c0d44c80a8cc447877ce7848ffe6c190",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンスにハッキング、被害63億ドルで過去最大 北朝鮮関与か",
+        "url": "https://news.yahoo.co.jp/articles/4bd487e2af4b5f539a28a68b5956f76041a47b99",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "約1京2544兆円の企業間決済市場、マスターカードが挑むAIエージェント決済",
+        "url": "https://news.yahoo.co.jp/articles/6e35a51501c74ae160ddee239da0abaf4e98604e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス、史上最大の暗号資産ハッキングで「1兆円」被害を公表 出金を一時停止",
         "url": "https://news.yahoo.co.jp/articles/e5c85ff77cc463a9bffc3bb456e02734ebdabd94",
         "source": "Yahoo",
@@ -19079,24 +19147,6 @@
       {
         "title": "ポリマーケット、第三者サービス侵害で取引一時停止。全面再開し被害者に全額補償へ",
         "url": "https://news.yahoo.co.jp/articles/de17982160f09e37fa8ec7eff52734275d4d696b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "EXPOウォレット後継の1年、総取引高235億円に＝HashPort集計",
-        "url": "https://news.yahoo.co.jp/articles/785038691af2c5d5ae235a010e8cd1f5a4f330ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、Water[.]orgとの提携拡大。RLUSDや決済基盤で水・衛生設備向け融資を支援",
-        "url": "https://news.yahoo.co.jp/articles/1dd957ad0b25888be72da8474a803d4cf6e7c70c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サークル、適格ステーブルコインの「現金」扱いをSECに要請",
-        "url": "https://news.yahoo.co.jp/articles/aa6a9f0f89ff6a05363f04fd97a87b4b71dcd155",
         "source": "Yahoo",
         "date": ""
       }
@@ -19817,6 +19867,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "高市政権は国民の個人情報などどうでもいい",
+        "url": "https://news.yahoo.co.jp/articles/ca462df30f661defd192712c3034f3423a3c6cd3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「パク・シフのせいで家庭崩壊」 虚偽の投稿をした女に懲役10月",
         "url": "https://news.yahoo.co.jp/articles/47c772fc0d7f32dad6c57d140c9679a6bc67dfaa",
         "source": "Yahoo",
@@ -19843,18 +19899,18 @@
       {
         "title": "陸自〝思想調査〟問題 「調査項目自体が憲法上の大問題だ」 憲法学者が指摘 小泉防衛相の姿勢も批判",
         "url": "https://news.yahoo.co.jp/articles/6834c6cff31ab886e18eb3daf18afc75db706473",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "社説：免許証の流用 警察の不正徹底解明を",
-        "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "高市政権は国民の個人情報などどうでもいい",
+        "url": "https://news.yahoo.co.jp/articles/ca462df30f661defd192712c3034f3423a3c6cd3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「パク・シフのせいで家庭崩壊」 虚偽の投稿をした女に懲役10月",
         "url": "https://news.yahoo.co.jp/articles/47c772fc0d7f32dad6c57d140c9679a6bc67dfaa",
         "source": "Yahoo",
@@ -19881,18 +19937,18 @@
       {
         "title": "陸自〝思想調査〟問題 「調査項目自体が憲法上の大問題だ」 憲法学者が指摘 小泉防衛相の姿勢も批判",
         "url": "https://news.yahoo.co.jp/articles/6834c6cff31ab886e18eb3daf18afc75db706473",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "社説：免許証の流用 警察の不正徹底解明を",
-        "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "高市政権は国民の個人情報などどうでもいい",
+        "url": "https://news.yahoo.co.jp/articles/ca462df30f661defd192712c3034f3423a3c6cd3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「パク・シフのせいで家庭崩壊」 虚偽の投稿をした女に懲役10月",
         "url": "https://news.yahoo.co.jp/articles/47c772fc0d7f32dad6c57d140c9679a6bc67dfaa",
         "source": "Yahoo",
@@ -19919,12 +19975,6 @@
       {
         "title": "陸自〝思想調査〟問題 「調査項目自体が憲法上の大問題だ」 憲法学者が指摘 小泉防衛相の姿勢も批判",
         "url": "https://news.yahoo.co.jp/articles/6834c6cff31ab886e18eb3daf18afc75db706473",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "社説：免許証の流用 警察の不正徹底解明を",
-        "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
         "source": "Yahoo",
         "date": ""
       }
