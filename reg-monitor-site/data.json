@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T06:24:02.185Z",
+  "generatedAt": "2026-10-30T08:03:16.626Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,176 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "ＥＲＴＨ Ｇｒｏｕｐ（6072）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T08:03:16.626Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-30T08:03:25.548Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]プライム市場からスタンダード市場への変更：フロンティア・マネジメント（株）",
+      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T08:03:16.626Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
+        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
+        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-30T08:03:25.548Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]TOKYO PRO Marketへの上場申請：InfiniCloud（株）",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T08:03:16.626Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-10-30T08:03:25.548Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "総裁記者会見（10月30日）動画の配信開始",
+      "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T08:03:16.626Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の総裁定例記者会見の動画が日本銀行動画チャンネル（YouTube）で配信されている",
+        "国民および関係者が該当チャンネルにアクセスして総裁記者会見の内容を視聴できる",
+        "日本銀行の公開情報として、記者会見動画の配信を通じた情報発信が実施されている"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-30T08:03:25.548Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "パブリックコメントの募集の結果について",
+      "url": "https://www.jsda.or.jp/about/public/kekka/index.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T08:03:16.626Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は「特定投資家等に対する店頭有価証券の取引に関する規則」制定案について、2026年3月17日から4月15日にパブリックコメントを募集し、19件4先からの意見に対する考え方を示した。",
+        "協会は、非上場株式等の原則勧誘禁止規定を見直し、スタートアップ企業等への資金供給拡大のため、勧誘制度を規定する自主規制規則に基づき勧誘を行うよう改正することが適当と判断した。",
+        "改正規則では、非上場株式等の勧誘・取引について、社内管理態勢整備や顧客説明義務等を規定し、投資者保護と適切なガバナンスの確保を図る。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-30T08:03:27.953Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）［日程更新］",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T08:03:16.626Z",
+      "enriched": "2026-10-30T08:03:27.953Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年10～12月の長期国債買入れ（利回り・価格入札方式）について、残存期間別に1回当たりおよび月間のオファー金額を設定し、10～11月分の具体的なオファー日程を公表した。月間合計23,000億円。",
+        "市場参加者は公表されたオファー日程に基づき、各残存期間セグメント（1年以下から25年超まで）の入札に参加する必要がある。実際のオファー金額は目安であり、オファー通知で確認すること。",
+        "2026年10月30日の本公表から適用。12月分の日程は11月30日17時に公表予定、2027年1～3月分は12月25日17時に公表予定。市場動向により回数変更の可能性あり。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "米ドル資金供給オペレーションのオファー日程（2026年11月～2027年3月）",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T08:03:16.626Z",
+      "enriched": "2026-10-30T08:03:27.953Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年11月から2027年3月まで米ドル資金供給オペを実施し、オファー日時は毎週異なり日本時間10:40にオファー・11:30に応募締切・11:45頃に結果公表する。",
+        "金融機関等の参加者は各オファー日（11月4日から3月23日まで原則週1回）に応募し、ローン期間は6～14日で固定金利が適用され、応募金額制限なしで利用可能。",
+        "本オペは日本銀行金融市場局により実施され、個別のオファー日程・期間・金利条件は本文別表に記載の米国東部時間でのスタート日・エンド日に従う。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）プロレド・パートナーズほか1銘柄",
+      "url": "https://www.jpx.co.jp/news/1021/20261030-22.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T08:03:16.626Z",
+      "enriched": "2026-10-30T08:03:27.953Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "プロレド・パートナーズ（コード7034、プライム市場）とトップカルチャー（コード7640、スタンダード市場）が監理銘柄（確認中）に指定され、前回基準日で上場維持基準に不適合だったため改善期間内の適合が求められる。",
+        "両社は上場維持基準への適合状況を「株券等の分布状況表」提出で審査されており、プロレド・パートナーズは2030年10月31日までの超過計画期限までに基準適合がなければ上場廃止となる。",
+        "有価証券上場規程施行規則第604条第1項第1号に基づき、2026年11月1日から当取引所が上場廃止基準該当を認定した日まで監理銘柄（確認中）の指定が継続される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）光・彩",
+      "url": "https://www.jpx.co.jp/news/1021/20261030-21.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T08:03:16.626Z",
+      "enriched": "2026-10-30T08:03:27.953Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）光・彩（コード7878、スタンダード市場）について、2026年10月30日から11月30日まで整理銘柄に指定し、12月1日付で東証上場を廃止することを決定した。",
+        "同社株式は名古屋証券取引所で上場継続されるため、信用取引委託保証金や取引参加者保証金など代用有価証券から除外されない。取引参加者は該当する代用有価証券取扱いを継続する必要がある。",
+        "有価証券上場規程第606条に基づき、同社の上場廃止申請により東証が上場廃止を決定した。速やかに廃止すべき事情発生時は整理銘柄指定期間と廃止日を変更することがある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：ＮＥＸＴ ＦＵＮＤＳ ＣＳＯＰ 中国ＡＩ関連株（香港上場）指数連動型上場投信（野村アセットマネジメント）",
+      "url": "https://www.jpx.co.jp/news/1070/20261030.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T08:03:16.626Z",
+      "enriched": "2026-10-30T08:03:27.953Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "野村アセットマネジメント株式会社が運用する「NEXT FUNDS CSOP 中国AI関連株（香港上場）指数連動型上場投信」（コード671A）が東京証券取引所に新規上場承認され、対象指標はSolactive CSOP中国AI関連株指数（税引後配当込み）に連動する。信託報酬は0.35%（税込0.385%）以内。",
+        "投資家は2026年11月30日の上場日から全国の証券会社で当ETFを10口単位で売買でき、特定口座での取扱いが可能。香港証券取引所上場の中国AI関連企業（ハードウェア・ソフトウェア・アプリケーション分野の時価総額上位20銘柄）に投資される。",
+        "本件は日本取引所自主規制法人の審査結果に基づき2026年10月30日に上場承認された。年1回の分配金支払基準日は毎年9月10日、第1計算期間は2026年11月26日から2027年9月10日までとされている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「当協会の調査について」",
+      "url": "https://jicpa.or.jp/news/information/2026/20261030ejq.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T08:03:16.626Z",
+      "enriched": "2026-10-30T08:03:27.953Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本公認会計士協会が産業用電子機器メーカーの監査に関与した会員を対象に、監査実施状況の調査を開始した。",
+        "当該会員は会則・規則に則った適切な対応が求められ、協会からの調査に応じる必要がある。",
+        "2026年10月30日付でプレスリリースが発表され、調査は同日以降実施される。"
       ],
       "aiSumV": 3
     },
@@ -256,22 +426,6 @@
         "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
         "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
         "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-29T07:21:53.429Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ブロードメディア（4347）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-10-29",
-      "detectedAt": "2026-10-29T07:21:48.282Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
       ],
       "aiSumV": 3,
       "updated": true,
@@ -610,22 +764,6 @@
         "日本銀行調査統計局が2026年10月27日8時50分に速報値を公表し、時系列データは「時系列統計データ検索サイト」から入手可能。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]プライム市場からスタンダード市場への変更：大幸薬品（株）",
-      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
-      "date": "2026-10-26",
-      "detectedAt": "2026-10-26T07:44:16.414Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
-        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
-        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-26T07:44:26.286Z"
     },
     {
       "agency": "日本証券業協会",
@@ -1646,22 +1784,6 @@
         "2026年10月16日時点で緊急メンテナンス実施中であり、システム安定稼働のための措置である。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）アイグローブ",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-10-16",
-      "detectedAt": "2026-10-16T07:29:59.207Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-10-16T07:30:04.867Z"
     },
     {
       "agency": "日本証券業協会",
@@ -4856,22 +4978,6 @@
         "投資信託・外貨建保険の共通KPI分析結果（令和8年3月末基準）が公表され、金融事業者が報告したデータをクレンジング・集計した運用損益別顧客比率等の指標により、コストに見合ったリターンを比較検討できる環境整備を実施。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "総裁記者会見（9月18日）動画の配信開始",
-      "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
-      "date": "2026-09-18",
-      "detectedAt": "2026-09-18T08:07:37.611Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行の総裁定例記者会見の動画が日本銀行動画チャンネル（YouTube）で配信されている",
-        "国民および関係者が該当チャンネルにアクセスして総裁記者会見の内容を視聴できる",
-        "日本銀行の公開情報として、記者会見動画の配信を通じた情報発信が実施されている"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-18T08:07:42.517Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -18317,21 +18423,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "パブリックコメントの募集の結果について",
-      "url": "https://www.jsda.or.jp/about/public/kekka/index.html",
-      "date": "2026-04-09",
-      "detectedAt": "2026-06-15T04:55:51.471Z",
-      "enriched": "2026-06-19T06:03:54.210Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は「特定投資家等に対する店頭有価証券の取引に関する規則」制定案について、2026年3月17日から4月15日にパブリックコメントを募集し、19件4先からの意見に対する考え方を示した。",
-        "協会は、非上場株式等の原則勧誘禁止規定を見直し、スタートアップ企業等への資金供給拡大のため、勧誘制度を規定する自主規制規則に基づき勧誘を行うよう改正することが適当と判断した。",
-        "改正規則では、非上場株式等の勧誘・取引について、社内管理態勢整備や顧客説明義務等を規定し、投資者保護と適切なガバナンスの確保を図る。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "第15回日本証券サミットのサマリー動画をリリースしました。",
       "url": "https://www.jsda.or.jp/about/international/jss2026.html",
       "date": "2026-04-03",
@@ -18480,6 +18571,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "夫妻でインサイダー取引、有罪 TKP元社員ら、東京地裁判決 貸会議室大手TKPの未公開情報を基にインサイダー取引をしたとして、金融商品取引法違反の罪に問われた元社員細田有紗被告（37）に東京地裁は30日、懲役",
         "url": "https://news.yahoo.co.jp/articles/582e639703873890d97af9d48e1f7b2a24803b60",
         "source": "Yahoo",
@@ -18500,24 +18603,24 @@
       {
         "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
         "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "VanEck、ビットコインを2%組み込んだオールインワンETFを上場",
-        "url": "https://news.yahoo.co.jp/articles/35d1db6fa938da9094421c7d425444723446743f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
-        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "夫妻でインサイダー取引、有罪 TKP元社員ら、東京地裁判決 貸会議室大手TKPの未公開情報を基にインサイダー取引をしたとして、金融商品取引法違反の罪に問われた元社員細田有紗被告（37）に東京地裁は30日、懲役",
         "url": "https://news.yahoo.co.jp/articles/582e639703873890d97af9d48e1f7b2a24803b60",
         "source": "Yahoo",
@@ -18538,24 +18641,24 @@
       {
         "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
         "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "VanEck、ビットコインを2%組み込んだオールインワンETFを上場",
-        "url": "https://news.yahoo.co.jp/articles/35d1db6fa938da9094421c7d425444723446743f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
-        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "夫妻でインサイダー取引、有罪 TKP元社員ら、東京地裁判決 貸会議室大手TKPの未公開情報を基にインサイダー取引をしたとして、金融商品取引法違反の罪に問われた元社員細田有紗被告（37）に東京地裁は30日、懲役",
         "url": "https://news.yahoo.co.jp/articles/582e639703873890d97af9d48e1f7b2a24803b60",
         "source": "Yahoo",
@@ -18576,24 +18679,24 @@
       {
         "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
         "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "VanEck、ビットコインを2%組み込んだオールインワンETFを上場",
-        "url": "https://news.yahoo.co.jp/articles/35d1db6fa938da9094421c7d425444723446743f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
-        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
+        "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "夫妻でインサイダー取引、有罪 TKP元社員ら、東京地裁判決 貸会議室大手TKPの未公開情報を基にインサイダー取引をしたとして、金融商品取引法違反の罪に問われた元社員細田有紗被告（37）に東京地裁は30日、懲役",
         "url": "https://news.yahoo.co.jp/articles/582e639703873890d97af9d48e1f7b2a24803b60",
         "source": "Yahoo",
@@ -18614,18 +18717,6 @@
       {
         "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
         "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "VanEck、ビットコインを2%組み込んだオールインワンETFを上場",
-        "url": "https://news.yahoo.co.jp/articles/35d1db6fa938da9094421c7d425444723446743f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NECとDFNS、国内金融機関向けデジタル資産基盤で協業へ。カストディシステムへの技術活用を検討",
-        "url": "https://news.yahoo.co.jp/articles/731c86d951fdaa6817fde5882f525b8d5e33af3b",
         "source": "Yahoo",
         "date": ""
       }
@@ -18708,8 +18799,26 @@
     ],
     "429M60000002007": [
       {
+        "title": "「メタプラネットの全BTCは最高水準コールドストレージで保管」──CEOが強調",
+        "url": "https://news.yahoo.co.jp/articles/bb5bb96c8d4e979a54af6e1ffc3d659eed0add8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サークル、適格ステーブルコインの「現金」扱いをSECに要請",
+        "url": "https://news.yahoo.co.jp/articles/aa6a9f0f89ff6a05363f04fd97a87b4b71dcd155",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "NYSE親会社ICE、トレードXYZと米国で無期限先物市場構築へ。ハイパーリキッド活用",
         "url": "https://news.yahoo.co.jp/articles/8f54406eb21565d33f2352ba6273da9847758fe0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産取引所バイナンスから、史上最大約9280億円相当の暗号資産が流出 世界最大の暗号資産取引所バイナンスのホットウォレットから、最大58億ドル（約9280億円）規模の暗号資産が不正流出した疑いが浮上した。バイナンスは",
+        "url": "https://news.yahoo.co.jp/articles/1f4561fcd215aa4d32a1aa4dffb2f4c85661cfbe",
         "source": "Yahoo",
         "date": ""
       },
@@ -18722,32 +18831,32 @@
       {
         "title": "クリプトドットコムとOG、米国で暗号資産の無期限先物を提供。最大5倍に対応",
         "url": "https://news.yahoo.co.jp/articles/1ffe923409bde4fc495c0514b304d7f3992b1c47",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットゴーとジュピターが提携、既存のカストディ口座からSOLステーキング可能に",
-        "url": "https://news.yahoo.co.jp/articles/e323852b3b4da68c70990b4c890ad3c260a9c383",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NYSE親会社ICE、ハイパーリキッド基盤の無期限先物を米国へ導入──HYPEが急騰",
-        "url": "https://news.yahoo.co.jp/articles/e8f030bc2e8a9a44945aecc09995076bce4a34c3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビザのステーブルコイン清算額が10倍に拡大──市場残高は減少も、企業決済への導入が加速【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/342cf8431218d93ed98a33f961576884786c0dfd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "「メタプラネットの全BTCは最高水準コールドストレージで保管」──CEOが強調",
+        "url": "https://news.yahoo.co.jp/articles/bb5bb96c8d4e979a54af6e1ffc3d659eed0add8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サークル、適格ステーブルコインの「現金」扱いをSECに要請",
+        "url": "https://news.yahoo.co.jp/articles/aa6a9f0f89ff6a05363f04fd97a87b4b71dcd155",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "NYSE親会社ICE、トレードXYZと米国で無期限先物市場構築へ。ハイパーリキッド活用",
         "url": "https://news.yahoo.co.jp/articles/8f54406eb21565d33f2352ba6273da9847758fe0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産取引所バイナンスから、史上最大約9280億円相当の暗号資産が流出 世界最大の暗号資産取引所バイナンスのホットウォレットから、最大58億ドル（約9280億円）規模の暗号資産が不正流出した疑いが浮上した。バイナンスは",
+        "url": "https://news.yahoo.co.jp/articles/1f4561fcd215aa4d32a1aa4dffb2f4c85661cfbe",
         "source": "Yahoo",
         "date": ""
       },
@@ -18760,24 +18869,6 @@
       {
         "title": "クリプトドットコムとOG、米国で暗号資産の無期限先物を提供。最大5倍に対応",
         "url": "https://news.yahoo.co.jp/articles/1ffe923409bde4fc495c0514b304d7f3992b1c47",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットゴーとジュピターが提携、既存のカストディ口座からSOLステーキング可能に",
-        "url": "https://news.yahoo.co.jp/articles/e323852b3b4da68c70990b4c890ad3c260a9c383",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "NYSE親会社ICE、ハイパーリキッド基盤の無期限先物を米国へ導入──HYPEが急騰",
-        "url": "https://news.yahoo.co.jp/articles/e8f030bc2e8a9a44945aecc09995076bce4a34c3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビザのステーブルコイン清算額が10倍に拡大──市場残高は減少も、企業決済への導入が加速【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/342cf8431218d93ed98a33f961576884786c0dfd",
         "source": "Yahoo",
         "date": ""
       }
@@ -18936,76 +19027,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "ACIワールドワイドとサークルが協業、コロンビアでUSDC精算の実証へ",
-        "url": "https://news.yahoo.co.jp/articles/d57282b1e3b1faef1279cc6c9f1b5e9fa22a83a0",
+        "title": "バイナンス、史上最大の暗号資産ハッキングで「1兆円」被害を公表 出金を一時停止",
+        "url": "https://news.yahoo.co.jp/articles/e5c85ff77cc463a9bffc3bb456e02734ebdabd94",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "バイナンスの1兆円流出は「北朝鮮ハッカー集団の犯行」＝TRM",
-        "url": "https://news.yahoo.co.jp/articles/43a7a12a74c3a3a3b8c33d425a9b287f4f8895ed",
+        "title": "リップル、製品売上高は年換算9億ドルへ。BNYやロビンフッドと連携拡大",
+        "url": "https://news.yahoo.co.jp/articles/80889b98f676940736c484eeedd30e2c6211509a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ポリゴンラボ、「Open Money Stack」のソラナ対応を拡充。銀行入出金など一括提供",
-        "url": "https://news.yahoo.co.jp/articles/db38b5eef22ad9068097ba15fab57b35d8d4ebba",
+        "title": "ポリマーケット、第三者サービス侵害で取引一時停止。全面再開し被害者に全額補償へ",
+        "url": "https://news.yahoo.co.jp/articles/de17982160f09e37fa8ec7eff52734275d4d696b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI新生信託銀行、SBIクリアリング信託を吸収合併へ。デジタル金融機能を集約",
-        "url": "https://news.yahoo.co.jp/articles/4184442c7f19ede0104c46ee6b5bc1e178cae483",
+        "title": "EXPOウォレット後継の1年、総取引高235億円に＝HashPort集計",
+        "url": "https://news.yahoo.co.jp/articles/785038691af2c5d5ae235a010e8cd1f5a4f330ee",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "コインベース、予測市場収益が年換算2億ドル超に。Coinbase One有料加入者は過去最多",
-        "url": "https://news.yahoo.co.jp/articles/a415726b38fe7edad488cbadeb7a0e92e2a14423",
+        "title": "リップル、Water[.]orgとの提携拡大。RLUSDや決済基盤で水・衛生設備向け融資を支援",
+        "url": "https://news.yahoo.co.jp/articles/1dd957ad0b25888be72da8474a803d4cf6e7c70c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "【最新情報まとめ】バイナンス、不正流出の推定影響額は約1兆円。従業員PC侵害の可能性、全額補填へ",
-        "url": "https://news.yahoo.co.jp/articles/fd08bfdec9ac6bebe87ee6f86b11e8e3cd0e31b2",
+        "title": "サークル、適格ステーブルコインの「現金」扱いをSECに要請",
+        "url": "https://news.yahoo.co.jp/articles/aa6a9f0f89ff6a05363f04fd97a87b4b71dcd155",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "ACIワールドワイドとサークルが協業、コロンビアでUSDC精算の実証へ",
-        "url": "https://news.yahoo.co.jp/articles/d57282b1e3b1faef1279cc6c9f1b5e9fa22a83a0",
+        "title": "バイナンス、史上最大の暗号資産ハッキングで「1兆円」被害を公表 出金を一時停止",
+        "url": "https://news.yahoo.co.jp/articles/e5c85ff77cc463a9bffc3bb456e02734ebdabd94",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "バイナンスの1兆円流出は「北朝鮮ハッカー集団の犯行」＝TRM",
-        "url": "https://news.yahoo.co.jp/articles/43a7a12a74c3a3a3b8c33d425a9b287f4f8895ed",
+        "title": "リップル、製品売上高は年換算9億ドルへ。BNYやロビンフッドと連携拡大",
+        "url": "https://news.yahoo.co.jp/articles/80889b98f676940736c484eeedd30e2c6211509a",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ポリゴンラボ、「Open Money Stack」のソラナ対応を拡充。銀行入出金など一括提供",
-        "url": "https://news.yahoo.co.jp/articles/db38b5eef22ad9068097ba15fab57b35d8d4ebba",
+        "title": "ポリマーケット、第三者サービス侵害で取引一時停止。全面再開し被害者に全額補償へ",
+        "url": "https://news.yahoo.co.jp/articles/de17982160f09e37fa8ec7eff52734275d4d696b",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI新生信託銀行、SBIクリアリング信託を吸収合併へ。デジタル金融機能を集約",
-        "url": "https://news.yahoo.co.jp/articles/4184442c7f19ede0104c46ee6b5bc1e178cae483",
+        "title": "EXPOウォレット後継の1年、総取引高235億円に＝HashPort集計",
+        "url": "https://news.yahoo.co.jp/articles/785038691af2c5d5ae235a010e8cd1f5a4f330ee",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "コインベース、予測市場収益が年換算2億ドル超に。Coinbase One有料加入者は過去最多",
-        "url": "https://news.yahoo.co.jp/articles/a415726b38fe7edad488cbadeb7a0e92e2a14423",
+        "title": "リップル、Water[.]orgとの提携拡大。RLUSDや決済基盤で水・衛生設備向け融資を支援",
+        "url": "https://news.yahoo.co.jp/articles/1dd957ad0b25888be72da8474a803d4cf6e7c70c",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "【最新情報まとめ】バイナンス、不正流出の推定影響額は約1兆円。従業員PC侵害の可能性、全額補填へ",
-        "url": "https://news.yahoo.co.jp/articles/fd08bfdec9ac6bebe87ee6f86b11e8e3cd0e31b2",
+        "title": "サークル、適格ステーブルコインの「現金」扱いをSECに要請",
+        "url": "https://news.yahoo.co.jp/articles/aa6a9f0f89ff6a05363f04fd97a87b4b71dcd155",
         "source": "Yahoo",
         "date": ""
       }
