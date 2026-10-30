@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:18:47.421Z",
+  "generatedAt": "2026-10-30T01:56:53.019Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -15,6 +15,38 @@
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "2026年度の東京レポ・レートのレファレンス先について",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/trr/index.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T01:56:53.019Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2026年度の東京レポ・レートのレファレンス先を決定し、同年10月1日から適用する旨を公表した。",
+        "レポ取引の市場実勢把握と透明性向上を目的とした東京レポ・レートについて、協会が2012年10月以降の公表主体として管理・運営している。",
+        "短期金融市場の重要指標であるレポ・レートの信頼性維持のため、レファレンス先による市場データ提供と協会による定期的な作成・公表が継続される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-30T01:56:59.174Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "総裁記者会見ライブ配信（10月30日15時30分予定）",
+      "url": "https://www.boj.or.jp/about/release/sousailive.htm",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T01:56:53.019Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行総裁記者会見を7月31日15時30分から日本銀行動画チャンネル（YouTube）でライブ配信予定",
+        "金融市場関係者・メディア等が記者会見の内容をリアルタイムで視聴可能",
+        "配信予定日時：2026年7月31日15時30分から（日本銀行動画チャンネルYouTube）"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-10-30T01:56:59.174Z"
     },
     {
       "agency": "日本証券業協会",
@@ -69,7 +101,13 @@
       "date": "2026-10-30",
       "detectedAt": "2026-10-30T00:18:47.421Z",
       "enriched": "2026-10-30T00:18:55.608Z",
-      "enrichV": 2
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA移転制限付暗号資産情報提供規則第5条第3項に基づく公表内容が2026年10月30日付で更新された。",
+        "JVCEA会員及び暗号資産利用者は「詳細はこちら」リンク先で最新の移転制限付暗号資産情報を確認する必要がある。",
+        "移転制限付暗号資産に関する情報提供及び公表については当該規則第5条第3項の要件に基づき継続的に更新される。"
+      ],
+      "aiSumV": 3
     },
     {
       "agency": "日本証券業協会",
@@ -3177,21 +3215,6 @@
     },
     {
       "agency": "日本証券業協会",
-      "title": "2026年度の東京レポ・レートのレファレンス先について",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/trr/index.html",
-      "date": "2026-10-01",
-      "detectedAt": "2026-10-01T02:31:49.754Z",
-      "enriched": "2026-10-01T02:31:54.215Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は2026年度の東京レポ・レートのレファレンス先を決定し、同年10月1日から適用する旨を公表した。",
-        "レポ取引の市場実勢把握と透明性向上を目的とした東京レポ・レートについて、協会が2012年10月以降の公表主体として管理・運営している。",
-        "短期金融市場の重要指標であるレポ・レートの信頼性維持のため、レファレンス先による市場データ提供と協会による定期的な作成・公表が継続される。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
       "title": "協会員向け研修情報誌「研修Newsletter」(Vol.16)を掲載しました",
       "url": "https://www.jsda.or.jp/shijyo/seido/jishukisei/kensyunewsletter/index.html",
       "date": "2026-10-01",
@@ -4827,22 +4850,6 @@
         "本文提供後に、対象金融機関の対応義務、通知受取期限、日本銀行法および関連規程への適用関係を記載します。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "総裁記者会見ライブ配信（9月18日15時30分予定）",
-      "url": "https://www.boj.or.jp/about/release/sousailive.htm",
-      "date": "2026-09-18",
-      "detectedAt": "2026-09-18T00:35:08.021Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行総裁記者会見を7月31日15時30分から日本銀行動画チャンネル（YouTube）でライブ配信予定",
-        "金融市場関係者・メディア等が記者会見の内容をリアルタイムで視聴可能",
-        "配信予定日時：2026年7月31日15時30分から（日本銀行動画チャンネルYouTube）"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-18T00:35:13.876Z"
     },
     {
       "agency": "日本銀行",
@@ -18809,6 +18816,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "暗号資産下落、バイナンスがセキュリティー問題報告 ＢＣ6週間ぶり安値",
+        "url": "https://news.yahoo.co.jp/articles/03e713cf12d44b5a755845175280d91ac5bb9ae6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三井住友FG、SBIとステーブルコインで協業──合弁会社に5％出資へ＝日経",
+        "url": "https://news.yahoo.co.jp/articles/0b724d58fcfb1167105abfc43b1ac902dfa061b0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米バイナンス、3160億円超相当の暗号資産が流出との報道──テザーとサークル上の関連資産凍結",
+        "url": "https://news.yahoo.co.jp/articles/3b935b7fe7b269bf35bf30addcbd370660d1ed94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Polymarket、4億円超の不正流出疑惑──取引を一時停止後に再開",
         "url": "https://news.yahoo.co.jp/articles/608d9d31d188489a3ff675bf5e052dc048574a05",
         "source": "Yahoo",
@@ -18823,30 +18848,30 @@
       {
         "title": "Visa、ステーブルコインの年間決済額が約3.9兆円超に──前年比10倍",
         "url": "https://news.yahoo.co.jp/articles/eb41e9ee6f04ccade5065406668c8c5e0c191bc8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、北朝鮮の偽装IT就労支援者らに制裁──暗号資産の換金にも関与",
-        "url": "https://news.yahoo.co.jp/articles/d054e1564a3fd95c1879aa60ac6a71e0023c607f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "グーグル、暗号資産の「秘密鍵」を1か所に置かない新基盤",
-        "url": "https://news.yahoo.co.jp/articles/1a99967077b9d35a872134f9f6f987a1719179b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始",
-        "url": "https://news.yahoo.co.jp/articles/bba7ae1987e2362e1f5c07672c8fddf2c98ab9fb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "暗号資産下落、バイナンスがセキュリティー問題報告 ＢＣ6週間ぶり安値",
+        "url": "https://news.yahoo.co.jp/articles/03e713cf12d44b5a755845175280d91ac5bb9ae6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三井住友FG、SBIとステーブルコインで協業──合弁会社に5％出資へ＝日経",
+        "url": "https://news.yahoo.co.jp/articles/0b724d58fcfb1167105abfc43b1ac902dfa061b0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米バイナンス、3160億円超相当の暗号資産が流出との報道──テザーとサークル上の関連資産凍結",
+        "url": "https://news.yahoo.co.jp/articles/3b935b7fe7b269bf35bf30addcbd370660d1ed94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Polymarket、4億円超の不正流出疑惑──取引を一時停止後に再開",
         "url": "https://news.yahoo.co.jp/articles/608d9d31d188489a3ff675bf5e052dc048574a05",
         "source": "Yahoo",
@@ -18861,24 +18886,6 @@
       {
         "title": "Visa、ステーブルコインの年間決済額が約3.9兆円超に──前年比10倍",
         "url": "https://news.yahoo.co.jp/articles/eb41e9ee6f04ccade5065406668c8c5e0c191bc8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、北朝鮮の偽装IT就労支援者らに制裁──暗号資産の換金にも関与",
-        "url": "https://news.yahoo.co.jp/articles/d054e1564a3fd95c1879aa60ac6a71e0023c607f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "グーグル、暗号資産の「秘密鍵」を1か所に置かない新基盤",
-        "url": "https://news.yahoo.co.jp/articles/1a99967077b9d35a872134f9f6f987a1719179b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始",
-        "url": "https://news.yahoo.co.jp/articles/bba7ae1987e2362e1f5c07672c8fddf2c98ab9fb",
         "source": "Yahoo",
         "date": ""
       }
@@ -19599,6 +19606,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「これ開示だな」ヒカキンさんへのいたずら宅配、注文した人を特定できるの？ 弁護士が解説",
+        "url": "https://news.yahoo.co.jp/articles/f58468476a61928198b346192f1e0db278913553",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "委託先のミスで個人情報漏えい",
+        "url": "https://news.yahoo.co.jp/articles/aa6e00ee1545142f3d8db750af5ce087947ed5dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "不正アクセスで個人情報漏えい、４月以降延べ２億６０００万人分",
         "url": "https://news.yahoo.co.jp/articles/ad52aafce2173f1f5f3a0395e101a10ca8b875e7",
         "source": "Yahoo",
@@ -19619,24 +19638,24 @@
       {
         "title": "失効免許証の不正流用、西日本の県警でも 元公安捜査員が新証言",
         "url": "https://news.yahoo.co.jp/articles/d57cf775462b06a687fe5fd4611db78129ae0dec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警トップの本部長が謝罪 回収免許証の不正利用問題「早急に事実関係を解明」",
-        "url": "https://news.yahoo.co.jp/articles/cfce631453e664543c90f3f04e2ec97ba1cc8a4f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「法抵触の可能性高い」免許不正流用 神奈川県警本部長が謝罪",
-        "url": "https://news.yahoo.co.jp/articles/1212cc5a71bb4671986d847239acbca9a5554a9d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「これ開示だな」ヒカキンさんへのいたずら宅配、注文した人を特定できるの？ 弁護士が解説",
+        "url": "https://news.yahoo.co.jp/articles/f58468476a61928198b346192f1e0db278913553",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "委託先のミスで個人情報漏えい",
+        "url": "https://news.yahoo.co.jp/articles/aa6e00ee1545142f3d8db750af5ce087947ed5dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "不正アクセスで個人情報漏えい、４月以降延べ２億６０００万人分",
         "url": "https://news.yahoo.co.jp/articles/ad52aafce2173f1f5f3a0395e101a10ca8b875e7",
         "source": "Yahoo",
@@ -19657,24 +19676,24 @@
       {
         "title": "失効免許証の不正流用、西日本の県警でも 元公安捜査員が新証言",
         "url": "https://news.yahoo.co.jp/articles/d57cf775462b06a687fe5fd4611db78129ae0dec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警トップの本部長が謝罪 回収免許証の不正利用問題「早急に事実関係を解明」",
-        "url": "https://news.yahoo.co.jp/articles/cfce631453e664543c90f3f04e2ec97ba1cc8a4f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「法抵触の可能性高い」免許不正流用 神奈川県警本部長が謝罪",
-        "url": "https://news.yahoo.co.jp/articles/1212cc5a71bb4671986d847239acbca9a5554a9d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「これ開示だな」ヒカキンさんへのいたずら宅配、注文した人を特定できるの？ 弁護士が解説",
+        "url": "https://news.yahoo.co.jp/articles/f58468476a61928198b346192f1e0db278913553",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "委託先のミスで個人情報漏えい",
+        "url": "https://news.yahoo.co.jp/articles/aa6e00ee1545142f3d8db750af5ce087947ed5dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "不正アクセスで個人情報漏えい、４月以降延べ２億６０００万人分",
         "url": "https://news.yahoo.co.jp/articles/ad52aafce2173f1f5f3a0395e101a10ca8b875e7",
         "source": "Yahoo",
@@ -19695,18 +19714,6 @@
       {
         "title": "失効免許証の不正流用、西日本の県警でも 元公安捜査員が新証言",
         "url": "https://news.yahoo.co.jp/articles/d57cf775462b06a687fe5fd4611db78129ae0dec",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警トップの本部長が謝罪 回収免許証の不正利用問題「早急に事実関係を解明」",
-        "url": "https://news.yahoo.co.jp/articles/cfce631453e664543c90f3f04e2ec97ba1cc8a4f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「法抵触の可能性高い」免許不正流用 神奈川県警本部長が謝罪",
-        "url": "https://news.yahoo.co.jp/articles/1212cc5a71bb4671986d847239acbca9a5554a9d",
         "source": "Yahoo",
         "date": ""
       }
