@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T03:28:18.195Z",
+  "generatedAt": "2026-10-30T04:59:54.793Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：MabGenesis（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20261030_01.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T04:59:54.793Z",
+      "enriched": "2026-10-30T04:59:59.816Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "MabGenesis（株）（コード653A）の上場日（11月2日）における初値決定前の気配運用について、板中心値段830円から上限1,909円・下限623円の範囲で、上限方向は42円幅10分間隔、下限方向は通常値幅3分間隔で気配を更新する。",
+        "取引参加者は新規上場日の売買において成行呼値を禁止され、208円以上3,320円以下の指値注文のみ受け付けられ、初値決定まで制限値幅が適用されない。",
+        "東証の株式部売買監理グループが当該銘柄の初値決定前気配運用を管理し、初値決定後は初値を基準として通常の呼値制限値幅が適用される。"
       ],
       "aiSumV": 3
     },
@@ -18678,6 +18693,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "NYSE親会社ICE、トレードXYZと米国で無期限先物市場構築へ。ハイパーリキッド活用",
+        "url": "https://news.yahoo.co.jp/articles/8f54406eb21565d33f2352ba6273da9847758fe0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "bitFlyer、1兆円ハッキング被害のバイナンスへの送金を制限",
+        "url": "https://news.yahoo.co.jp/articles/cd40715d3f4578779ab7bec54b52b98d872ec4ff",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クリプトドットコムとOG、米国で暗号資産の無期限先物を提供。最大5倍に対応",
         "url": "https://news.yahoo.co.jp/articles/1ffe923409bde4fc495c0514b304d7f3992b1c47",
         "source": "Yahoo",
@@ -18698,24 +18725,24 @@
       {
         "title": "ビザのステーブルコイン清算額が10倍に拡大──市場残高は減少も、企業決済への導入が加速【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/342cf8431218d93ed98a33f961576884786c0dfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース、外部分析会社のセキュリティ事故で一部顧客情報に影響。取引データも対象",
-        "url": "https://news.yahoo.co.jp/articles/7a64e2e129653fe0a8a75416fa3d647eeddca04d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Y Combinator、暗号資産の出資テーマ公開──米ドル以外のステーブルコイン発行など",
-        "url": "https://news.yahoo.co.jp/articles/258e92bbbbfc87daa879d33d3331457a53f40c3f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "NYSE親会社ICE、トレードXYZと米国で無期限先物市場構築へ。ハイパーリキッド活用",
+        "url": "https://news.yahoo.co.jp/articles/8f54406eb21565d33f2352ba6273da9847758fe0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "bitFlyer、1兆円ハッキング被害のバイナンスへの送金を制限",
+        "url": "https://news.yahoo.co.jp/articles/cd40715d3f4578779ab7bec54b52b98d872ec4ff",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "クリプトドットコムとOG、米国で暗号資産の無期限先物を提供。最大5倍に対応",
         "url": "https://news.yahoo.co.jp/articles/1ffe923409bde4fc495c0514b304d7f3992b1c47",
         "source": "Yahoo",
@@ -18736,18 +18763,6 @@
       {
         "title": "ビザのステーブルコイン清算額が10倍に拡大──市場残高は減少も、企業決済への導入が加速【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/342cf8431218d93ed98a33f961576884786c0dfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース、外部分析会社のセキュリティ事故で一部顧客情報に影響。取引データも対象",
-        "url": "https://news.yahoo.co.jp/articles/7a64e2e129653fe0a8a75416fa3d647eeddca04d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Y Combinator、暗号資産の出資テーマ公開──米ドル以外のステーブルコイン発行など",
-        "url": "https://news.yahoo.co.jp/articles/258e92bbbbfc87daa879d33d3331457a53f40c3f",
         "source": "Yahoo",
         "date": ""
       }
@@ -18906,6 +18921,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "【最新情報まとめ】バイナンス、不正流出の推定影響額は約1兆円。従業員PC侵害の可能性、全額補填へ",
+        "url": "https://news.yahoo.co.jp/articles/fd08bfdec9ac6bebe87ee6f86b11e8e3cd0e31b2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、全入出金を停止",
+        "url": "https://news.yahoo.co.jp/articles/20fa51cfca89435750e8b890a79070625c2a868e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産取引所Binance、ハッキングで約1兆円の被害か 入出金を全面停止",
+        "url": "https://news.yahoo.co.jp/articles/50c87d562b6fbfecf9b541fa4cc5af473cdd20b4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SMBCグループ、SBI・スターテイルの合弁に5％出資へ。ステーブルコイン活用で提携",
         "url": "https://news.yahoo.co.jp/articles/f2e2de79dd240d28c374c013ae0a7ea26ba82750",
         "source": "Yahoo",
@@ -18920,30 +18953,30 @@
       {
         "title": "モルフォ、既存ヴォールトから固定金利市場への資金配分に対応へ",
         "url": "https://news.yahoo.co.jp/articles/0ed1dfc1e73b8b2ce1466352d64174ef7917f59c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "大道芸W杯31日開幕！「投げ銭」に暗号資産のステーブルコイン 会場の静岡市で実証実験 静岡市内で31日に開幕する大道芸ワールドカップで、法定通貨に連動する暗号資産「ステーブルコイン」を用いた投げ銭の実証実験が行われる。実施主体の静岡経済同友会静岡協",
-        "url": "https://news.yahoo.co.jp/articles/238342166e91d34ff5d492727d91d2ade0d651b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産下落、バイナンスにハッキングか 30億ドル凍結",
-        "url": "https://news.yahoo.co.jp/articles/03e713cf12d44b5a755845175280d91ac5bb9ae6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "三井住友FG、SBIとステーブルコインで協業──合弁会社に5％出資へ＝日経",
-        "url": "https://news.yahoo.co.jp/articles/0b724d58fcfb1167105abfc43b1ac902dfa061b0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "【最新情報まとめ】バイナンス、不正流出の推定影響額は約1兆円。従業員PC侵害の可能性、全額補填へ",
+        "url": "https://news.yahoo.co.jp/articles/fd08bfdec9ac6bebe87ee6f86b11e8e3cd0e31b2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、全入出金を停止",
+        "url": "https://news.yahoo.co.jp/articles/20fa51cfca89435750e8b890a79070625c2a868e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産取引所Binance、ハッキングで約1兆円の被害か 入出金を全面停止",
+        "url": "https://news.yahoo.co.jp/articles/50c87d562b6fbfecf9b541fa4cc5af473cdd20b4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SMBCグループ、SBI・スターテイルの合弁に5％出資へ。ステーブルコイン活用で提携",
         "url": "https://news.yahoo.co.jp/articles/f2e2de79dd240d28c374c013ae0a7ea26ba82750",
         "source": "Yahoo",
@@ -18958,24 +18991,6 @@
       {
         "title": "モルフォ、既存ヴォールトから固定金利市場への資金配分に対応へ",
         "url": "https://news.yahoo.co.jp/articles/0ed1dfc1e73b8b2ce1466352d64174ef7917f59c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "大道芸W杯31日開幕！「投げ銭」に暗号資産のステーブルコイン 会場の静岡市で実証実験 静岡市内で31日に開幕する大道芸ワールドカップで、法定通貨に連動する暗号資産「ステーブルコイン」を用いた投げ銭の実証実験が行われる。実施主体の静岡経済同友会静岡協",
-        "url": "https://news.yahoo.co.jp/articles/238342166e91d34ff5d492727d91d2ade0d651b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産下落、バイナンスにハッキングか 30億ドル凍結",
-        "url": "https://news.yahoo.co.jp/articles/03e713cf12d44b5a755845175280d91ac5bb9ae6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "三井住友FG、SBIとステーブルコインで協業──合弁会社に5％出資へ＝日経",
-        "url": "https://news.yahoo.co.jp/articles/0b724d58fcfb1167105abfc43b1ac902dfa061b0",
         "source": "Yahoo",
         "date": ""
       }
@@ -19696,6 +19711,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「パク・シフのせいで家庭崩壊」 虚偽の投稿をした女に懲役10月",
+        "url": "https://news.yahoo.co.jp/articles/47c772fc0d7f32dad6c57d140c9679a6bc67dfaa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「これ開示だな」ヒカキンさんへのいたずら宅配、注文した人を特定できるの？ 弁護士が解説",
         "url": "https://news.yahoo.co.jp/articles/f58468476a61928198b346192f1e0db278913553",
         "source": "Yahoo",
@@ -19722,18 +19743,18 @@
       {
         "title": "社説：免許証の流用 警察の不正徹底解明を",
         "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "失効免許証の不正流用、西日本の県警でも 元公安捜査員が新証言",
-        "url": "https://news.yahoo.co.jp/articles/d57cf775462b06a687fe5fd4611db78129ae0dec",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「パク・シフのせいで家庭崩壊」 虚偽の投稿をした女に懲役10月",
+        "url": "https://news.yahoo.co.jp/articles/47c772fc0d7f32dad6c57d140c9679a6bc67dfaa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「これ開示だな」ヒカキンさんへのいたずら宅配、注文した人を特定できるの？ 弁護士が解説",
         "url": "https://news.yahoo.co.jp/articles/f58468476a61928198b346192f1e0db278913553",
         "source": "Yahoo",
@@ -19760,18 +19781,18 @@
       {
         "title": "社説：免許証の流用 警察の不正徹底解明を",
         "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "失効免許証の不正流用、西日本の県警でも 元公安捜査員が新証言",
-        "url": "https://news.yahoo.co.jp/articles/d57cf775462b06a687fe5fd4611db78129ae0dec",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「パク・シフのせいで家庭崩壊」 虚偽の投稿をした女に懲役10月",
+        "url": "https://news.yahoo.co.jp/articles/47c772fc0d7f32dad6c57d140c9679a6bc67dfaa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「これ開示だな」ヒカキンさんへのいたずら宅配、注文した人を特定できるの？ 弁護士が解説",
         "url": "https://news.yahoo.co.jp/articles/f58468476a61928198b346192f1e0db278913553",
         "source": "Yahoo",
@@ -19798,12 +19819,6 @@
       {
         "title": "社説：免許証の流用 警察の不正徹底解明を",
         "url": "https://news.yahoo.co.jp/articles/a6b37fe4ae762688e141f02486bfe44d5425eb67",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "失効免許証の不正流用、西日本の県警でも 元公安捜査員が新証言",
-        "url": "https://news.yahoo.co.jp/articles/d57cf775462b06a687fe5fd4611db78129ae0dec",
         "source": "Yahoo",
         "date": ""
       }
