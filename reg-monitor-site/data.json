@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T01:56:53.019Z",
+  "generatedAt": "2026-10-30T03:28:18.195Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,96 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "「指数連動型上場投資信託受益権等の処分の指針」の一部改正について",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T03:28:18.195Z",
+      "enriched": "2026-10-30T03:28:24.505Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "指数連動型上場投資信託受益権の年間売却ペースを3,300億円から8,600億円程度（簿価ベース）に引き上げることを決定し、売却時期の分散に配慮しつつ実行する。",
+        "日本銀行が保有する指数連動型上場投資信託受益権の処分指針に基づき、より加速化した売却を進める対応が求められる。",
+        "改正は令和9年1月1日から実施される（2026年10月30日政策委員会・金融政策決定会合決定）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（参考）経済・物価情勢の展望と基調的な物価上昇率に関連する各種指標",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030b.pdf",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T03:28:18.195Z",
+      "enriched": "2026-10-30T03:28:24.506Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年度の消費者物価(除く生鮮)の見通しを前年度比2.5%、2027年度を2.6%と示し、見通し期間前半は2%をはっきり上回り後半に2%程度に縮小すると予測した。",
+        "基調的な物価上昇率は2%の物価安定目標と概ね整合的だが、賃金と物価の相互参照メカニズムにより上振れリスクがあり、中長期予想物価上昇率が2%を超える懸念がある。",
+        "経済見通しは2026年度0.7%、2027年度0.7%、2028年度0.8%の成長率を中央値とし、中東情勢やAI需要、為替変動がリスク要因とされている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "（参考）ETFの売却ペースの見直しに関する決定（2026年10月）",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030c.pdf",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T03:28:18.195Z",
+      "enriched": "2026-10-30T03:28:24.506Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行はETF売却ペースを2027年1月から変更し、年間売却額を簿価ベースで3,300億円程度から8,600億円程度に引き上げ、売却完了期間を約112年から約43年に短縮する。",
+        "日本銀行は市場全体の売買代金に占める年間売却額の割合を0.05％程度から0.1％程度に高める一方、市場への攪乱的影響と損失発生を回避する基本方針を維持し、市場等の状況に応じて売却額の一時的調整・停止が可能。",
+        "売却ペース見直しは2027年1月から実施され、各銘柄の保有割合におおむね比例的なかたちで時期の分散に配慮しながら売却する方針（日本銀行のETF保有資産減少に関わる）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "当面の金融政策運営について",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T03:28:18.195Z",
+      "enriched": "2026-10-30T03:28:24.506Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文が提供されていないため、抽出できません。具体的な金融政策の内容（金利設定、操作方針、対象市場等）が記載された本文をご提示ください。",
+        "日本銀行が公表する金融政策決定会合での決定内容には、政策金利、資産買入方針、通知対象が明示される必要があります。",
+        "実務対応には公表文書の【本文】における具体的な数値・期限・適用対象の確認が不可欠です。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "経済・物価情勢の展望（10月、基本的見解）",
+      "url": "https://www.boj.or.jp/mopo/outlook/gor2610a.pdf",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T03:28:18.195Z",
+      "enriched": "2026-10-30T03:28:24.506Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年度の実質GDP成長率見通しを1.0%と設定し、2027年度は1.2%と予測している。労働需給の逼迫が続く中で賃金上昇が緩やかに進むと見通す。",
+        "企業の価格設定行動が徐々に変化し、消費者物価指数（除く生鮮食品）の上昇率が2026年度1.8%、2027年度2.0%に達すると見込まれている。",
+        "金融緩和の継続により、政策金利の引き上げは当面見送られ、現在の低金利環境が維持される見通しである。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "決済動向（9月）",
+      "url": "https://www.boj.or.jp/statistics/set/kess/release/2026/kess2609.pdf",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T03:28:18.195Z",
+      "enriched": "2026-10-30T03:28:24.506Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行が2026年9月の決済動向統計を公表し、日銀当座預金決済、全銀システム、国債振決、民間決済システム等の主要指標を編集・掲載。",
+        "統計ユーザーは公表資料から日本における決済活動の動向を把握し、金融市場動向分析や決済リスク管理に活用。",
+        "本統計は日本銀行決済機構局が継続的に編集・公表する月次統計であり、問合わせは同局まで（電話03-3279-1111）。"
       ],
       "aiSumV": 3
     },
@@ -18588,6 +18678,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "クリプトドットコムとOG、米国で暗号資産の無期限先物を提供。最大5倍に対応",
+        "url": "https://news.yahoo.co.jp/articles/1ffe923409bde4fc495c0514b304d7f3992b1c47",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットゴーとジュピターが提携、既存のカストディ口座からSOLステーキング可能に",
+        "url": "https://news.yahoo.co.jp/articles/e323852b3b4da68c70990b4c890ad3c260a9c383",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "NYSE親会社ICE、ハイパーリキッド基盤の無期限先物を米国へ導入──HYPEが急騰",
         "url": "https://news.yahoo.co.jp/articles/e8f030bc2e8a9a44945aecc09995076bce4a34c3",
         "source": "Yahoo",
@@ -18608,24 +18710,24 @@
       {
         "title": "Y Combinator、暗号資産の出資テーマ公開──米ドル以外のステーブルコイン発行など",
         "url": "https://news.yahoo.co.jp/articles/258e92bbbbfc87daa879d33d3331457a53f40c3f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブラジル最大の民間銀行イタウ、暗号資産の取引・保管業務を中央銀行に正式届出",
-        "url": "https://news.yahoo.co.jp/articles/6fe47afccd90db592c26d8a053a60d5c5c124e07",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
-        "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "クリプトドットコムとOG、米国で暗号資産の無期限先物を提供。最大5倍に対応",
+        "url": "https://news.yahoo.co.jp/articles/1ffe923409bde4fc495c0514b304d7f3992b1c47",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットゴーとジュピターが提携、既存のカストディ口座からSOLステーキング可能に",
+        "url": "https://news.yahoo.co.jp/articles/e323852b3b4da68c70990b4c890ad3c260a9c383",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "NYSE親会社ICE、ハイパーリキッド基盤の無期限先物を米国へ導入──HYPEが急騰",
         "url": "https://news.yahoo.co.jp/articles/e8f030bc2e8a9a44945aecc09995076bce4a34c3",
         "source": "Yahoo",
@@ -18646,18 +18748,6 @@
       {
         "title": "Y Combinator、暗号資産の出資テーマ公開──米ドル以外のステーブルコイン発行など",
         "url": "https://news.yahoo.co.jp/articles/258e92bbbbfc87daa879d33d3331457a53f40c3f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブラジル最大の民間銀行イタウ、暗号資産の取引・保管業務を中央銀行に正式届出",
-        "url": "https://news.yahoo.co.jp/articles/6fe47afccd90db592c26d8a053a60d5c5c124e07",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
-        "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
         "source": "Yahoo",
         "date": ""
       }
@@ -18816,7 +18906,31 @@
     ],
     "505M60000002048": [
       {
-        "title": "暗号資産下落、バイナンスがセキュリティー問題報告 ＢＣ6週間ぶり安値",
+        "title": "SMBCグループ、SBI・スターテイルの合弁に5％出資へ。ステーブルコイン活用で提携",
+        "url": "https://news.yahoo.co.jp/articles/f2e2de79dd240d28c374c013ae0a7ea26ba82750",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI、香港のステーブルコイン決済企業フォトンペイに出資へ",
+        "url": "https://news.yahoo.co.jp/articles/a72f28c2a3872905c4faea6cbeb8505ad0aca3dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "モルフォ、既存ヴォールトから固定金利市場への資金配分に対応へ",
+        "url": "https://news.yahoo.co.jp/articles/0ed1dfc1e73b8b2ce1466352d64174ef7917f59c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "大道芸W杯31日開幕！「投げ銭」に暗号資産のステーブルコイン 会場の静岡市で実証実験 静岡市内で31日に開幕する大道芸ワールドカップで、法定通貨に連動する暗号資産「ステーブルコイン」を用いた投げ銭の実証実験が行われる。実施主体の静岡経済同友会静岡協",
+        "url": "https://news.yahoo.co.jp/articles/238342166e91d34ff5d492727d91d2ade0d651b7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産下落、バイナンスにハッキングか 30億ドル凍結",
         "url": "https://news.yahoo.co.jp/articles/03e713cf12d44b5a755845175280d91ac5bb9ae6",
         "source": "Yahoo",
         "date": ""
@@ -18824,37 +18938,37 @@
       {
         "title": "三井住友FG、SBIとステーブルコインで協業──合弁会社に5％出資へ＝日経",
         "url": "https://news.yahoo.co.jp/articles/0b724d58fcfb1167105abfc43b1ac902dfa061b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米バイナンス、3160億円超相当の暗号資産が流出との報道──テザーとサークル上の関連資産凍結",
-        "url": "https://news.yahoo.co.jp/articles/3b935b7fe7b269bf35bf30addcbd370660d1ed94",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Polymarket、4億円超の不正流出疑惑──取引を一時停止後に再開",
-        "url": "https://news.yahoo.co.jp/articles/608d9d31d188489a3ff675bf5e052dc048574a05",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビザのステーブルコイン清算額が10倍に拡大──市場残高は減少も、企業決済への導入が加速【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/342cf8431218d93ed98a33f961576884786c0dfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、ステーブルコインの年間決済額が約3.9兆円超に──前年比10倍",
-        "url": "https://news.yahoo.co.jp/articles/eb41e9ee6f04ccade5065406668c8c5e0c191bc8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "暗号資産下落、バイナンスがセキュリティー問題報告 ＢＣ6週間ぶり安値",
+        "title": "SMBCグループ、SBI・スターテイルの合弁に5％出資へ。ステーブルコイン活用で提携",
+        "url": "https://news.yahoo.co.jp/articles/f2e2de79dd240d28c374c013ae0a7ea26ba82750",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI、香港のステーブルコイン決済企業フォトンペイに出資へ",
+        "url": "https://news.yahoo.co.jp/articles/a72f28c2a3872905c4faea6cbeb8505ad0aca3dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "モルフォ、既存ヴォールトから固定金利市場への資金配分に対応へ",
+        "url": "https://news.yahoo.co.jp/articles/0ed1dfc1e73b8b2ce1466352d64174ef7917f59c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "大道芸W杯31日開幕！「投げ銭」に暗号資産のステーブルコイン 会場の静岡市で実証実験 静岡市内で31日に開幕する大道芸ワールドカップで、法定通貨に連動する暗号資産「ステーブルコイン」を用いた投げ銭の実証実験が行われる。実施主体の静岡経済同友会静岡協",
+        "url": "https://news.yahoo.co.jp/articles/238342166e91d34ff5d492727d91d2ade0d651b7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産下落、バイナンスにハッキングか 30億ドル凍結",
         "url": "https://news.yahoo.co.jp/articles/03e713cf12d44b5a755845175280d91ac5bb9ae6",
         "source": "Yahoo",
         "date": ""
@@ -18862,30 +18976,6 @@
       {
         "title": "三井住友FG、SBIとステーブルコインで協業──合弁会社に5％出資へ＝日経",
         "url": "https://news.yahoo.co.jp/articles/0b724d58fcfb1167105abfc43b1ac902dfa061b0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米バイナンス、3160億円超相当の暗号資産が流出との報道──テザーとサークル上の関連資産凍結",
-        "url": "https://news.yahoo.co.jp/articles/3b935b7fe7b269bf35bf30addcbd370660d1ed94",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Polymarket、4億円超の不正流出疑惑──取引を一時停止後に再開",
-        "url": "https://news.yahoo.co.jp/articles/608d9d31d188489a3ff675bf5e052dc048574a05",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビザのステーブルコイン清算額が10倍に拡大──市場残高は減少も、企業決済への導入が加速【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/342cf8431218d93ed98a33f961576884786c0dfd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、ステーブルコインの年間決済額が約3.9兆円超に──前年比10倍",
-        "url": "https://news.yahoo.co.jp/articles/eb41e9ee6f04ccade5065406668c8c5e0c191bc8",
         "source": "Yahoo",
         "date": ""
       }
