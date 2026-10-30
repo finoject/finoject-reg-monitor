@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T09:35:06.478Z",
+  "generatedAt": "2026-10-30T11:06:42.885Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：グローバルセキュリティエキスパート（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20261030-11.html",
+      "date": "2026-10-30",
+      "detectedAt": "2026-10-30T11:06:42.885Z",
+      "enriched": "2026-10-30T11:06:48.980Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "グローバルセキュリティエキスパート株式会社（東証グロース市場コード4417）がアクセンチュア株式会社による公開買付けの賛同を表明し、上場廃止廃止となる可能性が生じた。",
+        "東京証券取引所は同社株式を監理銘柄（確認中）に指定し、公開買付け成立後の株式併合（特定者以外の株主保有株が1株未満端数となる割合）により上場廃止基準該当の有無を認定するまで継続する。",
+        "指定は2026年10月30日（金）から発効し、有価証券上場規程施行規則第604条第1項第24号に該当する上場廃止のおそれがあることを理由としている。"
       ],
       "aiSumV": 3
     },
@@ -18849,6 +18864,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "バイナンス、ブラジルで融資・マージン取引など8サービスの新規利用を制限",
+        "url": "https://news.yahoo.co.jp/articles/47148de52760e6fcc4e673efc0033fa755915681",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "著名投資家ドラッケンミラー、トレードXYZへの出資を公表。イーロンマスクも反応",
         "url": "https://news.yahoo.co.jp/articles/c96e2c94245dce860e287ae1ab98fa96e376a0e7",
         "source": "Yahoo",
@@ -18875,18 +18896,18 @@
       {
         "title": "NYSE親会社ICE、トレードXYZと米国で無期限先物市場構築へ。ハイパーリキッド活用",
         "url": "https://news.yahoo.co.jp/articles/8f54406eb21565d33f2352ba6273da9847758fe0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産取引所バイナンスから、史上最大約9280億円相当の暗号資産が流出 世界最大の暗号資産取引所バイナンスのホットウォレットから、最大58億ドル（約9280億円）規模の暗号資産が不正流出した疑いが浮上した。バイナンスは",
-        "url": "https://news.yahoo.co.jp/articles/1f4561fcd215aa4d32a1aa4dffb2f4c85661cfbe",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "バイナンス、ブラジルで融資・マージン取引など8サービスの新規利用を制限",
+        "url": "https://news.yahoo.co.jp/articles/47148de52760e6fcc4e673efc0033fa755915681",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "著名投資家ドラッケンミラー、トレードXYZへの出資を公表。イーロンマスクも反応",
         "url": "https://news.yahoo.co.jp/articles/c96e2c94245dce860e287ae1ab98fa96e376a0e7",
         "source": "Yahoo",
@@ -18913,12 +18934,6 @@
       {
         "title": "NYSE親会社ICE、トレードXYZと米国で無期限先物市場構築へ。ハイパーリキッド活用",
         "url": "https://news.yahoo.co.jp/articles/8f54406eb21565d33f2352ba6273da9847758fe0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産取引所バイナンスから、史上最大約9280億円相当の暗号資産が流出 世界最大の暗号資産取引所バイナンスのホットウォレットから、最大58億ドル（約9280億円）規模の暗号資産が不正流出した疑いが浮上した。バイナンスは",
-        "url": "https://news.yahoo.co.jp/articles/1f4561fcd215aa4d32a1aa4dffb2f4c85661cfbe",
         "source": "Yahoo",
         "date": ""
       }
@@ -19077,6 +19092,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBIHD、三井住友FGと資本業務提携 SBIホールディングス は30日、ステーブルコインの活用など新たな金融サービスの共同創出に向け、三井住友フィナンシャルグループ",
+        "url": "https://news.yahoo.co.jp/articles/435f7396a5442b2dd8b38c151335ec56721a9883",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "カーブ、ステラで資産交換機能稼働、初の非EVMチェーンへのネイティブ展開",
+        "url": "https://news.yahoo.co.jp/articles/9b7731b47c7eff5d57f384d62c9e771056c61d8b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ユニスワップラボ、手数料変換システム「TJAR」を外部アプリ向けに公開",
+        "url": "https://news.yahoo.co.jp/articles/72cfbfb3ed2690235203db8a05f22a4f63c4bf7c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TISIと日本カードネットワーク、ステーブルコイン店頭決済の実証成果を発表",
         "url": "https://news.yahoo.co.jp/articles/f6146d28c0d44c80a8cc447877ce7848ffe6c190",
         "source": "Yahoo",
@@ -19091,30 +19124,30 @@
       {
         "title": "約1京2544兆円の企業間決済市場、マスターカードが挑むAIエージェント決済",
         "url": "https://news.yahoo.co.jp/articles/6e35a51501c74ae160ddee239da0abaf4e98604e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、史上最大の暗号資産ハッキングで「1兆円」被害を公表 出金を一時停止",
-        "url": "https://news.yahoo.co.jp/articles/e5c85ff77cc463a9bffc3bb456e02734ebdabd94",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、製品売上高は年換算9億ドルへ。BNYやロビンフッドと連携拡大",
-        "url": "https://news.yahoo.co.jp/articles/80889b98f676940736c484eeedd30e2c6211509a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリマーケット、第三者サービス侵害で取引一時停止。全面再開し被害者に全額補償へ",
-        "url": "https://news.yahoo.co.jp/articles/de17982160f09e37fa8ec7eff52734275d4d696b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBIHD、三井住友FGと資本業務提携 SBIホールディングス は30日、ステーブルコインの活用など新たな金融サービスの共同創出に向け、三井住友フィナンシャルグループ",
+        "url": "https://news.yahoo.co.jp/articles/435f7396a5442b2dd8b38c151335ec56721a9883",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "カーブ、ステラで資産交換機能稼働、初の非EVMチェーンへのネイティブ展開",
+        "url": "https://news.yahoo.co.jp/articles/9b7731b47c7eff5d57f384d62c9e771056c61d8b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ユニスワップラボ、手数料変換システム「TJAR」を外部アプリ向けに公開",
+        "url": "https://news.yahoo.co.jp/articles/72cfbfb3ed2690235203db8a05f22a4f63c4bf7c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TISIと日本カードネットワーク、ステーブルコイン店頭決済の実証成果を発表",
         "url": "https://news.yahoo.co.jp/articles/f6146d28c0d44c80a8cc447877ce7848ffe6c190",
         "source": "Yahoo",
@@ -19129,24 +19162,6 @@
       {
         "title": "約1京2544兆円の企業間決済市場、マスターカードが挑むAIエージェント決済",
         "url": "https://news.yahoo.co.jp/articles/6e35a51501c74ae160ddee239da0abaf4e98604e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、史上最大の暗号資産ハッキングで「1兆円」被害を公表 出金を一時停止",
-        "url": "https://news.yahoo.co.jp/articles/e5c85ff77cc463a9bffc3bb456e02734ebdabd94",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "リップル、製品売上高は年換算9億ドルへ。BNYやロビンフッドと連携拡大",
-        "url": "https://news.yahoo.co.jp/articles/80889b98f676940736c484eeedd30e2c6211509a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリマーケット、第三者サービス侵害で取引一時停止。全面再開し被害者に全額補償へ",
-        "url": "https://news.yahoo.co.jp/articles/de17982160f09e37fa8ec7eff52734275d4d696b",
         "source": "Yahoo",
         "date": ""
       }
