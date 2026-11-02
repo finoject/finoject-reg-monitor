@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T23:01:41.136Z",
+  "generatedAt": "2026-11-02T00:44:01.651Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "11月９日（月）サーバメンテナンスのお知らせ",
+      "url": "https://www.jsda.or.jp/shinchaku/servermaintenance/20261029105310.html",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T00:44:01.651Z",
+      "enriched": "2026-11-02T00:44:07.780Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会ウェブサイトのサーバメンテナンスが2026年11月9日（月）19:00～20:00に実施される。",
+        "ウェブサイト利用者は当該時間帯におけるサイト閲覧不可を想定し、必要な情報取得を事前に済ませるべき。",
+        "メンテナンス時間は作業進捗により前後する可能性があるため、利用再開時刻の確認が必要。"
       ],
       "aiSumV": 3
     },
@@ -18864,6 +18879,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "「ＡＩ規制派」民主党優勢、米テック業界は共和党に巨額資金",
+        "url": "https://news.yahoo.co.jp/articles/33bc35dca22cb7d7a4ccef396dcc8aad16d8f4c5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス1兆円流出、米中間選挙前に党派対立へ発展",
         "url": "https://news.yahoo.co.jp/articles/6c50151f9251a465c36c786f9f907341f0408c32",
         "source": "Yahoo",
@@ -18890,18 +18911,18 @@
       {
         "title": "米中間選挙まで残り2日、民主党リードと過去最高水準の期日前投票が示す米国の変化【サンフランシスコレポート】 今回は、選挙直前の米国社会の変化を整理するとともに、ビットコインと暗号資産規制への影響について考えます。 民主党53％、共和党44％──最新世論調査の意味",
         "url": "https://news.yahoo.co.jp/articles/1e9e1ca53e05b72c5977200a02c713ecb24e440a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中間選挙に流れ込むテックマネー 暗号資産企業や巨大ITが影響力 マスク氏、史上最大規模",
-        "url": "https://news.yahoo.co.jp/articles/56550eb8e90ad79ca7e436ab84c99d4e71920c04",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "「ＡＩ規制派」民主党優勢、米テック業界は共和党に巨額資金",
+        "url": "https://news.yahoo.co.jp/articles/33bc35dca22cb7d7a4ccef396dcc8aad16d8f4c5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス1兆円流出、米中間選挙前に党派対立へ発展",
         "url": "https://news.yahoo.co.jp/articles/6c50151f9251a465c36c786f9f907341f0408c32",
         "source": "Yahoo",
@@ -18928,12 +18949,6 @@
       {
         "title": "米中間選挙まで残り2日、民主党リードと過去最高水準の期日前投票が示す米国の変化【サンフランシスコレポート】 今回は、選挙直前の米国社会の変化を整理するとともに、ビットコインと暗号資産規制への影響について考えます。 民主党53％、共和党44％──最新世論調査の意味",
         "url": "https://news.yahoo.co.jp/articles/1e9e1ca53e05b72c5977200a02c713ecb24e440a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中間選挙に流れ込むテックマネー 暗号資産企業や巨大ITが影響力 マスク氏、史上最大規模",
-        "url": "https://news.yahoo.co.jp/articles/56550eb8e90ad79ca7e436ab84c99d4e71920c04",
         "source": "Yahoo",
         "date": ""
       }
@@ -19092,6 +19107,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "北朝鮮が奪取のビットコイン、テスラの保有量超える",
+        "url": "https://news.yahoo.co.jp/articles/36708afbff7b5d252a0a9ef414c535e830e3b380",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "北朝鮮ハッカーが盗んだビットコイン 米テスラの保有量超える＝北年間輸出額の3倍",
+        "url": "https://news.yahoo.co.jp/articles/81ec3503d269b0dc5f60d01c33ec90bf0512c2fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Tether、超過準備金が1兆2000億円規模に倍増──7～9月期の純営業利益は2400億円",
+        "url": "https://news.yahoo.co.jp/articles/ed0aa58faea38bf1141086005ee3a7e241e38d28",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産ハッキング被害ワースト10──首位は北朝鮮が窃盗したバイナンス、日本のコインチェックも",
         "url": "https://news.yahoo.co.jp/articles/b1d196f311104a306e2fc42f9896052d12b945e9",
         "source": "Yahoo",
@@ -19106,30 +19139,30 @@
       {
         "title": "トランプ氏の支援団体に暗号資産マネー、Crypto.comが55億円献金＝調査",
         "url": "https://news.yahoo.co.jp/articles/5f2ab4cf2363e340d91951c32e95f71ba10f4a2e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Uber、トークン化MMFの実証実験を実施──HSBC・Franklin Templetonらと提携",
-        "url": "https://news.yahoo.co.jp/articles/6cd9538a51d9e3f214693654a1df54773ced80ae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスが出金再開、顧客引き出し36億ドル超 被害の95％補填 世界最大の暗号資産（仮想通貨）交換所バイナンスは１日、ビットコイン、イーサ、一部のステーブルコインの出金を再開した。再開後の顧客によ‌る純流出額は、同社が管理する資産",
-        "url": "https://news.yahoo.co.jp/articles/d076391205791f5f726a58491eba32dcc8726733",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る／GMO攻撃者が顧客情報の公開を開始【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/e6fc93fa56fdd2497f103a9ba82d0da44a76ea6d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "北朝鮮が奪取のビットコイン、テスラの保有量超える",
+        "url": "https://news.yahoo.co.jp/articles/36708afbff7b5d252a0a9ef414c535e830e3b380",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "北朝鮮ハッカーが盗んだビットコイン 米テスラの保有量超える＝北年間輸出額の3倍",
+        "url": "https://news.yahoo.co.jp/articles/81ec3503d269b0dc5f60d01c33ec90bf0512c2fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Tether、超過準備金が1兆2000億円規模に倍増──7～9月期の純営業利益は2400億円",
+        "url": "https://news.yahoo.co.jp/articles/ed0aa58faea38bf1141086005ee3a7e241e38d28",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産ハッキング被害ワースト10──首位は北朝鮮が窃盗したバイナンス、日本のコインチェックも",
         "url": "https://news.yahoo.co.jp/articles/b1d196f311104a306e2fc42f9896052d12b945e9",
         "source": "Yahoo",
@@ -19144,24 +19177,6 @@
       {
         "title": "トランプ氏の支援団体に暗号資産マネー、Crypto.comが55億円献金＝調査",
         "url": "https://news.yahoo.co.jp/articles/5f2ab4cf2363e340d91951c32e95f71ba10f4a2e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Uber、トークン化MMFの実証実験を実施──HSBC・Franklin Templetonらと提携",
-        "url": "https://news.yahoo.co.jp/articles/6cd9538a51d9e3f214693654a1df54773ced80ae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスが出金再開、顧客引き出し36億ドル超 被害の95％補填 世界最大の暗号資産（仮想通貨）交換所バイナンスは１日、ビットコイン、イーサ、一部のステーブルコインの出金を再開した。再開後の顧客によ‌る純流出額は、同社が管理する資産",
-        "url": "https://news.yahoo.co.jp/articles/d076391205791f5f726a58491eba32dcc8726733",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る／GMO攻撃者が顧客情報の公開を開始【日曜日に読みたい厳選5本】",
-        "url": "https://news.yahoo.co.jp/articles/e6fc93fa56fdd2497f103a9ba82d0da44a76ea6d",
         "source": "Yahoo",
         "date": ""
       }
