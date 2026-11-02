@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T08:50:58.571Z",
+  "generatedAt": "2026-11-02T10:21:55.274Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の基準値段等：iFreeETF 日本株累進高配当戦略（コード665A）",
+      "url": "https://www.jpx.co.jp/news/1030/20261102-02.html",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T10:21:55.274Z",
+      "enriched": "2026-11-02T10:22:01.311Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "iFreeETF日本株累進高配当戦略（コード665A）が2026年11月4日に東証に新規上場し、基準値段は2,001円、売買単位は1口、呼値制限値幅は500円に設定される。",
+        "取引参加者および投資家は当該ETFの上場に伴い、設定された基準値段・売買単位・呼値制限値幅に基づいて取引を行う必要がある。",
+        "2026年11月4日の新規上場から適用される当該銘柄の取引ルールであり、東京証券取引所により公表・管理される。"
       ],
       "aiSumV": 3
     },
@@ -19302,6 +19317,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "バイナンス巨額流出、機関投資家は投資慎重に セキュリティーが優先課題",
+        "url": "https://news.yahoo.co.jp/articles/12bec72ecd1b5df579e46448ff271278cbcc9baf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【N.Avenue club 4期5回ラウンドテーブル】インドネシア3億人市場で、次世代金融はどう立ち上がるのか──制度と事業の現場から探る日本企業の機会",
+        "url": "https://news.yahoo.co.jp/articles/d0004abc1eacd34667d8fa30d4fd50a88e8f93ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス60億ドル超流出事件は北朝鮮の関与、資金洗浄阻止へ協力要請＝FBI",
         "url": "https://news.yahoo.co.jp/articles/fc1ac1b2fdc9259e12d1d61084ab7dd51d446305",
         "source": "Yahoo",
@@ -19322,24 +19349,24 @@
       {
         "title": "JPYSCレンディング、残高100億円突破──取扱残高も300億円超",
         "url": "https://news.yahoo.co.jp/articles/4ac5a26d01fa18417d49d5e93d1d0ae9621681e0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間精算に対応",
-        "url": "https://news.yahoo.co.jp/articles/be254ce57a32d6b7f2221197c953c0d8cca7879b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "エヌビディアやナイキも、OKX・ICEのトークン化株式取引計画に異議。計50社に",
-        "url": "https://news.yahoo.co.jp/articles/189a6032db92d3fe8325b83c8cbb8f169d1d83a7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "バイナンス巨額流出、機関投資家は投資慎重に セキュリティーが優先課題",
+        "url": "https://news.yahoo.co.jp/articles/12bec72ecd1b5df579e46448ff271278cbcc9baf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【N.Avenue club 4期5回ラウンドテーブル】インドネシア3億人市場で、次世代金融はどう立ち上がるのか──制度と事業の現場から探る日本企業の機会",
+        "url": "https://news.yahoo.co.jp/articles/d0004abc1eacd34667d8fa30d4fd50a88e8f93ea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス60億ドル超流出事件は北朝鮮の関与、資金洗浄阻止へ協力要請＝FBI",
         "url": "https://news.yahoo.co.jp/articles/fc1ac1b2fdc9259e12d1d61084ab7dd51d446305",
         "source": "Yahoo",
@@ -19360,18 +19387,6 @@
       {
         "title": "JPYSCレンディング、残高100億円突破──取扱残高も300億円超",
         "url": "https://news.yahoo.co.jp/articles/4ac5a26d01fa18417d49d5e93d1d0ae9621681e0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間精算に対応",
-        "url": "https://news.yahoo.co.jp/articles/be254ce57a32d6b7f2221197c953c0d8cca7879b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "エヌビディアやナイキも、OKX・ICEのトークン化株式取引計画に異議。計50社に",
-        "url": "https://news.yahoo.co.jp/articles/189a6032db92d3fe8325b83c8cbb8f169d1d83a7",
         "source": "Yahoo",
         "date": ""
       }
