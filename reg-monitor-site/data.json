@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T07:20:03.097Z",
+  "generatedAt": "2026-11-02T08:50:58.571Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,66 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "CPMIが報告書「進化する決済システムにおける中央銀行および中央銀行マネーの役割」を公表",
+      "url": "https://www.boj.or.jp/paym/intlact_pm/cpss/cpss261102a.htm",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T08:50:58.571Z",
+      "enriched": "2026-11-02T08:51:03.071Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "CPMI報告書は、2003年の前回報告書以降の決済環境の進化、デジタル化・常時決済・国際送金需要の拡大、支払機能の分散化に伴う新たなリスク出現を分析し、中央銀行が講じ得る政策手段を整理した。",
+        "中央銀行は決済システムにおいて流動性リスク・サイバー脅威・オペレーショナルリスク・第三者技術依存の管理を、技術ベースでなく機能・リスクベースで対応し、技術・データ・レジリエンス面での専門知識強化が求められる。",
+        "中央銀行マネーは決済インフラの決済資産として機能し、他形態の通貨の等価交換性と決済最終性を支える役割を継続する必要があり、公的・民間の通貨が相互補完的に共存する環境構築が重要。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE,TOCOM]デリバティブの祝日取引の実施について（2026年11月3日）",
+      "url": "https://www.jpx.co.jp/news/2040/20261102-01.html",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T08:50:58.571Z",
+      "enriched": "2026-11-02T08:51:03.071Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年11月3日（火・文化の日）、大阪取引所（OSE）および東京商品取引所（TOCOM）のデリバティブ市場において祝日取引が実施される。",
+        "取引参加者および投資家は、当該祝日における取引システムの稼働時間、注文受付状況、決済手続等の詳細について大阪取引所に確認し、取引活動を適切に管理する必要がある。",
+        "本実施は2026年11月3日の祝日に限定されるもので、通常の祝日（文化の日）における市場休場の特例措置として実施される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "新規取扱銘柄のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20261102-001/",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T08:50:58.571Z",
+      "enriched": "2026-11-02T08:51:03.071Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA会員が暗号資産マントル（ティッカーコード：MNT）の取扱を新たに開始した。銘柄の詳細は暗号資産概要説明書に記載されている。",
+        "JVCEA会員は新規取扱銘柄として登録・取扱開始するにあたり、暗号資産概要説明書を確認し顧客に情報提供する態勢を整備する必要がある。",
+        "暗号資産マントル（MNT）の取扱開始日は2026年10月31日で、資金決済法および暗号資産交換業規制に基づく銘柄管理の対象となる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "第2回 国際通貨基金（IMF）専門職キャリアセミナー開催のご案内",
+      "url": "https://jicpa.or.jp/news/information/2026/20261102gcx.html",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T08:50:58.571Z",
+      "enriched": "2026-11-02T08:51:03.071Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "IMFが会計・財務等の専門職を対象とした専門職キャリアセミナーを2026年11月9日18:00～19:30に開催し、Specialized Career Stream（SCS）を通じたIMF内でのキャリア機会を紹介する。",
+        "公認会計士協会会員を含む会計・財務分野の専門家は、IMFのキャリア情報を得るため2026年11月4日（水）までにセミナー申込フォームから登録し、ハイブリッド形式（対面・オンライン、英語一部日本語）で参加する。",
+        "本セミナーは日本公認会計士協会の周知依頼に基づくもので、IMF財務局副局長ほか登壇者からIMF財務局の概要と専門職向けキャリア機会について説明を受ける。"
       ],
       "aiSumV": 3
     },
@@ -19014,6 +19074,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "中国共産党、高級幹部や家族の資産監視強化 習氏の権力維持狙いか",
+        "url": "https://news.yahoo.co.jp/articles/c66346e50715e85c38641b62acb5c9f4d053491b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クーコイン、ロシア・ベラルーシ向けサービスを即時終了へ",
+        "url": "https://news.yahoo.co.jp/articles/cdd378ee6e9e37aea4c67f7561eae6ca6404c79b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIから仮想通貨まで-米中間選挙で警戒すべき8分野、株･債券に波乱も",
         "url": "https://news.yahoo.co.jp/articles/dc3b115524b3458bec9a59a2091ea1200eea413f",
         "source": "Yahoo",
@@ -19034,24 +19106,24 @@
       {
         "title": "北朝鮮、20分で巨額の暗号資産を窃取か",
         "url": "https://news.yahoo.co.jp/articles/f06543d67f3d37b5c7b77aa2ae5a4acdb0e01dd6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
-        "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産交換所、防御強化急ぐ バイナンス巨額流出受け",
-        "url": "https://news.yahoo.co.jp/articles/95fd96a5587fabc28b0d7aa43fff4cef7668fa64",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "中国共産党、高級幹部や家族の資産監視強化 習氏の権力維持狙いか",
+        "url": "https://news.yahoo.co.jp/articles/c66346e50715e85c38641b62acb5c9f4d053491b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "クーコイン、ロシア・ベラルーシ向けサービスを即時終了へ",
+        "url": "https://news.yahoo.co.jp/articles/cdd378ee6e9e37aea4c67f7561eae6ca6404c79b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIから仮想通貨まで-米中間選挙で警戒すべき8分野、株･債券に波乱も",
         "url": "https://news.yahoo.co.jp/articles/dc3b115524b3458bec9a59a2091ea1200eea413f",
         "source": "Yahoo",
@@ -19072,18 +19144,6 @@
       {
         "title": "北朝鮮、20分で巨額の暗号資産を窃取か",
         "url": "https://news.yahoo.co.jp/articles/f06543d67f3d37b5c7b77aa2ae5a4acdb0e01dd6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
-        "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産交換所、防御強化急ぐ バイナンス巨額流出受け",
-        "url": "https://news.yahoo.co.jp/articles/95fd96a5587fabc28b0d7aa43fff4cef7668fa64",
         "source": "Yahoo",
         "date": ""
       }
@@ -19242,13 +19302,31 @@
     ],
     "505M60000002048": [
       {
+        "title": "バイナンス60億ドル超流出事件は北朝鮮の関与、資金洗浄阻止へ協力要請＝FBI",
+        "url": "https://news.yahoo.co.jp/articles/fc1ac1b2fdc9259e12d1d61084ab7dd51d446305",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TISIとCARDNET、社員食堂でステーブルコイン決済を実証",
+        "url": "https://news.yahoo.co.jp/articles/9e6be4ac65b8e5c45f799a124002225217329e34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa、ステーブルコイン精算額が年換算250億ドル超に、前年同期比10倍 ビザのステーブルコイン精算は、カード発行会社や加盟店側の決済事業者が、ビザとの間で行う資金の受け渡しに、ブロックチェーン上のステーブルコインを使う仕組みだ。あたらしい経済経済総合11/2(月) 16:56",
+        "url": "https://news.yahoo.co.jp/articles/aad349b5c2f5e2955e20a9711d4a52ea86d7206e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYSCレンディング、残高100億円突破──取扱残高も300億円超",
         "url": "https://news.yahoo.co.jp/articles/4ac5a26d01fa18417d49d5e93d1d0ae9621681e0",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間決済に対応",
+        "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間精算に対応",
         "url": "https://news.yahoo.co.jp/articles/be254ce57a32d6b7f2221197c953c0d8cca7879b",
         "source": "Yahoo",
         "date": ""
@@ -19256,37 +19334,37 @@
       {
         "title": "エヌビディアやナイキも、OKX・ICEのトークン化株式取引計画に異議。計50社に",
         "url": "https://news.yahoo.co.jp/articles/189a6032db92d3fe8325b83c8cbb8f169d1d83a7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【社説】バイナンスへの１兆円規模のハッキング、韓国の取引所は安全か",
-        "url": "https://news.yahoo.co.jp/articles/53cba66d1117c589e755ded92acd0572227b1870",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、Q3純営業利益15億ドル、超過準備金は79.5億ドルにほぼ倍増",
-        "url": "https://news.yahoo.co.jp/articles/caa907875d8254acaddb84273863c450666ae682",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ＦＢＩ「バイナンスへのハッキングの黒幕は北朝鮮」",
-        "url": "https://news.yahoo.co.jp/articles/82b6caf88b3c02665d7d072a60c508a797665892",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "バイナンス60億ドル超流出事件は北朝鮮の関与、資金洗浄阻止へ協力要請＝FBI",
+        "url": "https://news.yahoo.co.jp/articles/fc1ac1b2fdc9259e12d1d61084ab7dd51d446305",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "TISIとCARDNET、社員食堂でステーブルコイン決済を実証",
+        "url": "https://news.yahoo.co.jp/articles/9e6be4ac65b8e5c45f799a124002225217329e34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa、ステーブルコイン精算額が年換算250億ドル超に、前年同期比10倍 ビザのステーブルコイン精算は、カード発行会社や加盟店側の決済事業者が、ビザとの間で行う資金の受け渡しに、ブロックチェーン上のステーブルコインを使う仕組みだ。あたらしい経済経済総合11/2(月) 16:56",
+        "url": "https://news.yahoo.co.jp/articles/aad349b5c2f5e2955e20a9711d4a52ea86d7206e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYSCレンディング、残高100億円突破──取扱残高も300億円超",
         "url": "https://news.yahoo.co.jp/articles/4ac5a26d01fa18417d49d5e93d1d0ae9621681e0",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間決済に対応",
+        "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間精算に対応",
         "url": "https://news.yahoo.co.jp/articles/be254ce57a32d6b7f2221197c953c0d8cca7879b",
         "source": "Yahoo",
         "date": ""
@@ -19294,24 +19372,6 @@
       {
         "title": "エヌビディアやナイキも、OKX・ICEのトークン化株式取引計画に異議。計50社に",
         "url": "https://news.yahoo.co.jp/articles/189a6032db92d3fe8325b83c8cbb8f169d1d83a7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【社説】バイナンスへの１兆円規模のハッキング、韓国の取引所は安全か",
-        "url": "https://news.yahoo.co.jp/articles/53cba66d1117c589e755ded92acd0572227b1870",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、Q3純営業利益15億ドル、超過準備金は79.5億ドルにほぼ倍増",
-        "url": "https://news.yahoo.co.jp/articles/caa907875d8254acaddb84273863c450666ae682",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ＦＢＩ「バイナンスへのハッキングの黒幕は北朝鮮」",
-        "url": "https://news.yahoo.co.jp/articles/82b6caf88b3c02665d7d072a60c508a797665892",
         "source": "Yahoo",
         "date": ""
       }
@@ -20032,6 +20092,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "パク・シフの不倫仲介疑惑を提起した女性、名誉毀損などの疑いで懲役10ヶ月求刑も控訴",
+        "url": "https://news.yahoo.co.jp/articles/69c21641127432df54f8e745b7b9a626221be439",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "会話を録音するAIガジェットはどこまで許されるのか、Apple Watchが突きつける市場とプライバシーの問題 欧州の「GDPR(EU一般データ保護規則)」やアメリカの州法、日本の「個人情報保護法」などの法律により、個人データの取得や保護をする際には本人への通知や",
         "url": "https://news.yahoo.co.jp/articles/7add6ebb947a0034e5c1ac859a19ff58db7f2b45",
         "source": "Yahoo",
@@ -20058,18 +20124,18 @@
       {
         "title": "「駅に置かれたリュックから大量の免許証が",
         "url": "https://news.yahoo.co.jp/articles/30ca1e7dcb05750309661193b123f2863d32b061",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI開発に渡した個人データ、漏えいさせた企業に課徴金は及ばない",
-        "url": "https://news.yahoo.co.jp/expert/articles/a6af2d36fe364d7ead50fcd87f586eb8f96dff0d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "パク・シフの不倫仲介疑惑を提起した女性、名誉毀損などの疑いで懲役10ヶ月求刑も控訴",
+        "url": "https://news.yahoo.co.jp/articles/69c21641127432df54f8e745b7b9a626221be439",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "会話を録音するAIガジェットはどこまで許されるのか、Apple Watchが突きつける市場とプライバシーの問題 欧州の「GDPR(EU一般データ保護規則)」やアメリカの州法、日本の「個人情報保護法」などの法律により、個人データの取得や保護をする際には本人への通知や",
         "url": "https://news.yahoo.co.jp/articles/7add6ebb947a0034e5c1ac859a19ff58db7f2b45",
         "source": "Yahoo",
@@ -20096,18 +20162,18 @@
       {
         "title": "「駅に置かれたリュックから大量の免許証が",
         "url": "https://news.yahoo.co.jp/articles/30ca1e7dcb05750309661193b123f2863d32b061",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI開発に渡した個人データ、漏えいさせた企業に課徴金は及ばない",
-        "url": "https://news.yahoo.co.jp/expert/articles/a6af2d36fe364d7ead50fcd87f586eb8f96dff0d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "パク・シフの不倫仲介疑惑を提起した女性、名誉毀損などの疑いで懲役10ヶ月求刑も控訴",
+        "url": "https://news.yahoo.co.jp/articles/69c21641127432df54f8e745b7b9a626221be439",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "会話を録音するAIガジェットはどこまで許されるのか、Apple Watchが突きつける市場とプライバシーの問題 欧州の「GDPR(EU一般データ保護規則)」やアメリカの州法、日本の「個人情報保護法」などの法律により、個人データの取得や保護をする際には本人への通知や",
         "url": "https://news.yahoo.co.jp/articles/7add6ebb947a0034e5c1ac859a19ff58db7f2b45",
         "source": "Yahoo",
@@ -20134,12 +20200,6 @@
       {
         "title": "「駅に置かれたリュックから大量の免許証が",
         "url": "https://news.yahoo.co.jp/articles/30ca1e7dcb05750309661193b123f2863d32b061",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AI開発に渡した個人データ、漏えいさせた企業に課徴金は及ばない",
-        "url": "https://news.yahoo.co.jp/expert/articles/a6af2d36fe364d7ead50fcd87f586eb8f96dff0d",
         "source": "Yahoo",
         "date": ""
       }
