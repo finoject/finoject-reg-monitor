@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T05:49:05.802Z",
+  "generatedAt": "2026-11-02T07:20:03.097Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,113 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）Ｇｉｎｚａ",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T07:20:03.097Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-02T07:20:10.804Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第５回会合の議事要旨を掲載いたしました",
+      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T07:20:03.097Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
+        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
+        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-02T07:20:10.804Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "気候変動対応を支援するための資金供給オペレーションの対象先公募について",
+      "url": "https://www.boj.or.jp/mopo/measures/select/s_release/srel261102a.htm",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T07:20:03.097Z",
+      "enriched": "2026-11-02T07:20:10.804Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は気候変動対応を支援する資金供給オペレーションを実施し、その対象先を公募することを決定した。",
+        "金融機関を含む事業者は公募要項に基づき、気候変動対応プロジェクト等の融資実績を伴う応募書類を日本銀行に提出する必要がある。",
+        "本公募は2026年11月2日に公表され、詳細は日本銀行金融市場局の「オペレーション等の対象先公募・選定」で確認できる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261102-01.html",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T07:20:03.097Z",
+      "enriched": "2026-11-02T07:20:10.804Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "栗田工業（株）（コード6370）について、11月4日の立会から制限値幅の下限を通常の700円から2,800円に拡大し、上限は700円のまま据置。基準値段4,647円、ストップ安1,847円。",
+        "取引参加者および投資家は、同銘柄での成行注文が予期しない値段で約定する可能性があるため、指値注文の活用など注意が必要。制限値幅拡大は東証の自主規制に基づく措置。",
+        "制限値幅の拡大は、ストップ高（安）以外の値段で売買が成立した翌営業日から通常に戻る。東証が2営業日連続の極端な気配（ストップ配分無しまたは売買0株）を確認した場合に適用開始。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX,東証,OSE,TOCOM]2026年10月の売買状況について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/20261102-11.html",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T07:20:03.097Z",
+      "enriched": "2026-11-02T07:20:10.804Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証プライム市場の1日平均売買代金は9兆6,513億円（前月比+14.3%、前年同月比+22.9%）、デリバティブ合計取引代金は376兆円（10月として過去最高）、ナイト・セッションシェアは46.5%。",
+        "市場参加者は2026年10月の各市場取引状況を参考資料で確認する。大阪取引所と東京商品取引所のデリバティブ取引が対象で、長期国債先物（現金決済型ミニ）が過去最高の7万6,322単位を記録。",
+        "2026年10月の売買統計は日本取引所グループが公表した概算値で、現物市場（東証プライム、スタンダード、グロース）とデリバティブ市場（大阪取引所、東京商品取引所）の統計に基づく。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]JPXマンスリー・ヘッドライン（10月分）について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20261102-02.html",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T07:20:03.097Z",
+      "enriched": "2026-11-02T07:20:10.804Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文は月次ニュースダイジェストの目次情報のみで、具体的な規制改正や基準変更の内容が記載されていない。詳細はJPXの各発表資料を参照する必要がある。",
+        "TOPIX等の株価指数構成銘柄の定期入替等が10月7日に公表され、資産運用立国実現に向けたJPXグループの取組が10月23日に公表された。",
+        "本リリースは市場利用者向けの情報提供であり、特定の規制対象者に対する具体的な対応義務は記載されていない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "会員統計情報を更新しました",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20261102-002/",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T07:20:03.097Z",
+      "enriched": "2026-11-02T07:20:10.804Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JVCEA（日本暗号資産等取引業協会）が2026年11月2日付で会員統計情報を更新。現物取引・証拠金取引の統計データを集計・公表している。",
+        "会員及び業界参加者は、JVCEA統計情報ページから更新された現物/証拠金取引の統計データを確認し、市場動向把握に活用すべき。",
+        "統計情報は随時更新される。協会ウェブサイト内の統計情報・取扱銘柄関連ページで詳細を確認可能。法定開示とは別の業界統計。"
       ],
       "aiSumV": 3
     },
@@ -202,22 +309,6 @@
       ],
       "aiSumV": 3,
       "updated": true,
-      "enriched": "2026-10-30T08:03:25.548Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：InfiniCloud（株）",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-10-30",
-      "detectedAt": "2026-10-30T08:03:16.626Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
       "enriched": "2026-10-30T08:03:25.548Z"
     },
     {
@@ -1405,22 +1496,6 @@
         "2026年10月22日付けの本通知により緊急メンテナンスが開始され、完了時期は別途案内される予定。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「2040年に向けた我が国金融資本市場のビジョンについての懇談会」中間報告を公表いたしました",
-      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
-      "date": "2026-10-21",
-      "detectedAt": "2026-10-21T06:50:28.328Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
-        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
-        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-21T06:50:34.488Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -18939,6 +19014,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "AIから仮想通貨まで-米中間選挙で警戒すべき8分野、株･債券に波乱も",
+        "url": "https://news.yahoo.co.jp/articles/dc3b115524b3458bec9a59a2091ea1200eea413f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ブラジル、既存の暗号資産事業者の認可申請期限が終了。未申請業者は30日以内にサービス終了へ",
+        "url": "https://news.yahoo.co.jp/articles/63895830e47744f275fd06e2d4c902e0ce437126",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【社説】バイナンスへの１兆円規模のハッキング、韓国の取引所は安全か 世界最大の暗号資産取引所バイナンスで29日、63億ドル（約1兆円）が盗まれた。史上最大規模の暗号資産ハッキング事件だ。米連邦捜査局（FBI）は、北",
         "url": "https://news.yahoo.co.jp/articles/53cba66d1117c589e755ded92acd0572227b1870",
         "source": "Yahoo",
@@ -18959,24 +19046,24 @@
       {
         "title": "暗号資産交換所、防御強化急ぐ バイナンス巨額流出受け",
         "url": "https://news.yahoo.co.jp/articles/95fd96a5587fabc28b0d7aa43fff4cef7668fa64",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「ＡＩ規制派」民主党優勢、米テック業界は共和党に巨額資金",
-        "url": "https://news.yahoo.co.jp/articles/33bc35dca22cb7d7a4ccef396dcc8aad16d8f4c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス1兆円流出、米中間選挙前に党派対立へ発展",
-        "url": "https://news.yahoo.co.jp/articles/6c50151f9251a465c36c786f9f907341f0408c32",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "AIから仮想通貨まで-米中間選挙で警戒すべき8分野、株･債券に波乱も",
+        "url": "https://news.yahoo.co.jp/articles/dc3b115524b3458bec9a59a2091ea1200eea413f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ブラジル、既存の暗号資産事業者の認可申請期限が終了。未申請業者は30日以内にサービス終了へ",
+        "url": "https://news.yahoo.co.jp/articles/63895830e47744f275fd06e2d4c902e0ce437126",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【社説】バイナンスへの１兆円規模のハッキング、韓国の取引所は安全か 世界最大の暗号資産取引所バイナンスで29日、63億ドル（約1兆円）が盗まれた。史上最大規模の暗号資産ハッキング事件だ。米連邦捜査局（FBI）は、北",
         "url": "https://news.yahoo.co.jp/articles/53cba66d1117c589e755ded92acd0572227b1870",
         "source": "Yahoo",
@@ -18997,18 +19084,6 @@
       {
         "title": "暗号資産交換所、防御強化急ぐ バイナンス巨額流出受け",
         "url": "https://news.yahoo.co.jp/articles/95fd96a5587fabc28b0d7aa43fff4cef7668fa64",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「ＡＩ規制派」民主党優勢、米テック業界は共和党に巨額資金",
-        "url": "https://news.yahoo.co.jp/articles/33bc35dca22cb7d7a4ccef396dcc8aad16d8f4c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス1兆円流出、米中間選挙前に党派対立へ発展",
-        "url": "https://news.yahoo.co.jp/articles/6c50151f9251a465c36c786f9f907341f0408c32",
         "source": "Yahoo",
         "date": ""
       }
@@ -19167,6 +19242,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "JPYSCレンディング、残高100億円突破──取扱残高も300億円超",
+        "url": "https://news.yahoo.co.jp/articles/4ac5a26d01fa18417d49d5e93d1d0ae9621681e0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間決済に対応",
+        "url": "https://news.yahoo.co.jp/articles/be254ce57a32d6b7f2221197c953c0d8cca7879b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "エヌビディアやナイキも、OKX・ICEのトークン化株式取引計画に異議。計50社に",
         "url": "https://news.yahoo.co.jp/articles/189a6032db92d3fe8325b83c8cbb8f169d1d83a7",
         "source": "Yahoo",
@@ -19187,24 +19274,24 @@
       {
         "title": "ＦＢＩ「バイナンスへのハッキングの黒幕は北朝鮮」",
         "url": "https://news.yahoo.co.jp/articles/82b6caf88b3c02665d7d072a60c508a797665892",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI VCトレード、「JPYSCレンディング」残高100億円突破。取扱残高は300億円超に",
-        "url": "https://news.yahoo.co.jp/articles/4661adce7cf465b14d05cc1b0eeb90d63b1390e2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米国債発行ガイダンス、数年ぶり大幅見直し観測-ウォール街が身構え",
-        "url": "https://news.yahoo.co.jp/articles/90d02e257bf701857c558e9f0d25104fcf365104",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "JPYSCレンディング、残高100億円突破──取扱残高も300億円超",
+        "url": "https://news.yahoo.co.jp/articles/4ac5a26d01fa18417d49d5e93d1d0ae9621681e0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間決済に対応",
+        "url": "https://news.yahoo.co.jp/articles/be254ce57a32d6b7f2221197c953c0d8cca7879b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "エヌビディアやナイキも、OKX・ICEのトークン化株式取引計画に異議。計50社に",
         "url": "https://news.yahoo.co.jp/articles/189a6032db92d3fe8325b83c8cbb8f169d1d83a7",
         "source": "Yahoo",
@@ -19225,18 +19312,6 @@
       {
         "title": "ＦＢＩ「バイナンスへのハッキングの黒幕は北朝鮮」",
         "url": "https://news.yahoo.co.jp/articles/82b6caf88b3c02665d7d072a60c508a797665892",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI VCトレード、「JPYSCレンディング」残高100億円突破。取扱残高は300億円超に",
-        "url": "https://news.yahoo.co.jp/articles/4661adce7cf465b14d05cc1b0eeb90d63b1390e2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米国債発行ガイダンス、数年ぶり大幅見直し観測-ウォール街が身構え",
-        "url": "https://news.yahoo.co.jp/articles/90d02e257bf701857c558e9f0d25104fcf365104",
         "source": "Yahoo",
         "date": ""
       }
@@ -19767,12 +19842,6 @@
     ],
     "417AC0000000086": [
       {
-        "title": "投資セミナーで「必ずもうかる」と言われて契約。取り消しは気づいてから1年以内に",
-        "url": "https://news.yahoo.co.jp/articles/8bf1ee8a03a66db448bcad66b2134a3d2b8cf2a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「胸を触られ、ホテルに誘われた」就活生につけ込む悪質セクハラ",
         "url": "https://news.yahoo.co.jp/articles/3467b8acd90daa08d134b0c7282d11ce5dc8faf6",
         "source": "Yahoo",
@@ -19799,18 +19868,18 @@
       {
         "title": "マレーシアの税制が変わった",
         "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「よかれと思った贈与」が紛争を招く？ 企業の「自社株承継」を揺るがす特別受益の誤算とは",
+        "url": "https://news.yahoo.co.jp/articles/b750435f5c4351a01316cee8d0e4cf64e8bfcbbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
-        "title": "投資セミナーで「必ずもうかる」と言われて契約。取り消しは気づいてから1年以内に",
-        "url": "https://news.yahoo.co.jp/articles/8bf1ee8a03a66db448bcad66b2134a3d2b8cf2a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「胸を触られ、ホテルに誘われた」就活生につけ込む悪質セクハラ",
         "url": "https://news.yahoo.co.jp/articles/3467b8acd90daa08d134b0c7282d11ce5dc8faf6",
         "source": "Yahoo",
@@ -19837,18 +19906,18 @@
       {
         "title": "マレーシアの税制が変わった",
         "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「よかれと思った贈与」が紛争を招く？ 企業の「自社株承継」を揺るがす特別受益の誤算とは",
+        "url": "https://news.yahoo.co.jp/articles/b750435f5c4351a01316cee8d0e4cf64e8bfcbbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
-        "title": "投資セミナーで「必ずもうかる」と言われて契約。取り消しは気づいてから1年以内に",
-        "url": "https://news.yahoo.co.jp/articles/8bf1ee8a03a66db448bcad66b2134a3d2b8cf2a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「胸を触られ、ホテルに誘われた」就活生につけ込む悪質セクハラ",
         "url": "https://news.yahoo.co.jp/articles/3467b8acd90daa08d134b0c7282d11ce5dc8faf6",
         "source": "Yahoo",
@@ -19875,18 +19944,18 @@
       {
         "title": "マレーシアの税制が変わった",
         "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「よかれと思った贈与」が紛争を招く？ 企業の「自社株承継」を揺るがす特別受益の誤算とは",
+        "url": "https://news.yahoo.co.jp/articles/b750435f5c4351a01316cee8d0e4cf64e8bfcbbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
-        "title": "投資セミナーで「必ずもうかる」と言われて契約。取り消しは気づいてから1年以内に",
-        "url": "https://news.yahoo.co.jp/articles/8bf1ee8a03a66db448bcad66b2134a3d2b8cf2a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「胸を触られ、ホテルに誘われた」就活生につけ込む悪質セクハラ",
         "url": "https://news.yahoo.co.jp/articles/3467b8acd90daa08d134b0c7282d11ce5dc8faf6",
         "source": "Yahoo",
@@ -19913,18 +19982,18 @@
       {
         "title": "マレーシアの税制が変わった",
         "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「よかれと思った贈与」が紛争を招く？ 企業の「自社株承継」を揺るがす特別受益の誤算とは",
+        "url": "https://news.yahoo.co.jp/articles/b750435f5c4351a01316cee8d0e4cf64e8bfcbbf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
-        "title": "投資セミナーで「必ずもうかる」と言われて契約。取り消しは気づいてから1年以内に",
-        "url": "https://news.yahoo.co.jp/articles/8bf1ee8a03a66db448bcad66b2134a3d2b8cf2a6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「胸を触られ、ホテルに誘われた」就活生につけ込む悪質セクハラ",
         "url": "https://news.yahoo.co.jp/articles/3467b8acd90daa08d134b0c7282d11ce5dc8faf6",
         "source": "Yahoo",
@@ -19951,6 +20020,12 @@
       {
         "title": "マレーシアの税制が変わった",
         "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「よかれと思った贈与」が紛争を招く？ 企業の「自社株承継」を揺るがす特別受益の誤算とは",
+        "url": "https://news.yahoo.co.jp/articles/b750435f5c4351a01316cee8d0e4cf64e8bfcbbf",
         "source": "Yahoo",
         "date": ""
       }
