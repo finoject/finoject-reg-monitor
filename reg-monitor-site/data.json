@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:17:40.432Z",
+  "generatedAt": "2026-11-02T05:49:05.802Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,36 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【記者会見】植田総裁（10月30日分）",
+      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T05:49:05.802Z",
+      "enriched": "2026-11-02T05:49:10.710Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年10月30日の金融政策決定会合で、無担保コールレート・オーバーナイト物を1.25％程度に据え置くことを賛成多数で決定し、政策金利引上げの議案は反対多数で否決された。",
+        "基調的物価上昇率が2％の物価安定目標と概ね整合的な水準に達した中、今後は2％程度での定着度合いを確認する局面に移行し、経済・物価・金融情勢を踏まえて段階的に金融緩和度合いを調整していく方針である。",
+        "日本銀行は2027年1月から、保有するETFの年間売却ペースを簿価ベースで8,600億円程度に見直し（市場全体の売買代金に占める売却割合を0.05％から0.1％に変更）、J-REITの売却ペース（年間50億円程度）は変更しない。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "経済・物価情勢の展望（10月、全文）",
+      "url": "https://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T05:49:05.802Z",
+      "enriched": "2026-11-02T05:49:10.710Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "消費者物価（除く生鮮食品）は2026年度に2％をはっきり上回る水準まで上昇し、2027年度以降は原油高の影響減衰により2％程度に縮小するほか、2027年度は夏場以降の原油価格上昇で前回見通しから幾分上振れする見込み。",
+        "企業・家計とも賃金上昇を販売価格に転嫁する動きが続く中で、原油価格上昇・AI関連半導体価格上昇・為替円安が価格押し上げ要因となり、労働需給の引き締まりに伴い賃金と物価が相互参照しながら緩やかに上昇する仕組みが作動している。",
+        "中長期的な予想物価上昇率は2％程度で推移するとみられ、消費者物価の基調的上昇率は2％の「物価安定の目標」と概ね整合的だが、企業の積極的な賃金・価格設定行動を踏まえると2％超への上振れリスクが存在する。"
       ],
       "aiSumV": 3
     },
@@ -18909,6 +18939,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "【社説】バイナンスへの１兆円規模のハッキング、韓国の取引所は安全か 世界最大の暗号資産取引所バイナンスで29日、63億ドル（約1兆円）が盗まれた。史上最大規模の暗号資産ハッキング事件だ。米連邦捜査局（FBI）は、北",
+        "url": "https://news.yahoo.co.jp/articles/53cba66d1117c589e755ded92acd0572227b1870",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "北朝鮮、20分で巨額の暗号資産を窃取か",
         "url": "https://news.yahoo.co.jp/articles/f06543d67f3d37b5c7b77aa2ae5a4acdb0e01dd6",
         "source": "Yahoo",
@@ -18935,18 +18971,18 @@
       {
         "title": "バイナンス1兆円流出、米中間選挙前に党派対立へ発展",
         "url": "https://news.yahoo.co.jp/articles/6c50151f9251a465c36c786f9f907341f0408c32",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏の支援団体に暗号資産マネー、Crypto.comが55億円献金＝調査",
-        "url": "https://news.yahoo.co.jp/articles/5f2ab4cf2363e340d91951c32e95f71ba10f4a2e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "【社説】バイナンスへの１兆円規模のハッキング、韓国の取引所は安全か 世界最大の暗号資産取引所バイナンスで29日、63億ドル（約1兆円）が盗まれた。史上最大規模の暗号資産ハッキング事件だ。米連邦捜査局（FBI）は、北",
+        "url": "https://news.yahoo.co.jp/articles/53cba66d1117c589e755ded92acd0572227b1870",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "北朝鮮、20分で巨額の暗号資産を窃取か",
         "url": "https://news.yahoo.co.jp/articles/f06543d67f3d37b5c7b77aa2ae5a4acdb0e01dd6",
         "source": "Yahoo",
@@ -18973,12 +19009,6 @@
       {
         "title": "バイナンス1兆円流出、米中間選挙前に党派対立へ発展",
         "url": "https://news.yahoo.co.jp/articles/6c50151f9251a465c36c786f9f907341f0408c32",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏の支援団体に暗号資産マネー、Crypto.comが55億円献金＝調査",
-        "url": "https://news.yahoo.co.jp/articles/5f2ab4cf2363e340d91951c32e95f71ba10f4a2e",
         "source": "Yahoo",
         "date": ""
       }
@@ -19137,6 +19167,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "エヌビディアやナイキも、OKX・ICEのトークン化株式取引計画に異議。計50社に",
+        "url": "https://news.yahoo.co.jp/articles/189a6032db92d3fe8325b83c8cbb8f169d1d83a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【社説】バイナンスへの１兆円規模のハッキング、韓国の取引所は安全か",
+        "url": "https://news.yahoo.co.jp/articles/53cba66d1117c589e755ded92acd0572227b1870",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、Q3純営業利益15億ドル、超過準備金は79.5億ドルにほぼ倍増",
+        "url": "https://news.yahoo.co.jp/articles/caa907875d8254acaddb84273863c450666ae682",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ＦＢＩ「バイナンスへのハッキングの黒幕は北朝鮮」",
+        "url": "https://news.yahoo.co.jp/articles/82b6caf88b3c02665d7d072a60c508a797665892",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI VCトレード、「JPYSCレンディング」残高100億円突破。取扱残高は300億円超に",
         "url": "https://news.yahoo.co.jp/articles/4661adce7cf465b14d05cc1b0eeb90d63b1390e2",
         "source": "Yahoo",
@@ -19145,36 +19199,36 @@
       {
         "title": "米国債発行ガイダンス、数年ぶり大幅見直し観測-ウォール街が身構え",
         "url": "https://news.yahoo.co.jp/articles/90d02e257bf701857c558e9f0d25104fcf365104",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
-        "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮が奪取のビットコイン、テスラの保有量超える",
-        "url": "https://news.yahoo.co.jp/articles/36708afbff7b5d252a0a9ef414c535e830e3b380",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮ハッカーが盗んだビットコイン 米テスラの保有量超える＝北年間輸出額の3倍",
-        "url": "https://news.yahoo.co.jp/articles/81ec3503d269b0dc5f60d01c33ec90bf0512c2fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Tether、超過準備金が1兆2000億円規模に倍増──7～9月期の純営業利益は2400億円",
-        "url": "https://news.yahoo.co.jp/articles/ed0aa58faea38bf1141086005ee3a7e241e38d28",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "エヌビディアやナイキも、OKX・ICEのトークン化株式取引計画に異議。計50社に",
+        "url": "https://news.yahoo.co.jp/articles/189a6032db92d3fe8325b83c8cbb8f169d1d83a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【社説】バイナンスへの１兆円規模のハッキング、韓国の取引所は安全か",
+        "url": "https://news.yahoo.co.jp/articles/53cba66d1117c589e755ded92acd0572227b1870",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザー、Q3純営業利益15億ドル、超過準備金は79.5億ドルにほぼ倍増",
+        "url": "https://news.yahoo.co.jp/articles/caa907875d8254acaddb84273863c450666ae682",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ＦＢＩ「バイナンスへのハッキングの黒幕は北朝鮮」",
+        "url": "https://news.yahoo.co.jp/articles/82b6caf88b3c02665d7d072a60c508a797665892",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI VCトレード、「JPYSCレンディング」残高100億円突破。取扱残高は300億円超に",
         "url": "https://news.yahoo.co.jp/articles/4661adce7cf465b14d05cc1b0eeb90d63b1390e2",
         "source": "Yahoo",
@@ -19183,30 +19237,6 @@
       {
         "title": "米国債発行ガイダンス、数年ぶり大幅見直し観測-ウォール街が身構え",
         "url": "https://news.yahoo.co.jp/articles/90d02e257bf701857c558e9f0d25104fcf365104",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
-        "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮が奪取のビットコイン、テスラの保有量超える",
-        "url": "https://news.yahoo.co.jp/articles/36708afbff7b5d252a0a9ef414c535e830e3b380",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮ハッカーが盗んだビットコイン 米テスラの保有量超える＝北年間輸出額の3倍",
-        "url": "https://news.yahoo.co.jp/articles/81ec3503d269b0dc5f60d01c33ec90bf0512c2fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Tether、超過準備金が1兆2000億円規模に倍増──7～9月期の純営業利益は2400億円",
-        "url": "https://news.yahoo.co.jp/articles/ed0aa58faea38bf1141086005ee3a7e241e38d28",
         "source": "Yahoo",
         "date": ""
       }
@@ -19403,12 +19433,6 @@
     ],
     "358AC1000000032": [
       {
-        "title": "SNSの「お金を貸します」、個人でも繰り返し貸せば貸金業。給料の買取りも実態は貸付け",
-        "url": "https://news.yahoo.co.jp/articles/494fb3c5651000e619568a836b894f5e9b8f6930",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "1,000万件超の漏洩が相次ぐ今、CICの開示手数料500円を企業負担にすべき理由",
         "url": "https://news.yahoo.co.jp/expert/articles/381725a52a39e3b03ee116041f1ae4e6c11f5a94",
         "source": "Yahoo",
@@ -19435,18 +19459,18 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国で年2400％の違法貸金組織摘発",
+        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
-        "title": "SNSの「お金を貸します」、個人でも繰り返し貸せば貸金業。給料の買取りも実態は貸付け",
-        "url": "https://news.yahoo.co.jp/articles/494fb3c5651000e619568a836b894f5e9b8f6930",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "1,000万件超の漏洩が相次ぐ今、CICの開示手数料500円を企業負担にすべき理由",
         "url": "https://news.yahoo.co.jp/expert/articles/381725a52a39e3b03ee116041f1ae4e6c11f5a94",
         "source": "Yahoo",
@@ -19473,18 +19497,18 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国で年2400％の違法貸金組織摘発",
+        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
-        "title": "SNSの「お金を貸します」、個人でも繰り返し貸せば貸金業。給料の買取りも実態は貸付け",
-        "url": "https://news.yahoo.co.jp/articles/494fb3c5651000e619568a836b894f5e9b8f6930",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "1,000万件超の漏洩が相次ぐ今、CICの開示手数料500円を企業負担にすべき理由",
         "url": "https://news.yahoo.co.jp/expert/articles/381725a52a39e3b03ee116041f1ae4e6c11f5a94",
         "source": "Yahoo",
@@ -19511,6 +19535,12 @@
       {
         "title": "指名手配のベトナム人、無断横断で御用",
         "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国で年2400％の違法貸金組織摘発",
+        "url": "https://news.yahoo.co.jp/articles/491166faca3e2174b5195d87af1f3ecd4b4fdbd8",
         "source": "Yahoo",
         "date": ""
       }
