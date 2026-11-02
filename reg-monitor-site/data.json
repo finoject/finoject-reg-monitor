@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T02:43:33.948Z",
+  "generatedAt": "2026-11-02T04:17:40.432Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,52 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "会長記者会見の要旨を公開しました。",
+      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T04:17:40.432Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
+        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
+        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-02T04:17:46.476Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日銀当座預金増減要因と金融調節（10月実績）",
+      "url": "https://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T04:17:40.432Z",
+      "enriched": "2026-11-02T04:17:46.476Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がEXCELファイル形式のバイナリデータであり、テキスト抽出が不可能なため、具体的な実務内容を特定できません。",
+        "日銀当座預金の増減要因および10月実績に関する金融調節の内容について、提供いただいたファイルから読取可能なテキスト本文がありません。",
+        "タイトルから推定される日本銀行の金融調節関連情報について、本文内容の確認が必要です。改めてテキスト形式の本文をご提供ください。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：Allganize Holdings（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20261102_01.html",
+      "date": "2026-11-02",
+      "detectedAt": "2026-11-02T04:17:40.432Z",
+      "enriched": "2026-11-02T04:17:46.476Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "Allganize Holdings（株）（コード656A）の11月4日上場初値決定前において、板中心値段1,260円から上限2,898円・下限945円の気配運用を実施し、上限方向は更新値幅63円・10分間隔で更新する。",
+        "取引参加者は新規上場日の売買において成行呼値を禁止され、注文受付価格は315円以上5,040円以下の範囲内で指値注文のみ受け付ける。",
+        "初値決定までは制限値幅が適用されず、初値決定後に当該初値を基準値段として呼値の制限値幅が適用される東証の新規上場日気配運用ルール。"
       ],
       "aiSumV": 3
     },
@@ -1375,22 +1421,6 @@
         "2025年度の監査結果等の概要が別添資料で示されており、金融商品取引業者は当該監査実施と結果報告への対応が必須。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "会長記者会見の資料を公開しました。",
-      "url": "https://www.jsda.or.jp/houdou/kaiken/kaiken_2026.html",
-      "date": "2026-10-21",
-      "detectedAt": "2026-10-21T04:49:20.644Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年3月18日付けの会長記者会見で、新規上場時の会計不正事例を踏まえた引受審査に関するガイドラインを公開し、協会員に対する監査基準の強化を示唆した。",
-        "協会員は上場審査時に会計不正リスク評価を強化し、新ガイドラインに基づいた引受審査を実施する必要がある。",
-        "本ガイドライン適用は2026年3月18日の公開以降、新規上場申請案件から適用される見込み。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-21T04:49:26.524Z"
     },
     {
       "agency": "日本証券業協会",
@@ -18651,6 +18681,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "投資信託を解約すると引かれることがある「信託財産留保額」。有無は目論見書で分かる",
+        "url": "https://news.yahoo.co.jp/articles/1abd7f255ac083243d2a3b5a4fb31d0b5dc5d776",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -18677,18 +18713,18 @@
       {
         "title": "TKPインサイダー、元社員と夫に猶予判決 貸会議室大手TKPの未公開情報を基にインサイダー取引をしたとして、金融商品取引法違反の罪に問われた元社員細田有紗被告（37）と夫の無職正斗被告（45",
         "url": "https://news.yahoo.co.jp/articles/14ae3a93dd05b2a092ef15eef585818cdfcfc895",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金や原油に投資するなら。買い方で変わる業者の確かめ先と、電話勧誘の決まり",
-        "url": "https://news.yahoo.co.jp/articles/132394573ae109208c50a88914340229c16290b0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "投資信託を解約すると引かれることがある「信託財産留保額」。有無は目論見書で分かる",
+        "url": "https://news.yahoo.co.jp/articles/1abd7f255ac083243d2a3b5a4fb31d0b5dc5d776",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -18715,18 +18751,18 @@
       {
         "title": "TKPインサイダー、元社員と夫に猶予判決 貸会議室大手TKPの未公開情報を基にインサイダー取引をしたとして、金融商品取引法違反の罪に問われた元社員細田有紗被告（37）と夫の無職正斗被告（45",
         "url": "https://news.yahoo.co.jp/articles/14ae3a93dd05b2a092ef15eef585818cdfcfc895",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金や原油に投資するなら。買い方で変わる業者の確かめ先と、電話勧誘の決まり",
-        "url": "https://news.yahoo.co.jp/articles/132394573ae109208c50a88914340229c16290b0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "投資信託を解約すると引かれることがある「信託財産留保額」。有無は目論見書で分かる",
+        "url": "https://news.yahoo.co.jp/articles/1abd7f255ac083243d2a3b5a4fb31d0b5dc5d776",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -18753,18 +18789,18 @@
       {
         "title": "TKPインサイダー、元社員と夫に猶予判決 貸会議室大手TKPの未公開情報を基にインサイダー取引をしたとして、金融商品取引法違反の罪に問われた元社員細田有紗被告（37）と夫の無職正斗被告（45",
         "url": "https://news.yahoo.co.jp/articles/14ae3a93dd05b2a092ef15eef585818cdfcfc895",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金や原油に投資するなら。買い方で変わる業者の確かめ先と、電話勧誘の決まり",
-        "url": "https://news.yahoo.co.jp/articles/132394573ae109208c50a88914340229c16290b0",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "投資信託を解約すると引かれることがある「信託財産留保額」。有無は目論見書で分かる",
+        "url": "https://news.yahoo.co.jp/articles/1abd7f255ac083243d2a3b5a4fb31d0b5dc5d776",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -18791,12 +18827,6 @@
       {
         "title": "TKPインサイダー、元社員と夫に猶予判決 貸会議室大手TKPの未公開情報を基にインサイダー取引をしたとして、金融商品取引法違反の罪に問われた元社員細田有紗被告（37）と夫の無職正斗被告（45",
         "url": "https://news.yahoo.co.jp/articles/14ae3a93dd05b2a092ef15eef585818cdfcfc895",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金や原油に投資するなら。買い方で変わる業者の確かめ先と、電話勧誘の決まり",
-        "url": "https://news.yahoo.co.jp/articles/132394573ae109208c50a88914340229c16290b0",
         "source": "Yahoo",
         "date": ""
       }
@@ -18879,6 +18909,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "北朝鮮、20分で巨額の暗号資産を窃取か",
+        "url": "https://news.yahoo.co.jp/articles/f06543d67f3d37b5c7b77aa2ae5a4acdb0e01dd6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -18905,18 +18941,18 @@
       {
         "title": "トランプ氏の支援団体に暗号資産マネー、Crypto.comが55億円献金＝調査",
         "url": "https://news.yahoo.co.jp/articles/5f2ab4cf2363e340d91951c32e95f71ba10f4a2e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ支持率32％、民主党優勢の調査も",
-        "url": "https://news.yahoo.co.jp/articles/003e5f19c399e0bbc32b8331a3cb030f8a21be43",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "北朝鮮、20分で巨額の暗号資産を窃取か",
+        "url": "https://news.yahoo.co.jp/articles/f06543d67f3d37b5c7b77aa2ae5a4acdb0e01dd6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -18943,12 +18979,6 @@
       {
         "title": "トランプ氏の支援団体に暗号資産マネー、Crypto.comが55億円献金＝調査",
         "url": "https://news.yahoo.co.jp/articles/5f2ab4cf2363e340d91951c32e95f71ba10f4a2e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ支持率32％、民主党優勢の調査も",
-        "url": "https://news.yahoo.co.jp/articles/003e5f19c399e0bbc32b8331a3cb030f8a21be43",
         "source": "Yahoo",
         "date": ""
       }
@@ -19107,6 +19137,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI VCトレード、「JPYSCレンディング」残高100億円突破。取扱残高は300億円超に",
+        "url": "https://news.yahoo.co.jp/articles/4661adce7cf465b14d05cc1b0eeb90d63b1390e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米国債発行ガイダンス、数年ぶり大幅見直し観測-ウォール街が身構え",
+        "url": "https://news.yahoo.co.jp/articles/90d02e257bf701857c558e9f0d25104fcf365104",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -19127,24 +19169,24 @@
       {
         "title": "Tether、超過準備金が1兆2000億円規模に倍増──7～9月期の純営業利益は2400億円",
         "url": "https://news.yahoo.co.jp/articles/ed0aa58faea38bf1141086005ee3a7e241e38d28",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産ハッキング被害ワースト10──首位は北朝鮮が窃盗したバイナンス、日本のコインチェックも",
-        "url": "https://news.yahoo.co.jp/articles/b1d196f311104a306e2fc42f9896052d12b945e9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Binance流出資金約380億円が資金洗浄か──FBIが取引遮断を要請",
-        "url": "https://news.yahoo.co.jp/articles/5c3488092baaac198f27a1408dff048cf108a916",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI VCトレード、「JPYSCレンディング」残高100億円突破。取扱残高は300億円超に",
+        "url": "https://news.yahoo.co.jp/articles/4661adce7cf465b14d05cc1b0eeb90d63b1390e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米国債発行ガイダンス、数年ぶり大幅見直し観測-ウォール街が身構え",
+        "url": "https://news.yahoo.co.jp/articles/90d02e257bf701857c558e9f0d25104fcf365104",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -19165,18 +19207,6 @@
       {
         "title": "Tether、超過準備金が1兆2000億円規模に倍増──7～9月期の純営業利益は2400億円",
         "url": "https://news.yahoo.co.jp/articles/ed0aa58faea38bf1141086005ee3a7e241e38d28",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産ハッキング被害ワースト10──首位は北朝鮮が窃盗したバイナンス、日本のコインチェックも",
-        "url": "https://news.yahoo.co.jp/articles/b1d196f311104a306e2fc42f9896052d12b945e9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Binance流出資金約380億円が資金洗浄か──FBIが取引遮断を要請",
-        "url": "https://news.yahoo.co.jp/articles/5c3488092baaac198f27a1408dff048cf108a916",
         "source": "Yahoo",
         "date": ""
       }
