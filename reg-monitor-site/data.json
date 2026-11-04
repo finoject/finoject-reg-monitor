@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T11:23:08.880Z",
+  "generatedAt": "2026-11-04T12:54:13.169Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "金融審議会成長企業への資金供給の在り方等に関するワーキング・グループ第3回会議が令和8年11月9日10時から中央合同庁舎第7号館で開催され、ヒアリングと事務局説明、討議が実施される予定。",
         "会議は一般傍聴席なしだがYouTubeで配信され、金融庁ウェブサイトで後日議事録が公表されるため、金融機関・関係者は成長企業への資金供給に関する政策動向を確認可能。",
         "本会議は金融審議会の公式な審議活動であり、金融庁企画市場局信用課が所管し、成長企業への資金供給枠組みに関する実務上の指針や規制改革案の検討が進められている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "令和８年秋の叙勲・褒章受章者の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261104/20261104.html",
+      "date": "2026-11-04",
+      "detectedAt": "2026-11-04T12:54:13.169Z",
+      "enriched": "2026-11-04T12:54:19.182Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和８年10月20日（褒章）及び10月23日（叙勲）の閣議決定を経て、11月3日付で金融庁関連17名が叙勲、18名が褒章を受章。受章者は金融業務功労者ほか公認会計士等金融関係従事者。",
+        "受章者名簿に記載された金融庁関連の35名（叙勲17名・褒章18名）について、個別の功績内容と経歴が明記。実務では受章者の所属機関・職位の確認が必要。",
+        "本発表は令和８年11月４日付の金融庁報道発表資料であり、叙勲褒章法に基づく政府の人事任免制度の一環。対象者の表彰理由は金融業務への長年の貢献と功労。"
       ],
       "aiSumV": 3
     },
@@ -19194,6 +19209,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米中間選挙：予測市場の賭け金20億ドル近くが民主党優勢、モネロとジーキャッシュがビットコインを上回る",
+        "url": "https://news.yahoo.co.jp/articles/5812a901ee24898f4da969eb40734fe9282ef018",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米民主党、上下両院を奪還──クラリティ法案「今後2年は成立困難」とTDコーウェン",
         "url": "https://news.yahoo.co.jp/articles/0faa87e717ccbd21ad3c54fc239d6897abf82fed",
         "source": "Yahoo",
@@ -19220,18 +19241,18 @@
       {
         "title": "個別株の無期限先物、米登録取引所で取引可能に＝CFTC発表",
         "url": "https://news.yahoo.co.jp/articles/0e1807e3490fcf5d43eaea988511f3dea92ff1f4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中間選挙、予測市場は「民主党の圧勝」を予想──取引額は過去最高",
-        "url": "https://news.yahoo.co.jp/articles/4ea9117a227d5c336f8093c40a29c3b397647ebb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米中間選挙：予測市場の賭け金20億ドル近くが民主党優勢、モネロとジーキャッシュがビットコインを上回る",
+        "url": "https://news.yahoo.co.jp/articles/5812a901ee24898f4da969eb40734fe9282ef018",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米民主党、上下両院を奪還──クラリティ法案「今後2年は成立困難」とTDコーウェン",
         "url": "https://news.yahoo.co.jp/articles/0faa87e717ccbd21ad3c54fc239d6897abf82fed",
         "source": "Yahoo",
@@ -19258,12 +19279,6 @@
       {
         "title": "個別株の無期限先物、米登録取引所で取引可能に＝CFTC発表",
         "url": "https://news.yahoo.co.jp/articles/0e1807e3490fcf5d43eaea988511f3dea92ff1f4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中間選挙、予測市場は「民主党の圧勝」を予想──取引額は過去最高",
-        "url": "https://news.yahoo.co.jp/articles/4ea9117a227d5c336f8093c40a29c3b397647ebb",
         "source": "Yahoo",
         "date": ""
       }
@@ -20212,6 +20227,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "維新 企業に個人情報の消去義務化を提言",
+        "url": "https://news.yahoo.co.jp/articles/64c95a7daaa722e829c874625581dc4b9842ce79",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "個人情報の消去義務化を 維新、サイバー対策提言",
+        "url": "https://news.yahoo.co.jp/articles/efe99337e13f5b8ae0e9a6cc06e636fc50b49f6d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "企業に個人情報の消去義務化を提言 維新",
         "url": "https://news.yahoo.co.jp/articles/1ceefd826e704fd5af334cbb453c0cba319093c5",
         "source": "Yahoo",
@@ -20232,24 +20259,24 @@
       {
         "title": "「一番の対策は不要な情報を持たぬこと」維新が緊急提言 相次ぐサイバー攻撃受け 不要な個人データ消去の義務化など要請 自民・みらい・立憲に続き政府へ",
         "url": "https://news.yahoo.co.jp/articles/c98e20bd780017cfcb0532dd6401e55be6cde1a1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自「現地情報隊」は思想信条まで調べたのか 辻元清美氏が「直接見て調査してほしい」と小泉防衛相に迫った理由",
-        "url": "https://news.yahoo.co.jp/articles/149319d6bb0ec25d46a24e89f54ce735bb97d330",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護委員会・IPAなどが注意喚起 相次ぐ情報漏えいで確認したい7つの点検",
-        "url": "https://news.yahoo.co.jp/expert/articles/1516c5e652767ac8360bf1d73afd4af19a7e3023",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "維新 企業に個人情報の消去義務化を提言",
+        "url": "https://news.yahoo.co.jp/articles/64c95a7daaa722e829c874625581dc4b9842ce79",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "個人情報の消去義務化を 維新、サイバー対策提言",
+        "url": "https://news.yahoo.co.jp/articles/efe99337e13f5b8ae0e9a6cc06e636fc50b49f6d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "企業に個人情報の消去義務化を提言 維新",
         "url": "https://news.yahoo.co.jp/articles/1ceefd826e704fd5af334cbb453c0cba319093c5",
         "source": "Yahoo",
@@ -20270,24 +20297,24 @@
       {
         "title": "「一番の対策は不要な情報を持たぬこと」維新が緊急提言 相次ぐサイバー攻撃受け 不要な個人データ消去の義務化など要請 自民・みらい・立憲に続き政府へ",
         "url": "https://news.yahoo.co.jp/articles/c98e20bd780017cfcb0532dd6401e55be6cde1a1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自「現地情報隊」は思想信条まで調べたのか 辻元清美氏が「直接見て調査してほしい」と小泉防衛相に迫った理由",
-        "url": "https://news.yahoo.co.jp/articles/149319d6bb0ec25d46a24e89f54ce735bb97d330",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護委員会・IPAなどが注意喚起 相次ぐ情報漏えいで確認したい7つの点検",
-        "url": "https://news.yahoo.co.jp/expert/articles/1516c5e652767ac8360bf1d73afd4af19a7e3023",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "維新 企業に個人情報の消去義務化を提言",
+        "url": "https://news.yahoo.co.jp/articles/64c95a7daaa722e829c874625581dc4b9842ce79",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "個人情報の消去義務化を 維新、サイバー対策提言",
+        "url": "https://news.yahoo.co.jp/articles/efe99337e13f5b8ae0e9a6cc06e636fc50b49f6d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "企業に個人情報の消去義務化を提言 維新",
         "url": "https://news.yahoo.co.jp/articles/1ceefd826e704fd5af334cbb453c0cba319093c5",
         "source": "Yahoo",
@@ -20308,18 +20335,6 @@
       {
         "title": "「一番の対策は不要な情報を持たぬこと」維新が緊急提言 相次ぐサイバー攻撃受け 不要な個人データ消去の義務化など要請 自民・みらい・立憲に続き政府へ",
         "url": "https://news.yahoo.co.jp/articles/c98e20bd780017cfcb0532dd6401e55be6cde1a1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自「現地情報隊」は思想信条まで調べたのか 辻元清美氏が「直接見て調査してほしい」と小泉防衛相に迫った理由",
-        "url": "https://news.yahoo.co.jp/articles/149319d6bb0ec25d46a24e89f54ce735bb97d330",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報保護委員会・IPAなどが注意喚起 相次ぐ情報漏えいで確認したい7つの点検",
-        "url": "https://news.yahoo.co.jp/expert/articles/1516c5e652767ac8360bf1d73afd4af19a7e3023",
         "source": "Yahoo",
         "date": ""
       }
