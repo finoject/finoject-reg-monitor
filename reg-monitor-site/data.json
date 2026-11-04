@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T07:05:19.986Z",
+  "generatedAt": "2026-11-04T07:58:43.904Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -19392,6 +19392,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "コインダブル、テザーと共同プログラム開始。USDTなどの預け入れでテザーゴールド付与",
+        "url": "https://news.yahoo.co.jp/articles/814079000c9968b1fee78e6416d2924b1a8ab46e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIの暗号資産事業、30％減収で赤字拡大。グループ全体は上半期最高益",
         "url": "https://news.yahoo.co.jp/articles/2f63912ca171e589ac447e89ff2d2d52f8efac47",
         "source": "Yahoo",
@@ -19418,18 +19424,18 @@
       {
         "title": "「誰が誰にいくら払ったか」を隠す──zERC20 v2が始動、入出金はスクリーニング",
         "url": "https://news.yahoo.co.jp/articles/38b7bfb07bc4782752ad466031d7d8ed740a9ad8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スターテイル、「Startale Card」提供開始。米ドルステーブルコイン「USDSC」を支払に活用",
-        "url": "https://news.yahoo.co.jp/articles/e27a2263170da54fec58b0776e58bd05f620170d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "コインダブル、テザーと共同プログラム開始。USDTなどの預け入れでテザーゴールド付与",
+        "url": "https://news.yahoo.co.jp/articles/814079000c9968b1fee78e6416d2924b1a8ab46e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIの暗号資産事業、30％減収で赤字拡大。グループ全体は上半期最高益",
         "url": "https://news.yahoo.co.jp/articles/2f63912ca171e589ac447e89ff2d2d52f8efac47",
         "source": "Yahoo",
@@ -19456,12 +19462,6 @@
       {
         "title": "「誰が誰にいくら払ったか」を隠す──zERC20 v2が始動、入出金はスクリーニング",
         "url": "https://news.yahoo.co.jp/articles/38b7bfb07bc4782752ad466031d7d8ed740a9ad8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スターテイル、「Startale Card」提供開始。米ドルステーブルコイン「USDSC」を支払に活用",
-        "url": "https://news.yahoo.co.jp/articles/e27a2263170da54fec58b0776e58bd05f620170d",
         "source": "Yahoo",
         "date": ""
       }
