@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T23:00:08.694Z",
+  "generatedAt": "2026-11-04T00:31:03.650Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -30,6 +30,22 @@
         "本会議は金融審議会の公式な審議活動であり、金融庁企画市場局信用課が所管し、成長企業への資金供給枠組みに関する実務上の指針や規制改革案の検討が進められている。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "マネタリーベース（10月）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+      "date": "2026-11-04",
+      "detectedAt": "2026-11-04T00:31:03.650Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年5月のマネタリーベースは前年同月比-12.2％で、日銀当座預金（現預金）は-14.7％と縮小が続いており、季節調整済前月比年率では-13.3％。",
+        "統計データは日本銀行調査統計局が公表しており、実務担当者は時系列データ等から金融政策動向及び通貨供給状況を定期的に確認することが必要。",
+        "本統計は毎月公表されるマネタリーベース統計であり、日本銀行の金融統計として金融・経済分析の基礎データとして活用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-04T00:31:09.439Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -3540,22 +3556,6 @@
         "2026年4月に複数の上場会社の会計不祥事をプレスリリースしており、本件はそれに続く監査対応事例。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "マネタリーベース（9月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
-      "date": "2026-10-02",
-      "detectedAt": "2026-10-02T00:18:05.790Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "2026年5月のマネタリーベースは前年同月比-12.2％で、日銀当座預金（現預金）は-14.7％と縮小が続いており、季節調整済前月比年率では-13.3％。",
-        "統計データは日本銀行調査統計局が公表しており、実務担当者は時系列データ等から金融政策動向及び通貨供給状況を定期的に確認することが必要。",
-        "本統計は毎月公表されるマネタリーベース統計であり、日本銀行の金融統計として金融・経済分析の基礎データとして活用される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-02T00:18:11.750Z"
     },
     {
       "agency": "日本銀行",
@@ -20122,6 +20122,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「よけい不安になった」タイムズカー情報漏洩をめぐる“あいまいな記載” 質問しても真相は闇",
+        "url": "https://news.yahoo.co.jp/articles/0ca0755edfdf2e87a96b76d5283b6808baaf4f72",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "首相官邸、個人情報流出の被害者への相談窓口を案内",
+        "url": "https://news.yahoo.co.jp/articles/050b40f87c93e74ae90f0fa75091bc9c042b497a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JAL・ANAの情報流出、なぜ同時に発覚した？",
         "url": "https://news.yahoo.co.jp/articles/9cb89b4aa39d10640a6c3fe40392f33c346036db",
         "source": "Yahoo",
@@ -20142,24 +20154,24 @@
       {
         "title": "会話を録音するAIガジェットはどこまで許されるのか、Apple Watchが突きつける市場とプライバシーの問題 欧州の「GDPR(EU一般データ保護規則)」やアメリカの州法、日本の「個人情報保護法」などの法律により、個人データの取得や保護をする際には本人への通知や",
         "url": "https://news.yahoo.co.jp/articles/7add6ebb947a0034e5c1ac859a19ff58db7f2b45",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バーガー買うのに、個人情報は必要か？ “メガ漏えい”で露呈した「データ持ち過ぎ」問題、先進企業の対策は",
-        "url": "https://news.yahoo.co.jp/articles/ac4cc5bbbd98c83b2604dee2154947072fa371db",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "石井亮次アナ 流出したらヤバイのは検索履歴「漏れたらもう終わり」",
-        "url": "https://news.yahoo.co.jp/articles/98cd6fc06988d98a679961b2276b75d33b16cbeb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「よけい不安になった」タイムズカー情報漏洩をめぐる“あいまいな記載” 質問しても真相は闇",
+        "url": "https://news.yahoo.co.jp/articles/0ca0755edfdf2e87a96b76d5283b6808baaf4f72",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "首相官邸、個人情報流出の被害者への相談窓口を案内",
+        "url": "https://news.yahoo.co.jp/articles/050b40f87c93e74ae90f0fa75091bc9c042b497a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JAL・ANAの情報流出、なぜ同時に発覚した？",
         "url": "https://news.yahoo.co.jp/articles/9cb89b4aa39d10640a6c3fe40392f33c346036db",
         "source": "Yahoo",
@@ -20180,24 +20192,24 @@
       {
         "title": "会話を録音するAIガジェットはどこまで許されるのか、Apple Watchが突きつける市場とプライバシーの問題 欧州の「GDPR(EU一般データ保護規則)」やアメリカの州法、日本の「個人情報保護法」などの法律により、個人データの取得や保護をする際には本人への通知や",
         "url": "https://news.yahoo.co.jp/articles/7add6ebb947a0034e5c1ac859a19ff58db7f2b45",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バーガー買うのに、個人情報は必要か？ “メガ漏えい”で露呈した「データ持ち過ぎ」問題、先進企業の対策は",
-        "url": "https://news.yahoo.co.jp/articles/ac4cc5bbbd98c83b2604dee2154947072fa371db",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "石井亮次アナ 流出したらヤバイのは検索履歴「漏れたらもう終わり」",
-        "url": "https://news.yahoo.co.jp/articles/98cd6fc06988d98a679961b2276b75d33b16cbeb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「よけい不安になった」タイムズカー情報漏洩をめぐる“あいまいな記載” 質問しても真相は闇",
+        "url": "https://news.yahoo.co.jp/articles/0ca0755edfdf2e87a96b76d5283b6808baaf4f72",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "首相官邸、個人情報流出の被害者への相談窓口を案内",
+        "url": "https://news.yahoo.co.jp/articles/050b40f87c93e74ae90f0fa75091bc9c042b497a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JAL・ANAの情報流出、なぜ同時に発覚した？",
         "url": "https://news.yahoo.co.jp/articles/9cb89b4aa39d10640a6c3fe40392f33c346036db",
         "source": "Yahoo",
@@ -20218,18 +20230,6 @@
       {
         "title": "会話を録音するAIガジェットはどこまで許されるのか、Apple Watchが突きつける市場とプライバシーの問題 欧州の「GDPR(EU一般データ保護規則)」やアメリカの州法、日本の「個人情報保護法」などの法律により、個人データの取得や保護をする際には本人への通知や",
         "url": "https://news.yahoo.co.jp/articles/7add6ebb947a0034e5c1ac859a19ff58db7f2b45",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バーガー買うのに、個人情報は必要か？ “メガ漏えい”で露呈した「データ持ち過ぎ」問題、先進企業の対策は",
-        "url": "https://news.yahoo.co.jp/articles/ac4cc5bbbd98c83b2604dee2154947072fa371db",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "石井亮次アナ 流出したらヤバイのは検索履歴「漏れたらもう終わり」",
-        "url": "https://news.yahoo.co.jp/articles/98cd6fc06988d98a679961b2276b75d33b16cbeb",
         "source": "Yahoo",
         "date": ""
       }
