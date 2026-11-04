@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T07:58:43.904Z",
+  "generatedAt": "2026-11-04T09:52:10.644Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,36 @@
         "金融審議会成長企業への資金供給の在り方等に関するワーキング・グループ第3回会議が令和8年11月9日10時から中央合同庁舎第7号館で開催され、ヒアリングと事務局説明、討議が実施される予定。",
         "会議は一般傍聴席なしだがYouTubeで配信され、金融庁ウェブサイトで後日議事録が公表されるため、金融機関・関係者は成長企業への資金供給に関する政策動向を確認可能。",
         "本会議は金融審議会の公式な審議活動であり、金融庁企画市場局信用課が所管し、成長企業への資金供給枠組みに関する実務上の指針や規制改革案の検討が進められている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261030.xlsx",
+      "date": "2026-11-04",
+      "detectedAt": "2026-11-04T09:52:10.644Z",
+      "enriched": "2026-11-04T09:52:15.495Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がExcel形式の圧縮ファイルのため、具体的な国債銘柄別残高データの内容を確認できません。日本銀行の国債保有状況に関する統計情報の公表物と考えられます。",
+        "金融機関や市場参加者は、日本銀行が定期公表する国債銘柄別残高から金融市場の動向や金融政策の影響を把握する必要があります。",
+        "2026年11月4日時点の日本銀行保有国債に関する統計資料であり、具体的な法令適用や対象者・期限については本文から判断できません。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が受入れている担保の残高（10月末）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/col/col2610.xlsx",
+      "date": "2026-11-04",
+      "detectedAt": "2026-11-04T09:52:10.644Z",
+      "enriched": "2026-11-04T09:52:15.495Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がExcel形式の圧縮ファイル（バイナリデータ）であり、テキスト情報が抽出できないため、具体的な担保残高データ・構成・前月比等の詳細内容を確認できない状態です。",
+        "日本銀行が発表した10月末時点の担保受入れ残高に関するデータの詳細内容を把握するには、提供されたファイルをExcelで展開し確認が必要です。",
+        "2026年11月4日時点の統計情報であり、金融機関等が日本銀行に提供している担保の構成・残高・変動については別途ファイル内容の確認が不可欠です。"
       ],
       "aiSumV": 3
     },
@@ -19164,6 +19194,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米民主党、上下両院を奪還──クラリティ法案「今後2年は成立困難」とTDコーウェン",
+        "url": "https://news.yahoo.co.jp/articles/0faa87e717ccbd21ad3c54fc239d6897abf82fed",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIの暗号資産事業、30％減収で赤字拡大。グループ全体は上半期最高益",
         "url": "https://news.yahoo.co.jp/articles/2f63912ca171e589ac447e89ff2d2d52f8efac47",
         "source": "Yahoo",
@@ -19190,18 +19226,18 @@
       {
         "title": "米中間選挙、予測市場は「民主党の圧勝」を予想──取引額は過去最高",
         "url": "https://news.yahoo.co.jp/articles/4ea9117a227d5c336f8093c40a29c3b397647ebb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米CFTC、個別株の無期限先物取引を承認",
-        "url": "https://news.yahoo.co.jp/articles/56ab993ac12198ef59f9fbdeab026a14549b1039",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米民主党、上下両院を奪還──クラリティ法案「今後2年は成立困難」とTDコーウェン",
+        "url": "https://news.yahoo.co.jp/articles/0faa87e717ccbd21ad3c54fc239d6897abf82fed",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBIの暗号資産事業、30％減収で赤字拡大。グループ全体は上半期最高益",
         "url": "https://news.yahoo.co.jp/articles/2f63912ca171e589ac447e89ff2d2d52f8efac47",
         "source": "Yahoo",
@@ -19228,12 +19264,6 @@
       {
         "title": "米中間選挙、予測市場は「民主党の圧勝」を予想──取引額は過去最高",
         "url": "https://news.yahoo.co.jp/articles/4ea9117a227d5c336f8093c40a29c3b397647ebb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米CFTC、個別株の無期限先物取引を承認",
-        "url": "https://news.yahoo.co.jp/articles/56ab993ac12198ef59f9fbdeab026a14549b1039",
         "source": "Yahoo",
         "date": ""
       }
@@ -19582,6 +19612,24 @@
     ],
     "324AC0000000228": [
       {
+        "title": "ハイブリッド中古車など73台をロシアに不正輸出",
+        "url": "https://news.yahoo.co.jp/articles/9983c97a36a1e8cd16aebff74eafc9f6d3668115",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "1:36ウクライナ侵攻で制裁措置のロシアへ中古車を不正輸出 韓国籍の男を起訴「韓国に運ぶ」と申告（島根）",
+        "url": "https://news.yahoo.co.jp/articles/d0f0ee3d4133d42fea47f0b854b8e6f31552e2c1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロシアに車不正輸出容疑 韓国籍の男逮捕 浜田海保 ウクライナ侵攻に伴うロシアへの経済制裁で輸出が規制されている中古車を不正輸出したとして、浜田海上保安部（島根県浜田市）は、外為法違反（無承認輸出）容疑で、韓",
+        "url": "https://news.yahoo.co.jp/articles/0d34b3eb79a1ec15aba906329cc894b14960a8b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "中古車２億２９００万円相当をロシアへ不正輸出し逮捕",
         "url": "https://news.yahoo.co.jp/articles/03465e5f267280e1fb427be3521090463d3bc293",
         "source": "Yahoo",
@@ -19596,30 +19644,30 @@
       {
         "title": "ロシアによる道新記者拘束をめぐる問題点と交渉の壁とは？W政治記者が解説",
         "url": "https://news.yahoo.co.jp/articles/c1b9bfe92b3663309c4820d4a981f9679afd2859",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本、ウクライナ製ドローンを初めて購入",
-        "url": "https://news.yahoo.co.jp/articles/1ccfc8929c5588dd608fdeffb9deacf3f77f4878",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本政府がロシア系暗号資産取引所ガランテックスを資産凍結対象に",
-        "url": "https://news.yahoo.co.jp/articles/c90895c083df85b18b3be744a3d7669cf8ab655c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本政府、ロシア系暗号資産取引所「Garantex」を制裁対象に",
-        "url": "https://news.yahoo.co.jp/articles/3b3ce508391af1fa06ca97e6abb17ff432cf8a90",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "355CO0000000260": [
       {
+        "title": "ハイブリッド中古車など73台をロシアに不正輸出",
+        "url": "https://news.yahoo.co.jp/articles/9983c97a36a1e8cd16aebff74eafc9f6d3668115",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "1:36ウクライナ侵攻で制裁措置のロシアへ中古車を不正輸出 韓国籍の男を起訴「韓国に運ぶ」と申告（島根）",
+        "url": "https://news.yahoo.co.jp/articles/d0f0ee3d4133d42fea47f0b854b8e6f31552e2c1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ロシアに車不正輸出容疑 韓国籍の男逮捕 浜田海保 ウクライナ侵攻に伴うロシアへの経済制裁で輸出が規制されている中古車を不正輸出したとして、浜田海上保安部（島根県浜田市）は、外為法違反（無承認輸出）容疑で、韓",
+        "url": "https://news.yahoo.co.jp/articles/0d34b3eb79a1ec15aba906329cc894b14960a8b6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "中古車２億２９００万円相当をロシアへ不正輸出し逮捕",
         "url": "https://news.yahoo.co.jp/articles/03465e5f267280e1fb427be3521090463d3bc293",
         "source": "Yahoo",
@@ -19634,24 +19682,6 @@
       {
         "title": "ロシアによる道新記者拘束をめぐる問題点と交渉の壁とは？W政治記者が解説",
         "url": "https://news.yahoo.co.jp/articles/c1b9bfe92b3663309c4820d4a981f9679afd2859",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本、ウクライナ製ドローンを初めて購入",
-        "url": "https://news.yahoo.co.jp/articles/1ccfc8929c5588dd608fdeffb9deacf3f77f4878",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本政府がロシア系暗号資産取引所ガランテックスを資産凍結対象に",
-        "url": "https://news.yahoo.co.jp/articles/c90895c083df85b18b3be744a3d7669cf8ab655c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本政府、ロシア系暗号資産取引所「Garantex」を制裁対象に",
-        "url": "https://news.yahoo.co.jp/articles/3b3ce508391af1fa06ca97e6abb17ff432cf8a90",
         "source": "Yahoo",
         "date": ""
       }
@@ -20182,6 +20212,18 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「一番の対策は不要な情報を持たぬこと」維新が緊急提言 相次ぐサイバー攻撃受け 不要な個人データ消去の義務化など要請 自民・みらい・立憲に続き政府へ",
+        "url": "https://news.yahoo.co.jp/articles/c98e20bd780017cfcb0532dd6401e55be6cde1a1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "陸自「現地情報隊」は思想信条まで調べたのか 辻元清美氏が「直接見て調査してほしい」と小泉防衛相に迫った理由",
+        "url": "https://news.yahoo.co.jp/articles/149319d6bb0ec25d46a24e89f54ce735bb97d330",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報保護委員会・IPAなどが注意喚起 相次ぐ情報漏えいで確認したい7つの点検",
         "url": "https://news.yahoo.co.jp/expert/articles/1516c5e652767ac8360bf1d73afd4af19a7e3023",
         "source": "Yahoo",
@@ -20202,24 +20244,24 @@
       {
         "title": "JAL・ANAの情報流出、なぜ同時に発覚した？",
         "url": "https://news.yahoo.co.jp/articles/9cb89b4aa39d10640a6c3fe40392f33c346036db",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:18山梨県警でも古い運転免許証の不正流用か 複数の警察署で疑い浮上 内部調査進める",
-        "url": "https://news.yahoo.co.jp/articles/7bd02d0f15e1cac65c9ad5c215158027b0ee60c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パク・シフの不倫仲介疑惑を提起した女性、名誉毀損などの疑いで懲役10ヶ月求刑も控訴",
-        "url": "https://news.yahoo.co.jp/articles/69c21641127432df54f8e745b7b9a626221be439",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「一番の対策は不要な情報を持たぬこと」維新が緊急提言 相次ぐサイバー攻撃受け 不要な個人データ消去の義務化など要請 自民・みらい・立憲に続き政府へ",
+        "url": "https://news.yahoo.co.jp/articles/c98e20bd780017cfcb0532dd6401e55be6cde1a1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "陸自「現地情報隊」は思想信条まで調べたのか 辻元清美氏が「直接見て調査してほしい」と小泉防衛相に迫った理由",
+        "url": "https://news.yahoo.co.jp/articles/149319d6bb0ec25d46a24e89f54ce735bb97d330",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報保護委員会・IPAなどが注意喚起 相次ぐ情報漏えいで確認したい7つの点検",
         "url": "https://news.yahoo.co.jp/expert/articles/1516c5e652767ac8360bf1d73afd4af19a7e3023",
         "source": "Yahoo",
@@ -20240,24 +20282,24 @@
       {
         "title": "JAL・ANAの情報流出、なぜ同時に発覚した？",
         "url": "https://news.yahoo.co.jp/articles/9cb89b4aa39d10640a6c3fe40392f33c346036db",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:18山梨県警でも古い運転免許証の不正流用か 複数の警察署で疑い浮上 内部調査進める",
-        "url": "https://news.yahoo.co.jp/articles/7bd02d0f15e1cac65c9ad5c215158027b0ee60c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パク・シフの不倫仲介疑惑を提起した女性、名誉毀損などの疑いで懲役10ヶ月求刑も控訴",
-        "url": "https://news.yahoo.co.jp/articles/69c21641127432df54f8e745b7b9a626221be439",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「一番の対策は不要な情報を持たぬこと」維新が緊急提言 相次ぐサイバー攻撃受け 不要な個人データ消去の義務化など要請 自民・みらい・立憲に続き政府へ",
+        "url": "https://news.yahoo.co.jp/articles/c98e20bd780017cfcb0532dd6401e55be6cde1a1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "陸自「現地情報隊」は思想信条まで調べたのか 辻元清美氏が「直接見て調査してほしい」と小泉防衛相に迫った理由",
+        "url": "https://news.yahoo.co.jp/articles/149319d6bb0ec25d46a24e89f54ce735bb97d330",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "個人情報保護委員会・IPAなどが注意喚起 相次ぐ情報漏えいで確認したい7つの点検",
         "url": "https://news.yahoo.co.jp/expert/articles/1516c5e652767ac8360bf1d73afd4af19a7e3023",
         "source": "Yahoo",
@@ -20278,18 +20320,6 @@
       {
         "title": "JAL・ANAの情報流出、なぜ同時に発覚した？",
         "url": "https://news.yahoo.co.jp/articles/9cb89b4aa39d10640a6c3fe40392f33c346036db",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "1:18山梨県警でも古い運転免許証の不正流用か 複数の警察署で疑い浮上 内部調査進める",
-        "url": "https://news.yahoo.co.jp/articles/7bd02d0f15e1cac65c9ad5c215158027b0ee60c2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "パク・シフの不倫仲介疑惑を提起した女性、名誉毀損などの疑いで懲役10ヶ月求刑も控訴",
-        "url": "https://news.yahoo.co.jp/articles/69c21641127432df54f8e745b7b9a626221be439",
         "source": "Yahoo",
         "date": ""
       }
