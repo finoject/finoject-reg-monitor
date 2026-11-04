@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:52:09.326Z",
+  "generatedAt": "2026-11-04T02:32:22.080Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "金融審議会成長企業への資金供給の在り方等に関するワーキング・グループ第3回会議が令和8年11月9日10時から中央合同庁舎第7号館で開催され、ヒアリングと事務局説明、討議が実施される予定。",
         "会議は一般傍聴席なしだがYouTubeで配信され、金融庁ウェブサイトで後日議事録が公表されるため、金融機関・関係者は成長企業への資金供給に関する政策動向を確認可能。",
         "本会議は金融審議会の公式な審議活動であり、金融庁企画市場局信用課が所管し、成長企業への資金供給枠組みに関する実務上の指針や規制改革案の検討が進められている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（10月31日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261031.htm",
+      "date": "2026-11-04",
+      "detectedAt": "2026-11-04T02:32:22.080Z",
+      "enriched": "2026-11-04T02:32:26.850Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の2026年10月31日現在の貸付金は684億1,620万円で、うち被災地支援・気候変動対応等による貸付金が327億5,170万円、貸出支援基金が356億6,450万円を占める。",
+        "日本銀行は資産総額626兆1,882億円を保有し、国債505兆2,773億円、当座預金418兆4,553億円、発行銀行券114兆1,843億円が主要構成要素である。",
+        "本報告は毎旬報告義務に基づき資産負債および純資産を開示するもので、外国為替120億5,730万円、金銭信託369億2,786万円を含む多元的金融機能を示している。"
       ],
       "aiSumV": 3
     },
@@ -19332,6 +19347,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "暗号資産取引所に顧客資産が集中",
+        "url": "https://news.yahoo.co.jp/articles/8e6989ed8296bff854de2ef3daaf4b230a866527",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AmazonやTeslaなど6社、トークン化株式計画に異議",
         "url": "https://news.yahoo.co.jp/articles/ec2bc1027b182616a8a9be9d905e391e6c794c3c",
         "source": "Yahoo",
@@ -19358,18 +19379,18 @@
       {
         "title": "バイナンス財務「極めて健全」、資金流出入ほぼ正常化 共同ＣＥＯ表明",
         "url": "https://news.yahoo.co.jp/articles/4356dac3b9b90ecdecf5fca11ac3250caab49acc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン利用で存在感を増すアジア、拡大の裏に根強いドル依存＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/4aa7b9eec0ad418c77ced2511858c569fe3845e3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "暗号資産取引所に顧客資産が集中",
+        "url": "https://news.yahoo.co.jp/articles/8e6989ed8296bff854de2ef3daaf4b230a866527",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AmazonやTeslaなど6社、トークン化株式計画に異議",
         "url": "https://news.yahoo.co.jp/articles/ec2bc1027b182616a8a9be9d905e391e6c794c3c",
         "source": "Yahoo",
@@ -19396,12 +19417,6 @@
       {
         "title": "バイナンス財務「極めて健全」、資金流出入ほぼ正常化 共同ＣＥＯ表明",
         "url": "https://news.yahoo.co.jp/articles/4356dac3b9b90ecdecf5fca11ac3250caab49acc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン利用で存在感を増すアジア、拡大の裏に根強いドル依存＝CoinDesk",
-        "url": "https://news.yahoo.co.jp/articles/4aa7b9eec0ad418c77ced2511858c569fe3845e3",
         "source": "Yahoo",
         "date": ""
       }
