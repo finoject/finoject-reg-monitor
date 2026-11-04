@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T02:32:22.080Z",
+  "generatedAt": "2026-11-04T04:03:22.887Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,52 @@
         "金融審議会成長企業への資金供給の在り方等に関するワーキング・グループ第3回会議が令和8年11月9日10時から中央合同庁舎第7号館で開催され、ヒアリングと事務局説明、討議が実施される予定。",
         "会議は一般傍聴席なしだがYouTubeで配信され、金融庁ウェブサイトで後日議事録が公表されるため、金融機関・関係者は成長企業への資金供給に関する政策動向を確認可能。",
         "本会議は金融審議会の公式な審議活動であり、金融庁企画市場局信用課が所管し、成長企業への資金供給枠組みに関する実務上の指針や規制改革案の検討が進められている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "三井化学（株）（4183）",
+      "url": "https://www.jpx.co.jp/markets/equities/alerts/index.html",
+      "date": "2026-11-04",
+      "detectedAt": "2026-11-04T04:03:22.887Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証は株式会社壱番屋（7630）につき、非公開化に関する不明確な情報が生じているため、2026年8月31日に注意喚起を実施。投資者の投資判断に重要な影響を与えるおそれがある不明確情報について、東証業務規程第30条に基づき機動的に周知。",
+        "ハウス食品グループが壱番屋の非公開化を含むあらゆる選択肢を検討中だが、現時点で具体的決定事実がなく、報道は当社発表ではない。上場会社は適切な情報開示がなされるまで注意喚起が継続される可能性あり。",
+        "東証は信用取引残高の日々公表を必要と認めた場合に実施。注意喚起は解除を伴わず複数回実施される場合がある。適切な開示が行われた場合、翌営業日から日々公表を取り止める可能性あり。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-04T04:03:29.086Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "訓練目的の共通担保資金供給オペの実施について",
+      "url": "https://www.boj.or.jp/about/bcp/fin_bcp/fbcp261104a.pdf",
+      "date": "2026-11-04",
+      "detectedAt": "2026-11-04T04:03:22.887Z",
+      "enriched": "2026-11-04T04:03:29.086Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年11月11日13時以降に訓練目的の即日スタート共通担保資金供給オペ（固定金利方式）を実施し、エンド日は11月12日、1先あたりの応募額は1億円、貸付利率はオファー時に通知する。",
+        "短期金融市場取引活性化研究会幹事に事前申出した共通担保資金供給オペの貸付対象先金融機関のみがこの訓練オペに応募可能であり、それ以外の金融機関は応募対象外である。",
+        "本オペは金融機関の業務継続体制整備と災害時対応能力確認を目的とした市場レベルBCP・3市場合同訓練の一環として、共通担保資金供給オペの応募・決済事務手続を検証する位置付けである。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "令和８年（2026年）秋の叙勲・褒章受章会員について",
+      "url": "https://jicpa.or.jp/news/information/2026/20261104ahc.html",
+      "date": "2026-11-04",
+      "detectedAt": "2026-11-04T04:03:22.887Z",
+      "enriched": "2026-11-04T04:03:29.086Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本公認会計士協会の会員4名が令和8年秋の叙勲・褒章に選ばれ、柳澤義一が旭日小綬章（公認会計士功労）、北方宏樹ほか3名が黄綬褒章（業務精励）を受章した。",
+        "公認会計士協会は受章会員の栄誉を周知・記録し、会員の職業的地位向上と業界評価の向上に資することになる。",
+        "令和8年（2026年）11月4日付で叙勲・褒章受章が決定・公表され、対象会員の所属会は東京会・埼玉会・神奈川県会である。"
       ],
       "aiSumV": 3
     },
@@ -4490,22 +4536,6 @@
         "初値決定後は当該初値を基準値段として呼値の制限値幅が適用され、成行呼値の禁止は解除される。本運用は東証の新規上場銘柄に対する標準的な気配運用基準に基づく。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ニデック（株）（6594）",
-      "url": "https://www.jpx.co.jp/markets/equities/alerts/index.html",
-      "date": "2026-09-28",
-      "detectedAt": "2026-09-28T03:09:32.013Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "東証は株式会社壱番屋（7630）につき、非公開化に関する不明確な情報が生じているため、2026年8月31日に注意喚起を実施。投資者の投資判断に重要な影響を与えるおそれがある不明確情報について、東証業務規程第30条に基づき機動的に周知。",
-        "ハウス食品グループが壱番屋の非公開化を含むあらゆる選択肢を検討中だが、現時点で具体的決定事実がなく、報道は当社発表ではない。上場会社は適切な情報開示がなされるまで注意喚起が継続される可能性あり。",
-        "東証は信用取引残高の日々公表を必要と認めた場合に実施。注意喚起は解除を伴わず複数回実施される場合がある。適切な開示が行われた場合、翌営業日から日々公表を取り止める可能性あり。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-28T03:09:36.813Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -19347,6 +19377,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "AI時代のプライバシーは「守る」から「設計する」へ──DID/VC、AIエージェント、取引秘匿の現在地【N.Avenue club 4期4回ラウンドテーブル・レポート】",
+        "url": "https://news.yahoo.co.jp/articles/cb618ad192ad51303db8bf22a816358711018fe8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "PayPayが2026年第2四半期決算を発表、営業収益28％増の1181億円で通期予想を上方修正",
+        "url": "https://news.yahoo.co.jp/articles/43327f97acbaec8a00c2cef6739d0eb86c9fbb60",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "外国人への免税分還付に「デジタル日本円」活用検討 送金手続き数秒で完了",
+        "url": "https://news.yahoo.co.jp/articles/329e21546ce8cf27465c8f00b117cf3d0770926c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "zERC20 v2がメインネット公開、パスキー対応でプライバシー送金を簡素化",
+        "url": "https://news.yahoo.co.jp/articles/c946f875f6422ff3376896752a646ca2ec639ac0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産取引所に顧客資産が集中",
         "url": "https://news.yahoo.co.jp/articles/8e6989ed8296bff854de2ef3daaf4b230a866527",
         "source": "Yahoo",
@@ -19355,36 +19409,36 @@
       {
         "title": "AmazonやTeslaなど6社、トークン化株式計画に異議",
         "url": "https://news.yahoo.co.jp/articles/ec2bc1027b182616a8a9be9d905e391e6c794c3c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス暗号資産1兆円盗難、偽の採用面接がハッカーの突破口に",
-        "url": "https://news.yahoo.co.jp/articles/403586e24e41258f3ef84b253d8fa3628b8fdce5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン時価総額、半年で約2.7兆円減少──バイナンスの不正流出も追い打ち＝CryptoQuant",
-        "url": "https://news.yahoo.co.jp/articles/4ed206ec52d7a1e4f103f654da6e33ac06e3cb16",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、約1.8兆円分のビットコイン保有を公表──メタプラネットの約3.4倍",
-        "url": "https://news.yahoo.co.jp/articles/5bd59ecad632d6208a239d97a7aca9bbc4f278f6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス財務「極めて健全」、資金流出入ほぼ正常化 共同ＣＥＯ表明",
-        "url": "https://news.yahoo.co.jp/articles/4356dac3b9b90ecdecf5fca11ac3250caab49acc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "AI時代のプライバシーは「守る」から「設計する」へ──DID/VC、AIエージェント、取引秘匿の現在地【N.Avenue club 4期4回ラウンドテーブル・レポート】",
+        "url": "https://news.yahoo.co.jp/articles/cb618ad192ad51303db8bf22a816358711018fe8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "PayPayが2026年第2四半期決算を発表、営業収益28％増の1181億円で通期予想を上方修正",
+        "url": "https://news.yahoo.co.jp/articles/43327f97acbaec8a00c2cef6739d0eb86c9fbb60",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "外国人への免税分還付に「デジタル日本円」活用検討 送金手続き数秒で完了",
+        "url": "https://news.yahoo.co.jp/articles/329e21546ce8cf27465c8f00b117cf3d0770926c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "zERC20 v2がメインネット公開、パスキー対応でプライバシー送金を簡素化",
+        "url": "https://news.yahoo.co.jp/articles/c946f875f6422ff3376896752a646ca2ec639ac0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産取引所に顧客資産が集中",
         "url": "https://news.yahoo.co.jp/articles/8e6989ed8296bff854de2ef3daaf4b230a866527",
         "source": "Yahoo",
@@ -19393,30 +19447,6 @@
       {
         "title": "AmazonやTeslaなど6社、トークン化株式計画に異議",
         "url": "https://news.yahoo.co.jp/articles/ec2bc1027b182616a8a9be9d905e391e6c794c3c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス暗号資産1兆円盗難、偽の採用面接がハッカーの突破口に",
-        "url": "https://news.yahoo.co.jp/articles/403586e24e41258f3ef84b253d8fa3628b8fdce5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン時価総額、半年で約2.7兆円減少──バイナンスの不正流出も追い打ち＝CryptoQuant",
-        "url": "https://news.yahoo.co.jp/articles/4ed206ec52d7a1e4f103f654da6e33ac06e3cb16",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、約1.8兆円分のビットコイン保有を公表──メタプラネットの約3.4倍",
-        "url": "https://news.yahoo.co.jp/articles/5bd59ecad632d6208a239d97a7aca9bbc4f278f6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス財務「極めて健全」、資金流出入ほぼ正常化 共同ＣＥＯ表明",
-        "url": "https://news.yahoo.co.jp/articles/4356dac3b9b90ecdecf5fca11ac3250caab49acc",
         "source": "Yahoo",
         "date": ""
       }
@@ -20137,6 +20167,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "個人情報保護委員会・IPAなどが注意喚起 相次ぐ情報漏えいで確認したい7つの点検",
+        "url": "https://news.yahoo.co.jp/expert/articles/1516c5e652767ac8360bf1d73afd4af19a7e3023",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「よけい不安になった」タイムズカー情報漏洩をめぐる“あいまいな記載” 質問しても真相は闇",
         "url": "https://news.yahoo.co.jp/articles/0ca0755edfdf2e87a96b76d5283b6808baaf4f72",
         "source": "Yahoo",
@@ -20163,18 +20199,18 @@
       {
         "title": "パク・シフの不倫仲介疑惑を提起した女性、名誉毀損などの疑いで懲役10ヶ月求刑も控訴",
         "url": "https://news.yahoo.co.jp/articles/69c21641127432df54f8e745b7b9a626221be439",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "会話を録音するAIガジェットはどこまで許されるのか、Apple Watchが突きつける市場とプライバシーの問題 欧州の「GDPR(EU一般データ保護規則)」やアメリカの州法、日本の「個人情報保護法」などの法律により、個人データの取得や保護をする際には本人への通知や",
-        "url": "https://news.yahoo.co.jp/articles/7add6ebb947a0034e5c1ac859a19ff58db7f2b45",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "個人情報保護委員会・IPAなどが注意喚起 相次ぐ情報漏えいで確認したい7つの点検",
+        "url": "https://news.yahoo.co.jp/expert/articles/1516c5e652767ac8360bf1d73afd4af19a7e3023",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「よけい不安になった」タイムズカー情報漏洩をめぐる“あいまいな記載” 質問しても真相は闇",
         "url": "https://news.yahoo.co.jp/articles/0ca0755edfdf2e87a96b76d5283b6808baaf4f72",
         "source": "Yahoo",
@@ -20201,18 +20237,18 @@
       {
         "title": "パク・シフの不倫仲介疑惑を提起した女性、名誉毀損などの疑いで懲役10ヶ月求刑も控訴",
         "url": "https://news.yahoo.co.jp/articles/69c21641127432df54f8e745b7b9a626221be439",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "会話を録音するAIガジェットはどこまで許されるのか、Apple Watchが突きつける市場とプライバシーの問題 欧州の「GDPR(EU一般データ保護規則)」やアメリカの州法、日本の「個人情報保護法」などの法律により、個人データの取得や保護をする際には本人への通知や",
-        "url": "https://news.yahoo.co.jp/articles/7add6ebb947a0034e5c1ac859a19ff58db7f2b45",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "個人情報保護委員会・IPAなどが注意喚起 相次ぐ情報漏えいで確認したい7つの点検",
+        "url": "https://news.yahoo.co.jp/expert/articles/1516c5e652767ac8360bf1d73afd4af19a7e3023",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「よけい不安になった」タイムズカー情報漏洩をめぐる“あいまいな記載” 質問しても真相は闇",
         "url": "https://news.yahoo.co.jp/articles/0ca0755edfdf2e87a96b76d5283b6808baaf4f72",
         "source": "Yahoo",
@@ -20239,12 +20275,6 @@
       {
         "title": "パク・シフの不倫仲介疑惑を提起した女性、名誉毀損などの疑いで懲役10ヶ月求刑も控訴",
         "url": "https://news.yahoo.co.jp/articles/69c21641127432df54f8e745b7b9a626221be439",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "会話を録音するAIガジェットはどこまで許されるのか、Apple Watchが突きつける市場とプライバシーの問題 欧州の「GDPR(EU一般データ保護規則)」やアメリカの州法、日本の「個人情報保護法」などの法律により、個人データの取得や保護をする際には本人への通知や",
-        "url": "https://news.yahoo.co.jp/articles/7add6ebb947a0034e5c1ac859a19ff58db7f2b45",
         "source": "Yahoo",
         "date": ""
       }
