@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:20:56.099Z",
+  "generatedAt": "2026-11-05T08:52:20.612Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "金融審議会成長企業への資金供給の在り方等に関するワーキング・グループ第3回会議が令和8年11月9日10時から中央合同庁舎第7号館で開催され、ヒアリングと事務局説明、討議が実施される予定。",
         "会議は一般傍聴席なしだがYouTubeで配信され、金融庁ウェブサイトで後日議事録が公表されるため、金融機関・関係者は成長企業への資金供給に関する政策動向を確認可能。",
         "本会議は金融審議会の公式な審議活動であり、金融庁企画市場局信用課が所管し、成長企業への資金供給枠組みに関する実務上の指針や規制改革案の検討が進められている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの取扱い（2026年11月19日調整分）",
+      "url": "https://www.jpx.co.jp/news/2020/20261105-01.html",
+      "date": "2026-11-05",
+      "detectedAt": "2026-11-05T08:52:20.612Z",
+      "enriched": "2026-11-05T08:52:27.276Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "キーエンス(6861)の2026年11月21日付け株式分割(5分割)に伴い、同社有価証券オプションについて権利行使価格を5分の1に、建玉を5倍に、建玉制限数量を24,300単位から121,600単位に調整する。",
+        "オプション取引参加者は2026年11月19日(木)から調整後の権利行使価格・建玉制限・ハードブロック設定値で取引すること。全限月取引が対象であり、端数は四捨五入される。",
+        "調整は大阪取引所の有価証券オプション取引規則に基づき、2026年11月19日(木)から適用開始となり、同日時点で2026年11月18日(水)の各値が調整基準となる。"
       ],
       "aiSumV": 3
     },
@@ -19359,6 +19374,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米下院民主党、「新クラリティ法案」を協議──SECの監督権限拡大も",
+        "url": "https://news.yahoo.co.jp/articles/372ebe21ec3eb71161cdb8a9326b95589eebc287",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米民主党圧勝でダウ3％上昇、原油価格・国債利回り下落",
         "url": "https://news.yahoo.co.jp/articles/5592a9acd5c7ecbe61b2d56a5b23a788a2d3e57d",
         "source": "Yahoo",
@@ -19385,18 +19406,18 @@
       {
         "title": "中間選挙後",
         "url": "https://news.yahoo.co.jp/articles/75717c0b88507a4c5ba06d8c187d60cfa919596a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中間選挙、民主党が上下両院を奪還へ。トランプ一族の暗号資産事業に調査及ぶか＝報道",
-        "url": "https://news.yahoo.co.jp/articles/361067bbe53c819b3cb147762b3e67a41b54d7e2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米下院民主党、「新クラリティ法案」を協議──SECの監督権限拡大も",
+        "url": "https://news.yahoo.co.jp/articles/372ebe21ec3eb71161cdb8a9326b95589eebc287",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米民主党圧勝でダウ3％上昇、原油価格・国債利回り下落",
         "url": "https://news.yahoo.co.jp/articles/5592a9acd5c7ecbe61b2d56a5b23a788a2d3e57d",
         "source": "Yahoo",
@@ -19423,12 +19444,6 @@
       {
         "title": "中間選挙後",
         "url": "https://news.yahoo.co.jp/articles/75717c0b88507a4c5ba06d8c187d60cfa919596a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中間選挙、民主党が上下両院を奪還へ。トランプ一族の暗号資産事業に調査及ぶか＝報道",
-        "url": "https://news.yahoo.co.jp/articles/361067bbe53c819b3cb147762b3e67a41b54d7e2",
         "source": "Yahoo",
         "date": ""
       }
@@ -20377,6 +20392,24 @@
     ],
     "415AC0000000057": [
       {
+        "title": "神奈川県警の失効免許流用問題「同様の運用ないか確認を」警察庁長官",
+        "url": "https://news.yahoo.co.jp/articles/a5d988fa2ab20cbf78b0ddb46add7d1f1ed23681",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国、飲み物3杯の「横領」で告訴されたカフェ店員、再捜査で「容疑なし」",
+        "url": "https://news.yahoo.co.jp/articles/a3784cb7fdbfc8a4d15e97427e148ef7d7feee58",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然 たとえば、個人情報保護法のファイルに［git log］をかけると、この法律に手を入れた改正法の一覧が得られます。記事によると、個人情報保護法を直接改正",
+        "url": "https://news.yahoo.co.jp/articles/32794653e3defc3d3f3a4a0d84dc4fd66b0a36f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "維新 企業に個人情報の消去義務化を提言",
         "url": "https://news.yahoo.co.jp/articles/64c95a7daaa722e829c874625581dc4b9842ce79",
         "source": "Yahoo",
@@ -20391,30 +20424,30 @@
       {
         "title": "企業に個人情報の消去義務化を提言 維新",
         "url": "https://news.yahoo.co.jp/articles/1ceefd826e704fd5af334cbb453c0cba319093c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自情報部隊、身分隠し市民調査 「思想・信条」も、元隊員ら証言",
-        "url": "https://news.yahoo.co.jp/articles/1b3891c9422895049afd4d9a7dd1cf0431e8ff92",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "退会者データ、削除義務化を 維新がサイバー対策提言",
-        "url": "https://news.yahoo.co.jp/articles/e10a1617321c63b8cf80e7fa686944423781a61c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「一番の対策は不要な情報を持たぬこと」維新が緊急提言 相次ぐサイバー攻撃受け 不要な個人データ消去の義務化など要請 自民・みらい・立憲に続き政府へ",
-        "url": "https://news.yahoo.co.jp/articles/c98e20bd780017cfcb0532dd6401e55be6cde1a1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "神奈川県警の失効免許流用問題「同様の運用ないか確認を」警察庁長官",
+        "url": "https://news.yahoo.co.jp/articles/a5d988fa2ab20cbf78b0ddb46add7d1f1ed23681",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国、飲み物3杯の「横領」で告訴されたカフェ店員、再捜査で「容疑なし」",
+        "url": "https://news.yahoo.co.jp/articles/a3784cb7fdbfc8a4d15e97427e148ef7d7feee58",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然 たとえば、個人情報保護法のファイルに［git log］をかけると、この法律に手を入れた改正法の一覧が得られます。記事によると、個人情報保護法を直接改正",
+        "url": "https://news.yahoo.co.jp/articles/32794653e3defc3d3f3a4a0d84dc4fd66b0a36f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "維新 企業に個人情報の消去義務化を提言",
         "url": "https://news.yahoo.co.jp/articles/64c95a7daaa722e829c874625581dc4b9842ce79",
         "source": "Yahoo",
@@ -20429,30 +20462,30 @@
       {
         "title": "企業に個人情報の消去義務化を提言 維新",
         "url": "https://news.yahoo.co.jp/articles/1ceefd826e704fd5af334cbb453c0cba319093c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自情報部隊、身分隠し市民調査 「思想・信条」も、元隊員ら証言",
-        "url": "https://news.yahoo.co.jp/articles/1b3891c9422895049afd4d9a7dd1cf0431e8ff92",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "退会者データ、削除義務化を 維新がサイバー対策提言",
-        "url": "https://news.yahoo.co.jp/articles/e10a1617321c63b8cf80e7fa686944423781a61c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「一番の対策は不要な情報を持たぬこと」維新が緊急提言 相次ぐサイバー攻撃受け 不要な個人データ消去の義務化など要請 自民・みらい・立憲に続き政府へ",
-        "url": "https://news.yahoo.co.jp/articles/c98e20bd780017cfcb0532dd6401e55be6cde1a1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "神奈川県警の失効免許流用問題「同様の運用ないか確認を」警察庁長官",
+        "url": "https://news.yahoo.co.jp/articles/a5d988fa2ab20cbf78b0ddb46add7d1f1ed23681",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国、飲み物3杯の「横領」で告訴されたカフェ店員、再捜査で「容疑なし」",
+        "url": "https://news.yahoo.co.jp/articles/a3784cb7fdbfc8a4d15e97427e148ef7d7feee58",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然 たとえば、個人情報保護法のファイルに［git log］をかけると、この法律に手を入れた改正法の一覧が得られます。記事によると、個人情報保護法を直接改正",
+        "url": "https://news.yahoo.co.jp/articles/32794653e3defc3d3f3a4a0d84dc4fd66b0a36f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "維新 企業に個人情報の消去義務化を提言",
         "url": "https://news.yahoo.co.jp/articles/64c95a7daaa722e829c874625581dc4b9842ce79",
         "source": "Yahoo",
@@ -20467,24 +20500,6 @@
       {
         "title": "企業に個人情報の消去義務化を提言 維新",
         "url": "https://news.yahoo.co.jp/articles/1ceefd826e704fd5af334cbb453c0cba319093c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "陸自情報部隊、身分隠し市民調査 「思想・信条」も、元隊員ら証言",
-        "url": "https://news.yahoo.co.jp/articles/1b3891c9422895049afd4d9a7dd1cf0431e8ff92",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "退会者データ、削除義務化を 維新がサイバー対策提言",
-        "url": "https://news.yahoo.co.jp/articles/e10a1617321c63b8cf80e7fa686944423781a61c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「一番の対策は不要な情報を持たぬこと」維新が緊急提言 相次ぐサイバー攻撃受け 不要な個人データ消去の義務化など要請 自民・みらい・立憲に続き政府へ",
-        "url": "https://news.yahoo.co.jp/articles/c98e20bd780017cfcb0532dd6401e55be6cde1a1",
         "source": "Yahoo",
         "date": ""
       }
