@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T05:19:53.479Z",
+  "generatedAt": "2026-11-06T06:52:07.830Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,67 @@
         "金融審議会成長企業への資金供給の在り方等に関するワーキング・グループ第3回会議が令和8年11月9日10時から中央合同庁舎第7号館で開催され、ヒアリングと事務局説明、討議が実施される予定。",
         "会議は一般傍聴席なしだがYouTubeで配信され、金融庁ウェブサイトで後日議事録が公表されるため、金融機関・関係者は成長企業への資金供給に関する政策動向を確認可能。",
         "本会議は金融審議会の公式な審議活動であり、金融庁企画市場局信用課が所管し、成長企業への資金供給枠組みに関する実務上の指針や規制改革案の検討が進められている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "協会員の異動状況等を更新しました。",
+      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
+      "date": "2026-11-06",
+      "detectedAt": "2026-11-06T06:52:07.830Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
+        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
+        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-06T06:52:12.679Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大（ETF/ETN）：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261106-02.html",
+      "date": "2026-11-06",
+      "detectedAt": "2026-11-06T06:52:07.830Z",
+      "enriched": "2026-11-06T06:52:12.679Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "VIX短期先物指数ETF（コード318A）は11月9日より制限値幅の上限を通常の160円から320円に拡大し、下限は80円のまま据え置く。",
+        "取引参加者・投資家は同銘柄の成行注文で思わぬ値段での約定リスクに注意し、11月9日以降の制限値幅拡大の解除条件（拡大後のストップ高安以外での値段での売買成立）を確認する。",
+        "東証上場の同ETFについて、11月8日のストップ高終了を受け11月9日（翌営業日）から制限値幅拡大措置が適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261106-01.html",
+      "date": "2026-11-06",
+      "detectedAt": "2026-11-06T06:52:07.830Z",
+      "enriched": "2026-11-06T06:52:12.679Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社日本エム・ディ・エム（コード7600）について、2営業日連続でストップ高（安）かつ売買高0株等の要件を満たしたため、11月9日より制限値幅下限を通常の80円から320円に拡大する。",
+        "投資家は同銘柄の11月9日以降の取引に際し、成行注文による予期しない値段での約定リスク、および指値発注時に拡大下限値幅（320円）を意識した注文発注が必要である。",
+        "ストップ高（安）以外での売買成立で翌営業日から通常値幅に戻るが、ストップ高（安）値段のみでの成立や値段がない場合は拡大を継続する（東証市場ルール）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：サツドラホールディングス（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20261106-11.html",
+      "date": "2026-11-06",
+      "detectedAt": "2026-11-06T06:52:07.830Z",
+      "enriched": "2026-11-06T06:52:12.679Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（株）の株式（コード3544、スタンダード市場）について、特定の者以外の株主の株式を1株に満たない端数となる割合で株式併合を行うため、有価証券上場規程第601条第1項第18号に該当する上場廃止を決定した。",
+        "整理銘柄指定期間は2026年11月6日（金）から11月24日（火）までであり、上場廃止日は2026年11月25日（水）となるが、速やかに上場廃止すべき事情が発生した場合は当該期間及び廃止日を変更することがある。",
+        "同社株式は2026年11月9日（月）以降、信用取引及び発行日決済取引の委託保証金、売買証拠金、取引参加者保証金、信認金の各代用有価証券から除外される。"
       ],
       "aiSumV": 3
     },
@@ -1299,22 +1360,6 @@
         "東京証券取引所が2026年10月28日に公表した新規上場案内に従い、11月4日の上場から当該呼値単位が適用される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "協会員の異動状況等を更新しました。",
-      "url": "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kanyuu/index.html",
-      "date": "2026-10-28",
-      "detectedAt": "2026-10-28T02:20:53.867Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "山形證券株式会社及び三津井証券株式会社が2026年6月1日付けで金融商品仲介業の登録を受けることにより金融商品取引業の登録が失効し、同日付けで日本証券業協会から脱退。",
-        "該当会員は定款第25条第1項に基づき脱退を申請し、協会がこれを承認したことで、定款第11条第2項及び第12条第2項により会員資格を喪失し会員権が消滅。",
-        "脱退日は2026年6月1日で、脱退に伴う手続きは日本証券業協会定款の規定に基づき処理される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-28T02:21:02.063Z"
     },
     {
       "agency": "日本銀行",
@@ -19420,6 +19465,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ビットコイン反落 AI規制懸念で株急落、雇用統計で一変の可能性も【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/b95a21ecb8a465e02905481f8bafb439ff6a58f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "史上最悪の暗号資産ハッキング、AIで高まるサイバー攻撃の脅威とは?",
         "url": "https://news.yahoo.co.jp/articles/ef929b340d4a5c7d70f966d05504cf7b6babcd34",
         "source": "Yahoo",
@@ -19446,18 +19497,18 @@
       {
         "title": "マイクロソフト、ネオクラウドへの熱冷める-データセンター遅延響く",
         "url": "https://news.yahoo.co.jp/articles/4ba3df6e0e52a7fa9366706100d68b4ddc79985e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン6%急落、7週間ぶり安値──ナスダックも2025年4月以来の大幅安",
-        "url": "https://news.yahoo.co.jp/articles/d9924f2ec27bef00c2bd720adb8fcd2d59a94beb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ビットコイン反落 AI規制懸念で株急落、雇用統計で一変の可能性も【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/b95a21ecb8a465e02905481f8bafb439ff6a58f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "史上最悪の暗号資産ハッキング、AIで高まるサイバー攻撃の脅威とは?",
         "url": "https://news.yahoo.co.jp/articles/ef929b340d4a5c7d70f966d05504cf7b6babcd34",
         "source": "Yahoo",
@@ -19484,12 +19535,6 @@
       {
         "title": "マイクロソフト、ネオクラウドへの熱冷める-データセンター遅延響く",
         "url": "https://news.yahoo.co.jp/articles/4ba3df6e0e52a7fa9366706100d68b4ddc79985e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン6%急落、7週間ぶり安値──ナスダックも2025年4月以来の大幅安",
-        "url": "https://news.yahoo.co.jp/articles/d9924f2ec27bef00c2bd720adb8fcd2d59a94beb",
         "source": "Yahoo",
         "date": ""
       }
@@ -19648,6 +19693,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBIの高配当日本株トークン「JX」、香港で取り扱い開始",
+        "url": "https://news.yahoo.co.jp/articles/431cd3bfa020ed7db9883c0673c38e8d39e6f3a1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "外国人への免税分還付に「デジタル日本円」活用検討 送金手続き数秒で完了",
+        "url": "https://news.yahoo.co.jp/articles/fe63608dc698791ab7644a82825008dbb310bf37",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サムスンの「Samsung Wallet」、米国でソラナ上のUSDCに対応、購入・送受信が可能に",
+        "url": "https://news.yahoo.co.jp/articles/3e4a376ec796719f0db44d1e600084d56b0ebd37",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "史上最悪の暗号資産ハッキング、AIで高まるサイバー攻撃の脅威とは?",
         "url": "https://news.yahoo.co.jp/articles/ef929b340d4a5c7d70f966d05504cf7b6babcd34",
         "source": "Yahoo",
@@ -19662,30 +19725,30 @@
       {
         "title": "LN Trends 2026年10月",
         "url": "https://news.yahoo.co.jp/articles/88b4b64012f60de0e95a0858a838e2899b995014",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "仏銀行クレディ・ミュチュエル・アルケアにサイバー攻撃、不正送金資金が暗号資産に交換された可能性",
-        "url": "https://news.yahoo.co.jp/articles/891fdec26cb60262bebbc9e5e08dfc87312ff9e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスに続きフランスの銀行も",
-        "url": "https://news.yahoo.co.jp/articles/8e20116977cc768be8cf70475a193cea431509ac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サムスン、米国でGalaxy向けUSDC口座を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/aa900ba6ee09b7376fbd96b4412596a5a9256959",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBIの高配当日本株トークン「JX」、香港で取り扱い開始",
+        "url": "https://news.yahoo.co.jp/articles/431cd3bfa020ed7db9883c0673c38e8d39e6f3a1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "外国人への免税分還付に「デジタル日本円」活用検討 送金手続き数秒で完了",
+        "url": "https://news.yahoo.co.jp/articles/fe63608dc698791ab7644a82825008dbb310bf37",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サムスンの「Samsung Wallet」、米国でソラナ上のUSDCに対応、購入・送受信が可能に",
+        "url": "https://news.yahoo.co.jp/articles/3e4a376ec796719f0db44d1e600084d56b0ebd37",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "史上最悪の暗号資産ハッキング、AIで高まるサイバー攻撃の脅威とは?",
         "url": "https://news.yahoo.co.jp/articles/ef929b340d4a5c7d70f966d05504cf7b6babcd34",
         "source": "Yahoo",
@@ -19700,24 +19763,6 @@
       {
         "title": "LN Trends 2026年10月",
         "url": "https://news.yahoo.co.jp/articles/88b4b64012f60de0e95a0858a838e2899b995014",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "仏銀行クレディ・ミュチュエル・アルケアにサイバー攻撃、不正送金資金が暗号資産に交換された可能性",
-        "url": "https://news.yahoo.co.jp/articles/891fdec26cb60262bebbc9e5e08dfc87312ff9e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスに続きフランスの銀行も",
-        "url": "https://news.yahoo.co.jp/articles/8e20116977cc768be8cf70475a193cea431509ac",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "サムスン、米国でGalaxy向けUSDC口座を提供開始",
-        "url": "https://news.yahoo.co.jp/articles/aa900ba6ee09b7376fbd96b4412596a5a9256959",
         "source": "Yahoo",
         "date": ""
       }
