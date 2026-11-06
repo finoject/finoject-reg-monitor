@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T03:48:54.599Z",
+  "generatedAt": "2026-11-06T05:19:53.479Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "金融審議会成長企業への資金供給の在り方等に関するワーキング・グループ第3回会議が令和8年11月9日10時から中央合同庁舎第7号館で開催され、ヒアリングと事務局説明、討議が実施される予定。",
         "会議は一般傍聴席なしだがYouTubeで配信され、金融庁ウェブサイトで後日議事録が公表されるため、金融機関・関係者は成長企業への資金供給に関する政策動向を確認可能。",
         "本会議は金融審議会の公式な審議活動であり、金融庁企画市場局信用課が所管し、成長企業への資金供給枠組みに関する実務上の指針や規制改革案の検討が進められている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行金融研究所 ファイナンス・ワークショップの開催",
+      "url": "https://www.boj.or.jp/about/release_2026/rel261106a.htm",
+      "date": "2026-11-06",
+      "detectedAt": "2026-11-06T05:19:53.479Z",
+      "enriched": "2026-11-06T05:19:58.814Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行金融研究所がファイナンス・ワークショップを開催し、開催要領と参加申込方法を金融研究所ホームページに掲載した。",
+        "金融関係者等は金融研究所ホームページから開催要領を確認した上で、参加申込をする必要がある。",
+        "2026年11月6日付で日本銀行金融研究所から開催案内が公表され、ワークショップの具体的な開催日程・会場・参加費用等の詳細はホームページで確認可能。"
       ],
       "aiSumV": 3
     },
@@ -19405,6 +19420,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "史上最悪の暗号資産ハッキング、AIで高まるサイバー攻撃の脅威とは?",
+        "url": "https://news.yahoo.co.jp/articles/ef929b340d4a5c7d70f966d05504cf7b6babcd34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "FRBとOCC、バイナンスの巨額流出受け米銀行に照会＝報道",
+        "url": "https://news.yahoo.co.jp/articles/7d39ff0149dd7c9c84f1a55030fa3731d10d581e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、暗号資産課税を2029年へ再延期方針",
         "url": "https://news.yahoo.co.jp/articles/a20d91f3d80c5579e1e34ada64ea1682bb9296c3",
         "source": "Yahoo",
@@ -19425,24 +19452,24 @@
       {
         "title": "ビットコイン6%急落、7週間ぶり安値──ナスダックも2025年4月以来の大幅安",
         "url": "https://news.yahoo.co.jp/articles/d9924f2ec27bef00c2bd720adb8fcd2d59a94beb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「AIよ、安らかに眠れ」",
-        "url": "https://news.yahoo.co.jp/articles/970ef792f103c1e22819ec568bc63c6b1e4962c0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブルーウェーブがAI取引の一部を揺るがしても、株式市場は急騰した（海外）",
-        "url": "https://news.yahoo.co.jp/articles/48a1acfb071068e2e2914b29277969dc5c56a399",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "史上最悪の暗号資産ハッキング、AIで高まるサイバー攻撃の脅威とは?",
+        "url": "https://news.yahoo.co.jp/articles/ef929b340d4a5c7d70f966d05504cf7b6babcd34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "FRBとOCC、バイナンスの巨額流出受け米銀行に照会＝報道",
+        "url": "https://news.yahoo.co.jp/articles/7d39ff0149dd7c9c84f1a55030fa3731d10d581e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、暗号資産課税を2029年へ再延期方針",
         "url": "https://news.yahoo.co.jp/articles/a20d91f3d80c5579e1e34ada64ea1682bb9296c3",
         "source": "Yahoo",
@@ -19463,18 +19490,6 @@
       {
         "title": "ビットコイン6%急落、7週間ぶり安値──ナスダックも2025年4月以来の大幅安",
         "url": "https://news.yahoo.co.jp/articles/d9924f2ec27bef00c2bd720adb8fcd2d59a94beb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「AIよ、安らかに眠れ」",
-        "url": "https://news.yahoo.co.jp/articles/970ef792f103c1e22819ec568bc63c6b1e4962c0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブルーウェーブがAI取引の一部を揺るがしても、株式市場は急騰した（海外）",
-        "url": "https://news.yahoo.co.jp/articles/48a1acfb071068e2e2914b29277969dc5c56a399",
         "source": "Yahoo",
         "date": ""
       }
@@ -19633,6 +19648,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "史上最悪の暗号資産ハッキング、AIで高まるサイバー攻撃の脅威とは?",
+        "url": "https://news.yahoo.co.jp/articles/ef929b340d4a5c7d70f966d05504cf7b6babcd34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、暗号資産課税を2029年へ再延期方針",
         "url": "https://news.yahoo.co.jp/articles/a20d91f3d80c5579e1e34ada64ea1682bb9296c3",
         "source": "Yahoo",
@@ -19659,18 +19680,18 @@
       {
         "title": "サムスン、米国でGalaxy向けUSDC口座を提供開始",
         "url": "https://news.yahoo.co.jp/articles/aa900ba6ee09b7376fbd96b4412596a5a9256959",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産を守るには何が必要か──BCCCとCertiKの勉強会から、JPYC・DeFiの安全な使い方を考える【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/d9eedab476b321ea4619c4455bb514392c6dcc45",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "史上最悪の暗号資産ハッキング、AIで高まるサイバー攻撃の脅威とは?",
+        "url": "https://news.yahoo.co.jp/articles/ef929b340d4a5c7d70f966d05504cf7b6babcd34",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、暗号資産課税を2029年へ再延期方針",
         "url": "https://news.yahoo.co.jp/articles/a20d91f3d80c5579e1e34ada64ea1682bb9296c3",
         "source": "Yahoo",
@@ -19697,12 +19718,6 @@
       {
         "title": "サムスン、米国でGalaxy向けUSDC口座を提供開始",
         "url": "https://news.yahoo.co.jp/articles/aa900ba6ee09b7376fbd96b4412596a5a9256959",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産を守るには何が必要か──BCCCとCertiKの勉強会から、JPYC・DeFiの安全な使い方を考える【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/d9eedab476b321ea4619c4455bb514392c6dcc45",
         "source": "Yahoo",
         "date": ""
       }
