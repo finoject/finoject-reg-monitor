@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T08:52:20.347Z",
+  "generatedAt": "2026-11-06T10:23:19.797Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "金融審議会成長企業への資金供給の在り方等に関するワーキング・グループ第3回会議が令和8年11月9日10時から中央合同庁舎第7号館で開催され、ヒアリングと事務局説明、討議が実施される予定。",
         "会議は一般傍聴席なしだがYouTubeで配信され、金融庁ウェブサイトで後日議事録が公表されるため、金融機関・関係者は成長企業への資金供給に関する政策動向を確認可能。",
         "本会議は金融審議会の公式な審議活動であり、金融庁企画市場局信用課が所管し、成長企業への資金供給枠組みに関する実務上の指針や規制改革案の検討が進められている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）チャーム・ケア・コーポレーション",
+      "url": "https://www.jpx.co.jp/news/1023/20261106-12.html",
+      "date": "2026-11-06",
+      "detectedAt": "2026-11-06T10:23:19.797Z",
+      "enriched": "2026-11-06T10:23:25.227Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャーム・ケア・コーポレーション（コード6062、プライム市場）が監理銘柄（確認中）に指定された。指定期間は2026年11月6日から上場廃止基準該当性の認定日まで。",
+        "同社がシップヘルスケアホールディングスによる公開買付けに賛同を表明。買付成立後、①株式等売渡請求の承認または②特定者以外の株式を1株未満の端数とする株式併合が行われた場合に上場廃止となる。",
+        "有価証券上場規程施行規則第604条第1項第23号及び第24号に基づき、上場廃止となるおそれがあると認められたため指定。取引参加者および投資家は当該銘柄の動向を注視する必要がある。"
       ],
       "aiSumV": 3
     },
@@ -19495,6 +19510,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "トランプ政治の大粛清が始まるか 中間選挙大勝の民主党議員が警告「弁護士を雇っておけ」 疑惑関係者を議会に召喚へ",
+        "url": "https://news.yahoo.co.jp/articles/eb4733da3c212f5bea4bc594d8ceb652c2d06c67",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BTC（ビットコイン）は米ハイテク株急落で下値警戒、米CPIと中東情勢も注視【マネックス証券】",
         "url": "https://news.yahoo.co.jp/articles/7e336853756483da9da8a72dec68e4edc3dd6aca",
         "source": "Yahoo",
@@ -19521,18 +19542,18 @@
       {
         "title": "FRBとOCC、バイナンスの巨額流出受け米銀行に照会＝報道",
         "url": "https://news.yahoo.co.jp/articles/7d39ff0149dd7c9c84f1a55030fa3731d10d581e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、暗号資産課税を2029年へ再延期方針",
-        "url": "https://news.yahoo.co.jp/articles/a20d91f3d80c5579e1e34ada64ea1682bb9296c3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプ政治の大粛清が始まるか 中間選挙大勝の民主党議員が警告「弁護士を雇っておけ」 疑惑関係者を議会に召喚へ",
+        "url": "https://news.yahoo.co.jp/articles/eb4733da3c212f5bea4bc594d8ceb652c2d06c67",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "BTC（ビットコイン）は米ハイテク株急落で下値警戒、米CPIと中東情勢も注視【マネックス証券】",
         "url": "https://news.yahoo.co.jp/articles/7e336853756483da9da8a72dec68e4edc3dd6aca",
         "source": "Yahoo",
@@ -19559,12 +19580,6 @@
       {
         "title": "FRBとOCC、バイナンスの巨額流出受け米銀行に照会＝報道",
         "url": "https://news.yahoo.co.jp/articles/7d39ff0149dd7c9c84f1a55030fa3731d10d581e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、暗号資産課税を2029年へ再延期方針",
-        "url": "https://news.yahoo.co.jp/articles/a20d91f3d80c5579e1e34ada64ea1682bb9296c3",
         "source": "Yahoo",
         "date": ""
       }
@@ -19723,6 +19738,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "またしてもサイバー攻撃。狙われたのはお金、ではなく血液",
+        "url": "https://news.yahoo.co.jp/articles/24a774e4e941ff9a4abe38037711453f61af43d9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインベース、米国などの機関投資家にデリビットのオプション・無期限先物を提供",
         "url": "https://news.yahoo.co.jp/articles/f68d95cb891cac13c827586d5e38cd1688e81d8a",
         "source": "Yahoo",
@@ -19749,18 +19770,18 @@
       {
         "title": "SBIの高配当日本株トークン「JX」、香港で取り扱い開始",
         "url": "https://news.yahoo.co.jp/articles/431cd3bfa020ed7db9883c0673c38e8d39e6f3a1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "外国人への免税分還付に「デジタル日本円」活用検討 送金手続き数秒で完了",
-        "url": "https://news.yahoo.co.jp/articles/fe63608dc698791ab7644a82825008dbb310bf37",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "またしてもサイバー攻撃。狙われたのはお金、ではなく血液",
+        "url": "https://news.yahoo.co.jp/articles/24a774e4e941ff9a4abe38037711453f61af43d9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインベース、米国などの機関投資家にデリビットのオプション・無期限先物を提供",
         "url": "https://news.yahoo.co.jp/articles/f68d95cb891cac13c827586d5e38cd1688e81d8a",
         "source": "Yahoo",
@@ -19787,12 +19808,6 @@
       {
         "title": "SBIの高配当日本株トークン「JX」、香港で取り扱い開始",
         "url": "https://news.yahoo.co.jp/articles/431cd3bfa020ed7db9883c0673c38e8d39e6f3a1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "外国人への免税分還付に「デジタル日本円」活用検討 送金手続き数秒で完了",
-        "url": "https://news.yahoo.co.jp/articles/fe63608dc698791ab7644a82825008dbb310bf37",
         "source": "Yahoo",
         "date": ""
       }
