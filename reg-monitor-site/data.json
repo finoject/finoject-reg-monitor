@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:46:20.520Z",
+  "generatedAt": "2026-11-06T00:32:45.520Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "金融審議会成長企業への資金供給の在り方等に関するワーキング・グループ第3回会議が令和8年11月9日10時から中央合同庁舎第7号館で開催され、ヒアリングと事務局説明、討議が実施される予定。",
         "会議は一般傍聴席なしだがYouTubeで配信され、金融庁ウェブサイトで後日議事録が公表されるため、金融機関・関係者は成長企業への資金供給に関する政策動向を確認可能。",
         "本会議は金融審議会の公式な審議活動であり、金融庁企画市場局信用課が所管し、成長企業への資金供給枠組みに関する実務上の指針や規制改革案の検討が進められている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "JVCEA",
+      "title": "取扱廃止銘柄のお知らせ",
+      "url": "https://jvcea.or.jp/information/statistics-reports/20261106-001/",
+      "date": "2026-11-06",
+      "detectedAt": "2026-11-06T00:32:45.520Z",
+      "enriched": "2026-11-06T00:32:51.107Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "メルコイン：GRT・SAND・MANAの3銘柄の取扱を2026年12月10日12:00に廃止。コインチェック：GRT・IMX・LSK・MANA・MASK・SANDの6銘柄の取扱を2026年12月17日14:00に廃止。",
+        "JVCEA加盟の暗号資産交換業者は廃止対象銘柄について、指定された廃止日時までにシステムの取扱停止対応および顧客への周知を実施する必要がある。",
+        "本通知は2026年11月6日付のJVCEA（日本仮想通貨交換業協会）取扱銘柄情報に基づき、資金決済法に基づく暗号資産交換業の適正運営に関連する取扱廃止事項として周知されたもの。"
       ],
       "aiSumV": 3
     },
@@ -19602,6 +19617,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "バイナンスに続きフランスの銀行も",
+        "url": "https://news.yahoo.co.jp/articles/8e20116977cc768be8cf70475a193cea431509ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サムスン、米国でGalaxy向けUSDC口座を提供開始",
         "url": "https://news.yahoo.co.jp/articles/aa900ba6ee09b7376fbd96b4412596a5a9256959",
         "source": "Yahoo",
@@ -19628,18 +19649,18 @@
       {
         "title": "サークル、Q3総収益17％増の8.65億ドル。ARCトークン先行販売が寄与",
         "url": "https://news.yahoo.co.jp/articles/c113c1f384556767c1c4ce83e6252853a2d9a91b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "父の名を使い投資詐欺、太永浩元議員の長男に一審で懲役3年6カ月 民事判決文によると、被告は2024年5月から7月にかけて、ある被害者にステーブルコイン両替事業を提案し、11億ウォン（約1億3000万円）相当の仮想資産と",
-        "url": "https://news.yahoo.co.jp/articles/25f91fc9100481d6676b0abe17bb44599dd1dbdb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "バイナンスに続きフランスの銀行も",
+        "url": "https://news.yahoo.co.jp/articles/8e20116977cc768be8cf70475a193cea431509ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "サムスン、米国でGalaxy向けUSDC口座を提供開始",
         "url": "https://news.yahoo.co.jp/articles/aa900ba6ee09b7376fbd96b4412596a5a9256959",
         "source": "Yahoo",
@@ -19666,12 +19687,6 @@
       {
         "title": "サークル、Q3総収益17％増の8.65億ドル。ARCトークン先行販売が寄与",
         "url": "https://news.yahoo.co.jp/articles/c113c1f384556767c1c4ce83e6252853a2d9a91b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "父の名を使い投資詐欺、太永浩元議員の長男に一審で懲役3年6カ月 民事判決文によると、被告は2024年5月から7月にかけて、ある被害者にステーブルコイン両替事業を提案し、11億ウォン（約1億3000万円）相当の仮想資産と",
-        "url": "https://news.yahoo.co.jp/articles/25f91fc9100481d6676b0abe17bb44599dd1dbdb",
         "source": "Yahoo",
         "date": ""
       }
@@ -20392,6 +20407,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "いまこそ企業人がAI倫理を問うべき理由 善き社会のために、AIに何を任せ、人に何を残すのか",
+        "url": "https://news.yahoo.co.jp/articles/5b70a2cad92ec64235dc1db454f8aee2c739563a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "3:26【独自】「当たり前の業務だった」免許不正流用を元警察官が証言「ダメだったんだと",
         "url": "https://news.yahoo.co.jp/articles/375412d73254fd58fa0e527dfa9d04a79223070b",
         "source": "Yahoo",
@@ -20418,18 +20439,18 @@
       {
         "title": "維新 企業に個人情報の消去義務化を提言",
         "url": "https://news.yahoo.co.jp/articles/64c95a7daaa722e829c874625581dc4b9842ce79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報の消去義務化を 維新、サイバー対策提言",
-        "url": "https://news.yahoo.co.jp/articles/efe99337e13f5b8ae0e9a6cc06e636fc50b49f6d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "いまこそ企業人がAI倫理を問うべき理由 善き社会のために、AIに何を任せ、人に何を残すのか",
+        "url": "https://news.yahoo.co.jp/articles/5b70a2cad92ec64235dc1db454f8aee2c739563a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "3:26【独自】「当たり前の業務だった」免許不正流用を元警察官が証言「ダメだったんだと",
         "url": "https://news.yahoo.co.jp/articles/375412d73254fd58fa0e527dfa9d04a79223070b",
         "source": "Yahoo",
@@ -20456,18 +20477,18 @@
       {
         "title": "維新 企業に個人情報の消去義務化を提言",
         "url": "https://news.yahoo.co.jp/articles/64c95a7daaa722e829c874625581dc4b9842ce79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報の消去義務化を 維新、サイバー対策提言",
-        "url": "https://news.yahoo.co.jp/articles/efe99337e13f5b8ae0e9a6cc06e636fc50b49f6d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "いまこそ企業人がAI倫理を問うべき理由 善き社会のために、AIに何を任せ、人に何を残すのか",
+        "url": "https://news.yahoo.co.jp/articles/5b70a2cad92ec64235dc1db454f8aee2c739563a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "3:26【独自】「当たり前の業務だった」免許不正流用を元警察官が証言「ダメだったんだと",
         "url": "https://news.yahoo.co.jp/articles/375412d73254fd58fa0e527dfa9d04a79223070b",
         "source": "Yahoo",
@@ -20494,12 +20515,6 @@
       {
         "title": "維新 企業に個人情報の消去義務化を提言",
         "url": "https://news.yahoo.co.jp/articles/64c95a7daaa722e829c874625581dc4b9842ce79",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "個人情報の消去義務化を 維新、サイバー対策提言",
-        "url": "https://news.yahoo.co.jp/articles/efe99337e13f5b8ae0e9a6cc06e636fc50b49f6d",
         "source": "Yahoo",
         "date": ""
       }
