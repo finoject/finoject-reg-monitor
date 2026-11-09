@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T05:54:12.440Z",
+  "generatedAt": "2026-11-09T07:40:44.378Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,98 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]グロース市場からプライム市場への変更：（株）ノースサンド",
+      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T07:40:44.378Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
+        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
+        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-09T07:40:50.392Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "コール市場残高（10月）",
+      "url": "https://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T07:40:44.378Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がバイナリ形式（圧縮ファイル）のため、具体的な数値データ・統計内容を抽出できません。通常のコール市場残高統計では、月中平均残高・取引高・金利等が掲載されます。",
+        "日本銀行の定期統計公表物であり、金融機関等の実務担当者は公表された月次データを市場動向把握・資金繰り管理に活用することが想定されます。",
+        "毎月定期に公表される統計であり、2026年5月分の結果を2026年6月5日に公表したものと考えられます。具体内容は原文書の正常な取得が必要です。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-09T07:40:50.392Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]TOPIXの構成銘柄への追加について",
+      "url": "https://www.jpx.co.jp/news/6030/20261109-01.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T07:40:44.378Z",
+      "enriched": "2026-11-09T07:40:50.392Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研は2026年11月30日から、GA technologies（3491）、HENNGE（4475）、湖北工業（6524）の3銘柄をTOPIXの構成銘柄に追加する。",
+        "追加される3銘柄はいずれもプライム市場上場で、ニューインデックス区分はSmall 2に分類され、TOPIX SmallおよびTOPIX Micro Capに組入れられる。",
+        "本追加は2026年11月30日から適用され、これらの銘柄に投資するファンドやポートフォリオ運用者は指数構成の変更に対応する必要が生じる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止の決定：（株）日本総険",
+      "url": "https://www.jpx.co.jp/news/1021/20261109-19.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T07:40:44.378Z",
+      "enriched": "2026-11-09T07:40:50.392Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社日本総険（コード5840、TOKYO PRO Market）の株式について、同社の申請に基づき東証が上場廃止を決定した。",
+        "同社は2026年12月13日付で東証から上場廃止となるが、国内他市場での上場継続予定のため、信用取引の委託保証金等の代用有価証券から除外されない。",
+        "上場廃止は特定上場有価証券に関する有価証券上場規程の特例第143条に基づき、2026年12月13日に実行される（緊急事情発生時は変更の可能性あり）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認取消し（ＲＥＩＴ）：KDX Kolet投資法人",
+      "url": "https://www.jpx.co.jp/news/1021/20261109-12.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T07:40:44.378Z",
+      "enriched": "2026-11-09T07:40:50.546Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所がKDX Kolet投資法人のREIT新規上場承認を、同法人からの申出に基づき取り消すことを決定した。",
+        "KDX Kolet投資法人が上場承認の取消しを東証に申し出て、東証がこれを受け入れた形となる。",
+        "2026年11月9日付で東証が上場承認を取り消し、REIT上場予定が中止となる。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261109-01.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T07:40:44.378Z",
+      "enriched": "2026-11-09T07:40:50.546Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本たばこ産業（株）（コード2914）につき、2営業日連続してストップ高安またはストップ配分0株となったため、11月10日の取引から制限値幅下限を通常1,000円から4,000円に拡大する。",
+        "取引参加者および投資家は、成行注文で思わぬ値段での売買成立に注意し、指値注文での対応を検討する必要がある。",
+        "拡大幅は東証の自主規制に基づき11月10日から適用され、ストップ高安以外での売買成立翌営業日から通常幅に戻る。"
       ],
       "aiSumV": 3
     },
@@ -1137,22 +1229,6 @@
         "メンテナンス完了後1か月程度内に法定監査関係書類を電子提出すれば期限内扱い、CPD減免申請（変更）は初回減免申請日が踏襲され期限後申請にならず、11月以降の新規CPD減免申請は申請月1日以降開始日で11月中に申請必要（公認会計士法第20条・会則第30条に基づく変更登録）。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]プライム市場からスタンダード市場への変更：フロンティア・マネジメント（株）",
-      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
-      "date": "2026-10-30",
-      "detectedAt": "2026-10-30T08:03:16.626Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
-        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
-        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-30T08:03:25.548Z"
     },
     {
       "agency": "日本銀行",
@@ -3841,22 +3917,6 @@
         "本入替はJPX総研が公表したTOPIX見直しの一環であり、東証スタンダード市場TOP20、東証グロース市場Core指数・250指数等複数の指数についても同時に銘柄構成の見直しが実施される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "コール市場残高（9月）",
-      "url": "https://www.boj.or.jp/statistics/market/short/call/call.xlsx",
-      "date": "2026-10-07",
-      "detectedAt": "2026-10-07T06:25:29.471Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "本文がバイナリ形式（圧縮ファイル）のため、具体的な数値データ・統計内容を抽出できません。通常のコール市場残高統計では、月中平均残高・取引高・金利等が掲載されます。",
-        "日本銀行の定期統計公表物であり、金融機関等の実務担当者は公表された月次データを市場動向把握・資金繰り管理に活用することが想定されます。",
-        "毎月定期に公表される統計であり、2026年5月分の結果を2026年6月5日に公表したものと考えられます。具体内容は原文書の正常な取得が必要です。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-07T06:25:34.031Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -19698,6 +19758,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "米FinCENとFRB、暗号資産含む国際送金のトラベルルール基準額引き下げ案を撤回",
+        "url": "https://news.yahoo.co.jp/articles/e2ec0974fe21149e9e1b11ade00573f21e41103f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Stripeが企業間送金を無料化──決済手数料より預かり資金の収益化を狙う",
+        "url": "https://news.yahoo.co.jp/articles/60c8d94186f0e1083448431dd5b04fbf7a2ba113",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
         "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
         "source": "Yahoo",
@@ -19718,24 +19790,24 @@
       {
         "title": "日本の会社員は1円単位で取られるのに",
         "url": "https://news.yahoo.co.jp/articles/d41424eaf270fe9fe984d07f14e7f1c7545554d8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "相次ぐ大手企業の「トークン化拒否」、暗号資産業界で激化する攻防戦の内幕",
-        "url": "https://news.yahoo.co.jp/articles/e66ced264abb5f8dc2c9af5d05c714221ea4fc34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナ上海イベント、中国当局が開催阻止──関係者調査へ＝報道",
-        "url": "https://news.yahoo.co.jp/articles/715212a6134bb16676282d08ef251d66d77c94ed",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米FinCENとFRB、暗号資産含む国際送金のトラベルルール基準額引き下げ案を撤回",
+        "url": "https://news.yahoo.co.jp/articles/e2ec0974fe21149e9e1b11ade00573f21e41103f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Stripeが企業間送金を無料化──決済手数料より預かり資金の収益化を狙う",
+        "url": "https://news.yahoo.co.jp/articles/60c8d94186f0e1083448431dd5b04fbf7a2ba113",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
         "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
         "source": "Yahoo",
@@ -19758,21 +19830,15 @@
         "url": "https://news.yahoo.co.jp/articles/d41424eaf270fe9fe984d07f14e7f1c7545554d8",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "相次ぐ大手企業の「トークン化拒否」、暗号資産業界で激化する攻防戦の内幕",
-        "url": "https://news.yahoo.co.jp/articles/e66ced264abb5f8dc2c9af5d05c714221ea4fc34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナ上海イベント、中国当局が開催阻止──関係者調査へ＝報道",
-        "url": "https://news.yahoo.co.jp/articles/715212a6134bb16676282d08ef251d66d77c94ed",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "米FinCENとFRB、暗号資産含む国際送金のトラベルルール基準額引き下げ案を撤回",
+        "url": "https://news.yahoo.co.jp/articles/e2ec0974fe21149e9e1b11ade00573f21e41103f",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "三井住友もブラックロックも──暗号資産事業は減収、それでもなぜSBIは“オンチェーン金融”を攻めるのか【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/554fde3397ddf44ae9038099f45a6aeb9f63bfe6",
@@ -19800,18 +19866,18 @@
       {
         "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
         "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスUS、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/9296c66619094b2cb893d3b0c184375effcb102c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "米FinCENとFRB、暗号資産含む国際送金のトラベルルール基準額引き下げ案を撤回",
+        "url": "https://news.yahoo.co.jp/articles/e2ec0974fe21149e9e1b11ade00573f21e41103f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "三井住友もブラックロックも──暗号資産事業は減収、それでもなぜSBIは“オンチェーン金融”を攻めるのか【編集長コラム】",
         "url": "https://news.yahoo.co.jp/articles/554fde3397ddf44ae9038099f45a6aeb9f63bfe6",
         "source": "Yahoo",
@@ -19838,12 +19904,6 @@
       {
         "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
         "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスUS、米国事業拡大のため10億ドル評価で最大1億ドルの調達を模索か＝報道",
-        "url": "https://news.yahoo.co.jp/articles/9296c66619094b2cb893d3b0c184375effcb102c",
         "source": "Yahoo",
         "date": ""
       }
@@ -19926,6 +19986,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "ロシア中銀、一般投資家向け暗号資産取引の規則公布。11/17施行へ",
+        "url": "https://news.yahoo.co.jp/articles/65acc755e66d7ad8de6a347cdd1d0dbdcb333d75",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本の「金融の当たり前」は、海外でも当たり前なのか──3億人市場・インドネシアから考える【N.Avenue club 4期5回ラウンドテーブル】",
+        "url": "https://news.yahoo.co.jp/articles/ff8101144794b51d8edd8f61ac6e1aaec80d3d38",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米FinCENとFRB、暗号資産含む国際送金のトラベルルール基準額引き下げ案を撤回",
+        "url": "https://news.yahoo.co.jp/articles/e2ec0974fe21149e9e1b11ade00573f21e41103f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Stripeが企業間送金を無料化──決済手数料より預かり資金の収益化を狙う",
+        "url": "https://news.yahoo.co.jp/articles/60c8d94186f0e1083448431dd5b04fbf7a2ba113",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンスフランス、12/31付で顧客口座閉鎖へ。MiCA認可未取得で",
         "url": "https://news.yahoo.co.jp/articles/203557f6c72f6762373e8d123d3a19e8728ddbf9",
         "source": "Yahoo",
@@ -19934,36 +20018,36 @@
       {
         "title": "ポリゴンPoSで約7049万POLの回収提案、バイナンスとポリマーケットの不正流出受け",
         "url": "https://news.yahoo.co.jp/articles/ae5d8062002a415c7947d1db45645fa632bc476b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
-        "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン反発の鍵、5つのシグナル──ボラティリティ・建玉・取引所フロー・センチメント・米CPIを読む【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/1509b6c6fba63f96f9495d053bd184ec6203b3d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン（BTC）反発が続かない理由──短期保有者の損失とステーブルコイン急減【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/ff2990fb06d5c98b5a227249fb1ff533669cd752",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AppleとMetaも自社株トークン化に異議──「マグニフィセント・セブン」全社が拒否",
-        "url": "https://news.yahoo.co.jp/articles/447f5dd2d66c17fe818c8aaa4853504cf38df110",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ロシア中銀、一般投資家向け暗号資産取引の規則公布。11/17施行へ",
+        "url": "https://news.yahoo.co.jp/articles/65acc755e66d7ad8de6a347cdd1d0dbdcb333d75",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本の「金融の当たり前」は、海外でも当たり前なのか──3億人市場・インドネシアから考える【N.Avenue club 4期5回ラウンドテーブル】",
+        "url": "https://news.yahoo.co.jp/articles/ff8101144794b51d8edd8f61ac6e1aaec80d3d38",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米FinCENとFRB、暗号資産含む国際送金のトラベルルール基準額引き下げ案を撤回",
+        "url": "https://news.yahoo.co.jp/articles/e2ec0974fe21149e9e1b11ade00573f21e41103f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Stripeが企業間送金を無料化──決済手数料より預かり資金の収益化を狙う",
+        "url": "https://news.yahoo.co.jp/articles/60c8d94186f0e1083448431dd5b04fbf7a2ba113",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンスフランス、12/31付で顧客口座閉鎖へ。MiCA認可未取得で",
         "url": "https://news.yahoo.co.jp/articles/203557f6c72f6762373e8d123d3a19e8728ddbf9",
         "source": "Yahoo",
@@ -19972,30 +20056,6 @@
       {
         "title": "ポリゴンPoSで約7049万POLの回収提案、バイナンスとポリマーケットの不正流出受け",
         "url": "https://news.yahoo.co.jp/articles/ae5d8062002a415c7947d1db45645fa632bc476b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
-        "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン反発の鍵、5つのシグナル──ボラティリティ・建玉・取引所フロー・センチメント・米CPIを読む【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/1509b6c6fba63f96f9495d053bd184ec6203b3d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン（BTC）反発が続かない理由──短期保有者の損失とステーブルコイン急減【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/ff2990fb06d5c98b5a227249fb1ff533669cd752",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AppleとMetaも自社株トークン化に異議──「マグニフィセント・セブン」全社が拒否",
-        "url": "https://news.yahoo.co.jp/articles/447f5dd2d66c17fe818c8aaa4853504cf38df110",
         "source": "Yahoo",
         "date": ""
       }
