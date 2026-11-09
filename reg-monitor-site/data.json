@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T08:38:36.273Z",
+  "generatedAt": "2026-11-09T10:11:27.613Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]制限値幅の拡大：日本たばこ産業株式会社 株式に係る有価証券オプション取引",
+      "url": "https://www.jpx.co.jp/news/2020/20261109-01.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T10:11:27.613Z",
+      "enriched": "2026-11-09T10:11:33.540Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本たばこ産業株式会社（コード：2914）の株式に係る有価証券オプション取引について、11月10日の制限値幅が基準値段の25％から85％に拡大される。",
+        "大阪取引所が管理する当該銘柄オプションの全銘柄の取引参加者は、11月10日の拡大された制限値幅（上限・下限ともに基準値段の85％）に対応する必要がある。",
+        "変更は東京証券取引所の制限値幅拡大決定に伴うもので、2026年11月10日（火）から適用される。"
       ],
       "aiSumV": 3
     },
@@ -20016,6 +20031,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "米上院議員、トランプ一家の暗号資産事業めぐり資料提出を改めて求める",
+        "url": "https://news.yahoo.co.jp/articles/8d1bb0225d22900fbfcaacabbf39e1a053ec8c50",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "プログマ、米デジタルアセットとMOU。カントンでの日本国債トークン化目指す",
+        "url": "https://news.yahoo.co.jp/articles/1326e88cc0aa24fe4c8652051f4620dc82109c5b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン急落、NVIDIA問題が引き金か 今週は火曜がヤマ場【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/150a91e0f599178e96d29387139483445a757229",
         "source": "Yahoo",
@@ -20036,24 +20063,24 @@
       {
         "title": "日本の「金融の当たり前」は、海外でも当たり前なのか──3億人市場・インドネシアから考える【N.Avenue club 4期5回ラウンドテーブル】",
         "url": "https://news.yahoo.co.jp/articles/ff8101144794b51d8edd8f61ac6e1aaec80d3d38",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米FinCENとFRB、暗号資産含む国際送金のトラベルルール基準額引き下げ案を撤回",
-        "url": "https://news.yahoo.co.jp/articles/e2ec0974fe21149e9e1b11ade00573f21e41103f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Stripeが企業間送金を無料化──決済手数料より預かり資金の収益化を狙う",
-        "url": "https://news.yahoo.co.jp/articles/60c8d94186f0e1083448431dd5b04fbf7a2ba113",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米上院議員、トランプ一家の暗号資産事業めぐり資料提出を改めて求める",
+        "url": "https://news.yahoo.co.jp/articles/8d1bb0225d22900fbfcaacabbf39e1a053ec8c50",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "プログマ、米デジタルアセットとMOU。カントンでの日本国債トークン化目指す",
+        "url": "https://news.yahoo.co.jp/articles/1326e88cc0aa24fe4c8652051f4620dc82109c5b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン急落、NVIDIA問題が引き金か 今週は火曜がヤマ場【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/150a91e0f599178e96d29387139483445a757229",
         "source": "Yahoo",
@@ -20074,18 +20101,6 @@
       {
         "title": "日本の「金融の当たり前」は、海外でも当たり前なのか──3億人市場・インドネシアから考える【N.Avenue club 4期5回ラウンドテーブル】",
         "url": "https://news.yahoo.co.jp/articles/ff8101144794b51d8edd8f61ac6e1aaec80d3d38",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米FinCENとFRB、暗号資産含む国際送金のトラベルルール基準額引き下げ案を撤回",
-        "url": "https://news.yahoo.co.jp/articles/e2ec0974fe21149e9e1b11ade00573f21e41103f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Stripeが企業間送金を無料化──決済手数料より預かり資金の収益化を狙う",
-        "url": "https://news.yahoo.co.jp/articles/60c8d94186f0e1083448431dd5b04fbf7a2ba113",
         "source": "Yahoo",
         "date": ""
       }
