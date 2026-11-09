@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T07:40:44.378Z",
+  "generatedAt": "2026-11-09T08:38:36.273Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,36 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「経済価値ベースのソルベンシー規制に関する告示の一部改正（案）」の公表",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20261109/20261109.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T08:38:36.273Z",
+      "enriched": "2026-11-09T08:38:43.884Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "３柱告示の項目名称を決算状況表と整合させるとともに、経済価値ベースの額の入力項目を明確化するため改正。保険業法施行規則第59条の2第1項第5号ニ等の規定に基づく告示を改正。",
+        "保険会社は改正告示に対応し、経済価値ベースのソルベンシー規制に係る報告項目の入力を明確化された基準に従って実施する必要がある。",
+        "パブリックコメントは令和8年12月9日17時までに提出。改正告示は金融庁告示第75号（令和9年3月31日適用予定）として改正施行される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "気候変動リスク産官学連携ネットワーク公開シンポジウム～気候関連開示からレジリエンス強化への実践～の開催の公表",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261109.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T08:38:36.273Z",
+      "enriched": "2026-11-09T08:38:43.884Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は環境省・文部科学省・国土交通省・国立環境研究所と連携し、気候変動リスク産官学連携ネットワークを主催。気候関連開示とレジリエンス強化に関する公開シンポジウムを開催予定。",
+        "企業・金融機関・地方公共団体は気候関連情報開示に基づき気候リスク分析と気候変動適応計画の策定を実施。本シンポジウム参加により最新事例と行政の取組動向を習得できる。",
+        "令和８年11月27日13時30分から16時30分、オンライン開催（Zoom）、定員1,000名先着順、参加費無料。申込は気候変動適応情報プラットフォーム（A-PLAT）で受け付け中。"
       ],
       "aiSumV": 3
     },
@@ -19758,6 +19788,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "DTCC、米国証券のトークン化サービスを開始──34銘柄で始まったDTSと、CFTCが認めた個別株の永久先物【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/2a20da327d0680e59e1a598c73f312fab5d8a1bf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米FinCENとFRB、暗号資産含む国際送金のトラベルルール基準額引き下げ案を撤回",
         "url": "https://news.yahoo.co.jp/articles/e2ec0974fe21149e9e1b11ade00573f21e41103f",
         "source": "Yahoo",
@@ -19784,18 +19820,18 @@
       {
         "title": "米財務省、暗号資産国際送金の規制強化案を撤回",
         "url": "https://news.yahoo.co.jp/articles/39152144fcb49c292fa372ade3ad4ca1a08d75aa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本の会社員は1円単位で取られるのに",
-        "url": "https://news.yahoo.co.jp/articles/d41424eaf270fe9fe984d07f14e7f1c7545554d8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "DTCC、米国証券のトークン化サービスを開始──34銘柄で始まったDTSと、CFTCが認めた個別株の永久先物【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/2a20da327d0680e59e1a598c73f312fab5d8a1bf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米FinCENとFRB、暗号資産含む国際送金のトラベルルール基準額引き下げ案を撤回",
         "url": "https://news.yahoo.co.jp/articles/e2ec0974fe21149e9e1b11ade00573f21e41103f",
         "source": "Yahoo",
@@ -19822,12 +19858,6 @@
       {
         "title": "米財務省、暗号資産国際送金の規制強化案を撤回",
         "url": "https://news.yahoo.co.jp/articles/39152144fcb49c292fa372ade3ad4ca1a08d75aa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本の会社員は1円単位で取られるのに",
-        "url": "https://news.yahoo.co.jp/articles/d41424eaf270fe9fe984d07f14e7f1c7545554d8",
         "source": "Yahoo",
         "date": ""
       }
@@ -19986,6 +20016,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ビットコイン急落、NVIDIA問題が引き金か 今週は火曜がヤマ場【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/150a91e0f599178e96d29387139483445a757229",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DTCC、米国証券のトークン化サービスを開始──34銘柄で始まったDTSと、CFTCが認めた個別株の永久先物【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/2a20da327d0680e59e1a598c73f312fab5d8a1bf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロシア中銀、一般投資家向け暗号資産取引の規則公布。11/17施行へ",
         "url": "https://news.yahoo.co.jp/articles/65acc755e66d7ad8de6a347cdd1d0dbdcb333d75",
         "source": "Yahoo",
@@ -20006,24 +20048,24 @@
       {
         "title": "Stripeが企業間送金を無料化──決済手数料より預かり資金の収益化を狙う",
         "url": "https://news.yahoo.co.jp/articles/60c8d94186f0e1083448431dd5b04fbf7a2ba113",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスフランス、12/31付で顧客口座閉鎖へ。MiCA認可未取得で",
-        "url": "https://news.yahoo.co.jp/articles/203557f6c72f6762373e8d123d3a19e8728ddbf9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンPoSで約7049万POLの回収提案、バイナンスとポリマーケットの不正流出受け",
-        "url": "https://news.yahoo.co.jp/articles/ae5d8062002a415c7947d1db45645fa632bc476b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ビットコイン急落、NVIDIA問題が引き金か 今週は火曜がヤマ場【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/150a91e0f599178e96d29387139483445a757229",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DTCC、米国証券のトークン化サービスを開始──34銘柄で始まったDTSと、CFTCが認めた個別株の永久先物【MCB FinTechカタログ通信】",
+        "url": "https://news.yahoo.co.jp/articles/2a20da327d0680e59e1a598c73f312fab5d8a1bf",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロシア中銀、一般投資家向け暗号資産取引の規則公布。11/17施行へ",
         "url": "https://news.yahoo.co.jp/articles/65acc755e66d7ad8de6a347cdd1d0dbdcb333d75",
         "source": "Yahoo",
@@ -20044,18 +20086,6 @@
       {
         "title": "Stripeが企業間送金を無料化──決済手数料より預かり資金の収益化を狙う",
         "url": "https://news.yahoo.co.jp/articles/60c8d94186f0e1083448431dd5b04fbf7a2ba113",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンスフランス、12/31付で顧客口座閉鎖へ。MiCA認可未取得で",
-        "url": "https://news.yahoo.co.jp/articles/203557f6c72f6762373e8d123d3a19e8728ddbf9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ポリゴンPoSで約7049万POLの回収提案、バイナンスとポリマーケットの不正流出受け",
-        "url": "https://news.yahoo.co.jp/articles/ae5d8062002a415c7947d1db45645fa632bc476b",
         "source": "Yahoo",
         "date": ""
       }
