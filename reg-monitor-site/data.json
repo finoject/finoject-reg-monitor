@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T02:51:25.950Z",
+  "generatedAt": "2026-11-09T04:22:33.930Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）RECEPTIONIST",
+      "url": "https://www.jpx.co.jp/news/1031/20261109_01.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T04:22:33.930Z",
+      "enriched": "2026-11-09T04:22:39.558Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）RECEPTIONIST（コード660A）の新規上場日（11月10日）における初値決定前の気配運用として、板中心値段850円から出発し、上限1,955円（更新値幅43円・10分間隔）、下限638円（通常値幅・3分間隔）で気配を更新。",
+        "注文受付価格範囲は213円以上3,400円以下とし、成行売呼値および成行買呼値を禁止する。取引参加者は板中心値段からの段階的な気配更新ルールに対応した注文管理を実施。",
+        "東京証券取引所が2026年11月10日の上場開始時から初値決定まで適用する特別な気配運用であり、初値決定後は初値を基準とした通常の制限値幅が適用される。"
       ],
       "aiSumV": 3
     },
@@ -19896,6 +19911,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
+        "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン反発の鍵、5つのシグナル──ボラティリティ・建玉・取引所フロー・センチメント・米CPIを読む【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/1509b6c6fba63f96f9495d053bd184ec6203b3d0",
         "source": "Yahoo",
@@ -19922,18 +19943,18 @@
       {
         "title": "ソラナ上海イベント、中国当局が開催阻止──関係者調査へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/715212a6134bb16676282d08ef251d66d77c94ed",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "偽の求人1件で約1兆円流出、バイナンス事件が示す「北朝鮮ハッキングを防ぐ3つの対策」",
-        "url": "https://news.yahoo.co.jp/articles/584a12e49eee3fba34520f32304aae58b0f3ee98",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
+        "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン反発の鍵、5つのシグナル──ボラティリティ・建玉・取引所フロー・センチメント・米CPIを読む【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/1509b6c6fba63f96f9495d053bd184ec6203b3d0",
         "source": "Yahoo",
@@ -19962,15 +19983,15 @@
         "url": "https://news.yahoo.co.jp/articles/715212a6134bb16676282d08ef251d66d77c94ed",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "偽の求人1件で約1兆円流出、バイナンス事件が示す「北朝鮮ハッキングを防ぐ3つの対策」",
-        "url": "https://news.yahoo.co.jp/articles/584a12e49eee3fba34520f32304aae58b0f3ee98",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
+        "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
         "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
@@ -19998,18 +20019,18 @@
       {
         "title": "金融庁、DeFi・DEX規制を優先検討の候補に──野村は海外と同等の自由度求める",
         "url": "https://news.yahoo.co.jp/articles/fff22baeb9bbcd094728273ea602e185e40591b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
-        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
+        "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
         "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
         "source": "Yahoo",
@@ -20036,18 +20057,18 @@
       {
         "title": "金融庁、DeFi・DEX規制を優先検討の候補に──野村は海外と同等の自由度求める",
         "url": "https://news.yahoo.co.jp/articles/fff22baeb9bbcd094728273ea602e185e40591b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
-        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
+        "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
         "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
         "source": "Yahoo",
@@ -20074,12 +20095,6 @@
       {
         "title": "金融庁、DeFi・DEX規制を優先検討の候補に──野村は海外と同等の自由度求める",
         "url": "https://news.yahoo.co.jp/articles/fff22baeb9bbcd094728273ea602e185e40591b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
-        "url": "https://news.yahoo.co.jp/articles/52e0169f795c9a46a243f971f6f9838c7c7f1945",
         "source": "Yahoo",
         "date": ""
       }
@@ -20686,6 +20701,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「２００万ウォンで３日以内に追跡」",
+        "url": "https://news.yahoo.co.jp/articles/f99ec62fa681f7ec25f7a3c16d18efeb539c11f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIで変わるサイバー攻撃 : 国家サイバー統括室の注意喚起から考える企業の対策",
         "url": "https://news.yahoo.co.jp/expert/articles/e65f97444f7f4b2b431a97f5f28142acc6ae3cbb",
         "source": "Yahoo",
@@ -20712,18 +20733,18 @@
       {
         "title": "3:26【独自】「当たり前の業務だった」免許不正流用を元警察官が証言「ダメだったんだと",
         "url": "https://news.yahoo.co.jp/articles/375412d73254fd58fa0e527dfa9d04a79223070b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警の失効免許流用問題「同様の運用ないか確認を」警察庁長官",
-        "url": "https://news.yahoo.co.jp/articles/a5d988fa2ab20cbf78b0ddb46add7d1f1ed23681",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「２００万ウォンで３日以内に追跡」",
+        "url": "https://news.yahoo.co.jp/articles/f99ec62fa681f7ec25f7a3c16d18efeb539c11f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIで変わるサイバー攻撃 : 国家サイバー統括室の注意喚起から考える企業の対策",
         "url": "https://news.yahoo.co.jp/expert/articles/e65f97444f7f4b2b431a97f5f28142acc6ae3cbb",
         "source": "Yahoo",
@@ -20750,18 +20771,18 @@
       {
         "title": "3:26【独自】「当たり前の業務だった」免許不正流用を元警察官が証言「ダメだったんだと",
         "url": "https://news.yahoo.co.jp/articles/375412d73254fd58fa0e527dfa9d04a79223070b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警の失効免許流用問題「同様の運用ないか確認を」警察庁長官",
-        "url": "https://news.yahoo.co.jp/articles/a5d988fa2ab20cbf78b0ddb46add7d1f1ed23681",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「２００万ウォンで３日以内に追跡」",
+        "url": "https://news.yahoo.co.jp/articles/f99ec62fa681f7ec25f7a3c16d18efeb539c11f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIで変わるサイバー攻撃 : 国家サイバー統括室の注意喚起から考える企業の対策",
         "url": "https://news.yahoo.co.jp/expert/articles/e65f97444f7f4b2b431a97f5f28142acc6ae3cbb",
         "source": "Yahoo",
@@ -20788,12 +20809,6 @@
       {
         "title": "3:26【独自】「当たり前の業務だった」免許不正流用を元警察官が証言「ダメだったんだと",
         "url": "https://news.yahoo.co.jp/articles/375412d73254fd58fa0e527dfa9d04a79223070b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "神奈川県警の失効免許流用問題「同様の運用ないか確認を」警察庁長官",
-        "url": "https://news.yahoo.co.jp/articles/a5d988fa2ab20cbf78b0ddb46add7d1f1ed23681",
         "source": "Yahoo",
         "date": ""
       }
