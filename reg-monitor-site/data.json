@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:22:33.930Z",
+  "generatedAt": "2026-11-09T05:54:12.440Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,37 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "消費活動指数",
+      "url": "https://www.boj.or.jp/research/research_data/cai/index.htm",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T05:54:12.440Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は消費活動指数を毎月第5営業日14:00に公表し、2026年4月に2020年基準への改定に伴う見直しを実施、名目値・実質値、旅行収支調整の有無など複数系列を提供している。",
+        "個人消費動向の把握が必要な政策当局・分析担当者は、財・サービス販売統計を基礎とした月次・四半期の消費活動指数（耐久財8.6%、非耐久財44.3%、サービス47.1%）を活用し景気判断に活かすべき。",
+        "季節調整はX-12-ARIMA使用で毎年4月頃全期間データで替え実施、ARIMA次数は原則automdlで選択、曜日・祝日・異常値調整はAICベースで判定（2026年5月時点スペック適用）。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-09T05:54:18.173Z"
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "文部科学省からのパブリック・コメント「次期学習指導要領等に向けた審議まとめ」に対する意見について",
+      "url": "https://jicpa.or.jp/news/information/2026/20261109cbh.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T05:54:12.440Z",
+      "enriched": "2026-11-09T05:54:18.173Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本公認会計士協会は、文部科学省の「次期学習指導要領等に向けた審議まとめ」に対し、中学校社会科公民的分野及び高等学校公民科に会計の事柄を明確に含めるべき旨の意見を2026年11月5日に提出した。",
+        "学校教育機関は、会計情報が金融経済理解の必須要素であり、情報の信ぴょう性検証や根拠に基づく意思決定能力育成に資することを踏まえ、探究的な学習における会計情報の活用を充実させるべき。",
+        "次期学習指導要領（改訂予定）における社会科等での会計事項の位置付けにより、家庭科・情報科・数学科・道徳科等との教科横断的な学習を通じた資質・能力育成が実現される見込み。"
       ],
       "aiSumV": 3
     },
@@ -3822,22 +3853,6 @@
         "本文がバイナリ形式（圧縮ファイル）のため、具体的な数値データ・統計内容を抽出できません。通常のコール市場残高統計では、月中平均残高・取引高・金利等が掲載されます。",
         "日本銀行の定期統計公表物であり、金融機関等の実務担当者は公表された月次データを市場動向把握・資金繰り管理に活用することが想定されます。",
         "毎月定期に公表される統計であり、2026年5月分の結果を2026年6月5日に公表したものと考えられます。具体内容は原文書の正常な取得が必要です。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-07T06:25:34.031Z"
-    },
-    {
-      "agency": "日本銀行",
-      "title": "消費活動指数",
-      "url": "https://www.boj.or.jp/research/research_data/cai/index.htm",
-      "date": "2026-10-07",
-      "detectedAt": "2026-10-07T06:25:29.471Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行は消費活動指数を毎月第5営業日14:00に公表し、2026年4月に2020年基準への改定に伴う見直しを実施、名目値・実質値、旅行収支調整の有無など複数系列を提供している。",
-        "個人消費動向の把握が必要な政策当局・分析担当者は、財・サービス販売統計を基礎とした月次・四半期の消費活動指数（耐久財8.6%、非耐久財44.3%、サービス47.1%）を活用し景気判断に活かすべき。",
-        "季節調整はX-12-ARIMA使用で毎年4月頃全期間データで替え実施、ARIMA次数は原則automdlで選択、曜日・祝日・異常値調整はAICベースで判定（2026年5月時点スペック適用）。"
       ],
       "aiSumV": 3,
       "updated": true,
@@ -19455,6 +19470,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
+        "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "放送禁止級にヤバい",
         "url": "https://news.yahoo.co.jp/articles/2ea70d7111bf7d5edb352cb9a788c2c99584f52d",
         "source": "Yahoo",
@@ -19481,18 +19502,18 @@
       {
         "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
+        "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "放送禁止級にヤバい",
         "url": "https://news.yahoo.co.jp/articles/2ea70d7111bf7d5edb352cb9a788c2c99584f52d",
         "source": "Yahoo",
@@ -19519,18 +19540,18 @@
       {
         "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
+        "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "放送禁止級にヤバい",
         "url": "https://news.yahoo.co.jp/articles/2ea70d7111bf7d5edb352cb9a788c2c99584f52d",
         "source": "Yahoo",
@@ -19557,18 +19578,18 @@
       {
         "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
+        "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "放送禁止級にヤバい",
         "url": "https://news.yahoo.co.jp/articles/2ea70d7111bf7d5edb352cb9a788c2c99584f52d",
         "source": "Yahoo",
@@ -19595,12 +19616,6 @@
       {
         "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
-        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
         "source": "Yahoo",
         "date": ""
       }
@@ -19683,6 +19698,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
+        "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン反発の鍵、5つのシグナル──ボラティリティ・建玉・取引所フロー・センチメント・米CPIを読む【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/1509b6c6fba63f96f9495d053bd184ec6203b3d0",
         "source": "Yahoo",
@@ -19709,18 +19730,18 @@
       {
         "title": "ソラナ上海イベント、中国当局が開催阻止──関係者調査へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/715212a6134bb16676282d08ef251d66d77c94ed",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "偽の求人1件で約1兆円流出、バイナンス事件が示す「北朝鮮ハッキングを防ぐ3つの対策」",
-        "url": "https://news.yahoo.co.jp/articles/584a12e49eee3fba34520f32304aae58b0f3ee98",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
+        "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン反発の鍵、5つのシグナル──ボラティリティ・建玉・取引所フロー・センチメント・米CPIを読む【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/1509b6c6fba63f96f9495d053bd184ec6203b3d0",
         "source": "Yahoo",
@@ -19747,12 +19768,6 @@
       {
         "title": "ソラナ上海イベント、中国当局が開催阻止──関係者調査へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/715212a6134bb16676282d08ef251d66d77c94ed",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "偽の求人1件で約1兆円流出、バイナンス事件が示す「北朝鮮ハッキングを防ぐ3つの対策」",
-        "url": "https://news.yahoo.co.jp/articles/584a12e49eee3fba34520f32304aae58b0f3ee98",
         "source": "Yahoo",
         "date": ""
       }
@@ -19911,6 +19926,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "バイナンスフランス、12/31付で顧客口座閉鎖へ。MiCA認可未取得で",
+        "url": "https://news.yahoo.co.jp/articles/203557f6c72f6762373e8d123d3a19e8728ddbf9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ポリゴンPoSで約7049万POLの回収提案、バイナンスとポリマーケットの不正流出受け",
+        "url": "https://news.yahoo.co.jp/articles/ae5d8062002a415c7947d1db45645fa632bc476b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
         "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
         "source": "Yahoo",
@@ -19931,24 +19958,24 @@
       {
         "title": "AppleとMetaも自社株トークン化に異議──「マグニフィセント・セブン」全社が拒否",
         "url": "https://news.yahoo.co.jp/articles/447f5dd2d66c17fe818c8aaa4853504cf38df110",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "相次ぐ大手企業の「トークン化拒否」、暗号資産業界で激化する攻防戦の内幕",
-        "url": "https://news.yahoo.co.jp/articles/e66ced264abb5f8dc2c9af5d05c714221ea4fc34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナ上海イベント、中国当局が開催阻止──関係者調査へ＝報道",
-        "url": "https://news.yahoo.co.jp/articles/715212a6134bb16676282d08ef251d66d77c94ed",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "バイナンスフランス、12/31付で顧客口座閉鎖へ。MiCA認可未取得で",
+        "url": "https://news.yahoo.co.jp/articles/203557f6c72f6762373e8d123d3a19e8728ddbf9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ポリゴンPoSで約7049万POLの回収提案、バイナンスとポリマーケットの不正流出受け",
+        "url": "https://news.yahoo.co.jp/articles/ae5d8062002a415c7947d1db45645fa632bc476b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
         "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
         "source": "Yahoo",
@@ -19969,18 +19996,6 @@
       {
         "title": "AppleとMetaも自社株トークン化に異議──「マグニフィセント・セブン」全社が拒否",
         "url": "https://news.yahoo.co.jp/articles/447f5dd2d66c17fe818c8aaa4853504cf38df110",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "相次ぐ大手企業の「トークン化拒否」、暗号資産業界で激化する攻防戦の内幕",
-        "url": "https://news.yahoo.co.jp/articles/e66ced264abb5f8dc2c9af5d05c714221ea4fc34",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソラナ上海イベント、中国当局が開催阻止──関係者調査へ＝報道",
-        "url": "https://news.yahoo.co.jp/articles/715212a6134bb16676282d08ef251d66d77c94ed",
         "source": "Yahoo",
         "date": ""
       }
