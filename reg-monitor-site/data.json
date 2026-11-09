@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T01:11:48.083Z",
+  "generatedAt": "2026-11-09T02:51:25.950Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,37 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "三井化学（4183）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T02:51:25.950Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-09T02:51:30.910Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[TOCOM]TOCOM電力先物の取引高が過去最高を更新（2026年10月）",
+      "url": "https://www.jpx.co.jp/news/2041/20261109-01.html",
+      "date": "2026-11-09",
+      "detectedAt": "2026-11-09T02:51:25.950Z",
+      "enriched": "2026-11-09T02:51:30.911Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "TOCOM電力先物市場の2026年10月の取引高は916.8GWh（電力量ベース）となり、2025年3月の901.8GWhを超えて月間取引高として過去最高を更新した。",
+        "電気事業者等の取引参加者は、JJ-Link（先物市場活用型先渡サービス）のフェーズ2（2026年8月31日開始）で、先物取引後の利用申告によりJEPX翌日市場への入札が自動化され、ヘッジ会計認定が容易になる。",
+        "TOCOM電力先物取引の手数料（定率参加料及び清算手数料の合計）は2027年3月31日まで半額相当に割引されるキャンペーンが実施中である。"
       ],
       "aiSumV": 3
     },
@@ -188,22 +219,6 @@
         "有価証券上場規程施行規則第604条第1項第23号及び第24号に基づき、上場廃止となるおそれがあると認められたため指定。取引参加者および投資家は当該銘柄の動向を注視する必要がある。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "昭文社ホールディングス（9475）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-11-06",
-      "detectedAt": "2026-11-06T07:21:45.940Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-11-06T07:21:51.456Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -19443,12 +19458,6 @@
         "date": ""
       },
       {
-        "title": "投資信託を解約すると引かれることがある「信託財産留保額」。有無は目論見書で分かる",
-        "url": "https://news.yahoo.co.jp/articles/1abd7f255ac083243d2a3b5a4fb31d0b5dc5d776",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -19457,6 +19466,12 @@
       {
         "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
         "source": "Yahoo",
         "date": ""
       }
@@ -19481,12 +19496,6 @@
         "date": ""
       },
       {
-        "title": "投資信託を解約すると引かれることがある「信託財産留保額」。有無は目論見書で分かる",
-        "url": "https://news.yahoo.co.jp/articles/1abd7f255ac083243d2a3b5a4fb31d0b5dc5d776",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -19495,6 +19504,12 @@
       {
         "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
         "source": "Yahoo",
         "date": ""
       }
@@ -19519,12 +19534,6 @@
         "date": ""
       },
       {
-        "title": "投資信託を解約すると引かれることがある「信託財産留保額」。有無は目論見書で分かる",
-        "url": "https://news.yahoo.co.jp/articles/1abd7f255ac083243d2a3b5a4fb31d0b5dc5d776",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -19533,6 +19542,12 @@
       {
         "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
         "source": "Yahoo",
         "date": ""
       }
@@ -19557,12 +19572,6 @@
         "date": ""
       },
       {
-        "title": "投資信託を解約すると引かれることがある「信託財産留保額」。有無は目論見書で分かる",
-        "url": "https://news.yahoo.co.jp/articles/1abd7f255ac083243d2a3b5a4fb31d0b5dc5d776",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "暗号資産は非課税なのに消費税が増える？ 「5%算入」で控除が減る事業者とは【泉税理士の「分離課税」解剖連載⑦】",
         "url": "https://news.yahoo.co.jp/articles/8a8fa57dfcccf76ca917f70001e5d9756103ee80",
         "source": "Yahoo",
@@ -19571,6 +19580,12 @@
       {
         "title": "貸会議室大手「TKP」インサイダー事件 元社員と夫に有罪判決 東京地裁",
         "url": "https://news.yahoo.co.jp/articles/9605507f07707397db04afaa345c5801f5fec563",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "元TKP社員と夫に有罪 インサイダー、追徴金1．9億円 東京地裁 貸会議室大手「TKP」の未公開情報を巡るインサイダー取引事件で、金融商品取引法違反罪に問われた同社総務部元社員の細田有紗（37）と夫の正斗（45）",
+        "url": "https://news.yahoo.co.jp/articles/fafc939d0d48df77cbbbd35637a346a3635d0fe3",
         "source": "Yahoo",
         "date": ""
       }
@@ -19653,6 +19668,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ビットコイン反発の鍵、5つのシグナル──ボラティリティ・建玉・取引所フロー・センチメント・米CPIを読む【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/1509b6c6fba63f96f9495d053bd184ec6203b3d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米財務省、暗号資産国際送金の規制強化案を撤回",
         "url": "https://news.yahoo.co.jp/articles/39152144fcb49c292fa372ade3ad4ca1a08d75aa",
         "source": "Yahoo",
@@ -19679,18 +19700,18 @@
       {
         "title": "偽の求人1件で約1兆円流出、バイナンス事件が示す「北朝鮮ハッキングを防ぐ3つの対策」",
         "url": "https://news.yahoo.co.jp/articles/584a12e49eee3fba34520f32304aae58b0f3ee98",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ウォーレン氏の強硬発言、ビットコインにとって見た目ほど悪いニュースではない理由【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/51b50775be7da88f0abdbb2bf656b89dab50c11c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ビットコイン反発の鍵、5つのシグナル──ボラティリティ・建玉・取引所フロー・センチメント・米CPIを読む【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/1509b6c6fba63f96f9495d053bd184ec6203b3d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米財務省、暗号資産国際送金の規制強化案を撤回",
         "url": "https://news.yahoo.co.jp/articles/39152144fcb49c292fa372ade3ad4ca1a08d75aa",
         "source": "Yahoo",
@@ -19717,12 +19738,6 @@
       {
         "title": "偽の求人1件で約1兆円流出、バイナンス事件が示す「北朝鮮ハッキングを防ぐ3つの対策」",
         "url": "https://news.yahoo.co.jp/articles/584a12e49eee3fba34520f32304aae58b0f3ee98",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ウォーレン氏の強硬発言、ビットコインにとって見た目ほど悪いニュースではない理由【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/51b50775be7da88f0abdbb2bf656b89dab50c11c",
         "source": "Yahoo",
         "date": ""
       }
@@ -19881,6 +19896,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ビットコイン反発の鍵、5つのシグナル──ボラティリティ・建玉・取引所フロー・センチメント・米CPIを読む【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/1509b6c6fba63f96f9495d053bd184ec6203b3d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン（BTC）反発が続かない理由──短期保有者の損失とステーブルコイン急減【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/ff2990fb06d5c98b5a227249fb1ff533669cd752",
         "source": "Yahoo",
@@ -19907,18 +19928,18 @@
       {
         "title": "偽の求人1件で約1兆円流出、バイナンス事件が示す「北朝鮮ハッキングを防ぐ3つの対策」",
         "url": "https://news.yahoo.co.jp/articles/584a12e49eee3fba34520f32304aae58b0f3ee98",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "三井住友もブラックロックも──暗号資産事業は減収、それでもなぜSBIは“オンチェーン金融”を攻めるのか【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/554fde3397ddf44ae9038099f45a6aeb9f63bfe6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ビットコイン反発の鍵、5つのシグナル──ボラティリティ・建玉・取引所フロー・センチメント・米CPIを読む【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/1509b6c6fba63f96f9495d053bd184ec6203b3d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン（BTC）反発が続かない理由──短期保有者の損失とステーブルコイン急減【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/ff2990fb06d5c98b5a227249fb1ff533669cd752",
         "source": "Yahoo",
@@ -19945,12 +19966,6 @@
       {
         "title": "偽の求人1件で約1兆円流出、バイナンス事件が示す「北朝鮮ハッキングを防ぐ3つの対策」",
         "url": "https://news.yahoo.co.jp/articles/584a12e49eee3fba34520f32304aae58b0f3ee98",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "三井住友もブラックロックも──暗号資産事業は減収、それでもなぜSBIは“オンチェーン金融”を攻めるのか【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/554fde3397ddf44ae9038099f45a6aeb9f63bfe6",
         "source": "Yahoo",
         "date": ""
       }
