@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T09:27:04.750Z",
+  "generatedAt": "2026-11-10T10:58:08.198Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -20106,6 +20106,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "OKX・ICEのトークン化株式取引計画、マグニフィセント7全社が異議。計67社に",
+        "url": "https://news.yahoo.co.jp/articles/83ae10c0e7fa4236e2f8d1b75a7ae3a334bfa837",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ポルカドット系DeFiのAcalaとKarura、ネットワーク終了案の投票開始",
+        "url": "https://news.yahoo.co.jp/articles/1e9ff780f8742b4e0028b0f35954a96a2e7c6054",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタルガレージ、米サークル関連会社とMOU。決済基盤が「アーク」上のUSDCに対応",
         "url": "https://news.yahoo.co.jp/articles/bf061d2aabced3efece4e22109d969c331c7aa73",
         "source": "Yahoo",
@@ -20126,24 +20138,24 @@
       {
         "title": "バイナンス流出資産、北朝鮮が6種類の自作ミームコインで洗浄か",
         "url": "https://news.yahoo.co.jp/articles/f76389bbdb38f96106e8f9e9068ce015b2e8b706",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース、米OCCから連邦信託銀行設立の最終承認。機関向けカストディ拡大へ",
-        "url": "https://news.yahoo.co.jp/articles/9c7638a5abe6090f5af19fda305df1859534b8b5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニューヨーク証券取引所、トークン化株式の決済にアバランチ採用へ",
-        "url": "https://news.yahoo.co.jp/articles/e1dd17802a19e6f85cdbac0c50dc3376b03d02ce",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "OKX・ICEのトークン化株式取引計画、マグニフィセント7全社が異議。計67社に",
+        "url": "https://news.yahoo.co.jp/articles/83ae10c0e7fa4236e2f8d1b75a7ae3a334bfa837",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ポルカドット系DeFiのAcalaとKarura、ネットワーク終了案の投票開始",
+        "url": "https://news.yahoo.co.jp/articles/1e9ff780f8742b4e0028b0f35954a96a2e7c6054",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "デジタルガレージ、米サークル関連会社とMOU。決済基盤が「アーク」上のUSDCに対応",
         "url": "https://news.yahoo.co.jp/articles/bf061d2aabced3efece4e22109d969c331c7aa73",
         "source": "Yahoo",
@@ -20166,21 +20178,27 @@
         "url": "https://news.yahoo.co.jp/articles/f76389bbdb38f96106e8f9e9068ce015b2e8b706",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "コインベース、米OCCから連邦信託銀行設立の最終承認。機関向けカストディ拡大へ",
-        "url": "https://news.yahoo.co.jp/articles/9c7638a5abe6090f5af19fda305df1859534b8b5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニューヨーク証券取引所、トークン化株式の決済にアバランチ採用へ",
-        "url": "https://news.yahoo.co.jp/articles/e1dd17802a19e6f85cdbac0c50dc3376b03d02ce",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "県内初・ニセ警察詐欺で「金の地金」だまし取られる",
+        "url": "https://news.yahoo.co.jp/articles/be2b3d876e859b0e528a46e279fa5794f2a2a819",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "山形市の50代女性 ニセの警察官をかたる特殊詐欺で4822万円相当の金塊2キロをだまし取られる",
+        "url": "https://news.yahoo.co.jp/articles/9ab9543c3b698cd31f556eef863cdfdf9599dfa2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "2:25「あなたは容疑者」「無実なら協力を」\"金融庁の女\"が金塊2キロを手渡しで受け取る",
+        "url": "https://news.yahoo.co.jp/articles/3253292690da4b86d894f6d0bc1ba22bc3a08759",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "1:25【山形】ニセ警察詐欺 金地金と暗号資産計4850万円相当 だまし取られる被害",
         "url": "https://news.yahoo.co.jp/articles/00d95b7da1641356d65ae3b240897e2ce208f108",
@@ -20196,30 +20214,30 @@
       {
         "title": "「守秘義務を守らないと逮捕する」金塊2キロを駐車場で...被害総額約4850万円相当 犯罪の関与を疑われ50代女性がニセ警察詐欺被害に（山形）",
         "url": "https://news.yahoo.co.jp/articles/46b925e7cc9e591628368edcfeede4ce8895d0c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
-        "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
-        "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
-        "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "県内初・ニセ警察詐欺で「金の地金」だまし取られる",
+        "url": "https://news.yahoo.co.jp/articles/be2b3d876e859b0e528a46e279fa5794f2a2a819",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "山形市の50代女性 ニセの警察官をかたる特殊詐欺で4822万円相当の金塊2キロをだまし取られる",
+        "url": "https://news.yahoo.co.jp/articles/9ab9543c3b698cd31f556eef863cdfdf9599dfa2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "2:25「あなたは容疑者」「無実なら協力を」\"金融庁の女\"が金塊2キロを手渡しで受け取る",
+        "url": "https://news.yahoo.co.jp/articles/3253292690da4b86d894f6d0bc1ba22bc3a08759",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:25【山形】ニセ警察詐欺 金地金と暗号資産計4850万円相当 だまし取られる被害",
         "url": "https://news.yahoo.co.jp/articles/00d95b7da1641356d65ae3b240897e2ce208f108",
         "source": "Yahoo",
@@ -20234,30 +20252,30 @@
       {
         "title": "「守秘義務を守らないと逮捕する」金塊2キロを駐車場で...被害総額約4850万円相当 犯罪の関与を疑われ50代女性がニセ警察詐欺被害に（山形）",
         "url": "https://news.yahoo.co.jp/articles/46b925e7cc9e591628368edcfeede4ce8895d0c6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
-        "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
-        "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
-        "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "県内初・ニセ警察詐欺で「金の地金」だまし取られる",
+        "url": "https://news.yahoo.co.jp/articles/be2b3d876e859b0e528a46e279fa5794f2a2a819",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "山形市の50代女性 ニセの警察官をかたる特殊詐欺で4822万円相当の金塊2キロをだまし取られる",
+        "url": "https://news.yahoo.co.jp/articles/9ab9543c3b698cd31f556eef863cdfdf9599dfa2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "2:25「あなたは容疑者」「無実なら協力を」\"金融庁の女\"が金塊2キロを手渡しで受け取る",
+        "url": "https://news.yahoo.co.jp/articles/3253292690da4b86d894f6d0bc1ba22bc3a08759",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1:25【山形】ニセ警察詐欺 金地金と暗号資産計4850万円相当 だまし取られる被害",
         "url": "https://news.yahoo.co.jp/articles/00d95b7da1641356d65ae3b240897e2ce208f108",
         "source": "Yahoo",
@@ -20274,27 +20292,15 @@
         "url": "https://news.yahoo.co.jp/articles/46b925e7cc9e591628368edcfeede4ce8895d0c6",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
-        "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
-        "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
-        "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "324AC0000000228": [
+      {
+        "title": "北陸の小さな「無料の鉄道連絡船」先行き不透明!? “電車～船～巨大橋”乗り継ぎ 楽しむなら今のうちか ウクライナに侵攻したロシアへの経済制裁の一環として日本政府は2023年8月、外国為替及び外国貿易法（外為法）に基づいて中古車を含む乗用車の輸出規制",
+        "url": "https://news.yahoo.co.jp/articles/7e48212d212a7e0d8217977c8622f3b2e9dd6f9f",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "日本、ロシアに自動車を違法輸出した韓国籍の男性を逮捕",
         "url": "https://news.yahoo.co.jp/articles/ea2f712125624174b9d6ef4070958badc558a96f",
@@ -20322,18 +20328,18 @@
       {
         "title": "ロシアに車不正輸出容疑 韓国籍の男逮捕 浜田海保 ウクライナ侵攻に伴うロシアへの経済制裁で輸出が規制されている中古車を不正輸出したとして、浜田海上保安部（島根県浜田市）は、外為法違反（無承認輸出）容疑で、韓",
         "url": "https://news.yahoo.co.jp/articles/0d34b3eb79a1ec15aba906329cc894b14960a8b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中古車２億２９００万円相当をロシアへ不正輸出し逮捕",
-        "url": "https://news.yahoo.co.jp/articles/03465e5f267280e1fb427be3521090463d3bc293",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "355CO0000000260": [
       {
+        "title": "北陸の小さな「無料の鉄道連絡船」先行き不透明!? “電車～船～巨大橋”乗り継ぎ 楽しむなら今のうちか ウクライナに侵攻したロシアへの経済制裁の一環として日本政府は2023年8月、外国為替及び外国貿易法（外為法）に基づいて中古車を含む乗用車の輸出規制",
+        "url": "https://news.yahoo.co.jp/articles/7e48212d212a7e0d8217977c8622f3b2e9dd6f9f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本、ロシアに自動車を違法輸出した韓国籍の男性を逮捕",
         "url": "https://news.yahoo.co.jp/articles/ea2f712125624174b9d6ef4070958badc558a96f",
         "source": "Yahoo",
@@ -20360,12 +20366,6 @@
       {
         "title": "ロシアに車不正輸出容疑 韓国籍の男逮捕 浜田海保 ウクライナ侵攻に伴うロシアへの経済制裁で輸出が規制されている中古車を不正輸出したとして、浜田海上保安部（島根県浜田市）は、外為法違反（無承認輸出）容疑で、韓",
         "url": "https://news.yahoo.co.jp/articles/0d34b3eb79a1ec15aba906329cc894b14960a8b6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "中古車２億２９００万円相当をロシアへ不正輸出し逮捕",
-        "url": "https://news.yahoo.co.jp/articles/03465e5f267280e1fb427be3521090463d3bc293",
         "source": "Yahoo",
         "date": ""
       }
