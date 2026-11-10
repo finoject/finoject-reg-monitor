@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T23:05:20.193Z",
+  "generatedAt": "2026-11-10T00:36:09.816Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,36 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "貸出・預金動向（10月）",
+      "url": "https://www.boj.or.jp/statistics/dl/depo/kashi/kasi2610.pdf",
+      "date": "2026-11-10",
+      "detectedAt": "2026-11-10T00:36:09.816Z",
+      "enriched": "2026-11-10T00:36:15.860Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年10月末時点で、主要銀行・地域銀行・信用金庫の貸出金平均残高及び預金・譲渡性預金平均残高が前年比でどの程度変化したかを、100万円単位で集計・公表した。",
+        "金融機関の貸出・預金動向を監視する日本銀行が、主要銀行10行、地域銀行I・II、信用金庫、外銀など区分別に月次統計を作成・公表し、金融仲介機能の状況把握に活用している。",
+        "本統計は毎月10日朝8時50分に公表され、定義・対象機関の見直しは銀行等の合併に伴う統計不連続として記録される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融政策決定会合における主な意見（10月29、30日開催分）",
+      "url": "https://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
+      "date": "2026-11-10",
+      "detectedAt": "2026-11-10T00:36:09.816Z",
+      "enriched": "2026-11-10T00:36:15.860Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年10月29、30日の金融政策決定会合で、基調的な物価上昇率が2％の「物価安定の目標」と概ね整合的な水準にあると判断し、政策金利を据え置くことを決定した。",
+        "政策委員会は、経済・物価の先行きを慎重に確認する必要があるため当面は政策金利据え置きとしつつ、今後の経済・物価・金融情勢に応じて段階的に政策金利を引き上げる方針を示した。",
+        "日本銀行は2026年1月に開始したETF売却について、約1年間で市場に大きな影響を与えることなく進められているとして、売却ペースの見直しを検討する時期が到来したとの意見が示された。"
       ],
       "aiSumV": 3
     },
@@ -20031,6 +20061,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "なぜ日本国債をCantonにつなぐのか──Progmat、トークン化を「設計」から「実装」へ",
+        "url": "https://news.yahoo.co.jp/articles/17ffb708985c0c566953af9a31e6a9e4f2803ea0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "北朝鮮ハッカー、自作ミームコインでバイナンス流出資金を洗浄＝Ellipticが報告",
         "url": "https://news.yahoo.co.jp/articles/f5d1351c3bac777b014d1543f1232d07cfb94775",
         "source": "Yahoo",
@@ -20057,18 +20093,18 @@
       {
         "title": "ビットコイン急落、NVIDIA問題が引き金か 今週は火曜がヤマ場【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/150a91e0f599178e96d29387139483445a757229",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DTCC、米国証券のトークン化サービスを開始──34銘柄で始まったDTSと、CFTCが認めた個別株の永久先物【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/2a20da327d0680e59e1a598c73f312fab5d8a1bf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "なぜ日本国債をCantonにつなぐのか──Progmat、トークン化を「設計」から「実装」へ",
+        "url": "https://news.yahoo.co.jp/articles/17ffb708985c0c566953af9a31e6a9e4f2803ea0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "北朝鮮ハッカー、自作ミームコインでバイナンス流出資金を洗浄＝Ellipticが報告",
         "url": "https://news.yahoo.co.jp/articles/f5d1351c3bac777b014d1543f1232d07cfb94775",
         "source": "Yahoo",
@@ -20095,12 +20131,6 @@
       {
         "title": "ビットコイン急落、NVIDIA問題が引き金か 今週は火曜がヤマ場【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/150a91e0f599178e96d29387139483445a757229",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DTCC、米国証券のトークン化サービスを開始──34銘柄で始まったDTSと、CFTCが認めた個別株の永久先物【MCB FinTechカタログ通信】",
-        "url": "https://news.yahoo.co.jp/articles/2a20da327d0680e59e1a598c73f312fab5d8a1bf",
         "source": "Yahoo",
         "date": ""
       }
@@ -20297,6 +20327,18 @@
     ],
     "358AC1000000032": [
       {
+        "title": "借入の上限は年収の3分の1。貸金業者から借りる前に知りたい総量規制と金利の上限",
+        "url": "https://news.yahoo.co.jp/articles/405d3030d654b16b131b51df670f9ac45a2f8cba",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「なんで鍋食べとんですか！ビールまで飲んで！」真冬の夜9時、1,700円を回収するために震えていたノンバンク社員が〈大家〉になって気づいたこと【現役大家CFPが語る実話】",
+        "url": "https://news.yahoo.co.jp/articles/578285c3ba19d0a5d3427f07d7f0fc84181d7d49",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "義父母に500万円の借金があり、夫は援助したいと言っています。自分たちの生活や老後資金も心配ですが、義実家の借金はどこまで援助すべきでしょうか？",
         "url": "https://news.yahoo.co.jp/articles/9098308fbfdedbc0beea52db6c26f25e99b0118e",
         "source": "Yahoo",
@@ -20317,24 +20359,24 @@
       {
         "title": "「元アイドルという職業への偏見」“共産党の論客”が今井絵理子議員へのバッシングに苦言",
         "url": "https://news.yahoo.co.jp/articles/e86ffd6eaf20523eb2d76813172c7fbfb091c8a9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
-        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "指名手配のベトナム人、無断横断で御用",
-        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
+        "title": "借入の上限は年収の3分の1。貸金業者から借りる前に知りたい総量規制と金利の上限",
+        "url": "https://news.yahoo.co.jp/articles/405d3030d654b16b131b51df670f9ac45a2f8cba",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「なんで鍋食べとんですか！ビールまで飲んで！」真冬の夜9時、1,700円を回収するために震えていたノンバンク社員が〈大家〉になって気づいたこと【現役大家CFPが語る実話】",
+        "url": "https://news.yahoo.co.jp/articles/578285c3ba19d0a5d3427f07d7f0fc84181d7d49",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "義父母に500万円の借金があり、夫は援助したいと言っています。自分たちの生活や老後資金も心配ですが、義実家の借金はどこまで援助すべきでしょうか？",
         "url": "https://news.yahoo.co.jp/articles/9098308fbfdedbc0beea52db6c26f25e99b0118e",
         "source": "Yahoo",
@@ -20355,24 +20397,24 @@
       {
         "title": "「元アイドルという職業への偏見」“共産党の論客”が今井絵理子議員へのバッシングに苦言",
         "url": "https://news.yahoo.co.jp/articles/e86ffd6eaf20523eb2d76813172c7fbfb091c8a9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
-        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "指名手配のベトナム人、無断横断で御用",
-        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
+        "title": "借入の上限は年収の3分の1。貸金業者から借りる前に知りたい総量規制と金利の上限",
+        "url": "https://news.yahoo.co.jp/articles/405d3030d654b16b131b51df670f9ac45a2f8cba",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "「なんで鍋食べとんですか！ビールまで飲んで！」真冬の夜9時、1,700円を回収するために震えていたノンバンク社員が〈大家〉になって気づいたこと【現役大家CFPが語る実話】",
+        "url": "https://news.yahoo.co.jp/articles/578285c3ba19d0a5d3427f07d7f0fc84181d7d49",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "義父母に500万円の借金があり、夫は援助したいと言っています。自分たちの生活や老後資金も心配ですが、義実家の借金はどこまで援助すべきでしょうか？",
         "url": "https://news.yahoo.co.jp/articles/9098308fbfdedbc0beea52db6c26f25e99b0118e",
         "source": "Yahoo",
@@ -20393,18 +20435,6 @@
       {
         "title": "「元アイドルという職業への偏見」“共産党の論客”が今井絵理子議員へのバッシングに苦言",
         "url": "https://news.yahoo.co.jp/articles/e86ffd6eaf20523eb2d76813172c7fbfb091c8a9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
-        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "指名手配のベトナム人、無断横断で御用",
-        "url": "https://news.yahoo.co.jp/articles/4835c7c09b5ce83ecc8209d9a7e288001abb05b6",
         "source": "Yahoo",
         "date": ""
       }
