@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:56:24.892Z",
+  "generatedAt": "2026-11-10T09:27:04.750Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -20106,6 +20106,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "デジタルガレージ、米サークル関連会社とMOU。決済基盤が「アーク」上のUSDCに対応",
+        "url": "https://news.yahoo.co.jp/articles/bf061d2aabced3efece4e22109d969c331c7aa73",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ニュージーランド金融市場庁、一部のNZドル建てステーブルコインを金融商品から除外する案で意見募集",
         "url": "https://news.yahoo.co.jp/articles/dc06b5b4e50646a17a67cd826328cf7332ec4073",
         "source": "Yahoo",
@@ -20132,18 +20138,18 @@
       {
         "title": "ニューヨーク証券取引所、トークン化株式の決済にアバランチ採用へ",
         "url": "https://news.yahoo.co.jp/articles/e1dd17802a19e6f85cdbac0c50dc3376b03d02ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米PNC銀行、法人・機関向けにUSDC決済の受取を試験提供。コインベースと",
-        "url": "https://news.yahoo.co.jp/articles/99d6900530da01218d0db041fffdf9484e691d6c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "デジタルガレージ、米サークル関連会社とMOU。決済基盤が「アーク」上のUSDCに対応",
+        "url": "https://news.yahoo.co.jp/articles/bf061d2aabced3efece4e22109d969c331c7aa73",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ニュージーランド金融市場庁、一部のNZドル建てステーブルコインを金融商品から除外する案で意見募集",
         "url": "https://news.yahoo.co.jp/articles/dc06b5b4e50646a17a67cd826328cf7332ec4073",
         "source": "Yahoo",
@@ -20170,12 +20176,6 @@
       {
         "title": "ニューヨーク証券取引所、トークン化株式の決済にアバランチ採用へ",
         "url": "https://news.yahoo.co.jp/articles/e1dd17802a19e6f85cdbac0c50dc3376b03d02ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米PNC銀行、法人・機関向けにUSDC決済の受取を試験提供。コインベースと",
-        "url": "https://news.yahoo.co.jp/articles/99d6900530da01218d0db041fffdf9484e691d6c",
         "source": "Yahoo",
         "date": ""
       }
