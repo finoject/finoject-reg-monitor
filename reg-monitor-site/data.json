@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T04:40:39.361Z",
+  "generatedAt": "2026-11-10T06:25:04.141Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,53 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "加地テック（6391）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-11-10",
+      "detectedAt": "2026-11-10T06:25:04.141Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-10T06:25:08.352Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "公社債発行額・償還額等",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/hakkou/index.html",
+      "date": "2026-11-10",
+      "detectedAt": "2026-11-10T06:25:04.141Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "クライメート・トランジション利付国庫債券（GX国債）は2024年2月から発行予定であり、公社債店頭売買参考統計値及び公社債店頭売買高等の統計情報における取扱いは既発の国債と同様に扱われることになった。",
+        "指定報告協会員は、GX国債に係る報告対象銘柄を「届出不要銘柄」として扱い、入札アナウンスメント日に報告を開始し、銘柄種別は「国債.02」又は「国債.03」で報告する必要がある。",
+        "GX国債の銘柄名は「GX」と「国債種別」の間に半角スペースを入れない形式（例：GX長期国債WI-00、GXコツコサイWI10ネン/00ガツ）で、既発の利付国債と同様に同年限の通常国債の次に掲載される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-10T06:25:08.352Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）加地テック",
+      "url": "https://www.jpx.co.jp/news/1023/20261110-11.html",
+      "date": "2026-11-10",
+      "detectedAt": "2026-11-10T06:25:04.141Z",
+      "enriched": "2026-11-10T06:25:08.352Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）加地テック（コード6391、スタンダード市場）は、CSRI17号株式会社による公開買付け成立後、特定の者以外の株主の全株式を1株未満の端数とする併合を行う予定のため監理銘柄（確認中）に指定された。",
+        "同社および公開買付者は、株主総会での併合議案の付議・承認から上場廃止基準判定までの期間、東証の監視下に置かれることになり、有価証券上場規程施行規則第604条第1項第24号に該当する状態となる。",
+        "指定期間は2026年11月10日から東証が上場廃止基準該当性を認定する日までで、公開買付け成立後の上場廃止手続きの進行に伴い、東証は基準該当性を随時判定する。"
       ],
       "aiSumV": 3
     },
@@ -259,22 +306,6 @@
         "東京証券取引所が2026年11月10日の上場開始時から初値決定まで適用する特別な気配運用であり、初値決定後は初値を基準とした通常の制限値幅が適用される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "三井化学（4183）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-11-09",
-      "detectedAt": "2026-11-09T02:51:25.950Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-11-09T02:51:30.910Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -3505,22 +3536,6 @@
         "フェイルは国債DVP決済で予定決済日を経過しても対象債券が受け渡されない状態を指し、日本証券業協会規則またはJSCC規定に基づくバイ・イン手続で解消される（日銀金融市場局発表）。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "公社債発行額・償還額等",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/hakkou/index.html",
-      "date": "2026-10-13",
-      "detectedAt": "2026-10-13T06:52:44.771Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "クライメート・トランジション利付国庫債券（GX国債）は2024年2月から発行予定であり、公社債店頭売買参考統計値及び公社債店頭売買高等の統計情報における取扱いは既発の国債と同様に扱われることになった。",
-        "指定報告協会員は、GX国債に係る報告対象銘柄を「届出不要銘柄」として扱い、入札アナウンスメント日に報告を開始し、銘柄種別は「国債.02」又は「国債.03」で報告する必要がある。",
-        "GX国債の銘柄名は「GX」と「国債種別」の間に半角スペースを入れない形式（例：GX長期国債WI-00、GXコツコサイWI10ネン/00ガツ）で、既発の利付国債と同様に同年限の通常国債の次に掲載される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-13T06:52:50.685Z"
     },
     {
       "agency": "日本証券業協会",
@@ -19848,6 +19863,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "米ウォーレン議員、予測市場の監視強化へ。上院銀行委員長就任を見通す",
+        "url": "https://news.yahoo.co.jp/articles/cc1c8c6e9481bae2bff82fe921ec25f051a356be",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ノルウェー、データ拠点建設抑制へ 大規模クラウド事業者の進出規制",
+        "url": "https://news.yahoo.co.jp/articles/4291e894e5d165f7a2a80b3806946850bbb0458e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ニューヨーク証券取引所、トークン化株式の決済にアバランチ採用へ",
         "url": "https://news.yahoo.co.jp/articles/e1dd17802a19e6f85cdbac0c50dc3376b03d02ce",
         "source": "Yahoo",
@@ -19868,24 +19895,24 @@
       {
         "title": "ビットコイン7.4万ドル台、週末の清算売り響き米株高に乗れず",
         "url": "https://news.yahoo.co.jp/articles/1349e281e6d3a6c19f1d58e3b1408768e89d5839",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベースに連邦免許 米通貨監督庁が信託会社を最終承認、条件付きから7カ月",
-        "url": "https://news.yahoo.co.jp/articles/d57069e5b1f38013fc767fb1d25cd525033aef3e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、イラン関連取引巡りカナダのマネーサービス事業者らに制裁",
-        "url": "https://news.yahoo.co.jp/articles/8633cd6a945e33effc64944455f15d0d56dd8c34",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米ウォーレン議員、予測市場の監視強化へ。上院銀行委員長就任を見通す",
+        "url": "https://news.yahoo.co.jp/articles/cc1c8c6e9481bae2bff82fe921ec25f051a356be",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ノルウェー、データ拠点建設抑制へ 大規模クラウド事業者の進出規制",
+        "url": "https://news.yahoo.co.jp/articles/4291e894e5d165f7a2a80b3806946850bbb0458e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ニューヨーク証券取引所、トークン化株式の決済にアバランチ採用へ",
         "url": "https://news.yahoo.co.jp/articles/e1dd17802a19e6f85cdbac0c50dc3376b03d02ce",
         "source": "Yahoo",
@@ -19906,18 +19933,6 @@
       {
         "title": "ビットコイン7.4万ドル台、週末の清算売り響き米株高に乗れず",
         "url": "https://news.yahoo.co.jp/articles/1349e281e6d3a6c19f1d58e3b1408768e89d5839",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベースに連邦免許 米通貨監督庁が信託会社を最終承認、条件付きから7カ月",
-        "url": "https://news.yahoo.co.jp/articles/d57069e5b1f38013fc767fb1d25cd525033aef3e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米財務省、イラン関連取引巡りカナダのマネーサービス事業者らに制裁",
-        "url": "https://news.yahoo.co.jp/articles/8633cd6a945e33effc64944455f15d0d56dd8c34",
         "source": "Yahoo",
         "date": ""
       }
@@ -20076,6 +20091,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "バイナンス流出資産、北朝鮮が6種類の自作ミームコインで洗浄か",
+        "url": "https://news.yahoo.co.jp/articles/f76389bbdb38f96106e8f9e9068ce015b2e8b706",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベース、米OCCから連邦信託銀行設立の最終承認。機関向けカストディ拡大へ",
+        "url": "https://news.yahoo.co.jp/articles/9c7638a5abe6090f5af19fda305df1859534b8b5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ニューヨーク証券取引所、トークン化株式の決済にアバランチ採用へ",
         "url": "https://news.yahoo.co.jp/articles/e1dd17802a19e6f85cdbac0c50dc3376b03d02ce",
         "source": "Yahoo",
@@ -20096,24 +20123,24 @@
       {
         "title": "北朝鮮ハッカー、盗んだ暗号資産の交換で1億1900万ドルの損失",
         "url": "https://news.yahoo.co.jp/articles/a66e42218efc7b1d3bae36fb47cdd5475d05335f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜ日本国債をCantonにつなぐのか──Progmat、トークン化を「設計」から「実装」へ",
-        "url": "https://news.yahoo.co.jp/articles/17ffb708985c0c566953af9a31e6a9e4f2803ea0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮ハッカー、自作ミームコインでバイナンス流出資金を洗浄＝Ellipticが報告",
-        "url": "https://news.yahoo.co.jp/articles/f5d1351c3bac777b014d1543f1232d07cfb94775",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "バイナンス流出資産、北朝鮮が6種類の自作ミームコインで洗浄か",
+        "url": "https://news.yahoo.co.jp/articles/f76389bbdb38f96106e8f9e9068ce015b2e8b706",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベース、米OCCから連邦信託銀行設立の最終承認。機関向けカストディ拡大へ",
+        "url": "https://news.yahoo.co.jp/articles/9c7638a5abe6090f5af19fda305df1859534b8b5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ニューヨーク証券取引所、トークン化株式の決済にアバランチ採用へ",
         "url": "https://news.yahoo.co.jp/articles/e1dd17802a19e6f85cdbac0c50dc3376b03d02ce",
         "source": "Yahoo",
@@ -20134,18 +20161,6 @@
       {
         "title": "北朝鮮ハッカー、盗んだ暗号資産の交換で1億1900万ドルの損失",
         "url": "https://news.yahoo.co.jp/articles/a66e42218efc7b1d3bae36fb47cdd5475d05335f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜ日本国債をCantonにつなぐのか──Progmat、トークン化を「設計」から「実装」へ",
-        "url": "https://news.yahoo.co.jp/articles/17ffb708985c0c566953af9a31e6a9e4f2803ea0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮ハッカー、自作ミームコインでバイナンス流出資金を洗浄＝Ellipticが報告",
-        "url": "https://news.yahoo.co.jp/articles/f5d1351c3bac777b014d1543f1232d07cfb94775",
         "source": "Yahoo",
         "date": ""
       }
