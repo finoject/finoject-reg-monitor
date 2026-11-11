@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T23:05:50.951Z",
+  "generatedAt": "2026-11-11T00:36:55.131Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "マネーストック（10月）",
+      "url": "https://www.boj.or.jp/statistics/money/ms/ms2610.pdf",
+      "date": "2026-11-11",
+      "detectedAt": "2026-11-11T00:36:55.131Z",
+      "enriched": "2026-11-11T00:36:59.915Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年10月のM2は前年同月比1.7%、M3は0.9%の伸びで、季調済前月比ではM2がマイナス0.4%、M3がマイナス0.8%となり、前月から減速した。",
+        "日本銀行は毎月11日8時50分にマネーストック速報を公表し、M1・M2・M3等の主要指標の前年同月比伸び率と季調済前月比を提供する。",
+        "マネーストック統計は日本銀行調査統計局が発表する公式統計で、通貨供給量の動向把握に用いられ、金融政策判断の基礎資料となる。"
       ],
       "aiSumV": 3
     },
@@ -19878,6 +19893,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "個別株の永久先物を巡る法廷闘争が激化──Coinbaseなど6社がCFTC擁護の意見書提出へ",
+        "url": "https://news.yahoo.co.jp/articles/fabbe9950e5f88108bc9e11063a99accea3b78b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ニュージーランド金融市場庁、一部のNZドル建てステーブルコインを金融商品から除外する案で意見募集",
         "url": "https://news.yahoo.co.jp/articles/dc06b5b4e50646a17a67cd826328cf7332ec4073",
         "source": "Yahoo",
@@ -19904,18 +19925,18 @@
       {
         "title": "エリート投資家たちがロンドンで語ったAIバブル、雇用の先行き、そしてイーロン・マスク（海外）",
         "url": "https://news.yahoo.co.jp/articles/a8ac73be9c703d9a9e421c60bf06019c3e1483e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アングル：「永久先物」に揺れる米金融街、新たなリスク警戒 政権が導入推進",
-        "url": "https://news.yahoo.co.jp/articles/712874e3390c4ef12e4d4e702ef464e9b903a5b9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "個別株の永久先物を巡る法廷闘争が激化──Coinbaseなど6社がCFTC擁護の意見書提出へ",
+        "url": "https://news.yahoo.co.jp/articles/fabbe9950e5f88108bc9e11063a99accea3b78b9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ニュージーランド金融市場庁、一部のNZドル建てステーブルコインを金融商品から除外する案で意見募集",
         "url": "https://news.yahoo.co.jp/articles/dc06b5b4e50646a17a67cd826328cf7332ec4073",
         "source": "Yahoo",
@@ -19942,12 +19963,6 @@
       {
         "title": "エリート投資家たちがロンドンで語ったAIバブル、雇用の先行き、そしてイーロン・マスク（海外）",
         "url": "https://news.yahoo.co.jp/articles/a8ac73be9c703d9a9e421c60bf06019c3e1483e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アングル：「永久先物」に揺れる米金融街、新たなリスク警戒 政権が導入推進",
-        "url": "https://news.yahoo.co.jp/articles/712874e3390c4ef12e4d4e702ef464e9b903a5b9",
         "source": "Yahoo",
         "date": ""
       }
@@ -20030,6 +20045,12 @@
     ],
     "422M60000002003": [
       {
+        "title": "ステーブルコイン普及、カギは「受け入れる企業」──百貨店 松屋社長が語った会計・監査の現実",
+        "url": "https://news.yahoo.co.jp/articles/aa54fc99264afd9493d4a4d8786f3002a088aeb7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【情報漏えい】ブックオフ等で相次ぐ公表。貯めたポイントは補償される？確認すべき3つの注意点",
         "url": "https://news.yahoo.co.jp/articles/441a78eb095ffa6a7e84f9d518d039c6bc0edf97",
         "source": "Yahoo",
@@ -20056,18 +20077,18 @@
       {
         "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "改札で0.3秒遅れ、運賃“割引”もなし",
-        "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-05": [
       {
+        "title": "ステーブルコイン普及、カギは「受け入れる企業」──百貨店 松屋社長が語った会計・監査の現実",
+        "url": "https://news.yahoo.co.jp/articles/aa54fc99264afd9493d4a4d8786f3002a088aeb7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【情報漏えい】ブックオフ等で相次ぐ公表。貯めたポイントは補償される？確認すべき3つの注意点",
         "url": "https://news.yahoo.co.jp/articles/441a78eb095ffa6a7e84f9d518d039c6bc0edf97",
         "source": "Yahoo",
@@ -20096,15 +20117,15 @@
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "改札で0.3秒遅れ、運賃“割引”もなし",
-        "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "505M60000002048": [
+      {
+        "title": "ステーブルコイン普及、カギは「受け入れる企業」──百貨店 松屋社長が語った会計・監査の現実",
+        "url": "https://news.yahoo.co.jp/articles/aa54fc99264afd9493d4a4d8786f3002a088aeb7",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "ビットコイン、底打ちは近いのか──強気指数20と現物需要28.4万BTC減少が示す市場の転換点【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5bd4f6cb65c9020889c7f86f68f4a30329b86baf",
@@ -20132,18 +20153,18 @@
       {
         "title": "デジタルガレージ、米サークル関連会社とMOU。決済基盤が「アーク」上のUSDCに対応",
         "url": "https://news.yahoo.co.jp/articles/bf061d2aabced3efece4e22109d969c331c7aa73",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニュージーランド金融市場庁、一部のNZドル建てステーブルコインを金融商品から除外する案で意見募集",
-        "url": "https://news.yahoo.co.jp/articles/dc06b5b4e50646a17a67cd826328cf7332ec4073",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ステーブルコイン普及、カギは「受け入れる企業」──百貨店 松屋社長が語った会計・監査の現実",
+        "url": "https://news.yahoo.co.jp/articles/aa54fc99264afd9493d4a4d8786f3002a088aeb7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン、底打ちは近いのか──強気指数20と現物需要28.4万BTC減少が示す市場の転換点【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/5bd4f6cb65c9020889c7f86f68f4a30329b86baf",
         "source": "Yahoo",
@@ -20170,12 +20191,6 @@
       {
         "title": "デジタルガレージ、米サークル関連会社とMOU。決済基盤が「アーク」上のUSDCに対応",
         "url": "https://news.yahoo.co.jp/articles/bf061d2aabced3efece4e22109d969c331c7aa73",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニュージーランド金融市場庁、一部のNZドル建てステーブルコインを金融商品から除外する案で意見募集",
-        "url": "https://news.yahoo.co.jp/articles/dc06b5b4e50646a17a67cd826328cf7332ec4073",
         "source": "Yahoo",
         "date": ""
       }
@@ -20188,7 +20203,7 @@
         "date": ""
       },
       {
-        "title": "山形市の50代女性 ニセの警察官をかたる特殊詐欺で4822万円相当の金塊2キロをだまし取られる",
+        "title": "1:44山形市の50代女性 ニセの警察官をかたる特殊詐欺で4822万円相当の金塊2キロをだまし取られる",
         "url": "https://news.yahoo.co.jp/articles/9ab9543c3b698cd31f556eef863cdfdf9599dfa2",
         "source": "Yahoo",
         "date": ""
@@ -20226,7 +20241,7 @@
         "date": ""
       },
       {
-        "title": "山形市の50代女性 ニセの警察官をかたる特殊詐欺で4822万円相当の金塊2キロをだまし取られる",
+        "title": "1:44山形市の50代女性 ニセの警察官をかたる特殊詐欺で4822万円相当の金塊2キロをだまし取られる",
         "url": "https://news.yahoo.co.jp/articles/9ab9543c3b698cd31f556eef863cdfdf9599dfa2",
         "source": "Yahoo",
         "date": ""
@@ -20264,7 +20279,7 @@
         "date": ""
       },
       {
-        "title": "山形市の50代女性 ニセの警察官をかたる特殊詐欺で4822万円相当の金塊2キロをだまし取られる",
+        "title": "1:44山形市の50代女性 ニセの警察官をかたる特殊詐欺で4822万円相当の金塊2キロをだまし取られる",
         "url": "https://news.yahoo.co.jp/articles/9ab9543c3b698cd31f556eef863cdfdf9599dfa2",
         "source": "Yahoo",
         "date": ""
