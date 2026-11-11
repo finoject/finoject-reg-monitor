@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:25:53.239Z",
+  "generatedAt": "2026-11-11T07:56:54.560Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,67 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-11-11",
+      "detectedAt": "2026-11-11T07:56:54.560Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-11T07:57:01.765Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：iシェアーズ 米国成長株式 キャピタル ＆ プレミアムインカム アクティブ ETF（ブラックロック･ジャパン）",
+      "url": "https://www.jpx.co.jp/news/1070/20261111.html",
+      "date": "2026-11-11",
+      "detectedAt": "2026-11-11T07:56:54.560Z",
+      "enriched": "2026-11-11T07:57:01.766Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ブラックロック・ジャパンが運用するアクティブ型ETF（銘柄コード675A）の東証上場が承認され、上場予定日は2026年12月2日。信託報酬は0.550％（税込0.605％）以内、売買単位は10口、毎月18日に分配金支払。",
+        "証券会社は本ETFを特定口座での取扱いが可能な内国ETFとして全国で販売可能。投資者は連動指数がないアクティブETFの特性、基準価額がベンチマークから乖離する可能性、インディカティブNAVが適正価格と常に一致しない点を認識して売買判断を行うべき。",
+        "本承認は日本取引所自主規制法人の審査に基づき決定。租税特別措置法第9条の4の2に規定する上場証券投資信託等受益証券。管理会社はブラックロック・ジャパン、信託受託者は三菱ＵＦＪ信託銀行、指定参加者は野村證券・ＢＮＰパリバ証券。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261111-01.html",
+      "date": "2026-11-11",
+      "detectedAt": "2026-11-11T07:56:54.560Z",
+      "enriched": "2026-11-11T07:57:01.766Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)トヨコー(コード341A)の制限値幅下限が1,200円に拡大され、上限は通常通り300円。基準値段1,181円、ストップ安1円。2営業日連続でストップ高安となり売買高0株であったことが理由。",
+        "取引参加者及び投資家は、11月12日の当該銘柄取引時に拡大された制限値幅(下限1,200円)での売買を適用対象とし、特に成行注文の場合は予期しない値段での約定に注意すること。",
+        "11月12日以降、ストップ高安以外の値段で売買成立した翌営業日から通常の制限値幅に戻る。東証の制限値幅ルール（ストップ高安が2営業日連続時の拡大措置）に基づく適用。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]CredNexがPM Award 2026で優秀プロジェクト賞を受賞",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20261111-01.html",
+      "date": "2026-11-11",
+      "detectedAt": "2026-11-11T07:56:54.560Z",
+      "enriched": "2026-11-11T07:57:01.766Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所及びJPX総研が富士通と共同構築したETF設定・交換プラットフォーム「CredNex」が、2026年PM Award 2026で優秀プロジェクト賞を受賞した。",
+        "運用会社・指定参加者・信託銀行・マーケットメイカーの市場参加者は、CredNexにより電話・メール・手作業から電子化された統一基盤での業務処理へ移行し、設定・交換申込から承認までの時間を分単位に短縮できる。",
+        "CredNexはETF設定・交換業務の自動化・高速化により市場参加者の業界横断課題を解決し、投資家への適正価格での安心取引環境実現に寄与するプラットフォームとして機能している。"
       ],
       "aiSumV": 3
     },
@@ -767,22 +828,6 @@
         "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
         "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
         "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-11-05T07:21:01.499Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-11-05",
-      "detectedAt": "2026-11-05T07:20:56.099Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
       ],
       "aiSumV": 3,
       "enriched": "2026-11-05T07:21:01.499Z"
@@ -19908,6 +19953,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "バイナンス、MEXC関連取引を制限。送金拒否や入金保留を実施",
+        "url": "https://news.yahoo.co.jp/articles/6ca917576d6800c809952b24b392475fbe394be8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ゴールドマンやシティなど、共同ステーブルコイン会社に約2.7億ドル拠出へ＝報道v",
+        "url": "https://news.yahoo.co.jp/articles/1600f23d5483ae0d78eed93f21d1667cf26cf6f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインベースやカルシなど6社、米個別株の無期限先物の取引差止めに反対。地裁が意見書提出を許可",
         "url": "https://news.yahoo.co.jp/articles/f9489f17450f10db24cf1ecfc3596938381e11fa",
         "source": "Yahoo",
@@ -19928,24 +19985,24 @@
       {
         "title": "米ウォーレン議員、予測市場の監視強化へ。上院銀行委員長就任を見通す",
         "url": "https://news.yahoo.co.jp/articles/cc1c8c6e9481bae2bff82fe921ec25f051a356be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ノルウェー、データ拠点建設抑制へ 大規模クラウド事業者の進出規制",
-        "url": "https://news.yahoo.co.jp/articles/4291e894e5d165f7a2a80b3806946850bbb0458e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニューヨーク証券取引所、トークン化株式の決済にアバランチ採用へ",
-        "url": "https://news.yahoo.co.jp/articles/e1dd17802a19e6f85cdbac0c50dc3376b03d02ce",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "バイナンス、MEXC関連取引を制限。送金拒否や入金保留を実施",
+        "url": "https://news.yahoo.co.jp/articles/6ca917576d6800c809952b24b392475fbe394be8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ゴールドマンやシティなど、共同ステーブルコイン会社に約2.7億ドル拠出へ＝報道v",
+        "url": "https://news.yahoo.co.jp/articles/1600f23d5483ae0d78eed93f21d1667cf26cf6f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインベースやカルシなど6社、米個別株の無期限先物の取引差止めに反対。地裁が意見書提出を許可",
         "url": "https://news.yahoo.co.jp/articles/f9489f17450f10db24cf1ecfc3596938381e11fa",
         "source": "Yahoo",
@@ -19966,18 +20023,6 @@
       {
         "title": "米ウォーレン議員、予測市場の監視強化へ。上院銀行委員長就任を見通す",
         "url": "https://news.yahoo.co.jp/articles/cc1c8c6e9481bae2bff82fe921ec25f051a356be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ノルウェー、データ拠点建設抑制へ 大規模クラウド事業者の進出規制",
-        "url": "https://news.yahoo.co.jp/articles/4291e894e5d165f7a2a80b3806946850bbb0458e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニューヨーク証券取引所、トークン化株式の決済にアバランチ採用へ",
-        "url": "https://news.yahoo.co.jp/articles/e1dd17802a19e6f85cdbac0c50dc3376b03d02ce",
         "source": "Yahoo",
         "date": ""
       }
@@ -20060,12 +20105,6 @@
     ],
     "422M60000002003": [
       {
-        "title": "ステーブルコイン普及、カギは「受け入れる企業」──百貨店 松屋社長が語った会計・監査の現実",
-        "url": "https://news.yahoo.co.jp/articles/aa54fc99264afd9493d4a4d8786f3002a088aeb7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "【情報漏えい】ブックオフ等で相次ぐ公表。貯めたポイントは補償される？確認すべき3つの注意点",
         "url": "https://news.yahoo.co.jp/articles/441a78eb095ffa6a7e84f9d518d039c6bc0edf97",
         "source": "Yahoo",
@@ -20092,18 +20131,18 @@
       {
         "title": "久しぶりに電子マネーを使おうとしたら、残高「2万円」が有効期限切れで使えなくなっていました",
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "改札で0.3秒遅れ、運賃“割引”もなし",
+        "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-05": [
       {
-        "title": "ステーブルコイン普及、カギは「受け入れる企業」──百貨店 松屋社長が語った会計・監査の現実",
-        "url": "https://news.yahoo.co.jp/articles/aa54fc99264afd9493d4a4d8786f3002a088aeb7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "【情報漏えい】ブックオフ等で相次ぐ公表。貯めたポイントは補償される？確認すべき3つの注意点",
         "url": "https://news.yahoo.co.jp/articles/441a78eb095ffa6a7e84f9d518d039c6bc0edf97",
         "source": "Yahoo",
@@ -20132,9 +20171,39 @@
         "url": "https://news.yahoo.co.jp/articles/57accbf2b46b5ac2972dab532b5b94037499da61",
         "source": "Yahoo",
         "date": ""
+      },
+      {
+        "title": "改札で0.3秒遅れ、運賃“割引”もなし",
+        "url": "https://news.yahoo.co.jp/articles/dd5191c01086e744b2929a58797ee6280f9c8a76",
+        "source": "Yahoo",
+        "date": ""
       }
     ],
     "505M60000002048": [
+      {
+        "title": "RWA特化チェーン「プルーム」関連キンバー、米SEC登録とFINRA会員資格を取得",
+        "url": "https://news.yahoo.co.jp/articles/1b49fedac21ff2186f9035451484672c693ee7f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ゴールドマンやシティなど、共同ステーブルコイン会社に約2.7億ドル拠出へ＝報道v",
+        "url": "https://news.yahoo.co.jp/articles/1600f23d5483ae0d78eed93f21d1667cf26cf6f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ジュピター、トークン一括購入や利回り運用など4製品を展開へ、オンチェーン資産管理を統合",
+        "url": "https://news.yahoo.co.jp/articles/1c161305f6f17341e1808b7d30b5b5d1c9a1b76d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン、200日線での攻防 CPIで0.5％利上げ観測浮上【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/13bfaf49e2d80a15205fa52566e86aa566bbc8c5",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "データチェーン、三井住友銀行のオンチェーン金融インフラ構築に向け技術検討を支援",
         "url": "https://news.yahoo.co.jp/articles/8ddc3f366a5b21d6b825305550bb0167ab18c083",
@@ -20144,36 +20213,36 @@
       {
         "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」全プログラム決定──片山財務大臣、小池都知事、3メガバンク・2大証券ら登壇",
         "url": "https://news.yahoo.co.jp/articles/20442da073343992a94bc399b1fcde762dc4051f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタルガレージのステーブルコイン決済、米サークル「Arc」対応",
-        "url": "https://news.yahoo.co.jp/articles/8b01165b72a9b10d24fb9544ca5bb1bb0812adf5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン普及、カギは「受け入れる企業」──百貨店 松屋社長が語った会計・監査の現実",
-        "url": "https://news.yahoo.co.jp/articles/aa54fc99264afd9493d4a4d8786f3002a088aeb7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、底打ちは近いのか──強気指数20と現物需要28.4万BTC減少が示す市場の転換点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5bd4f6cb65c9020889c7f86f68f4a30329b86baf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴールドマンやシティ、ステーブルコイン事業に約429億円拠出へ",
-        "url": "https://news.yahoo.co.jp/articles/7c3aa3828702b8bb036a92d76fd47dd610796ece",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "RWA特化チェーン「プルーム」関連キンバー、米SEC登録とFINRA会員資格を取得",
+        "url": "https://news.yahoo.co.jp/articles/1b49fedac21ff2186f9035451484672c693ee7f6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ゴールドマンやシティなど、共同ステーブルコイン会社に約2.7億ドル拠出へ＝報道v",
+        "url": "https://news.yahoo.co.jp/articles/1600f23d5483ae0d78eed93f21d1667cf26cf6f8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ジュピター、トークン一括購入や利回り運用など4製品を展開へ、オンチェーン資産管理を統合",
+        "url": "https://news.yahoo.co.jp/articles/1c161305f6f17341e1808b7d30b5b5d1c9a1b76d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン、200日線での攻防 CPIで0.5％利上げ観測浮上【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/13bfaf49e2d80a15205fa52566e86aa566bbc8c5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "データチェーン、三井住友銀行のオンチェーン金融インフラ構築に向け技術検討を支援",
         "url": "https://news.yahoo.co.jp/articles/8ddc3f366a5b21d6b825305550bb0167ab18c083",
         "source": "Yahoo",
@@ -20182,30 +20251,6 @@
       {
         "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」全プログラム決定──片山財務大臣、小池都知事、3メガバンク・2大証券ら登壇",
         "url": "https://news.yahoo.co.jp/articles/20442da073343992a94bc399b1fcde762dc4051f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタルガレージのステーブルコイン決済、米サークル「Arc」対応",
-        "url": "https://news.yahoo.co.jp/articles/8b01165b72a9b10d24fb9544ca5bb1bb0812adf5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコイン普及、カギは「受け入れる企業」──百貨店 松屋社長が語った会計・監査の現実",
-        "url": "https://news.yahoo.co.jp/articles/aa54fc99264afd9493d4a4d8786f3002a088aeb7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、底打ちは近いのか──強気指数20と現物需要28.4万BTC減少が示す市場の転換点【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/5bd4f6cb65c9020889c7f86f68f4a30329b86baf",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴールドマンやシティ、ステーブルコイン事業に約429億円拠出へ",
-        "url": "https://news.yahoo.co.jp/articles/7c3aa3828702b8bb036a92d76fd47dd610796ece",
         "source": "Yahoo",
         "date": ""
       }
@@ -20926,6 +20971,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "社説：陸自の情報収集 市民調査の実態解明を",
+        "url": "https://news.yahoo.co.jp/articles/f0acc61be1a32c04d79970602e89e1263893486f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国企業の「Claude」112アカウントで情報流出の届け出",
         "url": "https://news.yahoo.co.jp/articles/9a6de19ca65afa7081e99c86e37372f3baf3d6b3",
         "source": "Yahoo",
@@ -20952,18 +21003,18 @@
       {
         "title": "二段階認証は必須！パスワードは使い回ししない！できるだけ長いものを！専門家が語る個人情報流出防衛策",
         "url": "https://news.yahoo.co.jp/articles/0793921d27e24546e0ede6406550465a1f2941d8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "無印良品《最高益の裏で痛恨の失策》「カード情報は含まれません」から5日で一転",
-        "url": "https://news.yahoo.co.jp/articles/88eb45e38664d8c0b45744fe2911061b70f88d39",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "社説：陸自の情報収集 市民調査の実態解明を",
+        "url": "https://news.yahoo.co.jp/articles/f0acc61be1a32c04d79970602e89e1263893486f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国企業の「Claude」112アカウントで情報流出の届け出",
         "url": "https://news.yahoo.co.jp/articles/9a6de19ca65afa7081e99c86e37372f3baf3d6b3",
         "source": "Yahoo",
@@ -20990,18 +21041,18 @@
       {
         "title": "二段階認証は必須！パスワードは使い回ししない！できるだけ長いものを！専門家が語る個人情報流出防衛策",
         "url": "https://news.yahoo.co.jp/articles/0793921d27e24546e0ede6406550465a1f2941d8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "無印良品《最高益の裏で痛恨の失策》「カード情報は含まれません」から5日で一転",
-        "url": "https://news.yahoo.co.jp/articles/88eb45e38664d8c0b45744fe2911061b70f88d39",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "社説：陸自の情報収集 市民調査の実態解明を",
+        "url": "https://news.yahoo.co.jp/articles/f0acc61be1a32c04d79970602e89e1263893486f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国企業の「Claude」112アカウントで情報流出の届け出",
         "url": "https://news.yahoo.co.jp/articles/9a6de19ca65afa7081e99c86e37372f3baf3d6b3",
         "source": "Yahoo",
@@ -21028,12 +21079,6 @@
       {
         "title": "二段階認証は必須！パスワードは使い回ししない！できるだけ長いものを！専門家が語る個人情報流出防衛策",
         "url": "https://news.yahoo.co.jp/articles/0793921d27e24546e0ede6406550465a1f2941d8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "無印良品《最高益の裏で痛恨の失策》「カード情報は含まれません」から5日で一転",
-        "url": "https://news.yahoo.co.jp/articles/88eb45e38664d8c0b45744fe2911061b70f88d39",
         "source": "Yahoo",
         "date": ""
       }
