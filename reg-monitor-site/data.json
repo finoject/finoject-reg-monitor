@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T08:21:21.476Z",
+  "generatedAt": "2026-11-11T09:58:11.071Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）の開催の公表",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20261118.html",
+      "date": "2026-11-18",
+      "detectedAt": "2026-11-11T09:58:11.071Z",
+      "enriched": "2026-11-11T09:58:15.997Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
+        "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
+        "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
       ],
       "aiSumV": 3
     },
@@ -19953,6 +19968,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "ヘグセス国防長官の弾劾決議案、下院共和党が阻止 民主党はトランプ政権の腐敗追及へ 一族も対象 トランプ大統領は2期目の就任前、公約として「アメリカを暗号資産の首都にする」と掲げていた。暗号資産の規制緩和をすることで関連市場の拡大をしていく動きを見せ",
+        "url": "https://news.yahoo.co.jp/articles/9d5330d4c8d216f854212ac398f19c232f8724b1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結",
+        "url": "https://news.yahoo.co.jp/articles/893026652826e68d8c5adc9548b42f9871e0035c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス、MEXC関連取引を制限。送金拒否や入金保留を実施",
         "url": "https://news.yahoo.co.jp/articles/6ca917576d6800c809952b24b392475fbe394be8",
         "source": "Yahoo",
@@ -19973,24 +20000,24 @@
       {
         "title": "個別株の永久先物を巡る法廷闘争が激化──Coinbaseなど6社がCFTC擁護の意見書提出へ",
         "url": "https://news.yahoo.co.jp/articles/fabbe9950e5f88108bc9e11063a99accea3b78b9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニュージーランド金融市場庁、一部のNZドル建てステーブルコインを金融商品から除外する案で意見募集",
-        "url": "https://news.yahoo.co.jp/articles/dc06b5b4e50646a17a67cd826328cf7332ec4073",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ウォーレン議員、予測市場の監視強化へ。上院銀行委員長就任を見通す",
-        "url": "https://news.yahoo.co.jp/articles/cc1c8c6e9481bae2bff82fe921ec25f051a356be",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ヘグセス国防長官の弾劾決議案、下院共和党が阻止 民主党はトランプ政権の腐敗追及へ 一族も対象 トランプ大統領は2期目の就任前、公約として「アメリカを暗号資産の首都にする」と掲げていた。暗号資産の規制緩和をすることで関連市場の拡大をしていく動きを見せ",
+        "url": "https://news.yahoo.co.jp/articles/9d5330d4c8d216f854212ac398f19c232f8724b1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結",
+        "url": "https://news.yahoo.co.jp/articles/893026652826e68d8c5adc9548b42f9871e0035c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス、MEXC関連取引を制限。送金拒否や入金保留を実施",
         "url": "https://news.yahoo.co.jp/articles/6ca917576d6800c809952b24b392475fbe394be8",
         "source": "Yahoo",
@@ -20011,18 +20038,6 @@
       {
         "title": "個別株の永久先物を巡る法廷闘争が激化──Coinbaseなど6社がCFTC擁護の意見書提出へ",
         "url": "https://news.yahoo.co.jp/articles/fabbe9950e5f88108bc9e11063a99accea3b78b9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ニュージーランド金融市場庁、一部のNZドル建てステーブルコインを金融商品から除外する案で意見募集",
-        "url": "https://news.yahoo.co.jp/articles/dc06b5b4e50646a17a67cd826328cf7332ec4073",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ウォーレン議員、予測市場の監視強化へ。上院銀行委員長就任を見通す",
-        "url": "https://news.yahoo.co.jp/articles/cc1c8c6e9481bae2bff82fe921ec25f051a356be",
         "source": "Yahoo",
         "date": ""
       }
@@ -20181,6 +20196,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "Datachain、三井住友銀行のオンチェーン金融検討を支援",
+        "url": "https://news.yahoo.co.jp/articles/fec12dcdae74bdd8c14aca3d6c08c52f87b12ef8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "大阪公立大でJPYC決済実証──学園祭では「おそらく初」とミアット",
+        "url": "https://news.yahoo.co.jp/articles/8109f7a3ebd4329e3c797ca32bfdb874d026a535",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オンチェーン金融に「力強いメッセージを」、金融庁研究会で意見出る",
+        "url": "https://news.yahoo.co.jp/articles/76dc5fdd555650a3761ab6f8dc98f32a5d608c64",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結",
+        "url": "https://news.yahoo.co.jp/articles/893026652826e68d8c5adc9548b42f9871e0035c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "RWA特化チェーン「プルーム」関連キンバー、米SEC登録とFINRA会員資格を取得",
         "url": "https://news.yahoo.co.jp/articles/1b49fedac21ff2186f9035451484672c693ee7f6",
         "source": "Yahoo",
@@ -20189,36 +20228,36 @@
       {
         "title": "ゴールドマンやシティなど、共同ステーブルコイン会社に約2.7億ドル拠出へ＝報道v",
         "url": "https://news.yahoo.co.jp/articles/1600f23d5483ae0d78eed93f21d1667cf26cf6f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ジュピター、トークン一括購入や利回り運用など4製品を展開へ、オンチェーン資産管理を統合",
-        "url": "https://news.yahoo.co.jp/articles/1c161305f6f17341e1808b7d30b5b5d1c9a1b76d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、200日線での攻防 CPIで0.5％利上げ観測浮上【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/13bfaf49e2d80a15205fa52566e86aa566bbc8c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーン、三井住友銀行のオンチェーン金融インフラ構築で技術支援",
-        "url": "https://news.yahoo.co.jp/articles/8ddc3f366a5b21d6b825305550bb0167ab18c083",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」全プログラム決定──片山財務大臣、小池都知事、3メガバンク・2大証券ら登壇",
-        "url": "https://news.yahoo.co.jp/articles/20442da073343992a94bc399b1fcde762dc4051f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Datachain、三井住友銀行のオンチェーン金融検討を支援",
+        "url": "https://news.yahoo.co.jp/articles/fec12dcdae74bdd8c14aca3d6c08c52f87b12ef8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "大阪公立大でJPYC決済実証──学園祭では「おそらく初」とミアット",
+        "url": "https://news.yahoo.co.jp/articles/8109f7a3ebd4329e3c797ca32bfdb874d026a535",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "オンチェーン金融に「力強いメッセージを」、金融庁研究会で意見出る",
+        "url": "https://news.yahoo.co.jp/articles/76dc5fdd555650a3761ab6f8dc98f32a5d608c64",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結",
+        "url": "https://news.yahoo.co.jp/articles/893026652826e68d8c5adc9548b42f9871e0035c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "RWA特化チェーン「プルーム」関連キンバー、米SEC登録とFINRA会員資格を取得",
         "url": "https://news.yahoo.co.jp/articles/1b49fedac21ff2186f9035451484672c693ee7f6",
         "source": "Yahoo",
@@ -20227,30 +20266,6 @@
       {
         "title": "ゴールドマンやシティなど、共同ステーブルコイン会社に約2.7億ドル拠出へ＝報道v",
         "url": "https://news.yahoo.co.jp/articles/1600f23d5483ae0d78eed93f21d1667cf26cf6f8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ジュピター、トークン一括購入や利回り運用など4製品を展開へ、オンチェーン資産管理を統合",
-        "url": "https://news.yahoo.co.jp/articles/1c161305f6f17341e1808b7d30b5b5d1c9a1b76d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン、200日線での攻防 CPIで0.5％利上げ観測浮上【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/13bfaf49e2d80a15205fa52566e86aa566bbc8c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "データチェーン、三井住友銀行のオンチェーン金融インフラ構築で技術支援",
-        "url": "https://news.yahoo.co.jp/articles/8ddc3f366a5b21d6b825305550bb0167ab18c083",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「NIKKEI・NADAデジタルアセットカンファレンス2026」全プログラム決定──片山財務大臣、小池都知事、3メガバンク・2大証券ら登壇",
-        "url": "https://news.yahoo.co.jp/articles/20442da073343992a94bc399b1fcde762dc4051f",
         "source": "Yahoo",
         "date": ""
       }
@@ -20971,6 +20986,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "アララ経由の流出、内閣府にも波及 メルマガ62,863件が漏えい、委託先は大丈夫か",
+        "url": "https://news.yahoo.co.jp/articles/2591069e2a64cacdd87bf67acc99ab6486816498",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "社説：陸自の情報収集 市民調査の実態解明を",
         "url": "https://news.yahoo.co.jp/articles/f0acc61be1a32c04d79970602e89e1263893486f",
         "source": "Yahoo",
@@ -20997,18 +21018,18 @@
       {
         "title": "AIで変わるサイバー攻撃 : 国家サイバー統括室の注意喚起から考える企業の対策",
         "url": "https://news.yahoo.co.jp/expert/articles/e65f97444f7f4b2b431a97f5f28142acc6ae3cbb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "二段階認証は必須！パスワードは使い回ししない！できるだけ長いものを！専門家が語る個人情報流出防衛策",
-        "url": "https://news.yahoo.co.jp/articles/0793921d27e24546e0ede6406550465a1f2941d8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "アララ経由の流出、内閣府にも波及 メルマガ62,863件が漏えい、委託先は大丈夫か",
+        "url": "https://news.yahoo.co.jp/articles/2591069e2a64cacdd87bf67acc99ab6486816498",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "社説：陸自の情報収集 市民調査の実態解明を",
         "url": "https://news.yahoo.co.jp/articles/f0acc61be1a32c04d79970602e89e1263893486f",
         "source": "Yahoo",
@@ -21035,18 +21056,18 @@
       {
         "title": "AIで変わるサイバー攻撃 : 国家サイバー統括室の注意喚起から考える企業の対策",
         "url": "https://news.yahoo.co.jp/expert/articles/e65f97444f7f4b2b431a97f5f28142acc6ae3cbb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "二段階認証は必須！パスワードは使い回ししない！できるだけ長いものを！専門家が語る個人情報流出防衛策",
-        "url": "https://news.yahoo.co.jp/articles/0793921d27e24546e0ede6406550465a1f2941d8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "アララ経由の流出、内閣府にも波及 メルマガ62,863件が漏えい、委託先は大丈夫か",
+        "url": "https://news.yahoo.co.jp/articles/2591069e2a64cacdd87bf67acc99ab6486816498",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "社説：陸自の情報収集 市民調査の実態解明を",
         "url": "https://news.yahoo.co.jp/articles/f0acc61be1a32c04d79970602e89e1263893486f",
         "source": "Yahoo",
@@ -21073,12 +21094,6 @@
       {
         "title": "AIで変わるサイバー攻撃 : 国家サイバー統括室の注意喚起から考える企業の対策",
         "url": "https://news.yahoo.co.jp/expert/articles/e65f97444f7f4b2b431a97f5f28142acc6ae3cbb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "二段階認証は必須！パスワードは使い回ししない！できるだけ長いものを！専門家が語る個人情報流出防衛策",
-        "url": "https://news.yahoo.co.jp/articles/0793921d27e24546e0ede6406550465a1f2941d8",
         "source": "Yahoo",
         "date": ""
       }
