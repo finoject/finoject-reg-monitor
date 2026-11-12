@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:38:04.150Z",
+  "generatedAt": "2026-11-12T02:09:22.935Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,66 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【挨拶】浅田審議委員「わが国の経済・物価情勢と金融政策」（長崎）",
+      "url": "https://www.boj.or.jp/about/press/koen_2026/ko261112a.htm",
+      "date": "2026-11-12",
+      "detectedAt": "2026-11-12T02:09:22.935Z",
+      "enriched": "2026-11-12T02:09:28.777Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年6月と9月の金融政策決定会合で利上げを決定し、政策金利は約30年ぶりに1.25％に引き上げた。短期実質金利はマイナスで緩和状態が続くが、中長期実質金利はプラス領域へ。",
+        "消費者物価（除く生鮮）は足もと2％程度だが、政府によるエネルギー負担緩和策を除いた基調的インフレ率は3％台前半となっており、2026年度後半以降は2％を上回る水準まで伸び率が高まると見通される。",
+        "審議委員の浅田は6月・9月の利上げに反対票を投じた理由として、足もとのインフレ率が2％を下回り経済が強くない状況で、政策金利の引き上げが実体経済（特に個人消費）に悪影響をもたらす点を懸念。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "営業毎旬報告（11月10日現在）",
+      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261110.htm",
+      "date": "2026-11-12",
+      "detectedAt": "2026-11-12T02:09:22.935Z",
+      "enriched": "2026-11-12T02:09:28.777Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の2026年11月10日現在の総資産は625兆8195億円で、国債504兆9367億円、貸付金68兆4162億円、指数連動型上場投資信託36兆9222億円等から構成されている。",
+        "発行銀行券114兆780億円、当座預金413兆5636億円が主要負債であり、金融機関への資金供給オペレーション（貸出増加支援35兆6645億円、被災地支援・気候変動対応32兆7517億円等）を実施している。",
+        "貸出支援基金による資金供給35兆6645億円、共通担保資金供給等による貸付金32兆7517億円により、金融機関の融資活動を支援する政策を展開している。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]証券会社向けイベント「Snowflake Data & AI Insights for Securities ＪＰＸ総研 x Snowflake共同セミナー」開催のお知らせ",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/6020/20261112-01.html",
+      "date": "2026-11-12",
+      "detectedAt": "2026-11-12T02:09:22.935Z",
+      "enriched": "2026-11-12T02:09:28.777Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研とSnowflake合同会社が共催で「Snowflake Data & AI Insights for Securities」セミナーを2026年11月27日15時から東京ミッドタウン八重洲で開催し、証券各社のデータ・AI活用事例と業界横断的な共通データ基盤のあり方をテーマにパネルディスカッションを実施する。",
+        "証券会社の実務リーダーを招いて金融業界におけるAI・データ活用の具体的な施策と課題、JPX総研の市場データとSnowflakeのデータ・AI基盤の掛け合わせた活用事例を紹介し、ネットワーキングの機会も提供する。",
+        "本イベントは証券会社を対象としており、対象外の応募については参加をご遠慮いただく場合がある；詳細とお申込みはSnowflake社サイトのリンク、お問合せはJPX総研フロンティア戦略部（inf_dev@jpx.co.jp）まで。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "グローバル・アカウンティング・アライアンス（GAA）による結合性（コネクティビティ）に関する報告書シリーズ第２弾の公表について",
+      "url": "https://jicpa.or.jp/news/information/2026/20261112igt.html",
+      "date": "2026-11-12",
+      "detectedAt": "2026-11-12T02:09:22.935Z",
+      "enriched": "2026-11-12T02:09:28.777Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "GAAが公表した報告書第２弾「Connectivity in Governance and Processes」において、財務情報とサステナビリティ情報の結合性を実現するため、サステナビリティ関連のリスク・機会を戦略・予算・資本配分・業績管理に組み込むことの重要性が示された。",
+        "会計専門職は、財務報告で確立した会計手法・実務をサステナビリティ情報にも活用することで、結合性の実現をリードし、企業の意思決定高度化と企業報告への信頼向上に貢献できる。",
+        "本報告書は2026年11月12日にGAAウェブサイトで公表され、当協会加盟のGAA（10か国・地域の会計士団体連合体）による企業報告の結合性に関するシリーズ報告書である。"
       ],
       "aiSumV": 3
     },
@@ -20013,6 +20073,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "韓国金融当局、全IT資産の把握・管理を義務化へ",
+        "url": "https://news.yahoo.co.jp/articles/8b5c777f7bb99a8373d42296aa37e6eaf824dfea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "野村HD、暗号資産子会社レーザーデジタルの売却検討か＝報道",
+        "url": "https://news.yahoo.co.jp/articles/5f23bb458c1505127d79bb40bfa8de130c53ed5e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう ステーブルコイン規制の枠組みを定めた「ジーニアス法」は、トランプ政権2期目の初年度である2025年7月に成立しましたが、暗号資産業界全体の市場構造改",
         "url": "https://news.yahoo.co.jp/articles/440e0902779713898a5beec3d73275817fe986da",
         "source": "Yahoo",
@@ -20033,24 +20105,24 @@
       {
         "title": "ヘグセス国防長官の弾劾決議案、下院共和党が阻止 民主党はトランプ政権の腐敗追及へ 一族も対象 トランプ大統領は2期目の就任前、公約として「アメリカを暗号資産の首都にする」と掲げていた。暗号資産の規制緩和をすることで関連市場の拡大をしていく動きを見せ",
         "url": "https://news.yahoo.co.jp/articles/9d5330d4c8d216f854212ac398f19c232f8724b1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結",
-        "url": "https://news.yahoo.co.jp/articles/893026652826e68d8c5adc9548b42f9871e0035c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、MEXC関連取引を制限。送金拒否や入金保留を実施",
-        "url": "https://news.yahoo.co.jp/articles/6ca917576d6800c809952b24b392475fbe394be8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "韓国金融当局、全IT資産の把握・管理を義務化へ",
+        "url": "https://news.yahoo.co.jp/articles/8b5c777f7bb99a8373d42296aa37e6eaf824dfea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "野村HD、暗号資産子会社レーザーデジタルの売却検討か＝報道",
+        "url": "https://news.yahoo.co.jp/articles/5f23bb458c1505127d79bb40bfa8de130c53ed5e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう ステーブルコイン規制の枠組みを定めた「ジーニアス法」は、トランプ政権2期目の初年度である2025年7月に成立しましたが、暗号資産業界全体の市場構造改",
         "url": "https://news.yahoo.co.jp/articles/440e0902779713898a5beec3d73275817fe986da",
         "source": "Yahoo",
@@ -20071,18 +20143,6 @@
       {
         "title": "ヘグセス国防長官の弾劾決議案、下院共和党が阻止 民主党はトランプ政権の腐敗追及へ 一族も対象 トランプ大統領は2期目の就任前、公約として「アメリカを暗号資産の首都にする」と掲げていた。暗号資産の規制緩和をすることで関連市場の拡大をしていく動きを見せ",
         "url": "https://news.yahoo.co.jp/articles/9d5330d4c8d216f854212ac398f19c232f8724b1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結",
-        "url": "https://news.yahoo.co.jp/articles/893026652826e68d8c5adc9548b42f9871e0035c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス、MEXC関連取引を制限。送金拒否や入金保留を実施",
-        "url": "https://news.yahoo.co.jp/articles/6ca917576d6800c809952b24b392475fbe394be8",
         "source": "Yahoo",
         "date": ""
       }
@@ -20241,6 +20301,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ステーブルコイン、トークン化預金、CBDC──「お金」はどう変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/2af1b12e6b62f7c589acf7f1ea27f0fda57bd64c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう",
         "url": "https://news.yahoo.co.jp/articles/440e0902779713898a5beec3d73275817fe986da",
         "source": "Yahoo",
@@ -20267,18 +20333,18 @@
       {
         "title": "ウォーレン氏の暗号資産「利点なし」に米議員が反論",
         "url": "https://news.yahoo.co.jp/articles/aa366c7266d391536c22663f117b2a13efa153dd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Datachain、三井住友銀行のオンチェーン金融検討を支援",
-        "url": "https://news.yahoo.co.jp/articles/fec12dcdae74bdd8c14aca3d6c08c52f87b12ef8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ステーブルコイン、トークン化預金、CBDC──「お金」はどう変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/2af1b12e6b62f7c589acf7f1ea27f0fda57bd64c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう",
         "url": "https://news.yahoo.co.jp/articles/440e0902779713898a5beec3d73275817fe986da",
         "source": "Yahoo",
@@ -20305,12 +20371,6 @@
       {
         "title": "ウォーレン氏の暗号資産「利点なし」に米議員が反論",
         "url": "https://news.yahoo.co.jp/articles/aa366c7266d391536c22663f117b2a13efa153dd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Datachain、三井住友銀行のオンチェーン金融検討を支援",
-        "url": "https://news.yahoo.co.jp/articles/fec12dcdae74bdd8c14aca3d6c08c52f87b12ef8",
         "source": "Yahoo",
         "date": ""
       }
