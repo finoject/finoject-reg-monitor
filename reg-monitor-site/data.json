@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T04:09:52.314Z",
+  "generatedAt": "2026-11-12T05:11:15.438Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "「令和８年熊本地震に係る災害義援金」のお礼について",
+      "url": "https://jicpa.or.jp/news/information/2026/20261112cab.html",
+      "date": "2026-11-12",
+      "detectedAt": "2026-11-12T05:11:15.438Z",
+      "enriched": "2026-11-12T05:11:21.374Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "令和８年熊本地震の災害義援金として、2026年8月から約2ヶ月間に協会会員・準会員から募金を募集し、総額6,906,858円が集まった。",
+        "日本公認会計士協会は集めた災害義援金全額を日本赤十字社を通じて被災者支援のため寄付した。",
+        "本件は金融規制に関わる規則変更や実務的義務ではなく、協会による災害支援活動の報告である。"
       ],
       "aiSumV": 3
     },
@@ -20073,6 +20088,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米個別株の無期限先物訴訟、ベター・マーケッツと元SEC幹部らが承認の効力停止を支持する意見書提出を申請",
+        "url": "https://news.yahoo.co.jp/articles/3907968175344d172da2203c4f3021bfacd3f7e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "G20のFSB、トルコの暗号資産・ステーブルコイン規制強化が必要と指摘",
         "url": "https://news.yahoo.co.jp/articles/aaf3a9dec6e529b49995dea61434aa7e8485c569",
         "source": "Yahoo",
@@ -20099,18 +20120,18 @@
       {
         "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
         "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ＮＹ市場サマリー（11日）米利上げ観測でドル上昇、株反発",
-        "url": "https://news.yahoo.co.jp/articles/ed6dee166b1b45f70b6373163eef3e146c3cb973",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米個別株の無期限先物訴訟、ベター・マーケッツと元SEC幹部らが承認の効力停止を支持する意見書提出を申請",
+        "url": "https://news.yahoo.co.jp/articles/3907968175344d172da2203c4f3021bfacd3f7e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "G20のFSB、トルコの暗号資産・ステーブルコイン規制強化が必要と指摘",
         "url": "https://news.yahoo.co.jp/articles/aaf3a9dec6e529b49995dea61434aa7e8485c569",
         "source": "Yahoo",
@@ -20137,12 +20158,6 @@
       {
         "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
         "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ＮＹ市場サマリー（11日）米利上げ観測でドル上昇、株反発",
-        "url": "https://news.yahoo.co.jp/articles/ed6dee166b1b45f70b6373163eef3e146c3cb973",
         "source": "Yahoo",
         "date": ""
       }
@@ -20301,6 +20316,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "ロシア中銀、11/22から国内取引所で暗号資産の売買を可能に",
+        "url": "https://news.yahoo.co.jp/articles/9ba131daf841f14e5647a39ddc42c7f84fad1d82",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TOPPANとビットゴー、デジタル資産の分散鍵管理を実証。2028年のサービス開始目指す",
         "url": "https://news.yahoo.co.jp/articles/449a9fac45dee432bb39d7c40d92c3b478963eba",
         "source": "Yahoo",
@@ -20327,18 +20348,18 @@
       {
         "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう",
         "url": "https://news.yahoo.co.jp/articles/440e0902779713898a5beec3d73275817fe986da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
-        "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ロシア中銀、11/22から国内取引所で暗号資産の売買を可能に",
+        "url": "https://news.yahoo.co.jp/articles/9ba131daf841f14e5647a39ddc42c7f84fad1d82",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "TOPPANとビットゴー、デジタル資産の分散鍵管理を実証。2028年のサービス開始目指す",
         "url": "https://news.yahoo.co.jp/articles/449a9fac45dee432bb39d7c40d92c3b478963eba",
         "source": "Yahoo",
@@ -20365,12 +20386,6 @@
       {
         "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう",
         "url": "https://news.yahoo.co.jp/articles/440e0902779713898a5beec3d73275817fe986da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
-        "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
         "source": "Yahoo",
         "date": ""
       }
