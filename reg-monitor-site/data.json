@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:02:35.377Z",
+  "generatedAt": "2026-11-12T00:38:04.150Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,36 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "企業物価指数（10月）",
+      "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
+      "date": "2026-11-12",
+      "detectedAt": "2026-11-12T00:38:04.150Z",
+      "enriched": "2026-11-12T00:38:09.905Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "国内企業物価指数は2026年10月速報で前月比+0.7％、前年比+7.1％、夏季電力料金調整後は前月比+0.9％と発表された。統計データはhttps://www.stat-search.boj.or.jp/index.htmlから時系列でダウンロード可能。",
+        "輸出物価指数（円ベース）は前月比+1.1％・前年比+16.7％、輸入物価指数（円ベース）は前月比+3.3％・前年比+24.8％で、ともに前年比で大幅上昇、ユーザーは最新指数を確認して価格設定等の判断基礎とすべき。",
+        "本速報は2026年11月12日8時50分に日本銀行調査統計局より公表され、2020年平均=100基準で指数化された企業物価統計であり、金融政策判断や事業計画策定に利用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "「預金者別預金」（2026年9月）等の公表について",
+      "url": "https://www.boj.or.jp/statistics/outline/notice_2026/not261112a.htm",
+      "date": "2026-11-12",
+      "detectedAt": "2026-11-12T00:38:04.150Z",
+      "enriched": "2026-11-12T00:38:09.905Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は「預金者別預金」の2026年9月最新データを時系列統計データ検索サイトに掲載し、2025年9月～2026年3月の計数を遡及訂正した。",
+        "国内銀行および信用金庫の預金者別預金（半期調査）（末残）の統計数値について、利用者は訂正済みデータの確認が必要となる。",
+        "訂正対象期間は2025年9月から2026年3月であり、掲載は日本銀行の時系列統計データ検索サイトにて実施された。"
       ],
       "aiSumV": 3
     },
@@ -19983,6 +20013,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう ステーブルコイン規制の枠組みを定めた「ジーニアス法」は、トランプ政権2期目の初年度である2025年7月に成立しましたが、暗号資産業界全体の市場構造改",
+        "url": "https://news.yahoo.co.jp/articles/440e0902779713898a5beec3d73275817fe986da",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
         "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
         "source": "Yahoo",
@@ -20009,18 +20045,18 @@
       {
         "title": "バイナンス、MEXC関連取引を制限。送金拒否や入金保留を実施",
         "url": "https://news.yahoo.co.jp/articles/6ca917576d6800c809952b24b392475fbe394be8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴールドマンやシティなど、共同ステーブルコイン会社に約2.7億ドル拠出へ＝報道v",
-        "url": "https://news.yahoo.co.jp/articles/1600f23d5483ae0d78eed93f21d1667cf26cf6f8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう ステーブルコイン規制の枠組みを定めた「ジーニアス法」は、トランプ政権2期目の初年度である2025年7月に成立しましたが、暗号資産業界全体の市場構造改",
+        "url": "https://news.yahoo.co.jp/articles/440e0902779713898a5beec3d73275817fe986da",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
         "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
         "source": "Yahoo",
@@ -20047,12 +20083,6 @@
       {
         "title": "バイナンス、MEXC関連取引を制限。送金拒否や入金保留を実施",
         "url": "https://news.yahoo.co.jp/articles/6ca917576d6800c809952b24b392475fbe394be8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ゴールドマンやシティなど、共同ステーブルコイン会社に約2.7億ドル拠出へ＝報道v",
-        "url": "https://news.yahoo.co.jp/articles/1600f23d5483ae0d78eed93f21d1667cf26cf6f8",
         "source": "Yahoo",
         "date": ""
       }
@@ -20211,6 +20241,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう",
+        "url": "https://news.yahoo.co.jp/articles/440e0902779713898a5beec3d73275817fe986da",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
         "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
         "source": "Yahoo",
@@ -20237,18 +20273,18 @@
       {
         "title": "Datachain、三井住友銀行のオンチェーン金融検討を支援",
         "url": "https://news.yahoo.co.jp/articles/fec12dcdae74bdd8c14aca3d6c08c52f87b12ef8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "大阪公立大でJPYC決済実証──学園祭では「おそらく初」とミアット",
-        "url": "https://news.yahoo.co.jp/articles/8109f7a3ebd4329e3c797ca32bfdb874d026a535",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう",
+        "url": "https://news.yahoo.co.jp/articles/440e0902779713898a5beec3d73275817fe986da",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
         "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
         "source": "Yahoo",
@@ -20275,12 +20311,6 @@
       {
         "title": "Datachain、三井住友銀行のオンチェーン金融検討を支援",
         "url": "https://news.yahoo.co.jp/articles/fec12dcdae74bdd8c14aca3d6c08c52f87b12ef8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "大阪公立大でJPYC決済実証──学園祭では「おそらく初」とミアット",
-        "url": "https://news.yahoo.co.jp/articles/8109f7a3ebd4329e3c797ca32bfdb874d026a535",
         "source": "Yahoo",
         "date": ""
       }
