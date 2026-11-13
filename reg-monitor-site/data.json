@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T09:56:56.492Z",
+  "generatedAt": "2026-11-13T11:32:38.569Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：ワタミ（株）",
+      "url": "https://www.jpx.co.jp/news/1023/20261113-11.html",
+      "date": "2026-11-13",
+      "detectedAt": "2026-11-13T11:32:38.569Z",
+      "enriched": "2026-11-13T11:32:43.468Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ワタミ株式会社の株式が2026年11月13日付で東証プライム市場の監理銘柄（確認中）に指定された。株式会社Wisdomによる公開買付け成立後の上場廃止手続きとして、端数併合が実施される見込みのため。",
+        "公開買付者が株主総会で端数併合議案を提議し承認されると、ワタミ株式は上場廃止となる。東証は上場廃止基準該当性を認定するまで監理銘柄（確認中）の指定を継続し、株式は有価証券上場規程施行規則第604条第1項第24号に該当する扱い。",
+        "監理銘柄（確認中）の指定期間は2026年11月13日から東取引所が上場廃止基準該当性を認定した日までの間。株主および投資者は公開買付けと株式併合の進展状況をコーポレートアクションとして注視する必要がある。"
       ],
       "aiSumV": 3
     },
@@ -20888,6 +20903,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "SBI、カンボジア中銀と実証実験へ SBIホールディングス は13日、カンボジア国立銀行とステーブルコインを活用した日本とカンボジア間の次世代国際資金決済システムの構築に向け",
+        "url": "https://news.yahoo.co.jp/articles/ea3792335cfb3eeddb47ce25a099d5e0eeb762e0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザーゴールド初監査で「最高評価」──金の延べ棒を1本ずつ確認",
+        "url": "https://news.yahoo.co.jp/articles/b8c88209671ff7427164d2b2397d1551ce91c493",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算",
         "url": "https://news.yahoo.co.jp/articles/170cbaf24024f657c5a91147cd1deb4cec870c9e",
         "source": "Yahoo",
@@ -20908,24 +20935,24 @@
       {
         "title": "英フィンテック企業向け銀行グリフィン、20Mドル調達。ステーブルコイン関連機能開発へ",
         "url": "https://news.yahoo.co.jp/articles/00746beceb73bdcd327d2cf528216adcd6f199fc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "セキュリタイズとエセナ、ブラックロック「BUIDL」向け最大1億ドルの流動性供給枠を稼働",
-        "url": "https://news.yahoo.co.jp/articles/e2e5b76ec7cbd215035c612329b1d1230dce4339",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソーファイの銀行発行ステーブルコイン「SoFiUSD」、ポリゴンに対応",
-        "url": "https://news.yahoo.co.jp/articles/8e230c05a0818d2eff86335e4de61ca99f563f1a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "SBI、カンボジア中銀と実証実験へ SBIホールディングス は13日、カンボジア国立銀行とステーブルコインを活用した日本とカンボジア間の次世代国際資金決済システムの構築に向け",
+        "url": "https://news.yahoo.co.jp/articles/ea3792335cfb3eeddb47ce25a099d5e0eeb762e0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "テザーゴールド初監査で「最高評価」──金の延べ棒を1本ずつ確認",
+        "url": "https://news.yahoo.co.jp/articles/b8c88209671ff7427164d2b2397d1551ce91c493",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算",
         "url": "https://news.yahoo.co.jp/articles/170cbaf24024f657c5a91147cd1deb4cec870c9e",
         "source": "Yahoo",
@@ -20946,18 +20973,6 @@
       {
         "title": "英フィンテック企業向け銀行グリフィン、20Mドル調達。ステーブルコイン関連機能開発へ",
         "url": "https://news.yahoo.co.jp/articles/00746beceb73bdcd327d2cf528216adcd6f199fc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "セキュリタイズとエセナ、ブラックロック「BUIDL」向け最大1億ドルの流動性供給枠を稼働",
-        "url": "https://news.yahoo.co.jp/articles/e2e5b76ec7cbd215035c612329b1d1230dce4339",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソーファイの銀行発行ステーブルコイン「SoFiUSD」、ポリゴンに対応",
-        "url": "https://news.yahoo.co.jp/articles/8e230c05a0818d2eff86335e4de61ca99f563f1a",
         "source": "Yahoo",
         "date": ""
       }
