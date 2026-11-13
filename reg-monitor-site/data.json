@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:06:46.865Z",
+  "generatedAt": "2026-11-13T03:41:58.368Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,36 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]2027年3月期半期報告書",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000002kxi2-att/view26-1.pdf",
+      "date": "2026-11-13",
+      "detectedAt": "2026-11-13T03:41:58.368Z",
+      "enriched": "2026-11-13T03:42:04.668Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2027年3月期中間（2026年4月～9月）営業収益131,002百万円・税引前中間利益85,469百万円で、前年同期比それぞれ46.6％・65.9％増加。2026年1～6月における国内上場株式売買代金の77％程度を占める。",
+        "日本証券クリアリング機構の損失補償制度において、特定管理損失準備金（約98億円）及び金利スワップ運用損失準備金（約41億円）を上限として補填を行い、上限超過時は当社グループに損失が生じる可能性がある。",
+        "金融商品取引法第24条の5第1項に基づき、株式会社日本取引所グループが2026年11月13日に関東財務局長に半期報告書をEDINET提出（中間会計期間：2026年4月1日～9月30日）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]自己株券買付状況報告書",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000002kxlg-att/20261113.pdf.pdf",
+      "date": "2026-11-13",
+      "detectedAt": "2026-11-13T03:41:58.368Z",
+      "enriched": "2026-11-13T03:42:04.668Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "2026年4月28日の取締役会決議に基づき、JPXは40,000,000株・総額200億円の自己株式取得を決定し、同年6月1日～10月26日の期間に東京証券取引所での市場買付けを実施。",
+        "JPXは2026年10月31日現在、9,486,700株（取得進捗率23.7％）を取得済みで、自己株式数は発行済株式1,031,785,336株に対し約0.92％保有中。",
+        "金融商品取引法第24条の６第１項に基づく自己株券買付状況報告書として、報告期間10月1日～31日分を2026年11月13日に関東財務局長に提出、東京証券取引所で縦覧公開。"
       ],
       "aiSumV": 3
     },
@@ -20223,6 +20253,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "フアンCEO辞任──“アメリカで半導体を作る”動きから考えたこと【編集長コラム・番外編】",
+        "url": "https://news.yahoo.co.jp/articles/3f855eb10b33f8405a7a3ba3daa73cb02d080127",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "迷走する米暗号資産法案「CLARITY」、中間選挙の民主党勝利が突きつけた狭き道筋",
         "url": "https://news.yahoo.co.jp/articles/25b46d18e91c511e768182635da9aa3b81990e69",
         "source": "Yahoo",
@@ -20249,18 +20285,18 @@
       {
         "title": "みんなの銀行、Backpack日本法人とトークン化預金の活用検討へ",
         "url": "https://news.yahoo.co.jp/articles/0f8f3e741406dd0cf167801dd7d3d8d64f088a39",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米個別株の無期限先物訴訟、ベター・マーケッツと元SEC幹部らが承認の効力停止を支持する意見書提出を申請",
-        "url": "https://news.yahoo.co.jp/articles/3907968175344d172da2203c4f3021bfacd3f7e3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "フアンCEO辞任──“アメリカで半導体を作る”動きから考えたこと【編集長コラム・番外編】",
+        "url": "https://news.yahoo.co.jp/articles/3f855eb10b33f8405a7a3ba3daa73cb02d080127",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "迷走する米暗号資産法案「CLARITY」、中間選挙の民主党勝利が突きつけた狭き道筋",
         "url": "https://news.yahoo.co.jp/articles/25b46d18e91c511e768182635da9aa3b81990e69",
         "source": "Yahoo",
@@ -20287,12 +20323,6 @@
       {
         "title": "みんなの銀行、Backpack日本法人とトークン化預金の活用検討へ",
         "url": "https://news.yahoo.co.jp/articles/0f8f3e741406dd0cf167801dd7d3d8d64f088a39",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米個別株の無期限先物訴訟、ベター・マーケッツと元SEC幹部らが承認の効力停止を支持する意見書提出を申請",
-        "url": "https://news.yahoo.co.jp/articles/3907968175344d172da2203c4f3021bfacd3f7e3",
         "source": "Yahoo",
         "date": ""
       }
@@ -20451,6 +20481,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "テザー「XAUT」発行会社、KPMGの財務諸表監査を完了",
+        "url": "https://news.yahoo.co.jp/articles/edbfec6620db57d9e99eb629e86f18d63f7dd002",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産ETF、セキュリティ・トークン──「投資」はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/7b6a5676e4b86656ab169d9fafa07cc95b5e4511",
         "source": "Yahoo",
@@ -20477,18 +20513,18 @@
       {
         "title": "ビットバンクの元大株主セレス、SBIと資本業務提携",
         "url": "https://news.yahoo.co.jp/articles/e49a90a2c138ff8790879ec08be1b435a147b7c3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カイア上のJPYC決済実証、大阪公立大の周辺飲食店で開始へ",
-        "url": "https://news.yahoo.co.jp/articles/c4e4e01771f8bfda26c7c29458c3b89eede9daad",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "テザー「XAUT」発行会社、KPMGの財務諸表監査を完了",
+        "url": "https://news.yahoo.co.jp/articles/edbfec6620db57d9e99eb629e86f18d63f7dd002",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産ETF、セキュリティ・トークン──「投資」はどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/7b6a5676e4b86656ab169d9fafa07cc95b5e4511",
         "source": "Yahoo",
@@ -20515,12 +20551,6 @@
       {
         "title": "ビットバンクの元大株主セレス、SBIと資本業務提携",
         "url": "https://news.yahoo.co.jp/articles/e49a90a2c138ff8790879ec08be1b435a147b7c3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カイア上のJPYC決済実証、大阪公立大の周辺飲食店で開始へ",
-        "url": "https://news.yahoo.co.jp/articles/c4e4e01771f8bfda26c7c29458c3b89eede9daad",
         "source": "Yahoo",
         "date": ""
       }
@@ -21051,6 +21081,12 @@
     ],
     "417AC0000000086": [
       {
+        "title": "もし日本政府が「JT株」をすべて売却したら？──「約4兆円」が持つ意味を考える",
+        "url": "https://news.yahoo.co.jp/expert/articles/dfc2a6f88bf4aba92c1966fa55d2b36abfb8ad01",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "名義上の株主の背後にいる「実質株主」把握へ新制度、政府が導入検討",
         "url": "https://news.yahoo.co.jp/articles/7189e419a908b2d6b7341e9cf79c56e54532b0eb",
         "source": "Yahoo",
@@ -21077,18 +21113,18 @@
       {
         "title": "株主提案の取扱いをめぐる米国SECの歴史的な政策転換",
         "url": "https://news.yahoo.co.jp/articles/0bcc615eabd09233315149df452b5a58efc436b3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マレーシアの税制が変わった",
-        "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "417CO0000000364": [
       {
+        "title": "もし日本政府が「JT株」をすべて売却したら？──「約4兆円」が持つ意味を考える",
+        "url": "https://news.yahoo.co.jp/expert/articles/dfc2a6f88bf4aba92c1966fa55d2b36abfb8ad01",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "名義上の株主の背後にいる「実質株主」把握へ新制度、政府が導入検討",
         "url": "https://news.yahoo.co.jp/articles/7189e419a908b2d6b7341e9cf79c56e54532b0eb",
         "source": "Yahoo",
@@ -21115,18 +21151,18 @@
       {
         "title": "株主提案の取扱いをめぐる米国SECの歴史的な政策転換",
         "url": "https://news.yahoo.co.jp/articles/0bcc615eabd09233315149df452b5a58efc436b3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マレーシアの税制が変わった",
-        "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010012": [
       {
+        "title": "もし日本政府が「JT株」をすべて売却したら？──「約4兆円」が持つ意味を考える",
+        "url": "https://news.yahoo.co.jp/expert/articles/dfc2a6f88bf4aba92c1966fa55d2b36abfb8ad01",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "名義上の株主の背後にいる「実質株主」把握へ新制度、政府が導入検討",
         "url": "https://news.yahoo.co.jp/articles/7189e419a908b2d6b7341e9cf79c56e54532b0eb",
         "source": "Yahoo",
@@ -21153,18 +21189,18 @@
       {
         "title": "株主提案の取扱いをめぐる米国SECの歴史的な政策転換",
         "url": "https://news.yahoo.co.jp/articles/0bcc615eabd09233315149df452b5a58efc436b3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マレーシアの税制が変わった",
-        "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010013": [
       {
+        "title": "もし日本政府が「JT株」をすべて売却したら？──「約4兆円」が持つ意味を考える",
+        "url": "https://news.yahoo.co.jp/expert/articles/dfc2a6f88bf4aba92c1966fa55d2b36abfb8ad01",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "名義上の株主の背後にいる「実質株主」把握へ新制度、政府が導入検討",
         "url": "https://news.yahoo.co.jp/articles/7189e419a908b2d6b7341e9cf79c56e54532b0eb",
         "source": "Yahoo",
@@ -21191,18 +21227,18 @@
       {
         "title": "株主提案の取扱いをめぐる米国SECの歴史的な政策転換",
         "url": "https://news.yahoo.co.jp/articles/0bcc615eabd09233315149df452b5a58efc436b3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "マレーシアの税制が変わった",
-        "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "418M60000010014": [
       {
+        "title": "もし日本政府が「JT株」をすべて売却したら？──「約4兆円」が持つ意味を考える",
+        "url": "https://news.yahoo.co.jp/expert/articles/dfc2a6f88bf4aba92c1966fa55d2b36abfb8ad01",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "名義上の株主の背後にいる「実質株主」把握へ新制度、政府が導入検討",
         "url": "https://news.yahoo.co.jp/articles/7189e419a908b2d6b7341e9cf79c56e54532b0eb",
         "source": "Yahoo",
@@ -21231,15 +21267,15 @@
         "url": "https://news.yahoo.co.jp/articles/0bcc615eabd09233315149df452b5a58efc436b3",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "マレーシアの税制が変わった",
-        "url": "https://news.yahoo.co.jp/articles/bc3f97441ace080eb05647ad64e77d05baf814ac",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "415AC0000000057": [
+      {
+        "title": "おわびメール1通で、後は自己責任？ 個人情報漏えい時代に欠けた「3つの仕組み」",
+        "url": "https://news.yahoo.co.jp/articles/291c44e01608a1244b2976da4fcc63fa53341875",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "教員の名簿管理を効率化、学習支援サービス「tomoLinks」とキュビナが連携",
         "url": "https://news.yahoo.co.jp/articles/0b2126e6e7ec2960913c578f81e05d301d173601",
@@ -21267,18 +21303,18 @@
       {
         "title": "韓国企業の「Claude」112アカウントで情報流出の届け出",
         "url": "https://news.yahoo.co.jp/articles/9a6de19ca65afa7081e99c86e37372f3baf3d6b3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "《ブラジル》視点映像で家事ロボット育成＝広がる副収入と「自縄自縛」の逆説＝途上国に広がるデータギグワーク",
-        "url": "https://news.yahoo.co.jp/articles/580924b875b5a4ecbe3553395d868f7319cf187c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "おわびメール1通で、後は自己責任？ 個人情報漏えい時代に欠けた「3つの仕組み」",
+        "url": "https://news.yahoo.co.jp/articles/291c44e01608a1244b2976da4fcc63fa53341875",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "教員の名簿管理を効率化、学習支援サービス「tomoLinks」とキュビナが連携",
         "url": "https://news.yahoo.co.jp/articles/0b2126e6e7ec2960913c578f81e05d301d173601",
         "source": "Yahoo",
@@ -21305,18 +21341,18 @@
       {
         "title": "韓国企業の「Claude」112アカウントで情報流出の届け出",
         "url": "https://news.yahoo.co.jp/articles/9a6de19ca65afa7081e99c86e37372f3baf3d6b3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "《ブラジル》視点映像で家事ロボット育成＝広がる副収入と「自縄自縛」の逆説＝途上国に広がるデータギグワーク",
-        "url": "https://news.yahoo.co.jp/articles/580924b875b5a4ecbe3553395d868f7319cf187c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "おわびメール1通で、後は自己責任？ 個人情報漏えい時代に欠けた「3つの仕組み」",
+        "url": "https://news.yahoo.co.jp/articles/291c44e01608a1244b2976da4fcc63fa53341875",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "教員の名簿管理を効率化、学習支援サービス「tomoLinks」とキュビナが連携",
         "url": "https://news.yahoo.co.jp/articles/0b2126e6e7ec2960913c578f81e05d301d173601",
         "source": "Yahoo",
@@ -21343,12 +21379,6 @@
       {
         "title": "韓国企業の「Claude」112アカウントで情報流出の届け出",
         "url": "https://news.yahoo.co.jp/articles/9a6de19ca65afa7081e99c86e37372f3baf3d6b3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "《ブラジル》視点映像で家事ロボット育成＝広がる副収入と「自縄自縛」の逆説＝途上国に広がるデータギグワーク",
-        "url": "https://news.yahoo.co.jp/articles/580924b875b5a4ecbe3553395d868f7319cf187c",
         "source": "Yahoo",
         "date": ""
       }
