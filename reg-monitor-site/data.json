@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:40:32.485Z",
+  "generatedAt": "2026-11-13T02:06:46.865Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,36 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "カスタマーハラスメントに関する基本方針の策定について",
+      "url": "https://jicpa.or.jp/news/information/2026/20261113qac.html",
+      "date": "2026-11-13",
+      "detectedAt": "2026-11-13T02:06:46.865Z",
+      "enriched": "2026-11-13T02:06:52.915Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本公認会計士協会は2026年11月13日付で「カスタマーハラスメントに関する基本方針」を策定し、役職員が安全かつ安心して執務できる環境確保と毅然とした対応を明示した。",
+        "同協会の役職員は本基本方針に基づき、カスタマーハラスメント対応の体制整備を認識し、関連する手続等を遵守する必要がある。",
+        "本基本方針は2026年11月13日付で適用開始され、詳細はhttps://jicpa.or.jp/customer_harassment/に掲載されている。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "内閣官房国家サイバー統括室（NCO）からの注意喚起について",
+      "url": "https://jicpa.or.jp/news/information/2026/20261113rux.html",
+      "date": "2026-11-13",
+      "detectedAt": "2026-11-13T02:06:46.865Z",
+      "enriched": "2026-11-13T02:06:52.916Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "NCOが2026年11月5日に公表した注意喚起で、ウェブサイト・モバイルアプリ運営事業者に対し、ソフトウェア脆弱性対策（既知悪用脆弱性への優先対応、SBOM/SCA活用）、アタックサーフェス最小化（不要な管理画面・デバッグ機能の停止）、継続的脆弱性診断の徹底を求めた。",
+        "個人情報取扱事業者は、利用ソフトウェアの構成情報（OS・ミドルウェア・フレームワーク・ライブラリのバージョン等）を把握・管理し、CISA KEVカタログ等から脆弱性情報を収集して影響確認し、優先順位付けして修正プログラム適用またはアクセス制限等の緩和策を実施する必要がある。",
+        "2026年10月以降のNCO・個人情報保護委員会の注意喚起に基づき、事業規模問わずインターネット接続システムについてAIを悪用した大規模攻撃への対策強化が求められており、ASM等で外部公開資産の継続監視と設定不備是正が急務である。"
       ],
       "aiSumV": 3
     },
@@ -20421,6 +20451,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "暗号資産ETF、セキュリティ・トークン──「投資」はどう変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/7b6a5676e4b86656ab169d9fafa07cc95b5e4511",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "迷走する米暗号資産法案「CLARITY」、中間選挙の民主党勝利が突きつけた狭き道筋",
         "url": "https://news.yahoo.co.jp/articles/25b46d18e91c511e768182635da9aa3b81990e69",
         "source": "Yahoo",
@@ -20447,18 +20483,18 @@
       {
         "title": "カイア上のJPYC決済実証、大阪公立大の周辺飲食店で開始へ",
         "url": "https://news.yahoo.co.jp/articles/c4e4e01771f8bfda26c7c29458c3b89eede9daad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スイのハードウェアウォレット「SuiBall」がPJ終了へ、予約注文者にUSDCで全額返金",
-        "url": "https://news.yahoo.co.jp/articles/7827d98fcb50fe293aaee73897e86ece7341825e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "暗号資産ETF、セキュリティ・トークン──「投資」はどう変わるのか",
+        "url": "https://news.yahoo.co.jp/articles/7b6a5676e4b86656ab169d9fafa07cc95b5e4511",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "迷走する米暗号資産法案「CLARITY」、中間選挙の民主党勝利が突きつけた狭き道筋",
         "url": "https://news.yahoo.co.jp/articles/25b46d18e91c511e768182635da9aa3b81990e69",
         "source": "Yahoo",
@@ -20485,12 +20521,6 @@
       {
         "title": "カイア上のJPYC決済実証、大阪公立大の周辺飲食店で開始へ",
         "url": "https://news.yahoo.co.jp/articles/c4e4e01771f8bfda26c7c29458c3b89eede9daad",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "スイのハードウェアウォレット「SuiBall」がPJ終了へ、予約注文者にUSDCで全額返金",
-        "url": "https://news.yahoo.co.jp/articles/7827d98fcb50fe293aaee73897e86ece7341825e",
         "source": "Yahoo",
         "date": ""
       }
