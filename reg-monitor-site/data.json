@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:32:38.569Z",
+  "generatedAt": "2026-11-13T13:03:33.857Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -20903,6 +20903,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "日本人のタイ旅行に暗号資産決済、新アプリ始動",
+        "url": "https://news.yahoo.co.jp/articles/b93f06026955b55dcd83e00d557e0f4dfcb18bb3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米国の国法銀行初のステーブルコイン「SoFiUSD」、Polygonに対応",
+        "url": "https://news.yahoo.co.jp/articles/6735323f4ec8d470549de965bfda86a5c1027b09",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、カンボジア中銀と実証実験へ SBIホールディングス は13日、カンボジア国立銀行とステーブルコインを活用した日本とカンボジア間の次世代国際資金決済システムの構築に向け",
         "url": "https://news.yahoo.co.jp/articles/ea3792335cfb3eeddb47ce25a099d5e0eeb762e0",
         "source": "Yahoo",
@@ -20923,24 +20935,24 @@
       {
         "title": "ジュピターの「Jupiter Lend」、米ドルステーブルコイン「USDGO」の貸借市場を追加",
         "url": "https://news.yahoo.co.jp/articles/78650a50075d07b376f60af22820c608c5bd80ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットゴー、「BitGo Mint」でUSDCの発行・償還に対応",
-        "url": "https://news.yahoo.co.jp/articles/4b2903d0b9c997c1fd3dfb1d7d1797d1f38223e4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英フィンテック企業向け銀行グリフィン、20Mドル調達。ステーブルコイン関連機能開発へ",
-        "url": "https://news.yahoo.co.jp/articles/00746beceb73bdcd327d2cf528216adcd6f199fc",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "日本人のタイ旅行に暗号資産決済、新アプリ始動",
+        "url": "https://news.yahoo.co.jp/articles/b93f06026955b55dcd83e00d557e0f4dfcb18bb3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米国の国法銀行初のステーブルコイン「SoFiUSD」、Polygonに対応",
+        "url": "https://news.yahoo.co.jp/articles/6735323f4ec8d470549de965bfda86a5c1027b09",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "SBI、カンボジア中銀と実証実験へ SBIホールディングス は13日、カンボジア国立銀行とステーブルコインを活用した日本とカンボジア間の次世代国際資金決済システムの構築に向け",
         "url": "https://news.yahoo.co.jp/articles/ea3792335cfb3eeddb47ce25a099d5e0eeb762e0",
         "source": "Yahoo",
@@ -20961,18 +20973,6 @@
       {
         "title": "ジュピターの「Jupiter Lend」、米ドルステーブルコイン「USDGO」の貸借市場を追加",
         "url": "https://news.yahoo.co.jp/articles/78650a50075d07b376f60af22820c608c5bd80ce",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットゴー、「BitGo Mint」でUSDCの発行・償還に対応",
-        "url": "https://news.yahoo.co.jp/articles/4b2903d0b9c997c1fd3dfb1d7d1797d1f38223e4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英フィンテック企業向け銀行グリフィン、20Mドル調達。ステーブルコイン関連機能開発へ",
-        "url": "https://news.yahoo.co.jp/articles/00746beceb73bdcd327d2cf528216adcd6f199fc",
         "source": "Yahoo",
         "date": ""
       }
