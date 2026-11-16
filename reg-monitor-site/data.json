@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T03:03:57.318Z",
+  "generatedAt": "2026-11-16T04:47:55.086Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【講演】高田審議委員「わが国の経済・物価情勢と金融政策：日本のマネー・資本市場転換、山は動くか」（徳島経済同友会）",
+      "url": "https://www.boj.or.jp/about/press/koen_2026/ko261116a.htm",
+      "date": "2026-11-16",
+      "detectedAt": "2026-11-16T04:47:55.086Z",
+      "enriched": "2026-11-16T04:48:00.641Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行の高田審議委員は、2026年の世界経済を「回復に向けたモメンタムが始動する転換局面」と位置づけ、グローバルなAI投資拡大と金融・財政政策の同時的拡張がもたらす経済底上げを指摘している。",
+        "日本企業は過去25年間で企業収益が10倍超の100兆円程度に達し、取引適正化法（2026年1月1日施行）による価格転嫁促進と2026年春季労使交渉での高水準賃上げを背景に、2027年に向けた賃上げの定着が期待されている。",
+        "高田審議委員は2026年が「雪の時代（デフレ）→異次元緩和段階→金利正常化段階」を経た新たな転換局面と捉え、2024～2025年の年2回の緩やかな利上げペースから2026年以降は機動的な利上げを実施する必要があると主張している。"
       ],
       "aiSumV": 3
     },
@@ -20675,6 +20690,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "カルシのレバレッジ型株式「無期限先物」に人気-ハイテク大手が対象",
+        "url": "https://news.yahoo.co.jp/articles/eb3213b38f7189d4775697b0e0f4ce0a7b5e82e9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三菱UFJ銀行も参加、大手銀行21社のステーブルコイン構想──ストライプとVISAに挑む",
+        "url": "https://news.yahoo.co.jp/articles/e0a2eded198934dd761296dd372f06b328ffec80",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス共同創業者CZ氏、同社の暗号資産売却を否定",
         "url": "https://news.yahoo.co.jp/articles/4e44fd88f9212a6b9c9dffffe9ba1fe6004ccbbe",
         "source": "Yahoo",
@@ -20695,24 +20722,24 @@
       {
         "title": "上下両院を奪還した民主党のゲームプラン",
         "url": "https://news.yahoo.co.jp/articles/8d7dad6a93b7cd845a8eb6a6a4be9fb42f8e449a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮ＩＴ人材の偽装就労の実態（手口）と韓国の対応辺真一韓国・北朝鮮11/15(日) 19:57",
-        "url": "https://news.yahoo.co.jp/expert/articles/0ad99c5ae339e2ec80bab23dd83b31a3d4b2ace1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜアメリカは民主党を選んだのか、ビットコイン急落の背景にある米国経済の現実【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/46bd0d87b2521dc4682c6a0b2bf461141236459c",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "カルシのレバレッジ型株式「無期限先物」に人気-ハイテク大手が対象",
+        "url": "https://news.yahoo.co.jp/articles/eb3213b38f7189d4775697b0e0f4ce0a7b5e82e9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三菱UFJ銀行も参加、大手銀行21社のステーブルコイン構想──ストライプとVISAに挑む",
+        "url": "https://news.yahoo.co.jp/articles/e0a2eded198934dd761296dd372f06b328ffec80",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バイナンス共同創業者CZ氏、同社の暗号資産売却を否定",
         "url": "https://news.yahoo.co.jp/articles/4e44fd88f9212a6b9c9dffffe9ba1fe6004ccbbe",
         "source": "Yahoo",
@@ -20733,18 +20760,6 @@
       {
         "title": "上下両院を奪還した民主党のゲームプラン",
         "url": "https://news.yahoo.co.jp/articles/8d7dad6a93b7cd845a8eb6a6a4be9fb42f8e449a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮ＩＴ人材の偽装就労の実態（手口）と韓国の対応辺真一韓国・北朝鮮11/15(日) 19:57",
-        "url": "https://news.yahoo.co.jp/expert/articles/0ad99c5ae339e2ec80bab23dd83b31a3d4b2ace1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜアメリカは民主党を選んだのか、ビットコイン急落の背景にある米国経済の現実【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/46bd0d87b2521dc4682c6a0b2bf461141236459c",
         "source": "Yahoo",
         "date": ""
       }
@@ -20903,6 +20918,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "チェコ国立銀行、初のDLT債券を試験発行。ほぼ即時の決済を実証",
+        "url": "https://news.yahoo.co.jp/articles/e6904f9280c0c00f09492154167995c5fa88c52d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三菱UFJ銀行も参加、大手銀行21社のステーブルコイン構想──ストライプとVISAに挑む",
+        "url": "https://news.yahoo.co.jp/articles/e0a2eded198934dd761296dd372f06b328ffec80",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国債・証券・決済はオンチェーンへ──資本市場のインフラはどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/b7ec2932f55e740c9169d971f78a24132cef4ec9",
         "source": "Yahoo",
@@ -20923,24 +20950,24 @@
       {
         "title": "北朝鮮ＩＴ人材の偽装就労の実態（手口）と韓国の対応辺真一韓国・北朝鮮11/15(日) 19:57",
         "url": "https://news.yahoo.co.jp/expert/articles/0ad99c5ae339e2ec80bab23dd83b31a3d4b2ace1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜアメリカは民主党を選んだのか、ビットコイン急落の背景にある米国経済の現実【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/46bd0d87b2521dc4682c6a0b2bf461141236459c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "銀行、証券、ステーブルコイン──「資本市場の、次の常識。」はもう始まっている【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/f7220e0bf7d05663f9b2f7102b75723621c3818d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "チェコ国立銀行、初のDLT債券を試験発行。ほぼ即時の決済を実証",
+        "url": "https://news.yahoo.co.jp/articles/e6904f9280c0c00f09492154167995c5fa88c52d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "三菱UFJ銀行も参加、大手銀行21社のステーブルコイン構想──ストライプとVISAに挑む",
+        "url": "https://news.yahoo.co.jp/articles/e0a2eded198934dd761296dd372f06b328ffec80",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "国債・証券・決済はオンチェーンへ──資本市場のインフラはどう変わるのか",
         "url": "https://news.yahoo.co.jp/articles/b7ec2932f55e740c9169d971f78a24132cef4ec9",
         "source": "Yahoo",
@@ -20961,18 +20988,6 @@
       {
         "title": "北朝鮮ＩＴ人材の偽装就労の実態（手口）と韓国の対応辺真一韓国・北朝鮮11/15(日) 19:57",
         "url": "https://news.yahoo.co.jp/expert/articles/0ad99c5ae339e2ec80bab23dd83b31a3d4b2ace1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "なぜアメリカは民主党を選んだのか、ビットコイン急落の背景にある米国経済の現実【サンフランシスコレポート】",
-        "url": "https://news.yahoo.co.jp/articles/46bd0d87b2521dc4682c6a0b2bf461141236459c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "銀行、証券、ステーブルコイン──「資本市場の、次の常識。」はもう始まっている【編集長コラム】",
-        "url": "https://news.yahoo.co.jp/articles/f7220e0bf7d05663f9b2f7102b75723621c3818d",
         "source": "Yahoo",
         "date": ""
       }
