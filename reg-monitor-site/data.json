@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:47:55.086Z",
+  "generatedAt": "2026-11-16T06:19:01.570Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本公認会計士協会",
+      "title": "日本公認会計士協会本部事務局年末・年始の業務について",
+      "url": "https://jicpa.or.jp/news/information/2026/20261116cfu.html",
+      "date": "2026-11-16",
+      "detectedAt": "2026-11-16T06:19:01.570Z",
+      "enriched": "2026-11-16T06:19:07.499Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本公認会計士協会本部事務局は、2026年12月28日（月）午後5時までを年末業務終了時刻、2027年1月5日（火）午前9時を年始業務開始時刻とする。",
+        "協会に対応が必要な会員または利用者は、年末は12月28日午後5時、年始は1月5日午前9時の営業時間を確認して対応する必要がある。",
+        "日本公認会計士協会本部事務局の営業日程変更は2026年11月16日通知、適用は2026年末・2027年年始期間。"
       ],
       "aiSumV": 3
     },
@@ -20462,6 +20477,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請",
+        "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【暗号資産の税金】2026年9月末で約1474万口座「1年で約154万増」利益は原則《雑所得》所得税5%〜45%に住民税も",
         "url": "https://news.yahoo.co.jp/articles/7f09b28afe22359186d179bd8b1080caaa81f792",
         "source": "Yahoo",
@@ -20488,18 +20509,18 @@
       {
         "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
         "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "放送禁止級にヤバい",
-        "url": "https://news.yahoo.co.jp/articles/2ea70d7111bf7d5edb352cb9a788c2c99584f52d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請",
+        "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【暗号資産の税金】2026年9月末で約1474万口座「1年で約154万増」利益は原則《雑所得》所得税5%〜45%に住民税も",
         "url": "https://news.yahoo.co.jp/articles/7f09b28afe22359186d179bd8b1080caaa81f792",
         "source": "Yahoo",
@@ -20526,18 +20547,18 @@
       {
         "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
         "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "放送禁止級にヤバい",
-        "url": "https://news.yahoo.co.jp/articles/2ea70d7111bf7d5edb352cb9a788c2c99584f52d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請",
+        "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【暗号資産の税金】2026年9月末で約1474万口座「1年で約154万増」利益は原則《雑所得》所得税5%〜45%に住民税も",
         "url": "https://news.yahoo.co.jp/articles/7f09b28afe22359186d179bd8b1080caaa81f792",
         "source": "Yahoo",
@@ -20564,18 +20585,18 @@
       {
         "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
         "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "放送禁止級にヤバい",
-        "url": "https://news.yahoo.co.jp/articles/2ea70d7111bf7d5edb352cb9a788c2c99584f52d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請",
+        "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【暗号資産の税金】2026年9月末で約1474万口座「1年で約154万増」利益は原則《雑所得》所得税5%〜45%に住民税も",
         "url": "https://news.yahoo.co.jp/articles/7f09b28afe22359186d179bd8b1080caaa81f792",
         "source": "Yahoo",
@@ -20602,12 +20623,6 @@
       {
         "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
         "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "放送禁止級にヤバい",
-        "url": "https://news.yahoo.co.jp/articles/2ea70d7111bf7d5edb352cb9a788c2c99584f52d",
         "source": "Yahoo",
         "date": ""
       }
