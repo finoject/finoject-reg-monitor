@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:19:01.570Z",
+  "generatedAt": "2026-11-16T07:50:21.920Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,144 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（グロース市場）：（株）コネクティ",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-11-16",
+      "detectedAt": "2026-11-16T07:50:21.920Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-16T07:50:27.179Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：InfiniCloud（株）",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-11-16",
+      "detectedAt": "2026-11-16T07:50:21.920Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-16T07:50:27.179Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株式投資型クラウドファンディングの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucrowdfunding/index.html",
+      "date": "2026-11-16",
+      "detectedAt": "2026-11-16T07:50:21.920Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が株式投資型クラウドファンディングの月次・年次取扱状況統計を更新し、2026年5月中のデータを6月15日に公表した。会員等は毎月末現在の取扱状況を翌月15日（休日は翌営業日）に報告する必要がある。",
+        "統計は証券会社および株式投資型クラウドファンディング専業業者から提出された報告をもとに、有価証券の種類ごとに集計され、価格・数量・金額は各々1円単位、1株単位、1個単位で表示される。",
+        "月次統計は毎月末現在の取扱状況を翌月15日、年次統計は毎年末現在の取扱状況を翌年1月15日（各々休日は翌営業日）に協会ウェブサイトで公表される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-16T07:50:27.179Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止の決定：（株）ヒューマンアジャスト",
+      "url": "https://www.jpx.co.jp/news/1021/20261116-19.html",
+      "date": "2026-11-16",
+      "detectedAt": "2026-11-16T07:50:21.920Z",
+      "enriched": "2026-11-16T07:50:27.179Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ヒューマンアジャストの株式（コード：249A、TOKYO PRO Market）が2026年12月20日を上場廃止日として東証で上場廃止される。特定上場有価証券に関する有価証券上場規程の特例第143条に基づき同社の申請により決定された。",
+        "国内他市場での上場継続予定のため、同社株式は信用取引・発行日決済取引の委託保証金、売買証拠金、取引参加者保証金、信認金の代用有価証券から除外されない。信用取引等を行う取引参加者は従来通り代用可能。",
+        "上場廃止日は2026年12月20日だが、速やかに上場廃止すべき事情が発生した場合は変更される可能性がある。東京証券取引所上場部が制度推進・管理。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：iシェアーズ 日本株 通信サービス トップ 10 ETF （MSCI）他9銘柄（ブラックロック･ジャパン）",
+      "url": "https://www.jpx.co.jp/news/1070/20261116-03.html",
+      "date": "2026-11-16",
+      "detectedAt": "2026-11-16T07:50:21.920Z",
+      "enriched": "2026-11-16T07:50:27.179Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ブラックロック・ジャパンが運用する10銘柄のセクター別ETF（通信サービス・ゲーム・エンタメ・家電・自動車・化学・金属・食品・医療・医薬品・電力ガス）の上場が承認され、2026年12月17日に東証で取引開始予定。",
+        "証券会社はこれら新規ETF（コード693A～708A）の取扱い開始と顧客向け情報提供を準備し、特定口座での取扱いが可能であることを周知する。",
+        "東証の新規上場承認日は2026年11月16日で、各ETFはMSCIジャパンIMI指数に連動する指標連動型内国ETFとして投資信託法施行令第12条第2号の受益証券に該当。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：iシェアーズ 日本株 半導体メーカー トップ 10 ETF （MSCI）他9銘柄（ブラックロック･ジャパン）",
+      "url": "https://www.jpx.co.jp/news/1070/20261116-02.html",
+      "date": "2026-11-16",
+      "detectedAt": "2026-11-16T07:50:21.920Z",
+      "enriched": "2026-11-16T07:50:27.179Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東証はブラックロック・ジャパン運用の10銘柄のETF（半導体メーカー、半導体製造装置、電子部品など計10種類）の上場を承認し、2026年12月10日に上場予定。",
+        "証券会社は全国で取扱い、特定口座での取扱いも可能。売買単位は10口、信託報酬0.32%（税込0.352%）以内、分配金は年2回（2月9日、8月9日）。",
+        "本件は日本取引所自主規制法人の審査に基づき決定、投資信託法施行令第12条第2号の受益証券であり、指標連動型ETF（指標：MSCI指数）。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：ＭＡＸＩＳ日本国債上場投信（三菱ＵＦＪアセットマネジメント）",
+      "url": "https://www.jpx.co.jp/news/1070/20261116-01.html",
+      "date": "2026-11-16",
+      "detectedAt": "2026-11-16T07:50:21.920Z",
+      "enriched": "2026-11-16T07:50:27.179Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "三菱ＵＦＪアセットマネジメント運用のＭＡＸＩＳ日本国債上場投信（コード689A）が東証で新規上場承認され、上場予定日は2026年12月3日。",
+        "信託報酬は0.059%（税込0.0649%）以内であり、売買単位は1口、分配金は年4回（1月10日、4月10日、7月10日、10月10日）支払基準日で支払われる。",
+        "ＦＴＳＥ日本国債インデックス連動のETFであり、租税特別措置法第9条の4の2の上場証券投資信託等の受益証券として特定口座での取扱いが可能。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261116-01.html",
+      "date": "2026-11-16",
+      "detectedAt": "2026-11-16T07:50:21.920Z",
+      "enriched": "2026-11-16T07:50:27.179Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）森組（コード1853）について、2営業日連続してストップ高（安）で売買高0株等の要件に該当したため、11月17日の制限値幅上限を通常の100円から400円に拡大する。",
+        "取引参加者及び投資家は、同銘柄の成行注文で予期しない値段での約定リスク、並びに拡大値幅での取引に留意し、値幅戻りまでの継続期間を確認して対応する。",
+        "東証の制限値幅拡大措置は、2営業日連続の要件充足時の翌営業日から適用され、ストップ高（安）以外での約定時点で通常値幅に自動復帰する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）ストレージ王",
+      "url": "https://www.jpx.co.jp/news/1023/20261116-11.html",
+      "date": "2026-11-16",
+      "detectedAt": "2026-11-16T07:50:21.920Z",
+      "enriched": "2026-11-16T07:50:27.179Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）ストレージ王は有価証券上場規程第601条第1項第18号に基づき上場廃止が決定され、2026年11月16日から12月15日まで整理銘柄に指定、12月16日に上場廃止となる。",
+        "特定の者以外の株主の株式すべてが1株に満たない端数となる割合での株式併合が株主総会で承認されたため、東証グロース市場での上場廃止事由に該当する。",
+        "同社株式は2026年11月17日以降、信用取引の委託保証金・発行日決済取引の証拠金・取引参加者保証金・信認金の代用有価証券から除外される。"
       ],
       "aiSumV": 3
     },
@@ -364,22 +502,6 @@
         "スタートアップ向け資金調達の促進として届出書提出免除基準を1億円未満から5億円未満に引上げ、役員等向けの株式報酬や特定投資家等への勧誘に係る開示規制を整備する（令和9年4月1日施行予定）。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（プライム市場）：（株）WHI Holdings",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-11-13",
-      "detectedAt": "2026-11-13T08:15:29.559Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-11-13T08:15:34.485Z"
     },
     {
       "agency": "日本銀行",
@@ -2009,22 +2131,6 @@
         "本セミナーは日本公認会計士協会の周知依頼に基づくもので、IMF財務局副局長ほか登壇者からIMF財務局の概要と専門職向けキャリア機会について説明を受ける。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）Ｇｉｎｚａ",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-11-02",
-      "detectedAt": "2026-11-02T07:20:03.097Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-11-02T07:20:10.804Z"
     },
     {
       "agency": "日本証券業協会",
@@ -4017,22 +4123,6 @@
         "指定日は2026年10月16日、日本証券業協会が公表する運営会員一覧に記載される。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株式投資型クラウドファンディングの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucrowdfunding/index.html",
-      "date": "2026-10-15",
-      "detectedAt": "2026-10-15T08:08:27.727Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が株式投資型クラウドファンディングの月次・年次取扱状況統計を更新し、2026年5月中のデータを6月15日に公表した。会員等は毎月末現在の取扱状況を翌月15日（休日は翌営業日）に報告する必要がある。",
-        "統計は証券会社および株式投資型クラウドファンディング専業業者から提出された報告をもとに、有価証券の種類ごとに集計され、価格・数量・金額は各々1円単位、1株単位、1個単位で表示される。",
-        "月次統計は毎月末現在の取扱状況を翌月15日、年次統計は毎年末現在の取扱状況を翌年1月15日（各々休日は翌営業日）に協会ウェブサイトで公表される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-10-15T08:08:32.512Z"
     },
     {
       "agency": "日本銀行",
@@ -20629,6 +20719,12 @@
     ],
     "421AC0000000059": [
       {
+        "title": "東証上場アステリア、約3億円分のJPYCを現金同等物に計上",
+        "url": "https://news.yahoo.co.jp/articles/468453fe2ca5ee70a3006506dce27eabd2c87d6c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "使い切れない商品券は払い戻せる？ 原則できず、発行者がやめるときは申出に期限",
         "url": "https://news.yahoo.co.jp/articles/71823829749f6e3171f09eedee272a34fb10d01c",
         "source": "Yahoo",
@@ -20655,18 +20751,18 @@
       {
         "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
         "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港レドットペイ、日本の暗号資産取引所BTCBOX買収",
-        "url": "https://news.yahoo.co.jp/articles/bc2bf969546c79bafb251b45f3213baa88f38053",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "東証上場アステリア、約3億円分のJPYCを現金同等物に計上",
+        "url": "https://news.yahoo.co.jp/articles/468453fe2ca5ee70a3006506dce27eabd2c87d6c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "使い切れない商品券は払い戻せる？ 原則できず、発行者がやめるときは申出に期限",
         "url": "https://news.yahoo.co.jp/articles/71823829749f6e3171f09eedee272a34fb10d01c",
         "source": "Yahoo",
@@ -20695,15 +20791,15 @@
         "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "香港レドットペイ、日本の暗号資産取引所BTCBOX買収",
-        "url": "https://news.yahoo.co.jp/articles/bc2bf969546c79bafb251b45f3213baa88f38053",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "ビットコイン一時1000万円割れ──CZ、アンソロピックIPOを要因にあげる",
+        "url": "https://news.yahoo.co.jp/articles/7c10896b9561a81de5a72de75fd9a6a336736914",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "カルシのレバレッジ型株式「無期限先物」に人気-ハイテク大手が対象",
         "url": "https://news.yahoo.co.jp/articles/eb3213b38f7189d4775697b0e0f4ce0a7b5e82e9",
@@ -20731,18 +20827,18 @@
       {
         "title": "「ジェンスン・フアン後」のエヌビディアがアップルから学べることとは？再建を左右する３つの条件 市場環境は決して良好ではなく、そんな中でアンソロピック株を買い支えるために、事前に暗号資産が大きく売られるなど、金融界には不安な空気が広がっている。エヌビディアの",
         "url": "https://news.yahoo.co.jp/articles/9dbe4dedff36d749f3e521372fdaf1b7be914f7e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "上下両院を奪還した民主党のゲームプラン",
-        "url": "https://news.yahoo.co.jp/articles/8d7dad6a93b7cd845a8eb6a6a4be9fb42f8e449a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ビットコイン一時1000万円割れ──CZ、アンソロピックIPOを要因にあげる",
+        "url": "https://news.yahoo.co.jp/articles/7c10896b9561a81de5a72de75fd9a6a336736914",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "カルシのレバレッジ型株式「無期限先物」に人気-ハイテク大手が対象",
         "url": "https://news.yahoo.co.jp/articles/eb3213b38f7189d4775697b0e0f4ce0a7b5e82e9",
         "source": "Yahoo",
@@ -20769,12 +20865,6 @@
       {
         "title": "「ジェンスン・フアン後」のエヌビディアがアップルから学べることとは？再建を左右する３つの条件 市場環境は決して良好ではなく、そんな中でアンソロピック株を買い支えるために、事前に暗号資産が大きく売られるなど、金融界には不安な空気が広がっている。エヌビディアの",
         "url": "https://news.yahoo.co.jp/articles/9dbe4dedff36d749f3e521372fdaf1b7be914f7e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "上下両院を奪還した民主党のゲームプラン",
-        "url": "https://news.yahoo.co.jp/articles/8d7dad6a93b7cd845a8eb6a6a4be9fb42f8e449a",
         "source": "Yahoo",
         "date": ""
       }
@@ -20933,76 +21023,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "アンカレッジデジタル、Visaの決済ネットワークで「USDPT」対応。ウエスタンユニオンのステーブルコインから",
+        "url": "https://news.yahoo.co.jp/articles/bd1a90191362c8b12846418b526ded804df867ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イーサリアム財団のウォレットが7500ETH売却か、10月下旬以降の累計は10285ETH",
+        "url": "https://news.yahoo.co.jp/articles/693cb6b3abbeaa68432770f31b4e6cca00339b91",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハイパーリキッドの未決済建玉が約80%増、Bybit・Kraken・OKX上回る",
+        "url": "https://news.yahoo.co.jp/articles/78cbeb7681358aa84b4e8d252cd157570bc300aa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "東証上場アステリア、約3億円分のJPYCを現金同等物に計上",
+        "url": "https://news.yahoo.co.jp/articles/468453fe2ca5ee70a3006506dce27eabd2c87d6c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIとカンボジア中銀、カントンで国債トークン化・JPYSCで送金実証へ",
+        "url": "https://news.yahoo.co.jp/articles/10bb708fd8845ce0b183d3febaa451ebecbb4858",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "チェコ国立銀行、初のDLT債券を試験発行。ほぼ即時の決済を実証",
         "url": "https://news.yahoo.co.jp/articles/e6904f9280c0c00f09492154167995c5fa88c52d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "三菱UFJ銀行も参加、大手銀行21社のステーブルコイン構想──ストライプとVISAに挑む",
-        "url": "https://news.yahoo.co.jp/articles/e0a2eded198934dd761296dd372f06b328ffec80",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国債・証券・決済はオンチェーンへ──資本市場のインフラはどう変わるのか",
-        "url": "https://news.yahoo.co.jp/articles/b7ec2932f55e740c9169d971f78a24132cef4ec9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス共同創業者CZ氏、同社の暗号資産売却を否定",
-        "url": "https://news.yahoo.co.jp/articles/4e44fd88f9212a6b9c9dffffe9ba1fe6004ccbbe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国公取委、ネイバーによる暗号資産取引所Upbit買収計画に懸念＝報道",
-        "url": "https://news.yahoo.co.jp/articles/58cbdde92a65471ebda31e0012f85b2fc59001e0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮ＩＴ人材の偽装就労の実態（手口）と韓国の対応辺真一韓国・北朝鮮11/15(日) 19:57",
-        "url": "https://news.yahoo.co.jp/expert/articles/0ad99c5ae339e2ec80bab23dd83b31a3d4b2ace1",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "アンカレッジデジタル、Visaの決済ネットワークで「USDPT」対応。ウエスタンユニオンのステーブルコインから",
+        "url": "https://news.yahoo.co.jp/articles/bd1a90191362c8b12846418b526ded804df867ee",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イーサリアム財団のウォレットが7500ETH売却か、10月下旬以降の累計は10285ETH",
+        "url": "https://news.yahoo.co.jp/articles/693cb6b3abbeaa68432770f31b4e6cca00339b91",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハイパーリキッドの未決済建玉が約80%増、Bybit・Kraken・OKX上回る",
+        "url": "https://news.yahoo.co.jp/articles/78cbeb7681358aa84b4e8d252cd157570bc300aa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "東証上場アステリア、約3億円分のJPYCを現金同等物に計上",
+        "url": "https://news.yahoo.co.jp/articles/468453fe2ca5ee70a3006506dce27eabd2c87d6c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBIとカンボジア中銀、カントンで国債トークン化・JPYSCで送金実証へ",
+        "url": "https://news.yahoo.co.jp/articles/10bb708fd8845ce0b183d3febaa451ebecbb4858",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "チェコ国立銀行、初のDLT債券を試験発行。ほぼ即時の決済を実証",
         "url": "https://news.yahoo.co.jp/articles/e6904f9280c0c00f09492154167995c5fa88c52d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "三菱UFJ銀行も参加、大手銀行21社のステーブルコイン構想──ストライプとVISAに挑む",
-        "url": "https://news.yahoo.co.jp/articles/e0a2eded198934dd761296dd372f06b328ffec80",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国債・証券・決済はオンチェーンへ──資本市場のインフラはどう変わるのか",
-        "url": "https://news.yahoo.co.jp/articles/b7ec2932f55e740c9169d971f78a24132cef4ec9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バイナンス共同創業者CZ氏、同社の暗号資産売却を否定",
-        "url": "https://news.yahoo.co.jp/articles/4e44fd88f9212a6b9c9dffffe9ba1fe6004ccbbe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国公取委、ネイバーによる暗号資産取引所Upbit買収計画に懸念＝報道",
-        "url": "https://news.yahoo.co.jp/articles/58cbdde92a65471ebda31e0012f85b2fc59001e0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮ＩＴ人材の偽装就労の実態（手口）と韓国の対応辺真一韓国・北朝鮮11/15(日) 19:57",
-        "url": "https://news.yahoo.co.jp/expert/articles/0ad99c5ae339e2ec80bab23dd83b31a3d4b2ace1",
         "source": "Yahoo",
         "date": ""
       }
