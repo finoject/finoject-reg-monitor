@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:22:01.914Z",
+  "generatedAt": "2026-11-17T07:53:13.183Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,69 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO Market）：（株）Ｇｉｎｚａ",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-11-17",
+      "detectedAt": "2026-11-17T07:53:13.183Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-17T07:53:18.144Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "PSJ予測統計値",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
+      "date": "2026-11-17",
+      "detectedAt": "2026-11-17T07:53:13.183Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
+        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
+        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-17T07:53:18.144Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "STOCK VOICE「東京マーケットワイド」11月16日放送分を掲載しました。",
+      "url": "https://www.jsda.or.jp/start/gaiyou/movie/index.html",
+      "date": "2026-11-17",
+      "detectedAt": "2026-11-17T07:53:13.183Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が「STOCK VOICE『東京マーケットワイド』」6月8日放送分を公表し、新NISA開始後の利用動向に関する調査内容を動画で紹介している。",
+        "投資初心者向けの広報活動として、YouTubeにて放映動画を視聴可能にしており、金融機関・証券会社の担当者は新NISAの利用実態把握のため参考資料として活用できる。",
+        "本公表は協会の広報活動に該当し、特定の法令改正や規制要件の変更ではなく、新NISA制度に関する情報提供資料の掲載である。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-17T07:53:18.144Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261117-01.html",
+      "date": "2026-11-17",
+      "detectedAt": "2026-11-17T07:53:13.183Z",
+      "enriched": "2026-11-17T07:53:18.144Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "Aiロボティクス（株）株式（コード247A）について、2026年11月18日から制限値幅の下限を通常の80円から320円に拡大。基準値段459円、ストップ安139円。",
+        "取引参加者及び投資家は、同銘柄の売買時に成行注文での予期しない約定や制限値幅拡大の影響を認識し、指値注文等での慎重な発注が必要。",
+        "11月18日以降、ストップ高安以外の値段で売買成立時は翌営業日から通常幅に戻る。東証の自主規制による制限値幅変更措置。"
       ],
       "aiSumV": 3
     },
@@ -136,22 +199,6 @@
       ],
       "aiSumV": 3,
       "updated": true,
-      "enriched": "2026-11-16T07:50:27.179Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（TOKYO PRO Market）：InfiniCloud（株）",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-11-16",
-      "detectedAt": "2026-11-16T07:50:21.920Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
       "enriched": "2026-11-16T07:50:27.179Z"
     },
     {
@@ -2039,22 +2086,6 @@
         "2026年11月4日時点の統計情報であり、金融機関等が日本銀行に提供している担保の構成・残高・変動については別途ファイル内容の確認が不可欠です。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "PSJ予測統計値",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/psj/psj_toukei.html",
-      "date": "2026-11-04",
-      "detectedAt": "2026-11-04T07:05:19.986Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が一定要件を満たす証券会社から毎月1日及び15日の前営業日午後3時現在のMBS予測期限前償還率をPSJモデルに換算した値を報告受けて集計・統計処理を行い発表している。",
-        "証券会社はPSJ予測値の正確性・完全性を保証せず、協会も本統計値の正確性・完全性について責任を負わないため、投資家は最終判断を自身で実施する必要がある。",
-        "発表日は2021年8月3日発表分以降、毎月1日及び15日の翌営業日（該当日が休業日の場合は翌々営業日）に統一され、クリーンアップコール予定回号は正確値報告が困難なため「0.00」と表記される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-11-04T07:05:25.943Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -6044,22 +6075,6 @@
         "拡大は東証が9月29日に発表した措置で、30日から適用され、ストップ高安以外で約定があった翌営業日から通常幅に戻る仕組み。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "STOCK VOICE「東京マーケットワイド」9月28日放送分を掲載しました。",
-      "url": "https://www.jsda.or.jp/start/gaiyou/movie/index.html",
-      "date": "2026-09-29",
-      "detectedAt": "2026-09-29T05:52:59.496Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が「STOCK VOICE『東京マーケットワイド』」6月8日放送分を公表し、新NISA開始後の利用動向に関する調査内容を動画で紹介している。",
-        "投資初心者向けの広報活動として、YouTubeにて放映動画を視聴可能にしており、金融機関・証券会社の担当者は新NISAの利用実態把握のため参考資料として活用できる。",
-        "本公表は協会の広報活動に該当し、特定の法令改正や規制要件の変更ではなく、新NISA制度に関する情報提供資料の掲載である。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-09-29T05:53:05.779Z"
     },
     {
       "agency": "JVCEA",
@@ -20870,6 +20885,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "Backpack、米CFTCの認可取得──日本法人は交換業登録を準備",
+        "url": "https://news.yahoo.co.jp/articles/82988828eea9cfaddbb91f8a52cad5139e29079f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインチェック、詐欺被害者保護に向け規約改定へ。暗号資産の全売却などを規定",
+        "url": "https://news.yahoo.co.jp/articles/eca58dc5c7a6fa049def8c80a9efcef0352b0e18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "香港、暗号資産ディーラーや保管業者などの免許制度拡大へ、年内に法案提出",
         "url": "https://news.yahoo.co.jp/articles/2b7bcbdb9e749b45361f9e29906f732d094a1baf",
         "source": "Yahoo",
@@ -20890,24 +20917,24 @@
       {
         "title": "ビットコイン一時1000万円割れ──CZ、アンソロピックIPOを要因にあげる",
         "url": "https://news.yahoo.co.jp/articles/7c10896b9561a81de5a72de75fd9a6a336736914",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カルシのレバレッジ型株式「無期限先物」に人気-ハイテク大手が対象",
-        "url": "https://news.yahoo.co.jp/articles/eb3213b38f7189d4775697b0e0f4ce0a7b5e82e9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "三菱UFJ銀行も参加、大手銀行21社のステーブルコイン構想──ストライプとVISAに挑む",
-        "url": "https://news.yahoo.co.jp/articles/e0a2eded198934dd761296dd372f06b328ffec80",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Backpack、米CFTCの認可取得──日本法人は交換業登録を準備",
+        "url": "https://news.yahoo.co.jp/articles/82988828eea9cfaddbb91f8a52cad5139e29079f",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインチェック、詐欺被害者保護に向け規約改定へ。暗号資産の全売却などを規定",
+        "url": "https://news.yahoo.co.jp/articles/eca58dc5c7a6fa049def8c80a9efcef0352b0e18",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "香港、暗号資産ディーラーや保管業者などの免許制度拡大へ、年内に法案提出",
         "url": "https://news.yahoo.co.jp/articles/2b7bcbdb9e749b45361f9e29906f732d094a1baf",
         "source": "Yahoo",
@@ -20928,18 +20955,6 @@
       {
         "title": "ビットコイン一時1000万円割れ──CZ、アンソロピックIPOを要因にあげる",
         "url": "https://news.yahoo.co.jp/articles/7c10896b9561a81de5a72de75fd9a6a336736914",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カルシのレバレッジ型株式「無期限先物」に人気-ハイテク大手が対象",
-        "url": "https://news.yahoo.co.jp/articles/eb3213b38f7189d4775697b0e0f4ce0a7b5e82e9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "三菱UFJ銀行も参加、大手銀行21社のステーブルコイン構想──ストライプとVISAに挑む",
-        "url": "https://news.yahoo.co.jp/articles/e0a2eded198934dd761296dd372f06b328ffec80",
         "source": "Yahoo",
         "date": ""
       }
@@ -21098,6 +21113,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ロシア国内発行のルーブル連動ステーブルコイン、2027年に貿易利用拡大へ＝ズベルバンク幹部",
+        "url": "https://news.yahoo.co.jp/articles/2f5b72e1f5d6cfb9b347b4dfe0b0e0116301225d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "円建てステーブルコインは米ドル優位を崩せるか、日本の銀行が国際利用拡大に期待",
+        "url": "https://news.yahoo.co.jp/articles/160ae6669c6ff4fae4e172f79a791a12d8280a2d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イオレ、ステーブルコインの新貸出プラン提供へ。AIデータセンター整備に活用",
         "url": "https://news.yahoo.co.jp/articles/41a19d5abb1db6538d09ac8f60cdbd2e8c98c4f3",
         "source": "Yahoo",
@@ -21118,24 +21145,24 @@
       {
         "title": "ソラナウォレット「Solflare」、USDCの現金化機能を導入。マネーグラムと連携で",
         "url": "https://news.yahoo.co.jp/articles/60c02ce10554d649cbf12a166031b5bcb96a91c0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アップビット運営ドゥナム、3Qは約22億円の純損失に。売上高60.7%減",
-        "url": "https://news.yahoo.co.jp/articles/0c6c7f12ad767ae5a9508ffddad2b3e32017044c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国公取委、ネイバーファイナンシャルとアップビット運営元ドゥナムの統合審議を開始",
-        "url": "https://news.yahoo.co.jp/articles/05a062b093379f206f6bc0c1707a90fcc79b8b36",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ロシア国内発行のルーブル連動ステーブルコイン、2027年に貿易利用拡大へ＝ズベルバンク幹部",
+        "url": "https://news.yahoo.co.jp/articles/2f5b72e1f5d6cfb9b347b4dfe0b0e0116301225d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "円建てステーブルコインは米ドル優位を崩せるか、日本の銀行が国際利用拡大に期待",
+        "url": "https://news.yahoo.co.jp/articles/160ae6669c6ff4fae4e172f79a791a12d8280a2d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "イオレ、ステーブルコインの新貸出プラン提供へ。AIデータセンター整備に活用",
         "url": "https://news.yahoo.co.jp/articles/41a19d5abb1db6538d09ac8f60cdbd2e8c98c4f3",
         "source": "Yahoo",
@@ -21156,18 +21183,6 @@
       {
         "title": "ソラナウォレット「Solflare」、USDCの現金化機能を導入。マネーグラムと連携で",
         "url": "https://news.yahoo.co.jp/articles/60c02ce10554d649cbf12a166031b5bcb96a91c0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アップビット運営ドゥナム、3Qは約22億円の純損失に。売上高60.7%減",
-        "url": "https://news.yahoo.co.jp/articles/0c6c7f12ad767ae5a9508ffddad2b3e32017044c",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国公取委、ネイバーファイナンシャルとアップビット運営元ドゥナムの統合審議を開始",
-        "url": "https://news.yahoo.co.jp/articles/05a062b093379f206f6bc0c1707a90fcc79b8b36",
         "source": "Yahoo",
         "date": ""
       }
