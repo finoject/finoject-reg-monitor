@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:34:12.166Z",
+  "generatedAt": "2026-11-17T23:07:51.479Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -20900,6 +20900,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "FRBウォラー理事、トークン化金融の「責任の所在」を問う──バイナンス事件に言及",
+        "url": "https://news.yahoo.co.jp/articles/7e39973216a903c4544e38a303da64e1b6745c85",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Backpack、米CFTCの認可取得──日本法人は交換業登録を準備",
         "url": "https://news.yahoo.co.jp/articles/82988828eea9cfaddbb91f8a52cad5139e29079f",
         "source": "Yahoo",
@@ -20926,18 +20932,18 @@
       {
         "title": "Strategyが2億2810万ドルのSTRC優先株を買い戻し──ビットコイン含み損は累計100億ドルに迫る",
         "url": "https://news.yahoo.co.jp/articles/54c679b9f236f47d0b82101a810a5ae881edfbf5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン一時1000万円割れ──CZ、アンソロピックIPOを要因にあげる",
-        "url": "https://news.yahoo.co.jp/articles/7c10896b9561a81de5a72de75fd9a6a336736914",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "FRBウォラー理事、トークン化金融の「責任の所在」を問う──バイナンス事件に言及",
+        "url": "https://news.yahoo.co.jp/articles/7e39973216a903c4544e38a303da64e1b6745c85",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Backpack、米CFTCの認可取得──日本法人は交換業登録を準備",
         "url": "https://news.yahoo.co.jp/articles/82988828eea9cfaddbb91f8a52cad5139e29079f",
         "source": "Yahoo",
@@ -20964,12 +20970,6 @@
       {
         "title": "Strategyが2億2810万ドルのSTRC優先株を買い戻し──ビットコイン含み損は累計100億ドルに迫る",
         "url": "https://news.yahoo.co.jp/articles/54c679b9f236f47d0b82101a810a5ae881edfbf5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン一時1000万円割れ──CZ、アンソロピックIPOを要因にあげる",
-        "url": "https://news.yahoo.co.jp/articles/7c10896b9561a81de5a72de75fd9a6a336736914",
         "source": "Yahoo",
         "date": ""
       }
