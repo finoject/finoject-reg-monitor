@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:04:29.496Z",
+  "generatedAt": "2026-11-17T04:35:55.386Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,21 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]証券業界における横断的な共通データ基盤「S-BASE」の名称決定及びβ環境利用募集開始について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/6020/20261117-02.html",
+      "date": "2026-11-17",
+      "detectedAt": "2026-11-17T04:35:55.386Z",
+      "enriched": "2026-11-17T04:35:59.917Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研は証券ビジネス統合データハブ（S-BASE）の正式名称を決定し、企業・取引情報を集約した業界横断的共通データ基盤を2027年4月から提供開始する。",
+        "証券会社・資産管理信託銀行・資産運用会社などはβ環境利用申込フォームから2026年11月17日～2027年3月31日の申込期間に申請し、2027年1月12日からβ環境を無料で検証できる。",
+        "JPX総研は2026年6月30日より公開した仕様書（配信項目・データ定義等）を改訂し、利用者がデータ項目・接続方式・システム対応の詳細を確認できるようにする。"
       ],
       "aiSumV": 3
     },
@@ -20627,6 +20642,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "知人から聞いた「近く発表される話」で株を買うと。インサイダー取引の線引き",
+        "url": "https://news.yahoo.co.jp/articles/1f6f6d778b5575b246fd577d167d8695a968db61",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請し承認される",
         "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
         "source": "Yahoo",
@@ -20653,18 +20674,18 @@
       {
         "title": "ビットコイン現物ETFをうたい無登録勧誘、監視委が停止申し立て",
         "url": "https://news.yahoo.co.jp/articles/3107ac04d2da62085c8da6d83216de6597e58c7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
-        "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "知人から聞いた「近く発表される話」で株を買うと。インサイダー取引の線引き",
+        "url": "https://news.yahoo.co.jp/articles/1f6f6d778b5575b246fd577d167d8695a968db61",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請し承認される",
         "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
         "source": "Yahoo",
@@ -20691,18 +20712,18 @@
       {
         "title": "ビットコイン現物ETFをうたい無登録勧誘、監視委が停止申し立て",
         "url": "https://news.yahoo.co.jp/articles/3107ac04d2da62085c8da6d83216de6597e58c7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
-        "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "知人から聞いた「近く発表される話」で株を買うと。インサイダー取引の線引き",
+        "url": "https://news.yahoo.co.jp/articles/1f6f6d778b5575b246fd577d167d8695a968db61",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請し承認される",
         "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
         "source": "Yahoo",
@@ -20729,18 +20750,18 @@
       {
         "title": "ビットコイン現物ETFをうたい無登録勧誘、監視委が停止申し立て",
         "url": "https://news.yahoo.co.jp/articles/3107ac04d2da62085c8da6d83216de6597e58c7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
-        "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "知人から聞いた「近く発表される話」で株を買うと。インサイダー取引の線引き",
+        "url": "https://news.yahoo.co.jp/articles/1f6f6d778b5575b246fd577d167d8695a968db61",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請し承認される",
         "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
         "source": "Yahoo",
@@ -20767,12 +20788,6 @@
       {
         "title": "ビットコイン現物ETFをうたい無登録勧誘、監視委が停止申し立て",
         "url": "https://news.yahoo.co.jp/articles/3107ac04d2da62085c8da6d83216de6597e58c7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「もう信用できません」年収800万円の42歳会社員夫、義父から告げられた〈驚愕のひと言〉",
-        "url": "https://news.yahoo.co.jp/articles/1532edebb77cffcc6477b7abfdaab6a07ecb22dd",
         "source": "Yahoo",
         "date": ""
       }
@@ -20855,6 +20870,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "バックパック、米CFTCの取引所・清算機関承認を取得。無期限先物提供へ",
+        "url": "https://news.yahoo.co.jp/articles/5e3d4a444f7acbb83a27266a1d447d2b03884f2c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Strategyが2億2810万ドルのSTRC優先株を買い戻し──ビットコイン含み損は累計100億ドルに迫る",
+        "url": "https://news.yahoo.co.jp/articles/54c679b9f236f47d0b82101a810a5ae881edfbf5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン一時1000万円割れ──CZ、アンソロピックIPOを要因にあげる",
         "url": "https://news.yahoo.co.jp/articles/7c10896b9561a81de5a72de75fd9a6a336736914",
         "source": "Yahoo",
@@ -20875,24 +20902,24 @@
       {
         "title": "バイナンス共同創業者CZ氏、同社の暗号資産売却を否定",
         "url": "https://news.yahoo.co.jp/articles/4e44fd88f9212a6b9c9dffffe9ba1fe6004ccbbe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、パース氏後任などSEC・CFTC委員4人を指名──初の民主党系も",
-        "url": "https://news.yahoo.co.jp/articles/5e056607c485f842ea696d21e9bbaea480ffc01a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「ジェンスン・フアン後」のエヌビディアがアップルから学べることとは？再建を左右する３つの条件 市場環境は決して良好ではなく、そんな中でアンソロピック株を買い支えるために、事前に暗号資産が大きく売られるなど、金融界には不安な空気が広がっている。エヌビディアの",
-        "url": "https://news.yahoo.co.jp/articles/9dbe4dedff36d749f3e521372fdaf1b7be914f7e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "バックパック、米CFTCの取引所・清算機関承認を取得。無期限先物提供へ",
+        "url": "https://news.yahoo.co.jp/articles/5e3d4a444f7acbb83a27266a1d447d2b03884f2c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Strategyが2億2810万ドルのSTRC優先株を買い戻し──ビットコイン含み損は累計100億ドルに迫る",
+        "url": "https://news.yahoo.co.jp/articles/54c679b9f236f47d0b82101a810a5ae881edfbf5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ビットコイン一時1000万円割れ──CZ、アンソロピックIPOを要因にあげる",
         "url": "https://news.yahoo.co.jp/articles/7c10896b9561a81de5a72de75fd9a6a336736914",
         "source": "Yahoo",
@@ -20913,18 +20940,6 @@
       {
         "title": "バイナンス共同創業者CZ氏、同社の暗号資産売却を否定",
         "url": "https://news.yahoo.co.jp/articles/4e44fd88f9212a6b9c9dffffe9ba1fe6004ccbbe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領、パース氏後任などSEC・CFTC委員4人を指名──初の民主党系も",
-        "url": "https://news.yahoo.co.jp/articles/5e056607c485f842ea696d21e9bbaea480ffc01a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「ジェンスン・フアン後」のエヌビディアがアップルから学べることとは？再建を左右する３つの条件 市場環境は決して良好ではなく、そんな中でアンソロピック株を買い支えるために、事前に暗号資産が大きく売られるなど、金融界には不安な空気が広がっている。エヌビディアの",
-        "url": "https://news.yahoo.co.jp/articles/9dbe4dedff36d749f3e521372fdaf1b7be914f7e",
         "source": "Yahoo",
         "date": ""
       }
@@ -21083,6 +21098,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "ソラナウォレット「Solflare」、USDCの現金化機能を導入。マネーグラムと連携で",
+        "url": "https://news.yahoo.co.jp/articles/60c02ce10554d649cbf12a166031b5bcb96a91c0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アップビット運営ドゥナム、3Qは約22億円の純損失に。売上高60.7%減",
+        "url": "https://news.yahoo.co.jp/articles/0c6c7f12ad767ae5a9508ffddad2b3e32017044c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国公取委、ネイバーファイナンシャルとアップビット運営元ドゥナムの統合審議を開始",
         "url": "https://news.yahoo.co.jp/articles/05a062b093379f206f6bc0c1707a90fcc79b8b36",
         "source": "Yahoo",
@@ -21103,24 +21130,24 @@
       {
         "title": "ポルカドット、DOT担保型ステーブルコインを柱とする新戦略可決。賛成率97.3％",
         "url": "https://news.yahoo.co.jp/articles/4d119a275a5581dfbaac4669a4a017e88e2e52da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンカレッジデジタル、Visaの決済ネットワークで「USDPT」対応。ウエスタンユニオンのステーブルコインから",
-        "url": "https://news.yahoo.co.jp/articles/bd1a90191362c8b12846418b526ded804df867ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアム財団が7500ETH売却か、10月下旬以降の累計は10285ETH",
-        "url": "https://news.yahoo.co.jp/articles/693cb6b3abbeaa68432770f31b4e6cca00339b91",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ソラナウォレット「Solflare」、USDCの現金化機能を導入。マネーグラムと連携で",
+        "url": "https://news.yahoo.co.jp/articles/60c02ce10554d649cbf12a166031b5bcb96a91c0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アップビット運営ドゥナム、3Qは約22億円の純損失に。売上高60.7%減",
+        "url": "https://news.yahoo.co.jp/articles/0c6c7f12ad767ae5a9508ffddad2b3e32017044c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国公取委、ネイバーファイナンシャルとアップビット運営元ドゥナムの統合審議を開始",
         "url": "https://news.yahoo.co.jp/articles/05a062b093379f206f6bc0c1707a90fcc79b8b36",
         "source": "Yahoo",
@@ -21141,18 +21168,6 @@
       {
         "title": "ポルカドット、DOT担保型ステーブルコインを柱とする新戦略可決。賛成率97.3％",
         "url": "https://news.yahoo.co.jp/articles/4d119a275a5581dfbaac4669a4a017e88e2e52da",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンカレッジデジタル、Visaの決済ネットワークで「USDPT」対応。ウエスタンユニオンのステーブルコインから",
-        "url": "https://news.yahoo.co.jp/articles/bd1a90191362c8b12846418b526ded804df867ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアム財団が7500ETH売却か、10月下旬以降の累計は10285ETH",
-        "url": "https://news.yahoo.co.jp/articles/693cb6b3abbeaa68432770f31b4e6cca00339b91",
         "source": "Yahoo",
         "date": ""
       }
