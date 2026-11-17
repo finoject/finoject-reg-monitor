@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:29:15.478Z",
+  "generatedAt": "2026-11-17T00:02:10.296Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -28,6 +28,36 @@
         "金融審議会ディスクロージャーワーキング・グループ第7回会議が令和8年11月18日15時30分から中央合同庁舎第7号館で開催され、ヒアリングと討議を実施する。",
         "一般傍聴席は設置されないが、YouTubeで会議の模様がリアルタイム配信される（金融庁公式チャンネル）。",
         "会議議事録は会議後に金融庁ウェブサイトにて公表される予定で、配信画面の転載や改変は禁止される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "「貸出先別貸出金」（2026年9月）等の公表について",
+      "url": "https://www.boj.or.jp/statistics/outline/notice_2026/not261117a.htm",
+      "date": "2026-11-17",
+      "detectedAt": "2026-11-17T00:02:10.296Z",
+      "enriched": "2026-11-17T00:02:16.349Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行が貸出先別貸出金と個人向け貸出金の2026年9月最新データを時系列統計データ検索サイトに掲載した。",
+        "利用者は2026年9月データの公表と同時に2025年6月～2026年6月の信用金庫関連等の遡及訂正内容を確認する必要がある。",
+        "対象は貸出先別貸出金（残高・設備資金）、設備資金新規貸出額、貸出件数（3月末・9月末）、個人向け住宅資金で、日本銀行時系列統計データ検索サイトから入手可能。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]法人向けデータ配信サービス「J-Quants Pro」J-Quants TDnet API提供開始のお知らせ",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/6020/20261117-01.html",
+      "date": "2026-11-17",
+      "detectedAt": "2026-11-17T00:02:10.296Z",
+      "enriched": "2026-11-17T00:02:16.640Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研は2026年11月17日から、J-Quants Proサービスにおいて上場会社等のTDnet開示情報をAPI経由で取得できる「J-Quants TDnet API」の提供を開始した。",
+        "開示情報の確認業務負荷軽減や分析が必要な法人は、過去5年分の開示書類を固定料金で一括取得できるJ-Quants TDnet APIへの申し込みを検討し、従来のTDnet on Snowflake T+1・Indexからの切り替えを進める必要がある。",
+        "同日付でTDnet on Snowflake T+1およびIndexのサービス提供が終了となり、J-Quants Proは財務情報・適時開示等20のデータセットを月額サブスクリプション形式で提供する。"
       ],
       "aiSumV": 3
     },
@@ -21319,12 +21349,6 @@
     ],
     "358AC1000000032": [
       {
-        "title": "借入の上限は年収の3分の1。貸金業者から借りる前に知りたい総量規制と金利の上限",
-        "url": "https://news.yahoo.co.jp/articles/405d3030d654b16b131b51df670f9ac45a2f8cba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「なんで鍋食べとんですか！ビールまで飲んで！」真冬の夜9時、1,700円を回収するために震えていたノンバンク社員が〈大家〉になって気づいたこと【現役大家CFPが語る実話】",
         "url": "https://news.yahoo.co.jp/articles/578285c3ba19d0a5d3427f07d7f0fc84181d7d49",
         "source": "Yahoo",
@@ -21351,18 +21375,18 @@
       {
         "title": "「元アイドルという職業への偏見」“共産党の論客”が今井絵理子議員へのバッシングに苦言",
         "url": "https://news.yahoo.co.jp/articles/e86ffd6eaf20523eb2d76813172c7fbfb091c8a9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358CO0000000181": [
       {
-        "title": "借入の上限は年収の3分の1。貸金業者から借りる前に知りたい総量規制と金利の上限",
-        "url": "https://news.yahoo.co.jp/articles/405d3030d654b16b131b51df670f9ac45a2f8cba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「なんで鍋食べとんですか！ビールまで飲んで！」真冬の夜9時、1,700円を回収するために震えていたノンバンク社員が〈大家〉になって気づいたこと【現役大家CFPが語る実話】",
         "url": "https://news.yahoo.co.jp/articles/578285c3ba19d0a5d3427f07d7f0fc84181d7d49",
         "source": "Yahoo",
@@ -21389,18 +21413,18 @@
       {
         "title": "「元アイドルという職業への偏見」“共産党の論客”が今井絵理子議員へのバッシングに苦言",
         "url": "https://news.yahoo.co.jp/articles/e86ffd6eaf20523eb2d76813172c7fbfb091c8a9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "358M50000040040": [
       {
-        "title": "借入の上限は年収の3分の1。貸金業者から借りる前に知りたい総量規制と金利の上限",
-        "url": "https://news.yahoo.co.jp/articles/405d3030d654b16b131b51df670f9ac45a2f8cba",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "「なんで鍋食べとんですか！ビールまで飲んで！」真冬の夜9時、1,700円を回収するために震えていたノンバンク社員が〈大家〉になって気づいたこと【現役大家CFPが語る実話】",
         "url": "https://news.yahoo.co.jp/articles/578285c3ba19d0a5d3427f07d7f0fc84181d7d49",
         "source": "Yahoo",
@@ -21427,6 +21451,12 @@
       {
         "title": "「元アイドルという職業への偏見」“共産党の論客”が今井絵理子議員へのバッシングに苦言",
         "url": "https://news.yahoo.co.jp/articles/e86ffd6eaf20523eb2d76813172c7fbfb091c8a9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "丸井グループ人事部長が語る、「赤字2回」からの文化変革（前編）",
+        "url": "https://news.yahoo.co.jp/expert/articles/a2fecc7855c73a4bc2595c81ea01c505bc9469fe",
         "source": "Yahoo",
         "date": ""
       }
