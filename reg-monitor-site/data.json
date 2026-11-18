@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:25:09.456Z",
+  "generatedAt": "2026-11-18T07:56:19.637Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,108 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（グロース市場）：（株）GROWTH VERSE",
+      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
+      "date": "2026-11-18",
+      "detectedAt": "2026-11-18T07:56:19.637Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
+        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
+        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-18T07:56:24.911Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "ＫｅｙＨｏｌｄｅｒ（4712）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-11-18",
+      "detectedAt": "2026-11-18T07:56:19.637Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-18T07:56:24.911Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-11-18",
+      "detectedAt": "2026-11-18T07:56:19.637Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-18T07:56:24.911Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "証券化市場の動向調査",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/doukou/index.html",
+      "date": "2026-11-18",
+      "detectedAt": "2026-11-18T07:56:19.637Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会と全国銀行協会は2006年4月から毎月「証券化市場の動向調査」を実施し、国内資産を裏付けとする債券・信託受益権・CP等の発行データを報告者から任意に収集・公表している。",
+        "証券化商品のアレンジャー・スポンサー・格付機関等は、当局への報告時に個別商品の正確性を保証する責任を負わず、協会も掲載情報の正確性を保証しないため、利用者は投資判断の参考として取扱い注意が必要である。",
+        "「証券化商品プログラムの設定状況」の半期調査は2021年10月18日発表分（9月末時点）をもって終了し、「証券化市場の動向調査」は2019年度以降半期ごとのレポート公表を廃止して月次データのみを公表している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-18T07:56:24.912Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの調整後の権利行使価格：2026年11月18日調整分",
+      "url": "https://www.jpx.co.jp/news/2020/20261118-01.html",
+      "date": "2026-11-18",
+      "detectedAt": "2026-11-18T07:56:19.637Z",
+      "enriched": "2026-11-18T07:56:24.912Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "一部有価証券の2026年11月21日（土）効力発生の株式分割に伴い、当該有価証券に係る有価証券オプションの権利行使価格を2026年11月19日（木）より調整する。",
+        "オプション取引参加者は、調整後の新権利行使価格を確認し取引に反映させる必要がある。フレックスオプション限月取引も同様に調整される。",
+        "調整は2026年11月19日より適用され、端数は円位未満（フレックス限月は小数点第2位未満）を四捨五入する。詳細は大阪取引所のニュース（2026年11月5日付）を参照。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（TOKYO PRO-BOND Market）：独立行政法人 国際協力機構 総額100億円の債券",
+      "url": "https://www.jpx.co.jp/news/1070/20261118-51.html",
+      "date": "2026-11-18",
+      "detectedAt": "2026-11-18T07:56:19.637Z",
+      "lawrefs": [
+        {
+          "id": "323AC0000000025",
+          "art": null,
+          "kind": "改正",
+          "label": "金融商品取引法"
+        }
+      ],
+      "enriched": "2026-11-18T07:56:25.177Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "国際協力機構が総額100億円の2年債（利率1.898％）をTOKYO PRO-BOND Marketに上場申請し、2026年11月18日に承認された。払込完了は11月27日、上場予定日は11月30日。",
+        "発行体は事前登録したプログラム情報の範囲内で随時起債でき、格付け取得と主幹事証券会社確保により簡易な形式要件で上場適格性を充足する仕組みを活用している。",
+        "TOKYO PRO-BOND Marketは2008年金融商品取引法改正で導入された「プロ向け市場制度」に基づき2011年5月新設され、プロ投資家向けの英文のみ情報開示等を認める市場として機能している。"
       ],
       "aiSumV": 3
     },
@@ -246,22 +348,6 @@
         "①リスク要因として中東情勢・AI関連需要動向・為替相場変動に加え、企業の賃金・価格設定行動の積極化と物価上振れ要因から中長期的予想物価上昇率が上昇し基調的物価が2％を超えて上振れるリスク。②日銀は当該リスク顕在化による経済への悪影響を避けるため十分な留意が必要と指摘。③消費者物価の見通しについて上振れリスクの方が大きいと評価（2026年10月展望レポート）"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]新規上場の承認（グロース市場）：（株）コネクティ",
-      "url": "https://www.jpx.co.jp/listing/stocks/new/index.html",
-      "date": "2026-11-16",
-      "detectedAt": "2026-11-16T07:50:21.920Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "チャットプラス株式会社がグロース市場に2026年7月15日付で新規上場承認された（証券コード598A）。事業はチャットボット・FAQ システムの開発・提供。上場時発行済株式総数は4,650,000株（予定）。",
-        "公募650,000株、売出し500,000株（引受人買取）および172,500株（オーバーアロットメント）が実施予定。代表取締役社長大江繭子ほか3名が売出元。ブック・ビルディング方式で2026年6月25日に仮条件決定予定。",
-        "仮条件650円、売買単位100株。払込期日2026年7月14日、受渡期日2026年7月15日。幹事取引参加者は丸三証券、監査人はみおぎ監査法人。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-11-16T07:50:27.179Z"
     },
     {
       "agency": "日本証券業協会",
@@ -915,22 +1001,6 @@
     },
     {
       "agency": "日本取引所グループ",
-      "title": "ワタミ（7522）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-11-13",
-      "detectedAt": "2026-11-13T00:09:33.084Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-11-13T00:09:37.954Z"
-    },
-    {
-      "agency": "日本取引所グループ",
       "title": "[OSE]国債先物における受渡適格銘柄及び交換比率一覧表の更新",
       "url": "https://www.jpx.co.jp/derivatives/products/jgb/jgb-futures/02.html",
       "date": "2026-11-13",
@@ -1185,22 +1255,6 @@
         "有価証券上場規程施行規則第604条第1項第24号に基づく指定で、公開買付け承認による株式併合実施時に上場廃止が予定されている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-11-11",
-      "detectedAt": "2026-11-11T07:56:54.560Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-11-11T07:57:01.765Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -3956,22 +4010,6 @@
         "本件はJapan Weeksの一環として2023年から継続実施されており、日証協の業務活動（会員向け指導・政策提言）の枠組みに位置付けられている。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "証券化市場の動向調査",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/doukou/index.html",
-      "date": "2026-10-19",
-      "detectedAt": "2026-10-19T08:25:12.927Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会と全国銀行協会は2006年4月から毎月「証券化市場の動向調査」を実施し、国内資産を裏付けとする債券・信託受益権・CP等の発行データを報告者から任意に収集・公表している。",
-        "証券化商品のアレンジャー・スポンサー・格付機関等は、当局への報告時に個別商品の正確性を保証する責任を負わず、協会も掲載情報の正確性を保証しないため、利用者は投資判断の参考として取扱い注意が必要である。",
-        "「証券化商品プログラムの設定状況」の半期調査は2021年10月18日発表分（9月末時点）をもって終了し、「証券化市場の動向調査」は2019年度以降半期ごとのレポート公表を廃止して月次データのみを公表している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-10-19T08:25:18.941Z"
     },
     {
       "agency": "日本証券業協会",
@@ -20915,6 +20953,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
+        "url": "https://news.yahoo.co.jp/articles/d305fba8c1d0b6b7d755eec54b1c4d3ba6fb96fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米規制当局、Kalshiのトランプ発言予測に停止命令",
         "url": "https://news.yahoo.co.jp/articles/913be154c8f4c79c8c220fee8d5abf664a04fca2",
         "source": "Yahoo",
@@ -20941,18 +20985,18 @@
       {
         "title": "コインチェック、詐欺被害者保護に向け規約改定へ。暗号資産の全売却などを規定",
         "url": "https://news.yahoo.co.jp/articles/eca58dc5c7a6fa049def8c80a9efcef0352b0e18",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港、暗号資産ディーラーや保管業者などの免許制度拡大へ、年内に法案提出",
-        "url": "https://news.yahoo.co.jp/articles/2b7bcbdb9e749b45361f9e29906f732d094a1baf",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
+        "url": "https://news.yahoo.co.jp/articles/d305fba8c1d0b6b7d755eec54b1c4d3ba6fb96fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米規制当局、Kalshiのトランプ発言予測に停止命令",
         "url": "https://news.yahoo.co.jp/articles/913be154c8f4c79c8c220fee8d5abf664a04fca2",
         "source": "Yahoo",
@@ -20981,15 +21025,15 @@
         "url": "https://news.yahoo.co.jp/articles/eca58dc5c7a6fa049def8c80a9efcef0352b0e18",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "香港、暗号資産ディーラーや保管業者などの免許制度拡大へ、年内に法案提出",
-        "url": "https://news.yahoo.co.jp/articles/2b7bcbdb9e749b45361f9e29906f732d094a1baf",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "海外へ100万円を超えて送ると税務署に調書が届く。仕送りの前に知りたい告知書",
+        "url": "https://news.yahoo.co.jp/articles/030f802d223ed4ab1a666fde595ffbbe20ba76f7",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "焦点：バイナンス63億ドル被害、ハッカー対策で問われる交換所の内部統制",
         "url": "https://news.yahoo.co.jp/articles/71258444dff4f8147d76426e8cb0bfa12b992b68",
@@ -21017,18 +21061,18 @@
       {
         "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる",
         "url": "https://news.yahoo.co.jp/articles/73940c395759be609c623c800c620ef660717711",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
-        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "海外へ100万円を超えて送ると税務署に調書が届く。仕送りの前に知りたい告知書",
+        "url": "https://news.yahoo.co.jp/articles/030f802d223ed4ab1a666fde595ffbbe20ba76f7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "焦点：バイナンス63億ドル被害、ハッカー対策で問われる交換所の内部統制",
         "url": "https://news.yahoo.co.jp/articles/71258444dff4f8147d76426e8cb0bfa12b992b68",
         "source": "Yahoo",
@@ -21055,12 +21099,6 @@
       {
         "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる",
         "url": "https://news.yahoo.co.jp/articles/73940c395759be609c623c800c620ef660717711",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
-        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
         "date": ""
       }
@@ -21143,6 +21181,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "テザー、ブラジルのフィンテック「Nomad」に15Mドル出資。USDTなどの導入模索",
+        "url": "https://news.yahoo.co.jp/articles/cb6ac13986a8958d572ffde445611af68166cbea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ホットリンクG傘下のNonagon Capital、AIエージェントのデータ購入を円建てステーブルコインで実証",
+        "url": "https://news.yahoo.co.jp/articles/f264416a28c4116059d6ea2ffe32760154a92c25",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
+        "url": "https://news.yahoo.co.jp/articles/d305fba8c1d0b6b7d755eec54b1c4d3ba6fb96fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ソニューム、K-POP公演をもとにした投資商品「IPボンド」提供開始",
         "url": "https://news.yahoo.co.jp/articles/795fd8ad950827d5d94156086097005875aae8e6",
         "source": "Yahoo",
@@ -21157,30 +21213,30 @@
       {
         "title": "世界銀行グループ、シティ・サークルとステーブルコイン活用検討。開発資金の支払い効率化へ",
         "url": "https://news.yahoo.co.jp/articles/e77366381a8f760158d3b4df486f2836b1474f7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界銀行、開発資金の送金にUSDC活用を検討──米シティと連携",
-        "url": "https://news.yahoo.co.jp/articles/e0df0361e36244f6388e3267ed8690c83c519d95",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース、ChatGPTの会話画面で暗号資産売買が可能に",
-        "url": "https://news.yahoo.co.jp/articles/591d1f05e37a3e56a2e942532038bdda7b7e30ed",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産のファンダメンタルズは依然堅調、下落は参入の好機＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/b8f4a70a2e540f0d99c77fa26665457c8010f653",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "テザー、ブラジルのフィンテック「Nomad」に15Mドル出資。USDTなどの導入模索",
+        "url": "https://news.yahoo.co.jp/articles/cb6ac13986a8958d572ffde445611af68166cbea",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ホットリンクG傘下のNonagon Capital、AIエージェントのデータ購入を円建てステーブルコインで実証",
+        "url": "https://news.yahoo.co.jp/articles/f264416a28c4116059d6ea2ffe32760154a92c25",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
+        "url": "https://news.yahoo.co.jp/articles/d305fba8c1d0b6b7d755eec54b1c4d3ba6fb96fe",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ソニューム、K-POP公演をもとにした投資商品「IPボンド」提供開始",
         "url": "https://news.yahoo.co.jp/articles/795fd8ad950827d5d94156086097005875aae8e6",
         "source": "Yahoo",
@@ -21195,24 +21251,6 @@
       {
         "title": "世界銀行グループ、シティ・サークルとステーブルコイン活用検討。開発資金の支払い効率化へ",
         "url": "https://news.yahoo.co.jp/articles/e77366381a8f760158d3b4df486f2836b1474f7a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界銀行、開発資金の送金にUSDC活用を検討──米シティと連携",
-        "url": "https://news.yahoo.co.jp/articles/e0df0361e36244f6388e3267ed8690c83c519d95",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインベース、ChatGPTの会話画面で暗号資産売買が可能に",
-        "url": "https://news.yahoo.co.jp/articles/591d1f05e37a3e56a2e942532038bdda7b7e30ed",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "暗号資産のファンダメンタルズは依然堅調、下落は参入の好機＝Grayscale",
-        "url": "https://news.yahoo.co.jp/articles/b8f4a70a2e540f0d99c77fa26665457c8010f653",
         "source": "Yahoo",
         "date": ""
       }
