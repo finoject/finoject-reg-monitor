@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:56:19.637Z",
+  "generatedAt": "2026-11-18T09:27:28.948Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,68 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "「銀行法施行規則」等、「自己資本比率規制（第１の柱・第３の柱）に関する告示」等及び「主要行等向けの総合的な監督指針」等の一部改正（案）の公表",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261118.html",
+      "date": "2026-11-18",
+      "detectedAt": "2026-11-18T09:27:28.948Z",
+      "lawrefs": [
+        {
+          "id": "fsa-kantoku-chusho",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "中小・地域金融機関向けの総合的な監督指針"
+        },
+        {
+          "id": "fsa-kantoku-city",
+          "art": null,
+          "kind": "パブコメ",
+          "label": "主要行等向けの総合的な監督指針"
+        },
+        {
+          "id": "357M50000040010",
+          "art": "第19条の2",
+          "kind": "パブコメ",
+          "label": "銀行法施行規則 第19条の2"
+        },
+        {
+          "id": "356AC0000000059",
+          "art": "第14条の2",
+          "kind": "パブコメ",
+          "label": "銀行法 第14条の2"
+        },
+        {
+          "id": "356AC0000000059",
+          "art": "第52条の25",
+          "kind": "パブコメ",
+          "label": "銀行法 第52条の25"
+        }
+      ],
+      "enriched": "2026-11-18T09:27:35.732Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "銀行等が傘下ファンドの持分に応じた連結を可能とするため、自己資本比率規制（第１・３の柱）、レバレッジ比率・流動性比率・TLAC規制の告示を改正し、連結範囲を統一する。",
+        "銀行及び銀行持株会社は、持分に応じた連結の開始・中断時に金融庁に届出を行い、3柱開示様式（主要行等向け・中小地域金融機関向け・系統金融機関向け）に対応する必要がある。",
+        "改正は銀行法施行規則第19条の2、銀行法第14条の2・第52条の25に基づき、2027年3月31日から施行・適用される。12月18日15時までパブリックコメント受付中。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融安定理事会による本会合議事要旨の公表について",
+      "url": "https://www.boj.or.jp/intl_finance/meeting/group/gro261118a.htm",
+      "date": "2026-11-18",
+      "detectedAt": "2026-11-18T09:27:28.948Z",
+      "enriched": "2026-11-18T09:27:35.732Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融安定理事会（FSB）は2026年11月16～17日にスイス・バーゼルで本会合を開催し、議事要旨を公表した。",
+        "日本銀行が金融安定理事会の本会合議事要旨の公表について報知している。詳細はFSBウェブサイトのプレス・リリース原文で確認が必要。",
+        "2026年11月18日付の日本銀行の公表であり、FSBによる国際金融規制動向の監視が必要な金融機関・関係当局は議事要旨確認を要す。"
       ],
       "aiSumV": 3
     },
@@ -20953,6 +21015,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "金商法、税制、AI・オンチェーン金融──日本のデジタルアセット政策は『市場をつくる』段階へ",
+        "url": "https://news.yahoo.co.jp/articles/3ddab20902d3d923c83d4bfd0af79e75d1a92ba3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、アジア5市場への進出計画",
+        "url": "https://news.yahoo.co.jp/articles/e762d789b079f0f8eb39b7975b3c508ec297b5be",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
         "url": "https://news.yahoo.co.jp/articles/d305fba8c1d0b6b7d755eec54b1c4d3ba6fb96fe",
         "source": "Yahoo",
@@ -20973,24 +21047,24 @@
       {
         "title": "FRBウォラー理事、トークン化金融の「責任の所在」を問う──バイナンス事件に言及",
         "url": "https://news.yahoo.co.jp/articles/7e39973216a903c4544e38a303da64e1b6745c85",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Backpack、米CFTCの認可取得──日本法人は交換業登録を準備",
-        "url": "https://news.yahoo.co.jp/articles/82988828eea9cfaddbb91f8a52cad5139e29079f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインチェック、詐欺被害者保護に向け規約改定へ。暗号資産の全売却などを規定",
-        "url": "https://news.yahoo.co.jp/articles/eca58dc5c7a6fa049def8c80a9efcef0352b0e18",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "金商法、税制、AI・オンチェーン金融──日本のデジタルアセット政策は『市場をつくる』段階へ",
+        "url": "https://news.yahoo.co.jp/articles/3ddab20902d3d923c83d4bfd0af79e75d1a92ba3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、アジア5市場への進出計画",
+        "url": "https://news.yahoo.co.jp/articles/e762d789b079f0f8eb39b7975b3c508ec297b5be",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
         "url": "https://news.yahoo.co.jp/articles/d305fba8c1d0b6b7d755eec54b1c4d3ba6fb96fe",
         "source": "Yahoo",
@@ -21011,18 +21085,6 @@
       {
         "title": "FRBウォラー理事、トークン化金融の「責任の所在」を問う──バイナンス事件に言及",
         "url": "https://news.yahoo.co.jp/articles/7e39973216a903c4544e38a303da64e1b6745c85",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Backpack、米CFTCの認可取得──日本法人は交換業登録を準備",
-        "url": "https://news.yahoo.co.jp/articles/82988828eea9cfaddbb91f8a52cad5139e29079f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "コインチェック、詐欺被害者保護に向け規約改定へ。暗号資産の全売却などを規定",
-        "url": "https://news.yahoo.co.jp/articles/eca58dc5c7a6fa049def8c80a9efcef0352b0e18",
         "source": "Yahoo",
         "date": ""
       }
@@ -21181,6 +21243,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "金商法、税制、AI・オンチェーン金融──日本のデジタルアセット政策は『市場をつくる』段階へ",
+        "url": "https://news.yahoo.co.jp/articles/3ddab20902d3d923c83d4bfd0af79e75d1a92ba3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アークインベスト、エヌビディア株約8480万ドル相当を売却。サークルなど買い増し＝報道",
+        "url": "https://news.yahoo.co.jp/articles/16062de68aa694959d244107c7d67d02263cd82c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベース、暗号資産担保融資をNY州でも開始。モルフォ活用で全米50州に展開",
+        "url": "https://news.yahoo.co.jp/articles/7cd4c71da5f89919b2ebfb49aed35087974252bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "テザー、ブラジルのフィンテック「Nomad」に15Mドル出資。USDTなどの導入模索",
         "url": "https://news.yahoo.co.jp/articles/cb6ac13986a8958d572ffde445611af68166cbea",
         "source": "Yahoo",
@@ -21195,30 +21275,30 @@
       {
         "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
         "url": "https://news.yahoo.co.jp/articles/d305fba8c1d0b6b7d755eec54b1c4d3ba6fb96fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ソニューム、K-POP公演をもとにした投資商品「IPボンド」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/795fd8ad950827d5d94156086097005875aae8e6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインもみ合い NVIDIA決算は好感 次はアンソロピック【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/546bfd766ca21f6435a52bdd896264767d1dc5fc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界銀行グループ、シティ・サークルとステーブルコイン活用検討。開発資金の支払い効率化へ",
-        "url": "https://news.yahoo.co.jp/articles/e77366381a8f760158d3b4df486f2836b1474f7a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "金商法、税制、AI・オンチェーン金融──日本のデジタルアセット政策は『市場をつくる』段階へ",
+        "url": "https://news.yahoo.co.jp/articles/3ddab20902d3d923c83d4bfd0af79e75d1a92ba3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アークインベスト、エヌビディア株約8480万ドル相当を売却。サークルなど買い増し＝報道",
+        "url": "https://news.yahoo.co.jp/articles/16062de68aa694959d244107c7d67d02263cd82c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "コインベース、暗号資産担保融資をNY州でも開始。モルフォ活用で全米50州に展開",
+        "url": "https://news.yahoo.co.jp/articles/7cd4c71da5f89919b2ebfb49aed35087974252bb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "テザー、ブラジルのフィンテック「Nomad」に15Mドル出資。USDTなどの導入模索",
         "url": "https://news.yahoo.co.jp/articles/cb6ac13986a8958d572ffde445611af68166cbea",
         "source": "Yahoo",
@@ -21235,27 +21315,15 @@
         "url": "https://news.yahoo.co.jp/articles/d305fba8c1d0b6b7d755eec54b1c4d3ba6fb96fe",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "ソニューム、K-POP公演をもとにした投資商品「IPボンド」提供開始",
-        "url": "https://news.yahoo.co.jp/articles/795fd8ad950827d5d94156086097005875aae8e6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインもみ合い NVIDIA決算は好感 次はアンソロピック【楽天ウォレットDaily Report】",
-        "url": "https://news.yahoo.co.jp/articles/546bfd766ca21f6435a52bdd896264767d1dc5fc",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "世界銀行グループ、シティ・サークルとステーブルコイン活用検討。開発資金の支払い効率化へ",
-        "url": "https://news.yahoo.co.jp/articles/e77366381a8f760158d3b4df486f2836b1474f7a",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "419AC0000000022": [
+      {
+        "title": "新潟・西区の80代男性から“現金800万円入りの菓子箱”だまし取った疑い 台湾出身の男（33）を逮捕",
+        "url": "https://news.yahoo.co.jp/articles/3934b908f937a44a474c48956589cf28ede8182a",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "5:31【山形】被害相次ぐ「ニセ警察詐欺」その手口は？ ニセの警察官かどうか見極めるには",
         "url": "https://news.yahoo.co.jp/articles/950cd706c74ef6de875c03983db1d37ae4a97b73",
@@ -21283,18 +21351,18 @@
       {
         "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
         "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
-        "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420CO0000000020": [
       {
+        "title": "新潟・西区の80代男性から“現金800万円入りの菓子箱”だまし取った疑い 台湾出身の男（33）を逮捕",
+        "url": "https://news.yahoo.co.jp/articles/3934b908f937a44a474c48956589cf28ede8182a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "5:31【山形】被害相次ぐ「ニセ警察詐欺」その手口は？ ニセの警察官かどうか見極めるには",
         "url": "https://news.yahoo.co.jp/articles/950cd706c74ef6de875c03983db1d37ae4a97b73",
         "source": "Yahoo",
@@ -21321,18 +21389,18 @@
       {
         "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
         "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
-        "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "420M60000F5A001": [
       {
+        "title": "新潟・西区の80代男性から“現金800万円入りの菓子箱”だまし取った疑い 台湾出身の男（33）を逮捕",
+        "url": "https://news.yahoo.co.jp/articles/3934b908f937a44a474c48956589cf28ede8182a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "5:31【山形】被害相次ぐ「ニセ警察詐欺」その手口は？ ニセの警察官かどうか見極めるには",
         "url": "https://news.yahoo.co.jp/articles/950cd706c74ef6de875c03983db1d37ae4a97b73",
         "source": "Yahoo",
@@ -21359,12 +21427,6 @@
       {
         "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
         "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "規制対応型DeFiは日本で実現できるか──ＳＭＢＣ日興に聞く「DeFi Gateway」の現在地",
-        "url": "https://news.yahoo.co.jp/articles/beb64ff2f2b185806c770b78464ba5cc6318c27b",
         "source": "Yahoo",
         "date": ""
       }
