@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T00:50:51.850Z",
+  "generatedAt": "2026-11-18T02:22:22.585Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "市場レベルBCP・3市場合同訓練を実施",
+      "url": "https://www.boj.or.jp/about/bcp/fin_bcp/fbcp261118a.htm",
+      "date": "2026-11-18",
+      "detectedAt": "2026-11-18T02:22:22.585Z",
+      "enriched": "2026-11-18T02:22:27.315Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行が2026年11月11日に短期金融市場・証券市場・外国為替市場の3市場合同BCP訓練を実施し、首都直下地震とサイバー攻撃の複合シナリオで市場情報共有・市場慣行変更手続・連絡体制を確認した。",
+        "市場参加者・決済インフラ運営者は各市場専用ウェブサイトを用いて業務状況情報共有、市場慣行変更・配慮要請手続、関係当局含む連絡体制確認を行い、災害時対応能力向上を図る必要がある。",
+        "2010年開始の市場レベルBCP・3市場合同訓練は18回目で、短期金融市場では即日スタント共通担保資金供給オペも実施され、金融機関の災害時業務継続体制整備に資するものである。"
       ],
       "aiSumV": 3
     },
@@ -21128,6 +21143,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "コインベース、ChatGPTの会話画面で暗号資産売買が可能に",
+        "url": "https://news.yahoo.co.jp/articles/591d1f05e37a3e56a2e942532038bdda7b7e30ed",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産のファンダメンタルズは依然堅調、下落は参入の好機＝Grayscale",
         "url": "https://news.yahoo.co.jp/articles/b8f4a70a2e540f0d99c77fa26665457c8010f653",
         "source": "Yahoo",
@@ -21154,18 +21175,18 @@
       {
         "title": "円建てステーブルコインは米ドル優位を崩せるか、日本の銀行が国際利用拡大に期待",
         "url": "https://news.yahoo.co.jp/articles/160ae6669c6ff4fae4e172f79a791a12d8280a2d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イオレ、ステーブルコインの新貸出プラン提供へ。AIデータセンター整備に活用",
-        "url": "https://news.yahoo.co.jp/articles/41a19d5abb1db6538d09ac8f60cdbd2e8c98c4f3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "コインベース、ChatGPTの会話画面で暗号資産売買が可能に",
+        "url": "https://news.yahoo.co.jp/articles/591d1f05e37a3e56a2e942532038bdda7b7e30ed",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "暗号資産のファンダメンタルズは依然堅調、下落は参入の好機＝Grayscale",
         "url": "https://news.yahoo.co.jp/articles/b8f4a70a2e540f0d99c77fa26665457c8010f653",
         "source": "Yahoo",
@@ -21192,12 +21213,6 @@
       {
         "title": "円建てステーブルコインは米ドル優位を崩せるか、日本の銀行が国際利用拡大に期待",
         "url": "https://news.yahoo.co.jp/articles/160ae6669c6ff4fae4e172f79a791a12d8280a2d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イオレ、ステーブルコインの新貸出プラン提供へ。AIデータセンター整備に活用",
-        "url": "https://news.yahoo.co.jp/articles/41a19d5abb1db6538d09ac8f60cdbd2e8c98c4f3",
         "source": "Yahoo",
         "date": ""
       }
