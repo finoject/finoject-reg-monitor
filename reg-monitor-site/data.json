@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T02:22:22.585Z",
+  "generatedAt": "2026-11-18T03:53:10.253Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -21143,6 +21143,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "世界銀行グループ、シティ・サークルとステーブルコイン活用検討。開発資金の支払い効率化へ",
+        "url": "https://news.yahoo.co.jp/articles/e77366381a8f760158d3b4df486f2836b1474f7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "世界銀行、開発資金の送金にUSDC活用を検討──米シティと連携",
+        "url": "https://news.yahoo.co.jp/articles/e0df0361e36244f6388e3267ed8690c83c519d95",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインベース、ChatGPTの会話画面で暗号資産売買が可能に",
         "url": "https://news.yahoo.co.jp/articles/591d1f05e37a3e56a2e942532038bdda7b7e30ed",
         "source": "Yahoo",
@@ -21163,24 +21175,24 @@
       {
         "title": "イーサリアム発のDEXアグリゲーター「カウスワップ」、ソラナ上の暗号資産取引を提供開始",
         "url": "https://news.yahoo.co.jp/articles/e9f219874b728996ca78f7a3aa85dd3a78ce60c4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロシア国内発行のルーブル連動ステーブルコイン、2027年に貿易利用拡大へ＝ズベルバンク幹部",
-        "url": "https://news.yahoo.co.jp/articles/2f5b72e1f5d6cfb9b347b4dfe0b0e0116301225d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "円建てステーブルコインは米ドル優位を崩せるか、日本の銀行が国際利用拡大に期待",
-        "url": "https://news.yahoo.co.jp/articles/160ae6669c6ff4fae4e172f79a791a12d8280a2d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "世界銀行グループ、シティ・サークルとステーブルコイン活用検討。開発資金の支払い効率化へ",
+        "url": "https://news.yahoo.co.jp/articles/e77366381a8f760158d3b4df486f2836b1474f7a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "世界銀行、開発資金の送金にUSDC活用を検討──米シティと連携",
+        "url": "https://news.yahoo.co.jp/articles/e0df0361e36244f6388e3267ed8690c83c519d95",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "コインベース、ChatGPTの会話画面で暗号資産売買が可能に",
         "url": "https://news.yahoo.co.jp/articles/591d1f05e37a3e56a2e942532038bdda7b7e30ed",
         "source": "Yahoo",
@@ -21201,18 +21213,6 @@
       {
         "title": "イーサリアム発のDEXアグリゲーター「カウスワップ」、ソラナ上の暗号資産取引を提供開始",
         "url": "https://news.yahoo.co.jp/articles/e9f219874b728996ca78f7a3aa85dd3a78ce60c4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ロシア国内発行のルーブル連動ステーブルコイン、2027年に貿易利用拡大へ＝ズベルバンク幹部",
-        "url": "https://news.yahoo.co.jp/articles/2f5b72e1f5d6cfb9b347b4dfe0b0e0116301225d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "円建てステーブルコインは米ドル優位を崩せるか、日本の銀行が国際利用拡大に期待",
-        "url": "https://news.yahoo.co.jp/articles/160ae6669c6ff4fae4e172f79a791a12d8280a2d",
         "source": "Yahoo",
         "date": ""
       }
