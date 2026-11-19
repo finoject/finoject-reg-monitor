@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:25:49.431Z",
+  "generatedAt": "2026-11-19T23:56:29.449Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -21090,6 +21090,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "IOSCO、量子リスクへの即時対応を求める──ブロックチェーンの移行は「特に困難」",
+        "url": "https://news.yahoo.co.jp/articles/6ced2b677766a616c962d93279c1f3b1bbca3c36",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アンソロピックIPO、史上最大の調達額約13兆円──初値34％高も30分で12％急落",
         "url": "https://news.yahoo.co.jp/articles/5124cef7090fe6fe3d0964b0e4daa9445c25c2d4",
         "source": "Yahoo",
@@ -21116,18 +21122,18 @@
       {
         "title": "香港金融管理局、暗号資産のマネロン対策にAI活用を検討",
         "url": "https://news.yahoo.co.jp/articles/5b5417dda709b07757df9b2fbbb3237930d1a7ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー支援の米ドルステーブルコイン「USAT」、アバランチに対応",
-        "url": "https://news.yahoo.co.jp/articles/3aff36b7dfd5f79b2243a4565203172ec58634af",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "IOSCO、量子リスクへの即時対応を求める──ブロックチェーンの移行は「特に困難」",
+        "url": "https://news.yahoo.co.jp/articles/6ced2b677766a616c962d93279c1f3b1bbca3c36",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アンソロピックIPO、史上最大の調達額約13兆円──初値34％高も30分で12％急落",
         "url": "https://news.yahoo.co.jp/articles/5124cef7090fe6fe3d0964b0e4daa9445c25c2d4",
         "source": "Yahoo",
@@ -21154,12 +21160,6 @@
       {
         "title": "香港金融管理局、暗号資産のマネロン対策にAI活用を検討",
         "url": "https://news.yahoo.co.jp/articles/5b5417dda709b07757df9b2fbbb3237930d1a7ab",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー支援の米ドルステーブルコイン「USAT」、アバランチに対応",
-        "url": "https://news.yahoo.co.jp/articles/3aff36b7dfd5f79b2243a4565203172ec58634af",
         "source": "Yahoo",
         "date": ""
       }
