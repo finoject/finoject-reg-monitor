@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:49:27.872Z",
+  "generatedAt": "2026-11-19T05:27:39.012Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,37 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第６回会合を開催いたしました",
+      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
+      "date": "2026-11-19",
+      "detectedAt": "2026-11-19T05:27:39.012Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
+        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
+        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-19T05:27:43.650Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：HiJoJo Partners（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20261119_01.html",
+      "date": "2026-11-19",
+      "detectedAt": "2026-11-19T05:27:39.012Z",
+      "enriched": "2026-11-19T05:27:43.651Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "HiJoJo Partners（株）（コード657A）は11月20日に上場予定。初値決定前の気配運用では、公募・売出価格560円を板中心値段とし、上限1,288円（更新値幅28円、10分間隔）・下限420円（通常更新値幅、3分間隔）の範囲で気配を更新。",
+        "取引参加者は同銘柄の新規上場日売買において成行呼値（成行売呼値・成行買呼値）を禁止し、140円以上2,240円以下の範囲で指値注文のみ受け付ける。初値決定までに売買が成立しない場合も成行呼値を禁止。",
+        "初値決定までは制限値幅を適用しない。初値決定後は当該初値を基準値段として通常の呼値制限値幅が適用され、注文受付価格も初値を基準とした制限値幅内となる（東証自主規制による気配運用）。"
       ],
       "aiSumV": 3
     },
@@ -2430,22 +2461,6 @@
         "本セミナーは日本公認会計士協会の周知依頼に基づくもので、IMF財務局副局長ほか登壇者からIMF財務局の概要と専門職向けキャリア機会について説明を受ける。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第５回会合の議事要旨を掲載いたしました",
-      "url": "https://www.jsda.or.jp/about/kaigi/chousa/2040vision/index.html",
-      "date": "2026-11-02",
-      "detectedAt": "2026-11-02T07:20:03.097Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は2026年7月7日に「2040年に向けた我が国金融資本市場のビジョンについての懇談会」第1回会合を開催し、NISA拡充下での「貯蓄から投資へ」実現に向け、2040年時点での家計資産運用・企業資金調達・政府資金調達・国際競争力強化の観点からビジョン設定を検討開始。",
-        "証券業界の役職員と有識者21名が委員として参画し、座長は日比野会長が務め、人口減少・高齢化・技術革新・GXなどの環境変化を踏まえ資産運用と資金調達が一体となった金融資本市場の将来像を議論。",
-        "本懇談会は2026年4月の設置から第1回を開催し、金融庁・経済産業省等がオブザーバー参加、日本証券業協会社会連携本部金融証券研究センターが事務担当し、実現に向けた証券業界の役割を幅広く検討。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-11-02T07:20:10.804Z"
     },
     {
       "agency": "日本銀行",
@@ -21030,6 +21045,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "英金融業界のサイバー事案、過去5年で2番目の高水準",
+        "url": "https://news.yahoo.co.jp/articles/f4b1af3b862cdb56f0cfcf8be20e4e09b0ee6451",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アブダビ裁判所、バイナンスから盗まれた暗号資産の凍結維持を命令＝報道",
+        "url": "https://news.yahoo.co.jp/articles/03cddd1a4b759d034c88d18aa6717addf1064957",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】英国初のトークン化預金の次は日本か──Midnight財団トップ、国内大手と協議中と明かす",
         "url": "https://news.yahoo.co.jp/articles/f62dd8fd4c8fb49dfc7dc5da62ed8b70beef4845",
         "source": "Yahoo",
@@ -21050,24 +21077,24 @@
       {
         "title": "バイナンス、アジア5市場への進出計画",
         "url": "https://news.yahoo.co.jp/articles/e762d789b079f0f8eb39b7975b3c508ec297b5be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
-        "url": "https://news.yahoo.co.jp/articles/d305fba8c1d0b6b7d755eec54b1c4d3ba6fb96fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米規制当局、Kalshiのトランプ発言予測に停止命令",
-        "url": "https://news.yahoo.co.jp/articles/913be154c8f4c79c8c220fee8d5abf664a04fca2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "英金融業界のサイバー事案、過去5年で2番目の高水準",
+        "url": "https://news.yahoo.co.jp/articles/f4b1af3b862cdb56f0cfcf8be20e4e09b0ee6451",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アブダビ裁判所、バイナンスから盗まれた暗号資産の凍結維持を命令＝報道",
+        "url": "https://news.yahoo.co.jp/articles/03cddd1a4b759d034c88d18aa6717addf1064957",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【独自】英国初のトークン化預金の次は日本か──Midnight財団トップ、国内大手と協議中と明かす",
         "url": "https://news.yahoo.co.jp/articles/f62dd8fd4c8fb49dfc7dc5da62ed8b70beef4845",
         "source": "Yahoo",
@@ -21088,18 +21115,6 @@
       {
         "title": "バイナンス、アジア5市場への進出計画",
         "url": "https://news.yahoo.co.jp/articles/e762d789b079f0f8eb39b7975b3c508ec297b5be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
-        "url": "https://news.yahoo.co.jp/articles/d305fba8c1d0b6b7d755eec54b1c4d3ba6fb96fe",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米規制当局、Kalshiのトランプ発言予測に停止命令",
-        "url": "https://news.yahoo.co.jp/articles/913be154c8f4c79c8c220fee8d5abf664a04fca2",
         "source": "Yahoo",
         "date": ""
       }
@@ -21258,6 +21273,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "アブダビ裁判所、バイナンスから盗まれた暗号資産の凍結維持を命令＝報道",
+        "url": "https://news.yahoo.co.jp/articles/03cddd1a4b759d034c88d18aa6717addf1064957",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "《チリ》デジタル通貨改革に迫る「中国依存」＝便利さの裏に潜む金融主権のリスク＝脱ドル化の波と自前決済網の壁",
         "url": "https://news.yahoo.co.jp/articles/98cad2388a9e79129031f789092f57107f9d734c",
         "source": "Yahoo",
@@ -21284,18 +21305,18 @@
       {
         "title": "テザー、ブラジルのフィンテック「Nomad」に15Mドル出資。USDTなどの導入模索",
         "url": "https://news.yahoo.co.jp/articles/cb6ac13986a8958d572ffde445611af68166cbea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ホットリンクG傘下のNonagon Capital、AIエージェントのデータ購入を円建てステーブルコインで実証",
-        "url": "https://news.yahoo.co.jp/articles/f264416a28c4116059d6ea2ffe32760154a92c25",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "アブダビ裁判所、バイナンスから盗まれた暗号資産の凍結維持を命令＝報道",
+        "url": "https://news.yahoo.co.jp/articles/03cddd1a4b759d034c88d18aa6717addf1064957",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "《チリ》デジタル通貨改革に迫る「中国依存」＝便利さの裏に潜む金融主権のリスク＝脱ドル化の波と自前決済網の壁",
         "url": "https://news.yahoo.co.jp/articles/98cad2388a9e79129031f789092f57107f9d734c",
         "source": "Yahoo",
@@ -21322,12 +21343,6 @@
       {
         "title": "テザー、ブラジルのフィンテック「Nomad」に15Mドル出資。USDTなどの導入模索",
         "url": "https://news.yahoo.co.jp/articles/cb6ac13986a8958d572ffde445611af68166cbea",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ホットリンクG傘下のNonagon Capital、AIエージェントのデータ購入を円建てステーブルコインで実証",
-        "url": "https://news.yahoo.co.jp/articles/f264416a28c4116059d6ea2ffe32760154a92c25",
         "source": "Yahoo",
         "date": ""
       }
@@ -22048,6 +22063,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "「長生炭鉱」遺骨の身元特定に向けた情報提供呼びかけ、「大きな前進だ」関係者期待",
+        "url": "https://news.yahoo.co.jp/articles/d0316eadfcbaab316d649215e01e64701290f858",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "0:37運転免許証など画像データの速やかな削除を レンタカー事業者に注意喚起 タイムズカー漏えい問題受け 個人情報保護委員会",
         "url": "https://news.yahoo.co.jp/articles/2c2578daa515d2929e4ad07a39b69a2d5b776cf7",
         "source": "Yahoo",
@@ -22074,18 +22095,18 @@
       {
         "title": "情報漏えい通知の置き方で守られたのは配信の仕組みと窓口の手間 リンツ・タイムズ・ティップネスの差",
         "url": "https://news.yahoo.co.jp/expert/articles/7524c8cda5054afac7c414206c400b751ac221eb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「答える必要ない」情報隊文書問題で小泉防衛相 開示請求にも応じず",
-        "url": "https://news.yahoo.co.jp/articles/e07f1fbc4e6e8238a806a39614db3582226c950e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "「長生炭鉱」遺骨の身元特定に向けた情報提供呼びかけ、「大きな前進だ」関係者期待",
+        "url": "https://news.yahoo.co.jp/articles/d0316eadfcbaab316d649215e01e64701290f858",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "0:37運転免許証など画像データの速やかな削除を レンタカー事業者に注意喚起 タイムズカー漏えい問題受け 個人情報保護委員会",
         "url": "https://news.yahoo.co.jp/articles/2c2578daa515d2929e4ad07a39b69a2d5b776cf7",
         "source": "Yahoo",
@@ -22112,18 +22133,18 @@
       {
         "title": "情報漏えい通知の置き方で守られたのは配信の仕組みと窓口の手間 リンツ・タイムズ・ティップネスの差",
         "url": "https://news.yahoo.co.jp/expert/articles/7524c8cda5054afac7c414206c400b751ac221eb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「答える必要ない」情報隊文書問題で小泉防衛相 開示請求にも応じず",
-        "url": "https://news.yahoo.co.jp/articles/e07f1fbc4e6e8238a806a39614db3582226c950e",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "「長生炭鉱」遺骨の身元特定に向けた情報提供呼びかけ、「大きな前進だ」関係者期待",
+        "url": "https://news.yahoo.co.jp/articles/d0316eadfcbaab316d649215e01e64701290f858",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "0:37運転免許証など画像データの速やかな削除を レンタカー事業者に注意喚起 タイムズカー漏えい問題受け 個人情報保護委員会",
         "url": "https://news.yahoo.co.jp/articles/2c2578daa515d2929e4ad07a39b69a2d5b776cf7",
         "source": "Yahoo",
@@ -22150,12 +22171,6 @@
       {
         "title": "情報漏えい通知の置き方で守られたのは配信の仕組みと窓口の手間 リンツ・タイムズ・ティップネスの差",
         "url": "https://news.yahoo.co.jp/expert/articles/7524c8cda5054afac7c414206c400b751ac221eb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「答える必要ない」情報隊文書問題で小泉防衛相 開示請求にも応じず",
-        "url": "https://news.yahoo.co.jp/articles/e07f1fbc4e6e8238a806a39614db3582226c950e",
         "source": "Yahoo",
         "date": ""
       }
