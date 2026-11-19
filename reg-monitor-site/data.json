@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:01:06.802Z",
+  "generatedAt": "2026-11-19T11:32:12.791Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "金融庁",
+      "title": "事業者支援の促進及び金融の円滑化の公表",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261119-2/20261119-2.html",
+      "date": "2026-11-19",
+      "detectedAt": "2026-11-19T11:32:12.791Z",
+      "enriched": "2026-11-19T11:32:18.881Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融庁は2026年11月19日、物価高・人手不足・中東情勢・令和8年熊本地震の影響下にある事業者の資金繰り支援のため、金融関係団体等との意見交換会を開催し、年末・年度末に向けた万全の資金供給体制構築を要請した。",
+        "銀行協会・信用金庫協会・信用組合協会等の金融機関及び日本政策金融公庫・信用保証協会等の政策金融機関は、事業者に寄り添いながら一歩先を見据えた経営支援を講じ、資金繰りに支障が生じないよう対応することが要請された。",
+        "本要請は2026年11月19日付で政府から金融関係団体等に対して行われ、特に資金需要が高まる年末・年度末期間における金融の円滑化と事業者支援の徹底が対象とされた。"
       ],
       "aiSumV": 3
     },
@@ -20847,6 +20862,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "【独自】金融庁が楽天証券に報告徴求命令 顧客の年収や金融資産などの個人情報漏えい受け",
+        "url": "https://news.yahoo.co.jp/articles/89b878e22d9a5e69dab54fdc2bfb0eda9dd232ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券の漏えいは「テスト環境」から、個情委が1カ月前に注意喚起していた論点",
         "url": "https://news.yahoo.co.jp/articles/a5334530b4f6fb0e021289779f85fa80879afefd",
         "source": "Yahoo",
@@ -20873,18 +20894,18 @@
       {
         "title": "変額保険を勧められたら。金融商品取引法の決まりが及ぶ「特定保険契約」と契約前の書面",
         "url": "https://news.yahoo.co.jp/articles/d0bcae4388576d494f05db48979f635e480983f4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "知人から聞いた「近く発表される話」で株を買うと。インサイダー取引の線引き",
-        "url": "https://news.yahoo.co.jp/articles/1f6f6d778b5575b246fd577d167d8695a968db61",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "【独自】金融庁が楽天証券に報告徴求命令 顧客の年収や金融資産などの個人情報漏えい受け",
+        "url": "https://news.yahoo.co.jp/articles/89b878e22d9a5e69dab54fdc2bfb0eda9dd232ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券の漏えいは「テスト環境」から、個情委が1カ月前に注意喚起していた論点",
         "url": "https://news.yahoo.co.jp/articles/a5334530b4f6fb0e021289779f85fa80879afefd",
         "source": "Yahoo",
@@ -20911,18 +20932,18 @@
       {
         "title": "変額保険を勧められたら。金融商品取引法の決まりが及ぶ「特定保険契約」と契約前の書面",
         "url": "https://news.yahoo.co.jp/articles/d0bcae4388576d494f05db48979f635e480983f4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "知人から聞いた「近く発表される話」で株を買うと。インサイダー取引の線引き",
-        "url": "https://news.yahoo.co.jp/articles/1f6f6d778b5575b246fd577d167d8695a968db61",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "【独自】金融庁が楽天証券に報告徴求命令 顧客の年収や金融資産などの個人情報漏えい受け",
+        "url": "https://news.yahoo.co.jp/articles/89b878e22d9a5e69dab54fdc2bfb0eda9dd232ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券の漏えいは「テスト環境」から、個情委が1カ月前に注意喚起していた論点",
         "url": "https://news.yahoo.co.jp/articles/a5334530b4f6fb0e021289779f85fa80879afefd",
         "source": "Yahoo",
@@ -20949,18 +20970,18 @@
       {
         "title": "変額保険を勧められたら。金融商品取引法の決まりが及ぶ「特定保険契約」と契約前の書面",
         "url": "https://news.yahoo.co.jp/articles/d0bcae4388576d494f05db48979f635e480983f4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "知人から聞いた「近く発表される話」で株を買うと。インサイダー取引の線引き",
-        "url": "https://news.yahoo.co.jp/articles/1f6f6d778b5575b246fd577d167d8695a968db61",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "【独自】金融庁が楽天証券に報告徴求命令 顧客の年収や金融資産などの個人情報漏えい受け",
+        "url": "https://news.yahoo.co.jp/articles/89b878e22d9a5e69dab54fdc2bfb0eda9dd232ec",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券の漏えいは「テスト環境」から、個情委が1カ月前に注意喚起していた論点",
         "url": "https://news.yahoo.co.jp/articles/a5334530b4f6fb0e021289779f85fa80879afefd",
         "source": "Yahoo",
@@ -20987,12 +21008,6 @@
       {
         "title": "変額保険を勧められたら。金融商品取引法の決まりが及ぶ「特定保険契約」と契約前の書面",
         "url": "https://news.yahoo.co.jp/articles/d0bcae4388576d494f05db48979f635e480983f4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "知人から聞いた「近く発表される話」で株を買うと。インサイダー取引の線引き",
-        "url": "https://news.yahoo.co.jp/articles/1f6f6d778b5575b246fd577d167d8695a968db61",
         "source": "Yahoo",
         "date": ""
       }
@@ -21075,6 +21090,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "日本直販、通販サイトで円建てJPYC決済を試験導入",
+        "url": "https://news.yahoo.co.jp/articles/708a142db260ca9a65bf7e1fc4feb9995eb88ae8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バックパック、米国で先物取引業者に登録。無期限先物提供へ",
         "url": "https://news.yahoo.co.jp/articles/81d3d3f4fa0150bb089daf410bbab52ab6cece21",
         "source": "Yahoo",
@@ -21101,18 +21122,18 @@
       {
         "title": "英金融業界のサイバー事案、過去5年で2番目の高水準",
         "url": "https://news.yahoo.co.jp/articles/f4b1af3b862cdb56f0cfcf8be20e4e09b0ee6451",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アブダビ裁判所、バイナンスから盗まれた暗号資産の凍結維持を命令＝報道",
-        "url": "https://news.yahoo.co.jp/articles/03cddd1a4b759d034c88d18aa6717addf1064957",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "日本直販、通販サイトで円建てJPYC決済を試験導入",
+        "url": "https://news.yahoo.co.jp/articles/708a142db260ca9a65bf7e1fc4feb9995eb88ae8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "バックパック、米国で先物取引業者に登録。無期限先物提供へ",
         "url": "https://news.yahoo.co.jp/articles/81d3d3f4fa0150bb089daf410bbab52ab6cece21",
         "source": "Yahoo",
@@ -21139,12 +21160,6 @@
       {
         "title": "英金融業界のサイバー事案、過去5年で2番目の高水準",
         "url": "https://news.yahoo.co.jp/articles/f4b1af3b862cdb56f0cfcf8be20e4e09b0ee6451",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アブダビ裁判所、バイナンスから盗まれた暗号資産の凍結維持を命令＝報道",
-        "url": "https://news.yahoo.co.jp/articles/03cddd1a4b759d034c88d18aa6717addf1064957",
         "source": "Yahoo",
         "date": ""
       }
@@ -21303,6 +21318,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "日本直販、通販サイトで円建てJPYC決済を試験導入",
+        "url": "https://news.yahoo.co.jp/articles/708a142db260ca9a65bf7e1fc4feb9995eb88ae8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Visa、ステーブルコインを活用した国際送金をアジア太平洋地域で推進",
         "url": "https://news.yahoo.co.jp/articles/293ba5ab4d84bdf44f26edbb70c4601ac8750f27",
         "source": "Yahoo",
@@ -21329,18 +21350,18 @@
       {
         "title": "テザー支援の米ドルステーブルコイン「USAT」、アバランチに対応",
         "url": "https://news.yahoo.co.jp/articles/3aff36b7dfd5f79b2243a4565203172ec58634af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アブダビ裁判所、バイナンスから盗まれた暗号資産の凍結維持を命令＝報道",
-        "url": "https://news.yahoo.co.jp/articles/03cddd1a4b759d034c88d18aa6717addf1064957",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "日本直販、通販サイトで円建てJPYC決済を試験導入",
+        "url": "https://news.yahoo.co.jp/articles/708a142db260ca9a65bf7e1fc4feb9995eb88ae8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Visa、ステーブルコインを活用した国際送金をアジア太平洋地域で推進",
         "url": "https://news.yahoo.co.jp/articles/293ba5ab4d84bdf44f26edbb70c4601ac8750f27",
         "source": "Yahoo",
@@ -21367,12 +21388,6 @@
       {
         "title": "テザー支援の米ドルステーブルコイン「USAT」、アバランチに対応",
         "url": "https://news.yahoo.co.jp/articles/3aff36b7dfd5f79b2243a4565203172ec58634af",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アブダビ裁判所、バイナンスから盗まれた暗号資産の凍結維持を命令＝報道",
-        "url": "https://news.yahoo.co.jp/articles/03cddd1a4b759d034c88d18aa6717addf1064957",
         "source": "Yahoo",
         "date": ""
       }
