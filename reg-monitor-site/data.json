@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:53:29.217Z",
+  "generatedAt": "2026-11-19T01:24:36.829Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【概要説明】植田総裁「通貨及び金融の調節に関する報告書」（参議院財政金融委員会）",
+      "url": "https://www.boj.or.jp/mopo/diet/d_state/dst261119a.htm",
+      "date": "2026-11-19",
+      "detectedAt": "2026-11-19T01:24:36.829Z",
+      "enriched": "2026-11-19T01:24:41.504Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は無担保コールレート・オーバーナイト物を1.25％程度で推移するよう促す金融市場調節方針を維持し、基調的な物価上昇率が2％の物価安定目標と概ね整合的な水準となる中で、経済・物価・金融情勢に応じて引き続き政策金利を引き上げ金融緩和の度合いを調整していく。",
+        "日本銀行は中東情勢・AI関連需要・為替相場変動の影響を含め経済・物価の見通しが実現する確度やリスクを点検しながら、基調的な物価上昇率が2％を超えて上振れていくリスク顕在化時に悪影響を及ぼさないよう政策調整のタイミングやペースを検討していく。",
+        "わが国景気は緩やかに回復しており、物価面では生鮮食品を除いた消費者物価が足元で2％程度となり、先行きは原油価格上昇やAI関連需要に伴う半導体価格上昇により2％をはっきり上回る水準まで伸び率を高めていくと予想している。"
       ],
       "aiSumV": 3
     },
@@ -20787,6 +20802,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "海外のFX業者で出金できない。日本で登録のない業者との取引で起きるトラブル",
+        "url": "https://news.yahoo.co.jp/articles/97eee408e45f8375457cd9be942ab5f97f0595a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産ETF、2028年に準備は間に合うのか──売買・保管・監査の課題を議論【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/f71894df12955fb4ec30e56894c65c5e00762179",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "証券会社がつぶれたら預けた株はどうなる。分別管理と投資者保護基金が守るもの",
         "url": "https://news.yahoo.co.jp/articles/fe78426f1a2bdad7b1d0165c8280921d0f046e66",
         "source": "Yahoo",
@@ -20807,24 +20834,24 @@
       {
         "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請し承認される",
         "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【暗号資産の税金】2026年9月末で約1474万口座「1年で約154万増」利益は原則《雑所得》所得税5%〜45%に住民税も",
-        "url": "https://news.yahoo.co.jp/articles/7f09b28afe22359186d179bd8b1080caaa81f792",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
-        "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "海外のFX業者で出金できない。日本で登録のない業者との取引で起きるトラブル",
+        "url": "https://news.yahoo.co.jp/articles/97eee408e45f8375457cd9be942ab5f97f0595a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産ETF、2028年に準備は間に合うのか──売買・保管・監査の課題を議論【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/f71894df12955fb4ec30e56894c65c5e00762179",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "証券会社がつぶれたら預けた株はどうなる。分別管理と投資者保護基金が守るもの",
         "url": "https://news.yahoo.co.jp/articles/fe78426f1a2bdad7b1d0165c8280921d0f046e66",
         "source": "Yahoo",
@@ -20845,24 +20872,24 @@
       {
         "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請し承認される",
         "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【暗号資産の税金】2026年9月末で約1474万口座「1年で約154万増」利益は原則《雑所得》所得税5%〜45%に住民税も",
-        "url": "https://news.yahoo.co.jp/articles/7f09b28afe22359186d179bd8b1080caaa81f792",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
-        "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "海外のFX業者で出金できない。日本で登録のない業者との取引で起きるトラブル",
+        "url": "https://news.yahoo.co.jp/articles/97eee408e45f8375457cd9be942ab5f97f0595a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産ETF、2028年に準備は間に合うのか──売買・保管・監査の課題を議論【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/f71894df12955fb4ec30e56894c65c5e00762179",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "証券会社がつぶれたら預けた株はどうなる。分別管理と投資者保護基金が守るもの",
         "url": "https://news.yahoo.co.jp/articles/fe78426f1a2bdad7b1d0165c8280921d0f046e66",
         "source": "Yahoo",
@@ -20883,24 +20910,24 @@
       {
         "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請し承認される",
         "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【暗号資産の税金】2026年9月末で約1474万口座「1年で約154万増」利益は原則《雑所得》所得税5%〜45%に住民税も",
-        "url": "https://news.yahoo.co.jp/articles/7f09b28afe22359186d179bd8b1080caaa81f792",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
-        "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "海外のFX業者で出金できない。日本で登録のない業者との取引で起きるトラブル",
+        "url": "https://news.yahoo.co.jp/articles/97eee408e45f8375457cd9be942ab5f97f0595a7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "暗号資産ETF、2028年に準備は間に合うのか──売買・保管・監査の課題を議論【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/f71894df12955fb4ec30e56894c65c5e00762179",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "証券会社がつぶれたら預けた株はどうなる。分別管理と投資者保護基金が守るもの",
         "url": "https://news.yahoo.co.jp/articles/fe78426f1a2bdad7b1d0165c8280921d0f046e66",
         "source": "Yahoo",
@@ -20921,18 +20948,6 @@
       {
         "title": "【速報】会計不正・品質不正に揺れるニデック 2026年度上半期の決算などまとめた「半期報告書」の提出を延期 期限の1カ月延長を申請し承認される",
         "url": "https://news.yahoo.co.jp/articles/2fbe83b9fe73b2026125245161268d7dc8db84d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【暗号資産の税金】2026年9月末で約1474万口座「1年で約154万増」利益は原則《雑所得》所得税5%〜45%に住民税も",
-        "url": "https://news.yahoo.co.jp/articles/7f09b28afe22359186d179bd8b1080caaa81f792",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "DeFiとRWAが交わるオンチェーン金融──チェイナリシスCEOが語る日本の可能性【前編】",
-        "url": "https://news.yahoo.co.jp/articles/896dc2763c28087965c1ebc9229412a13ad6ed86",
         "source": "Yahoo",
         "date": ""
       }
@@ -21015,6 +21030,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "暗号資産ETF、2028年に準備は間に合うのか──売買・保管・監査の課題を議論【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/f71894df12955fb4ec30e56894c65c5e00762179",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金商法、税制、AI・オンチェーン金融──日本のデジタルアセット政策は『市場をつくる』段階へ",
         "url": "https://news.yahoo.co.jp/articles/3ddab20902d3d923c83d4bfd0af79e75d1a92ba3",
         "source": "Yahoo",
@@ -21041,18 +21062,18 @@
       {
         "title": "英銀初、パブリックチェーン上で個人預金をトークン化＝Midnight Foundation",
         "url": "https://news.yahoo.co.jp/articles/d6c21d082759a4a11696d53b1c5550e4e78f84e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "FRBウォラー理事、トークン化金融の「責任の所在」を問う──バイナンス事件に言及",
-        "url": "https://news.yahoo.co.jp/articles/7e39973216a903c4544e38a303da64e1b6745c85",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "暗号資産ETF、2028年に準備は間に合うのか──売買・保管・監査の課題を議論【イベントレポート】",
+        "url": "https://news.yahoo.co.jp/articles/f71894df12955fb4ec30e56894c65c5e00762179",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金商法、税制、AI・オンチェーン金融──日本のデジタルアセット政策は『市場をつくる』段階へ",
         "url": "https://news.yahoo.co.jp/articles/3ddab20902d3d923c83d4bfd0af79e75d1a92ba3",
         "source": "Yahoo",
@@ -21079,12 +21100,6 @@
       {
         "title": "英銀初、パブリックチェーン上で個人預金をトークン化＝Midnight Foundation",
         "url": "https://news.yahoo.co.jp/articles/d6c21d082759a4a11696d53b1c5550e4e78f84e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "FRBウォラー理事、トークン化金融の「責任の所在」を問う──バイナンス事件に言及",
-        "url": "https://news.yahoo.co.jp/articles/7e39973216a903c4544e38a303da64e1b6745c85",
         "source": "Yahoo",
         "date": ""
       }
