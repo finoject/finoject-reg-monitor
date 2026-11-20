@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T03:42:42.835Z",
+  "generatedAt": "2026-11-20T05:15:35.162Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "情報セキュリティ・セミナー「モノをどう見分け、どう認証するか」開催のお知らせ",
+      "url": "https://www.boj.or.jp/about/release_2026/rel261120a.htm",
+      "date": "2026-11-20",
+      "detectedAt": "2026-11-20T05:15:35.162Z",
+      "enriched": "2026-11-20T05:15:40.615Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行金融研究所が情報セキュリティ・セミナー「モノをどう見分け、どう認証するか～個体の特徴を利用するセキュリティ技術の最前線～」を開催する。",
+        "金融機関等の実務担当者は金融研究所ホームページから開催要領及び参加申込方法を確認し、必要に応じて参加申し込みを行う。",
+        "開催案内は2026年11月20日付で日本銀行金融研究所により公表されており、具体的な開催日時・会場等の詳細は同ホームページで確認可能。"
       ],
       "aiSumV": 3
     },
@@ -20907,6 +20922,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
+        "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融機関と説明不足でもめたら。裁判とは別に金融ADRという解決の場がある",
+        "url": "https://news.yahoo.co.jp/articles/ac19dc00e3924bf4ab8ac87a536519ba96d07310",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券1572万口座流出、集団訴訟の希望者が1日で6000人突破 金融庁も異例の報告命令",
         "url": "https://news.yahoo.co.jp/articles/16804b46a0bb0be0dd8a43f605a908c1a33c4ddc",
         "source": "Yahoo",
@@ -20927,24 +20954,24 @@
       {
         "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
         "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:40楽天証券に金融庁が報告徴求命令 447万口座で年収や金融資産など漏えいか",
-        "url": "https://news.yahoo.co.jp/articles/68450d02931b369c89750a73f587f1a666cb0a51",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏えいのおそれで",
-        "url": "https://news.yahoo.co.jp/articles/d04a8acc39f997b10d88d21b0946f8b46117e34d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
+        "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融機関と説明不足でもめたら。裁判とは別に金融ADRという解決の場がある",
+        "url": "https://news.yahoo.co.jp/articles/ac19dc00e3924bf4ab8ac87a536519ba96d07310",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券1572万口座流出、集団訴訟の希望者が1日で6000人突破 金融庁も異例の報告命令",
         "url": "https://news.yahoo.co.jp/articles/16804b46a0bb0be0dd8a43f605a908c1a33c4ddc",
         "source": "Yahoo",
@@ -20965,24 +20992,24 @@
       {
         "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
         "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:40楽天証券に金融庁が報告徴求命令 447万口座で年収や金融資産など漏えいか",
-        "url": "https://news.yahoo.co.jp/articles/68450d02931b369c89750a73f587f1a666cb0a51",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏えいのおそれで",
-        "url": "https://news.yahoo.co.jp/articles/d04a8acc39f997b10d88d21b0946f8b46117e34d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
+        "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融機関と説明不足でもめたら。裁判とは別に金融ADRという解決の場がある",
+        "url": "https://news.yahoo.co.jp/articles/ac19dc00e3924bf4ab8ac87a536519ba96d07310",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券1572万口座流出、集団訴訟の希望者が1日で6000人突破 金融庁も異例の報告命令",
         "url": "https://news.yahoo.co.jp/articles/16804b46a0bb0be0dd8a43f605a908c1a33c4ddc",
         "source": "Yahoo",
@@ -21003,24 +21030,24 @@
       {
         "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
         "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:40楽天証券に金融庁が報告徴求命令 447万口座で年収や金融資産など漏えいか",
-        "url": "https://news.yahoo.co.jp/articles/68450d02931b369c89750a73f587f1a666cb0a51",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏えいのおそれで",
-        "url": "https://news.yahoo.co.jp/articles/d04a8acc39f997b10d88d21b0946f8b46117e34d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
+        "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融機関と説明不足でもめたら。裁判とは別に金融ADRという解決の場がある",
+        "url": "https://news.yahoo.co.jp/articles/ac19dc00e3924bf4ab8ac87a536519ba96d07310",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券1572万口座流出、集団訴訟の希望者が1日で6000人突破 金融庁も異例の報告命令",
         "url": "https://news.yahoo.co.jp/articles/16804b46a0bb0be0dd8a43f605a908c1a33c4ddc",
         "source": "Yahoo",
@@ -21041,18 +21068,6 @@
       {
         "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
         "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "0:40楽天証券に金融庁が報告徴求命令 447万口座で年収や金融資産など漏えいか",
-        "url": "https://news.yahoo.co.jp/articles/68450d02931b369c89750a73f587f1a666cb0a51",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏えいのおそれで",
-        "url": "https://news.yahoo.co.jp/articles/d04a8acc39f997b10d88d21b0946f8b46117e34d",
         "source": "Yahoo",
         "date": ""
       }
@@ -21135,6 +21150,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
+        "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン、6.2万ドル割れ アンソロピックIPO及第点も米株は下落【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/37e155b9137e5c3ba9861eae062803275e578ec8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "耐量子暗号への移行、ブロックチェーンでは特に困難か。IOSCOが報告書",
         "url": "https://news.yahoo.co.jp/articles/fb25db49dc5a9b0e3a9f9fb2cb5c663e141d2c4b",
         "source": "Yahoo",
@@ -21155,24 +21182,24 @@
       {
         "title": "日本直販、通販サイトで円建てJPYC決済を試験導入",
         "url": "https://news.yahoo.co.jp/articles/708a142db260ca9a65bf7e1fc4feb9995eb88ae8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バックパック、米国で先物取引業者に登録。無期限先物提供へ",
-        "url": "https://news.yahoo.co.jp/articles/81d3d3f4fa0150bb089daf410bbab52ab6cece21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【米国最新情報：180】始まる民主党のガルシア次期下院監視委員会委員長のトランプ政権への攻撃（1）",
-        "url": "https://news.yahoo.co.jp/expert/articles/d6f4f712fc796940acb8a0d919aaf0ecb5a41398",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
+        "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコイン、6.2万ドル割れ アンソロピックIPO及第点も米株は下落【楽天ウォレットDaily Report】",
+        "url": "https://news.yahoo.co.jp/articles/37e155b9137e5c3ba9861eae062803275e578ec8",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "耐量子暗号への移行、ブロックチェーンでは特に困難か。IOSCOが報告書",
         "url": "https://news.yahoo.co.jp/articles/fb25db49dc5a9b0e3a9f9fb2cb5c663e141d2c4b",
         "source": "Yahoo",
@@ -21193,18 +21220,6 @@
       {
         "title": "日本直販、通販サイトで円建てJPYC決済を試験導入",
         "url": "https://news.yahoo.co.jp/articles/708a142db260ca9a65bf7e1fc4feb9995eb88ae8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "バックパック、米国で先物取引業者に登録。無期限先物提供へ",
-        "url": "https://news.yahoo.co.jp/articles/81d3d3f4fa0150bb089daf410bbab52ab6cece21",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【米国最新情報：180】始まる民主党のガルシア次期下院監視委員会委員長のトランプ政権への攻撃（1）",
-        "url": "https://news.yahoo.co.jp/expert/articles/d6f4f712fc796940acb8a0d919aaf0ecb5a41398",
         "source": "Yahoo",
         "date": ""
       }
@@ -21363,6 +21378,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
+        "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "XRPレジャー財団、GL1の市場インフラ評価で全10原則を自己評価。一部を第三者検証",
         "url": "https://news.yahoo.co.jp/articles/9e28d99867ad9da5fa75a3315aaf7550bbb7cda3",
         "source": "Yahoo",
@@ -21389,18 +21410,18 @@
       {
         "title": "ビットコイン6.2万ドルの攻防──短期保有者の送金と先物売りが映す、底打ちの条件【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/0b2666fd92adf6745684c82d11c90d6d933bf0d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本直販、通販サイトで円建てJPYC決済を試験導入",
-        "url": "https://news.yahoo.co.jp/articles/708a142db260ca9a65bf7e1fc4feb9995eb88ae8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
+        "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "XRPレジャー財団、GL1の市場インフラ評価で全10原則を自己評価。一部を第三者検証",
         "url": "https://news.yahoo.co.jp/articles/9e28d99867ad9da5fa75a3315aaf7550bbb7cda3",
         "source": "Yahoo",
@@ -21427,12 +21448,6 @@
       {
         "title": "ビットコイン6.2万ドルの攻防──短期保有者の送金と先物売りが映す、底打ちの条件【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/0b2666fd92adf6745684c82d11c90d6d933bf0d2",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本直販、通販サイトで円建てJPYC決済を試験導入",
-        "url": "https://news.yahoo.co.jp/articles/708a142db260ca9a65bf7e1fc4feb9995eb88ae8",
         "source": "Yahoo",
         "date": ""
       }
