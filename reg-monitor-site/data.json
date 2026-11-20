@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T01:27:37.286Z",
+  "generatedAt": "2026-11-20T02:59:14.503Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "金融研究所 英文機関誌 Monetary and Economic Studies（第44巻）",
+      "url": "https://www.boj.or.jp/research/imes/mes/mes_261120.htm",
+      "date": "2026-11-20",
+      "detectedAt": "2026-11-20T02:59:14.503Z",
+      "enriched": "2026-11-20T02:59:20.104Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行金融研究所が英文機関誌『Monetary and Economic Studies』第44巻を公表し、金融研究所スタッフ及び外部研究者による研究成果とコンファランス議事要旨を収録している。",
+        "掲載論文等の内容・意見は執筆者個人に属し、日本銀行及び金融研究所の公式見解ではないことに留意して参照する必要がある。",
+        "本機関誌は年1回程度発行される英語のみの出版物であり、2026年11月20日に第44巻が公表された。"
       ],
       "aiSumV": 3
     },
@@ -20892,6 +20907,18 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
+        "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:40楽天証券に金融庁が報告徴求命令 447万口座で年収や金融資産など漏えいか",
+        "url": "https://news.yahoo.co.jp/articles/68450d02931b369c89750a73f587f1a666cb0a51",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏えいのおそれで",
         "url": "https://news.yahoo.co.jp/articles/d04a8acc39f997b10d88d21b0946f8b46117e34d",
         "source": "Yahoo",
@@ -20912,24 +20939,24 @@
       {
         "title": "楽天証券、金融庁から報告徴求命令受領と発表",
         "url": "https://news.yahoo.co.jp/articles/6f13a957205c769f5f1d8056b8777376bc01c6e5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券に金融庁が報告徴求命令 1500万件超の顧客情報流出のおそれ",
-        "url": "https://news.yahoo.co.jp/articles/f254e07f755195f35a52a068ac1550286b684c02",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券に報告徴求命令 金融庁、顧客情報漏えいで 金融庁は19日、顧客情報漏えいの可能性が発覚した楽天証券に対し、金融商品取引法と個人情報保護法に基づく報告徴求命令を出した。原因や顧客への影響、再",
-        "url": "https://news.yahoo.co.jp/articles/fcb93db9e2b2978c6d6e042c1e78675a0b34aa12",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
+        "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:40楽天証券に金融庁が報告徴求命令 447万口座で年収や金融資産など漏えいか",
+        "url": "https://news.yahoo.co.jp/articles/68450d02931b369c89750a73f587f1a666cb0a51",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏えいのおそれで",
         "url": "https://news.yahoo.co.jp/articles/d04a8acc39f997b10d88d21b0946f8b46117e34d",
         "source": "Yahoo",
@@ -20950,24 +20977,24 @@
       {
         "title": "楽天証券、金融庁から報告徴求命令受領と発表",
         "url": "https://news.yahoo.co.jp/articles/6f13a957205c769f5f1d8056b8777376bc01c6e5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券に金融庁が報告徴求命令 1500万件超の顧客情報流出のおそれ",
-        "url": "https://news.yahoo.co.jp/articles/f254e07f755195f35a52a068ac1550286b684c02",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券に報告徴求命令 金融庁、顧客情報漏えいで 金融庁は19日、顧客情報漏えいの可能性が発覚した楽天証券に対し、金融商品取引法と個人情報保護法に基づく報告徴求命令を出した。原因や顧客への影響、再",
-        "url": "https://news.yahoo.co.jp/articles/fcb93db9e2b2978c6d6e042c1e78675a0b34aa12",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
+        "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:40楽天証券に金融庁が報告徴求命令 447万口座で年収や金融資産など漏えいか",
+        "url": "https://news.yahoo.co.jp/articles/68450d02931b369c89750a73f587f1a666cb0a51",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏えいのおそれで",
         "url": "https://news.yahoo.co.jp/articles/d04a8acc39f997b10d88d21b0946f8b46117e34d",
         "source": "Yahoo",
@@ -20988,24 +21015,24 @@
       {
         "title": "楽天証券、金融庁から報告徴求命令受領と発表",
         "url": "https://news.yahoo.co.jp/articles/6f13a957205c769f5f1d8056b8777376bc01c6e5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券に金融庁が報告徴求命令 1500万件超の顧客情報流出のおそれ",
-        "url": "https://news.yahoo.co.jp/articles/f254e07f755195f35a52a068ac1550286b684c02",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券に報告徴求命令 金融庁、顧客情報漏えいで 金融庁は19日、顧客情報漏えいの可能性が発覚した楽天証券に対し、金融商品取引法と個人情報保護法に基づく報告徴求命令を出した。原因や顧客への影響、再",
-        "url": "https://news.yahoo.co.jp/articles/fcb93db9e2b2978c6d6e042c1e78675a0b34aa12",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
+        "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "0:40楽天証券に金融庁が報告徴求命令 447万口座で年収や金融資産など漏えいか",
+        "url": "https://news.yahoo.co.jp/articles/68450d02931b369c89750a73f587f1a666cb0a51",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏えいのおそれで",
         "url": "https://news.yahoo.co.jp/articles/d04a8acc39f997b10d88d21b0946f8b46117e34d",
         "source": "Yahoo",
@@ -21026,18 +21053,6 @@
       {
         "title": "楽天証券、金融庁から報告徴求命令受領と発表",
         "url": "https://news.yahoo.co.jp/articles/6f13a957205c769f5f1d8056b8777376bc01c6e5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券に金融庁が報告徴求命令 1500万件超の顧客情報流出のおそれ",
-        "url": "https://news.yahoo.co.jp/articles/f254e07f755195f35a52a068ac1550286b684c02",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券に報告徴求命令 金融庁、顧客情報漏えいで 金融庁は19日、顧客情報漏えいの可能性が発覚した楽天証券に対し、金融商品取引法と個人情報保護法に基づく報告徴求命令を出した。原因や顧客への影響、再",
-        "url": "https://news.yahoo.co.jp/articles/fcb93db9e2b2978c6d6e042c1e78675a0b34aa12",
         "source": "Yahoo",
         "date": ""
       }
@@ -21120,6 +21135,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "耐量子暗号への移行、ブロックチェーンでは特に困難か。IOSCOが報告書",
+        "url": "https://news.yahoo.co.jp/articles/fb25db49dc5a9b0e3a9f9fb2cb5c663e141d2c4b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "IOSCO、量子リスクへの即時対応を求める──ブロックチェーンの移行は「特に困難」",
         "url": "https://news.yahoo.co.jp/articles/6ced2b677766a616c962d93279c1f3b1bbca3c36",
         "source": "Yahoo",
@@ -21146,18 +21167,18 @@
       {
         "title": "【米国最新情報：180】始まる民主党のガルシア次期下院監視委員会委員長のトランプ政権への攻撃（1）",
         "url": "https://news.yahoo.co.jp/expert/articles/d6f4f712fc796940acb8a0d919aaf0ecb5a41398",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港金融管理局、暗号資産のマネロン対策にAI活用を検討",
-        "url": "https://news.yahoo.co.jp/articles/5b5417dda709b07757df9b2fbbb3237930d1a7ab",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "耐量子暗号への移行、ブロックチェーンでは特に困難か。IOSCOが報告書",
+        "url": "https://news.yahoo.co.jp/articles/fb25db49dc5a9b0e3a9f9fb2cb5c663e141d2c4b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "IOSCO、量子リスクへの即時対応を求める──ブロックチェーンの移行は「特に困難」",
         "url": "https://news.yahoo.co.jp/articles/6ced2b677766a616c962d93279c1f3b1bbca3c36",
         "source": "Yahoo",
@@ -21184,12 +21205,6 @@
       {
         "title": "【米国最新情報：180】始まる民主党のガルシア次期下院監視委員会委員長のトランプ政権への攻撃（1）",
         "url": "https://news.yahoo.co.jp/expert/articles/d6f4f712fc796940acb8a0d919aaf0ecb5a41398",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港金融管理局、暗号資産のマネロン対策にAI活用を検討",
-        "url": "https://news.yahoo.co.jp/articles/5b5417dda709b07757df9b2fbbb3237930d1a7ab",
         "source": "Yahoo",
         "date": ""
       }
@@ -21348,6 +21363,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "トゥエンティワン、ビットコイン追加購入を今年初公表。総保有量4万3668BTCに",
+        "url": "https://news.yahoo.co.jp/articles/a2f366c5d3248411603fe59acf3b655ac6684f26",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Visa、アジア太平洋地域でステーブルコインを使った資金移動を推進",
         "url": "https://news.yahoo.co.jp/articles/3603a8008ddc5a7027005c80cf460d82deacc5be",
         "source": "Yahoo",
@@ -21374,18 +21395,18 @@
       {
         "title": "S&P、USDTの安定性評価を最低ランクの「脆弱」に据え置き",
         "url": "https://news.yahoo.co.jp/articles/74b7f82207eb4c2c519d1252153d2295a94a2b1f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンソロピック、過去最大IPOで約13兆円調達──BTCからも資金移動か",
-        "url": "https://news.yahoo.co.jp/articles/f767da71f3f44d81f02c597246da88694d459931",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "トゥエンティワン、ビットコイン追加購入を今年初公表。総保有量4万3668BTCに",
+        "url": "https://news.yahoo.co.jp/articles/a2f366c5d3248411603fe59acf3b655ac6684f26",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Visa、アジア太平洋地域でステーブルコインを使った資金移動を推進",
         "url": "https://news.yahoo.co.jp/articles/3603a8008ddc5a7027005c80cf460d82deacc5be",
         "source": "Yahoo",
@@ -21412,12 +21433,6 @@
       {
         "title": "S&P、USDTの安定性評価を最低ランクの「脆弱」に据え置き",
         "url": "https://news.yahoo.co.jp/articles/74b7f82207eb4c2c519d1252153d2295a94a2b1f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンソロピック、過去最大IPOで約13兆円調達──BTCからも資金移動か",
-        "url": "https://news.yahoo.co.jp/articles/f767da71f3f44d81f02c597246da88694d459931",
         "source": "Yahoo",
         "date": ""
       }
@@ -22138,6 +22153,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
+        "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏えいのおそれで",
         "url": "https://news.yahoo.co.jp/articles/d04a8acc39f997b10d88d21b0946f8b46117e34d",
         "source": "Yahoo",
@@ -22164,18 +22185,18 @@
       {
         "title": "1:05東北総合通信局の新局長・村上聡氏が着任会見「ICTを活用し地域が抱える課題に取り組みたい」と抱負を述べる",
         "url": "https://news.yahoo.co.jp/articles/bf803f7782460704d98b11b10d756db9d65ab0e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券の漏えいは「テスト環境」から、個情委が1カ月前に注意喚起していた論点",
-        "url": "https://news.yahoo.co.jp/articles/a5334530b4f6fb0e021289779f85fa80879afefd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
+        "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏えいのおそれで",
         "url": "https://news.yahoo.co.jp/articles/d04a8acc39f997b10d88d21b0946f8b46117e34d",
         "source": "Yahoo",
@@ -22202,18 +22223,18 @@
       {
         "title": "1:05東北総合通信局の新局長・村上聡氏が着任会見「ICTを活用し地域が抱える課題に取り組みたい」と抱負を述べる",
         "url": "https://news.yahoo.co.jp/articles/bf803f7782460704d98b11b10d756db9d65ab0e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券の漏えいは「テスト環境」から、個情委が1カ月前に注意喚起していた論点",
-        "url": "https://news.yahoo.co.jp/articles/a5334530b4f6fb0e021289779f85fa80879afefd",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
+        "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "金融庁、楽天証券に報告徴求命令 顧客情報漏えいのおそれで",
         "url": "https://news.yahoo.co.jp/articles/d04a8acc39f997b10d88d21b0946f8b46117e34d",
         "source": "Yahoo",
@@ -22240,12 +22261,6 @@
       {
         "title": "1:05東北総合通信局の新局長・村上聡氏が着任会見「ICTを活用し地域が抱える課題に取り組みたい」と抱負を述べる",
         "url": "https://news.yahoo.co.jp/articles/bf803f7782460704d98b11b10d756db9d65ab0e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券の漏えいは「テスト環境」から、個情委が1カ月前に注意喚起していた論点",
-        "url": "https://news.yahoo.co.jp/articles/a5334530b4f6fb0e021289779f85fa80879afefd",
         "source": "Yahoo",
         "date": ""
       }
