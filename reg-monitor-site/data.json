@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:18:04.536Z",
+  "generatedAt": "2026-11-20T09:49:47.341Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,21 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定：（株）Ｉ－ｎｅ",
+      "url": "https://www.jpx.co.jp/news/1023/20261120-12.html",
+      "date": "2026-11-20",
+      "detectedAt": "2026-11-20T09:49:47.341Z",
+      "enriched": "2026-11-20T09:49:51.807Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）Ｉ－ｎｅ（プライム市場、コード4933）が2026年11月20日付で監理銘柄（確認中）に指定された。指定理由は、ジャンボ株式会社による公開買付け成立後、特定の者以外の株主の全株式を1株未満の端数となる比率で株式併合するため。",
+        "同社は公開買付者による買付けに賛同を表明し、当該買付け成立後に株主総会で上記株式併合議案が承認された場合、同社株式は上場廃止となる見込みであり、東証がこれを理由に監理銘柄指定。",
+        "有価証券上場規程施行規則第604条第1項第24号に基づき、監理銘柄（確認中）指定期間は2026年11月20日から東証が上場廃止基準該当性を認定した日まで。"
       ],
       "aiSumV": 3
     },
@@ -21241,6 +21256,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "バイナンスUSのデリバティブ事業申請、米CFTCの本審査へ",
+        "url": "https://news.yahoo.co.jp/articles/cf15e33399cd072e4c3183bce8744846e8f7f1be",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アンソロピックのトークン化株式、IPO初日からBNBチェーンで提供開始",
+        "url": "https://news.yahoo.co.jp/articles/5e67106b8b3652848456c3d9992255cac57b95de",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンスウォレット、アンソロピックIPO連動企画の申込金を全額返還へ。約2957株分のANTBを無償配布",
+        "url": "https://news.yahoo.co.jp/articles/4ec7bb0306a3e299181ce320ca398af17f5e98c7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ムーンペイ、米OCCに国法信託銀行の設立申請、ステーブルコイン発行・償還など計画",
         "url": "https://news.yahoo.co.jp/articles/f201d7895889c7c3c62ba7ddcf9949f4e8f852e1",
         "source": "Yahoo",
@@ -21255,30 +21288,30 @@
       {
         "title": "ビットコイン、6.2万ドル割れ アンソロピックIPO及第点も米株は下落【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/37e155b9137e5c3ba9861eae062803275e578ec8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "耐量子暗号への移行、ブロックチェーンでは特に困難か。IOSCOが報告書",
-        "url": "https://news.yahoo.co.jp/articles/fb25db49dc5a9b0e3a9f9fb2cb5c663e141d2c4b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "IOSCO、量子リスクへの即時対応を求める──ブロックチェーンの移行は「特に困難」",
-        "url": "https://news.yahoo.co.jp/articles/6ced2b677766a616c962d93279c1f3b1bbca3c36",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンソロピックIPO、史上最大の調達額約13兆円──初値34％高も30分で12％急落",
-        "url": "https://news.yahoo.co.jp/articles/5124cef7090fe6fe3d0964b0e4daa9445c25c2d4",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "バイナンスUSのデリバティブ事業申請、米CFTCの本審査へ",
+        "url": "https://news.yahoo.co.jp/articles/cf15e33399cd072e4c3183bce8744846e8f7f1be",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "アンソロピックのトークン化株式、IPO初日からBNBチェーンで提供開始",
+        "url": "https://news.yahoo.co.jp/articles/5e67106b8b3652848456c3d9992255cac57b95de",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンスウォレット、アンソロピックIPO連動企画の申込金を全額返還へ。約2957株分のANTBを無償配布",
+        "url": "https://news.yahoo.co.jp/articles/4ec7bb0306a3e299181ce320ca398af17f5e98c7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ムーンペイ、米OCCに国法信託銀行の設立申請、ステーブルコイン発行・償還など計画",
         "url": "https://news.yahoo.co.jp/articles/f201d7895889c7c3c62ba7ddcf9949f4e8f852e1",
         "source": "Yahoo",
@@ -21293,24 +21326,6 @@
       {
         "title": "ビットコイン、6.2万ドル割れ アンソロピックIPO及第点も米株は下落【楽天ウォレットDaily Report】",
         "url": "https://news.yahoo.co.jp/articles/37e155b9137e5c3ba9861eae062803275e578ec8",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "耐量子暗号への移行、ブロックチェーンでは特に困難か。IOSCOが報告書",
-        "url": "https://news.yahoo.co.jp/articles/fb25db49dc5a9b0e3a9f9fb2cb5c663e141d2c4b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "IOSCO、量子リスクへの即時対応を求める──ブロックチェーンの移行は「特に困難」",
-        "url": "https://news.yahoo.co.jp/articles/6ced2b677766a616c962d93279c1f3b1bbca3c36",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンソロピックIPO、史上最大の調達額約13兆円──初値34％高も30分で12％急落",
-        "url": "https://news.yahoo.co.jp/articles/5124cef7090fe6fe3d0964b0e4daa9445c25c2d4",
         "source": "Yahoo",
         "date": ""
       }
@@ -21469,6 +21484,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "シンガポール中銀、123億円相当のトークン化MAS債を発行──CBDCで決済",
+        "url": "https://news.yahoo.co.jp/articles/cda95de4e9294474fb994cdabe86cd6ad9494d27",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バビロン共同創業者、ビットコインステーキングの年内終了を提案、TBV開発への集中が背景に",
+        "url": "https://news.yahoo.co.jp/articles/9c0b805909c64624a7bb877703e7b421b5529543",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンスウォレット、アンソロピックIPO連動企画の申込金を全額返還へ。約2957株分のANTBを無償配布",
+        "url": "https://news.yahoo.co.jp/articles/4ec7bb0306a3e299181ce320ca398af17f5e98c7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本企業は「実証より実装」を",
         "url": "https://news.yahoo.co.jp/articles/615eb6454163ff76c060880ab87423e51f2b340c",
         "source": "Yahoo",
@@ -21483,30 +21516,30 @@
       {
         "title": "大和証券ら、AIエージェントによるオンチェーン取引を実証。取引の経緯を検証可能に",
         "url": "https://news.yahoo.co.jp/articles/988cee318033bf3465520f230dd3e52229e9f05f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ムーンペイ、米OCCに国法信託銀行の設立申請、ステーブルコイン発行・償還など計画",
-        "url": "https://news.yahoo.co.jp/articles/f201d7895889c7c3c62ba7ddcf9949f4e8f852e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "大和証券ら、AIエージェントとDEXでデジタル証券取引を実証",
-        "url": "https://news.yahoo.co.jp/articles/4493a8f6e0ee9534da6e4498ceb76aced03f269d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本直販、通販サイトでステーブルコイン決済を試験導入。ポリゴン上の「JPYC」に対応",
-        "url": "https://news.yahoo.co.jp/articles/d6153f66e86266a9419dccd63c648393ed4c8f87",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "シンガポール中銀、123億円相当のトークン化MAS債を発行──CBDCで決済",
+        "url": "https://news.yahoo.co.jp/articles/cda95de4e9294474fb994cdabe86cd6ad9494d27",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バビロン共同創業者、ビットコインステーキングの年内終了を提案、TBV開発への集中が背景に",
+        "url": "https://news.yahoo.co.jp/articles/9c0b805909c64624a7bb877703e7b421b5529543",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンスウォレット、アンソロピックIPO連動企画の申込金を全額返還へ。約2957株分のANTBを無償配布",
+        "url": "https://news.yahoo.co.jp/articles/4ec7bb0306a3e299181ce320ca398af17f5e98c7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "日本企業は「実証より実装」を",
         "url": "https://news.yahoo.co.jp/articles/615eb6454163ff76c060880ab87423e51f2b340c",
         "source": "Yahoo",
@@ -21521,24 +21554,6 @@
       {
         "title": "大和証券ら、AIエージェントによるオンチェーン取引を実証。取引の経緯を検証可能に",
         "url": "https://news.yahoo.co.jp/articles/988cee318033bf3465520f230dd3e52229e9f05f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ムーンペイ、米OCCに国法信託銀行の設立申請、ステーブルコイン発行・償還など計画",
-        "url": "https://news.yahoo.co.jp/articles/f201d7895889c7c3c62ba7ddcf9949f4e8f852e1",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "大和証券ら、AIエージェントとDEXでデジタル証券取引を実証",
-        "url": "https://news.yahoo.co.jp/articles/4493a8f6e0ee9534da6e4498ceb76aced03f269d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本直販、通販サイトでステーブルコイン決済を試験導入。ポリゴン上の「JPYC」に対応",
-        "url": "https://news.yahoo.co.jp/articles/d6153f66e86266a9419dccd63c648393ed4c8f87",
         "source": "Yahoo",
         "date": ""
       }
