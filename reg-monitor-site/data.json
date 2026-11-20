@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:15:35.162Z",
+  "generatedAt": "2026-11-20T06:46:54.354Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -15,6 +15,54 @@
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]指数オプション取引に係る呼値の制限値幅（2026年12月1日（取引日ベース）から適用）",
+      "url": "https://www.jpx.co.jp/markets/derivatives/price-limits/",
+      "date": "2026-11-20",
+      "detectedAt": "2026-11-20T06:46:54.354Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日経225オプション・TOPIXオプション・JPX日経400オプション・東証銀行業指数オプション・東証REIT指数オプションの呼値制限値幅が2026年9月1日より改定される。基準値段の価格帯ごとに通常時・第一次拡大時・第二次拡大時の3段階の制限値幅が設定される。",
+        "大阪取引所の指数オプション取引参加者は、2026年9月1日から新しい呼値制限値幅を適用する必要がある。各オプション商品について基準値段に応じた制限値幅をシステムおよび注文管理で対応する。",
+        "2026年9月1日（取引日ベース）から2026年11月30日（取引日）までの間に適用される新制限値幅については、大阪取引所公表の各指数オプション別の4段階基準値幅表を参照する。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-20T06:46:59.735Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "投資部門別売買状況における個人の状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojin/index.html",
+      "date": "2026-11-20",
+      "detectedAt": "2026-11-20T06:46:54.354Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京証券取引所の投資部門別売買状況に個人による株式募集・売出金額を加算し、個人の実際の株式購入状況をより正確に把握する統計を作成している。",
+        "証券業協会が個人投資家の株式購入動向を統計データとして定期的に算出・公表する必要がある。",
+        "2026年5月20日付で2026年第1四半期分までのデータが掲載された統計調査報告書として公表される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-20T06:46:59.735Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等の配分状況",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-haibun/index.html",
+      "date": "2026-11-20",
+      "detectedAt": "2026-11-20T06:46:54.354Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会が2026年第1四半期の株券等配分状況を2026年5月20日に発表し、新規公開等における会員各社の引受株券の投資家配分データを公表した。",
+        "証券会社は新規公開時に引き受けた株券等について投資家への配分状況を記録し、協会への報告・集計対象となる。",
+        "株券等配分状況の統計は四半期ごとに各期末翌月20日前後に発表され、2010年以降のデータが協会ウェブサイトで公表されている。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-20T06:46:59.735Z"
     },
     {
       "agency": "日本銀行",
@@ -10475,21 +10523,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本取引所グループ",
-      "title": "[OSE]指数オプション取引に係る呼値の制限値幅（2026年9月1日（取引日ベース）から適用）",
-      "url": "https://www.jpx.co.jp/markets/derivatives/price-limits/",
-      "date": "2026-08-24",
-      "detectedAt": "2026-08-24T07:42:28.042Z",
-      "enriched": "2026-08-24T07:42:32.759Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日経225オプション・TOPIXオプション・JPX日経400オプション・東証銀行業指数オプション・東証REIT指数オプションの呼値制限値幅が2026年9月1日より改定される。基準値段の価格帯ごとに通常時・第一次拡大時・第二次拡大時の3段階の制限値幅が設定される。",
-        "大阪取引所の指数オプション取引参加者は、2026年9月1日から新しい呼値制限値幅を適用する必要がある。各オプション商品について基準値段に応じた制限値幅をシステムおよび注文管理で対応する。",
-        "2026年9月1日（取引日ベース）から2026年11月30日（取引日）までの間に適用される新制限値幅については、大阪取引所公表の各指数オプション別の4段階基準値幅表を参照する。"
-      ],
-      "aiSumV": 3
-    },
-    {
       "agency": "JVCEA",
       "title": "当協会会員における事業会員への会員種別変更について",
       "url": "https://jvcea.or.jp/information/main-info/20260824-002/",
@@ -10766,38 +10799,6 @@
         "上場日は2026年9月9日（水）、第1計算期間は同年9月7日から2027年4月10日、分配金支払基準日は毎年4月10日と10月10日。売買単位は1口、売却時より成行売呼値・成行買呼値が可能。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "投資部門別売買状況における個人の状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kojin/index.html",
-      "date": "2026-08-20",
-      "detectedAt": "2026-08-20T06:00:31.283Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "東京証券取引所の投資部門別売買状況に個人による株式募集・売出金額を加算し、個人の実際の株式購入状況をより正確に把握する統計を作成している。",
-        "証券業協会が個人投資家の株式購入動向を統計データとして定期的に算出・公表する必要がある。",
-        "2026年5月20日付で2026年第1四半期分までのデータが掲載された統計調査報告書として公表される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-20T06:00:35.850Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "株券等の配分状況",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-haibun/index.html",
-      "date": "2026-08-20",
-      "detectedAt": "2026-08-20T06:00:31.283Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会が2026年第1四半期の株券等配分状況を2026年5月20日に発表し、新規公開等における会員各社の引受株券の投資家配分データを公表した。",
-        "証券会社は新規公開時に引き受けた株券等について投資家への配分状況を記録し、協会への報告・集計対象となる。",
-        "株券等配分状況の統計は四半期ごとに各期末翌月20日前後に発表され、2010年以降のデータが協会ウェブサイトで公表されている。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-08-20T06:00:35.851Z"
     },
     {
       "agency": "日本証券業協会",
@@ -20922,6 +20923,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "1:17楽天証券に報告徴求命令“情報漏えい”最大約1572万件",
+        "url": "https://news.yahoo.co.jp/articles/91799661febe5b8404098a16ab1cc256d5927da9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
         "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
         "source": "Yahoo",
@@ -20948,18 +20955,18 @@
       {
         "title": "経団連「日本の上場企業は『開示地獄』、有価証券報告書など開示制度の抜本的な改革を」",
         "url": "https://news.yahoo.co.jp/articles/ed497d60c53a89e89fe5c50123b096fbab966592",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
-        "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "1:17楽天証券に報告徴求命令“情報漏えい”最大約1572万件",
+        "url": "https://news.yahoo.co.jp/articles/91799661febe5b8404098a16ab1cc256d5927da9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
         "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
         "source": "Yahoo",
@@ -20986,18 +20993,18 @@
       {
         "title": "経団連「日本の上場企業は『開示地獄』、有価証券報告書など開示制度の抜本的な改革を」",
         "url": "https://news.yahoo.co.jp/articles/ed497d60c53a89e89fe5c50123b096fbab966592",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
-        "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "1:17楽天証券に報告徴求命令“情報漏えい”最大約1572万件",
+        "url": "https://news.yahoo.co.jp/articles/91799661febe5b8404098a16ab1cc256d5927da9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
         "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
         "source": "Yahoo",
@@ -21024,18 +21031,18 @@
       {
         "title": "経団連「日本の上場企業は『開示地獄』、有価証券報告書など開示制度の抜本的な改革を」",
         "url": "https://news.yahoo.co.jp/articles/ed497d60c53a89e89fe5c50123b096fbab966592",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
-        "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "1:17楽天証券に報告徴求命令“情報漏えい”最大約1572万件",
+        "url": "https://news.yahoo.co.jp/articles/91799661febe5b8404098a16ab1cc256d5927da9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
         "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
         "source": "Yahoo",
@@ -21062,12 +21069,6 @@
       {
         "title": "経団連「日本の上場企業は『開示地獄』、有価証券報告書など開示制度の抜本的な改革を」",
         "url": "https://news.yahoo.co.jp/articles/ed497d60c53a89e89fe5c50123b096fbab966592",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券情報漏えい「非常に遺憾」 片山担当相、顧客保護求める",
-        "url": "https://news.yahoo.co.jp/articles/4b355cd01c1f5539b1274eb60d3e2730ce230ce2",
         "source": "Yahoo",
         "date": ""
       }
@@ -21150,6 +21151,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ムーンペイ、米OCCに国法信託銀行の設立申請、ステーブルコイン発行・償還など計画",
+        "url": "https://news.yahoo.co.jp/articles/f201d7895889c7c3c62ba7ddcf9949f4e8f852e1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
         "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
         "source": "Yahoo",
@@ -21176,18 +21183,18 @@
       {
         "title": "アンソロピックIPO、史上最大の調達額約13兆円──初値34％高も30分で12％急落",
         "url": "https://news.yahoo.co.jp/articles/5124cef7090fe6fe3d0964b0e4daa9445c25c2d4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本直販、通販サイトで円建てJPYC決済を試験導入",
-        "url": "https://news.yahoo.co.jp/articles/708a142db260ca9a65bf7e1fc4feb9995eb88ae8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ムーンペイ、米OCCに国法信託銀行の設立申請、ステーブルコイン発行・償還など計画",
+        "url": "https://news.yahoo.co.jp/articles/f201d7895889c7c3c62ba7ddcf9949f4e8f852e1",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
         "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
         "source": "Yahoo",
@@ -21214,12 +21221,6 @@
       {
         "title": "アンソロピックIPO、史上最大の調達額約13兆円──初値34％高も30分で12％急落",
         "url": "https://news.yahoo.co.jp/articles/5124cef7090fe6fe3d0964b0e4daa9445c25c2d4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本直販、通販サイトで円建てJPYC決済を試験導入",
-        "url": "https://news.yahoo.co.jp/articles/708a142db260ca9a65bf7e1fc4feb9995eb88ae8",
         "source": "Yahoo",
         "date": ""
       }
@@ -21378,76 +21379,76 @@
     ],
     "505M60000002048": [
       {
-        "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
-        "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
+        "title": "大和証券ら、AIエージェントによるオンチェーン取引を実証。取引の経緯を検証可能に",
+        "url": "https://news.yahoo.co.jp/articles/988cee318033bf3465520f230dd3e52229e9f05f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "XRPレジャー財団、GL1の市場インフラ評価で全10原則を自己評価。一部を第三者検証",
-        "url": "https://news.yahoo.co.jp/articles/9e28d99867ad9da5fa75a3315aaf7550bbb7cda3",
+        "title": "ムーンペイ、米OCCに国法信託銀行の設立申請、ステーブルコイン発行・償還など計画",
+        "url": "https://news.yahoo.co.jp/articles/f201d7895889c7c3c62ba7ddcf9949f4e8f852e1",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビザ、ステーブルコインによる国際送金の事前資金拠出機能をアジア太平洋地域へ拡大へ",
-        "url": "https://news.yahoo.co.jp/articles/cc4a56c7b9bc82444a24e6436715fa2c65ba44a7",
+        "title": "大和証券ら、AIエージェントとDEXでデジタル証券取引を実証",
+        "url": "https://news.yahoo.co.jp/articles/4493a8f6e0ee9534da6e4498ceb76aced03f269d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "トゥエンティワン、ビットコイン追加購入を今年初公表。総保有量4万3668BTCに",
-        "url": "https://news.yahoo.co.jp/articles/a2f366c5d3248411603fe59acf3b655ac6684f26",
+        "title": "日本直販、通販サイトでステーブルコイン決済を試験導入。ポリゴン上の「JPYC」に対応",
+        "url": "https://news.yahoo.co.jp/articles/d6153f66e86266a9419dccd63c648393ed4c8f87",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Visa、アジア太平洋地域でステーブルコインを使った資金移動を推進",
-        "url": "https://news.yahoo.co.jp/articles/3603a8008ddc5a7027005c80cf460d82deacc5be",
+        "title": "テザー、スイスのスクリプトに戦略的出資、機関向けステーブルコイン決済の拡大支援へ",
+        "url": "https://news.yahoo.co.jp/articles/89bee27ee14c25f349561d56be85188438991660",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットコイン6.2万ドルの攻防──短期保有者の送金と先物売りが映す、底打ちの条件【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/0b2666fd92adf6745684c82d11c90d6d933bf0d2",
+        "title": "ZachXBT、インド当局の資金追跡に疑義。凍結時の口座資産は約300万ドル相当",
+        "url": "https://news.yahoo.co.jp/articles/28c4dbb9167acee5892a6e3d83e3022a3cfe8772",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
-        "title": "片山さつき財務相、オンチェーン金融と既存金融の「ベストミックスが鍵」【NIKKEI・NADAデジタルアセットカンファレンス2026】",
-        "url": "https://news.yahoo.co.jp/articles/147f7997e49a7ed4dd2f76a32ea07526e0644b94",
+        "title": "大和証券ら、AIエージェントによるオンチェーン取引を実証。取引の経緯を検証可能に",
+        "url": "https://news.yahoo.co.jp/articles/988cee318033bf3465520f230dd3e52229e9f05f",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "XRPレジャー財団、GL1の市場インフラ評価で全10原則を自己評価。一部を第三者検証",
-        "url": "https://news.yahoo.co.jp/articles/9e28d99867ad9da5fa75a3315aaf7550bbb7cda3",
+        "title": "ムーンペイ、米OCCに国法信託銀行の設立申請、ステーブルコイン発行・償還など計画",
+        "url": "https://news.yahoo.co.jp/articles/f201d7895889c7c3c62ba7ddcf9949f4e8f852e1",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビザ、ステーブルコインによる国際送金の事前資金拠出機能をアジア太平洋地域へ拡大へ",
-        "url": "https://news.yahoo.co.jp/articles/cc4a56c7b9bc82444a24e6436715fa2c65ba44a7",
+        "title": "大和証券ら、AIエージェントとDEXでデジタル証券取引を実証",
+        "url": "https://news.yahoo.co.jp/articles/4493a8f6e0ee9534da6e4498ceb76aced03f269d",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "トゥエンティワン、ビットコイン追加購入を今年初公表。総保有量4万3668BTCに",
-        "url": "https://news.yahoo.co.jp/articles/a2f366c5d3248411603fe59acf3b655ac6684f26",
+        "title": "日本直販、通販サイトでステーブルコイン決済を試験導入。ポリゴン上の「JPYC」に対応",
+        "url": "https://news.yahoo.co.jp/articles/d6153f66e86266a9419dccd63c648393ed4c8f87",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "Visa、アジア太平洋地域でステーブルコインを使った資金移動を推進",
-        "url": "https://news.yahoo.co.jp/articles/3603a8008ddc5a7027005c80cf460d82deacc5be",
+        "title": "テザー、スイスのスクリプトに戦略的出資、機関向けステーブルコイン決済の拡大支援へ",
+        "url": "https://news.yahoo.co.jp/articles/89bee27ee14c25f349561d56be85188438991660",
         "source": "Yahoo",
         "date": ""
       },
       {
-        "title": "ビットコイン6.2万ドルの攻防──短期保有者の送金と先物売りが映す、底打ちの条件【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/0b2666fd92adf6745684c82d11c90d6d933bf0d2",
+        "title": "ZachXBT、インド当局の資金追跡に疑義。凍結時の口座資産は約300万ドル相当",
+        "url": "https://news.yahoo.co.jp/articles/28c4dbb9167acee5892a6e3d83e3022a3cfe8772",
         "source": "Yahoo",
         "date": ""
       }
@@ -22168,6 +22169,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "1:17楽天証券に報告徴求命令“情報漏えい”最大約1572万件",
+        "url": "https://news.yahoo.co.jp/articles/91799661febe5b8404098a16ab1cc256d5927da9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券1572万口座流出、集団訴訟の希望者が1日で6000人突破 金融庁も異例の報告命令",
         "url": "https://news.yahoo.co.jp/articles/16804b46a0bb0be0dd8a43f605a908c1a33c4ddc",
         "source": "Yahoo",
@@ -22194,18 +22201,18 @@
       {
         "title": "何秒見れば「視聴」か、放送事業者で異なる基準",
         "url": "https://news.yahoo.co.jp/articles/0a84a123797656ed9589797f99d7e45e38ca58ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁が楽天証券に報告徴求命令 最大約1,572万口座分の漏えいのおそれ 法令に基づく",
-        "url": "https://news.yahoo.co.jp/articles/d28537e483d2975f0c1be443ef088db87b8936cb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "1:17楽天証券に報告徴求命令“情報漏えい”最大約1572万件",
+        "url": "https://news.yahoo.co.jp/articles/91799661febe5b8404098a16ab1cc256d5927da9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券1572万口座流出、集団訴訟の希望者が1日で6000人突破 金融庁も異例の報告命令",
         "url": "https://news.yahoo.co.jp/articles/16804b46a0bb0be0dd8a43f605a908c1a33c4ddc",
         "source": "Yahoo",
@@ -22232,18 +22239,18 @@
       {
         "title": "何秒見れば「視聴」か、放送事業者で異なる基準",
         "url": "https://news.yahoo.co.jp/articles/0a84a123797656ed9589797f99d7e45e38ca58ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁が楽天証券に報告徴求命令 最大約1,572万口座分の漏えいのおそれ 法令に基づく",
-        "url": "https://news.yahoo.co.jp/articles/d28537e483d2975f0c1be443ef088db87b8936cb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "1:17楽天証券に報告徴求命令“情報漏えい”最大約1572万件",
+        "url": "https://news.yahoo.co.jp/articles/91799661febe5b8404098a16ab1cc256d5927da9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券1572万口座流出、集団訴訟の希望者が1日で6000人突破 金融庁も異例の報告命令",
         "url": "https://news.yahoo.co.jp/articles/16804b46a0bb0be0dd8a43f605a908c1a33c4ddc",
         "source": "Yahoo",
@@ -22270,12 +22277,6 @@
       {
         "title": "何秒見れば「視聴」か、放送事業者で異なる基準",
         "url": "https://news.yahoo.co.jp/articles/0a84a123797656ed9589797f99d7e45e38ca58ee",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁が楽天証券に報告徴求命令 最大約1,572万口座分の漏えいのおそれ 法令に基づく",
-        "url": "https://news.yahoo.co.jp/articles/d28537e483d2975f0c1be443ef088db87b8936cb",
         "source": "Yahoo",
         "date": ""
       }
