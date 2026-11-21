@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:52:59.735Z",
+  "generatedAt": "2026-11-21T11:24:08.244Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -21271,6 +21271,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "米議会、予測市場の「戦争・暗殺・死亡」への賭けを禁じる法案が可決",
+        "url": "https://news.yahoo.co.jp/articles/ee59c27dfc1f002308aaed896efc21d1d9882980",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【墨汁うまい氏寄稿】ビットコインが6万ドル割れ、なぜここまで暴落したのか？",
         "url": "https://news.yahoo.co.jp/articles/b2f8422ea3638e87daa1dfde99608c8de6f3f8fb",
         "source": "Yahoo",
@@ -21297,18 +21303,18 @@
       {
         "title": "バイナンスUSのデリバティブ事業申請、米CFTCの本審査へ",
         "url": "https://news.yahoo.co.jp/articles/cf15e33399cd072e4c3183bce8744846e8f7f1be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンソロピックのトークン化株式、IPO初日からBNBチェーンで提供開始",
-        "url": "https://news.yahoo.co.jp/articles/5e67106b8b3652848456c3d9992255cac57b95de",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米議会、予測市場の「戦争・暗殺・死亡」への賭けを禁じる法案が可決",
+        "url": "https://news.yahoo.co.jp/articles/ee59c27dfc1f002308aaed896efc21d1d9882980",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "【墨汁うまい氏寄稿】ビットコインが6万ドル割れ、なぜここまで暴落したのか？",
         "url": "https://news.yahoo.co.jp/articles/b2f8422ea3638e87daa1dfde99608c8de6f3f8fb",
         "source": "Yahoo",
@@ -21335,12 +21341,6 @@
       {
         "title": "バイナンスUSのデリバティブ事業申請、米CFTCの本審査へ",
         "url": "https://news.yahoo.co.jp/articles/cf15e33399cd072e4c3183bce8744846e8f7f1be",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アンソロピックのトークン化株式、IPO初日からBNBチェーンで提供開始",
-        "url": "https://news.yahoo.co.jp/articles/5e67106b8b3652848456c3d9992255cac57b95de",
         "source": "Yahoo",
         "date": ""
       }
