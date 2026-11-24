@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:16:00.219Z",
+  "generatedAt": "2026-11-24T07:47:07.996Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,98 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "ＨＯＤＬ１（2345）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-11-24",
+      "detectedAt": "2026-11-24T07:47:07.996Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-24T07:47:14.030Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]スタンダード市場からプライム市場への変更：（株）ベルテクスコーポレーション",
+      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
+      "date": "2026-11-24",
+      "detectedAt": "2026-11-24T07:47:07.996Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
+        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
+        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-24T07:47:14.030Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行政策委員会月報（令和8年10月号）",
+      "url": "https://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2610.htm",
+      "date": "2026-11-24",
+      "detectedAt": "2026-11-24T07:47:07.996Z",
+      "enriched": "2026-11-24T07:47:14.030Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は2026年10月29・30日の金融政策決定会合で、無担保コールレート（オーバーナイト物）を1.25％程度で推移するよう促す金融市場調節方針を決定した。",
+        "指数連動型上場投資信託受益権の売却ペースを年間3,300～8,600億円程度（簿価ベース）とする指針改正を2027年1月1日から実施する。",
+        "日本銀行は金融政策決定会合の議事要旨・経済物価展望・金融システムレポート等の複数資料を令和8年10月に公表・報告した。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：ニッセイＥＴＦ 日経高配当株３０（ニッセイアセットマネジメント）",
+      "url": "https://www.jpx.co.jp/news/1070/20261124.html",
+      "date": "2026-11-24",
+      "detectedAt": "2026-11-24T07:47:07.996Z",
+      "enriched": "2026-11-24T07:47:14.030Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ニッセイアセットマネジメント運用の「ニッセイETF 日経高配当株30」（コード714A）が東証での上場を承認され、2026年12月14日に上場予定。日経高配当株30指数（トータルリターン）に連動し、信託報酬は0.275%（税込）。",
+        "全国の証券会社での取扱いが可能な内国ETFであり、投資者は特定口座での購入ができる。売買単位は1口で、分配金は毎年2月9日と8月9日に年2回支払予定。",
+        "投資信託法施行令第12条第2号に規定する投資信託の受益証券であり、日本取引所自主規制法人の審査に基づき東証が上場を承認。上場日から成行売呼値・成行買呼値が可能。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]改善報告書の公衆の縦覧：（株）ＢｌｕｅＭｅｍｅ",
+      "url": "https://www.jpx.co.jp/news/1023/20261124-11.html",
+      "date": "2026-11-24",
+      "detectedAt": "2026-11-24T07:47:07.996Z",
+      "enriched": "2026-11-24T07:47:14.030Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社ＢｌｕｅＭｅｍｅ（コード4069、グロース市場）が過年度決算短信の訂正開示後、適時開示体制の改善報告書を2026年10月23日付で東証に提出した。",
+        "同社は適時開示体制に関する改善の必要性が高いと認められたため、改善措置を記載した報告書の提出を東証から求められ、これに対応した。",
+        "改善報告書は有価証券上場規程第504条第4項に基づき、2026年11月25日から2031年11月24日まで（5年間）公衆の縦覧に供される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX総研]個人向けデータ配信サービスJ-Quants API リモートMCPサーバ提供開始",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/6020/20261124-01.html",
+      "date": "2026-11-24",
+      "detectedAt": "2026-11-24T07:47:07.996Z",
+      "enriched": "2026-11-24T07:47:14.030Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "JPX総研がJ-Quants APIについて、2026年11月24日よりChartGPTおよびClaudeなどのチャットAIから直接データ利用できるリモートMCPサーバの提供を開始した。",
+        "J-Quants APIプラン登録者（Freeプラン含む）は、プログラミング不要でチャットAIに質問するだけで株価・財務情報等を取得・分析でき、従来のローカル環境向けMCPサーバ（新規ダウンロード廃止、更新なし）から移行すること。",
+        "本サービスはインターネット経由の仕組み（MCP＝Model Context Protocol）により提供され、取得データ範囲は契約プランに応じて決定される個人投資家向けデータ配信機能である。"
       ],
       "aiSumV": 3
     },
@@ -139,38 +231,6 @@
         "有価証券上場規程施行規則第604条第1項第24号に基づき、監理銘柄（確認中）指定期間は2026年11月20日から東証が上場廃止基準該当性を認定した日まで。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "海帆（3133）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-11-20",
-      "detectedAt": "2026-11-20T08:18:04.536Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-11-20T08:18:10.879Z"
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]プライム市場からスタンダード市場への変更：（株）日本エム・ディ・エム",
-      "url": "https://www.jpx.co.jp/listing/stocks/transfers/index.html",
-      "date": "2026-11-20",
-      "detectedAt": "2026-11-20T08:18:04.536Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "（株）クスリのアオキホールディングス（証券コード3549）は2026年6月19日付でプライム市場からスタンダード市場への市場区分変更を実施する。",
-        "同社はプライム市場の上場適格性要件を満たさなくなったため、スタンダード市場への変更対象となり、投資家は市場区分変更に伴う流動性や開示基準の変化に留意する必要がある。",
-        "市場区分変更は有価証券上場規程施行規則に基づき実施され、変更日2026年6月19日からスタンダード市場の適用基準が適用される。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-11-20T08:18:10.879Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -21301,6 +21361,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "ブラックロック、香港ドル建てMMFを立ち上げ、トークン化受益権も用意",
+        "url": "https://news.yahoo.co.jp/articles/94f08c093193dc678453c353e1932d32796c0acb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "エヌビディア・フアンCEO電撃復帰でも終わらない「ハニトラ疑惑」！ ベッセント財務長官vsラトニック商務長官の責任の押し付け合い トランプ政権に迫る米議会の追及",
+        "url": "https://news.yahoo.co.jp/articles/accfc3dd10afea16c36df106961e3b47f751d830",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英財務省、暗号資産のマーケットメイクを自己勘定取引の認可対象から除外へ",
         "url": "https://news.yahoo.co.jp/articles/c955f52da14224d10db9aec48a1875bbf815523a",
         "source": "Yahoo",
@@ -21321,24 +21393,24 @@
       {
         "title": "香港政府、暗号資産の売買・助言・運用・カストディを規制対象に追加する法案公示",
         "url": "https://news.yahoo.co.jp/articles/dc079955e0a486e3bebb96504a8e883c07a9dc46",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドコモアジア、ステーブルコイン越境決済実証に参加",
-        "url": "https://news.yahoo.co.jp/articles/7dfb10688fba49b9f079a9c1c52b58ca54e76020",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン6.1万ドル、年末反発の条件は何か──取引所・大口・マイナーの3指標で読む【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/951316a96b21046555288969592f4b02d6980243",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ブラックロック、香港ドル建てMMFを立ち上げ、トークン化受益権も用意",
+        "url": "https://news.yahoo.co.jp/articles/94f08c093193dc678453c353e1932d32796c0acb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "エヌビディア・フアンCEO電撃復帰でも終わらない「ハニトラ疑惑」！ ベッセント財務長官vsラトニック商務長官の責任の押し付け合い トランプ政権に迫る米議会の追及",
+        "url": "https://news.yahoo.co.jp/articles/accfc3dd10afea16c36df106961e3b47f751d830",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "英財務省、暗号資産のマーケットメイクを自己勘定取引の認可対象から除外へ",
         "url": "https://news.yahoo.co.jp/articles/c955f52da14224d10db9aec48a1875bbf815523a",
         "source": "Yahoo",
@@ -21359,18 +21431,6 @@
       {
         "title": "香港政府、暗号資産の売買・助言・運用・カストディを規制対象に追加する法案公示",
         "url": "https://news.yahoo.co.jp/articles/dc079955e0a486e3bebb96504a8e883c07a9dc46",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドコモアジア、ステーブルコイン越境決済実証に参加",
-        "url": "https://news.yahoo.co.jp/articles/7dfb10688fba49b9f079a9c1c52b58ca54e76020",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン6.1万ドル、年末反発の条件は何か──取引所・大口・マイナーの3指標で読む【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/951316a96b21046555288969592f4b02d6980243",
         "source": "Yahoo",
         "date": ""
       }
@@ -21529,6 +21589,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "ブラックロック、香港ドル建てMMFを立ち上げ、トークン化受益権も用意",
+        "url": "https://news.yahoo.co.jp/articles/94f08c093193dc678453c353e1932d32796c0acb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本直販、ステーブルコイン「JPYC」によるトークン決済を導入 AYET決済を見据えたEC基盤の検証を開始",
+        "url": "https://news.yahoo.co.jp/articles/d2ab9e628a1c97091787a1c2e98d90bc33cc820b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "北朝鮮がバイナンスから盗んだ63億4000万ドル",
+        "url": "https://news.yahoo.co.jp/articles/6ad2d3c963584f5406b2b5b4d51d3e40997aa6f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1inch、ハイパーリキッドの無期限先物を統合。株式・商品・為替にも対応",
         "url": "https://news.yahoo.co.jp/articles/cc8902545740cae82caed575e4be2d7face9f953",
         "source": "Yahoo",
@@ -21543,30 +21621,30 @@
       {
         "title": "Suiのビットコイン金融基盤「Hashi」がメインネット稼働、20超のパートナー参画",
         "url": "https://news.yahoo.co.jp/articles/dca706ca7db5414ca77ac8586aefb3d82e81f707",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港政府、暗号資産の売買・助言・運用・カストディを規制対象に追加する法案公示",
-        "url": "https://news.yahoo.co.jp/articles/dc079955e0a486e3bebb96504a8e883c07a9dc46",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OKXICE、トークン化米国株の24時間取引を開始",
-        "url": "https://news.yahoo.co.jp/articles/dbe1d73a96c82541b43bfbc42efd0e975cebbc1b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドコモアジア、ステーブルコイン越境決済実証に参加",
-        "url": "https://news.yahoo.co.jp/articles/7dfb10688fba49b9f079a9c1c52b58ca54e76020",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ブラックロック、香港ドル建てMMFを立ち上げ、トークン化受益権も用意",
+        "url": "https://news.yahoo.co.jp/articles/94f08c093193dc678453c353e1932d32796c0acb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "日本直販、ステーブルコイン「JPYC」によるトークン決済を導入 AYET決済を見据えたEC基盤の検証を開始",
+        "url": "https://news.yahoo.co.jp/articles/d2ab9e628a1c97091787a1c2e98d90bc33cc820b",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "北朝鮮がバイナンスから盗んだ63億4000万ドル",
+        "url": "https://news.yahoo.co.jp/articles/6ad2d3c963584f5406b2b5b4d51d3e40997aa6f2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "1inch、ハイパーリキッドの無期限先物を統合。株式・商品・為替にも対応",
         "url": "https://news.yahoo.co.jp/articles/cc8902545740cae82caed575e4be2d7face9f953",
         "source": "Yahoo",
@@ -21581,24 +21659,6 @@
       {
         "title": "Suiのビットコイン金融基盤「Hashi」がメインネット稼働、20超のパートナー参画",
         "url": "https://news.yahoo.co.jp/articles/dca706ca7db5414ca77ac8586aefb3d82e81f707",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "香港政府、暗号資産の売買・助言・運用・カストディを規制対象に追加する法案公示",
-        "url": "https://news.yahoo.co.jp/articles/dc079955e0a486e3bebb96504a8e883c07a9dc46",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "OKXICE、トークン化米国株の24時間取引を開始",
-        "url": "https://news.yahoo.co.jp/articles/dbe1d73a96c82541b43bfbc42efd0e975cebbc1b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドコモアジア、ステーブルコイン越境決済実証に参加",
-        "url": "https://news.yahoo.co.jp/articles/7dfb10688fba49b9f079a9c1c52b58ca54e76020",
         "source": "Yahoo",
         "date": ""
       }
