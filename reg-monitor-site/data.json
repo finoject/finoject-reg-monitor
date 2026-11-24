@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:33:25.607Z",
+  "generatedAt": "2026-11-24T04:14:23.546Z",
   "items": [
     {
       "agency": "日本証券業協会",
@@ -13,6 +13,37 @@
         "日本証券業協会とICMAが2017年から継続するサステナブルボンド普及カンファレンスの第9回を2026年11月25日に東京で開催し、グリーンボンド原則等のICMA原則とサステナブルボンド市場の次なる発展方向に焦点を当てる。",
         "市場関係者（証券会社・機関投資家等）はICMAウェブサイトでの事前登録により、ハイブリッド形式（会場参加またはZoom参加）でカンファレンスに参加可能であり、会場参加は先着順。",
         "開催日時は2026年11月25日（水）10時00分～18時30分、会場はザ・キャピトルホテル東急及びZoomウェビナー形式で参加費無料。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
+      "date": "2026-11-24",
+      "detectedAt": "2026-11-24T04:14:23.546Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "PTS Information Networkの終了に伴い、金融商品取引所上場銘柄のPTSにおける売買状況等の統計を日本証券業協会ホームページで公表する体制に移行した（2025年7月1日終了）。",
+        "一般投資家および市場関係者は、協会ホームページから月次（毎月21日原則公表）および年次の現金信用別売買状況、売買株数・売買代金データを参照可能になった。",
+        "PTS運営業務を行う会員および取引所外取引を行う会員からの報告に基づき、売買株数・売買代金を集計し、取引所取引との比較分析が可能な統計情報として継続提供される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-24T04:14:29.122Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：（株）TOKIUM",
+      "url": "https://www.jpx.co.jp/news/1031/20261124_01.html",
+      "date": "2026-11-24",
+      "detectedAt": "2026-11-24T04:14:23.546Z",
+      "enriched": "2026-11-24T04:14:29.123Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "（株）TOKIUM（コード664A）の11月25日上場日、初値決定前の気配運用として板中心値段1,620円から開始、上限方向は3,730円まで81円刻み10分間隔で更新、下限方向は1,215円まで通常値幅3分間隔で更新される。",
+        "取引参加者は同上場日の売買において成行呼値を禁止し、注文受付価格を405円以上6,480円以下の範囲内で指値のみで注文すること。初値決定まで制限値幅は適用されない。",
+        "初値決定日は2026年11月25日で、東証が示す上記気配運用ルールに従い気配が更新されて初値が決定される。初値決定後は当初値を基準値段として通常の制限値幅が適用される。"
       ],
       "aiSumV": 3
     },
@@ -4165,22 +4196,6 @@
         "2025年度の監査結果等の概要が別添資料で示されており、金融商品取引業者は当該監査実施と結果報告への対応が必須。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「金融商品取引所上場銘柄のPTSにおける売買状況等」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/pts_toukei.html",
-      "date": "2026-10-21",
-      "detectedAt": "2026-10-21T04:49:20.644Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "PTS Information Networkの終了に伴い、金融商品取引所上場銘柄のPTSにおける売買状況等の統計を日本証券業協会ホームページで公表する体制に移行した（2025年7月1日終了）。",
-        "一般投資家および市場関係者は、協会ホームページから月次（毎月21日原則公表）および年次の現金信用別売買状況、売買株数・売買代金データを参照可能になった。",
-        "PTS運営業務を行う会員および取引所外取引を行う会員からの報告に基づき、売買株数・売買代金を集計し、取引所取引との比較分析が可能な統計情報として継続提供される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-10-21T04:49:26.525Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -21271,6 +21286,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "韓国、暗号資産のマネロン対策強化へ。海外取引所・個人ウォレットへの送金管理を厳格化",
+        "url": "https://news.yahoo.co.jp/articles/08280e34076d90e100d4c4b200a72b0a206eb8ca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "香港政府、暗号資産の売買・助言・運用・カストディを規制対象に追加する法案公示",
+        "url": "https://news.yahoo.co.jp/articles/dc079955e0a486e3bebb96504a8e883c07a9dc46",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ドコモアジア、ステーブルコイン越境決済実証に参加",
         "url": "https://news.yahoo.co.jp/articles/7dfb10688fba49b9f079a9c1c52b58ca54e76020",
         "source": "Yahoo",
@@ -21291,24 +21318,24 @@
       {
         "title": "ビットコイン急落、4年サイクルの底は近いのか──MVRVと長期保有者の損失を読む【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/29852f510d9b637b51658a3839a3caebb63a5f30",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領のミームコイン、関連ウォレットから約318億円相当が移動＝報道",
-        "url": "https://news.yahoo.co.jp/articles/9d096fc64b72b5fc8c272acd8d2988ad5264e48b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアムは年初来45％安、新たな買い手の獲得に苦戦【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/62da7f93dd57e077c6a88e6361d7205bc2fb95e9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "韓国、暗号資産のマネロン対策強化へ。海外取引所・個人ウォレットへの送金管理を厳格化",
+        "url": "https://news.yahoo.co.jp/articles/08280e34076d90e100d4c4b200a72b0a206eb8ca",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "香港政府、暗号資産の売買・助言・運用・カストディを規制対象に追加する法案公示",
+        "url": "https://news.yahoo.co.jp/articles/dc079955e0a486e3bebb96504a8e883c07a9dc46",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ドコモアジア、ステーブルコイン越境決済実証に参加",
         "url": "https://news.yahoo.co.jp/articles/7dfb10688fba49b9f079a9c1c52b58ca54e76020",
         "source": "Yahoo",
@@ -21329,18 +21356,6 @@
       {
         "title": "ビットコイン急落、4年サイクルの底は近いのか──MVRVと長期保有者の損失を読む【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/29852f510d9b637b51658a3839a3caebb63a5f30",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ大統領のミームコイン、関連ウォレットから約318億円相当が移動＝報道",
-        "url": "https://news.yahoo.co.jp/articles/9d096fc64b72b5fc8c272acd8d2988ad5264e48b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアムは年初来45％安、新たな買い手の獲得に苦戦【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/62da7f93dd57e077c6a88e6361d7205bc2fb95e9",
         "source": "Yahoo",
         "date": ""
       }
@@ -21499,6 +21514,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "香港政府、暗号資産の売買・助言・運用・カストディを規制対象に追加する法案公示",
+        "url": "https://news.yahoo.co.jp/articles/dc079955e0a486e3bebb96504a8e883c07a9dc46",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "OKXICE、トークン化米国株の24時間取引を開始",
         "url": "https://news.yahoo.co.jp/articles/dbe1d73a96c82541b43bfbc42efd0e975cebbc1b",
         "source": "Yahoo",
@@ -21525,18 +21546,18 @@
       {
         "title": "約3807億円の利益を暗号資産で得たトランプを調査、米中間選挙を制した民主党がバイナンスに資料要求",
         "url": "https://news.yahoo.co.jp/articles/29d152d92f764b826ea4d6867d15d59d1562a69d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアムは年初来45％安、新たな買い手の獲得に苦戦【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/62da7f93dd57e077c6a88e6361d7205bc2fb95e9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "香港政府、暗号資産の売買・助言・運用・カストディを規制対象に追加する法案公示",
+        "url": "https://news.yahoo.co.jp/articles/dc079955e0a486e3bebb96504a8e883c07a9dc46",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "OKXICE、トークン化米国株の24時間取引を開始",
         "url": "https://news.yahoo.co.jp/articles/dbe1d73a96c82541b43bfbc42efd0e975cebbc1b",
         "source": "Yahoo",
@@ -21563,12 +21584,6 @@
       {
         "title": "約3807億円の利益を暗号資産で得たトランプを調査、米中間選挙を制した民主党がバイナンスに資料要求",
         "url": "https://news.yahoo.co.jp/articles/29d152d92f764b826ea4d6867d15d59d1562a69d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "イーサリアムは年初来45％安、新たな買い手の獲得に苦戦【価格分析】",
-        "url": "https://news.yahoo.co.jp/articles/62da7f93dd57e077c6a88e6361d7205bc2fb95e9",
         "source": "Yahoo",
         "date": ""
       }
