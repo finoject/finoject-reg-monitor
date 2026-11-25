@@ -9,3 +9,5 @@ ops/healthcheck/config.env
 
 # 巡回の健全性警告（実行時に生成。コミットしない）
 reg-monitor/.crawl-warnings
+GEMINI_REVIEW.md
+GROK_REVIEW.md
