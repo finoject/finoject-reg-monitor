@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:22:04.275Z",
+  "generatedAt": "2026-11-25T11:53:06.103Z",
   "items": [
     {
       "agency": "金融庁",
@@ -21849,6 +21849,12 @@
     ],
     "505M60000002048": [
       {
+        "title": "テザー、約80億円流出事件でUSDT返還に手数料20%を提示＝Bloomberg",
+        "url": "https://news.yahoo.co.jp/articles/421f0c83de3e54cf2fa80e07c574b08c1f7d2de7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米CFTCスタッフ、取引所・清算機関の財務資源にBTC・ETHなど算入可能と見解",
         "url": "https://news.yahoo.co.jp/articles/d2b1990abdce1afdc80e1d6aa29d003bb684b8d0",
         "source": "Yahoo",
@@ -21875,18 +21881,18 @@
       {
         "title": "サークル、トルコの暗号資産取引所パリブとMOU。USDC活用やRWAトークン化を検討",
         "url": "https://news.yahoo.co.jp/articles/f7cf5383079e456c282f8f58ed09b2f448a53837",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "PwC Japanとオプテージ、暗号資産交換業者のコンプライアンス評価自動化へ実証",
-        "url": "https://news.yahoo.co.jp/articles/ac686f572478d3c384b7eff4a06d1fbfd6ed5d58",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "テザー、約80億円流出事件でUSDT返還に手数料20%を提示＝Bloomberg",
+        "url": "https://news.yahoo.co.jp/articles/421f0c83de3e54cf2fa80e07c574b08c1f7d2de7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米CFTCスタッフ、取引所・清算機関の財務資源にBTC・ETHなど算入可能と見解",
         "url": "https://news.yahoo.co.jp/articles/d2b1990abdce1afdc80e1d6aa29d003bb684b8d0",
         "source": "Yahoo",
@@ -21913,12 +21919,6 @@
       {
         "title": "サークル、トルコの暗号資産取引所パリブとMOU。USDC活用やRWAトークン化を検討",
         "url": "https://news.yahoo.co.jp/articles/f7cf5383079e456c282f8f58ed09b2f448a53837",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "PwC Japanとオプテージ、暗号資産交換業者のコンプライアンス評価自動化へ実証",
-        "url": "https://news.yahoo.co.jp/articles/ac686f572478d3c384b7eff4a06d1fbfd6ed5d58",
         "source": "Yahoo",
         "date": ""
       }
