@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-25T08:20:34.040Z",
+  "generatedAt": "2026-11-25T09:21:16.266Z",
   "items": [
+    {
+      "agency": "金融庁",
+      "title": "「トランジション・ファイナンス環境整備検討会」（第15回）の開催の公表",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20261125.html",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T09:21:16.266Z",
+      "enriched": "2026-11-25T09:21:23.888Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "トランジション・ファイナンス環境整備検討会第15回は令和8年12月2日13時30分～15時30分、経済産業省別館1111会議室及びオンラインで開催予定。会議は非公開だが配布資料・議事要旨は後日金融庁ウェブサイトで公表される。",
+        "本検討会は金融庁総合政策課サステナブルファイナンス推進室が主管し、トランジション・ファイナンスに関する環境整備について委員による意見交換・検討を行う場である。",
+        "本公表は検討会開催日程の告知に限定され、具体的な改正内容・新設基準・適用期限等は本文に記載されていない。配布資料及び議事要旨公表時に具体的な施策内容が示される見込み。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "日本銀行が保有する国債の銘柄別残高",
@@ -21606,7 +21621,13 @@
     ],
     "429M60000002007": [
       {
-        "title": "米予測市場カルシ、ユタ州で新規取引一時停止、NY州では即時禁止を回避",
+        "title": "金庫の金を動かさず担保に、JPモルガン・HSBCが初の実取引",
+        "url": "https://news.yahoo.co.jp/articles/a2c6c88a1837597f22136d017cf2a60889b230e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米予測市場カルシ、ユタ州で新規取引一時停止。NY州では即時禁止を回避",
         "url": "https://news.yahoo.co.jp/articles/841aeb9bc62e60709d73e46b1c75e37ffdd8afa9",
         "source": "Yahoo",
         "date": ""
@@ -21632,19 +21653,19 @@
       {
         "title": "PwC Japanとオプテージ、暗号資産交換業者のコンプライアンス評価自動化へ実証",
         "url": "https://news.yahoo.co.jp/articles/ac686f572478d3c384b7eff4a06d1fbfd6ed5d58",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、ステーブルコイン規則案公表 ＩＣＯ禁止緩和に道",
-        "url": "https://news.yahoo.co.jp/articles/d43a0575256c61bb8bdff9d2a9be998ea8116690",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
-        "title": "米予測市場カルシ、ユタ州で新規取引一時停止、NY州では即時禁止を回避",
+        "title": "金庫の金を動かさず担保に、JPモルガン・HSBCが初の実取引",
+        "url": "https://news.yahoo.co.jp/articles/a2c6c88a1837597f22136d017cf2a60889b230e3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米予測市場カルシ、ユタ州で新規取引一時停止。NY州では即時禁止を回避",
         "url": "https://news.yahoo.co.jp/articles/841aeb9bc62e60709d73e46b1c75e37ffdd8afa9",
         "source": "Yahoo",
         "date": ""
@@ -21670,12 +21691,6 @@
       {
         "title": "PwC Japanとオプテージ、暗号資産交換業者のコンプライアンス評価自動化へ実証",
         "url": "https://news.yahoo.co.jp/articles/ac686f572478d3c384b7eff4a06d1fbfd6ed5d58",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、ステーブルコイン規則案公表 ＩＣＯ禁止緩和に道",
-        "url": "https://news.yahoo.co.jp/articles/d43a0575256c61bb8bdff9d2a9be998ea8116690",
         "source": "Yahoo",
         "date": ""
       }
