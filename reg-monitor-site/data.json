@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-11-25T06:49:23.118Z",
+  "generatedAt": "2026-11-25T08:20:34.040Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261120.xlsx",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T08:20:34.040Z",
+      "enriched": "2026-11-25T08:20:40.109Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "本文がバイナリデータ（Excelファイル形式）であり、実務担当者が知るべき具体的な改正内容・対応方法・適用日時を抽出できない。",
+        "タイトル「日本銀行が保有する国債の銘柄別残高」から推定では、日本銀行が保有する国債について銘柄別の残高情報を公表しているが、本文に具体的な数字や変更内容がない。",
+        "金融規制・コンプライアンス実務に直結する改正条項・基準値・対象者・期限等の記載がなく、統計情報公表として実務的指導を含まない可能性が高い。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：半導体ブル2倍ETF（OTCスワップ型）（コード682A）",
+      "url": "https://www.jpx.co.jp/news/1030/20261125-02.html",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T08:20:34.040Z",
+      "enriched": "2026-11-25T08:20:40.110Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "半導体ブル2倍ETF（OTCスワップ型、コード682A）が2026年12月2日に東証に新規上場し、呼値の単位は「ETF等（1口）呼値テーブル」が適用される。",
+        "取引参加者及び投資家は同ETFの取引時に当該呼値テーブルに基づいた呼値での発注・約定に対応する必要がある。",
+        "2026年12月2日の新規上場開始日から東京証券取引所の呼値ルールが適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：ＳＭＴ ＥＴＦ円金利フィクスト・グリッド（１０年固定金利払い／ＯＴＣスワップ型）（コード684A）",
+      "url": "https://www.jpx.co.jp/news/1030/20261125-04.html",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T08:20:34.040Z",
+      "enriched": "2026-11-25T08:20:40.110Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "SMT ETF円金利フィクスト・グリッド（10年固定金利払い／OTCスワップ型）（コード684A）が2026年12月2日に東証に新規上場し、呼値の単位は「ETF等（1口）呼値テーブル」が適用される。",
+        "取引参加者及び投資家は、当該ETFの売買に際して、指定された「ETF等（1口）呼値テーブル」に基づく呼値単位での注文を行う必要がある。",
+        "2026年12月2日の新規上場日より、当該銘柄の取引が東京証券取引所において開始される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：iFreeETF FANG+レバレッジ（OTCスワップ型）（コード683A）",
+      "url": "https://www.jpx.co.jp/news/1030/20261125-03.html",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T08:20:34.040Z",
+      "enriched": "2026-11-25T08:20:40.110Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "iFreeETF FANG+レバレッジ（OTCスワップ型）（コード683A）が2026年12月2日に東証に新規上場し、呼値の単位は「ETF等（1口）呼値テーブル」が適用される。",
+        "東証の取引参加者および投資家は、同ETFの売買において「ETF等（1口）呼値テーブル」に基づいた呼値単位で注文発注・執行する必要がある。",
+        "2026年12月2日の新規上場開始日から東京証券取引所の呼値ルールが適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：iシェアーズ 米国成長株式 キャピタル ＆ プレミアムインカム アクティブ ETF （コード675A）",
+      "url": "https://www.jpx.co.jp/news/1030/20261125-01.html",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T08:20:34.040Z",
+      "enriched": "2026-11-25T08:20:40.110Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "iシェアーズ 米国成長株式 キャピタル ＆ プレミアムインカム アクティブ ETF（コード675A）が2026年12月2日に東証に新規上場し、呼値の単位はTOPIX500呼値テーブルが適用される",
+        "取引参加者及び投資家は同ETFの売買において TOPIX500呼値テーブルに基づいた呼値単位で取引注文を発注する必要がある",
+        "適用開始は2026年12月2日の新規上場日から、東京証券取引所の呼値ルールに基づく"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場の承認（ETF）：ＳＭＴ ＥＴＦ日本株式モメンタムファンド（三井住友トラスト・アセットマネジメント）",
+      "url": "https://www.jpx.co.jp/news/1070/20261125.html",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T08:20:34.040Z",
+      "enriched": "2026-11-25T08:20:40.110Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "三井住友トラスト・アセットマネジメントが運用するアクティブ型ETF「ＳＭＴ ＥＴＦ日本株式モメンタムファンド」（コード715A）が東証に新規上場承認され、2026年12月15日に上場予定。",
+        "証券会社は本ETFを特定口座での取扱いを含め全国で販売可能。管理会社は短期・中期・長期の株価上昇率に基づき年4回投資銘柄を入れ替えて運用する体制。",
+        "信託報酬は0.545%（税込0.5995%）以内。指定参加者は野村證券、バークレイズ証券、エービーエヌ・アムロ・クリアリング証券。租税特別措置法第9条の4の2に規定する上場証券投資信託等に該当。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[TOCOM]デジタルグリッド株式会社が東京商品取引所の電力先物取引市場における市場取引参加者資格を取得",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0060/20261125-01.html",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T08:20:34.040Z",
+      "enriched": "2026-11-25T08:20:40.110Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京商品取引所はデジタルグリッド株式会社に対し、エネルギー市場（電力）における市場取引参加者の資格取得を承認した。",
+        "デジタルグリッド株式会社は2026年12月4日から東京商品取引所の電力先物取引市場で市場取引参加者として取引を行う資格を取得する。",
+        "本承認により、同社はAIプラットフォームを通じた電力取引の流動性向上に寄与する市場参加者としての活動が可能になる。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
@@ -21273,6 +21378,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "SBI・北尾氏、20％分離課税と暗号資産現物ETFの前倒しを提言",
+        "url": "https://news.yahoo.co.jp/articles/76f56b3cd46d048fc5bdb6f4d9ea1f0b6c72eb3d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "同窓会で40年ぶりに再会した旧友に退職金300万円を出資。「月3％配当」が半年で途絶えた際の返還請求",
         "url": "https://news.yahoo.co.jp/articles/1bb444aa2313c40f8d19207b36d2f79140da91d5",
         "source": "Yahoo",
@@ -21299,18 +21410,18 @@
       {
         "title": "韓国、ICOを約9年ぶり解禁へ──金融委がデジタル資産基本法の政府案を公表",
         "url": "https://news.yahoo.co.jp/articles/e7754276ba84ca4572d9bc5d1815a906890c9c97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券問題。残念ながら証券口座に預金者保護法はない 乗っ取り1万件でも補償は会社の裁量のまま",
-        "url": "https://news.yahoo.co.jp/expert/articles/08f2b7d19a15958d6bb24dbca7a7a2fd267ffa4d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "SBI・北尾氏、20％分離課税と暗号資産現物ETFの前倒しを提言",
+        "url": "https://news.yahoo.co.jp/articles/76f56b3cd46d048fc5bdb6f4d9ea1f0b6c72eb3d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "同窓会で40年ぶりに再会した旧友に退職金300万円を出資。「月3％配当」が半年で途絶えた際の返還請求",
         "url": "https://news.yahoo.co.jp/articles/1bb444aa2313c40f8d19207b36d2f79140da91d5",
         "source": "Yahoo",
@@ -21337,18 +21448,18 @@
       {
         "title": "韓国、ICOを約9年ぶり解禁へ──金融委がデジタル資産基本法の政府案を公表",
         "url": "https://news.yahoo.co.jp/articles/e7754276ba84ca4572d9bc5d1815a906890c9c97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券問題。残念ながら証券口座に預金者保護法はない 乗っ取り1万件でも補償は会社の裁量のまま",
-        "url": "https://news.yahoo.co.jp/expert/articles/08f2b7d19a15958d6bb24dbca7a7a2fd267ffa4d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "SBI・北尾氏、20％分離課税と暗号資産現物ETFの前倒しを提言",
+        "url": "https://news.yahoo.co.jp/articles/76f56b3cd46d048fc5bdb6f4d9ea1f0b6c72eb3d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "同窓会で40年ぶりに再会した旧友に退職金300万円を出資。「月3％配当」が半年で途絶えた際の返還請求",
         "url": "https://news.yahoo.co.jp/articles/1bb444aa2313c40f8d19207b36d2f79140da91d5",
         "source": "Yahoo",
@@ -21375,18 +21486,18 @@
       {
         "title": "韓国、ICOを約9年ぶり解禁へ──金融委がデジタル資産基本法の政府案を公表",
         "url": "https://news.yahoo.co.jp/articles/e7754276ba84ca4572d9bc5d1815a906890c9c97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券問題。残念ながら証券口座に預金者保護法はない 乗っ取り1万件でも補償は会社の裁量のまま",
-        "url": "https://news.yahoo.co.jp/expert/articles/08f2b7d19a15958d6bb24dbca7a7a2fd267ffa4d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "SBI・北尾氏、20％分離課税と暗号資産現物ETFの前倒しを提言",
+        "url": "https://news.yahoo.co.jp/articles/76f56b3cd46d048fc5bdb6f4d9ea1f0b6c72eb3d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "同窓会で40年ぶりに再会した旧友に退職金300万円を出資。「月3％配当」が半年で途絶えた際の返還請求",
         "url": "https://news.yahoo.co.jp/articles/1bb444aa2313c40f8d19207b36d2f79140da91d5",
         "source": "Yahoo",
@@ -21413,12 +21524,6 @@
       {
         "title": "韓国、ICOを約9年ぶり解禁へ──金融委がデジタル資産基本法の政府案を公表",
         "url": "https://news.yahoo.co.jp/articles/e7754276ba84ca4572d9bc5d1815a906890c9c97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券問題。残念ながら証券口座に預金者保護法はない 乗っ取り1万件でも補償は会社の裁量のまま",
-        "url": "https://news.yahoo.co.jp/expert/articles/08f2b7d19a15958d6bb24dbca7a7a2fd267ffa4d",
         "source": "Yahoo",
         "date": ""
       }
@@ -21501,6 +21606,24 @@
     ],
     "429M60000002007": [
       {
+        "title": "米予測市場カルシ、ユタ州で新規取引一時停止、NY州では即時禁止を回避",
+        "url": "https://news.yahoo.co.jp/articles/841aeb9bc62e60709d73e46b1c75e37ffdd8afa9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI・北尾氏、20％分離課税と暗号資産現物ETFの前倒しを提言",
+        "url": "https://news.yahoo.co.jp/articles/76f56b3cd46d048fc5bdb6f4d9ea1f0b6c72eb3d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国金融委、デジタル資産法の草案公表。国内ICOの解禁案盛り込む",
+        "url": "https://news.yahoo.co.jp/articles/ce90e7586dcad926cf038f38884e82f0806f4200",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "友人は「市役所勤務・年収800万円」ですが、追加で「不動産収入400万円」「配当金100万円」と聞きうらやましい！“公務員は副業禁止”のはずですが、投資で「多額の収入」があっても問題ないのですか？",
         "url": "https://news.yahoo.co.jp/articles/b74b31690dcb6d06f95fe3eaba6894e5309c905e",
         "source": "Yahoo",
@@ -21515,30 +21638,30 @@
       {
         "title": "韓国、ステーブルコイン規則案公表 ＩＣＯ禁止緩和に道",
         "url": "https://news.yahoo.co.jp/articles/d43a0575256c61bb8bdff9d2a9be998ea8116690",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏長男が参画のVC、民主党が調査-政権との絆や内部情報巡り",
-        "url": "https://news.yahoo.co.jp/articles/de469cd1aadbc86fd2a3a5e4f7211f00a5a7a40f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「AIバブルなど存在しない」と断言、米データセンター建設大手Clayco創業者の勝算",
-        "url": "https://news.yahoo.co.jp/articles/bbad64be36aa264ab3d3a232fc7913dcbc2c2c00",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブラックロック、香港ドル建てMMFを立ち上げ、トークン化受益権も用意",
-        "url": "https://news.yahoo.co.jp/articles/94f08c093193dc678453c353e1932d32796c0acb",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米予測市場カルシ、ユタ州で新規取引一時停止、NY州では即時禁止を回避",
+        "url": "https://news.yahoo.co.jp/articles/841aeb9bc62e60709d73e46b1c75e37ffdd8afa9",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI・北尾氏、20％分離課税と暗号資産現物ETFの前倒しを提言",
+        "url": "https://news.yahoo.co.jp/articles/76f56b3cd46d048fc5bdb6f4d9ea1f0b6c72eb3d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国金融委、デジタル資産法の草案公表。国内ICOの解禁案盛り込む",
+        "url": "https://news.yahoo.co.jp/articles/ce90e7586dcad926cf038f38884e82f0806f4200",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "友人は「市役所勤務・年収800万円」ですが、追加で「不動産収入400万円」「配当金100万円」と聞きうらやましい！“公務員は副業禁止”のはずですが、投資で「多額の収入」があっても問題ないのですか？",
         "url": "https://news.yahoo.co.jp/articles/b74b31690dcb6d06f95fe3eaba6894e5309c905e",
         "source": "Yahoo",
@@ -21553,24 +21676,6 @@
       {
         "title": "韓国、ステーブルコイン規則案公表 ＩＣＯ禁止緩和に道",
         "url": "https://news.yahoo.co.jp/articles/d43a0575256c61bb8bdff9d2a9be998ea8116690",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "トランプ氏長男が参画のVC、民主党が調査-政権との絆や内部情報巡り",
-        "url": "https://news.yahoo.co.jp/articles/de469cd1aadbc86fd2a3a5e4f7211f00a5a7a40f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「AIバブルなど存在しない」と断言、米データセンター建設大手Clayco創業者の勝算",
-        "url": "https://news.yahoo.co.jp/articles/bbad64be36aa264ab3d3a232fc7913dcbc2c2c00",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブラックロック、香港ドル建てMMFを立ち上げ、トークン化受益権も用意",
-        "url": "https://news.yahoo.co.jp/articles/94f08c093193dc678453c353e1932d32796c0acb",
         "source": "Yahoo",
         "date": ""
       }
@@ -21729,6 +21834,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "米CFTCスタッフ、取引所・清算機関の財務資源にBTC・ETHなど算入可能と見解",
+        "url": "https://news.yahoo.co.jp/articles/d2b1990abdce1afdc80e1d6aa29d003bb684b8d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国金融委、デジタル資産法の草案公表。国内ICOの解禁案盛り込む",
+        "url": "https://news.yahoo.co.jp/articles/ce90e7586dcad926cf038f38884e82f0806f4200",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "フィデリティ、暗号資産取引サービスにAAVE・LINK・UNI追加",
         "url": "https://news.yahoo.co.jp/articles/2f29675e4aacb5923971ce7d2777e50428297353",
         "source": "Yahoo",
@@ -21749,24 +21866,24 @@
       {
         "title": "PwC Japanとオプテージ、暗号資産交換業者のコンプライアンス評価自動化へ実証",
         "url": "https://news.yahoo.co.jp/articles/ac686f572478d3c384b7eff4a06d1fbfd6ed5d58",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "HODL1、SuperX IndustriesとAI計算資源の販売などで提携へ",
-        "url": "https://news.yahoo.co.jp/articles/1c8c1c0b32ac7d66234ad01bb6a623901ec76ba6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、ステーブルコイン規則案公表 ＩＣＯ禁止緩和に道",
-        "url": "https://news.yahoo.co.jp/articles/d43a0575256c61bb8bdff9d2a9be998ea8116690",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米CFTCスタッフ、取引所・清算機関の財務資源にBTC・ETHなど算入可能と見解",
+        "url": "https://news.yahoo.co.jp/articles/d2b1990abdce1afdc80e1d6aa29d003bb684b8d0",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "韓国金融委、デジタル資産法の草案公表。国内ICOの解禁案盛り込む",
+        "url": "https://news.yahoo.co.jp/articles/ce90e7586dcad926cf038f38884e82f0806f4200",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "フィデリティ、暗号資産取引サービスにAAVE・LINK・UNI追加",
         "url": "https://news.yahoo.co.jp/articles/2f29675e4aacb5923971ce7d2777e50428297353",
         "source": "Yahoo",
@@ -21787,18 +21904,6 @@
       {
         "title": "PwC Japanとオプテージ、暗号資産交換業者のコンプライアンス評価自動化へ実証",
         "url": "https://news.yahoo.co.jp/articles/ac686f572478d3c384b7eff4a06d1fbfd6ed5d58",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "HODL1、SuperX IndustriesとAI計算資源の販売などで提携へ",
-        "url": "https://news.yahoo.co.jp/articles/1c8c1c0b32ac7d66234ad01bb6a623901ec76ba6",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、ステーブルコイン規則案公表 ＩＣＯ禁止緩和に道",
-        "url": "https://news.yahoo.co.jp/articles/d43a0575256c61bb8bdff9d2a9be998ea8116690",
         "source": "Yahoo",
         "date": ""
       }
@@ -21811,12 +21916,6 @@
         "date": ""
       },
       {
-        "title": "新潟・西区の80代男性から“現金800万円入りの菓子箱”だまし取った疑い 台湾出身の男（33）を逮捕",
-        "url": "https://news.yahoo.co.jp/articles/3934b908f937a44a474c48956589cf28ede8182a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "5:31【山形】被害相次ぐ「ニセ警察詐欺」その手口は？ ニセの警察官かどうか見極めるには",
         "url": "https://news.yahoo.co.jp/articles/950cd706c74ef6de875c03983db1d37ae4a97b73",
         "source": "Yahoo",
@@ -21837,6 +21936,12 @@
       {
         "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
         "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
+        "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
         "source": "Yahoo",
         "date": ""
       }
@@ -21849,12 +21954,6 @@
         "date": ""
       },
       {
-        "title": "新潟・西区の80代男性から“現金800万円入りの菓子箱”だまし取った疑い 台湾出身の男（33）を逮捕",
-        "url": "https://news.yahoo.co.jp/articles/3934b908f937a44a474c48956589cf28ede8182a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "5:31【山形】被害相次ぐ「ニセ警察詐欺」その手口は？ ニセの警察官かどうか見極めるには",
         "url": "https://news.yahoo.co.jp/articles/950cd706c74ef6de875c03983db1d37ae4a97b73",
         "source": "Yahoo",
@@ -21875,6 +21974,12 @@
       {
         "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
         "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
+        "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
         "source": "Yahoo",
         "date": ""
       }
@@ -21887,12 +21992,6 @@
         "date": ""
       },
       {
-        "title": "新潟・西区の80代男性から“現金800万円入りの菓子箱”だまし取った疑い 台湾出身の男（33）を逮捕",
-        "url": "https://news.yahoo.co.jp/articles/3934b908f937a44a474c48956589cf28ede8182a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "5:31【山形】被害相次ぐ「ニセ警察詐欺」その手口は？ ニセの警察官かどうか見極めるには",
         "url": "https://news.yahoo.co.jp/articles/950cd706c74ef6de875c03983db1d37ae4a97b73",
         "source": "Yahoo",
@@ -21913,6 +22012,12 @@
       {
         "title": "米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘",
         "url": "https://news.yahoo.co.jp/articles/6f5b5a724fe29e05377c40c39e723a6f6723bc8a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
+        "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
         "source": "Yahoo",
         "date": ""
       }
