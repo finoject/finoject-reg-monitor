@@ -18,6 +18,7 @@
 const fs = require('fs');
 const path = require('path');
 const { nowJst, ymd, resolveWeek } = require('./jstweek');
+const { classify } = require('./jev-topic');
 
 const AI_BASE = process.env.AI_ENDPOINT || 'https://finoject-proxy.kimihiro-mine.workers.dev/ai';
 // SECは「連絡先を含むUser-Agent」を要求する（無いと403）。他機関にも同じUAで通っている。
@@ -49,9 +50,14 @@ const SOURCES = [
   { agency: 'CFTC',   kind: 'rss',  url: 'https://www.cftc.gov/RSS/RSSGP/rssgp.xml' },
   { agency: 'OCC',    kind: 'rss',  url: 'https://www.occ.gov/rss/occ_news.xml' },          // Windows-1252
   { agency: 'FDIC',   kind: 'rss',  url: 'https://public.govdelivery.com/topics/USFDIC_26/feed.rss' },
-  { agency: 'EBA',    kind: 'rss',  url: 'https://www.eba.europa.eu/rss.xml' },
-  // FinCENは機関そのものがAML/CFT専門なので分野フィルタをかけない（全件が対象領域）
-  { agency: 'FinCEN', kind: 'fincen', url: 'https://www.fincen.gov/news-room', allTopics: true },  // RSSなし→HTML
+  // EBAの /rss.xml は「EBA E-mail alert ○月○日」という中身の無いページしか流さない（2026-11-25実測）。
+  // 実際の公表はプレスリリース側にしかなく、USDCをEU域内で初の significant EMT に分類した件
+  // （2026-10-14）もこちらにしか載っていなかった。報道発表のフィードに切り替える。
+  { agency: 'EBA',    kind: 'rss',  url: 'https://www.eba.europa.eu/news-press/news/rss.xml' },
+  // FinCENは機関そのものがAML/CFT専門なので分野フィルタをかけない（全件が対象領域）。
+  // 2026-11-25実測：/news-room は /news/ への meta refresh だけを返す311バイトのページになり、
+  // HTTPリダイレクトではないので解析が常に0件だった。RSSが用意されているのでそれを使う。
+  { agency: 'FinCEN', kind: 'rss', url: 'https://www.fincen.gov/news/index.xml', allTopics: true },
   { agency: 'ESMA',   kind: 'esma',   url: 'https://www.esma.europa.eu/press-news/esma-news' }, // RSSなし→HTML
 ];
 
@@ -119,31 +125,14 @@ function parseRss(xml, agency) {
       const links = [...b.matchAll(/<link\b([^>]*)>/gi)].map(x => x[1]);
       const pick = links.find(a => /rel=["']alternate["']/i.test(a)) || links.find(a => !/rel=/i.test(a));
       const href = (pick || '').match(/href=["']([^"']+)["']/i);
-      if (href) url = href[1];
+      // RSSの<link>本文はtag()でデコードされるが、Atomの属性値はここで自分でデコードする
+      // （&amp; を含むURLがそのまま残るとリンク切れになる）
+      if (href) url = decodeEntities(href[1]);
     }
     const published = tag(b, 'pubDate') || tag(b, 'published') || tag(b, 'updated') || tag(b, 'dc:date');
     if (!title || !url || seen.has(url)) continue;   // フィード側の重複をそのまま渡さない
     seen.add(url);
     out.push({ agency, title, url, date: toJstYmd(published), published });
-  }
-  return out;
-}
-
-function parseFincen(html) {
-  const out = [], seen = new Set();
-  // FinCENにRSSは無い。一覧の各記事は <time datetime="..."> が記事リンクの直前に来るので、
-  // リンクごとに「直前で最も近いdatetime」を採る（実測で距離113字・全件同じ構造）。
-  const times = [...html.matchAll(/datetime="([^"]+)"/g)].map(m => ({ i: m.index, v: m[1] }));
-  for (const m of html.matchAll(/<a[^>]+href="(\/news\/news-releases\/[^"]+)"[^>]*>([\s\S]*?)<\/a>/gi)) {
-    const url = 'https://www.fincen.gov' + m[1];
-    const title = decodeEntities(m[2].replace(/<[^>]+>/g, ''));
-    if (!title || seen.has(url)) continue;
-    seen.add(url);
-    // 実測で距離113字。1カードだけ<time>が欠けたときに前のカードの日付を拾わないよう、
-    // 許容距離を実測に対して十分小さく取る（外れたら日付なし＝対象週から落ちる、が安全側）。
-    let published = '';
-    for (const t of times) { if (t.i < m.index && m.index - t.i <= 400) published = t.v; else if (t.i >= m.index) break; }
-    out.push({ agency: 'FinCEN', title, url, date: toJstYmd(published), published });
   }
   return out;
 }
@@ -155,9 +144,11 @@ function parseEsma(html) {
     const title = decodeEntities(m[2].replace(/<[^>]+>/g, ''));
     if (!title || seen.has(url)) continue;
     seen.add(url);
-    // 一覧の日付は DD/MM/YYYY。リンクの直後から拾うが、範囲を広く取ると
-    // 日付が無いカードで「次のカードの日付」を拾ってしまうので狭くする。
-    const after = html.slice(m.index, m.index + 300);
+    // 一覧の日付は DD/MM/YYYY。実測（2026-09-01）で、そのカード自身の日付は
+    // リンク開始から367〜396字後にあり、次のカードの日付までは2500字以上ある。
+    // 600字なら自分の日付だけを確実に拾い、隣のカードには届かない。
+    // （300字に縮めた版はESMA全10件の日付を落としていた）
+    const after = html.slice(m.index, m.index + 600);
     const d = after.match(/(\d{2})\/(\d{2})\/(\d{4})/);
     const published = d ? `${d[3]}-${d[2]}-${d[1]}` : '';
     out.push({ agency: 'ESMA', title, url, date: published, published });
@@ -166,19 +157,23 @@ function parseEsma(html) {
 }
 
 async function collectOverseas(from, to) {
-  const items = [], failed = [];
+  const items = [], failed = [], gaps = [];
   for (const s of SOURCES) {
     try {
       const text = await fetchText(s.url);
-      const parsed = s.kind === 'rss' ? parseRss(text, s.agency)
-        : s.kind === 'fincen' ? parseFincen(text)
-        : parseEsma(text);
+      // kind を検証せず「rss以外は全部ESMA」にすると、設定のタイプミスが
+      // 「ページ構造変更の疑い」として記録され、原因が隠れる。未対応なら落とす。
+      const parse = { rss: () => parseRss(text, s.agency), esma: () => parseEsma(text) }[s.kind];
+      if (!parse) throw new Error(`未対応の kind: ${s.kind}（SOURCESの設定ミス）`);
+      const parsed = parse();
       // 対象週に入るものだけを採る。日付が取れない項目を「念のため」入れると、
       // 別の週の公表が「今週の動向」として混ざるので入れない。
       const dated = parsed.filter(x => x.date);
-      const picked = parsed.filter(x => x.date && x.date >= from && x.date <= to && (s.allTopics || isTopic(x.title)));
+      // 分野の選別はここではせず、main() で Jev（jev-topic.js）にまとめてかける
+      const picked = parsed.filter(x => x.date && x.date >= from && x.date <= to)
+        .map(x => (s.allTopics ? { ...x, allTopics: true } : x));
       items.push(...picked);
-      console.log(`  ${s.agency}: 取得${parsed.length}件（日付判明${dated.length}件） → 対象週かつ該当分野 ${picked.length}件`);
+      console.log(`  ${s.agency}: 取得${parsed.length}件（日付判明${dated.length}件） → 対象週 ${picked.length}件`);
       // HTTP 200でも中身がエラーページやタグ名変更だとパーサーは黙って0件を返す。
       // これを「静かな週」と同じ扱いにすると、全ソースが壊れても投稿が続いて気づけない。
       if (!parsed.length) {
@@ -186,12 +181,29 @@ async function collectOverseas(from, to) {
       } else if (!dated.length) {
         failed.push({ agency: s.agency, url: s.url, reason: `${parsed.length}件取得できたが日付を1件も特定できず、対象週で絞れなかった（一覧の構造変更の疑い）` });
       }
+      // CFTC・OCC・EBA・ESMAのフィードは各10件しか流れない。対象期間が長いと古い分が
+      // フィードに残らないが、結果は「その機関は静かだった」のと見分けがつかない。
+      // どこまで見られたのかを必ず残す。原因は断定しない（配信開始前・元から公表が無い、もありうる）。
+      const oldest = dated.reduce((a, x) => (a && a < x.date ? a : x.date), '');
+      if (oldest && oldest > to) {
+        // 対象期間より後の項目しか残っていない＝この機関については期間を1日も見られていない。
+        // 「静かな週」と区別がつかないので、取得できなかったのと同じ扱いにする。
+        failed.push({ agency: s.agency, url: s.url,
+          reason: `フィードに残っている最古の項目が ${oldest} で、対象期間（${from}〜${to}）より後。` +
+            `この機関については対象期間を1日も見られていない` });
+      } else if (oldest && oldest > from) {
+        // 期間の一部は見られている。取得できた記事があるのに「取得不可」としてモデルに渡すと
+        // 「未確認」と書かれてしまうので、unavailable とは別の欄に入れる。
+        gaps.push({ agency: s.agency, url: s.url, seenFrom: oldest,
+          reason: `フィードに残っている最古の項目が ${oldest}。` +
+            `${from} から ${oldest} の前日までは、この機関について公表の有無を確認できていない` });
+      }
     } catch (e) {
       failed.push({ agency: s.agency, url: s.url, reason: String(e.message || e) });
       console.log(`  ${s.agency}: 取得失敗 ${e.message || e}`);
     }
   }
-  return { items, failed };
+  return { items, failed, gaps };
 }
 
 function collectDomestic(from, to) {
@@ -199,7 +211,7 @@ function collectDomestic(from, to) {
   const data = JSON.parse(fs.readFileSync(p, 'utf8'));
   // items が配列でないのはデータ破損。空配列に読み替えると「国内該当なし」として
   // AIに渡り、欠落が正常な結果に化ける。海外ソースが生きていても全滅判定は通るので、ここで止める。
-  if (!Array.isArray(data.items)) throw new Error(`${p} の items が配列ではありません（データ破損。国内分を空として扱いません）`);
+  if (!data || !Array.isArray(data.items)) throw new Error(`${p} の items が配列ではありません（データ破損。国内分を空として扱いません）`);
   const items = data.items
     .filter(x => x && typeof x.date === 'string' && x.date >= from && x.date <= to)
     .filter(x => isTopic(x.title))
@@ -266,15 +278,35 @@ async function main() {
   console.log(`対象期間 ${wk.fromLabel}〜${wk.toLabel}`);
 
   console.log('収集:');
-  const { items: overseas, failed } = await collectOverseas(wk.from, wk.to);
+  const { items: candidates, failed, gaps } = await collectOverseas(wk.from, wk.to);
+  const sel = await classify(candidates, isTopic);
+  const strip = ({ allTopics, via, ...x }) => x;
+  const overseas = sel.included.map(strip);
+  const overseasExcluded = sel.excluded.map(strip);
+  console.log(`  海外の分野選別: ${sel.note} → 採用${overseas.length}件／除外${overseasExcluded.length}件` +
+    (sel.tokens ? `（Jev入力${sel.tokens}トークン＝$${(sel.tokens * 0.042 / 1e6).toFixed(6)}）` : ''));
   const domestic = collectDomestic(wk.from, wk.to);
+
+  // Worker側は件数上限で先頭から切るので、機関の並び順のまま渡すと
+  // 上限超過時に後段の機関（FinCEN・ESMA＝AMLの本丸）が丸ごと落ちる。
+  // 日付の新しい順に並べ替えて、切られるのが「古い項目」になるようにする。
+  const byDateDesc = (a, b) => String(b.date).localeCompare(String(a.date));
+  overseas.sort(byDateDesc);
+  overseasExcluded.sort((a, b) => (b.jev ?? -1) - (a.jev ?? -1));   // 確率の高い順＝惜しいものから目に入る
+  domestic.sort(byDateDesc);
 
   const payload = {
     weekFrom: wk.from, weekTo: wk.to, weekLabel: `${wk.fromLabel}〜${wk.toLabel}`,
     postDate: ymd(nowJst()),
     overseas, domestic,
+    // 分野選別で落とした海外記事。書き手が取りこぼしを目で確かめるために残す（Workerには渡さない）
+    overseasFilter: { mode: sel.mode, note: sel.note, jevInputTokens: sel.tokens },
+    overseasExcluded,
     // 取れなかったものは必ずモデルに渡す。「動きなし」と書かせないため。
     unavailable: [...UNREACHABLE, ...failed],
+    // 取得はできたが、対象期間の古い側をフィードで見られなかった機関。
+    // unavailable に混ぜるとWorker側が「自動取得できなかった」と説明してしまうので分ける。
+    coverageGaps: gaps,
   };
 
   if (args.out) { fs.writeFileSync(args.out, JSON.stringify(payload, null, 2), 'utf8'); console.log(`収集結果 ${args.out}`); }
@@ -283,13 +315,16 @@ async function main() {
   // 取得が全滅したときだけ落とす。取得できたうえで0件なら、その旨を書いたブリーフィングを出す。
   // この判定は --dry-run より前に置く。後ろに置くと、動作確認のつもりの実行が全滅していても
   // 終了コード0になり「確認できた」と誤読する。
-  if (failed.length >= SOURCES.length) {
+  // 件数ではなく機関の数で数える。1機関から失敗が2件入る経路が将来できても、
+  // 他が生きているのに全滅と誤判定しないため。
+  const failedAgencies = new Set(failed.map(f => f.agency));
+  if (failedAgencies.size >= new Set(SOURCES.map(s => s.agency)).size) {
     throw new Error(`海外ソース${SOURCES.length}件すべての取得に失敗しました。構造変更・障害を疑ってください（投稿は行いません）\n` +
       failed.map(f => `  - ${f.agency}: ${f.reason}`).join('\n'));
   }
 
   if (args.dryRun) {
-    console.log(`\n--dry-run: 海外${overseas.length}件／国内${domestic.length}件／取得不可${payload.unavailable.length}件。Worker・Slackは呼びません`);
+    console.log(`\n--dry-run: 海外${overseas.length}件（除外${overseasExcluded.length}件）／国内${domestic.length}件／取得不可${payload.unavailable.length}件／期間を覆えず${gaps.length}件。Worker・Slackは呼びません`);
     return;
   }
 
@@ -303,8 +338,12 @@ async function main() {
     console.log('対象週の該当項目は0件でした（取得は成功）。該当なしとして投稿します');
   }
 
-  const report = await buildReport(payload);
+  // 除外一覧は書き手の点検用。Workerに渡すと落とした記事まで本文に書かれるので外す
+  const { overseasExcluded: _ex, overseasFilter: _fl, ...toWorker } = payload;
+  const report = await buildReport(toWorker);
   await postSlack(report);
 }
 
-main().catch(e => { console.error(e.message || e); process.exit(1); });
+// テストから main() を直接呼べるようにする（node で直接起動したときだけ自動で走る）
+if (require.main === module) main().catch(e => { console.error(e.message || e); process.exit(1); });
+module.exports = { main };
