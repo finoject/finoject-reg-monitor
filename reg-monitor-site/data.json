@@ -1,6 +1,37 @@
 {
-  "generatedAt": "2026-11-25T05:39:39.209Z",
+  "generatedAt": "2026-11-25T06:49:23.118Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/j-ships/index.html",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T06:49:23.118Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "日本証券業協会がJ-Ships（特定投資家向け銘柄制度）の統計情報を月次・年次で公表する。取扱協会員から報告を受けた当月中の取引状況を有価証券種類ごとに集計し、価格・数量・金額を所定単位で表示する。",
+        "取扱協会員はJ-Shipsを利用した取引の取扱状況報告を協会に提出する義務を負う。統計データは協会ウェブサイトで一般公開される。",
+        "月次統計は毎月末現在を翌月25日（休日時は翌営業日）に、年次統計は毎年末現在を翌年1月25日（休日時は翌営業日）に公表される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-25T06:49:29.072Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]制限値幅の拡大：1銘柄",
+      "url": "https://www.jpx.co.jp/news/1030/20261125-05.html",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T06:49:23.118Z",
+      "enriched": "2026-11-25T06:49:29.072Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "株式会社ワコム（コード6727）について、11月26日より制限値幅の上限が600円に拡大される。基準値段915円、ストップ高1,515円、ストップ安765円。",
+        "取引参加者及び投資家は、拡大制限値幅での成行注文により予期しない価格での約定可能性があることを認識し、指値注文等での対応を検討すべき。",
+        "東証の自主規制に基づき、ストップ高安が2営業日連続発生した銘柄について、翌営業日から制限値幅拡大措置が適用される取扱い。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "ベイシス（4068）",
@@ -3945,22 +3976,6 @@
         "日本銀行調査統計局が2026年10月27日8時50分に速報値を公表し、時系列データは「時系列統計データ検索サイト」から入手可能。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「特定投資家向け銘柄制度(J-Ships)の統計情報」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/j-ships/index.html",
-      "date": "2026-10-26",
-      "detectedAt": "2026-10-26T07:44:16.414Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "日本証券業協会がJ-Ships（特定投資家向け銘柄制度）の統計情報を月次・年次で公表する。取扱協会員から報告を受けた当月中の取引状況を有価証券種類ごとに集計し、価格・数量・金額を所定単位で表示する。",
-        "取扱協会員はJ-Shipsを利用した取引の取扱状況報告を協会に提出する義務を負う。統計データは協会ウェブサイトで一般公開される。",
-        "月次統計は毎月末現在を翌月25日（休日時は翌営業日）に、年次統計は毎年末現在を翌年1月25日（休日時は翌営業日）に公表される。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-10-26T07:44:26.286Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -21258,6 +21273,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "同窓会で40年ぶりに再会した旧友に退職金300万円を出資。「月3％配当」が半年で途絶えた際の返還請求",
+        "url": "https://news.yahoo.co.jp/articles/1bb444aa2313c40f8d19207b36d2f79140da91d5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロボアドバイザーは任せる型と助言の型で決まりが違う。使う前に登録を確かめる",
         "url": "https://news.yahoo.co.jp/articles/8463311fdaf743ba5112d2c0f7bfbf05910822c7",
         "source": "Yahoo",
@@ -21284,18 +21305,18 @@
       {
         "title": "楽天証券問題。残念ながら証券口座に預金者保護法はない 乗っ取り1万件でも補償は会社の裁量のまま",
         "url": "https://news.yahoo.co.jp/expert/articles/08f2b7d19a15958d6bb24dbca7a7a2fd267ffa4d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「上場まで売れない株」に出口は開くか？ 東証「5年で100億円」基準が変える未上場株市場の正体",
-        "url": "https://news.yahoo.co.jp/articles/ee5666cffee0e1c385efb0468af2662a9c1f755a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "同窓会で40年ぶりに再会した旧友に退職金300万円を出資。「月3％配当」が半年で途絶えた際の返還請求",
+        "url": "https://news.yahoo.co.jp/articles/1bb444aa2313c40f8d19207b36d2f79140da91d5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロボアドバイザーは任せる型と助言の型で決まりが違う。使う前に登録を確かめる",
         "url": "https://news.yahoo.co.jp/articles/8463311fdaf743ba5112d2c0f7bfbf05910822c7",
         "source": "Yahoo",
@@ -21322,18 +21343,18 @@
       {
         "title": "楽天証券問題。残念ながら証券口座に預金者保護法はない 乗っ取り1万件でも補償は会社の裁量のまま",
         "url": "https://news.yahoo.co.jp/expert/articles/08f2b7d19a15958d6bb24dbca7a7a2fd267ffa4d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「上場まで売れない株」に出口は開くか？ 東証「5年で100億円」基準が変える未上場株市場の正体",
-        "url": "https://news.yahoo.co.jp/articles/ee5666cffee0e1c385efb0468af2662a9c1f755a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "同窓会で40年ぶりに再会した旧友に退職金300万円を出資。「月3％配当」が半年で途絶えた際の返還請求",
+        "url": "https://news.yahoo.co.jp/articles/1bb444aa2313c40f8d19207b36d2f79140da91d5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロボアドバイザーは任せる型と助言の型で決まりが違う。使う前に登録を確かめる",
         "url": "https://news.yahoo.co.jp/articles/8463311fdaf743ba5112d2c0f7bfbf05910822c7",
         "source": "Yahoo",
@@ -21360,18 +21381,18 @@
       {
         "title": "楽天証券問題。残念ながら証券口座に預金者保護法はない 乗っ取り1万件でも補償は会社の裁量のまま",
         "url": "https://news.yahoo.co.jp/expert/articles/08f2b7d19a15958d6bb24dbca7a7a2fd267ffa4d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「上場まで売れない株」に出口は開くか？ 東証「5年で100億円」基準が変える未上場株市場の正体",
-        "url": "https://news.yahoo.co.jp/articles/ee5666cffee0e1c385efb0468af2662a9c1f755a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "同窓会で40年ぶりに再会した旧友に退職金300万円を出資。「月3％配当」が半年で途絶えた際の返還請求",
+        "url": "https://news.yahoo.co.jp/articles/1bb444aa2313c40f8d19207b36d2f79140da91d5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ロボアドバイザーは任せる型と助言の型で決まりが違う。使う前に登録を確かめる",
         "url": "https://news.yahoo.co.jp/articles/8463311fdaf743ba5112d2c0f7bfbf05910822c7",
         "source": "Yahoo",
@@ -21398,12 +21419,6 @@
       {
         "title": "楽天証券問題。残念ながら証券口座に預金者保護法はない 乗っ取り1万件でも補償は会社の裁量のまま",
         "url": "https://news.yahoo.co.jp/expert/articles/08f2b7d19a15958d6bb24dbca7a7a2fd267ffa4d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "「上場まで売れない株」に出口は開くか？ 東証「5年で100億円」基準が変える未上場株市場の正体",
-        "url": "https://news.yahoo.co.jp/articles/ee5666cffee0e1c385efb0468af2662a9c1f755a",
         "source": "Yahoo",
         "date": ""
       }
@@ -21562,12 +21577,6 @@
     ],
     "422M60000002004": [
       {
-        "title": "海外へ100万円を超えて送ると税務署に調書が届く。仕送りの前に知りたい告知書",
-        "url": "https://news.yahoo.co.jp/articles/030f802d223ed4ab1a666fde595ffbbe20ba76f7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "焦点：バイナンス63億ドル被害、ハッカー対策で問われる交換所の内部統制",
         "url": "https://news.yahoo.co.jp/articles/71258444dff4f8147d76426e8cb0bfa12b992b68",
         "source": "Yahoo",
@@ -21594,18 +21603,18 @@
       {
         "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる",
         "url": "https://news.yahoo.co.jp/articles/73940c395759be609c623c800c620ef660717711",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
+        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
-        "title": "海外へ100万円を超えて送ると税務署に調書が届く。仕送りの前に知りたい告知書",
-        "url": "https://news.yahoo.co.jp/articles/030f802d223ed4ab1a666fde595ffbbe20ba76f7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
         "title": "焦点：バイナンス63億ドル被害、ハッカー対策で問われる交換所の内部統制",
         "url": "https://news.yahoo.co.jp/articles/71258444dff4f8147d76426e8cb0bfa12b992b68",
         "source": "Yahoo",
@@ -21632,6 +21641,12 @@
       {
         "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる",
         "url": "https://news.yahoo.co.jp/articles/73940c395759be609c623c800c620ef660717711",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
+        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
         "date": ""
       }
