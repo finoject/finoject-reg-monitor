@@ -1,7 +1,7 @@
 // Chaindetective 週次グローバル規制・AML動向ブリーフィング
 //
 // 毎週金曜17:07 JSTにGitHub Actionsから実行し、
-//   ① 海外7機関＋国内(data.json)から対象週（土〜金）の暗号資産/AML関連の公表を集め
+//   ① 海外の当局（SOURCES）＋国内(data.json)から対象週（金〜木）の暗号資産/AML関連の公表を集め
 //   ② Cloudflare Worker の /ai（task=briefing）でChaindetective向けの構造化レポートを書かせ
 //   ③ Slack #金融規制情報 へ投稿する
 // までを完結させる。
@@ -41,8 +41,15 @@ const isTopic = t => TOPIC_ACRONYM.test(String(t)) || TOPIC_TEXT.test(String(t))
 
 // 自動取得できない機関。黙って落とすと「今週FATFは動きなし」と誤読されるので、必ず明示して申し送る。
 const UNREACHABLE = [
+  // FATF本体は2026-11-25時点でもサイト全体が403（トップページも含む。Cloudflareのbot防御）。
+  // ★プレナリーの声明は財務省が日本語で公表しており、下のSOURCESで拾っている。
+  //   拾えないのはFATFのガイダンス・報告書（財務省が訳さないもの）。そこだけ申し送る。
   { agency: 'FATF', url: 'https://www.fatf-gafi.org/en/publications.html',
-    reason: 'Cloudflareのbot防御により403。自動取得不可（2026-08-13実測）' },
+    reason: 'FATF本体はサイト全体が403で自動取得できない（2026-08-13に発生、2026-11-25も同じ）。'
+      + 'プレナリーの声明は財務省の公表（SOURCESの「FATF（財務省の公表）」）を収集対象にしているが、'
+      + 'FATF本体から直接は何も取得できない。財務省が日本語で出したものだけが入るので、'
+      + 'FATFのガイダンス・報告書は、財務省が出していなければ拾えていない。'
+      + 'また財務省の掲載はFATFの公表より遅れることがあるため、対象週に無いことは「声明が無かった」ことを意味しない' },
 ];
 
 const SOURCES = [
@@ -59,6 +66,15 @@ const SOURCES = [
   // HTTPリダイレクトではないので解析が常に0件だった。RSSが用意されているのでそれを使う。
   { agency: 'FinCEN', kind: 'rss', url: 'https://www.fincen.gov/news/index.xml', allTopics: true },
   { agency: 'ESMA',   kind: 'esma',   url: 'https://www.esma.europa.eu/press-news/esma-news' }, // RSSなし→HTML
+  // FATF本体が403なので、財務省が日本語で出すFATF関連の公表を正の入口にする（2026-11-25追加）。
+  // 一覧はファイル名に公表日が入る（fatf/YYYYMMDD[hhmmss].html）ので日付が確実に取れる。
+  // FATF自体がAML/CFTの本丸なので分野フィルタはかけない。
+  // maxQuietDays：一覧の最新がこの日数より古くなったら「更新が止まった」とみなして申し送る。
+  // 新しい公表だけ別のURL規則に変わると、古いリンクが残っているせいで0件と区別がつかないため
+  // （2026-11-25のレビューでGeminiとGrokが独立に指摘）。
+  // FATFのプレナリーは年3回なので通常の間隔は最長でも約130日。200日あれば誤報は出ない。
+  { agency: 'FATF（財務省の公表）', kind: 'mof_fatf', allTopics: true, maxQuietDays: 200,
+    url: 'https://www.mof.go.jp/policy/international_policy/convention/fatf/' },
 ];
 
 // ---------- 取得 ----------
@@ -137,6 +153,64 @@ function parseRss(xml, agency) {
   return out;
 }
 
+function parseMofFatf(html, baseUrl) {
+  const byUrl = new Map();
+  let base;
+  try { base = new URL(baseUrl); } catch { return []; }
+
+  // 財務省のFATF一覧。各項目のURLが fatf/YYYYMMDD[hhmmss][英字サフィックス].html の形で、
+  // 公表日がファイル名そのものに入っている。本文の日付表記を探しに行くより確実。
+  //
+  // リンクは絶対・ルート相対・同階層相対が混在する。href の字面で判定すると同階層相対
+  // （href="20261106180337.html"）を取りこぼすので、**baseUrl で解決してから**判定する。
+  for (const m of html.matchAll(/<a[^>]+href\s*=\s*["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+    let u;
+    // href の中の実体参照（&amp; 等）を戻してから解決する。戻さないとクエリの名前が変わる。
+    try { u = new URL(decodeEntities(m[1]), base); } catch { continue; }
+
+    // 財務省の、このFATFフォルダの下にあるものだけ。別ホストに同じ形のパスがあっても採らない。
+    if (u.origin !== base.origin) continue;
+    if (!u.pathname.startsWith(base.pathname)) continue;
+
+    // 親ディレクトリが fatf のものだけ。パスのどこかに fatf を含むだけでは通さない。
+    // 空要素を落としてから取る（末尾スラッシュや連続スラッシュで1つずれるのを防ぐ）。
+    const seg = u.pathname.split('/').filter(Boolean);
+    const file = seg.pop() || '';
+    if (seg.pop() !== 'fatf') continue;
+
+    // 日付は8桁、または8桁＋時刻6桁。そのうしろに英字で始まるサフィックスが付くことがある
+    // （20250704PFreport.html ＝拡散金融の報告書）。サフィックスを英字始まりに限ると、
+    // 先頭8桁がたまたま日付に見えるだけの連番（20261106999999999.html）は弾ける。
+    const fm = file.match(/^(\d{8})(?:\d{6})?(?:[A-Za-z][A-Za-z0-9_-]*)?\.html$/);
+    if (!fm) continue;
+
+    const d = fm[1];
+    const date = `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}`;
+    // 暦として成り立たない日付＝ファイル名が日付ではない。
+    // Date.parse だけだと 2026-02-30 が 3月1日に繰り上がって素通りするので、往復させて確かめる。
+    const t = Date.parse(date + 'T00:00:00Z');
+    if (Number.isNaN(t) || new Date(t).toISOString().slice(0, 10) !== date) continue;
+
+    // 同じ公表が画像リンクと文字リンクの両方で出ることがある。
+    // 文字の題名を画像の alt で上書きしないよう、別々に持って最後に選ぶ。
+    const textTitle = decodeEntities(m[2].replace(/<[^>]+>/g, ''));
+    const altTitle = decodeEntities((m[0].match(/<img[^>]+alt\s*=\s*["']([^"']*)["']/i) || [])[1] || '');
+    const prev = byUrl.get(u.href) || { textTitle: '', altTitle: '' };
+    byUrl.set(u.href, {
+      agency: 'FATF（財務省の公表）', url: u.href, date, published: date,
+      textTitle: prev.textTitle || textTitle,
+      altTitle: prev.altTitle || altTitle,
+    });
+  }
+
+  // 文字の題名 → 画像の alt → 既定、の順で選ぶ。
+  // 題名がどうしても取れなかったものは落とさない。落とすと公表自体を見落とす。
+  return [...byUrl.values()].map(({ textTitle, altTitle, ...x }) => ({
+    ...x,
+    title: textTitle || altTitle || 'FATF関連の公表（題名を取得できず。リンク先を直接見ること）',
+  }));
+}
+
 function parseEsma(html) {
   const out = [], seen = new Set();
   for (const m of html.matchAll(/<a[^>]+href="(\/press-news\/esma-news\/[^"]+)"[^>]*>([\s\S]*?)<\/a>/gi)) {
@@ -163,7 +237,7 @@ async function collectOverseas(from, to) {
       const text = await fetchText(s.url);
       // kind を検証せず「rss以外は全部ESMA」にすると、設定のタイプミスが
       // 「ページ構造変更の疑い」として記録され、原因が隠れる。未対応なら落とす。
-      const parse = { rss: () => parseRss(text, s.agency), esma: () => parseEsma(text) }[s.kind];
+      const parse = { rss: () => parseRss(text, s.agency), esma: () => parseEsma(text), mof_fatf: () => parseMofFatf(text, s.url) }[s.kind];
       if (!parse) throw new Error(`未対応の kind: ${s.kind}（SOURCESの設定ミス）`);
       const parsed = parse();
       // 対象週に入るものだけを採る。日付が取れない項目を「念のため」入れると、
@@ -184,6 +258,17 @@ async function collectOverseas(from, to) {
       // CFTC・OCC・EBA・ESMAのフィードは各10件しか流れない。対象期間が長いと古い分が
       // フィードに残らないが、結果は「その機関は静かだった」のと見分けがつかない。
       // どこまで見られたのかを必ず残す。原因は断定しない（配信開始前・元から公表が無い、もありうる）。
+      // 一覧の最新が古すぎる＝更新が止まったか、新しい分だけ別のURL規則に変わった疑い。
+      // 「今週は公表が無かった」と見分けがつかないので、取得できなかったのと同じ扱いにする。
+      const newest = dated.reduce((a, x) => (a > x.date ? a : x.date), '');
+      if (s.maxQuietDays && newest) {
+        const quiet = Math.floor((Date.parse(to + 'T00:00:00Z') - Date.parse(newest + 'T00:00:00Z')) / 86400000);
+        if (quiet > s.maxQuietDays) {
+          failed.push({ agency: s.agency, url: s.url,
+            reason: `一覧の最新が ${newest} で、対象期間の終端 ${to} から ${quiet}日前。` +
+              `${s.maxQuietDays}日を超えており、一覧の更新が止まったか、新しい公表だけ別のURL規則に変わった疑いがある` });
+        }
+      }
       const oldest = dated.reduce((a, x) => (a && a < x.date ? a : x.date), '');
       if (oldest && oldest > to) {
         // 対象期間より後の項目しか残っていない＝この機関については期間を1日も見られていない。
