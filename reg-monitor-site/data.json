@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-11-25T03:46:55.169Z",
+  "generatedAt": "2026-11-25T05:18:16.839Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "ベイシス（4068）",
+      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T05:18:16.839Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
+        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
+        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-25T05:18:21.917Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "消費者物価のコア指標",
+      "url": "https://www.boj.or.jp/research/research_data/cpi/index.htm",
+      "date": "2026-11-25",
+      "detectedAt": "2026-11-25T05:18:16.839Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は消費者物価の基調的上昇率を把握するため、消費税率変更・教育無償化政策・携帯電話通信料引き下げ・旅行支援策・エネルギー負担緩和策の5項目を特殊要因として除いたコア指標を公表する。",
+        "金融経済分析に従事する実務者は、全国消費者物価指数公表日の2営業日後14時を目途に日本銀行が試算した特殊要因調整済みの消費者物価および刈込平均値・加重中央値等の4指標データを参照し、物価動向分析に活用する。",
+        "本コア指標公表システムは2026年3月26日より開始され、特殊要因の定義は予告なく変更される可能性があり、商用利用時は日本銀行調査統計局への事前相談が必要である。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-25T05:18:21.917Z"
+    },
     {
       "agency": "日本証券業協会",
       "title": "債券貸借取引残高等状況",
@@ -172,22 +204,6 @@
         "カウンターパーティ信用リスク及びLCRに係る基準の技術的改訂について市中協議を実施することに合意。協議文書は2026年11月後半に公表予定。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "ＨＯＤＬ１（2345）",
-      "url": "https://www.jpx.co.jp/markets/equities/suspended/index.html",
-      "date": "2026-11-24",
-      "detectedAt": "2026-11-24T07:47:07.996Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "サツドラホールディングス（3544）の株式について、公開買付に関する発表に伴い東京証券取引所が監理銘柄に指定し、2026年6月19日17時30分から17時55分まで売買を停止した。",
-        "投資者の投資判断に重大な影響を与えるおそれがある情報（公開買付、経営統合、第三者割当増資等）が生じた場合、当該上場会社は速やかに発表を行い、取引所に報告する必要がある。",
-        "東京証券取引所は重要情報開示時に売買停止措置を講じ、情報の周知徹底と市場の適正性維持を図る運用を継続している。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-11-24T07:47:14.030Z"
     },
     {
       "agency": "日本取引所グループ",
@@ -3839,22 +3855,6 @@
         "東証は開示済み企業に対して投資家が評価する事例提供とセミナー開催、未開示企業に対してガイド・事例提供で対応を強化し、国内外投資家へ日本企業の取組み進捗を発信していく方針。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本銀行",
-      "title": "消費者物価のコア指標",
-      "url": "https://www.boj.or.jp/research/research_data/cpi/index.htm",
-      "date": "2026-10-27",
-      "detectedAt": "2026-10-27T05:28:30.694Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "日本銀行は消費者物価の基調的上昇率を把握するため、消費税率変更・教育無償化政策・携帯電話通信料引き下げ・旅行支援策・エネルギー負担緩和策の5項目を特殊要因として除いたコア指標を公表する。",
-        "金融経済分析に従事する実務者は、全国消費者物価指数公表日の2営業日後14時を目途に日本銀行が試算した特殊要因調整済みの消費者物価および刈込平均値・加重中央値等の4指標データを参照し、物価動向分析に活用する。",
-        "本コア指標公表システムは2026年3月26日より開始され、特殊要因の定義は予告なく変更される可能性があり、商用利用時は日本銀行調査統計局への事前相談が必要である。"
-      ],
-      "aiSumV": 3,
-      "updated": true,
-      "enriched": "2026-10-27T05:28:36.292Z"
     },
     {
       "agency": "日本銀行",
@@ -21258,6 +21258,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "ロボアドバイザーは任せる型と助言の型で決まりが違う。使う前に登録を確かめる",
+        "url": "https://news.yahoo.co.jp/articles/8463311fdaf743ba5112d2c0f7bfbf05910822c7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券、残高168万件漏えい 年収情報も、不正取引確認されず",
         "url": "https://news.yahoo.co.jp/articles/ee03a9d616655a6affa3587186b3070062c0d2d0",
         "source": "Yahoo",
@@ -21284,18 +21290,18 @@
       {
         "title": "「上場まで売れない株」に出口は開くか？ 東証「5年で100億円」基準が変える未上場株市場の正体",
         "url": "https://news.yahoo.co.jp/articles/ee5666cffee0e1c385efb0468af2662a9c1f755a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "冬のボーナス「NISAと国債ならどっち？」月2万円の積立と120万円の固定5年、5年後にどうなるか試算",
-        "url": "https://news.yahoo.co.jp/articles/e3b921ff86c82d790e5d16f81067699435977591",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "ロボアドバイザーは任せる型と助言の型で決まりが違う。使う前に登録を確かめる",
+        "url": "https://news.yahoo.co.jp/articles/8463311fdaf743ba5112d2c0f7bfbf05910822c7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券、残高168万件漏えい 年収情報も、不正取引確認されず",
         "url": "https://news.yahoo.co.jp/articles/ee03a9d616655a6affa3587186b3070062c0d2d0",
         "source": "Yahoo",
@@ -21322,18 +21328,18 @@
       {
         "title": "「上場まで売れない株」に出口は開くか？ 東証「5年で100億円」基準が変える未上場株市場の正体",
         "url": "https://news.yahoo.co.jp/articles/ee5666cffee0e1c385efb0468af2662a9c1f755a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "冬のボーナス「NISAと国債ならどっち？」月2万円の積立と120万円の固定5年、5年後にどうなるか試算",
-        "url": "https://news.yahoo.co.jp/articles/e3b921ff86c82d790e5d16f81067699435977591",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "ロボアドバイザーは任せる型と助言の型で決まりが違う。使う前に登録を確かめる",
+        "url": "https://news.yahoo.co.jp/articles/8463311fdaf743ba5112d2c0f7bfbf05910822c7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券、残高168万件漏えい 年収情報も、不正取引確認されず",
         "url": "https://news.yahoo.co.jp/articles/ee03a9d616655a6affa3587186b3070062c0d2d0",
         "source": "Yahoo",
@@ -21360,18 +21366,18 @@
       {
         "title": "「上場まで売れない株」に出口は開くか？ 東証「5年で100億円」基準が変える未上場株市場の正体",
         "url": "https://news.yahoo.co.jp/articles/ee5666cffee0e1c385efb0468af2662a9c1f755a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "冬のボーナス「NISAと国債ならどっち？」月2万円の積立と120万円の固定5年、5年後にどうなるか試算",
-        "url": "https://news.yahoo.co.jp/articles/e3b921ff86c82d790e5d16f81067699435977591",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "ロボアドバイザーは任せる型と助言の型で決まりが違う。使う前に登録を確かめる",
+        "url": "https://news.yahoo.co.jp/articles/8463311fdaf743ba5112d2c0f7bfbf05910822c7",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券、残高168万件漏えい 年収情報も、不正取引確認されず",
         "url": "https://news.yahoo.co.jp/articles/ee03a9d616655a6affa3587186b3070062c0d2d0",
         "source": "Yahoo",
@@ -21398,12 +21404,6 @@
       {
         "title": "「上場まで売れない株」に出口は開くか？ 東証「5年で100億円」基準が変える未上場株市場の正体",
         "url": "https://news.yahoo.co.jp/articles/ee5666cffee0e1c385efb0468af2662a9c1f755a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "冬のボーナス「NISAと国債ならどっち？」月2万円の積立と120万円の固定5年、5年後にどうなるか試算",
-        "url": "https://news.yahoo.co.jp/articles/e3b921ff86c82d790e5d16f81067699435977591",
         "source": "Yahoo",
         "date": ""
       }
@@ -21486,6 +21486,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "友人は「市役所勤務・年収800万円」ですが、追加で「不動産収入400万円」「配当金100万円」と聞きうらやましい！“公務員は副業禁止”のはずですが、投資で「多額の収入」があっても問題ないのですか？",
+        "url": "https://news.yahoo.co.jp/articles/b74b31690dcb6d06f95fe3eaba6894e5309c905e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "PwC Japanとオプテージ、暗号資産交換業者のコンプライアンス評価自動化へ実証",
+        "url": "https://news.yahoo.co.jp/articles/ac686f572478d3c384b7eff4a06d1fbfd6ed5d58",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、ステーブルコイン規則案公表 ＩＣＯ禁止緩和に道",
         "url": "https://news.yahoo.co.jp/articles/d43a0575256c61bb8bdff9d2a9be998ea8116690",
         "source": "Yahoo",
@@ -21506,24 +21518,24 @@
       {
         "title": "ブラックロック、香港ドル建てMMFを立ち上げ、トークン化受益権も用意",
         "url": "https://news.yahoo.co.jp/articles/94f08c093193dc678453c353e1932d32796c0acb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "エヌビディア・フアンCEO電撃復帰でも終わらない「ハニトラ疑惑」！ ベッセント財務長官vsラトニック商務長官の責任の押し付け合い トランプ政権に迫る米議会の追及",
-        "url": "https://news.yahoo.co.jp/articles/accfc3dd10afea16c36df106961e3b47f751d830",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英財務省、暗号資産のマーケットメイクを自己勘定取引の認可対象から除外へ",
-        "url": "https://news.yahoo.co.jp/articles/c955f52da14224d10db9aec48a1875bbf815523a",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "友人は「市役所勤務・年収800万円」ですが、追加で「不動産収入400万円」「配当金100万円」と聞きうらやましい！“公務員は副業禁止”のはずですが、投資で「多額の収入」があっても問題ないのですか？",
+        "url": "https://news.yahoo.co.jp/articles/b74b31690dcb6d06f95fe3eaba6894e5309c905e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "PwC Japanとオプテージ、暗号資産交換業者のコンプライアンス評価自動化へ実証",
+        "url": "https://news.yahoo.co.jp/articles/ac686f572478d3c384b7eff4a06d1fbfd6ed5d58",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、ステーブルコイン規則案公表 ＩＣＯ禁止緩和に道",
         "url": "https://news.yahoo.co.jp/articles/d43a0575256c61bb8bdff9d2a9be998ea8116690",
         "source": "Yahoo",
@@ -21544,18 +21556,6 @@
       {
         "title": "ブラックロック、香港ドル建てMMFを立ち上げ、トークン化受益権も用意",
         "url": "https://news.yahoo.co.jp/articles/94f08c093193dc678453c353e1932d32796c0acb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "エヌビディア・フアンCEO電撃復帰でも終わらない「ハニトラ疑惑」！ ベッセント財務長官vsラトニック商務長官の責任の押し付け合い トランプ政権に迫る米議会の追及",
-        "url": "https://news.yahoo.co.jp/articles/accfc3dd10afea16c36df106961e3b47f751d830",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "英財務省、暗号資産のマーケットメイクを自己勘定取引の認可対象から除外へ",
-        "url": "https://news.yahoo.co.jp/articles/c955f52da14224d10db9aec48a1875bbf815523a",
         "source": "Yahoo",
         "date": ""
       }
@@ -21714,76 +21714,76 @@
     ],
     "505M60000002048": [
       {
+        "title": "フィデリティ、暗号資産取引サービスにAAVE・LINK・UNI追加",
+        "url": "https://news.yahoo.co.jp/articles/2f29675e4aacb5923971ce7d2777e50428297353",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハッシュグラフとWEA JAPAN、日本の実店舗向けにステーブルコイン決済のネットワーク間連携を検討",
+        "url": "https://news.yahoo.co.jp/articles/eb3dfe2ac034de73e992a4fa0b759cf9927749af",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サークル、トルコの暗号資産取引所パリブとMOU。USDC活用やRWAトークン化を検討",
+        "url": "https://news.yahoo.co.jp/articles/f7cf5383079e456c282f8f58ed09b2f448a53837",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "PwC Japanとオプテージ、暗号資産交換業者のコンプライアンス評価自動化へ実証",
+        "url": "https://news.yahoo.co.jp/articles/ac686f572478d3c384b7eff4a06d1fbfd6ed5d58",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "HODL1、SuperX IndustriesとAI計算資源の販売などで提携へ",
+        "url": "https://news.yahoo.co.jp/articles/1c8c1c0b32ac7d66234ad01bb6a623901ec76ba6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、ステーブルコイン規則案公表 ＩＣＯ禁止緩和に道",
         "url": "https://news.yahoo.co.jp/articles/d43a0575256c61bb8bdff9d2a9be998ea8116690",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、ICOを約9年ぶり解禁へ──金融委がデジタル資産基本法の政府案を公表",
-        "url": "https://news.yahoo.co.jp/articles/e7754276ba84ca4572d9bc5d1815a906890c9c97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アント、トークン化預金とMMFの即時決済を実証。DBSらと連携",
-        "url": "https://news.yahoo.co.jp/articles/acc27d1bcf369c3f433b9e71322464b4a6c573eb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブラックロック、香港ドル建てMMFを立ち上げ、トークン化受益権も用意",
-        "url": "https://news.yahoo.co.jp/articles/94f08c093193dc678453c353e1932d32796c0acb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本直販、ステーブルコイン「JPYC」によるトークン決済を導入 AYET決済を見据えたEC基盤の検証を開始",
-        "url": "https://news.yahoo.co.jp/articles/d2ab9e628a1c97091787a1c2e98d90bc33cc820b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮がバイナンスから盗んだ63億4000万ドル",
-        "url": "https://news.yahoo.co.jp/articles/6ad2d3c963584f5406b2b5b4d51d3e40997aa6f2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "フィデリティ、暗号資産取引サービスにAAVE・LINK・UNI追加",
+        "url": "https://news.yahoo.co.jp/articles/2f29675e4aacb5923971ce7d2777e50428297353",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ハッシュグラフとWEA JAPAN、日本の実店舗向けにステーブルコイン決済のネットワーク間連携を検討",
+        "url": "https://news.yahoo.co.jp/articles/eb3dfe2ac034de73e992a4fa0b759cf9927749af",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "サークル、トルコの暗号資産取引所パリブとMOU。USDC活用やRWAトークン化を検討",
+        "url": "https://news.yahoo.co.jp/articles/f7cf5383079e456c282f8f58ed09b2f448a53837",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "PwC Japanとオプテージ、暗号資産交換業者のコンプライアンス評価自動化へ実証",
+        "url": "https://news.yahoo.co.jp/articles/ac686f572478d3c384b7eff4a06d1fbfd6ed5d58",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "HODL1、SuperX IndustriesとAI計算資源の販売などで提携へ",
+        "url": "https://news.yahoo.co.jp/articles/1c8c1c0b32ac7d66234ad01bb6a623901ec76ba6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "韓国、ステーブルコイン規則案公表 ＩＣＯ禁止緩和に道",
         "url": "https://news.yahoo.co.jp/articles/d43a0575256c61bb8bdff9d2a9be998ea8116690",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、ICOを約9年ぶり解禁へ──金融委がデジタル資産基本法の政府案を公表",
-        "url": "https://news.yahoo.co.jp/articles/e7754276ba84ca4572d9bc5d1815a906890c9c97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "アント、トークン化預金とMMFの即時決済を実証。DBSらと連携",
-        "url": "https://news.yahoo.co.jp/articles/acc27d1bcf369c3f433b9e71322464b4a6c573eb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ブラックロック、香港ドル建てMMFを立ち上げ、トークン化受益権も用意",
-        "url": "https://news.yahoo.co.jp/articles/94f08c093193dc678453c353e1932d32796c0acb",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日本直販、ステーブルコイン「JPYC」によるトークン決済を導入 AYET決済を見据えたEC基盤の検証を開始",
-        "url": "https://news.yahoo.co.jp/articles/d2ab9e628a1c97091787a1c2e98d90bc33cc820b",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "北朝鮮がバイナンスから盗んだ63億4000万ドル",
-        "url": "https://news.yahoo.co.jp/articles/6ad2d3c963584f5406b2b5b4d51d3e40997aa6f2",
         "source": "Yahoo",
         "date": ""
       }
