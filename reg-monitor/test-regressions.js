@@ -338,11 +338,14 @@ t('表示側(index.html) の safeUrl が危険なスキームを弾く', () => {
 });
 
 t('週次スクリプトが items の型異常を0件扱いにしない', () => {
+  // 「!Array.isArray(data.items) なら throw する」ことだけを見る。
+  // if の中身の書き方（!data || を足す等）は問わない。条件を強める修正でテストが落ちると、
+  // 防御を厚くしたのに直したくなる圧力がかかる（2026-11-26に実際に起きた）。
   for (const f of ['weekly-brief.js', 'chaindetective-weekly.js']) {
     const src2 = fs.readFileSync(path.join(__dirname, f), 'utf8');
-    assert.ok(/if \(!Array\.isArray\(data\.items\)\) throw new Error/.test(src2),
+    assert.ok(/!Array\.isArray\(data\.items\)[^;{]{0,40}\bthrow new Error/.test(src2),
       `${f}: items が配列でないときに throw していません（0件のブリーフィングを平常どおり出してしまいます）`);
-    assert.ok(!/Array\.isArray\(data\.items\) \? data\.items : \[\]/.test(src2),
+    assert.ok(!/Array\.isArray\(data\.items\)\s*\?\s*data\.items\s*:\s*\[\]/.test(src2),
       `${f}: 空配列へのフォールバックが残っています`);
   }
 });
