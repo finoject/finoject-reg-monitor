@@ -1,4 +1,4 @@
-// 5つの金融関連サイトを巡回し、新着項目(日付・タイトル・リンク)を抽出して
+// 国内6機関と米国連邦官報を巡回し、新着項目(日付・タイトル・リンク)を抽出して
 // reg-monitor-site/data.json に蓄積する。前回までに見たURLと比較し、新規のみ追加。
 const cheerio = require('cheerio');
 const fs = require('fs');
@@ -215,6 +215,63 @@ function parseHTML(html, agency, base){
   return items;
 }
 
+// ---- 米国連邦官報（Federal Register API）----
+// 規範の制定・改正だけを拾う。Notice は取らない。
+// 実測(2026-11-26): 直近7日で Rule=1件 / Proposed Rule=4件 / Notice=62件（Noticeの大半はSECの日常的な届出通知）。
+// FinCEN の Notice は過去90日で0件のため、Notice を外しても 311条措置等を取りこぼさない。
+// 規則案の「撤回(Withdrawal)」も type は Proposed Rule（2026-22809 で実測）。
+const FEDREG_ISSUER = {
+  'Financial Crimes Enforcement Network': 'FinCEN',
+  'Securities and Exchange Commission': 'SEC',
+  'Commodity Futures Trading Commission': 'CFTC',
+  'Comptroller of the Currency': 'OCC',
+  'Federal Deposit Insurance Corporation': 'FDIC',
+  'Federal Reserve System': 'FRB',
+};
+async function fetchFedReg(s){
+  const p = new URLSearchParams();
+  p.set('per_page', '100');
+  p.set('order', 'newest');
+  for (const a of s.agencies) p.append('conditions[agencies][]', a);
+  for (const t of s.docTypes) p.append('conditions[type][]', t);
+  const gte = new Date(Date.now() - (s.days || 30) * 86400000).toISOString().slice(0, 10);
+  p.set('conditions[publication_date][gte]', gte);
+  for (const f of ['document_number','title','publication_date','type','html_url','agencies','comments_close_on'])
+    p.append('fields[]', f);
+  const raw = await get(s.url + '?' + p.toString());
+  let data;
+  try { data = JSON.parse(raw); }
+  catch(e){ throw new Error('連邦官報APIの応答がJSONではありません: ' + String(raw).slice(0, 120)); }
+  if (!data || !Array.isArray(data.results)){
+    if (data && data.count === 0) return [];        // 期間内に該当なし＝正常。空で返す
+    throw new Error('連邦官報APIの応答に results がありません');
+  }
+  // crawlSite は fedreg を40件で切る。実測は30日で12件だが、機関を増やすと境界に近づく。
+  // 取りこぼしが起きる規模になったら健全性警告で気づけるようにしておく。
+  if (data.total_pages > 1 || data.results.length > 40)
+    warn(`米国連邦官報: ${data.count}件が該当し、40件の上限に触れています（取りこぼしの可能性）`);
+  return data.results.map(r => {
+    // 親(Treasury Department 等)ではなく実際の発出機関を issuer にする。共同規則は複数併記。
+    // 「parent_id を持つか」で選ぶと、SEC・CFTC・FDIC・FRB のような親を持たない独立機関が
+    // 子機関との共同規則で落ちる。この応答の中で親として参照されているIDだけを除く。
+    const ags = (r.agencies || []).filter(a => a && a.name);
+    const parentIds = new Set(ags.map(a => a.parent_id).filter(id => id != null));
+    const issuers = ags.filter(a => !parentIds.has(a.id));
+    const names = (issuers.length ? issuers : ags).map(a => FEDREG_ISSUER[a.name] || a.name).filter(Boolean);
+    return {
+      agency: s.name,                               // zeroSites 判定が SITES の name と突き合わせるため、ここは機関名にしない
+      issuer: [...new Set(names)].join('・') || '米国連邦官報',
+      title: (r.title || '').replace(/\s+/g, ' ').trim(),
+      url: abs(r.html_url || '', s.url) || '',                 // 他パーサと同じくスキームを検査（javascript: 等を弾く）
+      date: /^\d{4}-\d{2}-\d{2}$/.test(r.publication_date || '') ? r.publication_date : '',
+      region: 'overseas',
+      docType: r.type || '',
+      docNumber: r.document_number || '',
+      commentsCloseOn: r.comments_close_on || '',
+    };
+  });
+}
+
 // 監視対象の全機関。1回の巡回でこの配列を全件ループ取得する（巡回は機関単位でなくワークフロー単位）。
 // → cron（crawl.yml: JST 8/11/14/17/20 の1日5回）は全機関共通。ここに機関を追加すれば自動的に同頻度で監視される。
 // 【恒久ルール】全組織を1日複数回巡回する。将来追加する組織もこの配列に足すだけで同頻度監視。頻度は減らさない。
@@ -227,13 +284,20 @@ const SITES = [
   { key:'jsda',  name:'日本証券業協会',    type:'html', url:'https://www.jsda.or.jp/shinchaku/index.html', fallbackFile:'jsda.html' },
   { key:'jvcea', name:'JVCEA',             type:'rss',  url:'https://jvcea.or.jp/feed/' },
   { key:'jicpa', name:'日本公認会計士協会', type:'html', url:'https://jicpa.or.jp/news/information/' },
+  // 海外。規範の制定・改正(Rule / Proposed Rule)だけを、一次情報である官報から直接取る。AIの要約は経由しない。
+  { key:'fedreg', name:'米国連邦官報', type:'fedreg', url:'https://www.federalregister.gov/api/v1/documents.json',
+    agencies:['financial-crimes-enforcement-network','securities-and-exchange-commission','commodity-futures-trading-commission',
+              'comptroller-of-the-currency','federal-deposit-insurance-corporation','federal-reserve-system'],
+    docTypes:['RULE','PRORULE'], days:30 },
 ];
 
 async function crawlSite(s){
   let subNote = '';
   try {
     let items = [];
-    if (s.type === 'rss-index'){
+    if (s.type === 'fedreg'){
+      items = await fetchFedReg(s);
+    } else if (s.type === 'rss-index'){
       // RSSハブを取得→子フィードを全発見→各フィードを巡回（毎回。フィード増減に自動追従）
       const hub = await get(s.url);
       const feeds = discoverFeeds(hub, s.url, s.excludeFeeds);
@@ -324,7 +388,7 @@ function buildFeed(store){
     <title>finoject Financial Regulation Watch</title>
     <link>https://finoject.github.io/finoject-law-viewer/</link>
     <atom:link href="${SELF}" rel="self" type="application/rss+xml"/>
-    <description>金融庁・日本銀行・JPX・日本証券業協会・日本暗号資産等取引業協会・日本公認会計士協会の新着公表物（関連法令付き）。finoject提供・非公式。</description>
+    <description>金融庁・日本銀行・JPX・日本証券業協会・日本暗号資産等取引業協会・日本公認会計士協会の新着公表物（関連法令付き）と、米国連邦官報に載った金融規制の制定・改正。finoject提供・非公式。</description>
     <language>ja</language>
     <lastBuildDate>${rfc822(store.generatedAt || new Date().toISOString())}</lastBuildDate>
 ${entries}
@@ -444,6 +508,8 @@ async function enrichItems(items){
   let fetched = 0, fromBody = 0;
   for (const it of items){
     if (it.enriched && it.enrichV === ENRICH_VERSION) continue;   // 処理済み かつ 現行ロジック版なら再処理しない
+    // 海外は日本の法令照合の対象外。本文取得の枠(MAX_FETCH_PER_RUN)も食わせない。
+    if (it.region === 'overseas'){ it.enriched = new Date().toISOString(); it.enrichV = ENRICH_VERSION; continue; }
     // 取得上限に達した回でも、未処理(版違い含む)は次回に回す（下のelseで continue。enrichedは更新しない）
     const titleRefs = buildLawrefs(it.title || '');
     let refs = titleRefs;
@@ -482,6 +548,9 @@ async function aiSummarize(items){
   for (const it of items){                                   // items は日付降順済み＝新しい更新から生成
     if (made >= MAX_AI_PER_RUN || tried >= MAX_AI_PER_RUN) break;   // 生成・試行の両方に上限（本文取得の負荷も抑制）
     if (isNoise(it.title)) continue;                         // サイト保守通知等のノイズは要約しない
+    // 海外はAI要約を作らない。週次レポートは一次情報(官報の原文)に当たって書く方針なので、
+    // 材料にAIの要約を混ぜない。あわせて本文取得とAI生成の枠(MAX_AI_PER_RUN)を国内に残す。
+    if (it.region === 'overseas') continue;
     if (Array.isArray(it.aiSummary) && it.aiSumV === AI_SUM_VERSION) continue;   // 生成済みは再生成しない
     // 本文を取得（PDF含む）。法令紐づきが無い項目（日銀会見・講演・談話、当局の公表等）でも、本文が読めれば本文ベースで要約する。
     let body = BODY_CACHE.get(it.url);
@@ -634,4 +703,4 @@ async function main(){
 // 本番を壊してもテストが通る（実際に RSS日付の3件がその状態だった）。
 if (require.main === module) main();
 
-module.exports = { ymdJst, isoFromRSSDate, isNoise, isRegulatoryContext, titleClean, findDate, abs, parseRSS, parseHTML, parseFSA, discoverFsaMenus };
+module.exports = { ymdJst, isoFromRSSDate, isNoise, isRegulatoryContext, titleClean, findDate, abs, parseRSS, parseHTML, parseFSA, discoverFsaMenus, fetchFedReg };
