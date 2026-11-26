@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:49:11.297Z",
+  "generatedAt": "2026-11-26T04:20:17.642Z",
   "items": [
     {
       "agency": "日本銀行",
@@ -307,6 +307,34 @@
       "aiSumV": 3
     },
     {
+      "agency": "米国連邦官報",
+      "issuer": "SEC",
+      "title": "Restructuring the Governance and Funding Model of the Consolidated Audit Trail",
+      "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23951/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail",
+      "date": "2026-11-24",
+      "region": "overseas",
+      "docType": "Proposed Rule",
+      "docNumber": "2026-23951",
+      "commentsCloseOn": "2027-01-25",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "OCC",
+      "title": "Notification of Inflation Adjustments for Civil Money Penalties",
+      "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23851/notification-of-inflation-adjustments-for-civil-money-penalties",
+      "date": "2026-11-24",
+      "region": "overseas",
+      "docType": "Rule",
+      "docNumber": "2026-23851",
+      "commentsCloseOn": "",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
+    },
+    {
       "agency": "金融庁",
       "title": "令和８年11月20日からの大雪に係る災害等に対する金融上の措置の公表",
       "url": "https://www.fsa.go.jp/news/r8/ginkou/20261124.html",
@@ -540,6 +568,20 @@
       "aiSumV": 3,
       "updated": true,
       "enriched": "2026-11-24T00:26:28.242Z"
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "FDIC",
+      "title": "Custodial Deposits: Implementing the 21st Century ROAD to Housing Act",
+      "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23669/custodial-deposits-implementing-the-21st-century-road-to-housing-act",
+      "date": "2026-11-20",
+      "region": "overseas",
+      "docType": "Proposed Rule",
+      "docNumber": "2026-23669",
+      "commentsCloseOn": "2027-01-19",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -834,6 +876,34 @@
       "aiSumV": 3
     },
     {
+      "agency": "米国連邦官報",
+      "issuer": "FinCEN",
+      "title": "Customer Due Diligence Requirements for Covered Financial Institutions",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23614/customer-due-diligence-requirements-for-covered-financial-institutions",
+      "date": "2026-11-19",
+      "region": "overseas",
+      "docType": "Proposed Rule",
+      "docNumber": "2026-23614",
+      "commentsCloseOn": "2027-01-19",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "SEC",
+      "title": "Executive Compensation Disclosure Reform",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23555/executive-compensation-disclosure-reform",
+      "date": "2026-11-19",
+      "region": "overseas",
+      "docType": "Proposed Rule",
+      "docNumber": "2026-23555",
+      "commentsCloseOn": "2027-01-19",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
+    },
+    {
       "agency": "金融庁",
       "title": "事業者支援の促進及び金融の円滑化の公表",
       "url": "https://www.fsa.go.jp/news/r8/ginkou/20261119-2/20261119-2.html",
@@ -955,6 +1025,20 @@
         "わが国景気は緩やかに回復しており、物価面では生鮮食品を除いた消費者物価が足元で2％程度となり、先行きは原油価格上昇やAI関連需要に伴う半導体価格上昇により2％をはっきり上回る水準まで伸び率を高めていくと予想している。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "FRB",
+      "title": "Reserve Requirements of Depository Institutions",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23453/reserve-requirements-of-depository-institutions",
+      "date": "2026-11-18",
+      "region": "overseas",
+      "docType": "Rule",
+      "docNumber": "2026-23453",
+      "commentsCloseOn": "",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -1970,6 +2054,20 @@
       "enriched": "2026-11-13T00:09:37.954Z"
     },
     {
+      "agency": "米国連邦官報",
+      "issuer": "FRB",
+      "title": "Federal Reserve Bank Capital Stock",
+      "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23060/federal-reserve-bank-capital-stock",
+      "date": "2026-11-12",
+      "region": "overseas",
+      "docType": "Rule",
+      "docNumber": "2026-23060",
+      "commentsCloseOn": "",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
+    },
+    {
       "agency": "日本取引所グループ",
       "title": "[東証]監理銘柄（確認中）の指定：（株）森組",
       "url": "https://www.jpx.co.jp/news/1023/20261112-11.html",
@@ -2270,6 +2368,34 @@
       "aiSumV": 3
     },
     {
+      "agency": "米国連邦官報",
+      "issuer": "FinCEN",
+      "title": "Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global",
+      "date": "2026-11-10",
+      "region": "overseas",
+      "docType": "Rule",
+      "docNumber": "2026-22962",
+      "commentsCloseOn": "",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "CFTC",
+      "title": "DCM Impartial Access Requirements",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22863/dcm-impartial-access-requirements",
+      "date": "2026-11-10",
+      "region": "overseas",
+      "docType": "Rule",
+      "docNumber": "2026-22863",
+      "commentsCloseOn": "",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
+    },
+    {
       "agency": "日本証券業協会",
       "title": "公社債発行銘柄一覧",
       "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/saiken_hakkou/youkou/ichiran.html",
@@ -2391,6 +2517,20 @@
         "日本銀行は2026年1月に開始したETF売却について、約1年間で市場に大きな影響を与えることなく進められているとして、売却ペースの見直しを検討する時期が到来したとの意見が示された。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "FinCEN",
+      "title": "Threshold for the Requirement To Collect, Retain, and Transmit Information on Funds Transfers and Transmittals of Funds That Begin or End Outside the United States, and Clarification of the Requirement To Collect, Retain, and Transmit Information on Transactions Involving Convertible Virtual Currencies and Digital Assets With Legal Tender Status; Withdrawal",
+      "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22809/threshold-for-the-requirement-to-collect-retain-and-transmit-information-on-funds-transfers-and",
+      "date": "2026-11-09",
+      "region": "overseas",
+      "docType": "Proposed Rule",
+      "docNumber": "2026-22809",
+      "commentsCloseOn": "",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
     },
     {
       "agency": "日本取引所グループ",
@@ -2648,6 +2788,20 @@
         "2012年以降、日本企業は純貯蓄の大部分を対外直接投資に振り向け、対外直接投資の収益率が8％超を維持する中で、これが第一次所得収支黒字の主要構成要素へと転換した。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "SEC",
+      "title": "Amendments to the “Small Business” and “Small Organization” Definitions for Investment Companies and Investment Advisers for Purposes of the Regulatory Flexibility Act",
+      "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22741/amendments-to-the-small-business-and-small-organization-definitions-for-investment-companies-and",
+      "date": "2026-11-06",
+      "region": "overseas",
+      "docType": "Rule",
+      "docNumber": "2026-22741",
+      "commentsCloseOn": "",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -3063,6 +3217,20 @@
         "2026年11月5日時点でのメンテナンス実施中であり、利用再開時期は本文に明記されていない。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "FDIC",
+      "title": "Large-Bank Deposit Insurance Determination Modernization",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22495/large-bank-deposit-insurance-determination-modernization",
+      "date": "2026-11-04",
+      "region": "overseas",
+      "docType": "Proposed Rule",
+      "docNumber": "2026-22495",
+      "commentsCloseOn": "2027-01-04",
+      "detectedAt": "2026-11-26T04:20:17.642Z",
+      "enriched": "2026-11-26T04:20:24.170Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
@@ -21403,6 +21571,10 @@
     {
       "name": "日本公認会計士協会",
       "url": "https://jicpa.or.jp/news/information/"
+    },
+    {
+      "name": "米国連邦官報",
+      "url": "https://www.federalregister.gov/api/v1/documents.json"
     }
   ],
   "lawnews": {
@@ -21636,6 +21808,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "Base、2027年に耐量子セキュリティ対策を重点化へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/bb56db25698f49f5609acc5e68cc1678277de7fb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "bitFlyer、MEXCとの暗号資産の送付・受取を停止",
         "url": "https://news.yahoo.co.jp/articles/dba016b3dca8ad20c15bfc7f930c5bd7c954aa5e",
         "source": "Yahoo",
@@ -21662,18 +21840,18 @@
       {
         "title": "米予測市場カルシ、ユタ州で新規取引一時停止。NY州では即時禁止を回避",
         "url": "https://news.yahoo.co.jp/articles/841aeb9bc62e60709d73e46b1c75e37ffdd8afa9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI・北尾氏、20％分離課税と暗号資産現物ETFの前倒しを提言",
-        "url": "https://news.yahoo.co.jp/articles/76f56b3cd46d048fc5bdb6f4d9ea1f0b6c72eb3d",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Base、2027年に耐量子セキュリティ対策を重点化へ＝報道",
+        "url": "https://news.yahoo.co.jp/articles/bb56db25698f49f5609acc5e68cc1678277de7fb",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "bitFlyer、MEXCとの暗号資産の送付・受取を停止",
         "url": "https://news.yahoo.co.jp/articles/dba016b3dca8ad20c15bfc7f930c5bd7c954aa5e",
         "source": "Yahoo",
@@ -21700,12 +21878,6 @@
       {
         "title": "米予測市場カルシ、ユタ州で新規取引一時停止。NY州では即時禁止を回避",
         "url": "https://news.yahoo.co.jp/articles/841aeb9bc62e60709d73e46b1c75e37ffdd8afa9",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI・北尾氏、20％分離課税と暗号資産現物ETFの前倒しを提言",
-        "url": "https://news.yahoo.co.jp/articles/76f56b3cd46d048fc5bdb6f4d9ea1f0b6c72eb3d",
         "source": "Yahoo",
         "date": ""
       }
@@ -21864,6 +22036,30 @@
     ],
     "505M60000002048": [
       {
+        "title": "テザー、アルゼンチン企業レモンに投資。中南米でUSDT・XAUTの利用拡大へ",
+        "url": "https://news.yahoo.co.jp/articles/49425208ef1d1619d8d27abf0dd66ee5771da849",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI・三井住友FG・ソラナ財団の合弁「SBI Solana Global」が本格始動",
+        "url": "https://news.yahoo.co.jp/articles/32e23e28005ae2823cc084a75d0556104fe72283",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ドル連動ステーブルコインを決済時に円換算、手数料無料で店頭やネットに利用拡大──メタマスクの決済カード、日本で提供開始",
+        "url": "https://news.yahoo.co.jp/articles/707fa2203fb4027537c235c785be95296ee8b854",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa、AIエージェントの有償タスクで利用者が報酬獲得できる「Visa CLI」新版公開",
+        "url": "https://news.yahoo.co.jp/articles/cbb2ecb1cea336189f6206c41a9b9b3797e99e27",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIエージェントが、あなたに代わって「自律的に働き稼ぐ」時代へ──VISAが試験運用",
         "url": "https://news.yahoo.co.jp/articles/2985b6d0e742448107deb317727c96b9d233df26",
         "source": "Yahoo",
@@ -21872,36 +22068,36 @@
       {
         "title": "フランス上院、10万ユーロ以上の自己管理型暗号資産の申告義務化案を否決",
         "url": "https://news.yahoo.co.jp/articles/6c6be96978392f1e0d55258d4e8b2ca212eb2ced",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ウクライナ議会、暗号資産法を可決──約530億円の税収増を見込む",
-        "url": "https://news.yahoo.co.jp/articles/7ee12544c53fe90f3e538b3f9e33420a4f88cb64",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン「下落約1年・上昇約3年」は再現するか──回復を決める買い手の条件【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/685b6e8f3d8f8fe834d9f609b9b362394e898ead",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI・三井住友・ソラナの合弁始動、債券や実物資産のトークン化を支援",
-        "url": "https://news.yahoo.co.jp/articles/d69c1f45fe74cf58eb579fae75cd399c9b6e1f5a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、約80億円流出事件でUSDT返還に手数料20%を提示＝Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/421f0c83de3e54cf2fa80e07c574b08c1f7d2de7",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "テザー、アルゼンチン企業レモンに投資。中南米でUSDT・XAUTの利用拡大へ",
+        "url": "https://news.yahoo.co.jp/articles/49425208ef1d1619d8d27abf0dd66ee5771da849",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "SBI・三井住友FG・ソラナ財団の合弁「SBI Solana Global」が本格始動",
+        "url": "https://news.yahoo.co.jp/articles/32e23e28005ae2823cc084a75d0556104fe72283",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "米ドル連動ステーブルコインを決済時に円換算、手数料無料で店頭やネットに利用拡大──メタマスクの決済カード、日本で提供開始",
+        "url": "https://news.yahoo.co.jp/articles/707fa2203fb4027537c235c785be95296ee8b854",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "Visa、AIエージェントの有償タスクで利用者が報酬獲得できる「Visa CLI」新版公開",
+        "url": "https://news.yahoo.co.jp/articles/cbb2ecb1cea336189f6206c41a9b9b3797e99e27",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "AIエージェントが、あなたに代わって「自律的に働き稼ぐ」時代へ──VISAが試験運用",
         "url": "https://news.yahoo.co.jp/articles/2985b6d0e742448107deb317727c96b9d233df26",
         "source": "Yahoo",
@@ -21910,30 +22106,6 @@
       {
         "title": "フランス上院、10万ユーロ以上の自己管理型暗号資産の申告義務化案を否決",
         "url": "https://news.yahoo.co.jp/articles/6c6be96978392f1e0d55258d4e8b2ca212eb2ced",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ウクライナ議会、暗号資産法を可決──約530億円の税収増を見込む",
-        "url": "https://news.yahoo.co.jp/articles/7ee12544c53fe90f3e538b3f9e33420a4f88cb64",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコイン「下落約1年・上昇約3年」は再現するか──回復を決める買い手の条件【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/685b6e8f3d8f8fe834d9f609b9b362394e898ead",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI・三井住友・ソラナの合弁始動、債券や実物資産のトークン化を支援",
-        "url": "https://news.yahoo.co.jp/articles/d69c1f45fe74cf58eb579fae75cd399c9b6e1f5a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "テザー、約80億円流出事件でUSDT返還に手数料20%を提示＝Bloomberg",
-        "url": "https://news.yahoo.co.jp/articles/421f0c83de3e54cf2fa80e07c574b08c1f7d2de7",
         "source": "Yahoo",
         "date": ""
       }
