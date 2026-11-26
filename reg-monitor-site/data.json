@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-11-26T05:21:05.710Z",
+  "generatedAt": "2026-11-26T06:52:40.787Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "株券等貸借取引状況（週間）",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
+      "date": "2026-11-26",
+      "detectedAt": "2026-11-26T06:52:40.787Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
+        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
+        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-26T06:52:46.484Z"
+    },
+    {
+      "agency": "日本証券業協会",
+      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
+      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
+      "date": "2026-11-26",
+      "detectedAt": "2026-11-26T06:52:40.787Z",
+      "updated": true,
+      "enrichV": 2,
+      "aiSummary": [
+        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
+        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
+        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-26T06:52:46.484Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）ソフト９９コーポレーション",
+      "url": "https://www.jpx.co.jp/news/1023/20261126-11.html",
+      "date": "2026-11-26",
+      "detectedAt": "2026-11-26T06:52:40.787Z",
+      "enriched": "2026-11-26T06:52:46.485Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)ソフト９９コーポレーション(コード4464、スタンダード市場)が、特定の者以外の株主の所有株式を1株未満の端数とする株式併合を実施することにより、有価証券上場規程第601条第1項第18号に該当するため上場廃止を決定。",
+        "同社株式は2026年11月27日(金)以降、信用取引・発行日決済取引の委託保証金、売買証拠金、取引参加者保証金、信認金の代用有価証券から除外される。",
+        "整理銘柄指定期間は2026年11月26日(木)から12月16日(水)までであり、上場廃止日は2026年12月17日(木)。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "【挨拶】田村審議委員「わが国の経済・物価情勢と金融政策」（山梨）",
@@ -950,22 +997,6 @@
       "aiSumV": 3
     },
     {
-      "agency": "日本証券業協会",
-      "title": "株券等貸借取引状況（週間）",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabu-taiw/index.html",
-      "date": "2026-11-19",
-      "detectedAt": "2026-11-19T06:58:47.878Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は会員が行う株券等貸借取引について週間新規成約高と週末残高を銘柄別に毎週公表し、制度貸借取引は対象外とする。",
-        "会員は毎週の株券等貸借取引状況（新規成約高・週末残高）を日本証券業協会に報告し、協会が翌週前後に統計データとして公開される形で情報管理される。",
-        "統計・調査として2011年1月7日以降継続実施され、毎週水曜日から翌週金曜日報告分を翌々週以降に発表する週間公表体制で運用している。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-11-19T06:58:53.465Z"
-    },
-    {
       "agency": "日本取引所グループ",
       "title": "[東証]制限値幅の拡大：1銘柄",
       "url": "https://www.jpx.co.jp/news/1030/20261119-01.html",
@@ -1116,22 +1147,6 @@
       ],
       "aiSumV": 3,
       "updated": true,
-      "enriched": "2026-11-18T07:56:24.911Z"
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "「株主コミュニティの統計情報・取扱状況」を更新しました。",
-      "url": "https://www.jsda.or.jp/shiryoshitsu/toukei/kabucommunity/index.html",
-      "date": "2026-11-18",
-      "detectedAt": "2026-11-18T07:56:19.637Z",
-      "updated": true,
-      "enrichV": 2,
-      "aiSummary": [
-        "日本証券業協会は株主コミュニティの運営会員（証券会社）から提出された毎週末の取扱状況報告をもとに、週次・月次・年次の統計情報を集計・公表している。",
-        "運営会員は毎週末現在の取扱状況を報告し、協会は翌週第３営業日を目途に週次統計を公表するとともに、月次は翌月10日、年次は翌年1月10日を目途に公表する。",
-        "株主コミュニティ銘柄及び取扱運営会員はExcelファイルで週単位（例：6月8日～12日報告分を6月17日公表）で掲載される。"
-      ],
-      "aiSumV": 3,
       "enriched": "2026-11-18T07:56:24.911Z"
     },
     {
@@ -21580,6 +21595,12 @@
   "lawnews": {
     "323AC0000000025": [
       {
+        "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券問題。国会が補償を条文に書いたのは暗号資産だけ 問責決議で国会を止めている場合ではない",
         "url": "https://news.yahoo.co.jp/expert/articles/9bcec6dde784d18ab97ecc5e95508a7295f15b9e",
         "source": "Yahoo",
@@ -21606,18 +21627,18 @@
       {
         "title": "楽天証券、残高168万件漏えい 年収情報も、不正取引確認されず",
         "url": "https://news.yahoo.co.jp/articles/ee03a9d616655a6affa3587186b3070062c0d2d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券の情報漏洩、新たに性別・国籍など7項目発覚",
-        "url": "https://news.yahoo.co.jp/articles/e6f496844e3d41d90da3a19ca073cd55922b75d5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "340CO0000000321": [
       {
+        "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券問題。国会が補償を条文に書いたのは暗号資産だけ 問責決議で国会を止めている場合ではない",
         "url": "https://news.yahoo.co.jp/expert/articles/9bcec6dde784d18ab97ecc5e95508a7295f15b9e",
         "source": "Yahoo",
@@ -21644,18 +21665,18 @@
       {
         "title": "楽天証券、残高168万件漏えい 年収情報も、不正取引確認されず",
         "url": "https://news.yahoo.co.jp/articles/ee03a9d616655a6affa3587186b3070062c0d2d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券の情報漏洩、新たに性別・国籍など7項目発覚",
-        "url": "https://news.yahoo.co.jp/articles/e6f496844e3d41d90da3a19ca073cd55922b75d5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "419M60000002052": [
       {
+        "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券問題。国会が補償を条文に書いたのは暗号資産だけ 問責決議で国会を止めている場合ではない",
         "url": "https://news.yahoo.co.jp/expert/articles/9bcec6dde784d18ab97ecc5e95508a7295f15b9e",
         "source": "Yahoo",
@@ -21682,18 +21703,18 @@
       {
         "title": "楽天証券、残高168万件漏えい 年収情報も、不正取引確認されず",
         "url": "https://news.yahoo.co.jp/articles/ee03a9d616655a6affa3587186b3070062c0d2d0",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "楽天証券の情報漏洩、新たに性別・国籍など7項目発覚",
-        "url": "https://news.yahoo.co.jp/articles/e6f496844e3d41d90da3a19ca073cd55922b75d5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-kantoku-kinsho": [
       {
+        "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "楽天証券問題。国会が補償を条文に書いたのは暗号資産だけ 問責決議で国会を止めている場合ではない",
         "url": "https://news.yahoo.co.jp/expert/articles/9bcec6dde784d18ab97ecc5e95508a7295f15b9e",
         "source": "Yahoo",
@@ -21722,15 +21743,15 @@
         "url": "https://news.yahoo.co.jp/articles/ee03a9d616655a6affa3587186b3070062c0d2d0",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "楽天証券の情報漏洩、新たに性別・国籍など7項目発覚",
-        "url": "https://news.yahoo.co.jp/articles/e6f496844e3d41d90da3a19ca073cd55922b75d5",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "421AC0000000059": [
+      {
+        "title": "メタマスク、ステーブルコイン決済カードを日本で提供開始。マスターカード加盟店でmUSD利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/b186ca1b6bf4abd2e8e6a628cfab9e44790f7ddd",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "「PayPayマネーライト」現金化サービス出現も、「企画・運営に一切関与していない」とPayPay 利用規約で禁止している",
         "url": "https://news.yahoo.co.jp/articles/4011ed14277bf76fa325cb969a63b39656a77533",
@@ -21758,18 +21779,18 @@
       {
         "title": "SBIとスターテイル、ブラックロックとトークン化MMF連携の検討で合意",
         "url": "https://news.yahoo.co.jp/articles/ad67e51b9e7040ebed3de7b983551eba2c8b49b7",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
-        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "422CO0000000019": [
       {
+        "title": "メタマスク、ステーブルコイン決済カードを日本で提供開始。マスターカード加盟店でmUSD利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/b186ca1b6bf4abd2e8e6a628cfab9e44790f7ddd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "「PayPayマネーライト」現金化サービス出現も、「企画・運営に一切関与していない」とPayPay 利用規約で禁止している",
         "url": "https://news.yahoo.co.jp/articles/4011ed14277bf76fa325cb969a63b39656a77533",
         "source": "Yahoo",
@@ -21798,15 +21819,15 @@
         "url": "https://news.yahoo.co.jp/articles/ad67e51b9e7040ebed3de7b983551eba2c8b49b7",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
-        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "429M60000002007": [
+      {
+        "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "Base、2027年に耐量子セキュリティ対策を重点化へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/bb56db25698f49f5609acc5e68cc1678277de7fb",
@@ -21834,18 +21855,18 @@
       {
         "title": "金庫の金を動かさず担保に、JPモルガン・HSBCが初の実取引",
         "url": "https://news.yahoo.co.jp/articles/a2c6c88a1837597f22136d017cf2a60889b230e3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米予測市場カルシ、ユタ州で新規取引一時停止。NY州では即時禁止を回避",
-        "url": "https://news.yahoo.co.jp/articles/841aeb9bc62e60709d73e46b1c75e37ffdd8afa9",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Base、2027年に耐量子セキュリティ対策を重点化へ＝報道",
         "url": "https://news.yahoo.co.jp/articles/bb56db25698f49f5609acc5e68cc1678277de7fb",
         "source": "Yahoo",
@@ -21874,15 +21895,15 @@
         "url": "https://news.yahoo.co.jp/articles/a2c6c88a1837597f22136d017cf2a60889b230e3",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "米予測市場カルシ、ユタ州で新規取引一時停止。NY州では即時禁止を回避",
-        "url": "https://news.yahoo.co.jp/articles/841aeb9bc62e60709d73e46b1c75e37ffdd8afa9",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "メタマスク、ステーブルコイン決済カードを日本で提供開始。マスターカード加盟店でmUSD利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/b186ca1b6bf4abd2e8e6a628cfab9e44790f7ddd",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "焦点：バイナンス63億ドル被害、ハッカー対策で問われる交換所の内部統制",
         "url": "https://news.yahoo.co.jp/articles/71258444dff4f8147d76426e8cb0bfa12b992b68",
@@ -21910,18 +21931,18 @@
       {
         "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる",
         "url": "https://news.yahoo.co.jp/articles/73940c395759be609c623c800c620ef660717711",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
-        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "メタマスク、ステーブルコイン決済カードを日本で提供開始。マスターカード加盟店でmUSD利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/b186ca1b6bf4abd2e8e6a628cfab9e44790f7ddd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "焦点：バイナンス63億ドル被害、ハッカー対策で問われる交換所の内部統制",
         "url": "https://news.yahoo.co.jp/articles/71258444dff4f8147d76426e8cb0bfa12b992b68",
         "source": "Yahoo",
@@ -21948,12 +21969,6 @@
       {
         "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる",
         "url": "https://news.yahoo.co.jp/articles/73940c395759be609c623c800c620ef660717711",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る",
-        "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
         "source": "Yahoo",
         "date": ""
       }
@@ -22036,6 +22051,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "メタマスク、ステーブルコイン決済カードを日本で提供開始。マスターカード加盟店でmUSD利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/b186ca1b6bf4abd2e8e6a628cfab9e44790f7ddd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏上院、10万ユーロ以上の自己管理型暗号資産ウォレットの申告義務化案を否決",
+        "url": "https://news.yahoo.co.jp/articles/d761641b2ee0da777513eddd53a87389f7c7b09a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "テザー、アルゼンチン企業レモンに投資。中南米でUSDT・XAUTの利用拡大へ",
         "url": "https://news.yahoo.co.jp/articles/49425208ef1d1619d8d27abf0dd66ee5771da849",
         "source": "Yahoo",
@@ -22050,30 +22083,30 @@
       {
         "title": "米ドル連動ステーブルコインを決済時に円換算、手数料無料で店頭やネットに利用拡大──メタマスクの決済カード、日本で提供開始",
         "url": "https://news.yahoo.co.jp/articles/707fa2203fb4027537c235c785be95296ee8b854",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、AIエージェントの有償タスクで利用者が報酬獲得できる「Visa CLI」新版公開",
-        "url": "https://news.yahoo.co.jp/articles/cbb2ecb1cea336189f6206c41a9b9b3797e99e27",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIエージェントが、あなたに代わって「自律的に働き稼ぐ」時代へ──VISAが試験運用",
-        "url": "https://news.yahoo.co.jp/articles/2985b6d0e742448107deb317727c96b9d233df26",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "フランス上院、10万ユーロ以上の自己管理型暗号資産の申告義務化案を否決",
-        "url": "https://news.yahoo.co.jp/articles/6c6be96978392f1e0d55258d4e8b2ca212eb2ced",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
+        "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "メタマスク、ステーブルコイン決済カードを日本で提供開始。マスターカード加盟店でmUSD利用可能に",
+        "url": "https://news.yahoo.co.jp/articles/b186ca1b6bf4abd2e8e6a628cfab9e44790f7ddd",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "仏上院、10万ユーロ以上の自己管理型暗号資産ウォレットの申告義務化案を否決",
+        "url": "https://news.yahoo.co.jp/articles/d761641b2ee0da777513eddd53a87389f7c7b09a",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "テザー、アルゼンチン企業レモンに投資。中南米でUSDT・XAUTの利用拡大へ",
         "url": "https://news.yahoo.co.jp/articles/49425208ef1d1619d8d27abf0dd66ee5771da849",
         "source": "Yahoo",
@@ -22088,24 +22121,6 @@
       {
         "title": "米ドル連動ステーブルコインを決済時に円換算、手数料無料で店頭やネットに利用拡大──メタマスクの決済カード、日本で提供開始",
         "url": "https://news.yahoo.co.jp/articles/707fa2203fb4027537c235c785be95296ee8b854",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Visa、AIエージェントの有償タスクで利用者が報酬獲得できる「Visa CLI」新版公開",
-        "url": "https://news.yahoo.co.jp/articles/cbb2ecb1cea336189f6206c41a9b9b3797e99e27",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "AIエージェントが、あなたに代わって「自律的に働き稼ぐ」時代へ──VISAが試験運用",
-        "url": "https://news.yahoo.co.jp/articles/2985b6d0e742448107deb317727c96b9d233df26",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "フランス上院、10万ユーロ以上の自己管理型暗号資産の申告義務化案を否決",
-        "url": "https://news.yahoo.co.jp/articles/6c6be96978392f1e0d55258d4e8b2ca212eb2ced",
         "source": "Yahoo",
         "date": ""
       }
@@ -22826,6 +22841,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "個人情報保護委員会が運転免許証など顔写真付き公的身分証明書画像の消去について注意喚起",
+        "url": "https://news.yahoo.co.jp/articles/5b797204c081bb0fb4f18d56f33b507250b2ce49",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アリババからAIボイスレコーダー「QwenNote A1」が発売、120言語の音声認識に対応",
         "url": "https://news.yahoo.co.jp/articles/e906027cfc7a146edefda89f8b8fe768ec839a63",
         "source": "Yahoo",
@@ -22852,18 +22873,18 @@
       {
         "title": "日本へのサイバー攻撃「急増」の意外な実態...相次ぐ被害報道が生む「錯覚」と本当の脅威",
         "url": "https://news.yahoo.co.jp/articles/83dd825041b80d050f29dd9f7a53d8eb64040566",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "長生炭鉱、警察庁が資料による遺族捜しを表明 関係者「画期的」",
-        "url": "https://news.yahoo.co.jp/articles/c92df7b4f8bb9b517c18ed67ca7f0f135213cca8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "個人情報保護委員会が運転免許証など顔写真付き公的身分証明書画像の消去について注意喚起",
+        "url": "https://news.yahoo.co.jp/articles/5b797204c081bb0fb4f18d56f33b507250b2ce49",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アリババからAIボイスレコーダー「QwenNote A1」が発売、120言語の音声認識に対応",
         "url": "https://news.yahoo.co.jp/articles/e906027cfc7a146edefda89f8b8fe768ec839a63",
         "source": "Yahoo",
@@ -22890,18 +22911,18 @@
       {
         "title": "日本へのサイバー攻撃「急増」の意外な実態...相次ぐ被害報道が生む「錯覚」と本当の脅威",
         "url": "https://news.yahoo.co.jp/articles/83dd825041b80d050f29dd9f7a53d8eb64040566",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "長生炭鉱、警察庁が資料による遺族捜しを表明 関係者「画期的」",
-        "url": "https://news.yahoo.co.jp/articles/c92df7b4f8bb9b517c18ed67ca7f0f135213cca8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "個人情報保護委員会が運転免許証など顔写真付き公的身分証明書画像の消去について注意喚起",
+        "url": "https://news.yahoo.co.jp/articles/5b797204c081bb0fb4f18d56f33b507250b2ce49",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "アリババからAIボイスレコーダー「QwenNote A1」が発売、120言語の音声認識に対応",
         "url": "https://news.yahoo.co.jp/articles/e906027cfc7a146edefda89f8b8fe768ec839a63",
         "source": "Yahoo",
@@ -22928,12 +22949,6 @@
       {
         "title": "日本へのサイバー攻撃「急増」の意外な実態...相次ぐ被害報道が生む「錯覚」と本当の脅威",
         "url": "https://news.yahoo.co.jp/articles/83dd825041b80d050f29dd9f7a53d8eb64040566",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "長生炭鉱、警察庁が資料による遺族捜しを表明 関係者「画期的」",
-        "url": "https://news.yahoo.co.jp/articles/c92df7b4f8bb9b517c18ed67ca7f0f135213cca8",
         "source": "Yahoo",
         "date": ""
       }
