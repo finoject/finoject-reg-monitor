@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-11-26T06:52:40.787Z",
+  "generatedAt": "2026-11-26T08:23:23.703Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "金融安定理事会による「グローバルなシステム上重要な銀行（G-SIB）の2026年リスト」の公表について",
+      "url": "https://www.boj.or.jp/finsys/intlact_fs/kisei/kis261126a.htm",
+      "date": "2026-11-26",
+      "detectedAt": "2026-11-26T08:23:23.703Z",
+      "enriched": "2026-11-26T08:23:29.604Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "金融安定理事会が2026年のグローバルなシステム上重要な銀行（G-SIB）リストを2026年11月25日に公表し、バーゼル銀行監督委員会が同日付けで2026年評価の詳細を公表した。",
+        "G-SIB指定銀行は公表されたリストにより特定され、バーゼル銀行監督委員会の詳細評価書に基づく追加的な損失吸収要件に対応する必要がある。",
+        "国内銀行がG-SIBに指定された場合、バーゼル・コア原則に基づく資本要件及び監督上の対応が2026年度から適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "令和8年度上半期末の日本銀行保有外貨資産の残高",
+      "url": "https://www.boj.or.jp/statistics/boj/other/other_gai/gai2609.pdf",
+      "date": "2026-11-26",
+      "detectedAt": "2026-11-26T08:23:23.703Z",
+      "enriched": "2026-11-26T08:23:29.604Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行が2026年9月末時点で保有する外貨資産は12兆2,408億円であり、うち外貨預け金3兆8,435億円、外貨債券8兆2,960億円（国債5兆8,732億円、その他2兆4,227億円）、外貨投資信託1,013億円で構成される。",
+        "外貨債券8兆2,960億円全額が残存期間1年超5年以下の債券である。日本銀行は貸借対照表上「外国為替」として記載されるこれら外貨資産を管理・保有している。",
+        "本残高は2026年9月末時点であり、日本銀行貸借対照表の「外国為替」科目に該当する資産残高である。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本銀行",
+      "title": "地域金融強化のための特別当座預金制度に基づく特別付利の実施について",
+      "url": "https://www.boj.or.jp/finsys/rfs/rfs261126.pdf",
+      "date": "2026-11-26",
+      "detectedAt": "2026-11-26T08:23:23.703Z",
+      "enriched": "2026-11-26T08:23:29.604Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は令和8年度上半期に、地域金融強化のための特別当座預金制度に基づき、横浜銀行、東日本銀行、八十二長野銀行、神奈川銀行、福岡銀行、福岡中央銀行、十八親和銀行、熊本銀行の8金融機関に特別付利を実施した。",
+        "農林中央金庫を通じて、会員である8金融機関に本制度に基づく特別付利が行われた。地域金融機関は本制度の要領に従い特別当座預金の活用を検討する必要がある。",
+        "令和8年度上半期における特別付利の実績が公表された。本制度は「地域金融強化のための特別当座預金制度基本要領」および系統中央機関に関する特則に基づき運用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[OSE]有価証券オプションの調整後の権利行使価格：2026年11月27日調整分",
+      "url": "https://www.jpx.co.jp/news/2020/20261126-01.html",
+      "date": "2026-11-26",
+      "detectedAt": "2026-11-26T08:23:23.703Z",
+      "enriched": "2026-11-26T08:23:29.604Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "一部の有価証券について2026年12月1日を効力発生日とする投資口分割に伴い、当該有価証券に係る有価証券オプションの権利行使価格を2026年11月27日より調整する。",
+        "オプション取引参加者は2026年11月27日から調整後の権利行使価格を適用して取引を行う必要があり、調整時に円位未満の端数は四捨五入される。",
+        "調整対象は大阪取引所で取引される有価証券オプション（2026年11月26日現在設定されている銘柄）で、具体的な調整後価格は大阪取引所が別途公表する資料を参照。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]監理銘柄（確認中）の指定解除：（株）トップカルチャー",
+      "url": "https://www.jpx.co.jp/news/1021/20261126-23.html",
+      "date": "2026-11-26",
+      "detectedAt": "2026-11-26T08:23:23.703Z",
+      "enriched": "2026-11-26T08:23:29.604Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)トップカルチャー(コード7640、スタンダード市場)の監理銘柄（確認中）指定が解除される。改善期間内に上場維持基準への適合が確認されたため。",
+        "同社は提出した「株券等の分布状況表」の審査により上場維持基準適合が確認され、指定解除となる。上場廃止のおそれが解消された。",
+        "指定解除日は2026年11月27日。有価証券上場規程施行規則第604条第1項第1号・第3項本文に基づく。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：ＭＡＸＩＳ日本国債上場投信（コード689A）",
+      "url": "https://www.jpx.co.jp/news/1030/20261126-01.html",
+      "date": "2026-11-26",
+      "detectedAt": "2026-11-26T08:23:23.703Z",
+      "enriched": "2026-11-26T08:23:29.604Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "MAXIX日本国債上場投信（コード689A）が2026年12月3日に東証に新規上場し、呼値の単位は「ETF等（1口）呼値テーブル」が適用される。",
+        "取引参加者及び投資家は同銘柄の売買にあたり、ETF等（1口）呼値テーブルに基づく呼値単位で注文・執行する必要がある。",
+        "2026年12月3日の新規上場日から東京証券取引所の呼値単位ルールに基づく取引が開始される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "株券等貸借取引状況（週間）",
@@ -21823,6 +21913,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ウクライナ議会、暗号資産市場の合法化法案を可決。2027年7月施行へ",
+        "url": "https://news.yahoo.co.jp/articles/66e48fc3368a2eb0fe222450b0f8540ca40a81c5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
         "source": "Yahoo",
@@ -21849,18 +21945,18 @@
       {
         "title": "ウクライナ議会、暗号資産法を可決──約530億円の税収増を見込む",
         "url": "https://news.yahoo.co.jp/articles/7ee12544c53fe90f3e538b3f9e33420a4f88cb64",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金庫の金を動かさず担保に、JPモルガン・HSBCが初の実取引",
-        "url": "https://news.yahoo.co.jp/articles/a2c6c88a1837597f22136d017cf2a60889b230e3",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ウクライナ議会、暗号資産市場の合法化法案を可決。2027年7月施行へ",
+        "url": "https://news.yahoo.co.jp/articles/66e48fc3368a2eb0fe222450b0f8540ca40a81c5",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
         "source": "Yahoo",
@@ -21889,15 +21985,15 @@
         "url": "https://news.yahoo.co.jp/articles/7ee12544c53fe90f3e538b3f9e33420a4f88cb64",
         "source": "Yahoo",
         "date": ""
-      },
-      {
-        "title": "金庫の金を動かさず担保に、JPモルガン・HSBCが初の実取引",
-        "url": "https://news.yahoo.co.jp/articles/a2c6c88a1837597f22136d017cf2a60889b230e3",
-        "source": "Yahoo",
-        "date": ""
       }
     ],
     "422M60000002004": [
+      {
+        "title": "PayPayクレジット障害でレジ決済できず現金もない",
+        "url": "https://news.yahoo.co.jp/articles/79acc9a826c493d602e7d5b6fe654d92277de501",
+        "source": "Yahoo",
+        "date": ""
+      },
       {
         "title": "メタマスク、ステーブルコイン決済カードを日本で提供開始。マスターカード加盟店でmUSD利用可能に",
         "url": "https://news.yahoo.co.jp/articles/b186ca1b6bf4abd2e8e6a628cfab9e44790f7ddd",
@@ -21925,18 +22021,18 @@
       {
         "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
         "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる",
-        "url": "https://news.yahoo.co.jp/articles/73940c395759be609c623c800c620ef660717711",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-14": [
       {
+        "title": "PayPayクレジット障害でレジ決済できず現金もない",
+        "url": "https://news.yahoo.co.jp/articles/79acc9a826c493d602e7d5b6fe654d92277de501",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "メタマスク、ステーブルコイン決済カードを日本で提供開始。マスターカード加盟店でmUSD利用可能に",
         "url": "https://news.yahoo.co.jp/articles/b186ca1b6bf4abd2e8e6a628cfab9e44790f7ddd",
         "source": "Yahoo",
@@ -21963,12 +22059,6 @@
       {
         "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重",
         "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる",
-        "url": "https://news.yahoo.co.jp/articles/73940c395759be609c623c800c620ef660717711",
         "source": "Yahoo",
         "date": ""
       }
@@ -22051,6 +22141,18 @@
     ],
     "505M60000002048": [
       {
+        "title": "国際決済連携で作業部会 ステーブルコイン規制も議論 日中韓ASEAN",
+        "url": "https://news.yahoo.co.jp/articles/98ebaaf6bb6d58db454613d802b78e0823ffcfc3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ドコモアジア、ステーブルコイン越境決済の実証に参加。日本発の送金で当日着金",
+        "url": "https://news.yahoo.co.jp/articles/900f8375278b1578903cc2ec1d3b49809927f8e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
         "source": "Yahoo",
@@ -22071,24 +22173,24 @@
       {
         "title": "テザー、アルゼンチン企業レモンに投資。中南米でUSDT・XAUTの利用拡大へ",
         "url": "https://news.yahoo.co.jp/articles/49425208ef1d1619d8d27abf0dd66ee5771da849",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI・三井住友FG・ソラナ財団の合弁「SBI Solana Global」が本格始動",
-        "url": "https://news.yahoo.co.jp/articles/32e23e28005ae2823cc084a75d0556104fe72283",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ドル連動ステーブルコインを決済時に円換算、手数料無料で店頭やネットに利用拡大──メタマスクの決済カード、日本で提供開始",
-        "url": "https://news.yahoo.co.jp/articles/707fa2203fb4027537c235c785be95296ee8b854",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "国際決済連携で作業部会 ステーブルコイン規制も議論 日中韓ASEAN",
+        "url": "https://news.yahoo.co.jp/articles/98ebaaf6bb6d58db454613d802b78e0823ffcfc3",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ドコモアジア、ステーブルコイン越境決済の実証に参加。日本発の送金で当日着金",
+        "url": "https://news.yahoo.co.jp/articles/900f8375278b1578903cc2ec1d3b49809927f8e2",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
         "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
         "source": "Yahoo",
@@ -22109,18 +22211,6 @@
       {
         "title": "テザー、アルゼンチン企業レモンに投資。中南米でUSDT・XAUTの利用拡大へ",
         "url": "https://news.yahoo.co.jp/articles/49425208ef1d1619d8d27abf0dd66ee5771da849",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "SBI・三井住友FG・ソラナ財団の合弁「SBI Solana Global」が本格始動",
-        "url": "https://news.yahoo.co.jp/articles/32e23e28005ae2823cc084a75d0556104fe72283",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ドル連動ステーブルコインを決済時に円換算、手数料無料で店頭やネットに利用拡大──メタマスクの決済カード、日本で提供開始",
-        "url": "https://news.yahoo.co.jp/articles/707fa2203fb4027537c235c785be95296ee8b854",
         "source": "Yahoo",
         "date": ""
       }
