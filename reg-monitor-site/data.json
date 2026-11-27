@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:28:42.349Z",
+  "generatedAt": "2026-11-27T11:59:41.180Z",
   "items": [
     {
       "agency": "金融庁",
@@ -22174,6 +22174,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "暗号資産のマネロン対策、海外取引所との資金移動を一部制限──コインチェック、MEXCへの送金停止",
+        "url": "https://news.yahoo.co.jp/articles/c241f1d9dbf6a84a30b4f9c52b40cfe602ef20ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スタンダードチャータード傘下ゾディアカストディで情報流出、顧客・従業員の氏名など",
         "url": "https://news.yahoo.co.jp/articles/ecd12188ccafee3a29907df7ea26b89d888539ac",
         "source": "Yahoo",
@@ -22200,18 +22206,18 @@
       {
         "title": "米ビットコイン準備金法案、下院の審議日程表に登録",
         "url": "https://news.yahoo.co.jp/articles/df98f841d0f4da70a4acb8d1e7bb9b967c2ebb97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ChatGPTで株や暗号資産の売買が可能に──投資家が口座情報と資産を守る方法",
-        "url": "https://news.yahoo.co.jp/articles/20f3058e304d42ba8b317932b37b0745f77de046",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "暗号資産のマネロン対策、海外取引所との資金移動を一部制限──コインチェック、MEXCへの送金停止",
+        "url": "https://news.yahoo.co.jp/articles/c241f1d9dbf6a84a30b4f9c52b40cfe602ef20ab",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "スタンダードチャータード傘下ゾディアカストディで情報流出、顧客・従業員の氏名など",
         "url": "https://news.yahoo.co.jp/articles/ecd12188ccafee3a29907df7ea26b89d888539ac",
         "source": "Yahoo",
@@ -22238,12 +22244,6 @@
       {
         "title": "米ビットコイン準備金法案、下院の審議日程表に登録",
         "url": "https://news.yahoo.co.jp/articles/df98f841d0f4da70a4acb8d1e7bb9b967c2ebb97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ChatGPTで株や暗号資産の売買が可能に──投資家が口座情報と資産を守る方法",
-        "url": "https://news.yahoo.co.jp/articles/20f3058e304d42ba8b317932b37b0745f77de046",
         "source": "Yahoo",
         "date": ""
       }
