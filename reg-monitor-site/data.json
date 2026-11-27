@@ -1,6 +1,112 @@
 {
-  "generatedAt": "2026-11-27T06:25:30.059Z",
+  "generatedAt": "2026-11-27T07:56:29.579Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）ランドピア",
+      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T07:56:29.579Z",
+      "enrichV": 2,
+      "updated": true,
+      "aiSummary": [
+        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
+        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
+        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
+      ],
+      "aiSumV": 3,
+      "enriched": "2026-11-27T07:56:35.917Z"
+    },
+    {
+      "agency": "日本銀行",
+      "title": "【記者会見】田村審議委員（山梨、11月26日分）",
+      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk261127a.pdf",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T07:56:29.579Z",
+      "enriched": "2026-11-27T07:56:35.917Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行審議委員の田村委員は、政策金利を中立金利近辺まで引き上げる必要があり、基本的には数か月に一度0.25％ずつ利上げを行うペースを念頭に置いていると表明した。",
+        "物価上振れリスクが顕在化する確度が高まった場合、まず利上げの頻度を引き上げ、その後も物価が上振れるリスクが残れば利上げ幅を拡大することを検討する方針を示した。",
+        "山梨県経済について、AI関連需要を背景に半導体製造装置などの受注・生産が堅調である一方、原材料・エネルギー価格上昇が企業収益を圧迫しており、持続的な賃上げと経済成長の好循環実現が課題と指摘した。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止等の決定：（株）ＪＰＭＣ",
+      "url": "https://www.jpx.co.jp/news/1023/20261127-11.html",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T07:56:29.579Z",
+      "enriched": "2026-11-27T07:56:35.917Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)JPMCの株式は、特定の者以外の株主の所有する全株式が1株に満たない端数となる割合で株式併合を行う案が株主総会で承認されたため、有価証券上場規程第601条第1項第18号に該当する。",
+        "投資家は、2026年11月27日から12月28日までの整理銘柄指定期間に売却対応を検討する必要があり、同社株式は11月30日から信用取引の委託保証金等の代用有価証券から除外される。",
+        "上場廃止日は2026年12月29日（火）であり、速やかに上場廃止すべき事情が発生した場合は整理銘柄指定期間及び上場廃止日が変更される可能性がある。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止理由及び上場廃止日の変更：（株）さいか屋",
+      "url": "https://www.jpx.co.jp/news/1021/20261127-21.html",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T07:56:29.579Z",
+      "enriched": "2026-11-27T07:56:35.917Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "(株)さいか屋の上場廃止日が2027年3月1日から2026年12月11日に前倒しされ、廃止理由が上場維持基準への不適合から完全子会社化への該当に変更された。",
+        "東証スタンダード市場に上場する同社株式（コード8254）の取引終了は12月11日（金）となり、株式交換により(株)AFC－HDアムスライフサイエンスの完全子会社になる。",
+        "有価証券上場規程第601条第1項第13号（他の会社の完全子会社となる場合）に基づく廃止で、同年12月15日を株式交換効力発生日とする。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]上場廃止に係る猶予期間からの解除：サンケイリアルエステート投資法人",
+      "url": "https://www.jpx.co.jp/news/1021/20261127-18.html",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T07:56:29.579Z",
+      "enriched": "2026-11-27T07:56:36.232Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "サンケイリアルエステート投資法人(REIT、コード2972)が2026年3月1日〜8月31日の計算期間に金銭分配を行ったことが有価証券報告書で確認され、上場廃止猶予期間から解除となった。",
+        "同投資法人が提出した有価証券報告書により金銭分配実績が確認されたことで、東証上場廃止に係る猶予期間からの解除要件(有価証券上場規程第1218条第2項第3号)に該当した。",
+        "2026年11月27日付けで上場廃止猶予期間からの解除が確定し、当該REIT投資証券の上場廃止手続が進行する。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の呼値の単位：Ｏｎｅ ＥＴＦ 円建て社債（コード685A）",
+      "url": "https://www.jpx.co.jp/news/1030/20261127-01.html",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T07:56:29.579Z",
+      "enriched": "2026-11-27T07:56:36.232Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "Ｏｎｅ ＥＴＦ 円建て社債（コード685A）が2026年12月4日に東証に新規上場し、呼値の単位はTOPIX500呼値テーブルが適用される。",
+        "東証会員及び取引参加者は、同銘柄の売買にあたり、TOPIX500構成銘柄に適用される呼値の単位に従って注文発注・執行する必要がある。",
+        "2026年12月4日の新規上場より、本ETFの取引は東京証券取引所で開始され、TOPIX500呼値テーブルが適用される。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]2026年大納会・2027年大発会について",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0061/20261127-01.html",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T07:56:29.579Z",
+      "enriched": "2026-11-27T07:56:36.232Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "東京会場大納会は2026年12月30日午後3時30分～50分、大発会は2027年1月4日午前8時40分～9時に東証アローズで開催し、打鐘ゲストに元スピードスケート日本代表・髙木美帆氏を迎える。",
+        "大阪会場大納会は同年12月30日午後3時30分～50分、大発会は2027年1月4日午前8時30分～9時に大阪証券取引所ビル1階で開催し、関西経済界関係機関および2026年IPO関西圏上場会社を招待する。",
+        "両会場のセレモニーは一般入場を制限し、JPXグループYouTube公式チャンネルでライブ配信（東京大納会は12月30日15時20分頃、大阪大納会は同日15時20分頃、東京大発会は2027年1月4日8時30分頃、大阪大発会は同日8時20分頃開始予定）。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本証券業協会",
       "title": "令和８年 新年のご挨拶を掲載しました",
@@ -840,22 +946,6 @@
         "有価証券上場規程施行規則第604条第1項第24号に基づき、監理銘柄（確認中）指定期間は2026年11月20日から東証が上場廃止基準該当性を認定した日まで。"
       ],
       "aiSumV": 3
-    },
-    {
-      "agency": "日本取引所グループ",
-      "title": "[東証]TOKYO PRO Marketへの上場申請：（株）ＭＡＣオフィス",
-      "url": "https://www.jpx.co.jp/equities/products/tpm/issues/index.html",
-      "date": "2026-11-20",
-      "detectedAt": "2026-11-20T08:18:04.536Z",
-      "enrichV": 2,
-      "updated": true,
-      "aiSummary": [
-        "（株）PRO HOLDINGSがコード594Aで2026年6月19日に新規上場承認を受け、2026年6月30日にTOKYO PRO Marketへ上場予定（担当J-Adviser：フィリップ証券株式会社）。",
-        "上場会社の役員は発行者情報の重要事項に虚偽や欠漏がある場合、金融商品取引法第27条の34で準用される第22条に基づき、有価証券取得者への損害賠償責任を負う（相当な注意の基準あり）。",
-        "TOKYO PRO Marketは特定投資家向け市場であり、上場会社はJ-Adviserを選任し上場適格性要件・適時開示基準を遵守する必要があり、投資者は高いリスク及び取引所規則の枠組みの相違に留意すること。"
-      ],
-      "aiSumV": 3,
-      "enriched": "2026-11-20T08:18:10.879Z"
     },
     {
       "agency": "日本銀行",
@@ -22217,6 +22307,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "ステーブルコイン市場、年初来3.3兆円減──11月はテラ崩壊以来の落ち込み",
+        "url": "https://news.yahoo.co.jp/articles/8bb71d9c8420866047177a4c9b7f82d5717a978c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "香港金融管理局、トークン化債券の発行・決済基盤「CMU DAP」正式稼働。HSBCなど10行参加",
+        "url": "https://news.yahoo.co.jp/articles/1fed11728371080686fb3a0dd11c51205b6a5ca4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イオレのレンディングサービス「らくらくちょコイン」、法人から200BTC借受決定。貸借残高73億円超に",
+        "url": "https://news.yahoo.co.jp/articles/18b2a202b8bc9222a8d9ab945ec17ad250a37d73",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ミッドナイト財団、WEA JAPAN・ネットスターズとMOU。ステーブルコイン決済の協業検討へ",
         "url": "https://news.yahoo.co.jp/articles/3bb07274354f98b504c654d04e4e1e5c15b1e915",
         "source": "Yahoo",
@@ -22231,30 +22339,30 @@
       {
         "title": "バイナンス、63億ドル流出事件に伴う出金停止措置を全面解除",
         "url": "https://news.yahoo.co.jp/articles/458d701e454e21844abb0bab19b0883ae8725d8d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、DeFi規制の論点を具体化",
-        "url": "https://news.yahoo.co.jp/articles/44a3e0a82536b7b8fa113c6377adfff9e04c6f0e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kaia、韓国の金融インフラへの接続目指す。IT企業ヘクトイノベーションとMOU",
-        "url": "https://news.yahoo.co.jp/articles/a35fb32409680e8c682b16a71597a6ea871c64b4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインETFから約8600億円の資金流出でも、専門家が下落時の売却を勧めない理由",
-        "url": "https://news.yahoo.co.jp/articles/b0566b1d91c7cb957b79339c6379f11bf1b70577",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "ステーブルコイン市場、年初来3.3兆円減──11月はテラ崩壊以来の落ち込み",
+        "url": "https://news.yahoo.co.jp/articles/8bb71d9c8420866047177a4c9b7f82d5717a978c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "香港金融管理局、トークン化債券の発行・決済基盤「CMU DAP」正式稼働。HSBCなど10行参加",
+        "url": "https://news.yahoo.co.jp/articles/1fed11728371080686fb3a0dd11c51205b6a5ca4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "イオレのレンディングサービス「らくらくちょコイン」、法人から200BTC借受決定。貸借残高73億円超に",
+        "url": "https://news.yahoo.co.jp/articles/18b2a202b8bc9222a8d9ab945ec17ad250a37d73",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ミッドナイト財団、WEA JAPAN・ネットスターズとMOU。ステーブルコイン決済の協業検討へ",
         "url": "https://news.yahoo.co.jp/articles/3bb07274354f98b504c654d04e4e1e5c15b1e915",
         "source": "Yahoo",
@@ -22269,24 +22377,6 @@
       {
         "title": "バイナンス、63億ドル流出事件に伴う出金停止措置を全面解除",
         "url": "https://news.yahoo.co.jp/articles/458d701e454e21844abb0bab19b0883ae8725d8d",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "金融庁、DeFi規制の論点を具体化",
-        "url": "https://news.yahoo.co.jp/articles/44a3e0a82536b7b8fa113c6377adfff9e04c6f0e",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "Kaia、韓国の金融インフラへの接続目指す。IT企業ヘクトイノベーションとMOU",
-        "url": "https://news.yahoo.co.jp/articles/a35fb32409680e8c682b16a71597a6ea871c64b4",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインETFから約8600億円の資金流出でも、専門家が下落時の売却を勧めない理由",
-        "url": "https://news.yahoo.co.jp/articles/b0566b1d91c7cb957b79339c6379f11bf1b70577",
         "source": "Yahoo",
         "date": ""
       }
@@ -23007,6 +23097,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "ソニー生命、契約者情報から採用リスト、顧客を営業社員に 今月停止",
+        "url": "https://news.yahoo.co.jp/articles/81c8e3aa239e1e1aa41f45fd01826919c2163340",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "これで免許証画像の漏洩問題は「再び起こらない」と国交省 利便性よりも“信頼回復”へ動くかレンタカー業界",
         "url": "https://news.yahoo.co.jp/articles/2dc2d2ca256193a4ce3c980b381df2ec5fa437f9",
         "source": "Yahoo",
@@ -23033,18 +23129,18 @@
       {
         "title": "アリババからAIボイスレコーダー「QwenNote A1」が発売、120言語の音声認識に対応",
         "url": "https://news.yahoo.co.jp/articles/e906027cfc7a146edefda89f8b8fe768ec839a63",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カスハラ対策の「録音・録画」、どう守る？ 現場のジレンマと情報漏洩への処方箋 #エキスパートトピ",
-        "url": "https://news.yahoo.co.jp/expert/articles/6db8f37d02a2ac02411419db81b99e6829db53fe",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "ソニー生命、契約者情報から採用リスト、顧客を営業社員に 今月停止",
+        "url": "https://news.yahoo.co.jp/articles/81c8e3aa239e1e1aa41f45fd01826919c2163340",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "これで免許証画像の漏洩問題は「再び起こらない」と国交省 利便性よりも“信頼回復”へ動くかレンタカー業界",
         "url": "https://news.yahoo.co.jp/articles/2dc2d2ca256193a4ce3c980b381df2ec5fa437f9",
         "source": "Yahoo",
@@ -23071,18 +23167,18 @@
       {
         "title": "アリババからAIボイスレコーダー「QwenNote A1」が発売、120言語の音声認識に対応",
         "url": "https://news.yahoo.co.jp/articles/e906027cfc7a146edefda89f8b8fe768ec839a63",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カスハラ対策の「録音・録画」、どう守る？ 現場のジレンマと情報漏洩への処方箋 #エキスパートトピ",
-        "url": "https://news.yahoo.co.jp/expert/articles/6db8f37d02a2ac02411419db81b99e6829db53fe",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "ソニー生命、契約者情報から採用リスト、顧客を営業社員に 今月停止",
+        "url": "https://news.yahoo.co.jp/articles/81c8e3aa239e1e1aa41f45fd01826919c2163340",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "これで免許証画像の漏洩問題は「再び起こらない」と国交省 利便性よりも“信頼回復”へ動くかレンタカー業界",
         "url": "https://news.yahoo.co.jp/articles/2dc2d2ca256193a4ce3c980b381df2ec5fa437f9",
         "source": "Yahoo",
@@ -23109,12 +23205,6 @@
       {
         "title": "アリババからAIボイスレコーダー「QwenNote A1」が発売、120言語の音声認識に対応",
         "url": "https://news.yahoo.co.jp/articles/e906027cfc7a146edefda89f8b8fe768ec839a63",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "カスハラ対策の「録音・録画」、どう守る？ 現場のジレンマと情報漏洩への処方箋 #エキスパートトピ",
-        "url": "https://news.yahoo.co.jp/expert/articles/6db8f37d02a2ac02411419db81b99e6829db53fe",
         "source": "Yahoo",
         "date": ""
       }
