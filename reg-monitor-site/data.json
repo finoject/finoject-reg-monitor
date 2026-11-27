@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-27T02:22:14.512Z",
+  "generatedAt": "2026-11-27T03:15:03.529Z",
   "items": [
+    {
+      "agency": "日本取引所グループ",
+      "title": "[JPX]臨時決算及び剰余金の配当（中間配当）に関するお知らせ",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/0063/t13vrt000002qhap-att/20261127.pdf",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T03:15:03.529Z",
+      "enriched": "2026-11-27T03:15:09.630Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本取引所グループは2026年9月30日を臨時決算日とし、同日を基準日とする剰余金の中間配当を決議。1株当たり配当金41円00銭、配当金総額41,914百万円を利益剰余金から配当する。",
+        "株主は2026年9月30日を基準日とした中間配当を受け取る権利が発生。配当金は2026年12月1日に効力が生じ、支払手続を通じて受領することになる。",
+        "本配当は会社法に基づく剰余金の配当で、2026年9月30日の臨時決算に基づき決議され、2026年12月1日に効力発生。同配当は10月27日公表分と同額であり、変更なし。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本銀行",
       "title": "【講演】神山理事「デジタルマネーと決済：新たなパラダイムへの移行」（IMF MCM-OAP Seminar in Tokyo）",
@@ -21943,6 +21958,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "ヘッジファンドQRT、20億ドルの暗号資産ファンドを旗艦戦略に統合へ",
+        "url": "https://news.yahoo.co.jp/articles/20a0a2799e0fbcd65a6067e711bece44dd25988e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kaia、韓国の金融インフラへの接続目指す。IT企業ヘクトイノベーションとMOU",
         "url": "https://news.yahoo.co.jp/articles/a35fb32409680e8c682b16a71597a6ea871c64b4",
         "source": "Yahoo",
@@ -21969,18 +21990,18 @@
       {
         "title": "米金融委トップ候補、トランプ氏のミームコイン晩餐会を批判",
         "url": "https://news.yahoo.co.jp/articles/02913dc104aba0820d76b35b0afe38caf812692f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ウクライナ議会、暗号資産市場の合法化法案を可決。2027年7月施行へ",
-        "url": "https://news.yahoo.co.jp/articles/66e48fc3368a2eb0fe222450b0f8540ca40a81c5",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "ヘッジファンドQRT、20億ドルの暗号資産ファンドを旗艦戦略に統合へ",
+        "url": "https://news.yahoo.co.jp/articles/20a0a2799e0fbcd65a6067e711bece44dd25988e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kaia、韓国の金融インフラへの接続目指す。IT企業ヘクトイノベーションとMOU",
         "url": "https://news.yahoo.co.jp/articles/a35fb32409680e8c682b16a71597a6ea871c64b4",
         "source": "Yahoo",
@@ -22007,12 +22028,6 @@
       {
         "title": "米金融委トップ候補、トランプ氏のミームコイン晩餐会を批判",
         "url": "https://news.yahoo.co.jp/articles/02913dc104aba0820d76b35b0afe38caf812692f",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ウクライナ議会、暗号資産市場の合法化法案を可決。2027年7月施行へ",
-        "url": "https://news.yahoo.co.jp/articles/66e48fc3368a2eb0fe222450b0f8540ca40a81c5",
         "source": "Yahoo",
         "date": ""
       }
