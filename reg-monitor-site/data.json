@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-27T03:53:14.579Z",
+  "generatedAt": "2026-11-27T05:24:25.024Z",
   "items": [
+    {
+      "agency": "日本証券業協会",
+      "title": "令和８年 新年のご挨拶を掲載しました",
+      "url": "https://www.jsda.or.jp/houdou/danwa/index.html",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T05:24:25.024Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "NISA制度の利便性向上（つみたて投資枠の対象年齢見直し・対象商品拡充・顧客所在地確認手続廃止）、投資法人の再生可能エネルギー発電設備に係る課税特例延長が令和8年度与党税制改正大綱に盛り込まれた。",
+        "証券業界・資産運用業界は「貯蓄から投資、その先へ」をスローガンに、上場株式相続税評価見直しと損益通算範囲のデリバティブ拡大の実現を目指し関係各方面と連携する。",
+        "資産運用立国実現に向けた税制措置が進められており、証券関係三団体（日本証券業協会・投資信託協会・全国証券取引所協議会）が政府と連携して対応している。"
+      ],
+      "aiSumV": 3,
+      "updated": true,
+      "enriched": "2026-11-27T05:24:29.670Z"
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：ジャパンホームシールド（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20261127_01.html",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T05:24:25.024Z",
+      "enriched": "2026-11-27T05:24:29.670Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "ジャパンホームシールド(株)(コード667A)の上場初日(11月30日)において、板中心値段1,240円から気配運用を開始し、上限2,852円(更新値幅62円・10分間隔)、下限930円(通常値幅・3分間隔)で気配更新する。",
+        "取引参加者は同社初値決定前の売買で成行呼値を禁止され、指値注文に限定し、注文受付価格範囲310円以上4,960円以下で対応する必要がある。",
+        "初値決定まで制限値幅を適用せず、初値決定後に当該初値を基準値段として通常の呼値制限値幅が適用される東証の新規上場銘柄気配運用ルール(東証自主規制)。"
+      ],
+      "aiSumV": 3
+    },
+    {
+      "agency": "日本取引所グループ",
+      "title": "[東証]新規上場日の初値決定前の気配運用について：InfiniCloud（株）",
+      "url": "https://www.jpx.co.jp/news/1031/20261127_02.html",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T05:24:25.024Z",
+      "enriched": "2026-11-27T05:24:29.670Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "InfiniCloud（株）（コード670A）の新規上場日（11月30日）の初値決定前の気配運用について、板中心値段1,700円から開始し、上限3,910円（更新値幅85円・10分）、下限1,275円（更新値幅3分）で段階的に気配を更新する。",
+        "取引参加者は注文受付価格425円以上6,800円以下の範囲で指値注文のみ受け付け、成行呼値を禁止し、初値成立まで制限値幅を適用しない。",
+        "東証の新規上場銘柄の初値形成規則に基づき、11月30日の気配運用から適用され、初値決定後は当該初値を基準として通常の制限値幅が適用される。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "日本取引所グループ",
       "title": "[JPX]臨時決算及び剰余金の配当（中間配当）に関するお知らせ",
@@ -8713,21 +8759,6 @@
         "日本証券業協会等がNISA制度の非課税保有限度額の当年中復活、対象商品の拡充、特定口座間贈与の制限撤廃、デリバティブ取引の損益通算範囲拡大を令和9年度税制改正として要望している。",
         "金融機関はNISA業務の継続実施環境整備、事務手続簡素化への対応が求められ、投資家は損益通算範囲拡大やコーポレートアクション時の課税繰延べ等の税制優遇措置を受け得る見通しである。",
         "令和9年度（2027年度）税制改正での実現を想定し、特定投資家向け銘柄・再生可能エネルギー投資等を対象とした段階的な税制措置が検討対象となっている。"
-      ],
-      "aiSumV": 3
-    },
-    {
-      "agency": "日本証券業協会",
-      "title": "令和８年 新年のご挨拶を掲載しました",
-      "url": "https://www.jsda.or.jp/houdou/danwa/index.html",
-      "date": "2026-09-16",
-      "detectedAt": "2026-09-16T06:42:18.290Z",
-      "enriched": "2026-09-16T06:43:25.721Z",
-      "enrichV": 2,
-      "aiSummary": [
-        "NISA制度の利便性向上（つみたて投資枠の対象年齢見直し・対象商品拡充・顧客所在地確認手続廃止）、投資法人の再生可能エネルギー発電設備に係る課税特例延長が令和8年度与党税制改正大綱に盛り込まれた。",
-        "証券業界・資産運用業界は「貯蓄から投資、その先へ」をスローガンに、上場株式相続税評価見直しと損益通算範囲のデリバティブ拡大の実現を目指し関係各方面と連携する。",
-        "資産運用立国実現に向けた税制措置が進められており、証券関係三団体（日本証券業協会・投資信託協会・全国証券取引所協議会）が政府と連携して対応している。"
       ],
       "aiSumV": 3
     },
@@ -21958,6 +21989,18 @@
     ],
     "429M60000002007": [
       {
+        "title": "スタンダードチャータード傘下ゾディアカストディで情報流出、顧客・従業員の氏名など",
+        "url": "https://news.yahoo.co.jp/articles/ecd12188ccafee3a29907df7ea26b89d888539ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融庁、DeFi規制の論点を具体化",
+        "url": "https://news.yahoo.co.jp/articles/44a3e0a82536b7b8fa113c6377adfff9e04c6f0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヘッジファンドQRT、20億ドルの暗号資産ファンドを旗艦戦略に統合へ",
         "url": "https://news.yahoo.co.jp/articles/20a0a2799e0fbcd65a6067e711bece44dd25988e",
         "source": "Yahoo",
@@ -21978,24 +22021,24 @@
       {
         "title": "ChatGPTで株や暗号資産の売買が可能に──投資家が口座情報と資産を守る方法",
         "url": "https://news.yahoo.co.jp/articles/20f3058e304d42ba8b317932b37b0745f77de046",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日中韓・ASEAN、越境決済の作業部会設置へ──ステーブルコイン規制も視野",
-        "url": "https://news.yahoo.co.jp/articles/6fd422c53ac5a0774d761414e09aeb35983c1b5a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米金融委トップ候補、トランプ氏のミームコイン晩餐会を批判",
-        "url": "https://news.yahoo.co.jp/articles/02913dc104aba0820d76b35b0afe38caf812692f",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "スタンダードチャータード傘下ゾディアカストディで情報流出、顧客・従業員の氏名など",
+        "url": "https://news.yahoo.co.jp/articles/ecd12188ccafee3a29907df7ea26b89d888539ac",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融庁、DeFi規制の論点を具体化",
+        "url": "https://news.yahoo.co.jp/articles/44a3e0a82536b7b8fa113c6377adfff9e04c6f0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "ヘッジファンドQRT、20億ドルの暗号資産ファンドを旗艦戦略に統合へ",
         "url": "https://news.yahoo.co.jp/articles/20a0a2799e0fbcd65a6067e711bece44dd25988e",
         "source": "Yahoo",
@@ -22016,18 +22059,6 @@
       {
         "title": "ChatGPTで株や暗号資産の売買が可能に──投資家が口座情報と資産を守る方法",
         "url": "https://news.yahoo.co.jp/articles/20f3058e304d42ba8b317932b37b0745f77de046",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日中韓・ASEAN、越境決済の作業部会設置へ──ステーブルコイン規制も視野",
-        "url": "https://news.yahoo.co.jp/articles/6fd422c53ac5a0774d761414e09aeb35983c1b5a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米金融委トップ候補、トランプ氏のミームコイン晩餐会を批判",
-        "url": "https://news.yahoo.co.jp/articles/02913dc104aba0820d76b35b0afe38caf812692f",
         "source": "Yahoo",
         "date": ""
       }
@@ -22186,6 +22217,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "レイヤーゼロの新L1「Zero」、サムスンカード・カカオペイ・ZANが初期バリデーターに",
+        "url": "https://news.yahoo.co.jp/articles/a568fc75c6da32797189d4b57e0bb405b7b8d63c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、63億ドル流出事件に伴う出金停止措置を全面解除",
+        "url": "https://news.yahoo.co.jp/articles/458d701e454e21844abb0bab19b0883ae8725d8d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融庁、DeFi規制の論点を具体化",
+        "url": "https://news.yahoo.co.jp/articles/44a3e0a82536b7b8fa113c6377adfff9e04c6f0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kaia、韓国の金融インフラへの接続目指す。IT企業ヘクトイノベーションとMOU",
         "url": "https://news.yahoo.co.jp/articles/a35fb32409680e8c682b16a71597a6ea871c64b4",
         "source": "Yahoo",
@@ -22200,30 +22249,30 @@
       {
         "title": "XRP、11月として過去最大の下落率へ──リップルCEOは大型IPOの影響を指摘【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/6afdbe8936fa86b68b96382145de3b0c693facfa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ビットコイン準備金法案、下院の審議日程表に登録",
-        "url": "https://news.yahoo.co.jp/articles/df98f841d0f4da70a4acb8d1e7bb9b967c2ebb97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ChatGPTで株や暗号資産の売買が可能に──投資家が口座情報と資産を守る方法",
-        "url": "https://news.yahoo.co.jp/articles/20f3058e304d42ba8b317932b37b0745f77de046",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインの反発は続くのか。USDT供給量が示す回復の条件【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1f7b6991b0d0803dc03ee2bc01968ce19dbfbdef",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "レイヤーゼロの新L1「Zero」、サムスンカード・カカオペイ・ZANが初期バリデーターに",
+        "url": "https://news.yahoo.co.jp/articles/a568fc75c6da32797189d4b57e0bb405b7b8d63c",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "バイナンス、63億ドル流出事件に伴う出金停止措置を全面解除",
+        "url": "https://news.yahoo.co.jp/articles/458d701e454e21844abb0bab19b0883ae8725d8d",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "金融庁、DeFi規制の論点を具体化",
+        "url": "https://news.yahoo.co.jp/articles/44a3e0a82536b7b8fa113c6377adfff9e04c6f0e",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "Kaia、韓国の金融インフラへの接続目指す。IT企業ヘクトイノベーションとMOU",
         "url": "https://news.yahoo.co.jp/articles/a35fb32409680e8c682b16a71597a6ea871c64b4",
         "source": "Yahoo",
@@ -22238,24 +22287,6 @@
       {
         "title": "XRP、11月として過去最大の下落率へ──リップルCEOは大型IPOの影響を指摘【価格分析】",
         "url": "https://news.yahoo.co.jp/articles/6afdbe8936fa86b68b96382145de3b0c693facfa",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米ビットコイン準備金法案、下院の審議日程表に登録",
-        "url": "https://news.yahoo.co.jp/articles/df98f841d0f4da70a4acb8d1e7bb9b967c2ebb97",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ChatGPTで株や暗号資産の売買が可能に──投資家が口座情報と資産を守る方法",
-        "url": "https://news.yahoo.co.jp/articles/20f3058e304d42ba8b317932b37b0745f77de046",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ビットコインの反発は続くのか。USDT供給量が示す回復の条件【エックスウィン】",
-        "url": "https://news.yahoo.co.jp/articles/1f7b6991b0d0803dc03ee2bc01968ce19dbfbdef",
         "source": "Yahoo",
         "date": ""
       }
