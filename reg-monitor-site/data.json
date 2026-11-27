@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-27T00:50:51.157Z",
+  "generatedAt": "2026-11-27T02:22:14.512Z",
   "items": [
+    {
+      "agency": "日本銀行",
+      "title": "【講演】神山理事「デジタルマネーと決済：新たなパラダイムへの移行」（IMF MCM-OAP Seminar in Tokyo）",
+      "url": "https://www.boj.or.jp/about/press/koen_2026/ko261127a.htm",
+      "date": "2026-11-27",
+      "detectedAt": "2026-11-27T02:22:14.512Z",
+      "enriched": "2026-11-27T02:22:21.012Z",
+      "enrichV": 2,
+      "aiSummary": [
+        "日本銀行は「DLT連携サンドボックスプロジェクト」を立ち上げ、中央銀行マネーのトークン化可能性を含めDLTがマネーと金融市場インフラに与える意味を検討し、当座預金取引先とサンドボックス環境を構築して実務的・技術的課題に取り組んでいる。",
+        "クロスボーダー決済改善、国内銀行間決済強化、トークン化日本国債の資金決済がプロジェクトの注目ユースケースであり、既存インフラとの効果的接続と市場参加者ニーズ充足の観点から技術評価を実施する必要がある。",
+        "中央銀行が発行するマネーは「信頼のアンカー」として重要な役割を継続し、ステーブルコインなど他形態のマネーについては裏付け資産と中央銀行マネーとのリンク設計において適切な規制が不可欠となる。"
+      ],
+      "aiSumV": 3
+    },
     {
       "agency": "JVCEA",
       "title": "取扱廃止銘柄のお知らせ",
@@ -21928,6 +21943,12 @@
     ],
     "429M60000002007": [
       {
+        "title": "Kaia、韓国の金融インフラへの接続目指す。IT企業ヘクトイノベーションとMOU",
+        "url": "https://news.yahoo.co.jp/articles/a35fb32409680e8c682b16a71597a6ea871c64b4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ビットコイン準備金法案、下院の審議日程表に登録",
         "url": "https://news.yahoo.co.jp/articles/df98f841d0f4da70a4acb8d1e7bb9b967c2ebb97",
         "source": "Yahoo",
@@ -21954,18 +21975,18 @@
       {
         "title": "ウクライナ議会、暗号資産市場の合法化法案を可決。2027年7月施行へ",
         "url": "https://news.yahoo.co.jp/articles/66e48fc3368a2eb0fe222450b0f8540ca40a81c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
-        "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-16": [
       {
+        "title": "Kaia、韓国の金融インフラへの接続目指す。IT企業ヘクトイノベーションとMOU",
+        "url": "https://news.yahoo.co.jp/articles/a35fb32409680e8c682b16a71597a6ea871c64b4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ビットコイン準備金法案、下院の審議日程表に登録",
         "url": "https://news.yahoo.co.jp/articles/df98f841d0f4da70a4acb8d1e7bb9b967c2ebb97",
         "source": "Yahoo",
@@ -21992,12 +22013,6 @@
       {
         "title": "ウクライナ議会、暗号資産市場の合法化法案を可決。2027年7月施行へ",
         "url": "https://news.yahoo.co.jp/articles/66e48fc3368a2eb0fe222450b0f8540ca40a81c5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "米中間選挙で勢力図はどう変わる？ 政治の揺れが生む、オンチェーン化「日本の勝ち筋」｜渡辺創太",
-        "url": "https://news.yahoo.co.jp/articles/f9b1ab0e7a33dd4c12e40239c294658798095c04",
         "source": "Yahoo",
         "date": ""
       }
@@ -22156,6 +22171,24 @@
     ],
     "505M60000002048": [
       {
+        "title": "Kaia、韓国の金融インフラへの接続目指す。IT企業ヘクトイノベーションとMOU",
+        "url": "https://news.yahoo.co.jp/articles/a35fb32409680e8c682b16a71597a6ea871c64b4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコインETFから約8600億円の資金流出でも、専門家が下落時の売却を勧めない理由",
+        "url": "https://news.yahoo.co.jp/articles/b0566b1d91c7cb957b79339c6379f11bf1b70577",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "XRP、11月として過去最大の下落率へ──リップルCEOは大型IPOの影響を指摘【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/6afdbe8936fa86b68b96382145de3b0c693facfa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ビットコイン準備金法案、下院の審議日程表に登録",
         "url": "https://news.yahoo.co.jp/articles/df98f841d0f4da70a4acb8d1e7bb9b967c2ebb97",
         "source": "Yahoo",
@@ -22170,30 +22203,30 @@
       {
         "title": "ビットコインの反発は続くのか。USDT供給量が示す回復の条件【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/1f7b6991b0d0803dc03ee2bc01968ce19dbfbdef",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日中韓・ASEAN、越境決済の作業部会設置へ──ステーブルコイン規制も視野",
-        "url": "https://news.yahoo.co.jp/articles/6fd422c53ac5a0774d761414e09aeb35983c1b5a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国際決済連携で作業部会 ステーブルコイン規制も議論 日中韓ASEAN",
-        "url": "https://news.yahoo.co.jp/articles/98ebaaf6bb6d58db454613d802b78e0823ffcfc3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドコモアジア、ステーブルコイン越境決済の実証に参加。日本発の送金で当日着金",
-        "url": "https://news.yahoo.co.jp/articles/900f8375278b1578903cc2ec1d3b49809927f8e2",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "fsa-guide-17": [
       {
+        "title": "Kaia、韓国の金融インフラへの接続目指す。IT企業ヘクトイノベーションとMOU",
+        "url": "https://news.yahoo.co.jp/articles/a35fb32409680e8c682b16a71597a6ea871c64b4",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "ビットコインETFから約8600億円の資金流出でも、専門家が下落時の売却を勧めない理由",
+        "url": "https://news.yahoo.co.jp/articles/b0566b1d91c7cb957b79339c6379f11bf1b70577",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
+        "title": "XRP、11月として過去最大の下落率へ──リップルCEOは大型IPOの影響を指摘【価格分析】",
+        "url": "https://news.yahoo.co.jp/articles/6afdbe8936fa86b68b96382145de3b0c693facfa",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "米ビットコイン準備金法案、下院の審議日程表に登録",
         "url": "https://news.yahoo.co.jp/articles/df98f841d0f4da70a4acb8d1e7bb9b967c2ebb97",
         "source": "Yahoo",
@@ -22208,24 +22241,6 @@
       {
         "title": "ビットコインの反発は続くのか。USDT供給量が示す回復の条件【エックスウィン】",
         "url": "https://news.yahoo.co.jp/articles/1f7b6991b0d0803dc03ee2bc01968ce19dbfbdef",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "日中韓・ASEAN、越境決済の作業部会設置へ──ステーブルコイン規制も視野",
-        "url": "https://news.yahoo.co.jp/articles/6fd422c53ac5a0774d761414e09aeb35983c1b5a",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "国際決済連携で作業部会 ステーブルコイン規制も議論 日中韓ASEAN",
-        "url": "https://news.yahoo.co.jp/articles/98ebaaf6bb6d58db454613d802b78e0823ffcfc3",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "ドコモアジア、ステーブルコイン越境決済の実証に参加。日本発の送金で当日着金",
-        "url": "https://news.yahoo.co.jp/articles/900f8375278b1578903cc2ec1d3b49809927f8e2",
         "source": "Yahoo",
         "date": ""
       }
@@ -22946,6 +22961,12 @@
     ],
     "415AC0000000057": [
       {
+        "title": "個人情報漏えい、なぜすぐに知らせてくれない？誠実な企業ほど「訴訟リスク高まる」ベネッセ集団訴訟の弁護士が指摘",
+        "url": "https://news.yahoo.co.jp/articles/18f6b0b154b558723a30372bc7e9135e17715ac6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "つくば市 生活保護費返還者の氏名、開示文書で漏えい 「黒塗り」処理不十分",
         "url": "https://news.yahoo.co.jp/articles/46a53111a984f9eda567448d4ffe5d0fc0aca3cc",
         "source": "Yahoo",
@@ -22972,18 +22993,18 @@
       {
         "title": "楽天証券の情報漏洩、新たに性別・国籍など7項目発覚",
         "url": "https://news.yahoo.co.jp/articles/e6f496844e3d41d90da3a19ca073cd55922b75d5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、AI眼鏡での撮影を光や音で知らせる法案",
-        "url": "https://news.yahoo.co.jp/articles/0a69097c81007dcf908c16e1bd25d80144fd79c8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "415CO0000000507": [
       {
+        "title": "個人情報漏えい、なぜすぐに知らせてくれない？誠実な企業ほど「訴訟リスク高まる」ベネッセ集団訴訟の弁護士が指摘",
+        "url": "https://news.yahoo.co.jp/articles/18f6b0b154b558723a30372bc7e9135e17715ac6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "つくば市 生活保護費返還者の氏名、開示文書で漏えい 「黒塗り」処理不十分",
         "url": "https://news.yahoo.co.jp/articles/46a53111a984f9eda567448d4ffe5d0fc0aca3cc",
         "source": "Yahoo",
@@ -23010,18 +23031,18 @@
       {
         "title": "楽天証券の情報漏洩、新たに性別・国籍など7項目発覚",
         "url": "https://news.yahoo.co.jp/articles/e6f496844e3d41d90da3a19ca073cd55922b75d5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、AI眼鏡での撮影を光や音で知らせる法案",
-        "url": "https://news.yahoo.co.jp/articles/0a69097c81007dcf908c16e1bd25d80144fd79c8",
         "source": "Yahoo",
         "date": ""
       }
     ],
     "428M60020000003": [
       {
+        "title": "個人情報漏えい、なぜすぐに知らせてくれない？誠実な企業ほど「訴訟リスク高まる」ベネッセ集団訴訟の弁護士が指摘",
+        "url": "https://news.yahoo.co.jp/articles/18f6b0b154b558723a30372bc7e9135e17715ac6",
+        "source": "Yahoo",
+        "date": ""
+      },
+      {
         "title": "つくば市 生活保護費返還者の氏名、開示文書で漏えい 「黒塗り」処理不十分",
         "url": "https://news.yahoo.co.jp/articles/46a53111a984f9eda567448d4ffe5d0fc0aca3cc",
         "source": "Yahoo",
@@ -23048,12 +23069,6 @@
       {
         "title": "楽天証券の情報漏洩、新たに性別・国籍など7項目発覚",
         "url": "https://news.yahoo.co.jp/articles/e6f496844e3d41d90da3a19ca073cd55922b75d5",
-        "source": "Yahoo",
-        "date": ""
-      },
-      {
-        "title": "韓国、AI眼鏡での撮影を光や音で知らせる法案",
-        "url": "https://news.yahoo.co.jp/articles/0a69097c81007dcf908c16e1bd25d80144fd79c8",
         "source": "Yahoo",
         "date": ""
       }
