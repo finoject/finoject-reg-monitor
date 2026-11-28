@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T06:59:24.210Z",
+  "generatedAt": "2026-11-28T08:30:35.474Z",
   "items": [
     {
       "agency": "金融庁",
@@ -15,6 +15,76 @@
         "問合せは企画市場局信用課（電話0570-016811または03-5251-6811）で受け付け、平日10時～17時対応。"
       ],
       "aiSumV": 3
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "FRB・Consumer Financial Protection Bureau",
+      "title": "Truth in Lending (Regulation Z)",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24346/truth-in-lending-regulation-z",
+      "date": "2026-11-30",
+      "region": "overseas",
+      "docType": "Rule",
+      "docNumber": "2026-24346",
+      "commentsCloseOn": "",
+      "detectedAt": "2026-11-28T08:30:35.474Z",
+      "enriched": "2026-11-28T08:30:40.448Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "FRB・Consumer Financial Protection Bureau",
+      "title": "Consumer Leasing (Regulation M)",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24345/consumer-leasing-regulation-m",
+      "date": "2026-11-30",
+      "region": "overseas",
+      "docType": "Rule",
+      "docNumber": "2026-24345",
+      "commentsCloseOn": "",
+      "detectedAt": "2026-11-28T08:30:35.474Z",
+      "enriched": "2026-11-28T08:30:40.448Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "OCC・FRB・Consumer Financial Protection Bureau",
+      "title": "Appraisals for Higher-Priced Mortgage Loans Exemption Threshold",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24344/appraisals-for-higher-priced-mortgage-loans-exemption-threshold",
+      "date": "2026-11-30",
+      "region": "overseas",
+      "docType": "Rule",
+      "docNumber": "2026-24344",
+      "commentsCloseOn": "",
+      "detectedAt": "2026-11-28T08:30:35.474Z",
+      "enriched": "2026-11-28T08:30:40.448Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "FDIC",
+      "title": "Large-Bank Deposit Insurance Determination Modernization; Extension of Comment Period",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24242/large-bank-deposit-insurance-determination-modernization-extension-of-comment-period",
+      "date": "2026-11-30",
+      "region": "overseas",
+      "docType": "Proposed Rule",
+      "docNumber": "2026-24242",
+      "commentsCloseOn": "2027-02-03",
+      "detectedAt": "2026-11-28T08:30:35.474Z",
+      "enriched": "2026-11-28T08:30:40.448Z",
+      "enrichV": 2
+    },
+    {
+      "agency": "米国連邦官報",
+      "issuer": "CFTC",
+      "title": "Data Reporting Requirements for Certain Event Contracts",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24209/data-reporting-requirements-for-certain-event-contracts",
+      "date": "2026-11-30",
+      "region": "overseas",
+      "docType": "Rule",
+      "docNumber": "2026-24209",
+      "commentsCloseOn": "",
+      "detectedAt": "2026-11-28T08:30:35.474Z",
+      "enriched": "2026-11-28T08:30:40.448Z",
+      "enrichV": 2
     },
     {
       "agency": "金融庁",
